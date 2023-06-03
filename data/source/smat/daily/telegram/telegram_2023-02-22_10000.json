@@ -1,0 +1,1243 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [40],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [12.6865],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5197635942625617895",
+        "_score": 12.6865,
+        "_source": {
+          "archivedon": "2023-02-28 20:02:00.752253",
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "date": 1677095787,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 135,
+              "offset": 83,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Rep. Eric Swalwell wants to ban Trump from the Capitol; Trump calls him an 'idiot'\nhttps://www.washingtontimes.com/news/2023/feb/22/eric-swalwell-wants-ban-trump-capitol-trump-calls-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "channel_id": 1210168922,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 155,
+          "lastseents": "2023-03-17T04:45:53.487614",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6188301163406823096",
+        "_score": 12.5023,
+        "_source": {
+          "archivedon": "2023-03-04 16:26:55.723453",
+          "channelabout": "https://keithwoods.carrd.co/",
+          "channeltitle": "Keith Woods",
+          "channelusername": "keith_woods",
+          "date": 1677108245,
+          "editdate": 1677108309,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 24,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/RZFApIBGQAg"
+            }
+          ],
+          "forwards": 259,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Weinstein mentions Leather Apron Club on Joe Rogan's podcast",
+          "peerid": {
+            "channel_id": 1440826143,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 28723,
+          "lastseents": "2023-03-17T05:18:39.628401",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6753280299896970021",
+        "_score": 12.5023,
+        "_source": {
+          "archivedon": "2023-03-01 09:52:32.471404",
+          "channeltitle": "Hitler Was A Rothschild",
+          "date": 1677108547,
+          "editdate": 1677109786,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 24,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/RZFApIBGQAg"
+            }
+          ],
+          "forwards": 257,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1259057108
+          },
+          "fwdfrom": {
+            "channel_post": 3768,
+            "date": 1677108245,
+            "from_id": {
+              "channel_id": 1440826143,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Weinstein mentions Leather Apron Club on Joe Rogan's podcast",
+          "peerid": {
+            "channel_id": 1572370599,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 66199
+          },
+          "silent": false,
+          "v": 1,
+          "views": 26330,
+          "lastseents": "2023-03-17T05:04:02.752552",
+          "userinfo": {
+            "_id": 1259057108,
+            "_v": 1,
+            "access_hash": -3.42208243399895e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Blue",
+            "id": 1259057108,
+            "is_self": false,
+            "last_name": "Ranger",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6347407316354162728",
+        "_score": 12.2405,
+        "_source": {
+          "archivedon": "2023-02-28 20:54:15.761902",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1677108541,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 157,
+              "offset": 80,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 239,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 250,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 250,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "NYC Mayor Eric Adams begs Gov. Hochul to crack down on illegal pot shops\n\nRead: https://www.dailymail.co.uk/news/article-11781421/NYC-Mayor-Eric-Adams-begs-Gov-Hochul-crack-illegal-pot-shops.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 73,
+          "lastseents": "2023-03-17T04:46:04.129060",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6041468725616462334",
+        "_score": 11.933,
+        "_source": {
+          "archivedon": "2023-03-01 00:20:12.157347",
+          "channelabout": "\"Trump Card\" is an exposé of the socialism, corruption, and gangsterization that now define the Democratic Party. \nAvailable on DVD and VOD now.\ndineshdsouza.com/trumpcard",
+          "channeltitle": "Dinesh D’Souza",
+          "channelusername": "Dinesh_DSouza",
+          "date": 1677024737,
+          "editdate": 1677024740,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 16,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "This is insane!\nhttps://dcenquirer.com/eric-swalwell-nancy-pelosi-campaign-funds-spending/?utm_source=89381",
+          "peerid": {
+            "channel_id": 1406639052,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1504716111,
+            "comments": true,
+            "max_id": 355575,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1660658153
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1531453314
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1530928243
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 9,
+            "replies_pts": 495031
+          },
+          "silent": false,
+          "v": 1,
+          "views": 5727,
+          "lastseents": "2023-03-17T04:46:23.696722",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5354447101273403988",
+        "_score": 11.632,
+        "_source": {
+          "archivedon": "2023-03-01 07:58:46.556583",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1677101153,
+          "editdate": 1677101156,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 112,
+              "offset": 237,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1741,
+            "date": 1677101150,
+            "from_id": {
+              "channel_id": 1285432333,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Liz Crokin",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "REPORT: Hunter Biden’s top financial lieutenant Eric Schwerin is expected to “soon” provide documents to the House Oversight Committee’s investigation of the Biden family for nine violations, including money laundering and wire fraud. \n\nhttps://www.breitbart.com/politics/2023/02/22/biden-family-key-partner-eric-schwerin-flip-house-oversight-probe/",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1122690
+          },
+          "silent": false,
+          "v": 1,
+          "views": 43,
+          "lastseents": "2023-03-17T05:00:54.114279",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6282626041160715686",
+        "_score": 11.632,
+        "_source": {
+          "archivedon": "1681721494",
+          "channelabout": "Real History, Inspiration, Health, Exposing Evil, The Word of God, Current events, Warriors Prayer 🔥⚔🔥",
+          "channeltitle": "Punisher Briefings",
+          "channelusername": "PunisherBriefings",
+          "date": 1677107534,
+          "editdate": 1677107596,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 112,
+              "offset": 237,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1741,
+            "date": 1677101150,
+            "from_id": {
+              "channel_id": 1285432333,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Liz Crokin",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "message": "REPORT: Hunter Biden’s top financial lieutenant Eric Schwerin is expected to “soon” provide documents to the House Oversight Committee’s investigation of the Biden family for nine violations, including money laundering and wire fraud. \n\nhttps://www.breitbart.com/politics/2023/02/22/biden-family-key-partner-eric-schwerin-flip-house-oversight-probe/",
+          "peerid": {
+            "channel_id": 1462787865,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Stopped Ago",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1214146098,
+            "comments": true,
+            "max_id": 1551264,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1588904614
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 2382389
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1070,
+          "lastseents": "2023-04-17T09:02:09.183283",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 52646,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Wendell Husebø",
+              "description": "Hunter Biden's top financial lieutenant Eric Schwerin is expected to \"soon\" provide documents to the House Oversight Committee's investigation of the Biden family for nine violations, including money laundering and wire fraud, a spokesperson for the committee told Breitbart News.",
+              "display_url": "breitbart.com/politics/2023/02/22/biden-family-key-partner-eric-schwerin-flip-house-oversight-probe",
+              "hash": -462220219,
+              "id": 3.14836349140944e+18,
+              "photo": {
+                "access_hash": 7.67549203965732e+16,
+                "date": 1673542994,
+                "dc_id": 4,
+                "file_reference": "AGQ9A3qtjTaOYaxMg+SqijWHtqB+",
+                "has_stickers": false,
+                "id": 5.91001424259198e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUoyV+8KtWqKxbd6VVXqKtWzDZPGepUsp9CKVrjvYuxwRm1345z1/Os+SEeW8m7nd0p7TstsFDHLGmnDWuM8h6SQNkGBiim+1FMBy/eFKCVZsH1H58UUU0Jit/q0+hpB9wiiimhDG60UUUhnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 167,
+                    "size": 11047,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 335,
+                    "w": 640,
+                    "sizes": [4236, 9141, 13127, 18872, 30934]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Breitbart",
+              "title": "Biden Family Key Partner Eric Schwerin to Flip in House Oversight Probe",
+              "type": "photo",
+              "url": "https://www.breitbart.com/politics/2023/02/22/biden-family-key-partner-eric-schwerin-flip-house-oversight-probe/"
+            }
+          },
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 21,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6086674381688649690",
+        "_score": 11.2961,
+        "_source": {
+          "archivedon": "2023-03-04 16:21:41.534234",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1677090893,
+          "editdate": 1677090897,
+          "edithide": true,
+          "entities": [],
+          "forwards": 14,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Weinstein \"We May Be Faking a UFO Situation...\" - Skepticism Over Current State of UFO's      JRE 2/22/2023",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1384264
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2981,
+          "lastseents": "2023-03-17T05:18:48.228491",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4599600813680131112",
+        "_score": 10.319,
+        "_source": {
+          "archivedon": "2023-02-27 02:59:01.530741",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1677026771,
+          "editdate": 1677026994,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 162,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "A community prayer ceremony is currently ongoing for officers of the 66 Precinct in memory of Police officer Adeed Fayaz. Mayor Eric Adams is expected to attend.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 119738
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1139,
+          "lastseents": "2023-03-17T04:40:41.802440",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5146429555816299215",
+        "_score": 10.319,
+        "_source": {
+          "archivedon": "1684095125",
+          "channelabout": "Digital Soldiers fighting against the mainstream media so the truth will prevail!",
+          "channeltitle": "Q+Anon Map 🍊🇺🇸",
+          "channelusername": "QAnonMap",
+          "date": 1677028532,
+          "editdate": 1677031874,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 177,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 177,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2023/02/breaking-sht-just-riddled-bugs-fox-news-filing-shows-dominion-knew-voting-systems-major-security-issues/"
+            },
+            {
+              "length": 7,
+              "offset": 177,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 66338,
+            "date": 1677025943,
+            "from_id": {
+              "channel_id": 1205299143,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "PatriotAU",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "message": "HUGE: FOX News Filing Shows DOMINION Voting Systems Executives Including Eric Coomer Knew Its Voting Systems Had Major Security Issues, Was Hacked, and Was “Riddled with Bugs”\n\nArticle",
+          "peerid": {
+            "channel_id": 1198246506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1484,
+          "lastseents": "2023-05-14T20:12:06.463320",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 31439,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 27,
+                "reaction": "💯",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "collected_by": "crawler",
+          "mediaref": "9d13114de631b230323d3d3e8c30fdee38f23db9",
+          "url": "t.me/QAnonMap/31439"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6395918709969434589",
+        "_score": 9.3503,
+        "_source": {
+          "archivedon": "2023-03-01 02:33:06.554955",
+          "channelabout": "An unofficial channel of the Epoch Times, an independent, award-winning voice in print & online integrity & truthfulness in reporting.",
+          "channeltitle": "Epoch Times",
+          "channelusername": "EpochTimesChannel",
+          "date": 1677026590,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 3,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 11,
+              "offset": 44,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 145,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 23,
+              "offset": 213,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 237,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "RT @ShenYunCreation: \"It’s impeccable, it’s #perfection,\" said deputy director Eric Guilbaud. \"I think that this kind of show does contribute to #fulfillment. We’re going to come out better than when we came in.\" https://t.co/xH2sSSi5Si https://t.co/pka69Tetup",
+          "peerid": {
+            "channel_id": 1489165870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 75,
+          "lastseents": "2023-03-17T04:47:12.325409",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5031147715854876057",
+        "_score": 8.9736,
+        "_source": {
+          "archivedon": "2023-03-01 07:51:19.154357",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "date": 1677028398,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 79,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 182,
+              "offset": 79,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1579622920
+          },
+          "fwdfrom": {
+            "channel_post": 523,
+            "date": 1677028387,
+            "from_id": {
+              "channel_id": 1174484903,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Robert Crosby",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "There are more inept people like this jerk than I can count.\n\nTreasonous SOB.\n\nhttps://worthypolitics.com/caught-red-handed-where-is-the-fbi-on-this-just-in-rep-eric-swalwell-had-spent-over-550000-in-campaign-funds-on-luxurious-lifestyle-more-than-nancy-pelosi/",
+          "peerid": {
+            "channel_id": 1171405361,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 922952
+          },
+          "silent": false,
+          "v": 1,
+          "views": 155,
+          "lastseents": "2023-03-17T05:00:20.202983",
+          "userinfo": {
+            "_id": 1579622920,
+            "_v": 1,
+            "access_hash": 8.06505348023941e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Robert",
+            "id": 1579622920,
+            "is_self": false,
+            "last_name": "Crosby",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 270589,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088000432
+              },
+              "photo_id": 6.05084226026797e+18,
+              "photo_small": {
+                "local_id": 270587,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088000432
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "robert_crosby4",
+            "verified": false,
+            "_media_ref": "71bf9ee6c65d8941a7bc9aecebb5901444f6b68a"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5125512893286063953",
+        "_score": 8.9736,
+        "_source": {
+          "archivedon": "2023-03-01 07:57:17.948829",
+          "channelabout": "Real-time News From Patriots!   Share Knowledge, Gain Wisdom, Find Truth!  In God We Trust!  The Best Is Yet To Come!  \n\nProud Member of the Patriot Map Family.  Click here for Patriot Channels and Groups:\n\nbit.ly/PatriotMap",
+          "channeltitle": "The General Store",
+          "channelusername": "TheGeneralStore",
+          "date": 1677028400,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 79,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 182,
+              "offset": 79,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1579622920
+          },
+          "fwdfrom": {
+            "channel_post": 523,
+            "date": 1677028387,
+            "from_id": {
+              "channel_id": 1174484903,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Robert Crosby",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "There are more inept people like this jerk than I can count.\n\nTreasonous SOB.\n\nhttps://worthypolitics.com/caught-red-handed-where-is-the-fbi-on-this-just-in-rep-eric-swalwell-had-spent-over-550000-in-campaign-funds-on-luxurious-lifestyle-more-than-nancy-pelosi/",
+          "peerid": {
+            "channel_id": 1193376466,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 9782
+          },
+          "silent": false,
+          "v": 1,
+          "views": 155,
+          "lastseents": "2023-03-17T05:00:49.678372",
+          "userinfo": {
+            "_id": 1579622920,
+            "_v": 1,
+            "access_hash": 8.06505348023941e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Robert",
+            "id": 1579622920,
+            "is_self": false,
+            "last_name": "Crosby",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 270589,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088000432
+              },
+              "photo_id": 6.05084226026797e+18,
+              "photo_small": {
+                "local_id": 270587,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088000432
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "robert_crosby4",
+            "verified": false,
+            "_media_ref": "71bf9ee6c65d8941a7bc9aecebb5901444f6b68a"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5811551549939848166",
+        "_score": 2.4659,
+        "_source": {
+          "archivedon": "2023-03-01 07:32:29.830208",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1677053684,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1677008556,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1926801217
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "US-Streitkräfte in Guantanamo Bay haben am Montag ein französisches A400M-Militärtransportflugzeug abgeschossen, als es die Air Defense Identification Zone (ADIZ) der Station durchbrach, ohne auf Funksprüche zu reagieren, sagte eine Quelle im Büro von General Eric M. Smith gegenüber Real Raw News.\n\nDie A400M ähnelt der amerikanischen C-130, da es sich um ein Quad-Turbo-Flugzeug handelt, das viele Truppen oder militärische Ausrüstung transportieren kann. Der von Airbus Military entworfene A400M ist ein taktischer Lufttransporter, der in der Größe zwischen dem C-130 und dem Boeing C-17 Globemaster III liegt; Es kann schwerere Lasten tragen als die C-130 und kann raue Landebahnen verwenden.\n\nUm 14:00 Uhr entdeckten Fluglotsen auf dem Flugplatz Leeward Point und Radaroperatoren an Bord eines Zerstörers der Arleigh-Burke-Klasse, der zum Schutz von Guantanamo Bay eingesetzt wurde, ein unbekanntes Flugzeug 50 Meilen südlich der Basis. Sie waren zunächst nicht in der Lage, die Höhe und Fluggeschwindigkeit des Bogeys zu bestimmen, was bedeutet, dass die Piloten den Transponder des Flugzeugs und ADS-B, elektronische Geräte, die eine Antwort erzeugen, wenn sie eine Funkfrequenzabfrage erhalten, deaktiviert hatten. ADS-B ist eine Technologie, mit der ein Flugzeug seine Position über Satellitennavigation oder andere Sensoren bestimmt und periodisch aussendet, wodurch es verfolgt werden kann.\n\nATC und der Zerstörer bestimmten jedoch schnell den Ursprungspunkt des Bogeys; Es war vom Flughafen Mariscal Sucre gestartet, einem Militär- und Zivilflugplatz im Bundesstaat Aragua in Venezuela.\n\n„Ein kommerzieller Flug würde seine Elektronik nicht deaktivieren. Und die Wahrscheinlichkeit, dass sowohl ein Transponder als auch ADS-B gleichzeitig kaputt gehen, ist verschwindend gering. Es war sehr verdächtig und weckte Erinnerungen an den Angriff auf GITMO am Weihnachtstag“, sagte unsere Quelle.\n\nGITMO ging zu Kampfstationen, als das Flugzeug eine 25-Meilen-Schwelle überquerte, und der Kapitän des Zerstörers befahl seinem Waffenoffizier, die RIM-66-Boden-Luft-Raketen des Schiffes für einen möglichen Einsatz vorzubereiten.\n\nAls das Bogey eine 20-Meilen-Grenze durchdrang, stellte die Besatzung der Arleigh Burke irgendwie fest, dass es sich um eine A400M handelte, die mit 250 Knoten und einer Höhe von 2500 Fuß flog, weit unterhalb der etablierten kommerziellen Flugrouten.\n\nDie Entscheidung, auf das eindringende Flugzeug zu schießen, fiel schließlich auf Brigadegeneral Lance A. Okamura, den ranghöchsten Offizier der GITMO, der für Militäroperationen verantwortlich ist. Er wies den Kommandanten der Arleigh Burke an, die A400M abzuschießen. Sekunden später traf eine einzelne Rakete den Rumpf des Flugzeugs. Ein purpurroter Feuerball erhellte den Himmel, während Trümmer auf das Karibische Meer regneten.\n\nDer Zerstörer bewegte sich sofort mit Flankengeschwindigkeit auf das Trümmerfeld zu und setzte einen MH-60R Seahawk-Hubschrauber ein, um das Gebiet vor seiner Ankunft zu untersuchen. Der Hubschrauber berichtete, Sitzkissen, Körperteile und Körper gesehen zu haben, die inmitten eines entstehenden Ölteppichs trieben.\n\nUnsere Quelle sagte, dass die Crew der Arleigh Burke 16 tote, intakte Körper aus dem Wasser geholt hat. Schwerere Trümmer, darunter die Triebwerke des Flugzeugs und der größte Teil seines Rumpfs, waren gesunken, als Arleigh Burke auf der Station ankam. Unsere Quelle sagte, dass es sich bei den durchnässten Leichen um uniformierte Soldaten handelte, die die Insignien der französischen Fremdenlegion trugen, einem Korps der französischen Armee, das mehrere Spezialgebiete umfasste: Infanterie, Kavallerie, Ingenieure und Luftlandetruppen. Es wurde 1831 gegründet, um Ausländern den Eintritt in die französische Armee zu ermöglichen.\n\n„So wie es aussieht, hat das Regime Macron davon überzeugt, die Fremdenlegion als Mittel des Deep State einzusetzen. Die Wiederherstellungsbemühungen sind im Gange. Die geborgenen Leichen hatten alle Fallschirme. Wir glauben, dass dies ein Überfall sein sollte“, sagte unsere Quelle.",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 8,
+          "lastseents": "2023-03-17T04:58:37.128850",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

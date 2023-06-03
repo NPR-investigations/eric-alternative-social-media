@@ -1,0 +1,1863 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [61],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [18],
+      "relation": ["eq"]
+    },
+    "max_score": [12.4961],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5361172414468384740",
+        "_score": 12.4961,
+        "_source": {
+          "archivedon": "2022-11-15 20:24:11.751121",
+          "channelabout": "The Official @PearFEED Discussion Group Chat",
+          "channeltitle": "PearFEED Chat",
+          "date": 1668376240,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Hey there Eric, and welcome to PearFEED Chat! How are you?",
+          "peerid": {
+            "channel_id": 1248245224,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 280553
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6347407316354143976",
+        "_score": 11.8305,
+        "_source": {
+          "archivedon": "2022-11-15 20:26:14.122418",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "date": 1668367759,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 92,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 171,
+              "offset": 100,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 273,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 284,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 284,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Ivanka, Don Jr. and Eric all post sweet pics from sister Tiffany's lavish Mar-a-Lago wedding\n\nRead: https://www.dailymail.co.uk/news/article-11423217/Ivanka-Don-Jr-Eric-post-sweet-pics-sister-Tiffanys-lavish-Mar-Lago-wedding.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 118,
+          "channelusername": "DailyMaiI"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6094192163596042817",
+        "_score": 11.7233,
+        "_source": {
+          "archivedon": "2022-11-14 17:36:27.674538",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1668305703,
+          "editdate": 1668307414,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1503615219
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Tiffany looked absolutely gorgeous you all scrubbed up very nicely Baron is as tall as Eric",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1868240
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1503615219,
+            "_v": 1,
+            "access_hash": 8.51349967979962e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Karen",
+            "id": 1503615219,
+            "is_self": false,
+            "last_name": "D",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 79642,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500079500039
+              },
+              "photo_id": 6.33251075102511e+18,
+              "photo_small": {
+                "local_id": 79640,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500079500039
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "kazzaj",
+            "verified": false,
+            "_media_ref": "80bea9cd6e3bd3d2f380a654e823f647aad53470"
+          },
+          "v": 1,
+          "channelusername": "QStorm1111"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6094192163596042776",
+        "_score": 10.2336,
+        "_source": {
+          "archivedon": "2022-11-14 17:36:28.552908",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1668302776,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1514439861
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Awweee... what a lovely family!!\n\nEric and Baron are the same height!! \n\nTiffany looks different to me. \n\nBut maybe just me. .. \n\nThanks for sharing, John !!\nMade me smile!!",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1868240
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1514439861,
+            "_v": 1,
+            "access_hash": -5.90577725408041e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "NC",
+            "id": 1514439861,
+            "is_self": false,
+            "last_name": "Tresna",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "QStorm1111"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5811551549939786325",
+        "_score": 9.3624,
+        "_source": {
+          "archivedon": "2022-11-16 02:22:20.981634",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "date": 1668325048,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 49,
+              "offset": 104,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 239,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 268,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 302,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3396,
+            "date": 1667496608,
+            "from_id": {
+              "channel_id": 1375147150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "T.G",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://youtu.be/6Z06v9IqGAQ\nFrom Psychoanalysis to Vegetotherapy Part 4\n  10.06.2011\n(E)D Untertitel\n\n\nVon der Psychoanalyse zur Vegetotherapie Teil 4\n\ndrsimonianisch\n\nMit Rednern: Dr. Phillip Bennett, Dr. Eric Weitzner, Dr. Harry Lewis. www.psychorgone.com\n\n\n\nKanal:t.me/TeslaSchaubergerReich\nGruppe:t.me/pzumkaiserreichtesla",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 8,
+          "channelusername": "Wahrheit2020"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5811551549939786349",
+        "_score": 9.3624,
+        "_source": {
+          "archivedon": "2022-11-16 02:22:21.04636",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "date": 1668325050,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 63,
+              "offset": 104,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 239,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 268,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 302,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3421,
+            "date": 1667930385,
+            "from_id": {
+              "channel_id": 1375147150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "T.G",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://youtu.be/uo_6kyWUB80\nFrom Psychoanalysis to Vegetotherapy Part 5\n  10.06.2011\n(E)D Untertitel\n\n\nVon der Psychoanalyse zur Vegetotherapie Teil 5\n\ndrsimonianisch\n\nMit Rednern: Dr. Phillip Bennett, Dr. Eric Weitzner, Dr. Harry Lewis. www.psychorgone.com\n\n\n\nKanal:t.me/TeslaSchaubergerReich\nGruppe:t.me/pzumkaiserreichtesla",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 8,
+          "channelusername": "Wahrheit2020"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6307251128778433574",
+        "_score": 8.9458,
+        "_source": {
+          "archivedon": "1682746087",
+          "channelabout": "",
+          "channeltitle": "Thüringen steht auf! (Öffentlicher Talk)",
+          "date": 1668337189,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 46,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/WelleZweite/status/1591746779456098304"
+            },
+            {
+              "length": 3,
+              "offset": 51,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/ZweiteDeutscheWelle/posts/109336119341760169"
+            },
+            {
+              "length": 19,
+              "offset": 57,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://odysee.com/@ZweiteDeutscheWelle/MASSENPSYCHOSE"
+            },
+            {
+              "length": 15,
+              "offset": 166,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=dRaC7_WNI40"
+            },
+            {
+              "length": 2,
+              "offset": 182,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tichyseinblick.de/interviews/psychiater-raphael-bonelli-corona-kollektive-zwangsneurose/"
+            },
+            {
+              "length": 14,
+              "offset": 189,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.wallstreet-online.de/video/15600584-psychologie-corona-massenpsychose-massenformation-interview-m-desmet"
+            },
+            {
+              "length": 2,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.rubikon.news/artikel/die-massenpsychose-2"
+            },
+            {
+              "length": 17,
+              "offset": 219,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=hbCKc1hzFUA"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=QyZroGbKbug"
+            },
+            {
+              "length": 14,
+              "offset": 269,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.achgut.com/artikel/die_anmassung_der_wirklichkeitsverweigerung"
+            },
+            {
+              "length": 12,
+              "offset": 291,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.derstandard.de/story/2000132818616/eric-clapton-wirft-youtube-massenhypnose-vor-in-einem-youtube-interview"
+            }
+          ],
+          "forwards": 50,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 95047350
+          },
+          "fwdfrom": {
+            "channel_post": 13672,
+            "date": 1668337071,
+            "from_id": {
+              "channel_id": 1269828868,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "document": {
+              "access_hash": -2.08522829830877e+18,
+              "attributes": [
+                {
+                  "duration": 1165,
+                  "h": 480,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 854
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "MASSENPSYCHOSE_edit.mp4"
+                }
+              ],
+              "date": 1668337071,
+              "dc_id": 2,
+              "file_reference": "AleH23wABSQmZEyqkNRdJu6KMxCcqV1qendU2b0=",
+              "id": 5.44262447207705e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 49240076,
+              "thumbs": [
+                {
+                  "bytes": "ARYo0IyAwJxk8LT5WIjJU4YDNVyJIgCMED7o6mk8xmUJ3Kkc98UAWQSEXnPHWjPufzoU7okYcjHajkev4igB6HJopith9ox1ooArNu8raD360RkuVY/eTIyO+RRRTe4lsP05mMbhjnDVPOSqMR0xRRSQPYpxxsJIWYg5bNFFFAw=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 25797,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument"
+          },
+          "message": "🧠  Psychologie von Corona - Massenpsychose  (Tw., Gab)\n\nDeutsche Version 🎬 des Beitrages der Londoner Academy of Ideas.\n\nWeitere Beiträge zum Thema mit Psychologen Raphael Bonelli 🗞 und Mattias Desmet 🗞, Psychiater Hans-Joachim Maaz, Publizist Milosz Matuschek und Fabian Nicolay, sowie Eric Clapton",
+          "peerid": {
+            "channel_id": 1468521340,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 525500
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.08449975065194e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mic_",
+            "id": 95047350,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.08225260277705e+17,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgImkuneVCqsFUnIz1ooooA"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Mic_a",
+            "verified": false,
+            "archivedon": 1682746087,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "views": 2836,
+          "channelusername": "thueringer_widerstand_chat",
+          "collected_by": "crawler",
+          "id": 336934,
+          "noforwards": false,
+          "url": "t.me/thueringer_widerstand_chat/336934",
+          "lastseents": "2023-04-29T05:28:07.491138"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5137937043967580065",
+        "_score": 8.9458,
+        "_source": {
+          "archivedon": "1682667808",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "date": 1668337189,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 46,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/WelleZweite/status/1591746779456098304"
+            },
+            {
+              "length": 3,
+              "offset": 51,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/ZweiteDeutscheWelle/posts/109336119341760169"
+            },
+            {
+              "length": 19,
+              "offset": 57,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://odysee.com/@ZweiteDeutscheWelle/MASSENPSYCHOSE"
+            },
+            {
+              "length": 15,
+              "offset": 166,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=dRaC7_WNI40"
+            },
+            {
+              "length": 2,
+              "offset": 182,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tichyseinblick.de/interviews/psychiater-raphael-bonelli-corona-kollektive-zwangsneurose/"
+            },
+            {
+              "length": 14,
+              "offset": 189,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.wallstreet-online.de/video/15600584-psychologie-corona-massenpsychose-massenformation-interview-m-desmet"
+            },
+            {
+              "length": 2,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.rubikon.news/artikel/die-massenpsychose-2"
+            },
+            {
+              "length": 17,
+              "offset": 219,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=hbCKc1hzFUA"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=QyZroGbKbug"
+            },
+            {
+              "length": 14,
+              "offset": 269,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.achgut.com/artikel/die_anmassung_der_wirklichkeitsverweigerung"
+            },
+            {
+              "length": 12,
+              "offset": 291,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.derstandard.de/story/2000132818616/eric-clapton-wirft-youtube-massenhypnose-vor-in-einem-youtube-interview"
+            }
+          ],
+          "forwards": 50,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 95047350
+          },
+          "fwdfrom": {
+            "channel_post": 13672,
+            "date": 1668337071,
+            "from_id": {
+              "channel_id": 1269828868,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "document": {
+              "access_hash": -2.08522829830877e+18,
+              "attributes": [
+                {
+                  "duration": 1165,
+                  "h": 480,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 854
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "MASSENPSYCHOSE_edit.mp4"
+                }
+              ],
+              "date": 1668337071,
+              "dc_id": 2,
+              "file_reference": "AkdNnoUAAhehZEt4xiCWfhuOBOjdeaClZ4k0obI=",
+              "id": 5.44262447207705e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 49240076,
+              "thumbs": [
+                {
+                  "bytes": "ARYo0IyAwJxk8LT5WIjJU4YDNVyJIgCMED7o6mk8xmUJ3Kkc98UAWQSEXnPHWjPufzoU7okYcjHajkev4igB6HJopith9ox1ooArNu8raD360RkuVY/eTIyO+RRRTe4lsP05mMbhjnDVPOSqMR0xRRSQPYpxxsJIWYg5bNFFFAw=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 25797,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument"
+          },
+          "message": "🧠  Psychologie von Corona - Massenpsychose  (Tw., Gab)\n\nDeutsche Version 🎬 des Beitrages der Londoner Academy of Ideas.\n\nWeitere Beiträge zum Thema mit Psychologen Raphael Bonelli 🗞 und Mattias Desmet 🗞, Psychiater Hans-Joachim Maaz, Publizist Milosz Matuschek und Fabian Nicolay, sowie Eric Clapton",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 198089
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.08449975065194e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mic_",
+            "id": 95047350,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.08225260277705e+17,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgImkuneVCqsFUnIz1ooooA"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Mic_a",
+            "verified": false,
+            "archivedon": 1682667808,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "views": 2836,
+          "channelusername": "freedomParadeGruppe",
+          "id": 137121,
+          "noforwards": false,
+          "lastseents": "2023-04-28T07:43:28.019073"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5397614048038680308",
+        "_score": 6.9355,
+        "_source": {
+          "archivedon": "2022-11-16 03:12:38.10082",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "date": 1668336798,
+          "editdate": 1668336840,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 538,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 540,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 24,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Der amerikanische Historiker Eric Suess machte westliche Führer, die die Ukraine und Selenskyj unterstützen, für den Nationalsozialismus und den Zusammenbruch der Demokratie verantwortlich. Dies steht in seinem Material für die Publikation Modern Diplomacy.\n„Die Nazis unterstützen mit überwältigender Mehrheit die Ukraine gegen Russland und führen jetzt den Westen an. Verbraucher und Industrie in Großbritannien und Europa und sogar Amerika selbst werden hohe Preise für die Nazi-Politik ihrer Führer zahlen. Sind sie dann Demokratien?“\n\nt.me/FGNews07",
+          "peerid": {
+            "channel_id": 1256729953,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4224,
+          "channelusername": "Q_D_R_A"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5216934751104926806",
+        "_score": 6.4489,
+        "_source": {
+          "archivedon": "2022-11-16 02:56:51.51374",
+          "channelabout": "Official Channel of Identity England | English Metapolitical Activism | European New Right",
+          "channeltitle": "Identity England",
+          "date": 1668350944,
+          "editdate": 1668351179,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 511,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 15,
+              "offset": 527,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 30,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "groupedid": 1.33468075559828e+16,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Macron's globalist government agreed to allow a people trafficker NGO ship to unload more African migrants at Toulon.\n\nEric Zemmour of Reconquête was asked why he objected to 'a few hundred migrants'\nHis answer:\n'for 40 years I have heard “there are only 30, there are only 100...” and today there are millions. Today, there are neighborhoods, entire towns, where we are no longer in France'.\n\nThis is the choice\nAn African Europe\nOr\nA European Europe\n\nWe have nowhere else.\nThese are our homelands.\nGet active\n#defendeuropeꓥ \n#defendenglandꓥ",
+          "peerid": {
+            "channel_id": 1214662276,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4723,
+          "channelusername": "idenglandofficial"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5729645067610715189",
+        "_score": 6.1665,
+        "_source": {
+          "archivedon": "2022-11-16 02:50:54.72227",
+          "channeltitle": "Patriot Party New Hampshire",
+          "date": 1668381408,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 479,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 517,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Don't miss this opportunity  because people are still making a lot of money with Eric platform, I'm lucky that I have this reliable and trusted platform after I have lost my money looking for a nice platform like this but I am happy  because I am now recovering all my money \n\n🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑\nThis company has truly cleared my doubt. Give this platform a try and you will never regret. \nJoin through this 👉👇\n                                 👇👇\nLink\n\n👇👇👇👇👇👇👇\n\ntelegram.me/joinchat/18_vJXqRmV82OTA8\ntelegram.me/joinchat/18_vJXqRmV82OTA8",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 129563
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyNewHampshire"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6042864177670900115",
+        "_score": 6.1665,
+        "_source": {
+          "archivedon": "2022-11-16 02:51:59.888098",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "date": 1668381408,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 479,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 517,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Don't miss this opportunity  because people are still making a lot of money with Eric platform, I'm lucky that I have this reliable and trusted platform after I have lost my money looking for a nice platform like this but I am happy  because I am now recovering all my money \n\n🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑\nThis company has truly cleared my doubt. Give this platform a try and you will never regret. \nJoin through this 👉👇\n                                 👇👇\nLink\n\n👇👇👇👇👇👇👇\n\ntelegram.me/joinchat/18_vJXqRmV82OTA8\ntelegram.me/joinchat/18_vJXqRmV82OTA8",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 145871
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyRI"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "4952246207394092264",
+        "_score": 5.2795,
+        "_source": {
+          "archivedon": "2022-11-16 02:32:28.213927",
+          "channelabout": "Kanal von Daniel Prinz. Hintergründe zu Politik, Corona, Deep State uvm. Mails gern an @DanielPrinzOffiziell_Kontaktbot - schaffe es aber nicht immer alle zu beantworten.",
+          "channeltitle": "Das Prinz Telegramm",
+          "date": 1668313834,
+          "editdate": 1668314052,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 35,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 386,
+              "offset": 204,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 386,
+              "offset": 204,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 90,
+              "offset": 611,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 927,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 968,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 664,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Frankreich: Hetze gegen Deutschland\n\nDem französischen Publikum wird nun nahe gebracht, dass Deutschland für Europa eine Bedrohung darstelle und eigentlich schon immer ein Feind Frankreichs gewesen sei:\n\n\"Jacques Attali, die schillerndste Figur auf dieser Bühne, langjähriger Berater von Staatspräsident Mitterand, schwingt sich gar zu der These auf, der Krieg zwischen Deutschland und Frankreich wäre wieder möglich.Zuvor hatte Eric Zemmour in der rechtsnationalen Zeitschrift Valeurs Actuelles die These aufgestellt, um in Europa zu überleben, müsse Frankreich Deutschland zerschlagen.\"\n\nDer ganze Artikel: \n\nhttps://www.achgut.com/artikel/zwischen_deutschland_und_frankreich_braut_sich_was_zusammen\n\nIst natürlich klar, dass auch der 3. WK auf deutschem Boden ausgetragen werden soll. Da hat sich an den Plänen der Kabale die letzten 150 Jahre nichts geändert. Jetzt muss das Feind-Narrativ zeitig wieder aufgebaut werden.\n\nweitere News & Hintergründe kostenlos\n👉 https://t.me/DanielPrinzOffiziell",
+          "peerid": {
+            "channel_id": 1153034672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 20416,
+          "channelusername": "Daniel_Prinz_Offiziell"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6182575233266916182",
+        "_score": 5.2795,
+        "_source": {
+          "archivedon": "1681580517",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "date": 1668380023,
+          "editdate": 1668380027,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 93,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 675,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 139,
+              "offset": 702,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 13341,
+            "date": 1668379555,
+            "from_id": {
+              "channel_id": 1212307538,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Angel Patriot❤😇",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨Texas: Guadalupe County High School Teacher Sentenced to 15 Years in Prison in Child Sex Case\n\n🔹Eric Paul Contreras, 45, former Steele High School teacher accused of having an inappropriate relationship with a student was sentenced to 15 years in state prison following a plea deal with prosecutors.\n🔹Contreras was charged with 3 counts of child sex assault, 2 counts of indecency with a child - sexual contact, and improper relationship between an educator and a student.\n🔹Police became aware of the allegations in early 2020 after a student came forward. Contreras was placed on administrative leave in March 2020 and resigned shortly before being taken into custody.\n@ArrestsIndictmentsJustice\nhttps://www.ksat.com/news/ksat-investigates/2022/11/12/former-steele-high-school-teacher-sentenced-to-15-years-in-prison-in-child-sex-case/",
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1241640422,
+            "comments": true,
+            "max_id": 870834,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1511329319
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 2136203
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 520,
+          "channelusername": "AmericaFirstAudits",
+          "id": 39766,
+          "noforwards": false,
+          "lastseents": "2023-04-15T17:41:57.126861",
+          "mediaref": "6c6489aa9c90725eb8724dcda9291166ed96f331"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5701205048307078384",
+        "_score": 5.1034,
+        "_source": {
+          "archivedon": "2022-11-14 18:40:28.869061",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "date": 1668351910,
+          "editdate": 1668351913,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17968,
+            "date": 1668350865,
+            "from_id": {
+              "channel_id": 1208938166,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "SECHS MENSCHEN AN BORD\nWeltkriegs-Flugzeuge stoßen bei Flugschau in Dallas zusammen\nBei einer Flugschau in Dallas sind am Samstag zwei Flugzeuge aus der Zeit des Zweiten Weltkriegs in der Luft zusammengestoßen. „Zu diesem Zeitpunkt wissen wir nicht, wie viele Personen sich an Bord befanden“, teilte die US-Luftfahrtbehörde FAA mit. Reporter vor Ort sprachen von insgesamt sechs Besatzungsmitgliedern. Unklar war auch, ob die Insassen die Kollision der Flugzeuge vom Typ Boeing B-17 Flying Fortress und Bell P-63 Kingcobra überlebten.\n\nDer Bürgermeister von Dallas, Eric Johnson, erklärte im Online-Dienst Twitter, Zuschauer oder andere Menschen am Boden seien nicht verletzt worden. In Onlinenetzwerken veröffentlichte Videos zeigten dramatische Szenen: Demnach schienen die Flugzeuge nach dem Zusammenstoß in mehrere Teile zu zerbrechen, bevor sie auf dem Boden aufschlugen. Nach dem Aufprall waren eine Explosion und eine enorme Rauchwolke zu sehen",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Andreas",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331917603,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 288303
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 180,
+          "channelusername": "GurkenpaulesEinflugschneise"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "4878275695052131636",
+        "_score": 5.1034,
+        "_source": {
+          "archivedon": "2022-11-14 23:14:30.035542",
+          "channelabout": "Nachrichten aus aller Welt - unzensiert\n\n\n@unzensiert ist ein Non-Profit Kanal\n\n\n🤜🏻Partnerkanäle🤛🏻\n\n@Aufwachen\n\n@DokuKiste\n\n@BuecherKiste\n\n@GruppenListe\n\n@Gesundheitsecke\n\n@VegetArisch",
+          "channeltitle": "🚨Unzensiert🚨",
+          "date": 1668327949,
+          "editdate": 1668328255,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 0,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 11,
+              "offset": 974,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 989,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 133,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "@unzensiert_infoseite\nSECHS MENSCHEN AN BORD\nWeltkriegs-Flugzeuge stoßen bei Flugschau in Dallas zusammen\nBei einer Flugschau in Dallas sind am Samstag zwei Flugzeuge aus der Zeit des Zweiten Weltkriegs in der Luft zusammengestoßen. „Zu diesem Zeitpunkt wissen wir nicht, wie viele Personen sich an Bord befanden“, teilte die US-Luftfahrtbehörde FAA mit. Reporter vor Ort sprachen von insgesamt sechs Besatzungsmitgliedern. Unklar war auch, ob die Insassen die Kollision der Flugzeuge vom Typ Boeing B-17 Flying Fortress und Bell P-63 Kingcobra überlebten.\n\nDer Bürgermeister von Dallas, Eric Johnson, erklärte im Online-Dienst Twitter, Zuschauer oder andere Menschen am Boden seien nicht verletzt worden. In Onlinenetzwerken veröffentlichte Videos zeigten dramatische Szenen: Demnach schienen die Flugzeuge nach dem Zusammenstoß in mehrere Teile zu zerbrechen, bevor sie auf dem Boden aufschlugen. Nach dem Aufprall waren eine Explosion und eine enorme Rauchwolke zu sehen\n@unzensiert  / @unzensiertV2",
+          "peerid": {
+            "channel_id": 1135812070,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 14979,
+          "channelusername": "unzensiert",
+          "mediaref": "34cdee878a9d47dc4ce7d6c58ac832466cb4f196"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5991532476600697537",
+        "_score": 2.6004,
+        "_source": {
+          "archivedon": "2022-11-14 17:38:00.294286",
+          "channelabout": "Arizona's Official Audit Watch Channel! 🇺🇸\n     \n     SEE SOMETHING, SAY SOMETHING!\nWe need volunteers from all over the world to help us watch audit cameras 24/7! Links below.\n\n⭐️ Channel: @AZAuditNews\n⭐️ Chat: @AZAuditChat\n⭐️ Watch Group: @AZAuditWatc",
+          "channeltitle": "Arizona Audit Watch Channel",
+          "date": 1668363374,
+          "editdate": 1668363521,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 1360,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1641437787,
+            "from_id": {},
+            "from_name": "s. p.",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "HERE'S A LIST OF PEOPLE THAT SOME WANTED TO USE TO TRY AND GET THINGS DONE, HOW MANY OF THEM HAVE STAYED TRUE TO TRUMP TO THIS DAY? YOU TELL ME. ALSO, THIS IS THE LEVEL THAT THESE CLOWNS WERE WORKING AT WHEN WE KNEW FOR YEARS THAT THE UNIPARTY WAS PLANNING THIS. ...                          SOCIAL MEDIA CONSERVATIVE INFLUENCERS\nCompiled by Christos Makridis and Soula Parassidis\nBig names:\n1. Candace Owens (YouTube 747k, Instagram 3 million, Twitter 2.8 million)\n2. Charlie Kirk (YouTube 356k, Twitter 1.9 million, Instagram 1.5 million)\n3. Hodge Twins (YouTube 1.69 million subs, Instagram 2.3 million)\n4. Officer Tatum (YouTube 1.43 million, Instagram 748k, Twitter 611k)\n5. Ben Shapiro (YouTube 2.5 million, Instagram 2.5 million)\n6. PragerU (YouTube 2.85 million, Instagram 1.5 million)\n7. Dave Rubin (YouTube 1.46 million, Instagram 176k)\n8. Daily Wire (YouTube 2.44 million, Instagram 1 million)\n9. Students for Trump - Ryan Fournier, (Twitter 1.1 million, Instagram 318k)\n10. The Majority Report (Sam Seder) (YouTube 993k, Twitter 168k)\n11. Steven Crowder (YouTube 5 million, Twitter 1.3 million)\n12. Mark Levin (Twitter 2.8 million)\nMedium:\n10. Eric Metaxas (YouTube 186k, Twitter 129k, Instagram 16k)\n11. Brandon Straka - \"Walk Away\" (YouTube 219k, Personal Twitter 665k, Instagram 191k)\n12. Michael Knowles (YouTube 370k, Instagram 158k)\n13. Ron (@codemonkeyZ) (475k Twitter)\nSmall:\n13. Stop the Fraud (Rod) - (Twitter 135k)\n14. Hey Jude (Twitter 148k)\n15. AMErikaGIRL (Twitter 205k)\n16. Bradley Scott (Twitter 281k)\n17. Juanita Broaddrick (Twitter 484k)\n18. Melissa Tate (Twitter 524k)\n19. John Kiss my Bot (Twitter 199k)\n20. Adam Corolla (YouTube 142k)\n21. Trish Regan (YouTube 26.4K, Twitter 745.3K)\nMicro:\n22. Sara Eaglesfield (Twitter, 24k)\n23. Cultural Husbandry (Twitter 30k)\n24. Alison Morrow (YouTube 78K, Twitter 3.5K)\nTIKTOK*** WE have to use TIKTOK!! Content goes VIRAL here like no other platform!!!!! And there are MILLIONS of Trump supporters! It would be amazing if POTUS would use the platform actually - he'd have the biggest account EVER\n20. Conservative Ant (Vito) (574k followers)\n21. Conservative Barbie (846k followers)\n22. Republican Hype House (1.5 million)\n23. Dr. Sara Lorei (86k - fewer followers but she does an amazing Kamala Harris impression)\n24. Matt Convard (young guy, very logical and articulate, 190k followers)\n25. Adam Calhoun (949k) (musical artist, hilarious but swears a lot, rough persona but I think it will connect with many people)\n26. Bryson Gray (213k TIKTOK, 111k YT) - “Donald Trump is your President” - amazing song!!! All his songs for Trump are incredible!\n27. Emmanuel Harouno (279k) - he uses green screen a lot to simply react to facts that are put out, very high engagement and super sympathetic.\n28. The Republican Girls (367k)\n29. Damani Bryant Felder (239k, very funny and extremely high engagement.",
+          "peerid": {
+            "channel_id": 1395012363,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1157505243,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1089788
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 674,
+          "channelusername": "AZAuditNews"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5562338894382377311",
+        "_score": 2.2115,
+        "_source": {
+          "archivedon": "2022-11-16 05:07:53.624023",
+          "channelabout": "We are comprised of journalists, activists and researchers who wish to unite under the cause of free press and information access within independent media.\n\nG3GroupInc.com",
+          "channeltitle": "G3 News",
+          "date": 1668374703,
+          "editdate": 1668375007,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 226,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 441,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 482,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.nytimes.com/2022/11/11/technology/ftx-investors-venture-capital.html"
+            },
+            {
+              "length": 194,
+              "offset": 489,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 27,
+              "offset": 683,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 710,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.marketwatch.com/story/who-is-sam-bankman-fried-the-ftx-ceo-who-lost-billions-in-crypto-11668109979"
+            },
+            {
+              "length": 204,
+              "offset": 731,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 11,
+              "offset": 1019,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.opensecrets.org/elections-overview/biggest-donors"
+            },
+            {
+              "length": 115,
+              "offset": 1032,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 1159,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.cnbc.com/2022/05/24/crypto-billionaire-says-he-could-spend-a-record-breaking-1-billion-in-2024-election.html"
+            },
+            {
+              "length": 29,
+              "offset": 1321,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1390,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freebeacon.com/biden-administration/beleaguered-crypto-billionaire-was-hobnobbing-at-white-house-just-six-months-ago/"
+            },
+            {
+              "length": 26,
+              "offset": 1756,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 55,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1861,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://law.stanford.edu/directory/barbara-fried/"
+            },
+            {
+              "length": 126,
+              "offset": 1890,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 95,
+              "offset": 2225,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.vox.com/recode/2020/1/6/21046631/mind-the-gap-silicon-valley-democratic-donors-stanford"
+            },
+            {
+              "length": 374,
+              "offset": 2320,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 75,
+              "offset": 2320,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 178,
+              "offset": 2516,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 99,
+              "offset": 2694,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 98,
+              "offset": 2695,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 140,
+              "offset": 2793,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 56,
+              "offset": 2933,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 3123,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 3125,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.coindesk.com/policy/2022/03/14/ukraine-partners-with-ftx-everstake-to-launch-new-crypto-donation-website/"
+            },
+            {
+              "length": 15,
+              "offset": 3125,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 298,
+              "offset": 3140,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 3451,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.prnewswire.com/news-releases/ukraines-ministry-of-digital-transformation-ftx-and-everstake-launch-crypto-fundraising-site-aid-for-ukraine-301501959.html"
+            },
+            {
+              "length": 452,
+              "offset": 3473,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 3,
+              "offset": 3925,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 50,
+              "offset": 3928,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.weforum.org/organizations/ftx"
+            },
+            {
+              "length": 50,
+              "offset": 3928,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 58,
+              "offset": 3978,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 4036,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theblaze.com/news/ftx-sam-bankman-fried-democrats-ukraine?utm_source=dlvr.it&utm_medium=twitter"
+            },
+            {
+              "length": 7,
+              "offset": 4047,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/register?referrer=g3news"
+            },
+            {
+              "length": 1,
+              "offset": 4054,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 4076,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 4076,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 76,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Collapsed Cryptocurrency Exchange FTX Had Ties to Ukrainian Government, WEF, and Top Biden Adviser\n\nFTX had some eye-opening connections to powerful entities and individuals around the world before it all came crashing down.\n\nFTX made waves with early endorsements by NFL legend Tom Brady, supermodel Gisele Bundchen, and NBA superstar Stephen Curry. FTX spent big money on a Super Bowl commercial featuring \"Seinfeld\" creator Larry David.\n\nThen the FTX collapse happened.\n\nThe NYT noted, \"Despite raising $2 billion, he remained the majority owner of the company. No investors joined FTX’s board of directors, which was made up of Mr. Bankman-Fried, an FTX employee and a lawyer.\"\n\nSBF gives millions to DNC\n\nMarketWatch reported, \"SBF contributed more than $5 million to Joe Biden and groups supporting him during his 2020 presidential campaign. He said he was motivated by Biden’s 'generic stability and decision-making process.'\"\n\nSBF gave Democrats nearly $37 million in the 2021-2022 election cycle, according to OpenSecrets. SBF was the second-biggest individual donor to Democrats, only to be surpassed by $128 million from George Soros.\n\nIn May, SBF said he expected to donate \"north of $100 million\" to Democrats in 2024 but vowed to have a \"soft ceiling\" of political spending of $1 billion if DJT ran again.\n\nSBF goes to the White House\n\nThe Washington Free Beacon reported that SBF met with top Biden adviser Steve Ricchetti on April 22 and May 12, according to White House visitor logs.  Gabe Bankman-Fried – SBF's brother who handles the billionaire's political operations – visited the White House on March 7.\n\nSBF largely funded the Democratic Protect Our Future PAC that only launched in May 2022. SBF's brother said the PAC was formed to \"stop the next pandemic.\" \n\nSBF's mother is also a major fundraiser for Democrats\n\n Barbara Fried, is a Stanford professor, and has \"written extensively on questions of distributive justice, in the areas of tax policy, property theory, and political theory.\" She is also the co-founder of the Mind the Gap political action committee that was established in 2018 to help the DNC win elections.\n\nVox published a glowing article about Mind the Gap in January 2020 titled: \"Inside the secretive Silicon Valley group that has funneled over $20 million to Democrats.\"\n\n\"The group’s leaders are a pair of Stanford law professors: Barbara Fried, who has no apparent campaign experience, and Paul Brest, the former president of the William and Flora Hewlett Foundation. Graham Gottlieb, a Stanford fellow who served in junior roles for former President Barack Obama’s 2012 reelection campaign and in his White House, is its executive director.\"\n\n\"Backers include people like Facebook co-founder Dustin Moskovitz, former Google CEO Eric Schmidt, San Francisco power broker Ron Conway, and a coterie of major Democratic donors from across Silicon Valley, including fundraiser Amy Rao.\"\n\nThe FTX connection to the Ukrainian government and WEF\n\nCuriously, the Ukrainian gov launched a cryptocurrency donation website in March that was backed by FTX.\n\nCoinDesk reported in March, \"'Aid for Ukraine,' which has the backing of crypto exchange FTX, staking platform Everstake, and Ukraine’s Kuna exchange, will route donated crypto to the National Bank of Ukraine, Everstake’s Head of Growth Vlad Likhuta told CoinDesk. Ukraine’s crypto-savvy Ministry of Digital Transformation is also involved.\"\n\nAn Everstake press release stated, \"Aid For Ukraine is cooperating with the cryptocurrency exchange FTX which converts crypto funds received into fiat and sends the donations to the National Bank of Ukraine. This marks the first-ever instance of a cryptocurrency exchange directly cooperating with a public financial entity to provide a conduit for crypto donations. Earlier this month, FTX already converted $1 million worth of SOL and transferred it to the National Bank of Ukraine.\"\n\nThe World Economic Forum (WEF) lists FTX as a partner, and provides a link to the exchange's website.\n\nSource: The Blaze\n\nJoin us on Minds!\n\nFollow:👇\n@G3News",
+          "peerid": {
+            "channel_id": 1295082945,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3231,
+          "channelusername": "g3news"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

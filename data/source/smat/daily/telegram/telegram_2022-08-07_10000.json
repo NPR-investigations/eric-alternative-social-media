@@ -1,0 +1,1497 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [17],
+      "relation": ["eq"]
+    },
+    "max_score": [22.6984],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6960366189637807587",
+        "_score": 22.6984,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-09 16:04:52.756242",
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1659859516,
+          "editdate": 1659869171,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 52,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 7,
+              "offset": 183,
+              "reformatted_key": "MessageEntityBotCommand"
+            }
+          ],
+          "forwards": 125,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 258507375
+          },
+          "fwdfrom": {
+            "channel_post": 1505,
+            "date": 1659727499,
+            "from_id": {
+              "channel_id": 1502068459,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "M_EDA",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "CISA Sector Coordinating Council – Feel Better Now?\nhttps://www.cisa.gov/government-facilities-election-infrastructure-charters-and-membership\n\nAmazon Web Services (AWS)\nArrikan, Inc./Chaves Consulting, Inc.\nAssociated Press (AP) Elections\nBallottrax (i3logix, Inc.)\nBlueCrest\nCanton Group, The\nCivix\nClear Ballot Group\nCyberDefenses, Inc.\nDemocracy Live\nDemocracy Works\nDemTech Voting Solutions\nDFM Associates\nDominion Voting Systems\nEasyVote\nElectionIQ\nElection Systems & Software (ES&S)\nElectronic Registration Information Center (ERIC)\nElectSure Learning\nEnhanced Voting\nFreeman, Craft, McGregor Group\nHart InterCivic\nKNOWInk\nK&H Election Services\nMicrosoft\nMicrovote General Corp.\nNTS Data Services\nPro V&V\nRunbeck Election Services\nRyder Election Services\nSCYTL\nSeaChange Print Innovations\nSLI Compliance\nSmartmatic\nTenex Software Solutions\nUnisyn Voting Solutions\nVictor Envelope Company\nVoatz\nVOTEC\nVotem\nVoteShield\nVoting Works\nVR Systems",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 14275
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 258507375,
+            "_v": 1,
+            "access_hash": -1.58034853670773e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "William H",
+            "id": 258507375,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "william_harr",
+            "verified": false
+          },
+          "v": 1,
+          "views": 12990,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6462698025423735191",
+        "_score": 22.6984,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682237321",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1659847962,
+          "editdate": 1659848527,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 52,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 7,
+              "offset": 183,
+              "reformatted_key": "MessageEntityBotCommand"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1505,
+            "date": 1659727499,
+            "from_id": {
+              "channel_id": 1502068459,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "M_EDA",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Below is the charter and membership list for the Government Facilities Sector - Election Infrastructure Subsector",
+              "display_url": "cisa.gov/government-facilities-election-infrastructure-charters-and-membership",
+              "hash": 0,
+              "id": 2.31199286750264e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "www.cisa.gov",
+              "title": "Government Facilities - Election Infrastructure Charters and Membership | CISA",
+              "type": "article",
+              "url": "https://www.cisa.gov/government-facilities-election-infrastructure-charters-and-membership"
+            }
+          },
+          "message": "CISA Sector Coordinating Council – Feel Better Now?\nhttps://www.cisa.gov/government-facilities-election-infrastructure-charters-and-membership\n\nAmazon Web Services (AWS)\nArrikan, Inc./Chaves Consulting, Inc.\nAssociated Press (AP) Elections\nBallottrax (i3logix, Inc.)\nBlueCrest\nCanton Group, The\nCivix\nClear Ballot Group\nCyberDefenses, Inc.\nDemocracy Live\nDemocracy Works\nDemTech Voting Solutions\nDFM Associates\nDominion Voting Systems\nEasyVote\nElectionIQ\nElection Systems & Software (ES&S)\nElectronic Registration Information Center (ERIC)\nElectSure Learning\nEnhanced Voting\nFreeman, Craft, McGregor Group\nHart InterCivic\nKNOWInk\nK&H Election Services\nMicrosoft\nMicrovote General Corp.\nNTS Data Services\nPro V&V\nRunbeck Election Services\nRyder Election Services\nSCYTL\nSeaChange Print Innovations\nSLI Compliance\nSmartmatic\nTenex Software Solutions\nUnisyn Voting Solutions\nVictor Envelope Company\nVoatz\nVOTEC\nVotem\nVoteShield\nVoting Works\nVR Systems",
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "max_id": 13556,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1418792218
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 34072
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 200,
+          "id": 2455,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-23T08:08:41.405067"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6729827970279559433",
+        "_score": 12.8926,
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword"],
+        "_source": {
+          "archivedon": "1682454196",
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "channeltitle": "Blazen Herb",
+          "channelusername": "Blazenherb",
+          "date": 1659884150,
+          "editdate": 1659886656,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 84,
+              "offset": 54,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Mayor Adams tried to greet the latest bus load of migrants to get shipped in from Texas early Sunday -- but was horrified to find the vast majority had already skipped.",
+              "display_url": "nypost.com/2022/08/07/mayor-eric-adams-greets-latest-border-crossers-in-nyc",
+              "hash": 0,
+              "id": 7.65494676882996e+18,
+              "photo": {
+                "access_hash": -7.9282259008065e+18,
+                "date": 1659884665,
+                "dc_id": 4,
+                "file_reference": "AGRINJX2a4yG82XLdAWYXKO7QZCQ",
+                "has_stickers": false,
+                "id": 6.01608973855082e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsolgujLdFCMDGaY8485FHQ96ltbFM+aerDP0yKhNiyXa8/u8de/Spsy7osebkEKRkjv3qG0soJbPLZBYHOO3NRzW8sDMxbMfHPXuKh/fJb/u5NvXODimkJjTshdDg425/+vRSi3kYZMgPHAPFFFhF9JHSxXaQrEHbu7dab9oeZUw33dpcpjBqjdMTEuSTz61DA7GTG443D+lCYNWNKeYSQupYLjoDUKlYYgJVzk+nSkulHBxzTpOSB2oHaxJE6yXCPjkZ70U20VQAQOcUU0KbV9D8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 213,
+                    "size": 27396,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 533,
+                    "size": 113001,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 682,
+                    "w": 1024,
+                    "sizes": [11277, 30848, 44483, 66529, 112884]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "New York Post",
+              "title": "Adams greets border-crossers — but suggests most skipped...",
+              "type": "photo",
+              "url": "https://nypost.com/2022/08/07/mayor-eric-adams-greets-latest-border-crossers-in-nyc/"
+            }
+          },
+          "message": "Mayor Eric Adams greets latest border-crossers in NYC\nhttps://nypost.com/2022/08/07/mayor-eric-adams-greets-latest-border-crossers-in-nyc/",
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "max_id": 57400,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1553823184
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1541014510
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 155626
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 481,
+          "id": 20745,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 7,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-25T20:23:16.746602"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5583450097456266295",
+        "_score": 12.1514,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-10 03:29:16.731417",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1659874057,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 144,
+              "offset": 95,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Swalwell Criticizes Majorie Taylor Greene’s Indulgence in Theatrics, and We Have Thoughts\nhttps://redstate.com/jerrywilson/2022/08/07/eric-swalwell-criticizes-majorie-taylor-greenes-indulgence-in-theatrics-and-we-have-thoughts-n608182",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 788,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5583450097456266307",
+        "_score": 11.7493,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-10 03:29:16.755932",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1659899216,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 147,
+              "offset": 101,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams Greets Busload of Illegal Aliens, Insists 'Crisis' Is Texas Gov. Abbott's Fault\nhttps://redstate.com/mike_miller/2022/08/07/nyc-mayor-eric-adams-greets-busload-of-illegal-aliens-insists-crisis-is-texas-gov-abbotts-fault-n608335",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 744,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5664207495644594043",
+        "_score": 11.6456,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-10 04:55:42.02783",
+          "channelabout": "News, analysis, and opinion from Canada, US and the world. Among North America’s Most-Read News Publishers \nThePostMillennial.com",
+          "channeltitle": "The Post Millennial",
+          "channelusername": "ThePostMillennial",
+          "date": 1659914889,
+          "editdate": 1659914916,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://cms.thepostmillennial.com/content/images/2022/08/Untitled-design--58-.jpg"
+            },
+            {
+              "length": 55,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "​Eric Adams' NYC too crime-ridden for illegal immigrants\n\nhttps://postmillennialnews.com/1Tk1ax",
+          "peerid": {
+            "channel_id": 1318801077,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3286,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6463960745808843796",
+        "_score": 11.3981,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-09 12:54:35.182215",
+          "channeltitle": "Real Canadian Convoy - Chat",
+          "channelusername": "realCanadianConvoyChat",
+          "date": 1659833326,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Hey there Eric Dare, and welcome to Real Canadian News - Chat! How are you?",
+          "peerid": {
+            "channel_id": 1505008141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 140464
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5631164431040775125",
+        "_score": 10.827,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-10 15:59:41.434853",
+          "channelabout": "The abode of Wäinämöinen • Finnish & Karelian Paganism, mythology, folklore, culture, and history — and occasionally other things • @ChannelCollection",
+          "channeltitle": "Wäinölä 🇫🇮",
+          "channelusername": "Wainola",
+          "date": 1659877342,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 23,
+              "offset": 16,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 78,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Vasström — The Republic of Finland. A drawing published in the newspaper Ampiainen ('The Bee') on 20 October 1917.",
+          "peerid": {
+            "channel_id": 1311107639,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 910,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5254882586756387787",
+        "_score": 10.4133,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-10 03:27:37.77744",
+          "channelabout": "👒 Best fan channel for FLOTUS Melania Trump\n🇺🇸 Join for original content from the desk of her Office, plus more! \nNot associated with or managed by Melania",
+          "channeltitle": "Melania Trump",
+          "channelusername": "MelaniaTrumpFan",
+          "date": 1659833883,
+          "editdate": 1659877487,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://patriotfetch.com/wp-content/uploads/2022/08/migranttruck.shutterstock_1294085749-e1659713969231.jpg"
+            },
+            {
+              "length": 112,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 115,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 32,
+              "offset": 122,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "​First 50 Illegal Immigrants Arrive in NY as Texas Gov Abbott Insists Woke Mayor Eric Adams Should ‘Welcome Them’\n\nREAD → https://defycablenews.com/etQziW",
+          "peerid": {
+            "channel_id": 1223497695,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 683,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6094192163595939204",
+        "_score": 6.5899,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 15:35:40.092357",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1659839494,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 48,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1671675029
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "groupedid": 1.32787159586449e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Is Our Freedom to Choose a GOOD Thing, or EVIL?\n\n(My son Eric wrote on my TG Channel about Free CHOICES)\n\n • God Gives Us FREE WILL - FREEDOM to Choose\n • As Freedom-Loving Patriots, We Want Freedom!\n • Freedom is GOOD, But Means We CAN Choose EVIL\n • Many ANGRY at God for Allowing Evil, Not “Borging“ Us\n • SATANISTS Motto: ”Do As You Wish!” - NO Limits\n • “Choice” Tag Used to Promote ABORTION\n • Good Souls CHOOSE - to NOT Harm Others, STOP Evil\n • ULTIMATE Free CHOICE: “It’s MY Will to Do GOD’s Will”",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2813671
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6425689812652534221",
+        "_score": 3.9423,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 00:43:28.271448",
+          "channelabout": "🌐 Nachrichtenwelt\n· Wichtiges, Interessantes & Sehenswertes                     \n· Ehrlicher, freier & kritischer Journalismus außerhalb der Mainstream-Filterblase\n\n* Teilen ausdrücklich erwünscht ! *\n\n🌐NachrichtenWeltVideos🎥\n👉 @NachrichtenWeltVideos",
+          "channeltitle": "🌐 Nachrichtenwelt",
+          "channelusername": "NachrichtenWelt",
+          "date": 1659868799,
+          "editdate": 1659871624,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 87,
+              "offset": 807,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 19,
+              "offset": 895,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://sonar21.com/the-new-york-times-struggles-with-russian-and-ukrainian-strawmen/"
+            },
+            {
+              "length": 19,
+              "offset": 895,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 94,
+              "offset": 914,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 31,
+              "offset": 968,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 18,
+              "offset": 1674,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.moonofalabama.org/2022/08/western-conflict-reporting-has-come-down-to-officials-on-our-side-said-.html"
+            },
+            {
+              "length": 18,
+              "offset": 1674,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 3,
+              "offset": 1692,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 1695,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 1695,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "❗️DIE NEW YORK TIMES KÄMPFT MIT RUSSISCHEN UND UKRAINISCHEN STROHMÄNNERN\nIch bin immer wieder erstaunt über das völlige Versagen von Journalisten, Fakten zusammenzutragen. Ich denke, es läuft auf Faulheit hinaus. Warum sollten Sie unabhängig recherchieren oder denken, was erfordert, dass Sie an die Front gehen, wenn Sie vorgefertigte Gesprächsthemen verschlingen und wiederkäuen können? Sie werden genauso bezahlt und zum Teufel, Sie könnten sogar einen Pulitzer bekommen, wenn Sie der enthusiastischste Lieferant von Regime-Bullshit sind.\n\nEin kürzlich in der New York Times erschienener Artikel „Russlands Defizite schaffen eine Chance für die Ukraine, sagen westliche Beamte“ illustriert dieses Phänomen. Hier sind die wichtigsten Punkte aus dem Artikel von Julian Barnes und Eric Schmitt...\n\n🇬🇧🇩🇪 (Artikel auf englisch. Mit maschineller Übersetzung auch auf deutsch gut verständlich!) ➡️Artikel lesen\n\n\n\n💥Die „westliche“ Konfliktberichterstattung läuft auf „Beamte unserer Seite sagten …“ hinaus.\n...Das ist nicht einmal „Er sagte, sie sagte“-Journalismus. Dies ist reine Stenografie von Behauptungen, die eine Seite eines Konflikts macht, ohne den Versuch zu unternehmen, die zweifelhafte Richtigkeit dieser Behauptungen zu überprüfen.\n\nDie New York Times ist nicht die einzige, die solchen Bullshit produziert...\n\n...Das Erschreckende an solchen Artikeln ist, dass „Beamte“ in Washington und Europa solches Zeug tatsächlich lesen und daran glauben. Sie konsumieren die Mythen, die sie selbst produziert haben, und handeln danach. Sie ignorieren dabei die Geschichte, grundlegende Fakten und das sehr reale Leben der Menschen, die Opfer ihrer Kriege werden.\n🇬🇧➡️Artikel lesen\n\n\n👉 @NACHRICHTENWELT",
+          "peerid": {
+            "channel_id": 1496097495,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2956,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6137290442422703720",
+        "_score": 3.8334,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681451173",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1659909579,
+          "editdate": 1659909582,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 3959,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 3982,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1375,
+            "date": 1627041692,
+            "from_id": {
+              "channel_id": 1518960967,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Arrests and executions of famous people 2021 updated:\nANDREW McCABE ARRESTED & SERVING LIFE\nBARACK OBAMA ARRESTED & EXECUTED\nMICHELLE OBAMA (BIG MIKE) ARRESTED & EXECUTED\nBILL GATES DECEASED\nMELINDA GATES DECEASED\nMIKE PENCE ARRESTED & EXECUTED\nANTHONY FAUCI ARRESTED & RELEASED FOR A TIME TO HELP TRUMP\nHUMA ABEDINE ARRESTED & EXECUTED\nJOHN BRENNAN ARRESTED & SERVING LIFE\nGEORGE H.W. BUSH ARRESTED & EXECUTED\nGEORGE W. BUSH ARRESTED & EXECUTED\nLAURA BUSH ARRESTED & EXECUTED\nJEB BUSH ARRESTED & EXECUTED\nDICK CHENEY ARRESTED & EXECUTED\nJAMES BAKER ARRESTED & EXECUTED\nJAMES CLAPPER ARRESTED & SERVING LIFE\nHILLARY CLINTON ARRESTED & EXECUTED\nBILL CLINTON ARRESTED & EXECUTED\nJAMES COMEY ARRESTED & SERVING LIFE\nDIANE FEINSTEIN EXILED TO CHINA\nERIC HOLDER ARRESTED & SERVING LIFE\nJOHN KERRY ARRESTED & SERVING LIFE\nLORETTA LYNCH ARRESTED & SERVING LIFE\nLISA PAGE ARRESTED & SERVING LIFE\nTONY PODESTA ARRESTED & EXECUTED\nJOHN PODESTA ARRESTED & AT GITMO\nSAMANTHA POWERS ARRESTED & SERVING LIFE\nHARRY REID ARRESTED & SERVING LIFE\nSUSAN RICE ARRESTED & SERVING LIFE\nDONALD RUMSFELD ARRESTED & EXECUTED\nADAM SCHIFF ARRESTED & EXECUTED\nERIC SCMIDT ARRESTED & AT GITMO\nDEBBIE WASSERMAN-SHULTZ ARRESTED & AT GITMO\nGEORGE SOROS ARRESTED & EXECUTED\nMAXINE WATTERS ARRESTED & AT GITMO\nSALLY YATES ARRESTED & AT GITMO\nNANCY PELOSI ARRESTED & AT GITMO\nCHUCK SCHUMER ARRESTED & AT GITMO\nRUTH BADER GINSBURG ARRESTED & EXECUTED\nPETER STRZOK ARRESTED & AT GITMO\nELIJA CUMMINGS ARRESTED & EXECUTED\nJACINDA ADERN ARRESTED & UNDER HOUSE ARREST\nTOM HANKS ARRESTED & EXECUTED\nRITA WILSON HANKS ARRESTED & EXECUTED\nMADONNA ARRESTED & EXECUTED\nLADY GAGA ARRESTED & EXECUTED\nOPRAH WINFREY ARRESTED & ON HOUSE ARREST\nELLEN DEGENEROUS ARRESTED & ON HOUSE ARREST\nSTEPHEN SPIELBERG ARRESTED & EXECUTED\nHARVEY WEINSTEIN ARRESTED & IN PRISON\nJEFFREY EPSTEIN ARRESTED & SERVING LIFE IN PRISON\nPOPE FRANCIS ARRESTED & EXECUTED\nALL CARDINALS AT VATICAN ARRESTED & EXECUTED\nQUEEN ELIZABETH ARRESTED & EXECUTED\nPHILLIP WINDSOR ARRESTED & EXECUTED\nCHARLES WINDSOR ARRESTED & EXECUTED\nJUSTIN TRUDEAU ARRESTED & ON HOUSE ARREST\nSCOTT MORRISON ARRESTED & ON HOUSE ARREST\nHARRY WINDSOR ARRESTED & EXECUTED\nMEGHAN MARKLE ARRESTED & EXECUTED\nMERYL STREEP ARRESTED & ON HOUSE ARREST\nROBERT DE NIRO ARRESTED & EXECUTED\nRICHARD GERE ARRESTED & ON HOUSE ARREST\nJOE BIDEN ARRESTED & EXECUTED\nHUNTER BIDEN ARRESTED & EXECUTED\nJOHN MCCAIN ARRESTED & EXECUTED\nROY HORN OF SIGFREID & ROY ARRESTED & EXECUTED\nTROY SNEED (SINGER) ARRESTED & EXECUTED\nFRED THE GODSON (RAPPER) EXECUTED\nJOEL ROGOSIN (WRITER) EXECUTED\nMATTHEW SELIGMAN (MUSICIAN) EXECUTED\nCHARLES GREGORY EXECUTED\nHILARY HEATH EXECUTED\nHAL WILNER (PRODUCER) EXECUTED\nJOHN PRINE (SINGER) ARRESTED & EXECUTED\nLEE FIERRO ARRESTED & EXECUTED\nADAM SCHLESINGER EXECUTED\nJOE DIFFIE EXECUTED\nMitt Romney ARRESTED & AT GITMO\nBritney Spears ARRESTED SERVING LIFE\nChristina Aguilera ARRESTED SERVING LIFE\nMiley Cyrus ARRESTED SERVING LIFE\nBette Midler ARRESTED SERVING LIFE\nRobert Downey Jr. ARRESTED & EXECUTED\nDwayne Johnson (the rock) EXECUTED\nGeorge Clooney EXECUTED\nAdam Sandler EXECUTED\nNicolas Cage EXECUTED\nKevin Spacey EXECUTED\nCharlie Sheen EXECUTED\nAshton Kutcher ARRESTED SERVING LIFE\nKyriakos Mitsotakis PM GREECE ARRESTED WAITING TRIBUNAL\nPanagiotis Pikrammenos DEPUTY PM ARRESTED WAITING TRIBUNAL\nCeline Dion ARRESTED & EXECUTED\nDon Lemon ARRESTED WAITING TRIBUNAL\nChris Quomo ARRESTED WAITING TRIBUNAL\nKamala Harris ARRESTED WAITING TRIBUNAL\nElizabeth Warren ARRESTED WAITING TRIBUNAL\nNydia Velázquez ARRESTED WAITING TRIBUNAL\nIlhan Omar ARRESTED WAITING TRIBUNAL\nAlexandria Ocasio-Cortez ARRESTED WAITING TRIBUNAL\nRashida Tlaib ARRESTED WAITING TRIBUNAL\nQuentin Tarantino ARRESTED & EXECUTED\nMichael Moore ARRESTED & EXECUTED\nJerry Nadler ARRESTED & AT GITMO\nBERNIE SANDERS ARRESTED & AT GITMO\nBORIS JOHNSON ARRESTED & EXECUTED\nJIMMY KIMMEL ARRESTED WAITING TRIBUNAL\nALEC BALDWIN ARRESTED & EXECUTED\n\nWHERE THEY GO ONE\nTHEY GO ALL\nTO GITMO\n\n@GitmoTV\n\nsupported by\n@tribunalsandexecutions",
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243302
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 61,
+          "id": 87656,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-14T05:46:13.705754"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6137290442422703686",
+        "_score": 3.8334,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681451253",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1659904288,
+          "editdate": 1659904816,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 3959,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 3982,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1375,
+            "date": 1627041692,
+            "from_id": {
+              "channel_id": 1518960967,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Arrests and executions of famous people 2021 updated:\nANDREW McCABE ARRESTED & SERVING LIFE\nBARACK OBAMA ARRESTED & EXECUTED\nMICHELLE OBAMA (BIG MIKE) ARRESTED & EXECUTED\nBILL GATES DECEASED\nMELINDA GATES DECEASED\nMIKE PENCE ARRESTED & EXECUTED\nANTHONY FAUCI ARRESTED & RELEASED FOR A TIME TO HELP TRUMP\nHUMA ABEDINE ARRESTED & EXECUTED\nJOHN BRENNAN ARRESTED & SERVING LIFE\nGEORGE H.W. BUSH ARRESTED & EXECUTED\nGEORGE W. BUSH ARRESTED & EXECUTED\nLAURA BUSH ARRESTED & EXECUTED\nJEB BUSH ARRESTED & EXECUTED\nDICK CHENEY ARRESTED & EXECUTED\nJAMES BAKER ARRESTED & EXECUTED\nJAMES CLAPPER ARRESTED & SERVING LIFE\nHILLARY CLINTON ARRESTED & EXECUTED\nBILL CLINTON ARRESTED & EXECUTED\nJAMES COMEY ARRESTED & SERVING LIFE\nDIANE FEINSTEIN EXILED TO CHINA\nERIC HOLDER ARRESTED & SERVING LIFE\nJOHN KERRY ARRESTED & SERVING LIFE\nLORETTA LYNCH ARRESTED & SERVING LIFE\nLISA PAGE ARRESTED & SERVING LIFE\nTONY PODESTA ARRESTED & EXECUTED\nJOHN PODESTA ARRESTED & AT GITMO\nSAMANTHA POWERS ARRESTED & SERVING LIFE\nHARRY REID ARRESTED & SERVING LIFE\nSUSAN RICE ARRESTED & SERVING LIFE\nDONALD RUMSFELD ARRESTED & EXECUTED\nADAM SCHIFF ARRESTED & EXECUTED\nERIC SCMIDT ARRESTED & AT GITMO\nDEBBIE WASSERMAN-SHULTZ ARRESTED & AT GITMO\nGEORGE SOROS ARRESTED & EXECUTED\nMAXINE WATTERS ARRESTED & AT GITMO\nSALLY YATES ARRESTED & AT GITMO\nNANCY PELOSI ARRESTED & AT GITMO\nCHUCK SCHUMER ARRESTED & AT GITMO\nRUTH BADER GINSBURG ARRESTED & EXECUTED\nPETER STRZOK ARRESTED & AT GITMO\nELIJA CUMMINGS ARRESTED & EXECUTED\nJACINDA ADERN ARRESTED & UNDER HOUSE ARREST\nTOM HANKS ARRESTED & EXECUTED\nRITA WILSON HANKS ARRESTED & EXECUTED\nMADONNA ARRESTED & EXECUTED\nLADY GAGA ARRESTED & EXECUTED\nOPRAH WINFREY ARRESTED & ON HOUSE ARREST\nELLEN DEGENEROUS ARRESTED & ON HOUSE ARREST\nSTEPHEN SPIELBERG ARRESTED & EXECUTED\nHARVEY WEINSTEIN ARRESTED & IN PRISON\nJEFFREY EPSTEIN ARRESTED & SERVING LIFE IN PRISON\nPOPE FRANCIS ARRESTED & EXECUTED\nALL CARDINALS AT VATICAN ARRESTED & EXECUTED\nQUEEN ELIZABETH ARRESTED & EXECUTED\nPHILLIP WINDSOR ARRESTED & EXECUTED\nCHARLES WINDSOR ARRESTED & EXECUTED\nJUSTIN TRUDEAU ARRESTED & ON HOUSE ARREST\nSCOTT MORRISON ARRESTED & ON HOUSE ARREST\nHARRY WINDSOR ARRESTED & EXECUTED\nMEGHAN MARKLE ARRESTED & EXECUTED\nMERYL STREEP ARRESTED & ON HOUSE ARREST\nROBERT DE NIRO ARRESTED & EXECUTED\nRICHARD GERE ARRESTED & ON HOUSE ARREST\nJOE BIDEN ARRESTED & EXECUTED\nHUNTER BIDEN ARRESTED & EXECUTED\nJOHN MCCAIN ARRESTED & EXECUTED\nROY HORN OF SIGFREID & ROY ARRESTED & EXECUTED\nTROY SNEED (SINGER) ARRESTED & EXECUTED\nFRED THE GODSON (RAPPER) EXECUTED\nJOEL ROGOSIN (WRITER) EXECUTED\nMATTHEW SELIGMAN (MUSICIAN) EXECUTED\nCHARLES GREGORY EXECUTED\nHILARY HEATH EXECUTED\nHAL WILNER (PRODUCER) EXECUTED\nJOHN PRINE (SINGER) ARRESTED & EXECUTED\nLEE FIERRO ARRESTED & EXECUTED\nADAM SCHLESINGER EXECUTED\nJOE DIFFIE EXECUTED\nMitt Romney ARRESTED & AT GITMO\nBritney Spears ARRESTED SERVING LIFE\nChristina Aguilera ARRESTED SERVING LIFE\nMiley Cyrus ARRESTED SERVING LIFE\nBette Midler ARRESTED SERVING LIFE\nRobert Downey Jr. ARRESTED & EXECUTED\nDwayne Johnson (the rock) EXECUTED\nGeorge Clooney EXECUTED\nAdam Sandler EXECUTED\nNicolas Cage EXECUTED\nKevin Spacey EXECUTED\nCharlie Sheen EXECUTED\nAshton Kutcher ARRESTED SERVING LIFE\nKyriakos Mitsotakis PM GREECE ARRESTED WAITING TRIBUNAL\nPanagiotis Pikrammenos DEPUTY PM ARRESTED WAITING TRIBUNAL\nCeline Dion ARRESTED & EXECUTED\nDon Lemon ARRESTED WAITING TRIBUNAL\nChris Quomo ARRESTED WAITING TRIBUNAL\nKamala Harris ARRESTED WAITING TRIBUNAL\nElizabeth Warren ARRESTED WAITING TRIBUNAL\nNydia Velázquez ARRESTED WAITING TRIBUNAL\nIlhan Omar ARRESTED WAITING TRIBUNAL\nAlexandria Ocasio-Cortez ARRESTED WAITING TRIBUNAL\nRashida Tlaib ARRESTED WAITING TRIBUNAL\nQuentin Tarantino ARRESTED & EXECUTED\nMichael Moore ARRESTED & EXECUTED\nJerry Nadler ARRESTED & AT GITMO\nBERNIE SANDERS ARRESTED & AT GITMO\nBORIS JOHNSON ARRESTED & EXECUTED\nJIMMY KIMMEL ARRESTED WAITING TRIBUNAL\nALEC BALDWIN ARRESTED & EXECUTED\n\nWHERE THEY GO ONE\nTHEY GO ALL\nTO GITMO\n\n@GitmoTV\n\nsupported by\n@tribunalsandexecutions",
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "max_id": 86264,
+            "recent_repliers": [
+              {
+                "channel_id": 1757782986,
+                "reformatted_key": "PeerChannel"
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1503539823
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 243302
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 125,
+          "id": 87622,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-14T05:47:33.779392"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5811551549939729709",
+        "_score": 2.9966,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 06:26:17.312358",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1659900553,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 74,
+              "offset": 2546,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 2625,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 2665,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16581,
+            "date": 1659884941,
+            "from_id": {
+              "channel_id": 1345864754,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Und ich kann jedem von Ihnen nur sagen: \n\nDanke, dass Sie gekommen sind! Viele von Ihnen sind von sehr weit her gekommen, um mich zu sehen.\n\nUnd ich schätze ausnahmslos jeden einzelnen von Ihnen.\n\nSelbst die Wankelmütigen, die hier sind, wenn sie es nicht sein sollten. Der QFS-Server befindet sich nicht auf unserem Planeten.\n\nEs ist nicht mehr auf dem Planeten!\n\nEr ist da oben und andere befehlen ihn! \n\n▪️Alle Worte von Charlie Ward haben die Anwesenden erschüttert. \n\nEr erfreute sich auf dem ganzen Planeten außerordentlicher Beliebtheit, denn er war eine der wichtigsten Quellen auf dem Planeten, die entmutigte Menschen über die kommenden neuen Zeiten und die planetarische Operation zur Reinigung des Planeten vom Bösen informierte.\n\nEine Persönlichkeit, die von einer ungeheuren positiven Energie erfüllt war, die zusammen mit positiven Nachrichten den Glauben der Menschen an den Sieg des Guten förderte.\n\nIch werde nie den Moment vergessen, als er nach der Wahl am 3. November 2020 auf Sendung ging und strahlend die verblüffende Nachricht verkündete, dass der offizielle Stimmzettel mit einem elektronischen Wasserzeichen versehen war und sogar aus dem Weltraum verfolgt werden konnte.\n\nIch habe nie auch nur einen Moment lang an Trumps Sieg gezweifelt (diejenigen, die mir seither gefolgt sind, wissen das sehr gut), aber ich wusste nicht genau, wie sie den Betrug technisch nachweisen würden, und das war eine bahnbrechende Neuigkeit!\n\nAber Charlie hatte eine Geheimhaltungsvereinbarung unterschrieben und tat dies 3-4 Tage nach der Wahl, als er die Erlaubnis dazu hatte.\n\nEr wurde von den Weißmützen gewählt, um die Informationen weiterzugeben, soweit es ihm erlaubt war.\n\nEin Dankeschön geht auch an den griechischen Patrioten Ανδρεασ Τουρναβιτησ, der über seinen YouTube-Kanal viel zur Förderung der Videosendungen von Charlie Ward und den Anhängern der *Q*-Bewegung beigetragen hat, die vom derzeitigen Vizepräsidenten und nächsten Präsidentenpaar, John Kennedy Jr. und Caroline Bissett-Kennedy, angeführt wird.\n\nIch hinterlasse hier einen Link zum Video des gesamten ersten Tages des Auftritts in Virginia Beach, alle 11 Stunden, vollständige Aufzeichnung. \n\nEs gab eine Reihe weiterer Experten und prominenter Patrioten, darunter auch Ärzte, die Erklärungen zur Kovid-Hysterie gaben.\n\nBei 2 Stunden und 58 Minuten im Video kann man sehen, wie die Menge im Raum ausrastet, als Eric Trump seinen Vater, Präsident Trump, anruft und die Teilnehmer des Treffens begrüßt.\n\nDer gesamte zweite Tag gehörte Charlie Ward.\nBy Iskra L.\n\nhttps://rumble.com/v1biect-reawaken-america-tour-virginia-beach-day-1.html\n\n.\n\nhttps://t.me/joinchat/UDhEMir3-8gZfXGg\n\nhttps://t.me/+lkdrke5Aozc1OTNi\n.",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5701205048307061686",
+        "_score": 2.9966,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 16:05:28.582337",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1659898774,
+          "editdate": 1660038858,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 74,
+              "offset": 2546,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 2625,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 2665,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16581,
+            "date": 1659884941,
+            "from_id": {
+              "channel_id": 1345864754,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Und ich kann jedem von Ihnen nur sagen: \n\nDanke, dass Sie gekommen sind! Viele von Ihnen sind von sehr weit her gekommen, um mich zu sehen.\n\nUnd ich schätze ausnahmslos jeden einzelnen von Ihnen.\n\nSelbst die Wankelmütigen, die hier sind, wenn sie es nicht sein sollten. Der QFS-Server befindet sich nicht auf unserem Planeten.\n\nEs ist nicht mehr auf dem Planeten!\n\nEr ist da oben und andere befehlen ihn! \n\n▪️Alle Worte von Charlie Ward haben die Anwesenden erschüttert. \n\nEr erfreute sich auf dem ganzen Planeten außerordentlicher Beliebtheit, denn er war eine der wichtigsten Quellen auf dem Planeten, die entmutigte Menschen über die kommenden neuen Zeiten und die planetarische Operation zur Reinigung des Planeten vom Bösen informierte.\n\nEine Persönlichkeit, die von einer ungeheuren positiven Energie erfüllt war, die zusammen mit positiven Nachrichten den Glauben der Menschen an den Sieg des Guten förderte.\n\nIch werde nie den Moment vergessen, als er nach der Wahl am 3. November 2020 auf Sendung ging und strahlend die verblüffende Nachricht verkündete, dass der offizielle Stimmzettel mit einem elektronischen Wasserzeichen versehen war und sogar aus dem Weltraum verfolgt werden konnte.\n\nIch habe nie auch nur einen Moment lang an Trumps Sieg gezweifelt (diejenigen, die mir seither gefolgt sind, wissen das sehr gut), aber ich wusste nicht genau, wie sie den Betrug technisch nachweisen würden, und das war eine bahnbrechende Neuigkeit!\n\nAber Charlie hatte eine Geheimhaltungsvereinbarung unterschrieben und tat dies 3-4 Tage nach der Wahl, als er die Erlaubnis dazu hatte.\n\nEr wurde von den Weißmützen gewählt, um die Informationen weiterzugeben, soweit es ihm erlaubt war.\n\nEin Dankeschön geht auch an den griechischen Patrioten Ανδρεασ Τουρναβιτησ, der über seinen YouTube-Kanal viel zur Förderung der Videosendungen von Charlie Ward und den Anhängern der *Q*-Bewegung beigetragen hat, die vom derzeitigen Vizepräsidenten und nächsten Präsidentenpaar, John Kennedy Jr. und Caroline Bissett-Kennedy, angeführt wird.\n\nIch hinterlasse hier einen Link zum Video des gesamten ersten Tages des Auftritts in Virginia Beach, alle 11 Stunden, vollständige Aufzeichnung. \n\nEs gab eine Reihe weiterer Experten und prominenter Patrioten, darunter auch Ärzte, die Erklärungen zur Kovid-Hysterie gaben.\n\nBei 2 Stunden und 58 Minuten im Video kann man sehen, wie die Menge im Raum ausrastet, als Eric Trump seinen Vater, Präsident Trump, anruft und die Teilnehmer des Treffens begrüßt.\n\nDer gesamte zweite Tag gehörte Charlie Ward.\nBy Iskra L.\n\nhttps://rumble.com/v1biect-reawaken-america-tour-virginia-beach-day-1.html\n\n.\n\nhttps://t.me/joinchat/UDhEMir3-8gZfXGg\n\nhttps://t.me/+lkdrke5Aozc1OTNi\n.",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "R D G",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 214,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5811551549939729708",
+        "_score": 2.3311,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 06:26:17.060446",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1659900553,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16580,
+            "date": 1659884941,
+            "from_id": {
+              "channel_id": 1345864754,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BILDER VON DER AMERIKATOUR VON DR. CHARLIE WARD, die ein großer Erfolg in einer Atmosphäre großer Begeisterung war. \n\nEs war Teil der von General Michael Flynn organisierten und geleiteten ReAwaken America Tour, und es war ein besonders aufregender erster Tag in Virginia Beach, wo Tausende von Patrioten aus ganz Amerika eingetroffen waren. \n\nDie Rede von Eric Trump, dem Sohn von Präsident Trump, der gekommen war, um die Veranstaltung zu unterstützen, wurde mit einem großen Knall begrüßt und die Menge explodierte förmlich, als er seinen Vater am Telefon anrief und Präsident Trump die Teilnehmer der Veranstaltung begrüßte. \n\nSie können den Moment auf dem Video sehen, zu dem ich am Ende einen Link hinterlasse. \n\nDr. Charlie Ward hat in den letzten zweieinhalb Jahren durch seinen YouTube-Kanal, aber auch als geladener Gast auf den Kanälen von Dutzenden von Patrioten aus den USA und anderen Ländern, eine enorme Arbeit für erwachende Menschen auf dem ganzen Planeten geleistet. \n\nEr hat ein exklusives 60-jähriges Leben auf dem Planeten hinter sich, von einem bescheidenen englischen Kind zu einem internationalen Finanzier und Geldvermittler für Weltregierungen. \n\nEr ist Leiter des Global Currency Revaluation Committee und ein offizieller Vertreter von QFS, dem Quantum Financial System. \n\nEr wurde von den Weißhüten mit der Operation betraut, das Gold zu Beginn der Quarantäne im März 2020 durch das russische und das US-amerikanische Militär aus den Kerkern des Vatikans zu entfernen, das mit 650 Boeing-Flugzeugen ausgeflogen wurde und durch das GESARA-Programm an die Menschen zurückgegeben werden wird.\n\nEr hat seinen festen Wohnsitz in Málaga, Spanien, wo er und seine aus Bulgarien stammende Frau mit eigenen Mitteln täglich 3 500 Obdachlose mit Lebensmitteln versorgen.\n\nHier zeigt sich ein Stück des Geistes des New Age.\n\nIch habe bereits einige Höhepunkte seiner Informationen weitergegeben, aber ich werde noch einige weitere hier in diese Liste aufnehmen.\n\nWir müssen berücksichtigen, dass er, wie auch die Journalistin Judy Byington, eine wichtige Informantin der Patriot Front, und auch Simon Parks, eine Geheimhaltungsvereinbarung mit den White Hats unterzeichnet haben und nur das weitergeben, was sie dürfen, obwohl sie viel mehr wissen.\n\nEin paar Highlights aus den Ausführungen von Charlie Ward auf der Tagung in Virginia Beach: \n\n▪️ Er machte eine Analogie zum Hirten: Wenn du die Schafe führst, werden sie dir folgen. Wenn man sie vertreibt, werden sie sich zerstreuen. So wahr! \n\n▪️ Wir befinden uns in einem unkonventionellen Krieg. \n\nEs wird einige Zusammenstöße geben. \n\nMach dir keine Sorgen! Diese Schlacht ist gewonnen! \n\nWir sehen gerade, wie eine Pantomime gespielt wird. \n\nWir kennen das Endspiel. \n\nSie wissen, dass Gott gewonnen hat! Wäre der Krieg auf traditionelle Weise geführt worden, hätte er fünfmal so lange gedauert.\n\nDas habe ich von General Flynn gelernt. \n\nEr weiß, wovon er redet. \n\nDie Menschen werden sich an die Prophezeiung von Kim Clement über die beiden Präsidenten erinnern.\n\nWir haben zwei Präsidenten. Das eine ist die Media and the Corporation, die 2018 in Konkurs ging und 2021 endgültig beendet wird.\n\nDie andere ist die verfassungsrechtliche.\n\nEr hat nicht die Massenmedien (allerdings nicht mehr lange), aber er hat das Militär.\n\nEs gibt jeden von uns, aber es gibt auch das Militär.\n\nIch kann Ihnen versichern, dass das Militär nicht auf den anderen hört, weil es nicht weiß, wovon es spricht.\n\nEr kennt nicht einmal seinen eigenen Namen.\n\nEr glaubt, sein Name sei Brandon.\n\nVor zehn Tagen kam die Flut zurück.\n\nDie öffentliche Meinung hat sich umgekehrt. \n\n▪️Gott schaut nicht auf uns herab! ER IST IN UNS! \n\n▪️ Ich habe eine Frau, die sofort spürt, wenn auf der anderen Seite des Planeten etwas nicht in Ordnung ist! \n\n▪️ Wir sind zur richtigen Zeit am richtigen Ort. \n\nUnd wir müssen einfach geduldig sein.\n\nDenken Sie daran, dass die Zeit vom Menschen geschaffen wurde, nicht von Gott.\n\nAuf die Plätze, fertig, los! Seid bereit! Passen Sie auf, dass Sie das Boot nicht verpassen!\n\n⬇️",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5701205048307061685",
+        "_score": 2.3311,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-10 16:05:28.580258",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1659898774,
+          "editdate": 1659900056,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16580,
+            "date": 1659884941,
+            "from_id": {
+              "channel_id": 1345864754,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BILDER VON DER AMERIKATOUR VON DR. CHARLIE WARD, die ein großer Erfolg in einer Atmosphäre großer Begeisterung war. \n\nEs war Teil der von General Michael Flynn organisierten und geleiteten ReAwaken America Tour, und es war ein besonders aufregender erster Tag in Virginia Beach, wo Tausende von Patrioten aus ganz Amerika eingetroffen waren. \n\nDie Rede von Eric Trump, dem Sohn von Präsident Trump, der gekommen war, um die Veranstaltung zu unterstützen, wurde mit einem großen Knall begrüßt und die Menge explodierte förmlich, als er seinen Vater am Telefon anrief und Präsident Trump die Teilnehmer der Veranstaltung begrüßte. \n\nSie können den Moment auf dem Video sehen, zu dem ich am Ende einen Link hinterlasse. \n\nDr. Charlie Ward hat in den letzten zweieinhalb Jahren durch seinen YouTube-Kanal, aber auch als geladener Gast auf den Kanälen von Dutzenden von Patrioten aus den USA und anderen Ländern, eine enorme Arbeit für erwachende Menschen auf dem ganzen Planeten geleistet. \n\nEr hat ein exklusives 60-jähriges Leben auf dem Planeten hinter sich, von einem bescheidenen englischen Kind zu einem internationalen Finanzier und Geldvermittler für Weltregierungen. \n\nEr ist Leiter des Global Currency Revaluation Committee und ein offizieller Vertreter von QFS, dem Quantum Financial System. \n\nEr wurde von den Weißhüten mit der Operation betraut, das Gold zu Beginn der Quarantäne im März 2020 durch das russische und das US-amerikanische Militär aus den Kerkern des Vatikans zu entfernen, das mit 650 Boeing-Flugzeugen ausgeflogen wurde und durch das GESARA-Programm an die Menschen zurückgegeben werden wird.\n\nEr hat seinen festen Wohnsitz in Málaga, Spanien, wo er und seine aus Bulgarien stammende Frau mit eigenen Mitteln täglich 3 500 Obdachlose mit Lebensmitteln versorgen.\n\nHier zeigt sich ein Stück des Geistes des New Age.\n\nIch habe bereits einige Höhepunkte seiner Informationen weitergegeben, aber ich werde noch einige weitere hier in diese Liste aufnehmen.\n\nWir müssen berücksichtigen, dass er, wie auch die Journalistin Judy Byington, eine wichtige Informantin der Patriot Front, und auch Simon Parks, eine Geheimhaltungsvereinbarung mit den White Hats unterzeichnet haben und nur das weitergeben, was sie dürfen, obwohl sie viel mehr wissen.\n\nEin paar Highlights aus den Ausführungen von Charlie Ward auf der Tagung in Virginia Beach: \n\n▪️ Er machte eine Analogie zum Hirten: Wenn du die Schafe führst, werden sie dir folgen. Wenn man sie vertreibt, werden sie sich zerstreuen. So wahr! \n\n▪️ Wir befinden uns in einem unkonventionellen Krieg. \n\nEs wird einige Zusammenstöße geben. \n\nMach dir keine Sorgen! Diese Schlacht ist gewonnen! \n\nWir sehen gerade, wie eine Pantomime gespielt wird. \n\nWir kennen das Endspiel. \n\nSie wissen, dass Gott gewonnen hat! Wäre der Krieg auf traditionelle Weise geführt worden, hätte er fünfmal so lange gedauert.\n\nDas habe ich von General Flynn gelernt. \n\nEr weiß, wovon er redet. \n\nDie Menschen werden sich an die Prophezeiung von Kim Clement über die beiden Präsidenten erinnern.\n\nWir haben zwei Präsidenten. Das eine ist die Media and the Corporation, die 2018 in Konkurs ging und 2021 endgültig beendet wird.\n\nDie andere ist die verfassungsrechtliche.\n\nEr hat nicht die Massenmedien (allerdings nicht mehr lange), aber er hat das Militär.\n\nEs gibt jeden von uns, aber es gibt auch das Militär.\n\nIch kann Ihnen versichern, dass das Militär nicht auf den anderen hört, weil es nicht weiß, wovon es spricht.\n\nEr kennt nicht einmal seinen eigenen Namen.\n\nEr glaubt, sein Name sei Brandon.\n\nVor zehn Tagen kam die Flut zurück.\n\nDie öffentliche Meinung hat sich umgekehrt. \n\n▪️Gott schaut nicht auf uns herab! ER IST IN UNS! \n\n▪️ Ich habe eine Frau, die sofort spürt, wenn auf der anderen Seite des Planeten etwas nicht in Ordnung ist! \n\n▪️ Wir sind zur richtigen Zeit am richtigen Ort. \n\nUnd wir müssen einfach geduldig sein.\n\nDenken Sie daran, dass die Zeit vom Menschen geschaffen wurde, nicht von Gott.\n\nAuf die Plätze, fertig, los! Seid bereit! Passen Sie auf, dass Sie das Boot nicht verpassen!\n\n⬇️",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "R D G",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331917603,
+            "comments": true,
+            "max_id": 146432,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 703223635
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 959662739
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 248604
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 218,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      }
+    ]
+  }
+}

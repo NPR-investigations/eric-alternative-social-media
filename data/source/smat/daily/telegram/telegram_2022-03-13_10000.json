@@ -1,0 +1,1972 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [38],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [25],
+      "relation": ["eq"]
+    },
+    "max_score": [14.5669],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5846913321357866990",
+        "_score": 14.5669,
+        "_source": {
+          "archivedon": "2022-03-14 06:35:06.759268",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1647183368,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1179531088
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Kiker news",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 587756
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1179531088,
+            "_media_ref": "7c49873f1b3bddb133e8e5f42c46ad0e62b4eb06",
+            "_v": 1,
+            "access_hash": 8.41313829123224e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Really Mad",
+            "id": 1179531088,
+            "is_self": false,
+            "last_name": "Lumberjack",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 76780,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "photo_id": 5.44983310698818e+18,
+              "photo_small": {
+                "local_id": 76778,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ReallyMadLumberjack",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4923254645570223562",
+        "_score": 12.5594,
+        "_source": {
+          "archivedon": "2022-03-14 01:12:12.621293",
+          "channeltitle": "At Weeks End News",
+          "channelusername": "AtWeeksEndNews",
+          "date": 1647205075,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 70,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 327,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1807969131
+          },
+          "fwdfrom": {
+            "channel_post": 3123,
+            "date": 1647188144,
+            "from_id": {
+              "channel_id": 1473868914,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Former US Attorney General Eric Holder explaining propaganda tactics.\n@HATSTRUTH 🎩",
+          "peerid": {
+            "channel_id": 1146284548,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 94506
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1807969131,
+            "_media_ref": "7903208af7145e05dc3f89191789cd757bf4ac75",
+            "_v": 1,
+            "access_hash": 4.02796614200421e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Neo",
+            "id": 1807969131,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 295924,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400530
+              },
+              "photo_id": 4.97691201175773e+18,
+              "photo_small": {
+                "local_id": 295922,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400530
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 23629
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6230984483969969291",
+        "_score": 12.5594,
+        "_source": {
+          "archivedon": "2022-03-14 04:16:00.32198",
+          "channelabout": "Sign up on my website \nwww.leegarrett-thetruth.com\n\nDaily uploads on my YouTube also\n\nhttps://youtube.com/channel/UCcaqZBIckXHYudQZwBy6fXA",
+          "channeltitle": "LeeGarrett-TheTruth News",
+          "channelusername": "leegarrettchannel",
+          "date": 1647188216,
+          "editdate": 1647188219,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 70,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3123,
+            "date": 1647188144,
+            "from_id": {
+              "channel_id": 1473868914,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Former US Attorney General Eric Holder explaining propaganda tactics.\n@HATSTRUTH 🎩",
+          "peerid": {
+            "channel_id": 1450764128,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Stephen Broughton",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1337854631,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 260039
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 225
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5224582498721252699",
+        "_score": 12.5594,
+        "_source": {
+          "archivedon": "2022-03-14 13:20:42.140727",
+          "channelabout": "22 Dedicated patriots✝️ from ACROSS THE POND 💦 providing the latest News 📰 \n\nChannel.     👉@wearethecure1 🇬🇧\nChatroom  👇                                                  https://t.me/c/1459867032/3688 🇺🇸\n\nbit.ly/PatriotMap 🇺🇸 \n\nMultiple patriotic channels",
+          "channeltitle": "🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🇩🇪We Are The Cure 🇺🇸🇳🇱🇧🇬🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "channelusername": "wearethecure1",
+          "date": 1647188188,
+          "editdate": 1647219557,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 70,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3123,
+            "date": 1647188144,
+            "from_id": {
+              "channel_id": 1473868914,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Former US Attorney General Eric Holder explaining propaganda tactics.\n@HATSTRUTH 🎩",
+          "peerid": {
+            "channel_id": 1216442906,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Stephen Broughton",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1335
+        },
+        "_ignored": ["channelabout.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5846913321357867104",
+        "_score": 12.3495,
+        "_source": {
+          "archivedon": "2022-03-14 06:35:07.2824",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1647192492,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1179531088
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "You believe anything these kike shill eric kiker and other fags share",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 674454
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1179531088,
+            "_media_ref": "7c49873f1b3bddb133e8e5f42c46ad0e62b4eb06",
+            "_v": 1,
+            "access_hash": 8.41313829123224e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Really Mad",
+            "id": 1179531088,
+            "is_self": false,
+            "last_name": "Lumberjack",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 76780,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "photo_id": 5.44983310698818e+18,
+              "photo_small": {
+                "local_id": 76778,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ReallyMadLumberjack",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5582629449465078114",
+        "_score": 12.1409,
+        "_source": {
+          "archivedon": "2022-03-14 01:49:16.116571",
+          "channelabout": "Channel for VDARE.com",
+          "channeltitle": "VDARE.com",
+          "channelusername": "vdare",
+          "date": 1647185004,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 134,
+              "offset": 111,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "THE WAGES OF CUCKSERVATISM: France’s Marine Le Pen Moved Left, Provoked Crippling Challenge From Eric Zemmour\n\nhttps://vdare.com/articles/the-wages-of-cuckservatism-france-s-marine-le-pen-moved-left-provoked-crippling-challenge-from-eric-zemmour",
+          "peerid": {
+            "channel_id": 1299807208,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 436
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5843561275476494566",
+        "_score": 12.0425,
+        "_source": {
+          "archivedon": "1681011985",
+          "channelabout": "A Place to Freely Share your Christian Faith...News Too...\nJudgement Free Zone",
+          "channeltitle": "Jim - The Chaplain",
+          "channelusername": "SeniorChaplain",
+          "date": 1647198570,
+          "editdate": 1647198573,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 215,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24460,
+            "date": 1647193899,
+            "from_id": {
+              "channel_id": 1302871845,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "Chad Vivas aka KagDrogo presenting his amazing paintings to Eric Trump and General Flynn. You can own a print too. Just go to https://www.chadhvivas.com/. \n\nAlso, listen to what Eric Trump says about Gen Flynn. 💥 \n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1360560133,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Toni Triano",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1580118463,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 301387
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 18,
+          "id": 84198,
+          "mediaref": "467a3127b5ee3ce62c2730626e7beb88b5489b8c",
+          "noforwards": false,
+          "lastseents": "2023-04-09T03:46:26.143307"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5595791965154205580",
+        "_score": 12.0425,
+        "_source": {
+          "archivedon": "2022-03-13 19:27:10.949034",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1647193899,
+          "editdate": 1647196891,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 215,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 97,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Chad Vivas aka KagDrogo presenting his amazing paintings to Eric Trump and General Flynn. You can own a print too. Just go to https://www.chadhvivas.com/. \n\nAlso, listen to what Eric Trump says about Gen Flynn. 💥 \n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1720459,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 713020127
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1556007371
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1717186056
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 7,
+            "replies_pts": 2427017
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21059
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4989848298178272109",
+        "_score": 12.0425,
+        "_source": {
+          "archivedon": "2022-03-14 13:12:07.501082",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1647193946,
+          "editdate": 1647193957,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 215,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 115,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24460,
+            "date": 1647193899,
+            "from_id": {
+              "channel_id": 1302871845,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Chad Vivas aka KagDrogo presenting his amazing paintings to Eric Trump and General Flynn. You can own a print too. Just go to https://www.chadhvivas.com/. \n\nAlso, listen to what Eric Trump says about Gen Flynn. 💥 \n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 4900182,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1940267572
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1573240034
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1640612415
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 28,
+            "replies_pts": 6434745
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 30951
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5378609393279484291",
+        "_score": 11.7631,
+        "_source": {
+          "archivedon": "2022-03-18 01:52:43.753636",
+          "channeltitle": "Damien De Ment Chat",
+          "channelusername": "damien_dement_chat",
+          "date": 1647129930,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2098352850
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Goodbye u silly little duck ....hello Yandex. Sad to see Eric Dubays vids gone tho!",
+          "peerid": {
+            "channel_id": 1252305087,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 49127
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 2098352850,
+            "_media_ref": "3ab8e474ed810a749667f3f61b02cc5264b39127",
+            "_v": 1,
+            "access_hash": -4.48924263656895e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Gabriel Stella",
+            "id": 2098352850,
+            "is_self": false,
+            "last_name": "Topia",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 14907,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100178000678
+              },
+              "photo_id": 4.9790113144626e+18,
+              "photo_small": {
+                "local_id": 14905,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100178000678
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4599600813680122543",
+        "_score": 11.7574,
+        "_source": {
+          "archivedon": "2022-03-14 07:35:47.776668",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1647202096,
+          "editdate": 1647202150,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 255,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Mayor Eric Adams is only down by about $600 — or 3 percent – in his cryptocurrency portfolio, after NYC Mayor Eric promised to put his first three paychecks — after taxes and other deductions — into the two largest cryptocurrencies, Bitcoin and Ethereum.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 60551
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1090
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "7228867006450134241",
+        "_score": 11.4047,
+        "_source": {
+          "archivedon": "2022-03-14 01:34:31.193252",
+          "channelabout": "Support: https://t.me/TruckersForFreedomSupport",
+          "channeltitle": "Truckers for Freedom Support",
+          "channelusername": "TruckersForFreedomSupport",
+          "date": 1647146690,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 104,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 18,
+              "offset": 52,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 10,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1824051675
+          },
+          "fwdfrom": {
+            "channel_post": 4759,
+            "date": 1647146673,
+            "from_id": {
+              "channel_id": 1502581999,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Michael A. Fuchs",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "French presidential candidate Eric Zemmour receives an egg on his head when he arrives at Mossack today.",
+          "peerid": {
+            "channel_id": 1683101758,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 41353
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1824051675,
+            "_media_ref": "fa56adbbdac1e2240db92acb64f85e441d651ea8",
+            "_v": 1,
+            "access_hash": 5.48809828169398e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michael A.",
+            "id": 1824051675,
+            "is_self": false,
+            "last_name": "Fuchs",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 442379,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400208500492
+              },
+              "photo_id": 5.95404216279667e+18,
+              "photo_small": {
+                "local_id": 442377,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400208500492
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 1052
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5813470567096939974",
+        "_score": 11.0644,
+        "_source": {
+          "archivedon": "2022-06-28 14:47:27.397462",
+          "channeltitle": "Nay Win",
+          "channelusername": "naywin331",
+          "date": 1647151861,
+          "editdate": 1647153331,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 192,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 22,
+              "offset": 218,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 8,
+              "offset": 447,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 22,
+              "offset": 473,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Crd... Eric Bee\n\n            \" ဘိုင္ဒင့္လက္ထက္က်မွ\n               အေမရိကန္ဟာ...\n               လူမေလး၊ ေခြးမခန႔္ျဖစ္သြားၿပီ \"\n\nအီရတ္က\nအေမရိကန္ ေကာင္ဆလိပ္႐ုံးကို\nအီရန္က ဒုံးနဲ႔လည္း ပစ္တယ္ေနာ္။\n#Bamaung(Dr nay zin latt)\nhttps://t.me/naywin331\n=====\nUnicode\nCrd... Eric Bee\n\n            \" ဘိုင်ဒင့်လက်ထက်ကျမှ\n               အမေရိကန်ဟာ...\n               လူမလေး၊ ခွေးမခန့်ဖြစ်သွားပြီ \"\n\nအီရတ်က\nအမေရိကန် ကောင်ဆလိပ်ရုံးကို\nအီရန်က ဒုံးနဲ့လည်း ပစ်တယ်နော်။\n#Bamaung(Dr nay zin latt)\nhttps://t.me/naywin331",
+          "peerid": {
+            "channel_id": 1353554094,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Nay Win",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1594855623,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 65975
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 368,
+          "mediaref": "94b25831938d09e0933df43b5818b9da061009b2"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6849852742626716783",
+        "_score": 11.0644,
+        "_source": {
+          "archivedon": "2022-07-01 07:17:51.842755",
+          "channeltitle": "@naywin331",
+          "date": 1647151864,
+          "editdate": 1647153331,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 192,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 22,
+              "offset": 218,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 8,
+              "offset": 447,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 22,
+              "offset": 473,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353554094
+          },
+          "fwdfrom": {
+            "channel_post": 30150,
+            "date": 1647151861,
+            "from_id": {
+              "channel_id": 1353554094,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Nay Win",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 30150,
+            "saved_from_peer": {
+              "channel_id": 1353554094,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Crd... Eric Bee\n\n            \" ဘိုင္ဒင့္လက္ထက္က်မွ\n               အေမရိကန္ဟာ...\n               လူမေလး၊ ေခြးမခန႔္ျဖစ္သြားၿပီ \"\n\nအီရတ္က\nအေမရိကန္ ေကာင္ဆလိပ္႐ုံးကို\nအီရန္က ဒုံးနဲ႔လည္း ပစ္တယ္ေနာ္။\n#Bamaung(Dr nay zin latt)\nhttps://t.me/naywin331\n=====\nUnicode\nCrd... Eric Bee\n\n            \" ဘိုင်ဒင့်လက်ထက်ကျမှ\n               အမေရိကန်ဟာ...\n               လူမလေး၊ ခွေးမခန့်ဖြစ်သွားပြီ \"\n\nအီရတ်က\nအမေရိကန် ကောင်ဆလိပ်ရုံးကို\nအီရန်က ဒုံးနဲ့လည်း ပစ်တယ်နော်။\n#Bamaung(Dr nay zin latt)\nhttps://t.me/naywin331",
+          "peerid": {
+            "channel_id": 1594855623,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 66756
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 368,
+          "mediaref": "94b25831938d09e0933df43b5818b9da061009b2"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5846913321357867054",
+        "_score": 10.7551,
+        "_source": {
+          "archivedon": "2022-03-14 06:35:07.23424",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1647189745,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1256549978
+          },
+          "fwdfrom": {
+            "channel_post": 567,
+            "date": 1643605897,
+            "from_id": {
+              "channel_id": 1444513475,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Markus Antony",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Watch \"1 Year Anniversary Show! 4+ HOURS! FLORIDA EXPLOITATION DOUBLE FEATURE! LOTS OF ERIC & SJ WEIRDNESS!\" on YouTube\nhttps://youtu.be/MkqGfV6deS4",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 674454
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1256549978,
+            "_v": 1,
+            "access_hash": 1.05714655169556e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mark",
+            "id": 1256549978,
+            "is_self": false,
+            "last_name": "Abeel",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 449
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4978956097906819627",
+        "_score": 10.7551,
+        "_source": {
+          "archivedon": "2022-03-14 11:41:37.362999",
+          "channelabout": "For the free peoples of New Jersey, toward a free New Jersey Homeland.",
+          "channeltitle": "Free New Jersey",
+          "channelusername": "FreeNewJersey",
+          "date": 1647189748,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1256549978
+          },
+          "fwdfrom": {
+            "channel_post": 567,
+            "date": 1643605897,
+            "from_id": {
+              "channel_id": 1444513475,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Markus Antony",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Watch \"1 Year Anniversary Show! 4+ HOURS! FLORIDA EXPLOITATION DOUBLE FEATURE! LOTS OF ERIC & SJ WEIRDNESS!\" on YouTube\nhttps://youtu.be/MkqGfV6deS4",
+          "peerid": {
+            "channel_id": 1159253553,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21509
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1256549978,
+            "_v": 1,
+            "access_hash": 1.05714655169556e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mark",
+            "id": 1256549978,
+            "is_self": false,
+            "last_name": "Abeel",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 477
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5595791965154205577",
+        "_score": 9.438,
+        "_source": {
+          "archivedon": "2022-03-13 19:27:10.944048",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1647192224,
+          "editdate": 1647192282,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 159,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 58,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Chad Vivas aka KagDrogo presents his painting to Eric Trump at General Flynn’s Reawakening Tour. \n\nDo you see what I see?\nBuy this print to support Chad here: https://www.chadhvivas.com/\n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1720399,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1644503626
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1505472011
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1184560559
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 11,
+            "replies_pts": 2427017
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 18385
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5031147715854282774",
+        "_score": 9.438,
+        "_source": {
+          "archivedon": "2022-03-14 13:21:14.926008",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "date": 1647192470,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 159,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 121,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1511684658
+          },
+          "fwdfrom": {
+            "channel_post": 24457,
+            "date": 1647192224,
+            "from_id": {
+              "channel_id": 1302871845,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Chad Vivas aka KagDrogo presents his painting to Eric Trump at General Flynn’s Reawakening Tour. \n\nDo you see what I see?\nBuy this print to support Chad here: https://www.chadhvivas.com/\n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1171405361,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 258950
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1511684658,
+            "_v": 1,
+            "access_hash": -7.43617247204837e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bobby",
+            "id": 1511684658,
+            "is_self": false,
+            "last_name": "Chapio",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 39345
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4989848298178272108",
+        "_score": 9.438,
+        "_source": {
+          "archivedon": "2022-03-14 13:12:07.323678",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1647192234,
+          "editdate": 1647192247,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 159,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 88,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24457,
+            "date": 1647192224,
+            "from_id": {
+              "channel_id": 1302871845,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Chad Vivas aka KagDrogo presents his painting to Eric Trump at General Flynn’s Reawakening Tour. \n\nDo you see what I see?\nBuy this print to support Chad here: https://www.chadhvivas.com/\n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 4902657,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1728869701
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1515763362
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1153599990
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 66,
+            "replies_pts": 6434745
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 32769
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6427630059833689042",
+        "_score": 7.7153,
+        "_source": {
+          "archivedon": "2022-03-14 07:08:32.524479",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1647173774,
+          "editdate": 1647179524,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 226,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/SGTNewsNetwork"
+            },
+            {
+              "length": 5,
+              "offset": 226,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 21,
+              "offset": 232,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 21,
+              "offset": 232,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 25,
+              "offset": 254,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/SGTNewsNetwork"
+            },
+            {
+              "length": 25,
+              "offset": 254,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 25,
+              "offset": 254,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18890,
+            "date": 1647163920,
+            "from_id": {
+              "channel_id": 1422038988,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇺🇸 This Is Eric Holder, Obama's Attorney General.\n\nThis is how these 'elites' control your mind...\n\nNow, do you understand why we have so many NPCs whose beliefs change all of a sudden to whatever they are told to believe?!\nSHARE this far and wide🇺🇸\nJoin Us👉 @SGTnewsNetwork",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jenny B",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5963627275214652439",
+        "_score": 6.8372,
+        "_source": {
+          "archivedon": "2022-03-14 03:25:17.848784",
+          "channelabout": "These lives mattered.",
+          "channeltitle": "Every Day",
+          "channelusername": "everyday1350",
+          "date": 1647169200,
+          "editdate": 1647169593,
+          "edithide": true,
+          "entities": [],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 305,
+            "date": 1615644022,
+            "from_id": {
+              "channel_id": 1388515177,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "On March 13, 2010, Conor Warren Reynolds went to a birthday party for a classmate. A fight broke out in the restaurant and when Conor tried to help break it up, Eric Denson stabbed him. Conor stumbled outside and bled to death in the parking lot. According to one of the first responders, the 17-year-old had a \"golf ball sized gap\" in his neck.",
+          "peerid": {
+            "channel_id": 1388515177,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 949
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6425693983065768801",
+        "_score": 6.8372,
+        "_source": {
+          "archivedon": "2022-03-14 14:11:05.196576",
+          "channelabout": "This is a Grassroots movement here to promote and protect the White Race and it's culture.\n\nWe will not be silenced any longer.\n\nIt is time for us to stand and unite to ensure our survival!!\n\n\n@whitelivesmatterofficial",
+          "channeltitle": "WLM_AUSTRALIA",
+          "channelusername": "WLM_AUSTRALIA",
+          "date": 1647203627,
+          "editdate": 1647203630,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 305,
+            "date": 1615644022,
+            "from_id": {
+              "channel_id": 1388515177,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "On March 13, 2010, Conor Warren Reynolds went to a birthday party for a classmate. A fight broke out in the restaurant and when Conor tried to help break it up, Eric Denson stabbed him. Conor stumbled outside and bled to death in the parking lot. According to one of the first responders, the 17-year-old had a \"golf ball sized gap\" in his neck.",
+          "peerid": {
+            "channel_id": 1496098466,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1296994509,
+            "comments": true,
+            "max_id": 3122,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 864539880
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 4995
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 60
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6590225693320165205",
+        "_score": 4.2039,
+        "_source": {
+          "archivedon": "2022-03-14 01:24:42.688278",
+          "channelabout": "Acest grup este pentru noi in prim plan. \nPrin unitate aducem caravana peste aceste tinuturi dragi.\nThis group is for Romanians but we welcome all of your support, others are welcome here as well.",
+          "channeltitle": "Truckers Pentru Romania - O singura iubire",
+          "channelusername": "TruckersPentruRomania",
+          "date": 1647186220,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 162,
+              "offset": 778,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 947,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 17,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1482654099
+          },
+          "fwdfrom": {
+            "channel_post": 5868,
+            "date": 1647180580,
+            "from_id": {
+              "channel_id": 1578371622,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Pe cine miră treaba asta? Eric Zemmour, candidat la presedintia Frantei, s-ar bucura de un puternic sprijin din partea bancherilor familiei Rothschild care gestionează finanțarea campaniei sale prezidențiale, după cum a dezvăluit o anchetă a Radio France, preluată de France Info, care a fost larg mediatizată vineri în presa franceză. Într-adevăr, în spatele mediatizării excesive a lui Zemmour, un ideolog de dreapta, se află oameni foarte bogați, gata să facă orice pentru ca fostul editorialist de la CNews să ajungă la putere. Dar cine sunt acești oameni, total în afara lumii mediatice, care lucrează în umbră pentru Zemmour? Ancheta realizată de France Info a ridicat vălul de pe această afacere. Potrivit unității de anchetă a Radio France, apare in scena Julien Madar.\nhttps://m.ziuanews.ro/externe/o-anchet-radio-france-dezv-luie-c-un-candidat-anti-sistem-la-functia-prezidentiala-este-marioneta-bancherilor-lui-rothschild-1565796      \nhttps://t.me/PastilaRosie\n👆👆abonează-te👆👆",
+          "peerid": {
+            "channel_id": 1534406490,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 23228
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1482654099,
+            "_v": 1,
+            "access_hash": -3.33056393477135e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Ana",
+            "id": 1482654099,
+            "is_self": false,
+            "last_name": "Ana",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FloRom97",
+            "verified": false
+          },
+          "v": 1,
+          "views": 1913
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5046948273470893888",
+        "_score": 3.5712,
+        "_source": {
+          "archivedon": "2022-03-14 16:26:24.779892",
+          "channelabout": "Официальная страница интернет-издания Ukraina.ru в Telegram\n\nЗаинтересованный взгляд на Украину и прилегающие к ней окрестности\n\nОбратная связь и сотрудничество -@RUkrainaBot\n\n©️ Медиагруппа «Россия сегодня»",
+          "channeltitle": "Украина.ру",
+          "channelusername": "ukraina_ru",
+          "date": 1647162134,
+          "editdate": 1647162143,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 40,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 68,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 223,
+              "offset": 115,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 583,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 634,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 675,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 302,
+              "offset": 821,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 303,
+              "offset": 1123,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 20,
+              "offset": 1426,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=DzdbAD-3a9c"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "В рабочий полдень\n\n🎸13 марта 1965 года Эрик Клэптон ушел из группы The Yardbirds из-за творческих разногласий.\n\n☝️Нужно сказать, что The Yardbirds - группа, в которой начинали чуть ли не все лучшие британские рок-гитаристы: Эрик Клэптон, Джефф Бэк и Джимми Пейдж, а еще из этой группы фактически сформировался легендарный Led Zeppelin.\n\n🎶Группа считается очень знаменитой и одновременно недооценённой. Одна из многих молодых британских групп начала 60-х годов, которые черпали своё творчество из американского блюза и R & B (наряду с Rolling Stones, Pretty Things and Animals).\n\n🎵Эрик Клэптон пришёл в группу после ухода гитариста Топа Тофэма, в октябре 1963 года. В 1964 The Yardbirds записывает свой первый альбом, после которого начинает приходить популярность. Их сингл «For Your Love» разошёлся миллионом копий.\n\n🎤Несмотря на успех, Клэптон покидает группу, чтобы проложить собственный путь. На своё место порекомендовал Джимми Пейджа, который был, на тот момент сессионным музыкантом. Но поняв, что работа в \"Бёрдс\" приносит ему меньше денег, чем сессионные записи, отказался, порекомендовав группу Джеффу Беку.\n\nСольная карьера Эрика Клэптона сложилась более чем удачно, он выпустил бесчисленное множество успешных альбомов. Забавно, что в этот же день 13 марта 1993 года Эрик Клэптон занял первую строчку американского альбомного чарта с концертной записью «Unplugged», ставшего классикой акустического блюз-рока.\nEric Clapton - Layla",
+          "peerid": {
+            "channel_id": 1175084215,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 19166
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5846913321357867538",
+        "_score": 2.3855,
+        "_source": {
+          "archivedon": "2022-03-14 06:35:08.336726",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1647212225,
+          "editdate": 1647221931,
+          "edithide": true,
+          "entities": [],
+          "forwards": 68,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1268172099
+          },
+          "fwdfrom": {
+            "channel_post": 3185,
+            "date": 1647212222,
+            "from_id": {
+              "channel_id": 1268172099,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 3185,
+            "saved_from_peer": {
+              "channel_id": 1268172099,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "EVERY ASPECT OF USA GOVERMENT IS JEWISH!                                                     *Jewish Ron Klain, White House Chief of Staff\n*Jewish Tony Blinken, Secretary of State\n*Jewish Janet Yellin, Secretary of Treasury\n*Jewish Merrick Brian Garland, Attorney General: DOJ/FBI/JTTF\n*Jewish Avril Haines, Director of National Intelligence: DNI\n*Jewish Alejandro Mayorkas, Secretary of Homeland Security: DHS\n*Jewish Roberta Jacobson, National Security Council “border czar”\n*Jewish Rochelle Walensky, Director of the Centers for Disease Control and\nPrevention: CDC\n*Jewish Jeffrey Zients, White House COVID-19 Response Coordinator\n*Jewish David Kessler, White House Chief Science Officer of the White House\nCOVID 19 Response Team\n*Jewish Gary Gensler, Chairman Securities and Exchange Commission:SEC\n*Jewish Jessica Rosenworcel, Chair of the Federal Communications Commission:\nFCC\nJewish Gigi Sohn, FCC Commissioner\nJewish Wendy Sherman, Deputy Secretary of State\nJewish David Cohen, CIA Deputy Director\nJewish Chanan Weissman, Director for Technology and Democracy at National\nSecurity Counsel\nJewish Anne Neuberger, Deputy National Security Adviser for Cybersecurity\nJewish Mira Resnick, State Department Deputy Assistant Secretary for Regional\nSecurity\nJewish Jonathan Kanter, Assistant Attorney General in the U.S. DOJ Antitrust\nDivision\nJewish Jared Bernstein, Council of Economic Advisers\nJewish Rachel Levine, Deputy Health Secretary\nJewish Stephanie Pollack, Deputy Administrator of the Federal Highway\nAdministration\nJewish Laura Schiller, Dept of Transportation Chief of Staff\nJewish Polly Trottenberg, Deputy Secretary of Transportation\nJewish Jed Kolko, Under Secretary of Commerce for Economic Affairs at the\nDepartment of Commerce [nominee]\nJewish Genine Macks Fidler, National Council on the Humanities\nJewish Mark Gitenstein, U.S. Ambassador to the European Union\nJewish Rahm Emanuel, U.S. Ambassador to Japan\nJewish Thomas Nides, U.S. Ambassador to Israel\nJewish Amy Gutmann, U.S. Ambassador Germany\nJewish Eric Garcetti, U.S. Ambassador to India\nJewish David Cohen, U.S. Ambassador to Canada\nJewish Jonathan Kaplan, U.S. Ambassador to Singapore\nJewish Dan Shapiro, Adviser on Iran\nJewish Michael Adler, U.S. Ambassador to Belgium\nJewish Marc Stanley, U.S. Ambassador to Argentina\nJewish Alan Leventhal, U.S. Ambassador to Denmark [nominee]\nJewish Michèle Taylor, United Nations Human Rights Council [nominee]\nJewish Sharon Kleinbaum, Commissioner of the United States Commission on\nInternational Religious Freedom\nJewish Jennifer Klein, Co-chair Council on Gender Policy\nJewish Deborah Lipstadt, Special Envoy to Monitor and Combat Anti-Semitism\nJewish Aron Keyak, Deputy Envoy to Monitor and Combat Anti-Semitism\nJewish Stuart Eizenstat, Special Advisor on Holocaust Issues\nJewish Victoria Nuland, Under Secretary of State for Political Affairs.\nJewish Andrew Slavitt, Senior Advisor to the COVID-19 Response Coordinator\nJewish Yael Lempert, Asst. Secretary of State Near Eastern Affairs",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 588313,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 674454
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1241
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

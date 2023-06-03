@@ -1,0 +1,4329 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [129],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [46],
+      "relation": ["eq"]
+    },
+    "max_score": [12.9226],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6617507450138452531",
+        "_score": 12.9226,
+        "_source": {
+          "archivedon": "2022-08-26 05:15:37.195985",
+          "channeltitle": "Kayleigh McEnany Chat",
+          "date": 1661488154,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1568083315
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Swollows well.",
+          "peerid": {
+            "channel_id": 1540758519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 57245
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1568083315,
+            "_v": 1,
+            "access_hash": 7.91799114762268e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Wsmith",
+            "id": 1568083315,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 213644,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100058200626
+              },
+              "photo_id": 5.12077226345979e+18,
+              "photo_small": {
+                "local_id": 213642,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100058200626
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "7424411756425910748",
+        "_score": 11.9467,
+        "_source": {
+          "archivedon": "2022-08-26 17:57:56.593855",
+          "channeltitle": "Official Memphis \"West Tennessee\" Proud Boys",
+          "date": 1661523962,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17224,
+            "date": 1661521592,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Former WI Justice Michael Gableman Calls Out ERIC System and WI Election Fraud at Moment of Truth Summit \n\nhttps://www.thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit/",
+          "peerid": {
+            "channel_id": 1728630568,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 35,
+          "channelusername": "OfficialWestTennesseProudBoys",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5966960951520536489",
+        "_score": 11.9467,
+        "_source": {
+          "archivedon": "2022-08-26 17:29:33.005408",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "date": 1661524438,
+          "editdate": 1661525291,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 65,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1252412179
+          },
+          "fwdfrom": {
+            "channel_post": 17224,
+            "date": 1661521592,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1276,
+            "saved_from_peer": {
+              "channel_id": 1252412179,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Former WI Justice Michael Gableman Calls Out ERIC System and WI Election Fraud at Moment of Truth Summit \n\nhttps://www.thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit/",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 236884
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 9884,
+          "channelusername": "Wiauditchat",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6462698025423735431",
+        "_score": 11.9467,
+        "_source": {
+          "archivedon": "1682236458",
+          "channeltitle": "America's Audit Force",
+          "date": 1661521717,
+          "editdate": 1661523835,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17224,
+            "date": 1661521592,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Brian Lupo",
+              "description": "Former WI Supreme Court Justice Michael Gableman was contracted by RINO Robin Vos to conduct an in-depth investigation into the 2020 election.  In this investigation, he found massive discrepancies in the way the WEC conducted the 2020 election.  Justice Gableman called for the legislature in Wisconsin to “take a very hard look at decertification”. Justice…",
+              "display_url": "thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit",
+              "hash": 0,
+              "id": 7.00594959774827e+18,
+              "photo": {
+                "access_hash": -2.37003982745469e+18,
+                "date": 1633105145,
+                "dc_id": 4,
+                "file_reference": "AGRE469HzC4UUSQx78XfQ7MWaKSn",
+                "has_stickers": false,
+                "id": 5.96218328619114e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "AR4opSLlz9adbRJJKqk/hTjt3n5wD6ZqeBURw/f2rNMotTxoI8KowBWUYx53AHBq87KTjc/PvVfyyz7lOOaY2IBnNFKvU0VmMrSYdzTogscik5C55wajBw1PbgVvYyuXJmdBg7do/jqmLhlY7eV96axLAAngdqZilYdywkw5OMn0zRVfuKKXIh3P",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 240,
+                    "size": 17055,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 355,
+                    "w": 474,
+                    "sizes": [2976, 10909, 20901, 21710]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "Former WI Justice Michael Gableman Calls Out ERIC System and WI Election Fraud at Moment of Truth Summit",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit/"
+            }
+          },
+          "message": "Former WI Justice Michael Gableman Calls Out ERIC System and WI Election Fraud at Moment of Truth Summit \n\nhttps://www.thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit/",
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "max_id": 14099,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1440700695
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 34072
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 228,
+          "channelusername": "AmericasAuditForce",
+          "channelabout": "",
+          "id": 2695,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 7,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-23T07:54:18.989947"
+        },
+        "_ignored": ["media.webpage.description.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5086185737477427538",
+        "_score": 11.3981,
+        "_source": {
+          "archivedon": "2022-08-26 05:09:52.61581",
+          "channeltitle": "The First",
+          "date": 1661479251,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 91,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "How CNN Crashed with Bill O'Reilly & Eric Bolling\n\nWATCH: https://youtu.be/aw9kBCn36pk\n\n👉 @TheFirst0nTV",
+          "peerid": {
+            "channel_id": 1184219899,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 30,
+          "channelusername": "TheFirst0nTV",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5281071798383810699",
+        "_score": 11.0477,
+        "_source": {
+          "archivedon": "2022-08-27 00:23:33.902983",
+          "channeltitle": "MAGA Revolution 🇺🇸",
+          "date": 1661548511,
+          "editdate": 1661548569,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 78,
+              "offset": 54,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://conservativebrief.com/surveillance-65631/?utm_source=CB&utm_medium=887"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump drops big news about the security footage.\nhttps://conservativebrief.com/surveillance-65631/?utm_source=CB&utm_medium=887",
+          "peerid": {
+            "channel_id": 1229595346,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1223008320,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1579626
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2746,
+          "channelusername": "MAGARevolution",
+          "channelabout": "Breaking News, Politics, Commentary\n\nhttps://ConservativeBrief.com",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5354447101273312729",
+        "_score": 10.7531,
+        "_source": {
+          "archivedon": "2022-08-26 14:56:30.745312",
+          "channeltitle": "Patriot Army",
+          "date": 1661521598,
+          "editdate": 1661521601,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 287,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 308,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 323,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 343,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 362,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Former WI Justice Michael Gableman Calls Out ERIC System and WI Election Fraud at Moment of Truth Summit \n\nhttps://www.thegatewaypundit.com/2022/08/former-wi-justice-michael-gableman-calls-eric-system-wi-election-fraud-moment-truth-summit/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 691874
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 19,
+          "channelusername": "PatriotArmy",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6133253456632224630",
+        "_score": 9.4367,
+        "_source": {
+          "archivedon": "2022-08-26 07:50:41.161327",
+          "channeltitle": "Flache Erde Deutschland ❤️",
+          "date": 1661497482,
+          "editdate": 1661497582,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 190,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 23,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Danke an Eddie das er diesen abstrusen Bullshit der seit einigen Tagen auf diversen Plattformen verbreitet wird klar stellt 👏🏻\n\nEric Dubay hat es auch schon unter dem Video kommentiert!\n\n\nhttps://youtu.be/Lsthy-erljw",
+          "peerid": {
+            "channel_id": 1428009350,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1251,
+          "channelusername": "flacheerdegemeinschaft",
+          "channelabout": "Dieser Kanal behandelt nicht nur ausschließlich das Thema Flache Erde.  Bitte abonnieren",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6094192163595964909",
+        "_score": 9.13,
+        "_source": {
+          "archivedon": "2022-08-26 22:58:37.863956",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1661540148,
+          "editdate": 1661540433,
+          "edithide": true,
+          "entities": [],
+          "forwards": 17,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1933210028
+          },
+          "fwdfrom": {
+            "channel_post": 59,
+            "date": 1652748204,
+            "from_id": {
+              "channel_id": 1567891232,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "PLEASE tell me this r3t4rd3d, woman abusing, junkie, gaslighting, lying, jobless, insecure, beta, mentally ill, Forest Gump lookin sub human isn't the face of your freedom movement. 🤡🤣 Brebtard Eric and Lala A Man ddda are done!",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 1790454,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 2854889
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1933210028,
+            "_v": 1,
+            "access_hash": -7.52058133663519e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lisa",
+            "id": 1933210028,
+            "is_self": false,
+            "last_name": "Thomas",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 158767,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054400671
+              },
+              "photo_id": 4.91388124068011e+18,
+              "photo_small": {
+                "local_id": 158765,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054400671
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "7870fe3da4726b3bb298e917ee709e521b4a2216"
+          },
+          "v": 1,
+          "views": 1197,
+          "channelusername": "QStorm1111",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5201084341802805802",
+        "_score": 8.2305,
+        "_source": {
+          "archivedon": "2022-08-26 09:56:06.010429",
+          "channeltitle": "DUTCH DIGGER NEWS",
+          "date": 1661495553,
+          "editdate": 1661495882,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 209,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 22,
+              "offset": 299,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 55,
+              "offset": 690,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 63,
+              "offset": 746,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 56,
+              "offset": 810,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 867,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 906,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 18,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3910,
+            "date": 1655744097,
+            "from_id": {
+              "channel_id": 1514556607,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Smit oprichter en eigenaar van FTM Follow The Money \nEric Smit van FTM is mentor bij Journalismfund. Dat fonds wordt mede gefinanciërd door Open Society Foundations van George Soros en de Postcodeloterij.\n\nThe European Journalism Centre’s grants programmes (Soros/Google/Gates Foundation etc.)\nhttps://ejc.net/grants (onderaan de website sponsoren en partners)\n\nVoor de opstart kreeg FTM € 180.000 subsidie van het Stimuleringsfonds voor de Journalistiek (SVDJ). \nVoor een project om lezers mee te trekken ('gamification') ontving het € 37.000 van het Stimuleringsfonds voor de Journalistiek en het SIDN Fonds in 2016 en in 2017 € 50.000 van Google Digital News Initiative (DNI Fund)\n\nhttps://en.m.wikipedia.org/wiki/Digital_News_Initiative\nhttps://www.journalismfund.eu/about-us/investigative-journalism\nhttps://www.journalismfund.eu/about-us-documents/funding\nhttps://www.journalismfund.eu/mentors\n\nhttps://t.me/jolandavlaskamp",
+          "peerid": {
+            "channel_id": 1210971815,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "wim visscher",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2255,
+          "channelusername": "maddogholland",
+          "channelabout": "THE DUTCH PATRIOT",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6372728575220599281",
+        "_score": 7.987,
+        "_source": {
+          "archivedon": "2022-08-26 19:16:39.862451",
+          "channeltitle": "The Library",
+          "date": 1661538662,
+          "editdate": 1661538700,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Well it should, because the Democrat party is wholesale OWNED by the Chinese Communist Party through outright bribes & ‘investments’ & partnerships. Examples: hunter biden deal w/ chicom intelligence connected party official, eric Swalwell sleeping w a Chinese intelligence officer & a Chinese intelligence officer working in diane Feinstein’s office for decades including as her personal driver. There are MANY more examples.",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Finch",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 796,
+          "channelusername": "The_Library_II",
+          "channelabout": "Harold’s Library",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6320218562757683835",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:18:36.716415",
+          "channeltitle": "Patriot Party of North Carolina",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1471540556,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34348
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "realPatriotPartyNC",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6165294363631973191",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:18:15.396069",
+          "channeltitle": "The Patriot Party of Ohio",
+          "date": 1661519766,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1435469455,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 39194
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "ThePatriotPartyofOH",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6110175630983178401",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:18:12.3645",
+          "channeltitle": "Patriot Party Utah",
+          "date": 1661519503,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1422636125,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 14679
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyUtah",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6042864177670870505",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:18:00.298712",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "date": 1661519667,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 108007
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyRI",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6042864177670870503",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:18:00.295793",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "date": 1661519503,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 108007
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyRI",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5729645067610684833",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:17:23.896744",
+          "channeltitle": "Patriot Party New Hampshire",
+          "date": 1661519666,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 94279
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyNewHampshire",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5629031348418130038",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:17:07.848564",
+          "channeltitle": "PatriotPartyCo Chat",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1310610992,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 14795
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyColorado",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5443604798362403597",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:16:31.405076",
+          "channeltitle": "Patriot Party Oregon",
+          "date": 1661519766,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1267438009,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 60861
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyOregon",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5317283758578106657",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:16:23.283232",
+          "channeltitle": "Patriot Party Alabama",
+          "date": 1661519666,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1238026600,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 40244
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyAlabama",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5317283758578106656",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:16:23.281773",
+          "channeltitle": "Patriot Party Alabama",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1238026600,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 40244
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyAlabama",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5182183436273590078",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 15:16:07.251996",
+          "channeltitle": "Patriot Party - MA",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1206571105,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 10824
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "MAPatriotParty",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5500940339726263349",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 14:35:47.811705",
+          "channeltitle": "Free South Dakota",
+          "date": 1661519666,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1280787480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15061
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "FreeSouthDakota",
+          "channelabout": "Promoting a free South Dakota",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5498927378749034361",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 14:35:43.711043",
+          "channeltitle": "Free West Virginia",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1280318801,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 124656
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "FreeWestVirginia",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6146912779778405314",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "2022-08-26 14:37:00.38682",
+          "channeltitle": "Free North Dakota",
+          "date": 1661519666,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1431189659,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 17568
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "FreeNorthDakota",
+          "channelabout": "Promoting a free North Dakota",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5938860853108425895",
+        "_score": 7.5761,
+        "_source": {
+          "archivedon": "1681047183",
+          "channeltitle": "Patriot Party Louisiana",
+          "date": 1661518475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 45,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 5796700663
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ʜᴇʟʟᴏ ɢᴜʏꜱ, ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜɪꜱ ɪꜱ ɢᴏɴɴᴀ ꜱᴏᴜɴᴅ ʙᴜᴛ ɪᴛ'ꜱ ᴛʜᴇ ᴛʀᴜᴛʜ. ɪ'ᴠᴇ ꜰᴏᴜɴᴅ ꜱᴏᴍᴇᴏɴᴇ ᴡʜᴏ ɪꜱ ᴛʀᴜꜱᴛᴡᴏʀᴛʜʏ ɪɴ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴛʀᴀᴅɪɴɢ. ɪ ʜᴀᴠᴇ ɢᴏᴛᴛᴇɴ ᴍʏ ᴛʜɪʀᴅ ᴘʀᴏꜰɪᴛ ꜰʀᴏᴍ ɪɴᴠᴇꜱᴛɪɴɢ ᴡɪᴛʜ him. ɪ ᴋɴᴏᴡ ɪᴛ'ꜱ ɴᴏᴛ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜɪꜱ ᴘᴏꜱᴛ ʙᴜᴛ ɪ ᴊᴜꜱᴛ ꜰᴇʟᴛ ʟɪᴋᴇ ꜱʜᴀʀɪɴɢ. ᴛʜᴀɴᴋꜱ ᴇᴠᴇʀʏᴏɴᴇ ᴀɴᴅ ᴀ ʙɪɢ ᴛʜᴀɴᴋ ʏᴏᴜ ᴛᴏ Sir Eric Fx Sheriff 🤩\n👇\nhttps://telegram.me/joinchat/SMMuBchtmwhjMGE0",
+          "peerid": {
+            "channel_id": 1382748795,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 26492
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.02084529714528e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Samuel",
+            "id": 5796700663,
+            "is_self": false,
+            "last_name": "Howard",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1662427775
+            },
+            "support": false,
+            "verified": false,
+            "archivedon": 1681047183,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "channelusername": "PatriotPartyLouisiana",
+          "channelabout": "",
+          "id": 17575,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-09T13:33:03.391019"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6415489467188761455",
+        "_score": 7.2108,
+        "_source": {
+          "archivedon": "2022-08-26 14:58:30.229241",
+          "channeltitle": "Patriots U.S.A (Channel)",
+          "date": 1661514320,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 9,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 43,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 36,
+              "offset": 96,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 133,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 186,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 218,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 271,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 291,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 46,
+              "offset": 344,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 391,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1364482181
+          },
+          "fwdfrom": {
+            "date": 1661503472,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1364482181
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32921145624319e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💖💫🕊🌍 The Ending of Fear | Krishnamurti\nhttps://www.youtube.com/watch?v=BFWBaBdH2qw\n💖💫🕊🌍 Return to Pure Listening: Eric Baret\nhttps://www.youtube.com/watch?v=6mNEsAgNvqU\n💖💫🕊🌍 Jean Klein - The Flame of Being\nhttps://www.youtube.com/watch?v=6VQDcIO3PVI\n💖💫🕊🌍 Jean Klein who am I\nhttps://www.youtube.com/watch?v=73wHixabeNU\n💖💫🕊🌍 Conversations with Amma (Mata Amritanandamayi)\nhttps://www.youtube.com/watch?v=AbpBM_qKZ5g",
+          "peerid": {
+            "channel_id": 1493722542,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 840348
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1364482181,
+            "_v": 1,
+            "access_hash": 2.44034422920091e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Maxime",
+            "id": 1364482181,
+            "is_self": false,
+            "last_name": "Sayd😇💙🌟",
+            "min": false,
+            "mutual_contact": false,
+            "phone": "33633293620",
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 20637,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "photo_id": 5.79647342345779e+18,
+              "photo_small": {
+                "local_id": 20635,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "a796e44c3019cb602b34a46a8d5324244b9a2a20"
+          },
+          "v": 1,
+          "channelusername": "PatriotsEEUU",
+          "channelabout": "We fight for freedom.  We fight together Trump. WE ARE THE DIGITAL ARMY OF SOLDIERS\nhttps://linktr.ee/PatriotMap",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6415489467188761450",
+        "_score": 7.2108,
+        "_source": {
+          "archivedon": "2022-08-26 09:34:10.882671",
+          "channeltitle": "Patriots U.S.A (Channel)",
+          "date": 1661503896,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 9,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 43,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 36,
+              "offset": 96,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 133,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 186,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 218,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 271,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 291,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 46,
+              "offset": 344,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 391,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1364482181
+          },
+          "fwdfrom": {
+            "date": 1661503472,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1364482181
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32920311702951e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💖💫🕊🌍 The Ending of Fear | Krishnamurti\nhttps://www.youtube.com/watch?v=BFWBaBdH2qw\n💖💫🕊🌍 Return to Pure Listening: Eric Baret\nhttps://www.youtube.com/watch?v=6mNEsAgNvqU\n💖💫🕊🌍 Jean Klein - The Flame of Being\nhttps://www.youtube.com/watch?v=6VQDcIO3PVI\n💖💫🕊🌍 Jean Klein who am I\nhttps://www.youtube.com/watch?v=73wHixabeNU\n💖💫🕊🌍 Conversations with Amma (Mata Amritanandamayi)\nhttps://www.youtube.com/watch?v=AbpBM_qKZ5g",
+          "peerid": {
+            "channel_id": 1493722542,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 840327
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1364482181,
+            "_v": 1,
+            "access_hash": 2.44034422920091e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Maxime",
+            "id": 1364482181,
+            "is_self": false,
+            "last_name": "Sayd😇💙🌟",
+            "min": false,
+            "mutual_contact": false,
+            "phone": "33633293620",
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 20637,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "photo_id": 5.79647342345779e+18,
+              "photo_small": {
+                "local_id": 20635,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "a796e44c3019cb602b34a46a8d5324244b9a2a20"
+          },
+          "v": 1,
+          "channelusername": "PatriotsEEUU",
+          "channelabout": "We fight for freedom.  We fight together Trump. WE ARE THE DIGITAL ARMY OF SOLDIERS\nhttps://linktr.ee/PatriotMap",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6415489467188761445",
+        "_score": 7.2108,
+        "_source": {
+          "archivedon": "2022-08-26 09:34:10.875436",
+          "channeltitle": "Patriots U.S.A (Channel)",
+          "date": 1661503472,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 9,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 43,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 36,
+              "offset": 97,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 134,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 188,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 220,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 274,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 294,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 46,
+              "offset": 348,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 395,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1364482181
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.329202777596e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💖💫🕊🌍 The Ending of Fear | Krishnamurti\nhttps://www.youtube.com/watch?v=BFWBaBdH2qw\n\n💖💫🕊🌍 Return to Pure Listening: Eric Baret\nhttps://www.youtube.com/watch?v=6mNEsAgNvqU\n\n💖💫🕊🌍 Jean Klein - The Flame of Being\nhttps://www.youtube.com/watch?v=6VQDcIO3PVI\n\n💖💫🕊🌍 Jean Klein who am I\nhttps://www.youtube.com/watch?v=73wHixabeNU\n\n💖💫🕊🌍 Conversations with Amma (Mata Amritanandamayi)\nhttps://www.youtube.com/watch?v=AbpBM_qKZ5g",
+          "peerid": {
+            "channel_id": 1493722542,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 840327
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1364482181,
+            "_v": 1,
+            "access_hash": 2.44034422920091e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Maxime",
+            "id": 1364482181,
+            "is_self": false,
+            "last_name": "Sayd😇💙🌟",
+            "min": false,
+            "mutual_contact": false,
+            "phone": "33633293620",
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 20637,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "photo_id": 5.79647342345779e+18,
+              "photo_small": {
+                "local_id": 20635,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168400025
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "a796e44c3019cb602b34a46a8d5324244b9a2a20"
+          },
+          "v": 1,
+          "channelusername": "PatriotsEEUU",
+          "channelabout": "We fight for freedom.  We fight together Trump. WE ARE THE DIGITAL ARMY OF SOLDIERS\nhttps://linktr.ee/PatriotMap",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5564567003156466209",
+        "_score": 7.043,
+        "_source": {
+          "archivedon": "2022-08-26 17:45:41.31788",
+          "channeltitle": "Eurasia & Multipolarity",
+          "date": 1661519289,
+          "editdate": 1661519292,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://katehon.com/en/article/how-us-and-allied-newsmedia-deceive-their-publics-believe-what-government-wants-them-believe"
+            },
+            {
+              "length": 11,
+              "offset": 441,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 11,
+              "offset": 441,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 61,
+            "date": 1661515728,
+            "from_id": {
+              "channel_id": 1578289739,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "How U.S.-And-Allied Newsmedia Deceive Their Publics To Believe What The Government Wants Them To Believe\nOne prominent way that the U.S. regime and its allies (or vassal-nations) deceive the public is by false headlines that often don’t even represent the news-report fairly or at all. A good recent example of this was a 23 August 2022 Reuters report headlined “Analysis: As Ukraine war drags on, Europe’s economy succumbs to crisis”.  (By Eric Zuesse)",
+          "peerid": {
+            "channel_id": 1295601717,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1458395831,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 262683
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1843,
+          "channelusername": "Dragonandbear",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6043750895143889297",
+        "_score": 6.3237,
+        "_source": {
+          "archivedon": "2022-08-26 18:11:56.523268",
+          "channeltitle": "Welt der Gesundheit",
+          "date": 1661526042,
+          "editdate": 1661526078,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 21,
+              "offset": 540,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 562,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 49,
+              "offset": 594,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 644,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 16,
+              "offset": 676,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 32,
+              "offset": 696,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ausstieg aus der Glücks-Falle: Wer dem Glück hinterher jagt, riskiert Stress, Burn-Out und Depression\n\n\"Die Suche nach dem Glück ist einer der Hauptgründe für Unglück.\" \n\nDieser Satz stammt von dem bekannten amerikanischen Sozialkritiker Eric Hoffer, der damit im Jahre 1954 eine ganz wesentliche Wahrheit über das Glücklichsein zum Ausdruck brachte. \n\nÜber 50 Jahre, nachdem dieser Satz veröffentlicht worden ist, sind viele Menschen sich nicht bewusst, welchen Einfluss die von Hoffer formulierte Erkenntnis auf ihr eigenes Leben hat.\n\n📍Artikel: Glücksjäger \nhttps://tinyurl.com/y6otvmea\n\n📍Buchtipp: Auf der Suche nach dem verlorenen Glück\nhttps://tinyurl.com/5dcukev5\n\n➥ Hier abonnieren:\n🌏 https://t.me/weltdergesundheitTV",
+          "peerid": {
+            "channel_id": 1407170411,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2928,
+          "channelusername": "weltdergesundheitTV",
+          "channelabout": "WeltderGesundheit.tv präsentiert Euch spannendes rund um das Leben 🌍 die Gesundheit 🧠 die Nachhaltigkeit 🌱 und Naturheilkunde 🤕.",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812061751",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 01:32:41.005424",
+          "channeltitle": "telehunt_watch",
+          "date": 1661472235,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 376766,
+            "date": 1661472231,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 376766,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 703792
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812061818",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 01:32:41.112714",
+          "channeltitle": "telehunt_watch",
+          "date": 1661474872,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 376833,
+            "date": 1661474869,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 376833,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 703792
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812061844",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 01:32:41.151028",
+          "channeltitle": "telehunt_watch",
+          "date": 1661475847,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 376859,
+            "date": 1661475843,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 376859,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 703792
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062111",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.435639",
+          "channeltitle": "telehunt_watch",
+          "date": 1661485714,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377126,
+            "date": 1661485711,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377126,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062142",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.487632",
+          "channeltitle": "telehunt_watch",
+          "date": 1661486682,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377157,
+            "date": 1661486679,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377157,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062240",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.641903",
+          "channeltitle": "telehunt_watch",
+          "date": 1661490344,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377255,
+            "date": 1661490341,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377255,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062208",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.591",
+          "channeltitle": "telehunt_watch",
+          "date": 1661489328,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377223,
+            "date": 1661489325,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377223,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062035",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.311858",
+          "channeltitle": "telehunt_watch",
+          "date": 1661483062,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377050,
+            "date": 1661483059,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377050,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812062011",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.275379",
+          "channeltitle": "telehunt_watch",
+          "date": 1661482077,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 377026,
+            "date": 1661482074,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 377026,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812061941",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.167757",
+          "channeltitle": "telehunt_watch",
+          "date": 1661479426,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 376956,
+            "date": 1661479423,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 376956,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5090199899812061915",
+        "_score": 6.0818,
+        "_source": {
+          "archivedon": "2022-08-26 05:08:25.126723",
+          "channeltitle": "telehunt_watch",
+          "date": 1661478474,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 149,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 773,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 376930,
+            "date": 1661478471,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 376930,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nСтраждущим, мечущимся и болеющим сердцем снова посвящается.   \n  \n(отличная музыка для четверга, даже если слова не резонируют).   \n  \nhttps://www.youtube.com/watch?v=qtZqseBnd_c YouTubeHurting Me Now Provided to YouTube by Sony Music Entertainment\n \nHurting Me Now · Sia\n \nWe Are Born\n \n℗ 2010 Monkey Puzzle under exclusive license to Sony Music Entertainment UK Limited\n \nVocal, Composer, Lyricist: Sia Furler\nGuitar, Keyboards, Composer, Lyricist, Engineer, Mixing Engineer, Producer: Greg Kurstin\nGuitar: Nick Valensi\nBass: Sam Dixon\nDrums: Felix Bloxsom\nEngineer, Mixing Engineer: Dave Trumfio\nEngineer: Pierre De Reeder\nAssistant Engineer: Spencer Hoad\nAssistant Engineer: Eric Litz\nMastering Engineer: Brian Gardner\n \nAuto-generated by YouTube.\nLink : https://t.me/galulala/2590",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 704411
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "telehunt_watch",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5288013865693481052",
+        "_score": 4.993,
+        "_source": {
+          "archivedon": "1680509380",
+          "channeltitle": "Donald Trump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+          "date": 1661487927,
+          "editdate": 1661488713,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 876,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 25,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": {},
+              "id": 9.17079312158538e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "Define the terms of the Iran nuclear deal.\nDoes the agreement define & confine cease & desist ‘PRO’ to the republic of Iran?\nWhat if Iran created a classified ‘satellite’ Nuclear facility in Northern Syria?\nWhat if the program never ceased?\nWhat other bad actors are possibly involved?\nDid the U.S. know?\nWhere did the cash payments go?\nHow many planes delivered?\nDid all planes land in same location?\nWhere did the U1 material end up?\nIs this material traceable?\nYes.\nDefine cover.\nWhat if U1 material ended up in Syria?\nWhat would be the primary purpose?\nSUM OF ALL FEARS.\nIn the movie, where did the material come from?\nWhat country?\nWhat would happen if Russia or another foreign state supplied Uranium to Iran/Syria?\nWAR.\nWhat does U1 provide?\nDefine cover.\nWhy did we strike Syria?\nWhy did we really strike Syria?\nDefine cover.\nPatriots in control.\nQ\n\nJoin: 👇👇👇👇👇\n\nhttps://t.me/+pl2K5Freu8hkM2Q0 (Eric)",
+          "peerid": {
+            "channel_id": 1231211672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5143,
+          "channelusername": "Donald_Trumpo",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "id": 2140,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 61,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-03T08:09:40.127652"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5288013865693481054",
+        "_score": 3.7952,
+        "_source": {
+          "archivedon": "1680509380",
+          "channeltitle": "Donald Trump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+          "date": 1661487928,
+          "editdate": 1661488366,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 1484,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 6,
+              "offset": 1576,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 30,
+              "offset": 1600,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 48,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": {},
+              "id": 9.17079312158538e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "Inside the WAR<\n\nTHE WHITE HATS VS. DEEP STATE\n\nInside the WAR.. Is a very IMPORTANT battle for the next INTERNET. \n_The DEEP STATE wants a New Internet that will be digitalized with INTERNET PASSPORTS into their New World internet. These passports will be only for those who abide by the World infection laws ( growing currently) , those who co-operate with the online banking ( new rules/Standards/regulations)... ///The Deep State has a plan to control the Whole World through thier INTERNET and through all peoples banking and social networks . ( This New INTERNET they want to launch is The Great Reset ....>>> Restarting the INTERNET)\n\nVs \n\nThe White Hats New INTERNET\n.. this New INTERNET ready to be released by Tim Berners-Lee has the most advanced security and unbreakable encrypted  System ever created to serve man kind. The features behind the New Internet has A.I systems to identify online pedophilia, human trafficking networks , world money laundering systems... Incubated in the many features of saving the World through Earth given foundation ,(A.I. advanced Quantum creation) to eradicate homelessness and third world poverty... Among all ending all Wars and giving generational healing through high Technology , that uses the advanced (hidden) systems connected to Tesla and vibrational frequency healing ( the body is a field of energy and receptors that connect to the DNA and all self dimensional healing rhythms that effect the state of the body and mind)///\n____\nBoth the DEEP STATE\nAnd\nWhite HATS\n\nPlan to kill the current internet<\n\nKILL SWITCH...\n____\n\nJoin: 👇👇👇👇👇\n\nhttps://t.me/+pl2K5Freu8hkM2Q0 (Eric)",
+          "peerid": {
+            "channel_id": 1231211672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4990,
+          "channelusername": "Donald_Trumpo",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "id": 2142,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 67,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-03T08:09:40.087187"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5288013865693481055",
+        "_score": 3.5411,
+        "_source": {
+          "archivedon": "1680509379",
+          "channeltitle": "Donald Trump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+          "date": 1661487929,
+          "editdate": 1661488138,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 1008,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 30,
+              "offset": 1872,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 66,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": {},
+              "id": 9.17079312158538e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "In deep discussions with Mil. INTEL source (s)...\n\n\"WWG1WGA\" is a Military protocol that pertains to Cheyenne mountain...( Where Tesla created a time traveling machine connected to Inner ground zero energy//)/ > the looking glass is only looking into the future past and present.... But the Real Tesla machine is time traveling connected to ground zero energy that connects to the stratosphere and universal energy.....///\nThe connection between TESLA.. TRUMP ( John G. TRUMP)//// \n\nJohn G. Trump connection to TESLA is deeper than reported and worked in the same field and were just minutes apart ( same neighborhood) living and working in the same field....\n\n///According to MIT, Prof Trump focused on high voltage phenomena, electron acceleration and the interaction of radiation with living and non-living matter. He also designed X-ray generators.....///\n\n> From insiders.. The Philadelphia experiment connects Tesla/Trump in the creation of the time traveling program....( But not revealed by MSM)///\n\n_\nWWG1WGA is a military protocol to activate the TESLA time Machines under Cheyenne mountains that has been locked down since 2016 under the order of TRUMP ....\n>The Switzerland particle accelerator machine in ( CERN)\nWas a failure... And could not produce enough energy to create the Worm holes....//TESLA work was stolen by the DEEP state after his death and[ they] tried creating the time machine of his stolen blue prints of the machine..( which was created but FAILED)///)) the failure was due to inside placed White HATS who deliberately sabotage the CERN PROJECTS..\n... in 2017 ... The control of CERN came under U.S. Military white HATS CONTROL<\n\n_ now the WWG1WGA all protocol had been initiated.. IN CERN - CHEYENNE MOUNTAINS.\n\n\nThe WWG1WGA protocol refers to HUMANS on earth traveling into the NEXT dimension as one....\n\n>SKY EVENT\nQ\n\nJoin: 👇👇👇👇👇\n\nhttps://t.me/+pl2K5Freu8hkM2Q0 (Eric)",
+          "peerid": {
+            "channel_id": 1231211672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6053,
+          "channelusername": "Donald_Trumpo",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "id": 2143,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 60,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 9,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🥰",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-03T08:09:39.952148"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5288013865693481053",
+        "_score": 2.6443,
+        "_source": {
+          "archivedon": "1680509380",
+          "channeltitle": "Donald Trump 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+          "date": 1661487928,
+          "editdate": 1661488062,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 29,
+              "offset": 2564,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 1,
+              "offset": 3010,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 3014,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 28,
+              "offset": 3034,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 30,
+              "offset": 3113,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 67,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": {},
+              "id": 9.17079312158538e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "PUBLIC HEALTH ENGLAND \nRELEASES REPORT>\n\nmRNA vaccines are destroying people's immune system\n(It's happening at a gradual stance/over time) especially the double vaccinate between 40_70 years old > they have already lost/DAMAGED over 40% of their immune system and capabilities.. And they are losing and additional 5% every week<<<at this rate by Christmas they will have > O < (ZERO PERCENT) Immune system capability (in all double vaccinated people over 40 years old) >>>> and by March everyone over 30 will have lost their immune system as well.../// Those 30 an younger are already seen degrading of their immune system (it's normal for this age group to have a more vigorous immune system.. So perhaps their immune system is fighting off the mRNA vaccines in the short run.. only time will tell .. But data shows a Very difficult and DARK WINTER lay head/// DR. RYAN COLE a PATHOLOGIST has conducted over 100 thousands COVID-19 lab tests , has also found the mRNA vaccines are causing severe auto immune disorders /// Dr. David Bauer Top World virologist also confirms Pfizer Vaccines destroying the immune system after two shots// >>>> and BOOSTER Shots will become like a Subscription service to stay ALIVE<<<<\n\nRemember>>> this was all started by the communist Chinese.. Who have already recovered (MSM is telling a fake narration that more are dying in China [FALSE NEWS]) and>> CHINA IS NOW FLAUNTING MILITARY POWER >> THREATENING THE BORDERD OF TAIWAN,INDIA AND FOCUSING TO WEAK DISRUPTED , DISMANTLING OF THE UNITED STATES MILITARY UNDER BIDEN>>> in the book Unrestricted Warfare published in America over 20 years ago.. Officers of the communist Military Chinese recognized it was impossible to challenge the United States super power military in a conventional WAR>> CCP explained the only the conqueror the U.S.A would be through deception, so the public would never know they were under ATTACK. They described how they would accomplish this\nBy flooding the U.S. with illicit drugs to demoralize the U.S. citizens,>> infiltrating/the Stock markets ..>> the judicial systems>>and the media [MSM]>> seizing control of Natural Vital resources>> AND CREATING A [FAKE] NATURAL DISASTER, USING BIOLOGICAL WEAPONS.. Then finally take down the INFORMATION grid, to cause Social PANIC, Street riots and a MAJOR POLITICAL CRISES ///// with 1/3 of U.S. citizens suffering from DAMAGED immune system .. China & DEEP STATE taking down the grid/information system this winter  would be catastrophic ///\nNow is the time to BRACE YOUR SELF ... For what's coming<<<\n____\n///// THE WHITE HATS MILITARY ARE GETTING READY FOR THE COMING WAR... AND ARE FUCKING READY FOR THE\n>>> STORM OF THE CENTURY//\n>>>>\n>>>\nCABLES;; CCP MILITARY IS HIGHLY INFILTRATED BY WHITE HATS IN THEIR COUNTRY FREE THE CHINESE PEOPLE FROM THE COMMUNIST RULE<<<<\n\nWHEN SHIT HITS THE FAN>>>\nCHINA WILL PULL A COUP >>>\n\nALL COUNTRIES WILL PULL A COUP ON THEIR DEEP STATE GOVERNMENTS.......\n\n>>>> STORM OF THE CENTURY\n\nTHE GREAT AWAKENING/////\n____PAIN\n\nNEAR DEATH CIVILIZATION EVENT...\n\nGAME THEORY\n\nMILITARY IS THE ONLY WAY\nQ\n\nJoin: 👇👇👇👇👇\n\nhttps://t.me/+pl2K5Freu8hkM2Q0 (Eric)",
+          "peerid": {
+            "channel_id": 1231211672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4728,
+          "channelusername": "Donald_Trumpo",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "id": 2141,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 64,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 7,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-03T08:09:40.089404"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2296 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [40],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [35],
+      "relation": ["eq"]
+    },
+    "max_score": [11.5586],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6347407316354104553",
+        "_score": 11.5586,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-03 06:02:31.582901",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1638731966,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 179,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 288,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 299,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 299,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Firebrand French Presidential challenger Eric Zemmour is ATTACKED during first campaign appearance \n\nRead: https://www.dailymail.co.uk/news/article-10277539/Firebrand-French-Presidential-challenger-Eric-Zemmour-ATTACKED-campaign-appearance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 155,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "4985421256343021991",
+        "_score": 11.4811,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 06:06:57.037271",
+          "channelabout": "News, commentary, and destruction of the political/media establishment.\n\nbreitbart.com",
+          "channeltitle": "Breitbart",
+          "channelusername": "Breitbart",
+          "date": 1638680400,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.breitbart.com/politics/2021/12/04/exclusive-missouris-eric-greitens-im-the-strongest-supporter-of-the-second-amendment/",
+              "length": 90,
+              "offset": 0
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Exclusive--Missouri’s Eric Greitens: ‘I'm the Strongest Supporter of the Second Amendment'",
+          "peerid": {
+            "channel_id": 1160758840,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 926,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5317971357072375153",
+        "_score": 11.1621,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 21:25:26.347059",
+          "channelabout": "🐸 We The Pepe 🐸\n🐸 We bake🐸    \n🐸WWG1WGA🐸",
+          "channeltitle": "🐸 We The Pepe 🐸",
+          "channelusername": "qanonofficial",
+          "date": 1638737059,
+          "editdate": 1638737063,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 137,
+              "offset": 0
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "https://www.dailymail.co.uk/news/article-10277539/Firebrand-French-Presidential-challenger-Eric-Zemmour-ATTACKED-campaign-appearance.html",
+          "peerid": {
+            "channel_id": 1238186694,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 1225020,
+            "replies": 8,
+            "comments": true,
+            "channel_id": 1450730912,
+            "replies_pts": 1787049,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1622835501
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1184934724
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 443137856
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1851,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5487843884929187628",
+        "_score": 10.4436,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-12-01 23:37:47.447723",
+          "channelabout": "Unsere Freiheit ist in Gefahr, wir werden belogen! \nDieser Kanal ist eine Ergänzung zur Playlist \"WACH AUF!\" auf YouTube: https://t1p.de/k9s0 Zum Chat: https://t.me/aufwachphase",
+          "channeltitle": "Erwachen",
+          "channelusername": "luca_you_tube",
+          "date": 1638723480,
+          "editdate": 1652220960,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 55,
+              "offset": 4,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 77,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5096,
+            "date": 1638723044,
+            "from_id": {
+              "channel_id": 1156925897,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "‼️🌏„200 Beweise, dass die Erde keine drehende Kugel ist“🌏‼️ von Eric Dubay\n@Ayse_Meren_HP\n(Danke Sven)",
+          "peerid": {
+            "channel_id": 1277738224,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mike",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 777,
+            "replies_pts": 0,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 4,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5582629449465077298",
+        "_score": 10.312,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 20:19:30.113493",
+          "channelabout": "Channel for VDARE.com",
+          "channeltitle": "VDARE.com",
+          "channelusername": "vdare",
+          "date": 1638731491,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 127,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "https://vdare.com/posts/eric-zemmour-s-great-announcement-speech-a-national-conservative-such-as-we-americans-can-only-dream-of",
+          "peerid": {
+            "channel_id": 1299807208,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 121,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6352958097727714522",
+        "_score": 10.1839,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 21:50:15.660909",
+          "channelabout": "You can support Tommy Robinson news at www.tr.news/support-us",
+          "channeltitle": "Tommy Robinson News",
+          "channelusername": "TommyRobinsonNews",
+          "date": 1638739444,
+          "editdate": 1638739447,
+          "edithide": true,
+          "entities": [],
+          "forwards": 46,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Far left agitators pulled a stunt at Eric Zemmour's political rally this evening near Paris.\n\nIt didn't end well for them.",
+          "peerid": {
+            "channel_id": 1479163323,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 2101842,
+            "replies": 38,
+            "comments": true,
+            "channel_id": 1299528948,
+            "replies_pts": 2645567,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1428139117
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1447759992
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2129568059
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 5149,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5487978987420501858",
+        "_score": 10.0593,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 21:25:35.270002",
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channeltitle": "BOSS_HAWGA",
+          "channelusername": "HawGa",
+          "date": 1638739054,
+          "editdate": 1638739057,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 126,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 11,
+              "offset": 142
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16219,
+            "date": 1638738001,
+            "from_id": {
+              "channel_id": 1387645188,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "❗️French right-wing presidential challenger Eric Zemmour ATTACKED, grabbed by protester during first campaign event - WATCH!\n\nSubscribe to RT t.me/rtnews",
+          "peerid": {
+            "channel_id": 1277769680,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 16991,
+            "replies": 3,
+            "comments": true,
+            "channel_id": 1588073783,
+            "replies_pts": 21129,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 925488612
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1438551132
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1223032729
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 64,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6272238160244127876",
+        "_score": 9.7051,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 16:02:36.0638",
+          "channelabout": "History is a set of lies agreed upon.\nWe support Nationalism for every country. \nEach to their own.\n\nIreland 愛爾蘭 ايرلندا 아일랜드 Ирландия",
+          "channeltitle": "Ireland Knows",
+          "channelusername": "basedireland",
+          "date": 1638716661,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 18,
+              "offset": 108
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 128
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 176
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "[Age of Treason TFeed] France’s Eric Zemmour is running a campaign à la Donald Trump — in theory (Politico) #ageOfTreasonTfeed \nhttps://podcastaddict.com/episode/132164546 via @PodcastAddict",
+          "peerid": {
+            "channel_id": 1460369248,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 162,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5397614048038668872",
+        "_score": 9.4839,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 14:33:20.408439",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A",
+          "date": 1638714123,
+          "editdate": 1638714126,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 12,
+              "offset": 204
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31097129874986e+16,
+          "message": "In Paris findet ein antifaschistischer Protest gegen den rechtsextremen französischen Präsidentschaftskandidaten Eric Zemmour statt, der am Sonntag seine erste Rede nach seiner Nominierung halten wird‌‌\n\nt.me/Q_D_R_A",
+          "peerid": {
+            "channel_id": 1256729953,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1451671597,
+            "replies_pts": 921257,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 529,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6202437180678231265",
+        "_score": 9.3775,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 16:15:02.136373",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1638717326,
+          "editdate": 1638717329,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 Meeting Zemmour : Laurence Trochu, présidente du Mouvement Conservateur « Eric Zemmour est le candidat de l’amour de la France. Il fait respirer la réflexion et l’action en politique »",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aurélia Charmy",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 273197,
+            "replies": 13,
+            "comments": true,
+            "channel_id": 1421695055,
+            "replies_pts": 397035,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 761457245
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 700475070
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 468,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6086674381688454599",
+        "_score": 9.0737,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 23:57:02.739106",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1638745660,
+          "editdate": 1638745663,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Antifa disrupts the first rally for French Presidential candidate, Eric Zemmour. They wore all black with some wearing shirts that said,  'non au racism' or No to Racism on the back",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ramblin",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1431409795,
+            "replies_pts": 733042,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 255,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5551126663212827122",
+        "_score": 8.7271,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 15:44:34.595411",
+          "channelabout": "Everything privacy, security, and opsec related.\n\nVICE review: “...one well known neo-Nazi channel that provides tradecraft to evade authorities online”",
+          "channeltitle": "Privacy & Security Goys",
+          "channelusername": "PrivSecGoy",
+          "date": 1638716414,
+          "editdate": 1638716418,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 36,
+              "offset": 226
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 125,
+              "offset": 601
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 23,
+              "offset": 728
+            }
+          ],
+          "forwards": 21,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 233,
+            "date": 1638705862,
+            "from_id": {
+              "channel_id": 1674527194,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "A story of youth, dissent, love and betrayal in post 9/11 America woven exclusively with FBI surveillance, ERIC & “ANNA” tells the story of a teenage informant and the activist she helped to put in prison for nearly 20 years\n\nhttps://fieldofvision.org/eric-anna/\n\n( documentary linked )\n\nAnna would go on to lead McDavid and two other activists in their 20s in a loose plot to bomb targets in Northern California.\n\none of the longest sentences given to an alleged eco-terrorist in the United States. At the time of his conviction, the FBI had built a network of more than 15,000 informants like Anna\n\nhttps://theintercept.com/2015/11/19/an-fbi-informant-seduced-eric-mcdavid-into-a-bomb-plot-then-the-government-lied-about-it/\n\nhttps://t.me/Anglomania",
+          "peerid": {
+            "channel_id": 1292472394,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 273826,
+            "replies": 6,
+            "comments": true,
+            "channel_id": 1454887660,
+            "replies_pts": 556709,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 167401100
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1423489929
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2058982677
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 481,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5876952412819821752",
+        "_score": 8.7271,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 13:47:34.781424",
+          "channelabout": "Dlive- https://dlive.tv/PatrioticTalk",
+          "channeltitle": "Chris Patriotic Talk Channel",
+          "channelusername": "PatrioticChris",
+          "date": 1638709100,
+          "editdate": 1638709103,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 36,
+              "offset": 226
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 125,
+              "offset": 601
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 23,
+              "offset": 728
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 233,
+            "date": 1638705862,
+            "from_id": {
+              "channel_id": 1674527194,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "A story of youth, dissent, love and betrayal in post 9/11 America woven exclusively with FBI surveillance, ERIC & “ANNA” tells the story of a teenage informant and the activist she helped to put in prison for nearly 20 years\n\nhttps://fieldofvision.org/eric-anna/\n\n( documentary linked )\n\nAnna would go on to lead McDavid and two other activists in their 20s in a loose plot to bomb targets in Northern California.\n\none of the longest sentences given to an alleged eco-terrorist in the United States. At the time of his conviction, the FBI had built a network of more than 15,000 informants like Anna\n\nhttps://theintercept.com/2015/11/19/an-fbi-informant-seduced-eric-mcdavid-into-a-bomb-plot-then-the-government-lied-about-it/\n\nhttps://t.me/Anglomania",
+          "peerid": {
+            "channel_id": 1368334613,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mercian Chauvinist",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1405431961,
+            "replies_pts": 488695,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 49,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6202437180678231304",
+        "_score": 8.7013,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 18:32:14.707128",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1638726521,
+          "editdate": 1638726524,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 Meeting Zemmour : Eric Zemmour appelle les électeurs de droite à le rejoindre. « Aurait-on dit Jacques Chirac était d’extrême-droite », interroge-t-il, à propos de l’ancien chef de l’Etat et leader du RPR.",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Dylan Koda",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1421695055,
+            "replies_pts": 397235,
+            "recent_repliers": []
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 21767
+          },
+          "silent": false,
+          "v": 1,
+          "views": 462,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6264123979179505547",
+        "_score": 8.6107,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-06 00:01:53.864064",
+          "channelabout": "/CIG/ presents viewers a controversial blend of ultraright genopolitics with geopolitics. This includes an exposé on current news, history and social matters along with the public enlightenment gained from völkisch aesthetics. \n\nContact us @CIGtel_bot",
+          "channeltitle": "/CIG/ Telegram | Counter Intelligence Global",
+          "channelusername": "CIG_telegram",
+          "date": 1638747817,
+          "edithide": false,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3492,
+            "date": 1638734446,
+            "from_id": {
+              "channel_id": 1279884824,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷✊🏻 PARIS: FIGHT BETWEEN FAR RIGHT AND FAR LEFT ACTIVISTS\n\n👉🏻 During the first meeting of Eric Zemmour, a big fight took place between far left and far right activists. \n\n🔎 The far left activists tried to interrupt the meeting, but nationalists hit them and forced them to leave. \n\n📌 Eric Zemmour is a far-right journalist and author, very controversial in France. He has just announced his candidacy for the 2022 presidential election and the launch of his party called \"Reconquest!\"\n\n🔗 Source : OSINT",
+          "peerid": {
+            "channel_id": 1458480018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "FRANCISCVS",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 397,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5497063461726719396",
+        "_score": 8.6107,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 20:17:03.833312",
+          "channelabout": "✍🏻 Sharing news from France, in English.\n\nℹ️ Rules / info: \nhttps://t.me/GalliaDaily/3\n\n✉️ Contact:\n@Gallia_Bot",
+          "channeltitle": "GALLIA DAILY | 🇫🇷 IN 🇬🇧",
+          "channelusername": "GalliaDaily",
+          "date": 1638734446,
+          "editdate": 1638734449,
+          "edithide": true,
+          "entities": [],
+          "forwards": 20,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷✊🏻 PARIS: FIGHT BETWEEN FAR RIGHT AND FAR LEFT ACTIVISTS\n\n👉🏻 During the first meeting of Eric Zemmour, a big fight took place between far left and far right activists. \n\n🔎 The far left activists tried to interrupt the meeting, but nationalists hit them and forced them to leave. \n\n📌 Eric Zemmour is a far-right journalist and author, very controversial in France. He has just announced his candidacy for the 2022 presidential election and the launch of his party called \"Reconquest!\"\n\n🔗 Source : OSINT",
+          "peerid": {
+            "channel_id": 1279884824,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 1096,
+            "replies": 14,
+            "comments": true,
+            "channel_id": 1772636449,
+            "replies_pts": 2038,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 219270068
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 954204189
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1994949500
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 713,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6117742860847567148",
+        "_score": 8.6107,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 20:35:17.421111",
+          "channelabout": "This is a Dedicated-Curated Archive of Savage_Marxist_Election_Fraud_Criminality\n\nPresented to both the audience, and Archived for the Public, Legal and Historic Record.\n\nDrop voter fraud info in the linked groupchat channel https://t.me/usvoterfraudchat",
+          "channeltitle": "US Voter Fraud & Coup-Ops Intel 2020 & 2021",
+          "channelusername": "usvoterfraud",
+          "date": 1638735645,
+          "editdate": 1638735648,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3492,
+            "date": 1638734446,
+            "from_id": {
+              "channel_id": 1279884824,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷✊🏻 PARIS: FIGHT BETWEEN FAR RIGHT AND FAR LEFT ACTIVISTS\n\n👉🏻 During the first meeting of Eric Zemmour, a big fight took place between far left and far right activists. \n\n🔎 The far left activists tried to interrupt the meeting, but nationalists hit them and forced them to leave. \n\n📌 Eric Zemmour is a far-right journalist and author, very controversial in France. He has just announced his candidacy for the 2022 presidential election and the launch of his party called \"Reconquest!\"\n\n🔗 Source : OSINT",
+          "peerid": {
+            "channel_id": 1424398008,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1304909613,
+            "replies_pts": 149913,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 40,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6200274110593931052",
+        "_score": 8.6107,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 20:38:01.546393",
+          "channelabout": "Independent Journalists / Patriot Activists\n#therealityreport \n\nIf you're going through hell, keep going",
+          "channeltitle": "𝙏𝙝𝙚 𝙍𝙚𝙖𝙡𝙞𝙩𝙮 𝙍𝙚𝙥𝙤𝙧𝙩",
+          "channelusername": "therealityreport",
+          "date": 1638735645,
+          "editdate": 1638735649,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3492,
+            "date": 1638734446,
+            "from_id": {
+              "channel_id": 1279884824,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷✊🏻 PARIS: FIGHT BETWEEN FAR RIGHT AND FAR LEFT ACTIVISTS\n\n👉🏻 During the first meeting of Eric Zemmour, a big fight took place between far left and far right activists. \n\n🔎 The far left activists tried to interrupt the meeting, but nationalists hit them and forced them to leave. \n\n📌 Eric Zemmour is a far-right journalist and author, very controversial in France. He has just announced his candidacy for the 2022 presidential election and the launch of his party called \"Reconquest!\"\n\n🔗 Source : OSINT",
+          "peerid": {
+            "channel_id": 1443613812,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1361166881,
+            "replies_pts": 64288,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 26,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6352958097727714526",
+        "_score": 8.5276,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 22:57:47.691221",
+          "channelabout": "You can support Tommy Robinson news at www.tr.news/support-us",
+          "channeltitle": "Tommy Robinson News",
+          "channelusername": "TommyRobinsonNews",
+          "date": 1638744369,
+          "editdate": 1638744628,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 241,
+              "offset": 0
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French right-wing presidential challenger Eric Zemmour is assaulted by what appears to be a protester at his campaign rally.\n\nThe left can’t help themselves can they?\n\nHeadlines tomorrow...\n\nFar right thugs kick off at presidential campaign.",
+          "peerid": {
+            "channel_id": 1479163323,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 2102191,
+            "replies": 24,
+            "comments": true,
+            "channel_id": 1299528948,
+            "replies_pts": 2645984,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1106662012
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1469918483
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 498542605
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2196,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5751050561843628783",
+        "_score": 8.4437,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 12:42:38.543546",
+          "channelabout": "Youtubekanal abonnieren https://www.youtube.com/channel/UCmO5h4rr4g0jOtOLheOE0Zg              \n\nKanal unterstützen:\n\nPaypal\nhttps://paypal.me/IPeci?locale.x\n\nPatreon\nhttps://www.patreon.com/irfanpeci",
+          "channeltitle": "Irfan Peci",
+          "channelusername": "Islamistenjaeger",
+          "date": 1638705455,
+          "editdate": 1638706726,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 270,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 181
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 29,
+              "offset": 241
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Zemmour wäre das beste was Frankreich passieren kann! All die Probleme die er in diesem Video anspricht (deutsche Untertitel) treffen so auch auf Deutschland & Österreich zu!\n\nhttps://www.youtube.com/watch?v=k8IGBDK1BH8\n\n📢 Mehr unter: https://t.me/Islamistenjaeger",
+          "peerid": {
+            "channel_id": 1339020804,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Irfan",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 718,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5553450841815546865",
+        "_score": 8.4411,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 19:07:18.106744",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan",
+          "date": 1638728407,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1638717677540.png",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 27,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 62
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 211
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 255
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 105,
+              "offset": 328
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 125,
+              "offset": 434
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 561
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "📝 320 replies \n\nThe French Trump Rally Live\n\nGET IN HERE!!!\n\nhttps://www.youtube.com/watch?v=SQBWOaS-c6s\n\nThe next President of France, Éric Zemmour, he might be an Algerian Jew but he is based\nVive la France\n\nhttps://www.youtube.com/watch?v=k8IGBDK1BH8\nhttps://www.nytimes.com/2021/12/04/world/europe/eric-zemmour-france.html\nhttps://www.timesofisrael.com/far-right-zemmour-set-to-hold-first-rally-as-french-presidential-candidate/\nhttps://www.newyorker.com/news/daily-comment/the-ultra-nationalist-eric-zemmour-makes-a-bizarre-bid-for-the-french-presidency\n\nhttp://boards.4chan.org/pol/thread/350859647",
+          "peerid": {
+            "channel_id": 1293013534,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 549,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "7242217620231976460",
+        "_score": 8.3617,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-03-05 19:35:08.751113",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1638672696,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1271272472
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Thank you Eric for the reply. I think he’s a good man but I can’t seem to get by the pushing of jabs and yet I know this is war and I know little of what he does.again, thanks",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 30202,
+            "reply_to_top_id": 30019
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1271272472,
+            "_v": 1,
+            "access_hash": 8.66246260768195e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Karen",
+            "id": 1271272472,
+            "is_self": false,
+            "last_name": "Moore",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "4972466879063946038",
+        "_score": 8.2814,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-05 00:34:36.862958",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1638747842,
+          "editdate": 1638747845,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://img.theepochtimes.com/assets/uploads/2021/11/17/GettyImages-1236590692-e1637172618443-1200x664.jpg"
+            },
+            {
+              "length": 60,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 63,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 144,
+              "offset": 84,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 230,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 22,
+              "offset": 257,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://subscribe.theepochtimes.com/p/?page=checkout-v5-03&plan_id=digitalonly_1usd_4_month_trial&cb_acc=theepochtimes&cf_plan_after_trial_ends=digitalonly_7_99_monthly&utm_medium=organic&utm_term=1for4&utm_source=telegram"
+            },
+            {
+              "length": 22,
+              "offset": 257,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "​Will the US-China Rivalry Fuel Corruption in Poorer Nations?\n\nBy: Eric Louw\n\nREAD: https://www.theepochtimes.com/will-the-us-china-rivalry-fuel-corruption-in-poorer-nations_4134571.html?utm_medium=epochtimes&utm_source=telegram\n\nThis is a premium article.\nSubscribe for $1 Today",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 809282,
+            "replies": 5,
+            "comments": true,
+            "channel_id": 1264301656,
+            "replies_pts": 1959510,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1852877663
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1831450352
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1248601591
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 13189,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5782522656259787651",
+        "_score": 8.2814,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2021-12-05 12:43:12.641883",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1638706468,
+          "editdate": 1638706471,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/afp/status/1467452439976722434",
+              "length": 25,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 8,
+              "offset": 72
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 21,
+              "offset": 231
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "AFP news agency (Twitter)\n\nFrench far-right presidential candidate Eric #Zemmour is to hold his first official campaign rally at a stadium outside Paris on Sunday, with police on high alert over the risk of clashes with protesters http://u.afp.com/w53K",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 344205,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 13,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6202437180678231302",
+        "_score": 8.2814,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 18:32:14.706145",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1638725703,
+          "editdate": 1638725755,
+          "edithide": false,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 Meeting Zemmour : Eric Zemmour veut « arrêter immédiatement les flux » d’étrangers arrivant en France, limiter drastiquement le droit d’asile, et « supprimer le droit au regroupement familial ». Il veut « supprimer le droit du sol » et « durcir drastiquement les conditions de naturalisation ».",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Dylan Koda",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1421695055,
+            "replies_pts": 397235,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 520,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6222333732641100047",
+        "_score": 4.8892,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 21:59:32.32788",
+          "channelabout": "@FoundationGermanEmpire\n\n\nhttps://truthsgnosis.com/5d-6d\n\n\n\nhttps://linktr.ee/kagbabe\n\n\n\nhttps://twitter.com/Ralph82198654?s=09\n\n\n\nhttps://twitter.com/AKhnum?s=09",
+          "channeltitle": "#XMen 🇾🇪",
+          "channelusername": "StiftungGermanEmpire",
+          "date": 1638739094,
+          "editdate": 1638739097,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 140,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 500,
+              "offset": 140
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 130,
+              "offset": 640
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 37185,
+            "date": 1638738208,
+            "from_id": {
+              "channel_id": 1367715360,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "New York City Chief Medical Examiner Dr. Barbara Sampson, who oversaw the autopsy of convicted sex offender Jeffery Epstein, has resigned.\n\nNotably, her office concluded that Epstein hanged himself while awaiting trial on sex trafficking charges in August 2019, amidst speculation that the sex offender was killed.\n\nSampson made the announcement of her resignation Monday during an interview with ABC News.\n\n“During her 23-year career with the agency, Sampson oversaw the autopsies of Joan Rivers, Eric Garner and Jeffery Epstein,” The Hill reported this week. “She also led the agency through the grueling days of the COVID-19 pandemic.”\n\nhttps://www.dailywire.com/news/medical-examiner-who-oversaw-jeffrey-epstein-autopsy-vehemently-denied-homicide-speculation-resigns\n\nMedical Examiner Who Oversaw Jeffrey Epstein Autopsy, Vehemently Denied Homicide Speculation, Resigns",
+          "peerid": {
+            "channel_id": 1448749968,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tucker Carlson",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1295874936,
+            "replies_pts": 232723,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 12,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5136782604002933849",
+        "_score": 4.5577,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 12:21:05.080351",
+          "channelabout": "Wenn du meine Arbeit unterstützen und Kontakt zu mir haben möchtest, dann komm gerne in die Insider Gruppe ANONYME ALUHÜTE @AnonymeAluhueteBot DANKE",
+          "channeltitle": "Fakten Frieden Freiheit",
+          "channelusername": "FaktenFriedenFreiheit",
+          "date": 1638705677,
+          "editdate": 1638705680,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 930,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 6,
+              "offset": 938,
+              "url": "https://www.blick.ch/schweiz/bern/nehme-die-konsequenzen-in-kauf-berner-schulleiter-will-corona-massnahmen-nicht-mehr-umsetzen-id17036730.html"
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 52,
+              "offset": 944
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 22,
+              "offset": 974
+            }
+          ],
+          "forwards": 46,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "«Ich werde die Massnahmen wie bis anhin bis zu den Sportferien umsetzen. Sollte sich die Situation nicht wesentlich ändern, sodass ich durch vernünftige Begründung zur Einsicht käme, dass die Massnahmen gerechtfertigt sind, werde ich ab da keine sinnlosen und schikanösen Massnahmen mehr unterstützen, namentlich nicht das Maskentragen.»\n\nEr will sich nicht impfen lassen\nBei manchen Eltern sorgen die Aussagen des Schulleiters offenbar für Empörung. Das Schreiben wurde schliesslich der Blick-Redaktion zugespielt. «Es ist kein Geheimnis, dass ich seit einem Jahr ein erklärter Kritiker des politischen Vorgehens bezüglich der Corona-Massnahmen bin», heisst es da. Trotzdem habe er sie an der Schule umgesetzt, «einfach so liberal wie möglich». Es sei ungeheuerlich, dass die Grundrechte wegen dieser Pandemie massiv eingeschränkt würden, so Eric S. weiter. Er fühle sich «mehr und mehr in einem schlechten Hollywood-Streifen».\n\nQuelle: Hier\n\nDENKT DRAN - DENKT SELBST\n👉🏼@FaktenFriedenFreiheit",
+          "peerid": {
+            "channel_id": 1196000400,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Sebbe",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 176194,
+            "replies": 12,
+            "comments": true,
+            "channel_id": 1180624349,
+            "replies_pts": 207875,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1134972132
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1206833291
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3719,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5408433375599931141",
+        "_score": 4.5577,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 14:33:39.950316",
+          "channelabout": "A network of independent researchers from around the world united on providing the latest updates about COVID-19.",
+          "channeltitle": "COVID-19 Up",
+          "channelusername": "COVID19Up",
+          "date": 1638713450,
+          "editdate": 1638713453,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 125,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 115
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 18,
+              "offset": 181
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 10,
+              "offset": 228
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 8,
+              "offset": 246,
+              "url": "https://news.yahoo.com/experts-more-than-70-percent-of-americans-need-additional-vaccine-shots-for-full-protection-from-omicron-100006139.html"
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 15,
+              "offset": 520
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 7,
+              "offset": 636
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 21,
+              "offset": 682
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 25,
+              "offset": 754
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 12,
+              "offset": 864
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 864
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 908
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 14,
+              "offset": 908
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "“Experts” Claim 70% of Americans Need Additional COVID-19 Vaccine Shots for Protection From Omicron Variant\n\n🇺🇸💉@COVID19Up: According to the CDC, nearly 60% of Americans are now “fully vaccinated” against COVID-19.\n\nBut some \"experts\" are now claiming the Omicron variant could reverse America’s progress on immunity, leaving nearly three-quarters of the population newly susceptible to breakthrough cases or reinfection.\n\nAccording to Dr. Eric Topol, director of the Scripps Research Translational Institute, is that “three shots” of Pfizer or Moderna—or one shot of Johnson & Johnson, plus a booster—should be the new standard for \"full\" vaccination.\n\nBut instead, the U.S. is “going the wrong way” on immunizations, Topol told the Washington Post. “We’re at 59% and fading” as protection wanes for people without boosters.\n\nJoin our 34K strong news channel:\n@COVID19Up\n\nJoin our 11K member group chat:\n@COVID1984Chat",
+          "peerid": {
+            "channel_id": 1259249024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 355477,
+            "replies": 5,
+            "comments": true,
+            "channel_id": 1289672600,
+            "replies_pts": 526985,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1588383921
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2040514121
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1843770329
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 674,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5851413068399002944",
+        "_score": 4.0396,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-03 20:28:16.53543",
+          "channelabout": "Военно - политический агрегатор\n\nСвязь @chvkbot\n\nchvkmedia@protonmail.com",
+          "channeltitle": "ЧВК Медиа",
+          "channelusername": "chvkmedia",
+          "date": 1638735404,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 787,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 10,
+              "offset": 816,
+              "reformatted_key": "MessageEntityStrike"
+            },
+            {
+              "length": 7,
+              "offset": 990,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 20,
+              "offset": 998,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 1019,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 1029,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 165,
+              "offset": 1038,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 1205,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3505,
+            "date": 1638735378,
+            "from_id": {
+              "channel_id": 1307676492,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "На митинге полемиста Земмура под Парижем было весело. Около буянили антифа и ультраправые (по 400 с каждой стороны, 46 арестовано), в Париже было шествие антифа (2200 человек), в сам митинг просочились леваки, их побили стульями сами посетители, леваков из прессы спешно эвакуировали секюрити, пока их не линчевали в зале, сами безопасники проворонили человека, который попытался задушить Земмура (арестовали)... Короче сколько пришли уже неважно. \n\nДля тихой Франции, вся это агитация с агитированным Земмуром - слишком. Его митинг ещё пытался запретить президент департамента Сен-Сен-Дени (где 60% населения - иностранцы и их потомки и полно гетто с наркотиками и бандами), но тщетно.  \n\nА пришли 10.000 человек, сами приближенные Земмура ожидали 15.000. \n\nТакже всем пофиг, что левак #Меланшон начал предвыборную вакханалию кампанию с митинга в Париже. Ему пока прочат +/- 10%, то есть лучшие показатели от всех левых кандидатов, а их много (зелёный Жадо 7/8, социалистска Идальго 4/5)\n\n#Земмур #президентскиевыборы #политика #дурдом\n\nhttps://www.nouvelobs.com/election-presidentielle-2022/20211205.OBS51833/bagarres-jets-de-chaises-journalistes-hues-le-meeting-d-eric-zemmour-sous-haute-tension.html\n\n@fifthrepublic : свобода, равенство, пьянство",
+          "peerid": {
+            "channel_id": 1362388271,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1227,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5851413068399002945",
+        "_score": 4.0396,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-03 20:28:16.54031",
+          "channelabout": "Военно - политический агрегатор\n\nСвязь @chvkbot\n\nchvkmedia@protonmail.com",
+          "channeltitle": "ЧВК Медиа",
+          "channelusername": "chvkmedia",
+          "date": 1638742248,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 787,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 10,
+              "offset": 816,
+              "reformatted_key": "MessageEntityStrike"
+            },
+            {
+              "length": 7,
+              "offset": 990,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 20,
+              "offset": 998,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 1019,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 1029,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 165,
+              "offset": 1038,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 1205,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3505,
+            "date": 1638735378,
+            "from_id": {
+              "channel_id": 1307676492,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "На митинге полемиста Земмура под Парижем было весело. Около буянили антифа и ультраправые (по 400 с каждой стороны, 46 арестовано), в Париже было шествие антифа (2200 человек), в сам митинг просочились леваки, их побили стульями сами посетители, леваков из прессы спешно эвакуировали секюрити, пока их не линчевали в зале, сами безопасники проворонили человека, который попытался задушить Земмура (арестовали)... Короче сколько пришли уже неважно. \n\nДля тихой Франции, вся это агитация с агитированным Земмуром - слишком. Его митинг ещё пытался запретить президент департамента Сен-Сен-Дени (где 60% населения - иностранцы и их потомки и полно гетто с наркотиками и бандами), но тщетно.  \n\nА пришли 10.000 человек, сами приближенные Земмура ожидали 15.000. \n\nТакже всем пофиг, что левак #Меланшон начал предвыборную вакханалию кампанию с митинга в Париже. Ему пока прочат +/- 10%, то есть лучшие показатели от всех левых кандидатов, а их много (зелёный Жадо 7/8, социалистска Идальго 4/5)\n\n#Земмур #президентскиевыборы #политика #дурдом\n\nhttps://www.nouvelobs.com/election-presidentielle-2022/20211205.OBS51833/bagarres-jets-de-chaises-journalistes-hues-le-meeting-d-eric-zemmour-sous-haute-tension.html\n\n@fifthrepublic : свобода, равенство, пьянство",
+          "peerid": {
+            "channel_id": 1362388271,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 389,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6187891440706780246",
+        "_score": 3.3539,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 12:59:55.733858",
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "date": 1638705979,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 101,
+              "offset": 1458
+            }
+          ],
+          "forwards": 27,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1534933023
+          },
+          "fwdfrom": {
+            "channel_post": 987,
+            "date": 1638448630,
+            "from_id": {
+              "channel_id": 1240168857,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 8972,
+            "saved_from_peer": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1534933023
+            }
+          },
+          "message": "RESIGNATIONS\n\nAMAZON\nHULU\nDISNEY\nLINK IN\nTWITTER\nCNN CHRIS COMEAU ( SUSPENDED INDEFINITELY)\nVOLKSWAGEN\nVICTORIA SECRET\nTEAM MOBILE\nHARLEY DAVIDSON\nOK CUPID\nHINGE\nNISSAN\nMICROSOFT\nIBM\nURBAN EATS\nE BAY\nMGM\nNESTLE \nMASTER CARD\nBATH AND BODY\nVELOCITY\nJUUL\nSALES FORCE\nWE WORK\nTEAM DUCK\nT MOBILE\nCEO WALMART- MARC LORE\nCEO CNBC\nCEO OF THE INDUSTRY FUND \nDIRECTOR OF LOS ANGELES CHILD PROTECTION SERVICES  \nGIRLS WHO CODE CEO - RESHMA SAUJANI. \nCEO KENDRA SCOTT - KENDRA SCOTT JEWELERY BUSINESS \nCEO AMAZON - JEFF BEZOS\nCEO JOHN MATZE - PARLER \nCEO LEON BLACK - APOLLO GLOBAL MANAGEMENT \nCEO - FOUNDER COLIN HUANG - CHINESE E-COMCO PINDUODUO\nCEO KEN FRAZIER -  MERCK\nCEO STEVE MOLLENKOPF - QUALCOMM\nERIC ROSENGREN  BOSTON FED PRESIDENT\nCEO JOHN MACKEY-  AMAZON-OWNED WHOLE FOODS \nCEO RICHARD SMITH - EQUIFAX \nCEO JES STELEY - BARCLAYS BANK\n\n19 DEMOCRATS RETIRED. THE LATEST (NOV 2021) IS\nPETER DEFAZIO  - HOUSE TRANSPORTATION CHAIR.  OREGON DEMOCRAT. \nSYMONE SANDERS -SENIOR ADVISOR AND CHIEF SPOKESPERSON TO KAMALA HARRIS\n\n2019\nCEO STEVE EASTERBROOK  - MCDONALDS\nCEO ADAM NEUMANN  - WE WORK\nCEO KEVEN PLANK  - UNDER ARMOUR\nMIKE PARKER  - SOUTHERN FOOTBALL NETBALL LEAGUE CEO \nCEO DEVIN WENIG  -  EBAY\nME TOO REMOVED - CBS CHAIRMAN \nCEO LES MOONVES  TEVE WYNN ( CASINO MAGNATE) \nINTEL'S CHIEF BRIAN KRZANICH.\n\nCEO OF BOEING COMMERCIAL AIRPLANES \nCEO UNDER ARMOUR \nCEO NIKE \nCEO SERVICENOW \n\nWhy have more than 1,300 CEOs left their post in the past year? Nov 2019\nhttps://www.nbcnews.com/business/business-news/why-have-more-1-000-ceos-left-their-post-past-n1076201",
+          "peerid": {
+            "channel_id": 1440730747,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 166072,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1250,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5976060093140044248",
+        "_score": 3.1286,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 20:14:43.517896",
+          "channeltitle": "Arizona Red Roots",
+          "channelusername": "ArizonaRedRoots",
+          "date": 1638734202,
+          "editdate": 1638734205,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2227,
+            "date": 1638729399,
+            "from_id": {
+              "channel_id": 1486518721,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Joe Oltmann",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Good morning… \n\nTruth does not matter to the radical left. I want to point out the obvious. Tech and MSM silence those who stand against their propaganda while saying show the proof. They lie over and over again while saying show us the proof. As more proof comes forward they silence and attack, abusing powers and lying and bullying to shield the public from the absolute truth. \n\nI gave up everything for truth. Even after the piece of trash Eric Coomer admits to being a radical extremist, a skinhead, a drug addict, an Antifascist (ANTIFA), and capable of fixing the election… even after that, they say I lack credibility. Even after he doubled down on his hate and lied over and over again, and got caught lying, they said I lacked credibility. I don’t lack credibility… I have always stood in the gap for what is right and I have been consistent in caring and standing for those in need. Eric has been consistent in being a liar. Consistent in being vile and hateful. His actions. His words not mine. And yet he has just been arrested again… but I lack credibility… lol. Nah, they are liars. They need to own it. They are traitors… they need to own it. \n\nThis fight is not about me. It is about the soul of our nation, opportunity for our children and restoring integrity and accountability to our nation. It is about honoring those who died defending it, and preserving the Constitution. It’s a fight between good and evil. It is a fight between right and wrong. This is the fundamental fight for the spirit of God. \n\nYou don’t like that I want to hang traitors to our nation? Sorry, not sorry. Men, women and children have died, suffered unimaginable pain and anguish at the hands of those who stole our voice and installed an illegitimate government. They have allowed evil to torment our communities, robbed our children of their childhood and destroyed entire cities and states. They have eroded the ethos of our nation, persecuted the good people of our country while elevating evil. \n\nVengeance belongs to God, but accountability belongs to the people of our great nation. The evil radical left is exactly what they say they are fighting against. They are the evil of our society. If you cannot see it, I cannot help you. But it is not a mistake that everything they touch turns to crap. It literally is eroding before your eyes while they blame Christians or conservatives who are no where to be seem within 100 miles. \n\nSo yes, I stood up and risked it all. It was never mine anyway… and I was never a fan of evil bullies. I saw all too clearly what they did to our communities and I’m frankly sick of the pain this trash causes. So I choose the good people and I reject the ideology that frankly destroys hope and binds our society in lies. \n\nSo know this is truth. The election was stolen. Dominion Voting Systems, Es&S, Runbeck, Smartmatic… they are all election companies colluding to steal your voice. We have the evidence… we always have. That is why you have all these distractions. That is why you have all these fires and conflicts of division.\n\nStay frosty. Stay focused and speak truth. We are winning. It’s the 4th quarter, and where we find out what we are made of. This is the final test of character and commitment. Men, step up. It’s time. Pray.",
+          "peerid": {
+            "channel_id": 1391409918,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 51677,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1424378339,
+            "replies_pts": 67008,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 78,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "4817564884919124417",
+        "_score": 3.1286,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 20:14:17.426222",
+          "channeltitle": "New Hampshire Audit",
+          "channelusername": "NewHampshireAudit",
+          "date": 1638734231,
+          "editdate": 1638734234,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2227,
+            "date": 1638729399,
+            "from_id": {
+              "channel_id": 1486518721,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Joe Oltmann",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Good morning… \n\nTruth does not matter to the radical left. I want to point out the obvious. Tech and MSM silence those who stand against their propaganda while saying show the proof. They lie over and over again while saying show us the proof. As more proof comes forward they silence and attack, abusing powers and lying and bullying to shield the public from the absolute truth. \n\nI gave up everything for truth. Even after the piece of trash Eric Coomer admits to being a radical extremist, a skinhead, a drug addict, an Antifascist (ANTIFA), and capable of fixing the election… even after that, they say I lack credibility. Even after he doubled down on his hate and lied over and over again, and got caught lying, they said I lacked credibility. I don’t lack credibility… I have always stood in the gap for what is right and I have been consistent in caring and standing for those in need. Eric has been consistent in being a liar. Consistent in being vile and hateful. His actions. His words not mine. And yet he has just been arrested again… but I lack credibility… lol. Nah, they are liars. They need to own it. They are traitors… they need to own it. \n\nThis fight is not about me. It is about the soul of our nation, opportunity for our children and restoring integrity and accountability to our nation. It is about honoring those who died defending it, and preserving the Constitution. It’s a fight between good and evil. It is a fight between right and wrong. This is the fundamental fight for the spirit of God. \n\nYou don’t like that I want to hang traitors to our nation? Sorry, not sorry. Men, women and children have died, suffered unimaginable pain and anguish at the hands of those who stole our voice and installed an illegitimate government. They have allowed evil to torment our communities, robbed our children of their childhood and destroyed entire cities and states. They have eroded the ethos of our nation, persecuted the good people of our country while elevating evil. \n\nVengeance belongs to God, but accountability belongs to the people of our great nation. The evil radical left is exactly what they say they are fighting against. They are the evil of our society. If you cannot see it, I cannot help you. But it is not a mistake that everything they touch turns to crap. It literally is eroding before your eyes while they blame Christians or conservatives who are no where to be seem within 100 miles. \n\nSo yes, I stood up and risked it all. It was never mine anyway… and I was never a fan of evil bullies. I saw all too clearly what they did to our communities and I’m frankly sick of the pain this trash causes. So I choose the good people and I reject the ideology that frankly destroys hope and binds our society in lies. \n\nSo know this is truth. The election was stolen. Dominion Voting Systems, Es&S, Runbeck, Smartmatic… they are all election companies colluding to steal your voice. We have the evidence… we always have. That is why you have all these distractions. That is why you have all these fires and conflicts of division.\n\nStay frosty. Stay focused and speak truth. We are winning. It’s the 4th quarter, and where we find out what we are made of. This is the final test of character and commitment. Men, step up. It’s time. Pray.",
+          "peerid": {
+            "channel_id": 1121676733,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1152989156,
+            "replies_pts": 5877,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 15,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5354447101273193712",
+        "_score": 3.1286,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 19:46:03.394645",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1638729779,
+          "editdate": 1638729782,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2227,
+            "date": 1638729399,
+            "from_id": {
+              "channel_id": 1486518721,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Joe Oltmann",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Good morning… \n\nTruth does not matter to the radical left. I want to point out the obvious. Tech and MSM silence those who stand against their propaganda while saying show the proof. They lie over and over again while saying show us the proof. As more proof comes forward they silence and attack, abusing powers and lying and bullying to shield the public from the absolute truth. \n\nI gave up everything for truth. Even after the piece of trash Eric Coomer admits to being a radical extremist, a skinhead, a drug addict, an Antifascist (ANTIFA), and capable of fixing the election… even after that, they say I lack credibility. Even after he doubled down on his hate and lied over and over again, and got caught lying, they said I lacked credibility. I don’t lack credibility… I have always stood in the gap for what is right and I have been consistent in caring and standing for those in need. Eric has been consistent in being a liar. Consistent in being vile and hateful. His actions. His words not mine. And yet he has just been arrested again… but I lack credibility… lol. Nah, they are liars. They need to own it. They are traitors… they need to own it. \n\nThis fight is not about me. It is about the soul of our nation, opportunity for our children and restoring integrity and accountability to our nation. It is about honoring those who died defending it, and preserving the Constitution. It’s a fight between good and evil. It is a fight between right and wrong. This is the fundamental fight for the spirit of God. \n\nYou don’t like that I want to hang traitors to our nation? Sorry, not sorry. Men, women and children have died, suffered unimaginable pain and anguish at the hands of those who stole our voice and installed an illegitimate government. They have allowed evil to torment our communities, robbed our children of their childhood and destroyed entire cities and states. They have eroded the ethos of our nation, persecuted the good people of our country while elevating evil. \n\nVengeance belongs to God, but accountability belongs to the people of our great nation. The evil radical left is exactly what they say they are fighting against. They are the evil of our society. If you cannot see it, I cannot help you. But it is not a mistake that everything they touch turns to crap. It literally is eroding before your eyes while they blame Christians or conservatives who are no where to be seem within 100 miles. \n\nSo yes, I stood up and risked it all. It was never mine anyway… and I was never a fan of evil bullies. I saw all too clearly what they did to our communities and I’m frankly sick of the pain this trash causes. So I choose the good people and I reject the ideology that frankly destroys hope and binds our society in lies. \n\nSo know this is truth. The election was stolen. Dominion Voting Systems, Es&S, Runbeck, Smartmatic… they are all election companies colluding to steal your voice. We have the evidence… we always have. That is why you have all these distractions. That is why you have all these fires and conflicts of division.\n\nStay frosty. Stay focused and speak truth. We are winning. It’s the 4th quarter, and where we find out what we are made of. This is the final test of character and commitment. Men, step up. It’s time. Pray.",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 232904,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 386816,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1503146348
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 50,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6135579159948175154",
+        "_score": 3.1286,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-12-05 19:47:32.044529",
+          "channelabout": "Christian, American, physician, scientist, musician, vegan, husband. I'm devoted to sharing truth, with the goal of helping all of humankind. #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Escape The Matrix",
+          "channelusername": "pookzta",
+          "date": 1638729779,
+          "editdate": 1638729782,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2227,
+            "date": 1638729399,
+            "from_id": {
+              "channel_id": 1486518721,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Joe Oltmann",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Good morning… \n\nTruth does not matter to the radical left. I want to point out the obvious. Tech and MSM silence those who stand against their propaganda while saying show the proof. They lie over and over again while saying show us the proof. As more proof comes forward they silence and attack, abusing powers and lying and bullying to shield the public from the absolute truth. \n\nI gave up everything for truth. Even after the piece of trash Eric Coomer admits to being a radical extremist, a skinhead, a drug addict, an Antifascist (ANTIFA), and capable of fixing the election… even after that, they say I lack credibility. Even after he doubled down on his hate and lied over and over again, and got caught lying, they said I lacked credibility. I don’t lack credibility… I have always stood in the gap for what is right and I have been consistent in caring and standing for those in need. Eric has been consistent in being a liar. Consistent in being vile and hateful. His actions. His words not mine. And yet he has just been arrested again… but I lack credibility… lol. Nah, they are liars. They need to own it. They are traitors… they need to own it. \n\nThis fight is not about me. It is about the soul of our nation, opportunity for our children and restoring integrity and accountability to our nation. It is about honoring those who died defending it, and preserving the Constitution. It’s a fight between good and evil. It is a fight between right and wrong. This is the fundamental fight for the spirit of God. \n\nYou don’t like that I want to hang traitors to our nation? Sorry, not sorry. Men, women and children have died, suffered unimaginable pain and anguish at the hands of those who stole our voice and installed an illegitimate government. They have allowed evil to torment our communities, robbed our children of their childhood and destroyed entire cities and states. They have eroded the ethos of our nation, persecuted the good people of our country while elevating evil. \n\nVengeance belongs to God, but accountability belongs to the people of our great nation. The evil radical left is exactly what they say they are fighting against. They are the evil of our society. If you cannot see it, I cannot help you. But it is not a mistake that everything they touch turns to crap. It literally is eroding before your eyes while they blame Christians or conservatives who are no where to be seem within 100 miles. \n\nSo yes, I stood up and risked it all. It was never mine anyway… and I was never a fan of evil bullies. I saw all too clearly what they did to our communities and I’m frankly sick of the pain this trash causes. So I choose the good people and I reject the ideology that frankly destroys hope and binds our society in lies. \n\nSo know this is truth. The election was stolen. Dominion Voting Systems, Es&S, Runbeck, Smartmatic… they are all election companies colluding to steal your voice. We have the evidence… we always have. That is why you have all these distractions. That is why you have all these fires and conflicts of division.\n\nStay frosty. Stay focused and speak truth. We are winning. It’s the 4th quarter, and where we find out what we are made of. This is the final test of character and commitment. Men, step up. It’s time. Pray.",
+          "peerid": {
+            "channel_id": 1428550845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1277228370,
+            "replies_pts": 73395,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 48,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      }
+    ]
+  }
+}

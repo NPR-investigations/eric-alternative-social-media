@@ -1,0 +1,129 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [33],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [9.8295],
+    "hits": [
+      {
+        "_index": "parler-data-000011",
+        "_id": "63dc5d27-5730-48b7-aee3-7751f2a2321f",
+        "_score": 9.8295,
+        "_source": {
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "ERIC CLAPTON New COVID Protest Song ON VACCINES, 'THIS HAS GOTTA STOP'",
+          "bodywithurls": "ERIC CLAPTON New COVID Protest Song ON VACCINES, 'THIS HAS GOTTA STOP'\nhttps://www.tmz.com/2021/08/28/eric-clapton-covid-vaccine-song-this-has-gotta-stop/",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-20T02:03:52.798968+00:00",
+          "createdAtformatted": "2021-09-20T02:03:52.798968+00:00",
+          "creator": "394451aca8af454286086db1ab3f4e9b",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "id": "63dc5d27-5730-48b7-aee3-7751f2a2321f",
+          "imagensfw": false,
+          "lastseents": "2022-04-18T02:03:52.798988+00:00",
+          "name": "TMK",
+          "numid": 36115140,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/63dc5d27-5730-48b7-aee3-7751f2a2321f",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 2,
+          "urls": {
+            "long": "https://www.tmz.com/2021/08/28/eric-clapton-covid-vaccine-song-this-has-gotta-stop/",
+            "metadata": {
+              "title": "Eric Clapton Releases COVID Protest Song, 'This Has Gotta Stop'"
+            }
+          },
+          "userid": "394451aca8af454286086db1ab3f4e9b",
+          "useridraw": "394451ac-a8af-4542-8608-6db1ab3f4e9b",
+          "username": "TheMagaKing",
+          "verified": true
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "parler-data-000011",
+        "_id": "8684ce34-e850-443e-ae00-2996ebb08d6f",
+        "_score": 4.5521,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "This is Neil – Prof. Dr Neil Ferguson. He is a modelling professor and receives, among other, enormous amounts of money from the Gates Foundation (). His predictions so far can be considered wildly inaccurate. His horror scenarios regarding Covid also didn't happen (https://bit.ly/3xMIfIx), yet he is still receiving much uncritical attention from the media. \nThat's because the system requires fearmongers like him, Leana Wen, Eric Ding, Karl Lauterbach, and Co, as an informed and fearless society would cause their lies to collapse around themselves.",
+          "bodywithurls": "This is Neil – Prof. Dr Neil Ferguson. He is a modelling professor and receives, among other, enormous amounts of money from the Gates Foundation (https://gates.ly/3sntdYn). His predictions so far can be considered wildly inaccurate. His horror scenarios regarding Covid also didn't happen (https://bit.ly/3xMIfIx), yet he is still receiving much uncritical attention from the media. \nThat's because the system requires fearmongers like him, Leana Wen, Eric Ding, Karl Lauterbach, and Co, as an informed and fearless society would cause their lies to collapse around themselves.",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-20T12:58:58.504498+00:00",
+          "createdAtformatted": "2021-09-20T12:58:58.504498+00:00",
+          "creator": "94cd91bec1754fb69aad94c2ee83b999",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "id": "8684ce34-e850-443e-ae00-2996ebb08d6f",
+          "imagensfw": false,
+          "lastseents": "2022-06-17T12:58:58.504518+00:00",
+          "name": "Robshakti",
+          "numid": 34283256,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/8684ce34-e850-443e-ae00-2996ebb08d6f",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "urls": {
+            "long": "https://gates.ly/3sntdYn",
+            "metadata": {
+              "title": "Committed Grants | Bill & Melinda Gates Foundation..."
+            }
+          },
+          "userid": "94cd91bec1754fb69aad94c2ee83b999",
+          "useridraw": "94cd91be-c175-4fb6-9aad-94c2ee83b999",
+          "username": "Robshakti",
+          "verified": false
+        },
+        "_ignored": ["body.keyword", "bodywithurls.keyword"]
+      }
+    ]
+  }
+}

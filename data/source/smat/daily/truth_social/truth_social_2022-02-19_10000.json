@@ -1,0 +1,63 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [66],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [6.7242],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107822596583076513",
+        "_score": 6.7242,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "ApeFather",
+            "display_name": "Chris Wilson AMC",
+            "id": "107819517063019752",
+            "username": "ApeFather"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@seanhannity\" class=\"u-url mention\">@<span>seanhannity<\/span><\/a><\/span> NYC Mayor Eric Adams suddenly wants people to go back to work <a href=\"https://joepags.com/news/new-york-city-mayor-adams-suddenly-wants-people-to-go-back-to-work/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">joepags.com/news/new-york-city<\/span><span class=\"invisible\">-mayor-adams-suddenly-wants-people-to-go-back-to-work/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @seanhannity NYC Mayor Eric Adams suddenly wants people to go back to work https://joepags.com/news/new-york-city-mayor-adams-suddenly-wants-people-to-go-back-to-work/",
+          "created_at": "2022-02-19T03:44:17.439+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107822596583076513",
+          "last_seen_ts": "2022-05-30T11:48:45.118707+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107821237744065287",
+            "uri": "https://truthsocial.com/users/seanhannity/statuses/107821237744065287",
+            "url": "https://truthsocial.com/@seanhannity/107821237744065287"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ApeFather/statuses/107822596583076513/activity",
+          "url": "https://truthsocial.com/users/ApeFather/statuses/107822596583076513/activity",
+          "visibility": "public"
+        }
+      }
+    ]
+  }
+}

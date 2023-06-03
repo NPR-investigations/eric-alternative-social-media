@@ -1,0 +1,441 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [38],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [5],
+      "relation": ["eq"]
+    },
+    "max_score": [13.3023],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5390674415975410738",
+        "_score": 13.3023,
+        "_source": {
+          "archivedon": "2022-07-24 19:06:51.840198",
+          "channelabout": "Discussion & news sharing group for Patriots in Arizona. Helping to organize support for our Freedoms & Rights! Let's connect & unite with each other now to support our State & the Republic!",
+          "channeltitle": "FreeArizona Talk",
+          "channelusername": "FreeArizonaTalk",
+          "date": 1656833395,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 72,
+              "offset": 72,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "channel_id": 1735404144,
+            "reformatted_key": "PeerChannel"
+          },
+          "fwdfrom": {
+            "channel_post": 383,
+            "date": 1656833392,
+            "from_id": {
+              "channel_id": 1735404144,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 383,
+            "saved_from_peer": {
+              "channel_id": 1735404144,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "NYC Mayor Eric Adams plans to mandate COVID vaccines for kids this fall\nhttps://stevekirsch.substack.com/p/nyc-mayor-eric-adams-plans-to-mandate",
+          "peerid": {
+            "channel_id": 1255114194,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 16258
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 23,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6699560700089477620",
+        "_score": 11.1878,
+        "_source": {
+          "archivedon": "2022-07-24 19:59:13.490528",
+          "channelabout": "En attendant que Tass mette en place un canal en Anglais - Français officiel - Idem pour RT Fr en RSS car le site n'est pas configuré pour - Pour la \"pluralité de l'information\" et la liberté d'expression.\nIl y a aussi : https://t.me/rt_france_alt",
+          "channeltitle": "RSS RT France - Tass News Agency English / Non-Official Channel",
+          "channelusername": "Rss_Tass_en_RT_fr_not_offical",
+          "date": 1656850889,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://telegra.ph/Mis-en-cause-pour-son-comportement-envers-les-femmes-Eric-C-07-03"
+            },
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1949336244
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Mis en cause pour son comportement envers les femmes, Eric Coquerel fustige des «rumeurs infondées»\n\nvia RT en français",
+          "peerid": {
+            "channel_id": 1559863030,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15929
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1949336244,
+            "_media_ref": "bd6093aaf24280bdfc2419b15952e261a6bea07f",
+            "_v": 1,
+            "access_hash": -7.19318275139462e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 15,
+            "bot_inline_geo": false,
+            "bot_inline_placeholder": "Please input a command to continue...",
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "RSS to Telegram Bot",
+            "id": 1949336244,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 38708,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "photo_id": 6.18618019734314e+18,
+              "photo_small": {
+                "local_id": 38706,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "RSStT_Bot",
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "4599600813680125260",
+        "_score": 10.7718,
+        "_source": {
+          "archivedon": "2022-07-24 07:56:09.530884",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1656892717,
+          "editdate": 1656892749,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 126,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams, seen walking into the Ohel to pay his respects as the Lubavitcher Rebbe's Yurtziet fell out on Shabbos.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 46298,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1108400295
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 109337018
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1367864684
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 9,
+            "replies_pts": 85016
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 1312,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6617507450138436064",
+        "_score": 10.7718,
+        "_source": {
+          "archivedon": "2022-08-03 06:55:42.586536",
+          "channeltitle": "Kayleigh McEnany Chat",
+          "date": 1656885252,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1746089165
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "A prophecy from God said He is speaking to a man's heart, and He called him Eric. This was given a month ago.",
+          "peerid": {
+            "channel_id": 1540758519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 41390
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1746089165,
+            "_v": 1,
+            "access_hash": -1.00972259862681e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Donna",
+            "id": 1746089165,
+            "is_self": false,
+            "last_name": "C",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Donnierae",
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5408433375599934018",
+        "_score": 4.9399,
+        "_source": {
+          "archivedon": "2022-07-25 05:41:23.253151",
+          "channelabout": "A network of independent researchers from around the world united on providing the latest updates about COVID-19.",
+          "channeltitle": "COVID-19 Up",
+          "channelusername": "COVID19Up",
+          "date": 1656861005,
+          "editdate": 1656908807,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 65,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 65,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 65,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 75,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 603,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.upi.com/Health_News/2022/07/02/covid19-paxlovid-nyc-testing-sites/8501656801020/"
+            },
+            {
+              "length": 194,
+              "offset": 614,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 14,
+              "offset": 1029,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 14,
+              "offset": 1029,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 21,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "New York City to Offer Paxlovid at COVID-19 Testing Sites\n\n🇺🇸💊@COVID19Up: New York City's Mayor Eric Adams announced Thursday (June 30) that the city has launched the first-of-their-kind mobile COVID-19 testing units that will also dispense the antiviral drug Paxlovid to those who test positive for the virus.\n\nThe \"Test-to-Treat\" program is part of federal and city efforts to catch and treat infections early and be ready for new waves of the pandemic. Health officials also want to expand access to Paxlovid, especially for people who don't have a regular doctor or insurance, the New York Times reported.\n\n\"By getting lifesaving medications into the hands of New Yorkers minutes after they test positive, we are once again leading the nation to quickly deliver accessible care to those who need it,\" Adams said.\n\nOn Thursday, three mobile units were outside local drug stores in working-class neighborhoods, the Times reported. The number of sites will grow to more than 30 by the end of July.\n\nJoin the discussion: \n➔ 🗣@COVID1984chat",
+          "peerid": {
+            "channel_id": 1259249024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1289672600,
+            "comments": true,
+            "max_id": 520868,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1670581663
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 895745581
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1543751673
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 21,
+            "replies_pts": 966882
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 6218,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

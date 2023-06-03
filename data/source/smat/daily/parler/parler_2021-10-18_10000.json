@@ -1,0 +1,133 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [27],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [9.6641],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "eb184d5a-345c-4c6a-a0f2-0f45371bcfb3",
+        "_score": 9.6641,
+        "_source": {
+          "ad": false,
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "www.thegatewaypundit.com/2021/10/dominions-eric-coomer-tatoo-arm-artist-praised-church-satan/",
+          "bodywithurls": "www.thegatewaypundit.com/2021/10/dominions-eric-coomer-tatoo-arm-artist-praised-church-satan/",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-10-18T04:56:51.000000Z",
+          "createdAtformatted": "2021-10-18T04:56:51.000000Z",
+          "creator": "c4e590377cc44c9b8c7e6d1de6ec1283",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "eb184d5a-345c-4c6a-a0f2-0f45371bcfb3",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-12-07T05:32:20.788196+00:00",
+          "name": "TheBear",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/eb184d5a-345c-4c6a-a0f2-0f45371bcfb3",
+          "state": 0,
+          "suggested": false,
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2021-11-19T09:52:57.000000Z",
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "c4e590377cc44c9b8c7e6d1de6ec1283",
+          "useridraw": "c4e59037-7cc4-4c9b-8c7e-6d1de6ec1283",
+          "username": "BearlyOne",
+          "verified": true,
+          "views": 2,
+          "urls": {
+            "metadata": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "parler-data-000011",
+        "_id": "8419179a-6fe9-4347-af20-638abe84aa22",
+        "_score": 6.2988,
+        "_source": {
+          "ad": false,
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Eric Clapton donated £1,000 ($1,360) to anti-vax British rockers Jam For Freedom to help pay for legal fees they incurred after “breaching COVID regulations” at a gig. He later gave the rebellious rockers “a chunk of money” to buy their own van outright.",
+          "bodywithurls": "Eric Clapton donated £1,000 ($1,360) to anti-vax British rockers Jam For Freedom to help pay for legal fees they incurred after “breaching COVID regulations” at a gig. He later gave the rebellious rockers “a chunk of money” to buy their own van outright.\n\nhttps://nypost.com/2021/10/11/eric-clapton-donated-1360-to-anti-vax-band-jam-for-freedom/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=1470495",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-10-18T05:51:20.922268+00:00",
+          "createdAtformatted": "2021-10-18T05:51:20.922268+00:00",
+          "creator": "c77fb979f96240c3b6fcd8615e1074b9",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "id": "8419179a-6fe9-4347-af20-638abe84aa22",
+          "lastseents": "2021-11-01T05:51:20.922295+00:00",
+          "name": "NoLiberals",
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/8419179a-6fe9-4347-af20-638abe84aa22",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "c77fb979f96240c3b6fcd8615e1074b9",
+          "useridraw": "c77fb979-f962-40c3-b6fc-d8615e1074b9",
+          "username": "NoLiberals",
+          "verified": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "imagensfw": false,
+          "numid": 42807617,
+          "urls": {
+            "long": "https://nypost.com/2021/10/11/eric-clapton-donated-1360-to-anti-vax-band-jam-for-freedom/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=1470495",
+            "metadata": {
+              "title": "Eric Clapton continues vaccine denial, donates $1,360 to anti-vax band"
+            }
+          }
+        },
+        "_ignored": ["bodywithurls.keyword"]
+      }
+    ]
+  }
+}

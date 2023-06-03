@@ -1,0 +1,456 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [53],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [7],
+      "relation": ["eq"]
+    },
+    "max_score": [13.1182],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5188655694290662340",
+        "_score": 13.1182,
+        "_source": {
+          "archivedon": "2022-09-03 11:06:34.824",
+          "channelabout": "The Official @MiniAOC Discussion Group Chat",
+          "channeltitle": "Mini AOC Chat",
+          "date": 1662198847,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 37191191
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Obama and Eric Holder and John Brennan....",
+          "peerid": {
+            "channel_id": 1208078045,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 45929
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 37191191,
+            "_v": 1,
+            "access_hash": 3.61525723905792e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "David",
+            "id": 37191191,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Going2Heaven",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6347407316354132122",
+        "_score": 11.7841,
+        "_source": {
+          "archivedon": "2022-09-03 06:30:26.798544",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "date": 1662182344,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 180,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 284,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 295,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 295,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Pastor James Eric Crisp walked into police station to confess to 2019 Roger Lord Taylor murder\n\nRead: https://www.dailymail.co.uk/news/article-11175471/Pastor-James-Eric-Crisp-walked-police-station-confess-2019-Roger-Lord-Taylor-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 234,
+          "channelusername": "DailyMaiI"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5374763503468948793",
+        "_score": 8.9057,
+        "_source": {
+          "archivedon": "2022-09-03 06:22:23.107999",
+          "channelabout": "News Analysis & Comments, General Musings and Occasional Rants\nAlso on VK at https://vk.com/ofehrmedia.press",
+          "channeltitle": "ofehrmedia.press",
+          "date": 1662180874,
+          "editdate": 1662181721,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Mamer is the \"chief spokesman the European Commission.\n\nIt was my impression that the EU clearly communicated their unwillingness to buy Russian gas. Now they complain that the gas they didn't want to buy is not delivered by Russia? 🥶",
+          "peerid": {
+            "channel_id": 1251409646,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1248671728,
+            "comments": true,
+            "max_id": 29126,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1972384227
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 63313
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 114,
+          "channelusername": "ofehrmediapress",
+          "mediaref": "c62b8057889cb9a4ffcaf942a88a36452fd33fa6"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5966960951520537154",
+        "_score": 4.6268,
+        "_source": {
+          "archivedon": "2022-09-03 21:00:44.273764",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "date": 1662220894,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1539038247
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "According to WEC's Wolfe, being able to access someone else's ballot is not a demonstrable flaw in the \"MyVote\" system. If not a flaw, it's designed that way. Such design would only exist to be able to subvert the people's vote.  So, who are the nefarious person(s) that REALLY obtained official documents for election use? Was it folks at the WEC? Was it folks with ERIC? SO looking forward to discovering who these \"nefarious\" people are!\nWho will Wolfe's words come back to haunt? It most certainly should not be whistleblower Harry Wait.\nWEC's Megan Wolfe's statement in the Gateway Pundit's article: \"Intentionally using someone else’s identity to subvert the system does not demonstrate a flaw with MyVote, but rather a flaw with that person’s conduct. A nefarious person who chooses to impersonate someone else in order to gain official documents of any kind – whether for election use or any other purpose – is clearly violating state and federal law and could face consequences\"",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 141877,
+            "reply_to_top_id": 141875
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1539038247,
+            "_v": 1,
+            "access_hash": 5.86609543625105e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Patty",
+            "id": 1539038247,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "GMom4Ever",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "Wiauditchat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5090199899812077140",
+        "_score": 4.4022,
+        "_source": {
+          "archivedon": "2022-09-03 17:33:07.341816",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "date": 1662213767,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 1405,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 33,
+              "offset": 2531,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 392151,
+            "date": 1662213764,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 392151,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nClearly, Biden's words about Trump and his supporters being terrorists did not arise by accident. There has been a media and social media propaganda to discredit Trump and Republicans over the past few years. Censorship has been actively used.   \n  \nIn this context, the new Biden administration and free speech scandal is already commonplace. According to recently published emails, the White House and Facebook have been meeting on a regular basis about what topics to censor on the platform.  \n  \nThis follows from correspondence and a joint statement by Louisiana and Missouri attorneys general Jeff Landry and Eric Schmitt.  \n  \n\"The submitted communications show an extensive \"censorship enterprise\" between multiple federal agencies. Forty-five federal officials were identified who communicated with social media platforms about 'incorrect information' and censorship,\" the statement said.  \n  \nAlso in one of the published correspondence, dated last July, a Facebook spokesman explicitly points to the fact that they met with White House officials to discuss combating \"incorrect information.\" \"Our teams met today to better understand the list of things the White House expects us to do regarding misinformation.\"  \n  \nAll of this shows the apogee of the current government's information war against Republicans, which could very quickly escalate into an armed confrontation.  \n  \n@madam_secretar TelegramChartHouse 🤐 Biden administration caught censoring social media\n             \nU.S. President Joe Biden's administration engaged in regular social media censorship, Louisiana and Missouri attorneys general Jeff Landry and Eric Schmitt said.\n \n\"Submitted communications show an extensive \"censorship enterprise\" between multiple federal agencies. Forty-five federal officials were identified who communicated with social media platforms about 'incorrect information' and censorship,\" the statement said.\n \nIt is noted that the management of major social networks, including Facebook and Instagram, as well as Twitter, were regularly interacted with in the fight against \"incorrect information:\n \n ▪️The White House;\n ▪️FBI;\n ▪️Department of Homeland Security;\n ▪️Census Bureau;\n ▪️Election Commission;\n ▪️Ministry of Health;\n ▪️ Centers for Disease Control and Prevention;\n ▪️Minfin;\n ▪️The Agency for Cybersecurity and Infrastructure Protection.\n \nIn doing so, prosecutors note that the U.S. DOJ has refused to provide the full scope of the interactions. Prosecutors have demanded that these...\nLink : https://t.me/madam_secretar/14638",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 728592
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelusername": "telehunt_watch"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5171117019243749084",
+        "_score": 2.7416,
+        "_source": {
+          "archivedon": "2022-09-03 04:35:09.083064",
+          "channelabout": "Galactic Truther & Warrior of Light",
+          "channeltitle": "Janmaree⭐⭐⭐",
+          "date": 1662163463,
+          "editdate": 1662171331,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 936,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 1112,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 2063,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 2092,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "https://youtu.be/eMw2RKgDzDY\n⚡We are living in incredible times,  the takedown of the cabal being only step one in a much bigger plan & cycle unfolding on this planet & in our cosmos.  🧘‍♀️It is a time when we must dig deep into our own wisdom & intuition,  & take the actions we are guided to, to protect ourselves and our families.  It is a time when bridging the world's of 3D & 5D & the information that comes from both time / spaces has never been more important.  Science & ancient wisdom are in agreement regarding the solar flash.  🤓The timing though varies,  & thankfully we now have access to daily geoscience which tracks solar flares,  the weakening of the magnetic shields & the potential for movement of the poles which currently puts this 'event' around 2030ish.  But this could change any day. 🚨Please remember to keep an eye on this channel for this science. He points you to key background documentaries here too👇\nhttps://youtu.be/rxyvgDgjwaI\n🙏Ben has forced honesty in the scientific feild at so many levels in relation to all the above issues & more. ❗Here he covers off on safe zones👇\nhttps://youtu.be/LgckpwFv6Pw\nAs part of disclosure,   we will learn about the end of cycle times we are living in,  and have choices in relation to this. And I also have a deep knowing we already have huge galactic support in relation to all things happening on our planet & this momentous event. ❓How does the 3D & 5D information & experience intercept? I guess we are going to have to wait & see,  but I do know the whole point of this experience on the planet at this point in time is to ascend humanity & the planet WHILE IN THE PHYSICAL, and all eyes of the universe are upon us❗I have shared this interview before between Dr Steven Greer & Eric J Hecker. Hecker had the responsibility of the maintenance of an 'ice neutrino detecter' based in Antarctica.  I  wonder if the information shared in this interview is relevant to what Michael Love is channeling🤷‍♀️Most of what Michael says in this channeling,   I can put a tick next too as fact🙏\nhttps://youtu.be/gn5APiemb1I\nhttps://youtu.be/rKme11X_bq8\n✨It is interesting times,  thats for sure. Infinite love, light & gratitude, Janmaree. 💜✨💜✨ ",
+          "peerid": {
+            "channel_id": 1203994504,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 113,
+          "channelusername": "janmaree"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5397614048038677117",
+        "_score": 2.27,
+        "_source": {
+          "archivedon": "2022-09-03 18:55:29.384107",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "date": 1662222800,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 4078,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.washingtontimes.com/news/2022/aug/31/fbi-chooses-mar-a-lago-raid-to-jolt-critic-kash-pa/"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Das Nunes-Patel-Memo vom Januar 2018, das von Herrn Trump freigegeben wurde, brachte dem Washingtoner Pressekorps Spott ein. Aber es hat den Test der Zeit bestanden. In dem Memo wurde behauptet, das FBI habe seine Abhörbefugnis missbraucht, indem es die Gerichte in die Irre geführt habe. Ein späterer Bericht des Generalinspekteurs des Justizministeriums aus dem Jahr 2019 bestätigte dies. Später erklärten die Richter zwei der vier Durchsuchungsbefehle für ungültig. \n\nIn dem Nunes-Patel-Memo heißt es: \"Unsere Feststellungen geben Anlass zu Bedenken hinsichtlich der Legitimität und Rechtmäßigkeit bestimmter Interaktionen des Justizministeriums und des FBI mit dem Foreign Intelligence Surveillance Court (FISC) und stellen einen beunruhigenden Zusammenbruch rechtlicher Verfahren dar, die eingerichtet wurden, um das amerikanische Volk vor Missbräuchen im Zusammenhang mit dem FISA-Prozess zu schützen.\"\n\nSo wurde beispielsweise in keinem der vier Anträge des FBI auf Erteilung eines Durchsuchungsbefehls den Richtern mitgeteilt, dass das Dossier von Christopher Steele von den Demokraten, einschließlich der Hillary-Clinton-Kampagne, finanziert wurde.\n\nStrzok war so erfreut zu sehen, dass seine ehemaligen FBI-Kollegen den Namen Patel nannten, dass er ihn in einem Tweet geradezu verurteilte.\n \n\"Es ist nie schön, wenn man seinen unredigierten Namen in einer Durchsuchungsbefehlserklärung sieht\", sagte er.\n\n\"Um es mit Eric Hirschman zu sagen: 'Ich werde Ihnen den besten kostenlosen Rechtsrat geben, den Sie je in Ihrem Leben bekommen werden. Besorgen Sie sich einen großartigen Strafverteidiger - Sie werden ihn brauchen.'\"\n\nStrzok zitierte das berühmte Zitat von Trumps Strafverteidiger Hirschman in seiner Aussage vor dem Repräsentantenhausausschuss am 6. Januar. Er erzählte, wie er dem Anwalt John Eastman einen unverblümten Ratschlag gab, der dem scheidenden Präsidenten eine ausgeklügelte Strategie verkaufte, um die Wahlen 2020 zu überrennen.\n\nAsha Rangappa, eine weitere Anti-Trump-Ex-FBI-Agentin (viele von ihnen sind bei liberalen Kabelnachrichtensendern), wünschte sich offen eine Verurteilung. \n\n\"Wenn Kash Patel ins Gefängnis kommt, könnte das der Silberstreif am Horizont dieser ganzen Geschichte sein. \n\nFBI wählt Mar-a-Lago-Razzia, um Kritiker Kash Patel aufzurütteln\n\n31. August 2022 von Rowan Scarborough\nOPINION:.\n\n2017 forderten Kash Patel und sein Chef, der damalige Vorsitzende des Geheimdienstausschusses des Repräsentantenhauses, Devin Nunes, die FBI-Hierarchie im siebten Stock und die hochgelobte Abteilung für Spionageabwehr in beispielloser Weise heraus. \n\nSie wollten wissen, wie das FBI den neuen Präsidenten Donald Trump im Rahmen seiner Ermittlungen gegen Russland ins Visier genommen hatte. Insbesondere wollten sie wissen, ob sich das FBI auf ein von den Demokraten finanziertes, unbestätigtes Bündel von Anti-Trump-Behauptungen stützte, das in Washington als die Ware kursierte, die den verhassten \"Orangenmann\" besiegen würde.\n\nDas Nunes/Patel-Team las und überprüfte und veröffentlichte dann im Januar 2018 ein bombenartiges Memo. Das FBI hatte sich tatsächlich auf das Dossier von Christopher Steele gestützt, um Anordnungen zur elektronischen Überwachung einer Person aus dem Trump-Wahlkampf zu erhalten. Das FBI versicherte den Richtern, dass die Anschuldigungen gegen Carter Page Gold wert seien. Sie waren es nicht.\nAm 8. August kam es zu einem weiteren beispiellosen Ereignis in der Geschichte von Trump und seinem Erzfeind, dem FBI. FBI-Agenten unter der Leitung der Außenstelle Washington und mit ausdrücklicher Genehmigung von Generalstaatsanwalt Merrick Garland führten eine Razzia in Herrn Trumps Haus in Palm Beach durch, einschließlich seines Aufenthaltsortes \"45 Office\", eines Lagerraums und Melanias Schränken.\nZiel war es, streng geheime und andere geheime Dokumente zu sammeln, die Herr Trump aus dem Weißen Haus mitgenommen und in Mar-a-Lago aufbewahrt hatte. In einer Erklärung des FBI zum Durchsuchungsbefehl heißt es, dass die gesamte Kette von Ereignissen illegal war. Darin wird Mr. Trump achtmal erwähnt. \n\nQuelle",
+          "peerid": {
+            "channel_id": 1256729953,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1210,
+          "channelusername": "Q_D_R_A"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

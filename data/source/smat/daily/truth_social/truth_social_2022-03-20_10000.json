@@ -1,0 +1,634 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [41],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [11.3797],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107986216733969630",
+        "_score": 11.3797,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "MAGATammy",
+            "display_name": "UltraMAGATammy",
+            "id": "107835865780690923",
+            "username": "MAGATammy"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@alphapunisher\" class=\"u-url mention\">@<span>alphapunisher<\/span><\/a><\/span> Eric Ciaramella<\/p><p>Alexander Vindman<\/p><p><a href=\"https://truthsocial.com/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine<\/span><\/a> <\/p><p><a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a><\/p>",
+          "content_cleaned": "RT @alphapunisher Eric CiaramellaAlexander Vindman#Ukraine #Truth",
+          "created_at": "2022-03-20T01:15:02.825+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107986216733969630",
+          "last_seen_ts": "2022-06-01T14:31:14.286389+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107986131291360791",
+            "uri": "https://truthsocial.com/users/alphapunisher/statuses/107986131291360791",
+            "url": "https://truthsocial.com/@alphapunisher/107986131291360791"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MAGATammy/statuses/107986216733969630/activity",
+          "url": "https://truthsocial.com/users/MAGATammy/statuses/107986216733969630/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990870330235202",
+        "_score": 10.9078,
+        "_ignored": {},
+        "_source": {
+          "account": {
+            "acct": "CaboMike",
+            "display_name": "",
+            "id": "107835218693075861",
+            "username": "CaboMike"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Thanks Eric, oh boy this is some serious shit. ￼<\/p>",
+          "content_cleaned": "Thanks Eric, oh boy this is some serious shit. ￼",
+          "created_at": "2022-03-20T20:58:31.041+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107990870330235202",
+          "in_reply_to_account_id": "107834181471823244",
+          "in_reply_to_id": "107990857735331138",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "CaboMike",
+              "id": "107835218693075861",
+              "url": "https://truthsocial.com/@CaboMike",
+              "username": "CaboMike"
+            },
+            {
+              "acct": "eric9956",
+              "id": "107834181471823244",
+              "url": "https://truthsocial.com/@eric9956",
+              "username": "eric9956"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CaboMike/statuses/107990870330235202",
+          "url": "https://truthsocial.com/@CaboMike/107990870330235202",
+          "visibility": "public",
+          "group_timeline_visible": false,
+          "sponsored": false,
+          "lastseents": "2023-05-10T00:49:38.826786"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107989648199731009",
+        "_score": 10.6149,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "ofallon",
+            "display_name": "Ofallon",
+            "id": "107834211334635946",
+            "username": "ofallon"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>There is a dog fight coming to Missouri for US Senate. I’m voting for Eric Greitens. Apparently President Trump had a fundraiser in Mar-A-Lago and over one million was raised for Eric Schmitt. I can’t vote for Eric Schmitt because he won’t answer if he will support Mitch McConnell if elected to the Senate. We all know Eric Greitens won’t support McConnell. What to do. President Trump might think about promising Eric Schmitt a cabinet position where he won’t have to answer to Mr. Mitch.<\/p>",
+          "content_cleaned": "There is a dog fight coming to Missouri for US Senate. I’m voting for Eric Greitens. Apparently President Trump had a fundraiser in Mar-A-Lago and over one million was raised for Eric Schmitt. I can’t vote for Eric Schmitt because he won’t answer if he will support Mitch McConnell if elected to the Senate. We all know Eric Greitens won’t support McConnell. What to do. President Trump might think about promising Eric Schmitt a cabinet position where he won’t have to answer to Mr. Mitch.",
+          "created_at": "2022-03-20T15:47:42.823+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "id": "107989648199731009",
+          "language": "en",
+          "last_seen_ts": "2022-05-28T14:44:22.277566+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ofallon/statuses/107989648199731009",
+          "url": "https://truthsocial.com/@ofallon/107989648199731009",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990071261358351",
+        "_score": 10.4769,
+        "_ignored": {},
+        "_source": {
+          "account": {
+            "acct": "Truthwarrior324",
+            "display_name": "Ta-da!",
+            "id": "107834289780901724",
+            "username": "Truthwarrior324"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Neither did Don Jr or Eric, that didn’t stop them. Hypocrites<\/p>",
+          "content_cleaned": "Neither did Don Jr or Eric, that didn’t stop them. Hypocrites",
+          "created_at": "2022-03-20T17:35:18.218+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "107990071261358351",
+          "in_reply_to_account_id": "107827308446903380",
+          "in_reply_to_id": "107989927468829262",
+          "language": "en",
+          "last_seen_ts": "2022-08-13T17:23:57.283601+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "themarketswork",
+              "id": "107827308446903380",
+              "url": "https://truthsocial.com/@themarketswork",
+              "username": "themarketswork"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Truthwarrior324/statuses/107990071261358351",
+          "url": "https://truthsocial.com/@Truthwarrior324/107990071261358351",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990338460382987",
+        "_score": 10.082,
+        "_ignored": {},
+        "_source": {
+          "account": {
+            "acct": "joshemerson85",
+            "display_name": "Josh",
+            "id": "107835931696410412",
+            "username": "joshemerson85"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jhaas\" class=\"u-url mention\">@<span>jhaas<\/span><\/a><\/span> Good luck Eric!  You will need it with this minor issue<\/p>",
+          "content_cleaned": "RT @jhaas Good luck Eric!  You will need it with this minor issue",
+          "created_at": "2022-03-20T18:43:15.371+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990338460382987",
+          "last_seen_ts": "2022-06-12T21:12:47.086973+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107990249728871161",
+            "uri": "https://truthsocial.com/users/jhaas/statuses/107990249728871161",
+            "url": "https://truthsocial.com/@jhaas/107990249728871161"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/joshemerson85/statuses/107990338460382987/activity",
+          "url": "https://truthsocial.com/users/joshemerson85/statuses/107990338460382987/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990659036039658",
+        "_score": 9.3833,
+        "_ignored": {},
+        "_source": {
+          "account": {
+            "acct": "CaboMike",
+            "display_name": "",
+            "id": "107835218693075861",
+            "username": "CaboMike"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric, do you have any more information on this? If this is true, this is very serious.<\/p>",
+          "content_cleaned": "Eric, do you have any more information on this? If this is true, this is very serious.",
+          "created_at": "2022-03-20T20:04:46.965+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990659036039658",
+          "in_reply_to_account_id": "107834181471823244",
+          "in_reply_to_id": "107990602527726644",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "eric9956",
+              "id": "107834181471823244",
+              "url": "https://truthsocial.com/@eric9956",
+              "username": "eric9956"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CaboMike/statuses/107990659036039658",
+          "url": "https://truthsocial.com/@CaboMike/107990659036039658",
+          "visibility": "public",
+          "group_timeline_visible": false,
+          "sponsored": false,
+          "lastseents": "2023-05-10T00:49:35.064866"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990850545972708",
+        "_score": 6.6611,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "eric9956",
+            "display_name": "ULTRA MAGAERIC1976 ❤️🤍💙🦅🇺🇸",
+            "id": "107834181471823244",
+            "username": "eric9956"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@sfashimpaur\" class=\"u-url mention\">@<span>sfashimpaur<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@sfashimpaur\" class=\"u-url mention\">@<span>sfashimpaur<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@evanrmalik\" class=\"u-url mention\">@<span>evanrmalik<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@etsy\" class=\"u-url mention\">@<span>etsy<\/span><\/a><\/span>  <span class=\"h-card\"><a href=\"https://truthsocial.com/@efudd\" class=\"u-url mention\">@<span>efudd<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericthomson\" class=\"u-url mention\">@<span>ericthomson<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EdLewis\" class=\"u-url mention\">@<span>EdLewis<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric9956\" class=\"u-url mention\">@<span>eric9956<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@emery\" class=\"u-url mention\">@<span>emery<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EagleFlight1776\" class=\"u-url mention\">@<span>EagleFlight1776<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@esrph\" class=\"u-url mention\">@<span>esrph<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@emerald5\" class=\"u-url mention\">@<span>emerald5<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@emerald5\" class=\"u-url mention\">@<span>emerald5<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Eliz_Hightower\" class=\"u-url mention\">@<span>Eliz_Hightower<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@emfvet78\" class=\"u-url mention\">@<span>emfvet78<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ercolano\" class=\"u-url mention\">@<span>ercolano<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EradicateEvil82\" class=\"u-url mention\">@<span>EradicateEvil82<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ERAM247\" class=\"u-url mention\">@<span>ERAM247<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@erinlecroy\" class=\"u-url mention\">@<span>erinlecroy<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericnewlin\" class=\"u-url mention\">@<span>ericnewlin<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericdavidson\" class=\"u-url mention\">@<span>ericdavidson<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericmmatheny\" class=\"u-url mention\">@<span>ericmmatheny<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@erinelmore\" class=\"u-url mention\">@<span>erinelmore<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericlipinski\" class=\"u-url mention\">@<span>ericlipinski<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ErinFromAtl\" class=\"u-url mention\">@<span>ErinFromAtl<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric9956\" class=\"u-url mention\">@<span>eric9956<\/span><\/a><\/span>  <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericarmusik\" class=\"u-url mention\">@<span>ericarmusik<\/span><\/a><\/span>  <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericaelomari\" class=\"u-url mention\">@<span>ericaelomari<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ErinK\" class=\"u-url mention\">@<span>ErinK<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ErinnG\" class=\"u-url mention\">@<span>ErinnG<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EagleFlight1776\" class=\"u-url mention\">@<span>EagleFlight1776<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EagleFootball\" class=\"u-url mention\">@<span>EagleFootball<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Eagles\" class=\"u-url mention\">@<span>Eagles<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Eaglewings1\" class=\"u-url mention\">@<span>Eaglewings1<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EasyLifestyles\" class=\"u-url mention\">@<span>EasyLifestyles<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eaglesdirtydave\" class=\"u-url mention\">@<span>eaglesdirtydave<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EastPatriot\" class=\"u-url mention\">@<span>EastPatriot<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EagleEyedJoe\" class=\"u-url mention\">@<span>EagleEyedJoe<\/span><\/a><\/span>  <span class=\"h-card\"><a href=\"https://truthsocial.com/@eagleminds\" class=\"u-url mention\">@<span>eagleminds<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EA2310\" class=\"u-url mention\">@<span>EA2310<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @sfashimpaur @sfashimpaur @evanrmalik @etsy  @efudd @ericthomson @EdLewis @eric9956 @emery @EagleFlight1776 @esrph @emerald5 @emerald5 @Eliz_Hightower @emfvet78 @ercolano @eric @EradicateEvil82 @ERAM247 @erinlecroy @ericnewlin @ericdavidson @ericmmatheny @erinelmore @ericlipinski @ErinFromAtl @eric9956  @ericarmusik  @ericaelomari @ErinK @ErinnG @EagleFlight1776 @EagleFootball @Eagles @Eaglewings1 @EasyLifestyles @eaglesdirtydave @EastPatriot @EagleEyedJoe  @eagleminds @EA2310",
+          "created_at": "2022-03-20T20:53:29.168+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990850545972708",
+          "last_seen_ts": "2022-10-19T01:30:53.959387+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107990716642205617",
+            "uri": "https://truthsocial.com/users/sfashimpaur/statuses/107990716642205617",
+            "url": "https://truthsocial.com/@sfashimpaur/107990716642205617"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/eric9956/statuses/107990850545972708/activity",
+          "url": "https://truthsocial.com/users/eric9956/statuses/107990850545972708/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107989827119832619",
+        "_score": 6.2518,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "joaniedickinson",
+            "display_name": "patriotjoanie🇺🇸",
+            "id": "107842560660225021",
+            "username": "joaniedickinson"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@LakemonsterCL\" class=\"u-url mention\">@<span>LakemonsterCL<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/MonsterTrain0005\" class=\"mention hashtag\" rel=\"tag\">#<span>MonsterTrain0005<\/span><\/a>🚂<br />⚡️Ask4Ride<br />🚂<a href=\"https://truthsocial.com/tags/MonsterTrain\" class=\"mention hashtag\" rel=\"tag\">#<span>MonsterTrain<\/span><\/a>🚂<\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@Lorettashere\" class=\"u-url mention\">@<span>Lorettashere<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@mickelodoole\" class=\"u-url mention\">@<span>mickelodoole<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@Moon52\" class=\"u-url mention\">@<span>Moon52<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@TommyTupelo\" class=\"u-url mention\">@<span>TommyTupelo<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@AndBeOnd\" class=\"u-url mention\">@<span>AndBeOnd<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@JamesPidd\" class=\"u-url mention\">@<span>JamesPidd<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@LakemonsterCL\" class=\"u-url mention\">@<span>LakemonsterCL<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Pecan\" class=\"u-url mention\">@<span>Pecan<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@IFBAPatriots\" class=\"u-url mention\">@<span>IFBAPatriots<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@dapool\" class=\"u-url mention\">@<span>dapool<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@greylady1\" class=\"u-url mention\">@<span>greylady1<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blondies\" class=\"u-url mention\">@<span>Blondies<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@pixee\" class=\"u-url mention\">@<span>pixee<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Aggieman30\" class=\"u-url mention\">@<span>Aggieman30<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@AmzGrce\" class=\"u-url mention\">@<span>AmzGrce<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@BelannF\" class=\"u-url mention\">@<span>BelannF<\/span><\/a><\/span>  <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@RodneyEvans\" class=\"u-url mention\">@<span>RodneyEvans<\/span><\/a><\/span>  <\/p><p>🇺🇸<\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@joycelefler\" class=\"u-url mention\">@<span>joycelefler<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@conservativeRNBSN\" class=\"u-url mention\">@<span>conservativeRNBSN<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@BobbyHo\" class=\"u-url mention\">@<span>BobbyHo<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@KodaBleu\" class=\"u-url mention\">@<span>KodaBleu<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@horsepal\" class=\"u-url mention\">@<span>horsepal<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@devolution\" class=\"u-url mention\">@<span>devolution<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@lawdabeasy\" class=\"u-url mention\">@<span>lawdabeasy<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@nacelle4\" class=\"u-url mention\">@<span>nacelle4<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@KE6ORJ\" class=\"u-url mention\">@<span>KE6ORJ<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Monksnation\" class=\"u-url mention\">@<span>Monksnation<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@Beldar045\" class=\"u-url mention\">@<span>Beldar045<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@sambarten\" class=\"u-url mention\">@<span>sambarten<\/span><\/a><\/span><\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@stephcajuntx\" class=\"u-url mention\">@<span>stephcajuntx<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Gabre26\" class=\"u-url mention\">@<span>Gabre26<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@lshblessed\" class=\"u-url mention\">@<span>lshblessed<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Theflame71\" class=\"u-url mention\">@<span>Theflame71<\/span><\/a><\/span> <\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@Drum4life\" class=\"u-url mention\">@<span>Drum4life<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@proudtigerlsu\" class=\"u-url mention\">@<span>proudtigerlsu<\/span><\/a><\/span> <\/p><p>FA🔁❤️<\/p>",
+          "content_cleaned": "RT @LakemonsterCL #MonsterTrain0005🚂⚡️Ask4Ride🚂#MonsterTrain🚂@Lorettashere @mickelodoole @Moon52 @TommyTupelo @AndBeOnd @JamesPidd @LakemonsterCL @Pecan @IFBAPatriots @dapool @greylady1 @Blondies @pixee @Aggieman30 @AmzGrce @BelannF  @RodneyEvans  🇺🇸@joycelefler @eric @conservativeRNBSN @BobbyHo @KodaBleu @horsepal @devolution @lawdabeasy @nacelle4 @KE6ORJ @Monksnation @Beldar045 @sambarten@stephcajuntx @Gabre26 @lshblessed @Theflame71 @Drum4life @proudtigerlsu FA🔁❤️",
+          "created_at": "2022-03-20T16:33:12.922+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107989827119832619",
+          "last_seen_ts": "2022-06-30T16:15:32.819063+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107932151833373635",
+            "uri": "https://truthsocial.com/users/LakemonsterCL/statuses/107932151833373635",
+            "url": "https://truthsocial.com/@LakemonsterCL/107932151833373635"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/joaniedickinson/statuses/107989827119832619/activity",
+          "url": "https://truthsocial.com/users/joaniedickinson/statuses/107989827119832619/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107989149904214782",
+        "_score": 6.2518,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "karla_jax",
+            "display_name": "Karla 🍊🩴🐊💎",
+            "id": "107835257820044004",
+            "username": "karla_jax"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@KY_Patriot\" class=\"u-url mention\">@<span>KY_Patriot<\/span><\/a><\/span> HEY KENTUCKY PATRIOTS …What other Ky governor candidate will give out his cellphone number? <span class=\"h-card\"><a href=\"https://truthsocial.com/@ericdeters\" class=\"u-url mention\">@<span>ericdeters<\/span><\/a><\/span> is the man for the job. He represents the common folk and not the elite. The choice is simple, out with Dictator Andy and in with Eric Deters! <br /><a href=\"https://truthsocial.com/tags/EricDetersforKyGovernor2023\" class=\"mention hashtag\" rel=\"tag\">#<span>EricDetersforKyGovernor2023<\/span><\/a><br /><a href=\"https://youtu.be/ovPvRe6Wy4M\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">youtu.be/ovPvRe6Wy4M<\/span><span class=\"invisible\"><\/span><\/a><\/p>",
+          "content_cleaned": "RT @KY_Patriot HEY KENTUCKY PATRIOTS …What other Ky governor candidate will give out his cellphone number? @ericdeters is the man for the job. He represents the common folk and not the elite. The choice is simple, out with Dictator Andy and in with Eric Deters! #EricDetersforKyGovernor2023https://youtu.be/ovPvRe6Wy4M",
+          "created_at": "2022-03-20T13:40:59.432+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107989149904214782",
+          "last_seen_ts": "2022-06-09T19:34:44.889169+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107989139187450013",
+            "uri": "https://truthsocial.com/users/KY_Patriot/statuses/107989139187450013",
+            "url": "https://truthsocial.com/@KY_Patriot/107989139187450013"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/karla_jax/statuses/107989149904214782/activity",
+          "url": "https://truthsocial.com/users/karla_jax/statuses/107989149904214782/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990454468311757",
+        "_score": 5.5884,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "Mnemesis",
+            "display_name": "Bailey",
+            "id": "107835787057385889",
+            "username": "Mnemesis"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Qanon76\" class=\"u-url mention\">@<span>Qanon76<\/span><\/a><\/span> The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.<\/p>",
+          "content_cleaned": "RT @Qanon76 The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.",
+          "created_at": "2022-03-20T19:12:45.536+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990454468311757",
+          "last_seen_ts": "2022-06-03T19:25:46.681800+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107981921918427268",
+            "uri": "https://truthsocial.com/users/Qanon76/statuses/107981921918427268",
+            "url": "https://truthsocial.com/@Qanon76/107981921918427268"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Mnemesis/statuses/107990454468311757/activity",
+          "url": "https://truthsocial.com/users/Mnemesis/statuses/107990454468311757/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990456008320657",
+        "_score": 5.5884,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "ConstitutionPublis",
+            "display_name": "Constitutional Patriot",
+            "id": "107835885108310066",
+            "username": "ConstitutionPublis"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Qanon76\" class=\"u-url mention\">@<span>Qanon76<\/span><\/a><\/span> The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.<\/p>",
+          "content_cleaned": "RT @Qanon76 The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.",
+          "created_at": "2022-03-20T19:13:09.005+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990456008320657",
+          "last_seen_ts": "2022-05-31T11:17:15.387867+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107981921918427268",
+            "uri": "https://truthsocial.com/users/Qanon76/statuses/107981921918427268",
+            "url": "https://truthsocial.com/@Qanon76/107981921918427268"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ConstitutionPublis/statuses/107990456008320657/activity",
+          "url": "https://truthsocial.com/users/ConstitutionPublis/statuses/107990456008320657/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990365207594218",
+        "_score": 5.5884,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "BillDuffy",
+            "display_name": "Bill Duffy",
+            "id": "107842996872631769",
+            "username": "BillDuffy"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Qanon76\" class=\"u-url mention\">@<span>Qanon76<\/span><\/a><\/span> The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.<\/p>",
+          "content_cleaned": "RT @Qanon76 The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.",
+          "created_at": "2022-03-20T18:50:03.490+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990365207594218",
+          "last_seen_ts": "2022-05-31T06:04:15.655048+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107981921918427268",
+            "uri": "https://truthsocial.com/users/Qanon76/statuses/107981921918427268",
+            "url": "https://truthsocial.com/@Qanon76/107981921918427268"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BillDuffy/statuses/107990365207594218/activity",
+          "url": "https://truthsocial.com/users/BillDuffy/statuses/107990365207594218/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990879494629170",
+        "_score": 5.5884,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "AugustusMcrae1",
+            "display_name": "Augustus McCrae",
+            "id": "107847406943590566",
+            "username": "AugustusMcrae1"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Qanon76\" class=\"u-url mention\">@<span>Qanon76<\/span><\/a><\/span> The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.<\/p>",
+          "content_cleaned": "RT @Qanon76 The FBI had sex tapes of Democrat mayors sleeping with a Chinese spy and kept them hidden, knew Eric Swalwell was sleeping with the Chinese spy and kept it hidden, had Hunter Biden&apos;s laptop and kept that hidden, but leaked a dossier they knew was fake to the New York Times in an effort to take down Trump.",
+          "created_at": "2022-03-20T21:00:50.887+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990879494629170",
+          "last_seen_ts": "2022-11-16T13:49:59.017827+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107981921918427268",
+            "uri": "https://truthsocial.com/users/Qanon76/statuses/107981921918427268",
+            "url": "https://truthsocial.com/@Qanon76/107981921918427268"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/AugustusMcrae1/statuses/107990879494629170/activity",
+          "url": "https://truthsocial.com/users/AugustusMcrae1/statuses/107990879494629170/activity",
+          "visibility": "public"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107990387690402647",
+        "_score": 4.9269,
+        "_ignored": ["content.keyword", "content_cleaned.keyword"],
+        "_source": {
+          "account": {
+            "acct": "oscarjcortez",
+            "display_name": "Patriot",
+            "id": "107837470925514700",
+            "username": "oscarjcortez"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@sgtgrunt0331\" class=\"u-url mention\">@<span>sgtgrunt0331<\/span><\/a><\/span> On March 20, 2003, the ground campaign of Operation Iraqi Freedom began. A few days later, these U.S. Marines from 2nd battalion, 8th Marine Regiment, found themselves under fire during a battle with Iraqi troops in the southern city of Nasiriyah on March 24, 2003. Allied troops found stuborn resistance in and around the city during their northbound push torwards Baghdad. (Photo credit: Eric Feferberg/AFP via Getty Images)<\/p><p><a href=\"https://truthsocial.com/tags/oif\" class=\"mention hashtag\" rel=\"tag\">#<span>oif<\/span><\/a> <a href=\"https://truthsocial.com/tags/iraqifreedom\" class=\"mention hashtag\" rel=\"tag\">#<span>iraqifreedom<\/span><\/a> <a href=\"https://truthsocial.com/tags/usmc\" class=\"mention hashtag\" rel=\"tag\">#<span>usmc<\/span><\/a> <a href=\"https://truthsocial.com/tags/military\" class=\"mention hashtag\" rel=\"tag\">#<span>military<\/span><\/a> <a href=\"https://truthsocial.com/tags/history\" class=\"mention hashtag\" rel=\"tag\">#<span>history<\/span><\/a> <a href=\"https://truthsocial.com/tags/infantry\" class=\"mention hashtag\" rel=\"tag\">#<span>infantry<\/span><\/a> <a href=\"https://truthsocial.com/tags/grunts\" class=\"mention hashtag\" rel=\"tag\">#<span>grunts<\/span><\/a> <a href=\"https://truthsocial.com/tags/iraq\" class=\"mention hashtag\" rel=\"tag\">#<span>iraq<\/span><\/a><\/p>",
+          "content_cleaned": "RT @sgtgrunt0331 On March 20, 2003, the ground campaign of Operation Iraqi Freedom began. A few days later, these U.S. Marines from 2nd battalion, 8th Marine Regiment, found themselves under fire during a battle with Iraqi troops in the southern city of Nasiriyah on March 24, 2003. Allied troops found stuborn resistance in and around the city during their northbound push torwards Baghdad. (Photo credit: Eric Feferberg/AFP via Getty Images)#oif #iraqifreedom #usmc #military #history #infantry #grunts #iraq",
+          "created_at": "2022-03-20T18:55:46.550+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107990387690402647",
+          "last_seen_ts": "2022-05-30T22:07:29.753503+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107989167995115341",
+            "uri": "https://truthsocial.com/users/sgtgrunt0331/statuses/107989167995115341",
+            "url": "https://truthsocial.com/@sgtgrunt0331/107989167995115341"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/oscarjcortez/statuses/107990387690402647/activity",
+          "url": "https://truthsocial.com/users/oscarjcortez/statuses/107990387690402647/activity",
+          "visibility": "public"
+        }
+      }
+    ]
+  }
+}

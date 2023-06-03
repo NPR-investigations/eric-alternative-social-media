@@ -1,0 +1,571 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [22],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [12.1478],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107850329399892719",
+        "_score": 12.1478,
+        "_source": {
+          "account": {
+            "acct": "generalripper",
+            "display_name": "Liz LizLiz",
+            "id": "107834204903101257",
+            "username": "generalripper"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @eric",
+          "created_at": "2022-02-24T01:17:06.640+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107850329399892719",
+          "last_seen_ts": "2022-12-11T18:24:30.465194+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblog": {
+            "id": "107840155568657278",
+            "uri": "https://truthsocial.com/users/eric/statuses/107840155568657278",
+            "url": "https://truthsocial.com/@eric/107840155568657278"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/generalripper/statuses/107850329399892719/activity",
+          "url": "https://truthsocial.com/@generalripper/107850329399892719"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107854831671580846",
+        "_score": 11.1205,
+        "_source": {
+          "account": {
+            "acct": "eric",
+            "display_name": "𝑬𝒓𝒊𝒄 ​​​​​✓",
+            "id": "107834139499347853",
+            "username": "eric"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> plz! 🇺🇸❤️✌️<\/p>",
+          "content_cleaned": "@eric plz! 🇺🇸❤️✌️",
+          "created_at": "2022-02-24T20:22:05.844+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107854831671580846",
+          "in_reply_to_account_id": "107837210374944738",
+          "in_reply_to_id": "107850193036365504",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Chrisx19x",
+              "id": "107834181422224032",
+              "url": "https://truthsocial.com/@Chrisx19x",
+              "username": "Chrisx19x"
+            },
+            {
+              "acct": "ColoradoColumbine",
+              "id": "107834165313630293",
+              "url": "https://truthsocial.com/@ColoradoColumbine",
+              "username": "ColoradoColumbine"
+            },
+            {
+              "acct": "eric",
+              "id": "107834139499347853",
+              "url": "https://truthsocial.com/@eric",
+              "username": "eric"
+            },
+            {
+              "acct": "hackedoffhalfpint",
+              "id": "107837199269429916",
+              "url": "https://truthsocial.com/@hackedoffhalfpint",
+              "username": "hackedoffhalfpint"
+            },
+            {
+              "acct": "IanPhil",
+              "id": "107834169342469542",
+              "url": "https://truthsocial.com/@IanPhil",
+              "username": "IanPhil"
+            },
+            {
+              "acct": "joanneohler",
+              "id": "107834191338263198",
+              "url": "https://truthsocial.com/@joanneohler",
+              "username": "joanneohler"
+            },
+            {
+              "acct": "jonnaturek",
+              "id": "107837458042898232",
+              "url": "https://truthsocial.com/@jonnaturek",
+              "username": "jonnaturek"
+            },
+            {
+              "acct": "KirstenLucas",
+              "id": "107839910575345464",
+              "url": "https://truthsocial.com/@KirstenLucas",
+              "username": "KirstenLucas"
+            },
+            {
+              "acct": "mediarightnews1",
+              "id": "107837210374944738",
+              "url": "https://truthsocial.com/@mediarightnews1",
+              "username": "mediarightnews1"
+            },
+            {
+              "acct": "nickjfuentes",
+              "id": "107831727504245800",
+              "url": "https://truthsocial.com/@nickjfuentes",
+              "username": "nickjfuentes"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "redwave_politics",
+              "id": "107834175351976566",
+              "url": "https://truthsocial.com/@redwave_politics",
+              "username": "redwave_politics"
+            },
+            {
+              "acct": "ReedCooper",
+              "id": "107820901147022763",
+              "url": "https://truthsocial.com/@ReedCooper",
+              "username": "ReedCooper"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/eric/statuses/107854831671580846",
+          "url": "https://truthsocial.com/@eric/107854831671580846",
+          "visibility": "public",
+          "group_timeline_visible": false,
+          "sponsored": false,
+          "lastseents": "2023-05-03T12:18:32.168688"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107850326848922392",
+        "_score": 8.7421,
+        "_source": {
+          "account": {
+            "acct": "maggard",
+            "display_name": "Maggard",
+            "id": "107837461424621890",
+            "username": "maggard"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Can we send Eric Swalwell to Ukraine? Maybe tell him FangFang is waiting for him?<\/p>",
+          "content_cleaned": "Can we send Eric Swalwell to Ukraine? Maybe tell him FangFang is waiting for him?",
+          "created_at": "2022-02-24T01:16:27.706+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107850326848922392",
+          "in_reply_to_account_id": "107813673407103404",
+          "in_reply_to_id": "107849974756606822",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/maggard/statuses/107850326848922392",
+          "url": "https://truthsocial.com/@maggard/107850326848922392",
+          "visibility": "public",
+          "group_timeline_visible": false,
+          "sponsored": false,
+          "lastseents": "2023-04-28T17:49:07.420473"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107855053490960570",
+        "_score": 8.2322,
+        "_source": {
+          "account": {
+            "acct": "achen0102",
+            "display_name": "Alex Chen",
+            "id": "107833993263011123",
+            "username": "achen0102"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <a href=\"https://rumble.com/vvlpzm-unvaxed-patrons-are-refused-service-at-olive-garden-then-take-matters-into-.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">rumble.com/vvlpzm-unvaxed-patr<\/span><span class=\"invisible\">ons-are-refused-service-at-olive-garden-then-take-matters-into-.html<\/span><\/a><\/p>",
+          "content_cleaned": "RT @eric https://rumble.com/vvlpzm-unvaxed-patrons-are-refused-service-at-olive-garden-then-take-matters-into-.html",
+          "created_at": "2022-02-24T21:18:30.550+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107855053490960570",
+          "last_seen_ts": "2022-06-24T20:24:53.505211+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107855049501492154",
+            "uri": "https://truthsocial.com/users/eric/statuses/107855049501492154",
+            "url": "https://truthsocial.com/@eric/107855049501492154"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/achen0102/statuses/107855053490960570/activity",
+          "url": "https://truthsocial.com/users/achen0102/statuses/107855053490960570/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107855540457092810",
+        "_score": 7.6725,
+        "_source": {
+          "account": {
+            "acct": "AnthonyReagan",
+            "display_name": "Anthony",
+            "id": "107814783684096629",
+            "username": "AnthonyReagan"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Politicalshort\" class=\"u-url mention\">@<span>Politicalshort<\/span><\/a><\/span> A North Carolina judge who received $200,000 in contributions from former attorney general Eric Holder&apos;s partisan redistricting network could soon cast the decisive vote in a legal battle over the state’s congressional maps. <a href=\"https://freebeacon.com/elections/how-eric-holder-tipped-the-scales-in-north-carolinas-redistricting-fight/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">freebeacon.com/elections/how-e<\/span><span class=\"invisible\">ric-holder-tipped-the-scales-in-north-carolinas-redistricting-fight/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @Politicalshort A North Carolina judge who received $200,000 in contributions from former attorney general Eric Holder&apos;s partisan redistricting network could soon cast the decisive vote in a legal battle over the state’s congressional maps. https://freebeacon.com/elections/how-eric-holder-tipped-the-scales-in-north-carolinas-redistricting-fight/",
+          "created_at": "2022-02-24T23:22:21.061+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107855540457092810",
+          "last_seen_ts": "2022-06-12T12:43:13.067362+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107855513521449517",
+            "uri": "https://truthsocial.com/users/Politicalshort/statuses/107855513521449517",
+            "url": "https://truthsocial.com/@Politicalshort/107855513521449517"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/AnthonyReagan/statuses/107855540457092810/activity",
+          "url": "https://truthsocial.com/users/AnthonyReagan/statuses/107855540457092810/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107850799030018262",
+        "_score": 6.3522,
+        "_source": {
+          "account": {
+            "acct": "TexasPatriot37",
+            "display_name": "",
+            "id": "107834208953418330",
+            "username": "TexasPatriot37"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@MaysPatriot1\" class=\"u-url mention\">@<span>MaysPatriot1<\/span><\/a><\/span> Connecting great Patriots 🇺🇸<br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@MURCH\" class=\"u-url mention\">@<span>MURCH<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EarthsGhost4DJT\" class=\"u-url mention\">@<span>EarthsGhost4DJT<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Diceman__\" class=\"u-url mention\">@<span>Diceman__<\/span><\/a><\/span> <br />@Elenaforever13<br />@Joel185<br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@SocialismKills\" class=\"u-url mention\">@<span>SocialismKills<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Sooze\" class=\"u-url mention\">@<span>Sooze<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@trentleisy\" class=\"u-url mention\">@<span>trentleisy<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@AlphaMikeWhisky\" class=\"u-url mention\">@<span>AlphaMikeWhisky<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Blondies\" class=\"u-url mention\">@<span>Blondies<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Vet4DJT\" class=\"u-url mention\">@<span>Vet4DJT<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@JordynTrump\" class=\"u-url mention\">@<span>JordynTrump<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@2ADiva\" class=\"u-url mention\">@<span>2ADiva<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@DixieKat\" class=\"u-url mention\">@<span>DixieKat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@WWforUSA\" class=\"u-url mention\">@<span>WWforUSA<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@ScottPresler\" class=\"u-url mention\">@<span>ScottPresler<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kylerittenhouse\" class=\"u-url mention\">@<span>kylerittenhouse<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TheRightToBearMemes\" class=\"u-url mention\">@<span>TheRightToBearMemes<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@RealAndrew90\" class=\"u-url mention\">@<span>RealAndrew90<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@therealmatt\" class=\"u-url mention\">@<span>therealmatt<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Piper_mac\" class=\"u-url mention\">@<span>Piper_mac<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@CarpeDonktum\" class=\"u-url mention\">@<span>CarpeDonktum<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@dbongino\" class=\"u-url mention\">@<span>dbongino<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@WWG1WGA_MI\" class=\"u-url mention\">@<span>WWG1WGA_MI<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @MaysPatriot1 Connecting great Patriots 🇺🇸@MURCH @EarthsGhost4DJT @Diceman__ @Elenaforever13@Joel185@SocialismKills @Sooze @trentleisy @PissedTxVet @AlphaMikeWhisky @Blondies @Vet4DJT@JordynTrump@2ADiva@DixieKat @WWforUSA @ScottPresler @kylerittenhouse @TheRightToBearMemes @RealAndrew90 @therealmatt @Piper_mac @CarpeDonktum @floridaredneck @eric @bubblecovfefe @dbongino @WWG1WGA_MI",
+          "created_at": "2022-02-24T03:16:32.630+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107850799030018262",
+          "last_seen_ts": "2022-06-13T17:35:05.005737+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107848886157128403",
+            "uri": "https://truthsocial.com/users/MaysPatriot1/statuses/107848886157128403",
+            "url": "https://truthsocial.com/@MaysPatriot1/107848886157128403"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/TexasPatriot37/statuses/107850799030018262/activity",
+          "url": "https://truthsocial.com/users/TexasPatriot37/statuses/107850799030018262/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107855643384558589",
+        "_score": 4.7628,
+        "_source": {
+          "account": {
+            "acct": "WeNeedaBiggerBoat",
+            "display_name": "Mike",
+            "id": "107836152867206305",
+            "username": "WeNeedaBiggerBoat"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> Please <a href=\"https://truthsocial.com/tags/retruth\" class=\"mention hashtag\" rel=\"tag\">#<span>retruth<\/span><\/a>!!This is one of my favorite <a href=\"https://truthsocial.com/tags/paintings\" class=\"mention hashtag\" rel=\"tag\">#<span>paintings<\/span><\/a> I’ve ever done! How amazing would it be if I could gift one to my favorite president!! 🥰 Will you support my page??<br /><a href=\"https://truthsocial.com/tags/art\" class=\"mention hashtag\" rel=\"tag\">#<span>art<\/span><\/a> <a href=\"https://truthsocial.com/tags/painting\" class=\"mention hashtag\" rel=\"tag\">#<span>painting<\/span><\/a> <a href=\"https://truthsocial.com/tags/madeinamerica\" class=\"mention hashtag\" rel=\"tag\">#<span>madeinamerica<\/span><\/a> <a href=\"https://truthsocial.com/tags/truth\" class=\"mention hashtag\" rel=\"tag\">#<span>truth<\/span><\/a> <a href=\"https://truthsocial.com/tags/artist\" class=\"mention hashtag\" rel=\"tag\">#<span>artist<\/span><\/a> <a href=\"https://truthsocial.com/tags/madeinusa\" class=\"mention hashtag\" rel=\"tag\">#<span>madeinusa<\/span><\/a><\/p><p> <span class=\"h-card\"><a href=\"https://truthsocial.com/@CapricornChick\" class=\"u-url mention\">@<span>CapricornChick<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@TruthSeeker1776\" class=\"u-url mention\">@<span>TruthSeeker1776<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@prairiegirl66\" class=\"u-url mention\">@<span>prairiegirl66<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@BarbieSkok\" class=\"u-url mention\">@<span>BarbieSkok<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@BigFish70\" class=\"u-url mention\">@<span>BigFish70<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Bjet32\" class=\"u-url mention\">@<span>Bjet32<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@crankitloud\" class=\"u-url mention\">@<span>crankitloud<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ToddCohara\" class=\"u-url mention\">@<span>ToddCohara<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@toniknits\" class=\"u-url mention\">@<span>toniknits<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@imagination\" class=\"u-url mention\">@<span>imagination<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@MyTwoCents22\" class=\"u-url mention\">@<span>MyTwoCents22<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@TexasPatriotChief\" class=\"u-url mention\">@<span>TexasPatriotChief<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@2Smart4Wool\" class=\"u-url mention\">@<span>2Smart4Wool<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@WeNeedaBiggerBoat\" class=\"u-url mention\">@<span>WeNeedaBiggerBoat<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@MrRedWhiteNBlue\" class=\"u-url mention\">@<span>MrRedWhiteNBlue<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@CashPerry\" class=\"u-url mention\">@<span>CashPerry<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@PoliticalIntent\" class=\"u-url mention\">@<span>PoliticalIntent<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@Debbie62\" class=\"u-url mention\">@<span>Debbie62<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine Please #retruth!!This is one of my favorite #paintings I’ve ever done! How amazing would it be if I could gift one to my favorite president!! 🥰 Will you support my page??#art #painting #madeinamerica #truth #artist #madeinusa @CapricornChick @TruthSeeker1776 @prairiegirl66 @BarbieSkok @BigFish70 @Bjet32 @crankitloud @coryprejean @ToddCohara @toniknits @imagination @MyTwoCents22 @TexasPatriotChief @2Smart4Wool @WeNeedaBiggerBoat @MrRedWhiteNBlue @CashPerry @eric @PoliticalIntent @Debbie62",
+          "created_at": "2022-02-24T23:48:31.617+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107855643384558589",
+          "last_seen_ts": "2022-10-21T03:05:42.714510+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107855453759821063",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107855453759821063",
+            "url": "https://truthsocial.com/@Blaine/107855453759821063"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/WeNeedaBiggerBoat/statuses/107855643384558589/activity",
+          "url": "https://truthsocial.com/users/WeNeedaBiggerBoat/statuses/107855643384558589/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107854787327517193",
+        "_score": 4.1814,
+        "_source": {
+          "account": {
+            "acct": "FreedomUSA21",
+            "display_name": "FreedomUSA21",
+            "id": "107838716254841350",
+            "username": "FreedomUSA21"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><br />👉🏻Like<br />👉🏻Follow All<br />👉🏻ReTruth<br />👉🏻For Ride Leave Your @ In<br />Comments<br />👉🏻To Follow My Other Trains Search <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@CCMPATRIOT\" class=\"u-url mention\">@<span>CCMPATRIOT<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@RighteousRtHand\" class=\"u-url mention\">@<span>RighteousRtHand<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@brookeee_bell\" class=\"u-url mention\">@<span>brookeee_bell<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Kickbook\" class=\"u-url mention\">@<span>Kickbook<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Chris11962\" class=\"u-url mention\">@<span>Chris11962<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PatriotXV11\" class=\"u-url mention\">@<span>PatriotXV11<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@BoYeshuaBo\" class=\"u-url mention\">@<span>BoYeshuaBo<\/span><\/a><\/span><\/p><p> ❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PAgirl67\" class=\"u-url mention\">@<span>PAgirl67<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@djcarlson\" class=\"u-url mention\">@<span>djcarlson<\/span><\/a><\/span><\/p><p>🇺🇸 <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> 🇺🇸<\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@nomandates\" class=\"u-url mention\">@<span>nomandates<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@lovewins\" class=\"u-url mention\">@<span>lovewins<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@glembeck\" class=\"u-url mention\">@<span>glembeck<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@fakebkhater\" class=\"u-url mention\">@<span>fakebkhater<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@WillSmith\" class=\"u-url mention\">@<span>WillSmith<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@randall82ndairborne\" class=\"u-url mention\">@<span>randall82ndairborne<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@GeFazio\" class=\"u-url mention\">@<span>GeFazio<\/span><\/a><\/span><br />🇺🇸🚂🚂🚂🚂 🇺🇸<\/p>",
+          "content_cleaned": "RT @Ranger787 #Ranger787👉🏻Like👉🏻Follow All👉🏻ReTruth👉🏻For Ride Leave Your @ InComments👉🏻To Follow My Other Trains Search #Ranger787☃️ @CCMPATRIOT❄️ @RighteousRtHand☃️ @floridaredneck❄️ @brookeee_bell☃️ @ali❄️ @eric☃️ @Kickbook❄️ @Ranger787☃️ @juanitab❄️ @PissedTxVet☃️ @Chris11962❄️ @PatriotXV11☃️ @BoYeshuaBo ❄️ @bubblecovfefe☃️ @PAgirl67❄️ @djcarlson🇺🇸 @realDonaldTrump 🇺🇸❄️ @nomandates☃️ @lovewins❄️ @glembeck☃️ @fakebkhater❄️ @WillSmith☃️ @randall82ndairborne❄️ @GeFazio🇺🇸🚂🚂🚂🚂 🇺🇸",
+          "created_at": "2022-02-24T20:10:49.214+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107854787327517193",
+          "last_seen_ts": "2022-11-10T22:03:27.171863+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107854680297184676",
+            "uri": "https://truthsocial.com/users/Ranger787/statuses/107854680297184676",
+            "url": "https://truthsocial.com/@Ranger787/107854680297184676"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/FreedomUSA21/statuses/107854787327517193/activity",
+          "url": "https://truthsocial.com/users/FreedomUSA21/statuses/107854787327517193/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107854755584808815",
+        "_score": 4.1814,
+        "_source": {
+          "account": {
+            "acct": "wabbithole",
+            "display_name": "Wabbit Hole",
+            "id": "107834199483563507",
+            "username": "wabbithole"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><br />👉🏻Like<br />👉🏻Follow All<br />👉🏻ReTruth<br />👉🏻For Ride Leave Your @ In<br />Comments<br />👉🏻To Follow My Other Trains Search <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@CCMPATRIOT\" class=\"u-url mention\">@<span>CCMPATRIOT<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@RighteousRtHand\" class=\"u-url mention\">@<span>RighteousRtHand<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@brookeee_bell\" class=\"u-url mention\">@<span>brookeee_bell<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Kickbook\" class=\"u-url mention\">@<span>Kickbook<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Chris11962\" class=\"u-url mention\">@<span>Chris11962<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PatriotXV11\" class=\"u-url mention\">@<span>PatriotXV11<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@BoYeshuaBo\" class=\"u-url mention\">@<span>BoYeshuaBo<\/span><\/a><\/span><\/p><p> ❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PAgirl67\" class=\"u-url mention\">@<span>PAgirl67<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@djcarlson\" class=\"u-url mention\">@<span>djcarlson<\/span><\/a><\/span><\/p><p>🇺🇸 <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> 🇺🇸<\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@nomandates\" class=\"u-url mention\">@<span>nomandates<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@lovewins\" class=\"u-url mention\">@<span>lovewins<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@glembeck\" class=\"u-url mention\">@<span>glembeck<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@fakebkhater\" class=\"u-url mention\">@<span>fakebkhater<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@WillSmith\" class=\"u-url mention\">@<span>WillSmith<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@randall82ndairborne\" class=\"u-url mention\">@<span>randall82ndairborne<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@GeFazio\" class=\"u-url mention\">@<span>GeFazio<\/span><\/a><\/span><br />🇺🇸🚂🚂🚂🚂 🇺🇸<\/p>",
+          "content_cleaned": "RT @Ranger787 #Ranger787👉🏻Like👉🏻Follow All👉🏻ReTruth👉🏻For Ride Leave Your @ InComments👉🏻To Follow My Other Trains Search #Ranger787☃️ @CCMPATRIOT❄️ @RighteousRtHand☃️ @floridaredneck❄️ @brookeee_bell☃️ @ali❄️ @eric☃️ @Kickbook❄️ @Ranger787☃️ @juanitab❄️ @PissedTxVet☃️ @Chris11962❄️ @PatriotXV11☃️ @BoYeshuaBo ❄️ @bubblecovfefe☃️ @PAgirl67❄️ @djcarlson🇺🇸 @realDonaldTrump 🇺🇸❄️ @nomandates☃️ @lovewins❄️ @glembeck☃️ @fakebkhater❄️ @WillSmith☃️ @randall82ndairborne❄️ @GeFazio🇺🇸🚂🚂🚂🚂 🇺🇸",
+          "created_at": "2022-02-24T20:02:44.871+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107854755584808815",
+          "last_seen_ts": "2022-08-05T13:05:17.861254+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107854680297184676",
+            "uri": "https://truthsocial.com/users/Ranger787/statuses/107854680297184676",
+            "url": "https://truthsocial.com/@Ranger787/107854680297184676"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/wabbithole/statuses/107854755584808815/activity",
+          "url": "https://truthsocial.com/users/wabbithole/statuses/107854755584808815/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107854701606424734",
+        "_score": 4.1814,
+        "_source": {
+          "account": {
+            "acct": "Jusjane",
+            "display_name": "🇺🇸Jusjane UltraMaga",
+            "id": "107834229059291632",
+            "username": "Jusjane"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><br />👉🏻Like<br />👉🏻Follow All<br />👉🏻ReTruth<br />👉🏻For Ride Leave Your @ In<br />Comments<br />👉🏻To Follow My Other Trains Search <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@CCMPATRIOT\" class=\"u-url mention\">@<span>CCMPATRIOT<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@RighteousRtHand\" class=\"u-url mention\">@<span>RighteousRtHand<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@brookeee_bell\" class=\"u-url mention\">@<span>brookeee_bell<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Kickbook\" class=\"u-url mention\">@<span>Kickbook<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Chris11962\" class=\"u-url mention\">@<span>Chris11962<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PatriotXV11\" class=\"u-url mention\">@<span>PatriotXV11<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@BoYeshuaBo\" class=\"u-url mention\">@<span>BoYeshuaBo<\/span><\/a><\/span><\/p><p> ❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PAgirl67\" class=\"u-url mention\">@<span>PAgirl67<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@djcarlson\" class=\"u-url mention\">@<span>djcarlson<\/span><\/a><\/span><\/p><p>🇺🇸 <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> 🇺🇸<\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@nomandates\" class=\"u-url mention\">@<span>nomandates<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@lovewins\" class=\"u-url mention\">@<span>lovewins<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@glembeck\" class=\"u-url mention\">@<span>glembeck<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@fakebkhater\" class=\"u-url mention\">@<span>fakebkhater<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@WillSmith\" class=\"u-url mention\">@<span>WillSmith<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@randall82ndairborne\" class=\"u-url mention\">@<span>randall82ndairborne<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@GeFazio\" class=\"u-url mention\">@<span>GeFazio<\/span><\/a><\/span><br />🇺🇸🚂🚂🚂🚂 🇺🇸<\/p>",
+          "content_cleaned": "RT @Ranger787 #Ranger787👉🏻Like👉🏻Follow All👉🏻ReTruth👉🏻For Ride Leave Your @ InComments👉🏻To Follow My Other Trains Search #Ranger787☃️ @CCMPATRIOT❄️ @RighteousRtHand☃️ @floridaredneck❄️ @brookeee_bell☃️ @ali❄️ @eric☃️ @Kickbook❄️ @Ranger787☃️ @juanitab❄️ @PissedTxVet☃️ @Chris11962❄️ @PatriotXV11☃️ @BoYeshuaBo ❄️ @bubblecovfefe☃️ @PAgirl67❄️ @djcarlson🇺🇸 @realDonaldTrump 🇺🇸❄️ @nomandates☃️ @lovewins❄️ @glembeck☃️ @fakebkhater❄️ @WillSmith☃️ @randall82ndairborne❄️ @GeFazio🇺🇸🚂🚂🚂🚂 🇺🇸",
+          "created_at": "2022-02-24T19:49:01.216+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107854701606424734",
+          "last_seen_ts": "2022-09-18T11:46:51.831123+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107854680297184676",
+            "uri": "https://truthsocial.com/users/Ranger787/statuses/107854680297184676",
+            "url": "https://truthsocial.com/@Ranger787/107854680297184676"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Jusjane/statuses/107854701606424734/activity",
+          "url": "https://truthsocial.com/users/Jusjane/statuses/107854701606424734/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107854816833653903",
+        "_score": 4.1814,
+        "_source": {
+          "account": {
+            "acct": "auntaltha",
+            "display_name": "Victory",
+            "id": "107834176647506943",
+            "username": "auntaltha"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><br />👉🏻Like<br />👉🏻Follow All<br />👉🏻ReTruth<br />👉🏻For Ride Leave Your @ In<br />Comments<br />👉🏻To Follow My Other Trains Search <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@CCMPATRIOT\" class=\"u-url mention\">@<span>CCMPATRIOT<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@RighteousRtHand\" class=\"u-url mention\">@<span>RighteousRtHand<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@brookeee_bell\" class=\"u-url mention\">@<span>brookeee_bell<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Kickbook\" class=\"u-url mention\">@<span>Kickbook<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Chris11962\" class=\"u-url mention\">@<span>Chris11962<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PatriotXV11\" class=\"u-url mention\">@<span>PatriotXV11<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@BoYeshuaBo\" class=\"u-url mention\">@<span>BoYeshuaBo<\/span><\/a><\/span><\/p><p> ❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PAgirl67\" class=\"u-url mention\">@<span>PAgirl67<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@djcarlson\" class=\"u-url mention\">@<span>djcarlson<\/span><\/a><\/span><\/p><p>🇺🇸 <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> 🇺🇸<\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@nomandates\" class=\"u-url mention\">@<span>nomandates<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@lovewins\" class=\"u-url mention\">@<span>lovewins<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@glembeck\" class=\"u-url mention\">@<span>glembeck<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@fakebkhater\" class=\"u-url mention\">@<span>fakebkhater<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@WillSmith\" class=\"u-url mention\">@<span>WillSmith<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@randall82ndairborne\" class=\"u-url mention\">@<span>randall82ndairborne<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@GeFazio\" class=\"u-url mention\">@<span>GeFazio<\/span><\/a><\/span><br />🇺🇸🚂🚂🚂🚂 🇺🇸<\/p>",
+          "content_cleaned": "RT @Ranger787 #Ranger787👉🏻Like👉🏻Follow All👉🏻ReTruth👉🏻For Ride Leave Your @ InComments👉🏻To Follow My Other Trains Search #Ranger787☃️ @CCMPATRIOT❄️ @RighteousRtHand☃️ @floridaredneck❄️ @brookeee_bell☃️ @ali❄️ @eric☃️ @Kickbook❄️ @Ranger787☃️ @juanitab❄️ @PissedTxVet☃️ @Chris11962❄️ @PatriotXV11☃️ @BoYeshuaBo ❄️ @bubblecovfefe☃️ @PAgirl67❄️ @djcarlson🇺🇸 @realDonaldTrump 🇺🇸❄️ @nomandates☃️ @lovewins❄️ @glembeck☃️ @fakebkhater❄️ @WillSmith☃️ @randall82ndairborne❄️ @GeFazio🇺🇸🚂🚂🚂🚂 🇺🇸",
+          "created_at": "2022-02-24T20:18:19.445+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107854816833653903",
+          "last_seen_ts": "2022-06-04T08:53:02.632573+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107854680297184676",
+            "uri": "https://truthsocial.com/users/Ranger787/statuses/107854680297184676",
+            "url": "https://truthsocial.com/@Ranger787/107854680297184676"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/auntaltha/statuses/107854816833653903/activity",
+          "url": "https://truthsocial.com/users/auntaltha/statuses/107854816833653903/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

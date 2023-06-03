@@ -1,0 +1,1002 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [11.7128],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5218245175694829524",
+        "_score": 11.7128,
+        "_source": {
+          "archivedon": "1684031364",
+          "channelabout": "",
+          "channeltitle": "Donald Trump Jr Chat",
+          "channelusername": "TrumpJrChat",
+          "collected_by": "crawler",
+          "date": 1674346490,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1535505167
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 3123156,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Does Eric have a telegram channel. Ones I found look fake",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1214967383,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 3123139,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "url": "t.me/TrumpJrChat/3123156",
+          "userinfo": {
+            "_media_ref": "083bd12453227c95c038642aaf965747b007c0f4",
+            "_v": 1,
+            "access_hash": -5.94487918853084e+18,
+            "apply_min_photo": true,
+            "archivedon": 1684031364,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Donna",
+            "id": 1535505167,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.10962601587282e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIrhkEee+MCiiioNA="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Donnals",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-14T02:29:24.890649"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6347407316354156737",
+        "_score": 11.4283,
+        "_source": {
+          "archivedon": "2023-01-22 04:15:36.104311",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1674360931,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 180,
+              "offset": 94,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 276,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 287,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 287,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NFL: New York Mayor Eric Adams slammed on social media for bad Philadelphia prediction\n\nRead: https://www.dailymail.co.uk/sport/nfl/article-11662677/NFL-New-York-Mayor-Eric-Adams-slammed-social-media-bad-Philadelphia-prediction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6347407316354156725",
+        "_score": 11.1537,
+        "_source": {
+          "archivedon": "2023-01-22 04:15:35.86025",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1674355490,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 187,
+              "offset": 108,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 297,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 308,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 308,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams sparks speculation he's planning WHITE HOUSE run after raising re-election fund\n\nRead: https://www.dailymail.co.uk/news/article-11662377/NYC-Mayor-Eric-Adams-sparks-speculation-hes-planning-WHITE-HOUSE-run-raising-election-fund.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 37
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5033748889782470281",
+        "_score": 10.8931,
+        "_source": {
+          "archivedon": "1679021586",
+          "channelabout": "American politician and former dairy farmer serving as the U.S. Representative for California's 22nd congressional district.\nThis is a fan channel, not an official account.",
+          "channeltitle": "Devin Nunes",
+          "channelusername": "CongressmanDevinNunes",
+          "date": 1674357880,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 113,
+              "offset": 97,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 16,
+              "offset": 305,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 18057,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "BestNews Here",
+              "description": "Here's What People Are Buying Right Now! TRB HandBook DON'T MISS THIS CHANCE EVERYTHING IS 90% OFF DON’T DELAY, BUY TODAY WHILE YOU STILL CAN! Never Give Up! Eric Trump! Gen. Michael Flynn! President Trump Inspire All! Pray! – And We Know Here's What People Are Buying Right Now! THIS IS CONSERVATIVE AMERICA'S #1 CHECK",
+              "display_url": "bestnewshere.com/never-give-up-eric-trump-gen-michael-flynn-president-trump-inspire-all-pray-and-we-know",
+              "hash": 0,
+              "id": 9.48136309055016e+17,
+              "photo": {
+                "access_hash": 5.37135364880379e+18,
+                "date": 1674342628,
+                "dc_id": 4,
+                "file_reference": "AGQT1hHlIRn1s5IH2mdAKfkjDNVD",
+                "has_stickers": false,
+                "id": 5.93708916237518e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcorSBRgYPvSIgaTAHHU02RsfxZqW2ZY0Lj5nb5QvoKAdugu2J7hUPKN1qSaOMBsDOOnNVpXJlDHI2n8qsTbDl9zYPI4oBW6kDeWI+nbmipbSCO5d1kzgDtRTQnYpmVZHxjGaeu1QCXwCO1FFIAXGfv5PvT/OJiPzAqPXNFFAEXneVJlWOexFFFFMdj",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 19850,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 270,
+                    "w": 480,
+                    "sizes": [2479, 7384, 15321, 21789, 34024]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "best news here",
+              "title": "Never Give Up! Eric Trump! Gen. Michael Flynn! President Trump Inspire All! Pray! – And We Know",
+              "type": "photo",
+              "url": "https://bestnewshere.com/never-give-up-eric-trump-gen-michael-flynn-president-trump-inspire-all-pray-and-we-know/"
+            }
+          },
+          "message": "Never Give Up! Eric Trump! Gen. Michael Flynn! President Trump Inspire All! Pray! – And We Know\n\nhttps://bestnewshere.com/never-give-up-eric-trump-gen-michael-flynn-president-trump-inspire-all-pray-and-we-know/\n“Speak TRUTH. Every lie will be revealed. Be fearless.” Join TELEGRAM Channel:  Simon Parkes  @SimonParkesLive",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1172010994,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27,
+          "lastseents": "2023-03-17T02:53:06.819532"
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "4599600813680130338",
+        "_score": 8.6363,
+        "_source": {
+          "archivedon": "2023-01-22 22:05:42.693314",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1674420541,
+          "editdate": 1674420545,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 212,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The mayor of New York City, Eric Adams, said that the city was \"at its breaking point,\" so the city would open a new emergency shelter at the Brooklyn Cruise Terminal to help with the growing number of migrants.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 116553
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 399
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6395918709969430670",
+        "_score": 8.3453,
+        "_source": {
+          "archivedon": "2023-01-22 04:26:38.916498",
+          "channelabout": "An unofficial channel of the Epoch Times, an independent, award-winning voice in print & online integrity & truthfulness in reporting.",
+          "channeltitle": "Epoch Times",
+          "channelusername": "EpochTimesChannel",
+          "date": 1674351877,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 3,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 41,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 256,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "RT @EpochOpinion: Opinion💭by Eric Abetz @TaniaMihailukMP has left her former political home of 11 years in the Labor Party to join One Nation. One Nation is clearly a more conservative political party than Labor. Yet it attracts disaffected Labor voters. https://t.co/v5GiOVoJ1n",
+          "peerid": {
+            "channel_id": 1489165870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 39
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6086674381688633576",
+        "_score": 5.9122,
+        "_source": {
+          "archivedon": "2023-01-22 06:56:16.166315",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1674356396,
+          "editdate": 1674356636,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 4,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "#MOV personified \n\nHouston Vigilante Killer Who Shot Suspect Should Be Charged, Says Activists\n\nWhile some are calling the man who shot a robber at a Houston  taqueria a hero after killing 30 year-old Eric Washington, activists want the shooter to be criminally indicted.\n\n\"We must not allow citizens to become judge, jury and executor,\" the group says, which which consists of activists from Black Democrats, Rainbow, PUSH Coalition, and the New Black Panther Nation.\n\n“This is a man defending himself and others in the restaurant. People are getting sick and tired of crime on the streets,” Harris County DA’s Office Musick said.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tee",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "max_id": 838797,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1474588972
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1374058320
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 1329770
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 276
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5217371158436935912",
+        "_score": 3.632,
+        "_source": {
+          "archivedon": "1679013743",
+          "channelabout": "🇩🇪 @QlobalChange\n🇪🇸 @QlobalChangeEspana\n🇮🇹 @QlobalChangeItalia\n🇵🇹 @QlobalChangePortugal\n🇫🇷 @QlobalChangeFrance\n🇧🇷 @QlobalChangeBrasil\n🇳🇱 @QlobalChangeNL\n🤖 @QlobalChangeUS -Newsfeed",
+          "channeltitle": "Qlobal-Change USA 🇺🇸🤝 🇳🇱",
+          "channelusername": "QlobalChangeUSA",
+          "date": 1674411721,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 29,
+              "offset": 64,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 116,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 150,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 184,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 240,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 325,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 421,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 522,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 32,
+              "offset": 592,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 625,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 35,
+              "offset": 680,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 758,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 39,
+              "offset": 799,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 39,
+              "offset": 839,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 103,
+              "offset": 922,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 36,
+              "offset": 1026,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 1115,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 1176,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 1216,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 1274,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 1370,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 103,
+              "offset": 1438,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 1575,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 14081,
+            "date": 1674408474,
+            "from_id": {
+              "channel_id": 1390659157,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Pepe Lives Matter",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 30952,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Morning News Update \n(Lots to catch up on today) \n\nThe vaccine \nhttps://t.me/WeTheMedia/82903\n\nMr Truth Bomb thread\nhttps://t.me/mrtruthbombchat/2150\nhttps://t.me/mrtruthbombchat/2151\nhttps://t.me/mrtruthbombchat/2152\n\nWholesome testimony \nhttps://t.me/OfficialRedPillNews/6602\n\nSilk suggests that the vaccine killed Diamond\nhttps://t.me/ItalianPatriots/43345\n\nNew Zealand's New prime minister looks just as bad. Eyes on\nhttps://t.me/angel_aura/346\n\nElon exposes the vaccine to normies/says he had bad reaction taking it \nhttps://t.me/QtimeNetwork/7867\n\nMore Biden docs found for some reason\nhttps://t.me/bioclandestine/1168\nhttps://t.me/SSG_Cue/32092\n\nI agree. Ben Shapiro sucks\nhttps://t.me/electionevidence/10430\n\nWorld Pedophile forum is a more apt name\nhttps://t.me/anon_fa_mous/1791\n\nDiamond \nhttps://t.me/TheStormHasArrived17/12409\nhttps://t.me/TheStormHasArrived17/12410\n\nAntifa madness has broken out in Atlanta \nhttps://rumble.com/v26mckk-atlanta-ga-antifa-riots-break-out-because-of-a-police-training-facility.html\nhttps://t.me/redpillpharmacist/36373\n\nI see that Ghislaine is still lying even in prison\nhttps://t.me/realKarliBonne/147506\n\nSounds like a trap to me\nhttps://t.me/realKarliBonne/147487\n\nLol\nhttps://t.me/patriotartsfarm/17370\n\nNothing to see here. \nhttps://t.me/realKarliBonne/147477\n\nApparently Hunter was using diamonds..what are the chances \nhttps://t.me/SSG_Cue/32095\n\nThank you for the shout out And We Know\nhttps://rumble.com/v26k0e2-1.21.23-never-give-up-eric-trump-gen-flynn-pres-trump-inspire-all.-pray.html\n\nA good place to ask for prayer \nhttps://t.me/JerryD_Gods_Warriors/1345",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1214763885,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 943,
+          "lastseents": "2023-03-17T00:42:23.860694",
+          "mediaref": "1b10573abd72a2b5d5f04c153d6bb3f5a7b259c5"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5815160872951112167",
+        "_score": 3.2615,
+        "_source": {
+          "archivedon": "2023-01-22 12:11:06.463464",
+          "channelabout": "An die deutsche Volksseele erinnern und zurück verhelfen 🇾🇪 💚",
+          "channeltitle": "Fabijenna - eine deutsche Liebe 🇾🇪 💚🦅",
+          "channelusername": "valkuerer",
+          "date": 1674382394,
+          "editdate": 1674382493,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 1898,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 56,
+              "offset": 1993,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 2050,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 2050,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 99,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Teil 2.\nZakharov behauptet, dass Adrenochrome, das in der Ukraine hergestellt wird, in Kühlcontainern in die USA und andere westliche Nationen geflogen wird.\nIm September 2022 machte der uneheliche Außenminister Antony Blinken eine unerkündigte Reise nach Kiew, wo er finanzielle Hilfe und Waffen im Wert von fast 3 Milliarden Dollar ankündigte, um der Ukraine und ihren Nachbarn während der russischen Invasion zu helfen. Zakharov sagte, der FSB habe einen unwiderlegbaren Beweis dafür, dass Blinken die Ukraine mit Hunderten von Litern Adrenochrome verlassen habe.\nAdrenochrome soll für politische und Hollywood-Eliten endemisch sein, und die Empfänger behaupten, dass es das Leben verlängert, Krankheiten abwendet und sexuelle Fähigkeiten belebt.\nWeiße Hüte sagen, dass ein längerer Gebrauch von Adrenochrome auch Psychosen verursacht.\nWie im April 2021 berichtet, hat White Hats ein Adreofrome-Lagerhaus in Kalifornien ausgelöscht. Eine Quelle in Gen. Eric M. Smiths Büro teilte RRN mit, dass White Hats drei weitere Adrenochrome-Lageranlagen gefunden und zerstört hätten; seine Aussage gibt Zakharovs Behauptung, dass der Deep State Adrenochrome-Veredensement ins Ausland verlegt habe, den Familienbetrieb zunichte gemacht.\n„Das ist sicher möglich. Sie haben Ressourcen, um das zu tun, und sie wissen, dass wir sie hier unten jagen. Wir glauben immer noch, dass es Adreofrome-Repositorien hier in den Vereinigten Staaten gibt, und wir suchen immer noch nach ihnen“, sagte unsere Quelle in Gen. Smiths Büro.\n„Ironischerweise führen sie Krieg gegen die Fentanyl-Verteilung, während sie sie verwenden, um ihr Adrenochrome herzustellen\", fügte er hinzu. „Je mehr sie konsumieren, desto mehr brauchen sie, wie jedes süchtig machende Medikament. Wenn die Russen darum kämpfen, Adreofrome loszuwerden, gut für sie. Vielleicht können wir zwischen unseren Bemühungen den Adrenochrome-Markt schließen.“\nhttps://realrawnews.com/wp-content/uploads/2023/01/Adrenochrome_IV_50_1_50-560x420.jpg\nQuelle: https://realrawnews.com/2023/01/the-adrenochrome-crisis/\nhttps://t.me/Valkuera_Fabijenna",
+          "peerid": {
+            "channel_id": 1353947649,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3175
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5811551549939830401",
+        "_score": 3.0675,
+        "_source": {
+          "archivedon": "2023-01-22 08:58:47.172747",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1674366109,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1674323727,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1926801217
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Die Herstellung von Adrenochrom sei ein kompliziertes und zeitraubendes Unterfangen, fügte er hinzu. Nebennierenflüssigkeit wird destilliert und dann mit synthetischen Opiaten wie Oxycodon oder Fentanyl gemischt. Das raffinierte Produkt ist unbeständig – es verliert mit der Zeit an Wirksamkeit und muss bei 36 Grad Fahrenheit gekühlt aufbewahrt und dann unmittelbar vor der Infusion oder Injektion auf Raumtemperatur erwärmt werden.\n\nZakharov behauptet, dass in der Ukraine hergestelltes Adrenochrom in Kühlcontainern in die USA und andere westliche Länder geflogen wird.\n\nIm September 2022 unternahm der uneheliche Außenminister Antony Blinken eine unangekündigte Reise nach Kiew, wo er Finanzhilfe und Waffen im Wert von fast 3 Milliarden US-Dollar ankündigte, um der Ukraine und ihren Nachbarn während der russischen Invasion zu helfen. Zakharov sagte, der FSB habe unwiderlegbare Beweise dafür, dass Blinken die Ukraine mit Hunderten von Litern Adrenochrom verlassen habe.\n\nAdrenochrom gilt als endemisch in der politischen Elite und in Hollywood, und die Empfänger behaupten, dass es das Leben verlängert, Krankheiten abwehrt und die sexuellen Fähigkeiten belebt.\n\nWhite Hats sagen, dass eine längere Anwendung von Adrenochrom auch Psychosen verursacht.\n\nWie im April 2021 berichtet, haben White Hats ein Adrenochrom-Lagerhaus in Kalifornien ausgelöscht. Eine Quelle im Büro von General Eric M. Smith teilte RRN mit, dass White Hats drei zusätzliche Adrenochrom-Lagerstätten gefunden und zerstört hätten; Seine Aussage verleiht Zakharovs Behauptung Glaubwürdigkeit, dass der Deep State die Adrenochrom-Veredelung ins Ausland verlagert hat.\n\n„Es ist sicherlich möglich. Sie haben Ressourcen dafür und sie wissen, dass wir sie hier unten jagen. Wir glauben immer noch, dass es Adrenochrom-Repositories hier in den Vereinigten Staaten gibt, und wir suchen immer noch danach“, sagte unsere Quelle im Büro von General Smith.\n\n„Ironischerweise führen sie einen Krieg gegen die Verteilung von Fentanyl, während sie es zur Herstellung ihres Adrenochroms verwenden“, fügte er hinzu. „Je mehr sie konsumieren, desto mehr brauchen sie, wie jede Suchtdroge. Wenn die Russen darum kämpfen, Adrenochrom loszuwerden, gut für sie. Vielleicht können wir zwischen unseren Bemühungen den Adrenochrom-Markt schließen.“",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5090199899812280326",
+        "_score": 2.6443,
+        "_source": {
+          "archivedon": "1674657244",
+          "channelabout": "Monitoring Russian Telegram Channels\nAutomated DeepL Translation from Russian Telegram Channels | https://ruprop.live\nMain Telehunt channel",
+          "channeltitle": "Telehunt Watch",
+          "channelusername": "telehunt_watch",
+          "date": 1674408207,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 989,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 996,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 1004,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 1016,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 18,
+              "offset": 1026,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 2425,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 2432,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 14,
+              "offset": 2440,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 5,
+              "offset": 2455,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 18,
+              "offset": 2466,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 36,
+              "offset": 2855,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 595287,
+            "date": 1674408206,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 595287,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "id": 669702,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "🇭🇹Гаити осталось без сенаторов на фоне серьезнейшего кризиса в истории\n\nУход последних десяти сенаторов в Гаити ознаменовал собой конец демократически избранного правительства в стране, охваченной бандитским насилием, гуманитарным кризисом и вспышкой холеры. Об этом сообщает агентство The Washington Post.\n\nПоследние избранные сенаторы в правительстве Гаити завершили свою работу по истечении срока их полномочий. Это оставило беднейшее государство Западного полушария без президента и без парламента.\n\nПравительством Гаити в его нынешнем виде руководит премьер-министр Ариэль Анри, который все еще не назначил дату выборов. Оппоненты обвиняют Анри в диктаторских устремлениях и возможной причастности к убийству экс-президента Жовенеля Моиза в 2021 году.\n\n«Мы сделали огромный шаг назад. Сегодня на Гаити демократия — пустое слово», — заявил Дюнуа Эрик Кантав, который является членом Монтанского соглашения, мощной оппозиционной группы, состоящей из групп гражданского общества и политических деятелей.\n\n#Гаити #кризис #правительство…",
+              "display_url": "t.me/riafan_everywhere/16277",
+              "hash": 0,
+              "id": 9.17079312168682e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "МЕЖДУНАРОДНЫЙ ФАН",
+              "type": "telegram_message",
+              "url": "https://t.me/riafan_everywhere/16277"
+            }
+          },
+          "message": "TRANSLATION :\n🇭🇹Гаити left without senators amidst the worst crisis in history\n  \nThe departure of the last 10 senators in Haiti marked the end of a democratically elected government in a country plagued by gang violence, a humanitarian crisis and a cholera outbreak. This was reported by The Washington Post.  \n  \nThe last elected senators in Haiti's government ended their term of office. This has left the poorest state in the Western Hemisphere without a president and without a parliament.  \n  \nHaiti's government as it stands is led by Prime Minister Ariel Henri, who still has not set an election date. Opponents accuse Henri of dictatorial ambitions and possible involvement in the assassination of former president Jovenel Moise in 2021.  \n  \n\"We have taken a huge step backward. Democracy is an empty word in Haiti today,\" said Dunois Eric Cantave, who is a member of the Montagne Accord, a powerful opposition group made up of civil society groups and political figures.  \n  \n#Haiti #crisis #government #Henri\n  \n@riafan_everywhere Federal News AgencyHaiti is without senators amid the worst crisis in Port-au-Prince history, Jan. 22. The departure of the last ten senators in Haiti marked the end of a democratically elected government in a country plagued by gang violence, a humanitarian crisis and a cholera outbreak. This was reported by The Washington Post.\n=======\nORIGINAL :\n🇭🇹Гаити осталось без сенаторов на фоне серьезнейшего кризиса в истории  \n  \nУход последних десяти сенаторов в Гаити ознаменовал собой конец демократически избранного правительства в стране, охваченной бандитским насилием, гуманитарным кризисом и вспышкой холеры. Об этом сообщает агентство The Washington Post.  \n  \nПоследние избранные сенаторы в правительстве Гаити завершили свою работу по истечении срока их полномочий. Это оставило беднейшее государство Западного полушария без президента и без парламента.  \n  \nПравительством Гаити в его нынешнем виде руководит премьер-министр Ариэль Анри, который все еще не назначил дату выборов. Оппоненты обвиняют Анри в диктаторских устремлениях и возможной причастности к убийству экс-президента Жовенеля Моиза в 2021 году.  \n  \n«Мы сделали огромный шаг назад. Сегодня на Гаити демократия — пустое слово», — заявил Дюнуа Эрик Кантав, который является членом Монтанского соглашения, мощной оппозиционной группы, состоящей из групп гражданского общества и политических деятелей.  \n  \n#Гаити #кризис #правительство #Анри  \n  \n@riafan_everywhere   Федеральное агентство новостейГаити осталось без сенаторов на фоне серьезнейшего кризиса в истории Порт-о-Пренс, 22 января. Уход последних десяти сенаторов в Гаити ознаменовал собой конец демократически избранного правительства в стране, охваченной бандитским насилием, гуманитарным кризисом и вспышкой холеры. Об этом сообщает агентство The Washington Post.\nSOURCE :\nhttps://t.me/riafan_everywhere/16277\nМЕЖДУНАРОДНЫЙ ФАН",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1048476
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [39],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [4],
+      "relation": ["eq"]
+    },
+    "max_score": [8.6744],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6805392310625415935",
+        "_score": 8.6744,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682798305",
+          "channelabout": "Zu viele Menschen lassen sich von Medien und anderen Einflüssen ihren Verstand rauben 🤡😷\n\nMit unserem Kanal sorgen wir dafür, dass damit für alle hier ansiedelnden Mitglieder Schluss damit ist 🤜",
+          "channeltitle": "Gesunder Verstand",
+          "channelusername": "gesunder_verstand",
+          "collected_by": "crawler",
+          "date": 1670587770,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 504,
+              "offset": 113,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 622,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=3bBzB7CvEaM"
+            },
+            {
+              "length": 6,
+              "offset": 630,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 688,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/gesundohnemedikament"
+            },
+            {
+              "length": 32,
+              "offset": 691,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "channel_id": 1538718369,
+            "reformatted_key": "PeerChannel"
+          },
+          "fwdfrom": {
+            "channel_post": 24770,
+            "date": 1670587767,
+            "from_id": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 24770,
+            "saved_from_peer": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "id": 45823,
+          "media": {
+            "document": {
+              "access_hash": -8.12064810946295e+17,
+              "attributes": [
+                {
+                  "duration": 456,
+                  "h": 720,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1280
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "„Stoppt_den_Impfzwang_für_Soldaten!“_Berufssoldat_Eric_Mühle_bei.mp4"
+                }
+              ],
+              "date": 1670582005,
+              "dc_id": 2,
+              "file_reference": "Al5xnEAAALL/ZE12eS/5jO5AW++KplWS8UmyMyk=",
+              "id": 5.23102485517593e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 29365762,
+              "thumbs": [
+                {
+                  "bytes": "ARYoavSnLTBUck6qSmea6pPlVyUrkkxKIGU/UEURvvTNQNcCSILnBPUUW78lc1hTk+axckrEzUUE0V1GY5TFt5Rif96qz3Frnm3JPqTRRXPUikWmH2i0P/LuR9DTfPtQ+5ImU/X/AOvRRWVuoywzg/wjHP8A9aiiiu2MdCA=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 9996,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument"
+          },
+          "message": "Stoppt den Impfzwang für Soldaten‼️\n\n🗣 Eric Mühle, Hauptfeldwebel der Bundeswehr, sagt bei Viertel nach Acht:\n\n🟫🟩 „Auch für Soldaten gibt es das Recht auf körperliche Unversehrtheit. Die Zweifel an der Corona-Impfung werden mehr und mehr bestätigt. Die nur bedingtzugelassene Impfung bietet weder einen Fremd- noch Eigenschutz. Nachdem die Regierung die einrichtungsbezogene Impflicht auslaufen lässt, muss jetzt auch die Impfpflicht für Soldaten weg.\n\n💪 Eric Mühle kämpft darum, dass diese Impfpflicht fällt und akzeptiert keine unehrenhafte Entlassung aus der Armee, die ihn rund 200.000 Euro kosten würde.“\n\n📍Quelle\n\n🔥👍🏼 BITTE ÜBERALL TEILEN UND IN ALLEN GRUPPEN POSTEN!\n\n👉 Zum neuen & unzensierten Kanal💥",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1584503872,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 115311
+          },
+          "silent": false,
+          "url": "t.me/gesunder_verstand/45823",
+          "v": 1,
+          "views": 132,
+          "lastseents": "2023-04-29T19:58:25.304317"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6339315168471686101",
+        "_score": 5.0489,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-12-09 21:20:13.293389",
+          "channelabout": "Inhalte und Zusammenfassungen v.a. zum Thema Corona, die im Mainstream verschwiegenen/ zensiert werden. \"Bringt euer Umfeld dazu Telegram zu installieren, der Rest passiert von ganz alleine.\" Nutzt Whastapp Status zur Aufklärung!  @botkontaktbot",
+          "channeltitle": "Friedrich Pürner, Sucharit Bhakdi, Wodarg Haditsch Hockertz Wittkowski Homburg Unterdrückte Stimmen",
+          "channelusername": "ProfSucharitBhakdi",
+          "date": 1670617895,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 122,
+              "offset": 88,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Hauptfeldwebel kämpft gegen unehrenhafte Entlassung, weil er Corona Impfung verweigert!\nhttps://corona-blog.net/2022/12/09/hauptfeldwebel-kaempft-gegen-unehrenhafte-entlassung-weil-er-corona-impfung-verweigert/\n\nHauptfeldwebel Eric Mühle kämpft gegen eine unehrenhafte Entlassung aus der Bundeswehr, weil er sich nicht gegen Corona impfen lassen will. Im Interview erwähnt er: „Wir sind überdurchschnittlich fitte und gesunde Männer gewesen. Und jetzt habe ich in den letzten Monaten, in denen diese Impfkampagne durchgezogen wurde, halt leider gesehen bei uns, dass alle ausnahmslos zwei bis drei Mal Corona hatten. Teilweise schwere Verläufe und teilweise auch solche Verläufe, dass man sagt, der Mann der konnte nicht mehr gehen, das war schon anstrengend für ihn. Und jetzt haben wir die Problematik, dass es bei uns flächendeckend so war. Jeder Einzelne außer einen hat es nicht erwischt und der sitzt jetzt hier vor ihnen.“",
+          "peerid": {
+            "channel_id": 1475986831,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 531
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5986031576977246125",
+        "_score": 4.8864,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681227498",
+          "channelabout": "❗Donald Trump channel",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1670580053,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 83,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 13,
+              "offset": 136,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wnlL5MibZ9Y1Yjgy"
+            },
+            {
+              "length": 7,
+              "offset": 175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 14,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+YSwehk-ZtfMxYzYy"
+            },
+            {
+              "length": 11,
+              "offset": 245,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+KRHHGIvx091jZDcy"
+            },
+            {
+              "length": 14,
+              "offset": 278,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+PmC9MeTUHCE2MDk6"
+            },
+            {
+              "length": 10,
+              "offset": 312,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+hh0uXUYzBw01YjVi"
+            },
+            {
+              "length": 18,
+              "offset": 350,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+O-qcfSyzeG9iMTYy"
+            },
+            {
+              "length": 8,
+              "offset": 385,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+9Vbg1gtxL6RlNzZi"
+            },
+            {
+              "length": 13,
+              "offset": 414,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+uS_iD6IWq4IyMTUy"
+            },
+            {
+              "length": 6,
+              "offset": 441,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+D_9LCuuyyP04ZTMx"
+            },
+            {
+              "length": 11,
+              "offset": 466,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+pl2K5Freu8hkM2Q0"
+            },
+            {
+              "length": 15,
+              "offset": 500,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Y1z5_ORUcUpjY2Ni"
+            },
+            {
+              "length": 18,
+              "offset": 541,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ej-OU77FSA1jN2Qy"
+            },
+            {
+              "length": 9,
+              "offset": 576,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+z2EX4bPqfeI3OGNi"
+            },
+            {
+              "length": 19,
+              "offset": 612,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+kwWkRCFZgihjYjNi"
+            },
+            {
+              "length": 12,
+              "offset": 651,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+n6eEyg6GW9I0OGMy"
+            },
+            {
+              "length": 14,
+              "offset": 685,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ESFBNKlZiTE0ZGEy"
+            },
+            {
+              "length": 17,
+              "offset": 726,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+qWDLMSQtiwowZjBi"
+            },
+            {
+              "length": 17,
+              "offset": 768,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+aWfzVLU2N1o5ODYy"
+            },
+            {
+              "length": 12,
+              "offset": 805,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+RSk2WWmC0OI1NTIy"
+            },
+            {
+              "length": 15,
+              "offset": 840,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+lOAVSVhYfsM4ODJi"
+            },
+            {
+              "length": 15,
+              "offset": 878,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wWsv3boIYD1mNjQ6"
+            },
+            {
+              "length": 6,
+              "offset": 907,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+JYBv1jw6f281ZmZi"
+            },
+            {
+              "length": 17,
+              "offset": 940,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+A8LVv2ANkoliMTZi"
+            },
+            {
+              "length": 13,
+              "offset": 978,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+faAMh7DfYwg2ZTUy"
+            },
+            {
+              "length": 14,
+              "offset": 1013,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+d-sfNIL_UjkzMGJi"
+            },
+            {
+              "length": 15,
+              "offset": 1052,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Xzufy6umap8wZjJi"
+            },
+            {
+              "length": 39,
+              "offset": 1079,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+f_pfhObH7xQ4OTM6"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49,
+            "date": 1661702742,
+            "from_id": {
+              "channel_id": 1274719254,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 1965,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "‼️🇺🇸‼️SHARE‼️🇺🇸‼️SHARE‼️🇺🇸‼️\n\nBIG TECH WON’T SILENCE US - Join These Popular Conservative Voices on Telegram\n\n🇺🇸 Donald Trump — @Donald_Trump\n🇺🇸 Nesara (official) — @Nesara\n🇺🇸 Melania Trump — @Melania_Trump\n🇺🇸White Hats (secret) — @White_Hats\n🇺🇸 General Flynn — @General_Flynn\n🇺🇸 Qanon (Q17) — @Qanon_Q17\n🇺🇸 Donald Trump (2024) — @Donald_Trump_2024\n🇺🇸 Mr. Pool — @Mr_Pool\n🇺🇸 Ivanka Trump — @Ivanka_Trump\n🇺🇸 Qanon — @Qanon\n🇺🇸 Eric Trump — @Eric_Trump\n🇺🇸 Trump War Room — @Trump_War_Room\n🇺🇸 TAKE BACK AMERICA — @TAKE_BACK_AMERICA\n🇺🇸 Lin Wood — @Lin_Wood\n🇺🇸 The anti-globalist — @The_anti_globalist\n🇺🇸 Dan Scavino — @Dan_Scavino\n🇺🇸 Nesara Gesara — @Nesara_Gesara\n🇺🇸 Donald Trump (Q17) — @Donald_Trump_Q17\n🇺🇸 American Patriot — @American_Patriot\n🇺🇸 John Durham — @John_Durham\n🇺🇸 Michael Pompeo — @Michael_Pompeo\n🇺🇸 Michael Yeadon — @Michael_Yeadon\n🇺🇸 Q-Tip - @Q_Tip\n🇺🇸 Ivanka Trump (Fan) - @Ivanka_Trump_Fan\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Pepe the Frog - @Pepe_the_Frog\n🇺🇸 White Hats (Q17) - @White_Hats_Q17\n\nSee More: http://t.me/ConservativesOnTelegram/183",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 71,
+          "lastseents": "2023-04-11T15:38:18.325336"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5431945761745070788",
+        "_score": 4.4687,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-12-09 02:41:31.711909",
+          "channelabout": "occasional meme maker & daily poster  i don't get paid to do this if you want to support my channel share my content  thank u 4 being here 💓\n🇺🇲 Back up Channell\nhttps://t.me/mythvsrealityreloaded",
+          "channeltitle": "Mythvsreality",
+          "channelusername": "basedrainbowbitch",
+          "date": 1670549409,
+          "editdate": 1670549412,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 48,
+              "offset": 107,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.politico.eu/politico-28-class-of-2023/"
+            },
+            {
+              "length": 18,
+              "offset": 168,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 10,
+              "offset": 432,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 10,
+              "offset": 449,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 18,
+              "offset": 627,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 377,
+            "date": 1670548808,
+            "from_id": {
+              "channel_id": 1773879520,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A Jewish man has been named the \"most powerful person in Europe\".\n\nPolitico Europe has released its yearly summary of the 28 most powerful people in Europe and the Jew Volodymyr Zelensky, a man who is not even European (White) has been labelled the most powerful person in Europe.\n\nAlongside him are other non-Whites such as:\n\nThe Jewish presiden of the ECB, Christine Lagarde;\n\nFrance's anti-White education minister and Black man Pap Ndiaye;\n\nAnd Eric Huang, the a Taiwanese diplomat who travels from capital to capital stirring the fire against China on behalf of the Washington regime.\n\nAnother notable mention is American Christopher Cavoli. Supreme Allied Commander Europe. AKA the man in charge of keeping Europe in line with Jewish security interests.\n\nThe list is typically pro-neoliberal. With only Le Pen, Meloni, Lavrov, Putin and Kiempema (5/28) representing any opposition to the current order.\n\nMore than anything the list highlights how Europe's monetary policy, security policy, foreign policy and cultural policies are dictated not merely by traitors, but by racial foreigners and Jewish elite interests.",
+          "peerid": {
+            "channel_id": 1264723428,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1486989007,
+            "comments": true,
+            "max_id": 656437,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1288316572
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 1112388
+          },
+          "silent": false,
+          "v": 1,
+          "views": 46
+        }
+      }
+    ]
+  }
+}

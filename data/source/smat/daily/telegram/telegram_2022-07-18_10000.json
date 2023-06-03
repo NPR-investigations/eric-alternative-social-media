@@ -1,0 +1,1445 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [41],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [18],
+      "relation": ["eq"]
+    },
+    "max_score": [12.4013],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5846913321357940691",
+        "_score": 12.4013,
+        "_source": {
+          "archivedon": "2022-07-24 06:54:53.830655",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1658118985,
+          "editdate": 1658123641,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 841227148
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "They copy and pasted Eric striker's telegram post kek",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 661454
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 841227148,
+            "_media_ref": "f14f54354969a6ae90c87c889f00ecbe2b3b761f",
+            "_v": 1,
+            "access_hash": 7.92769070428639e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "lewzor",
+            "id": 841227148,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 316202,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500079700066
+              },
+              "photo_id": 3.61304308962359e+18,
+              "photo_small": {
+                "local_id": 316200,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500079700066
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "lewzor",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6347407316354125061",
+        "_score": 12.2207,
+        "_source": {
+          "archivedon": "2022-08-03 06:05:11.789851",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1658179454,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 163,
+              "offset": 89,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 254,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 265,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 265,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams compares Nelson Mandela's time in prison to his own dyslexia\n\nRead: https://www.dailymail.co.uk/news/article-11025385/NYC-Mayor-Eric-Adams-compares-Nelson-Mandelas-time-prison-dyslexia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 95
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6347407316354125045",
+        "_score": 12.2207,
+        "_source": {
+          "archivedon": "2022-08-03 06:05:11.756654",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1658172564,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 163,
+              "offset": 89,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 254,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 265,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 265,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams compares Nelson Mandela's time in prison to his own dyslexia\n\nRead: https://www.dailymail.co.uk/news/article-11025385/NYC-Mayor-Eric-Adams-compares-Nelson-Mandelas-time-prison-dyslexia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 84
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6922229457029811720",
+        "_score": 11.8828,
+        "_source": {
+          "archivedon": "2022-07-24 10:30:42.369214",
+          "channelabout": "Behave or Banished",
+          "channeltitle": "Our Wars, Today - Chat",
+          "date": 1658103007,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hey there Eric, and welcome to Our Wars, Today - Chat! How are you?",
+          "peerid": {
+            "channel_id": 1611707140,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 199164
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5036934943767717026",
+        "_score": 11.1878,
+        "_source": {
+          "archivedon": "2022-07-25 05:12:25.530252",
+          "channelabout": "Organisation du Worldwide rally for Freedom France",
+          "channeltitle": "World Wide Rally for Freedom France",
+          "channelusername": "RallyforFreedom",
+          "date": 1658139046,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1280536668
+          },
+          "fwdfrom": {
+            "channel_post": 19582,
+            "date": 1654866465,
+            "from_id": {
+              "channel_id": 1416140089,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32651123635185e+16,
+          "message": "New York, USA News\nNYPD Is honoring Pfizer pharmaceuticals. 😡\n\nActivist protest the event and chant \" F ERIC ADAM'S \"",
+          "peerid": {
+            "channel_id": 1172752805,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 537309
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1280536668,
+            "_v": 1,
+            "access_hash": 1.8307120903331e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "V",
+            "id": 1280536668,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 2434
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5846913321357940606",
+        "_score": 10.7718,
+        "_source": {
+          "archivedon": "2022-07-24 06:54:53.743358",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1658104542,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 27,
+              "offset": 29,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/hiddentruthvideos/607?comment=7346"
+            }
+          ],
+          "forwards": 60,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1542079896
+          },
+          "fwdfrom": {
+            "channel_post": 607,
+            "date": 1645474438,
+            "from_id": {
+              "channel_id": 1517200518,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "The Hitler We Loved and Why\n\nThe Hitler We Loved and Why by Eric Thomson and Christof Friedrich (Pseudonym used by Ernst Zündel)",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 772223
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6698
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6463960745808828988",
+        "_score": 10.034,
+        "_source": {
+          "archivedon": "2022-07-30 00:23:38.266399",
+          "channeltitle": "Real Canadian Convoy - Chat",
+          "channelusername": "realCanadianConvoyChat",
+          "date": 1658146089,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 120,
+              "offset": 105,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1587647732
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "\"Maxwell trial: Flight logs show Trump flew on ‘Lolita Express’ with Eric, Tiffany and Clinton adviser\"\n\nhttps://www.independent.co.uk/news/world/americas/crime/ghislaine-maxwell-epstein-donald-trump-flight-logs-b1980802.html",
+          "peerid": {
+            "channel_id": 1505008141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 72481,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 127041
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1587647732,
+            "_v": 1,
+            "access_hash": 4.3126980780356e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Boerevrou",
+            "id": 1587647732,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Boerevrou",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6960366189637807004",
+        "_score": 9.7054,
+        "_source": {
+          "archivedon": "2022-07-21 22:00:20.316686",
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1658154471,
+          "editdate": 1658182156,
+          "edithide": true,
+          "entities": [],
+          "forwards": 34,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1591609540
+          },
+          "fwdfrom": {
+            "channel_post": 872,
+            "date": 1658127277,
+            "from_id": {
+              "channel_id": 1415768253,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32652357696186e+16,
+          "message": "Documented 2 posts above they're sending illegal ballot envelopes. \n\nNow they're sending multiple ballots (again) to same addresses. \n\nAnd wouldn't you know it, Arizona is a member of the ERIC system. \n\nThey. Will. Never. Stop.",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 13593
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1591609540,
+            "_media_ref": "16fdfa5e4d14000e00120534526be2adbeed2dad",
+            "_v": 1,
+            "access_hash": -4.83077013283065e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Cat",
+            "id": 1591609540,
+            "is_self": false,
+            "last_name": "McKenna",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 237447,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017500608
+              },
+              "photo_id": 4.92036917532778e+18,
+              "photo_small": {
+                "local_id": 237445,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017500608
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 4046,
+          "mediaref": "7ae9c87bd04c45578df51cb87d751452116596d2"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5157978843134298117",
+        "_score": 9.7054,
+        "_source": {
+          "archivedon": "2022-08-06 20:31:59.14012",
+          "channelabout": "Www.Auditthevotepa.com\n\nThe Audit The Vote Team:\nKaren Taylor\nToni Shuppe\nJamie Sheffield\n\nUpdates on our grassroots movement for election integrity and demands for an audit in Pennsylvania.",
+          "channeltitle": "Audit the Vote PA",
+          "channelusername": "auditthevotepa",
+          "date": 1658148313,
+          "editdate": 1658148464,
+          "edithide": true,
+          "entities": [],
+          "forwards": 20,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 872,
+            "date": 1658127277,
+            "from_id": {
+              "channel_id": 1415768253,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32651865081099e+16,
+          "message": "Documented 2 posts above they're sending illegal ballot envelopes. \n\nNow they're sending multiple ballots (again) to same addresses. \n\nAnd wouldn't you know it, Arizona is a member of the ERIC system. \n\nThey. Will. Never. Stop.",
+          "peerid": {
+            "channel_id": 1200935534,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Karen Taylor",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202814673,
+            "comments": true,
+            "max_id": 223947,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1433557711
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1528526410
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1726768918
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 11,
+            "replies_pts": 401873
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2994
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6388857049295406592",
+        "_score": 9.3267,
+        "_source": {
+          "archivedon": "2022-07-24 07:16:29.764225",
+          "channelabout": "Q NEWS official - GOD WINS! 144K WWG1WGA official - QAnon Dutch Official",
+          "channeltitle": "Q NEWS OFFICIAL TV #WWG1WGA 💛🇺🇸",
+          "channelusername": "QNewsOfficialTV",
+          "date": 1658141750,
+          "editdate": 1658141917,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 214,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 259,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 10,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NEW - NL - DUTCH - Q NEWS FINAL THOUGHTS AFLEVERING #133 - PART 1 - PETER DG EN POSTMASTER GENERAL ERIC G - UPDATE GEOPOLITIEK [TRANSLATION WITH SUBTITLES IS POSSIBLE THROUGH THE YOUTUBE SETTING]🍿🐸🇺🇸 SHARE!! \n\nhttps://www.youtube.com/watch?v=UJCilaoVtzs\n\nhttps://t.me/QNewsOfficialTV",
+          "peerid": {
+            "channel_id": 1487521699,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1464959124,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 221488
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6993
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6388857049295406593",
+        "_score": 9.1844,
+        "_source": {
+          "archivedon": "2022-07-24 07:16:29.765727",
+          "channelabout": "Q NEWS official - GOD WINS! 144K WWG1WGA official - QAnon Dutch Official",
+          "channeltitle": "Q NEWS OFFICIAL TV #WWG1WGA 💛🇺🇸",
+          "channelusername": "QNewsOfficialTV",
+          "date": 1658141799,
+          "editdate": 1658141912,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 51,
+              "offset": 214,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 267,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NEW - NL - DUTCH - Q NEWS FINAL THOUGHTS AFLEVERING #133 - PART 2 - PETER DG EN POSTMASTER GENERAL ERIC G - UPDATE GEOPOLITIEK [TRANSLATION WITH SUBTITLES IS POSSIBLE THROUGH THE YOUTUBE SETTING]🍿🐸🇺🇸 SHARE!! \n\nhttps://www.youtube.com/watch?v=wG5DnMbbQKU&t=1911s\n\nhttps://t.me/QNewsOfficialTV",
+          "peerid": {
+            "channel_id": 1487521699,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1464959124,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 221488
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6999
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6617507450138439482",
+        "_score": 8.785,
+        "_source": {
+          "archivedon": "2022-08-03 06:55:48.732801",
+          "channeltitle": "Kayleigh McEnany Chat",
+          "date": 1658116898,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I thought it was strange that Laura was on Fox around noon the day after Ivana \"died\" and participating in a talk show.  She said kind things about her mother in law but why wouldn't she have been with Eric and the family?  That's where I would have been.",
+          "peerid": {
+            "channel_id": 1540758519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 44711
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6202437180678237964",
+        "_score": 7.7264,
+        "_source": {
+          "archivedon": "2022-07-25 02:25:44.169094",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1658132701,
+          "editdate": 1658133117,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 46,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 | Affaire Coquerel : Panot sur Coquerel\n\nVendredi, l'écologiste Sandrine Rousseau estimait qu'en raison de la plainte pour «harcèlement et agression sexuels» déposée contre lui par Sophie Tissier, Eric Coquerel devait se mettre en retrait de la présidence de la commission des Finances. « Il n'y aura pas de mise en retrait d'Eric Coquerel parce qu'il n'y a aucun élément nouveau », estime sur France Info Mathilde Panot, la cheffe du groupe LFI. « Ce que j'ai entendu de ce qu'a dit Madame Tissier sur BFM n'est pas suffisant pour demander sa démission. Ce qu'on reproche à Eric Coquerel c'est d'avoir en 2014 dans une soirée dansé un rock avec elle, de lui avoir touché la taille, effleuré les fesses, et de lui avoir proposé de prendre un taxi avec lui. Elle-même dit que ça n'a rien à voir avec l'affaire Abad. Il faut revenir à la raison sur cette question », tente de convaincre la députée insoumise.",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Dylan Tracz",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 340207,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 796389196
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1958485567
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1303983840
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 22,
+            "replies_pts": 526902
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2300
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5090199899811952577",
+        "_score": 7.5136,
+        "_source": {
+          "archivedon": "2022-07-24 12:23:14.267558",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1658169162,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 439,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 29,
+              "offset": 457,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 267605,
+            "date": 1658169161,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 267605,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nForwarded from ARMENIANS OF RUSSIA-Z FORWARD The arrest of blogger Mikayel Badalyan has been extended by 20 days, his lawyer Eric Aleksanyan wrote in social networks.  \n  \nThe blogger was arrested on May 24 for allegedly spreading false information about \"terrorist acts prepared in Yerevan and beyond its borders. The term has already been extended once.  \n  \nWhich was necessary to prove. The regime laid on the law!   \n  \n@RodinaRu>\nLink : https://t.me/mikayelbad/16579",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 567513
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5090199899811952578",
+        "_score": 6.5992,
+        "_source": {
+          "archivedon": "2022-07-24 12:23:14.269125",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1658169162,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 29,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 598,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 29,
+              "offset": 618,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 267606,
+            "date": 1658169161,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 267606,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nForwarded from #Armenian_Z_Dvorik ⚡️❗️ In less than 15 minutes, at 20:00 Moscow time, and at 21:00 Yerevan time, the court will announce the decision whether to extend the arrest of blogger Mikayel Badalyan.  \n  \nLawyer Eric Alexanyan said that the investigators never substantiated their motion\n  \nWill Yerevan authorities continue the lawlessness or will they let Miku...  \n  \nHere you have it liberal-democrat friends, it's free action only for them, not for society. Dissenters will face inevitable retribution.  \n  \n🔹 As they say, keep your crosses and fists crossed.🤞🏻✊🏻\n  \n@CONQUEROR95\nLink : https://t.me/mikayelbad/16578",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 567513
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6333509979005263964",
+        "_score": 6.5992,
+        "_source": {
+          "archivedon": "2022-07-25 04:39:05.67053",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1658154357,
+          "editdate": 1658154635,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 50,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 514,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 17,
+              "offset": 531,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 85,
+              "offset": 550,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 640,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 20,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hollywood Serial Sexual Assault Suspect Arrested\n\nOn July 14, 2022 around 12:00 p.m., Eric Weinberg was arrested.\n\nWeinberg was a Hollywood producer/writer and appears to have targeted women. Once the women were in his residence, he would sexually assault them during the photo shoot.\nDetectives believe there are additional unidentified victims that could date back to the early 1990s and are looking to speak with them. Victims or anyone with information can contact detectives assigned to this investigation at (323)561-3272 or 39284@lapd.online.\nhttps://www.lapdonline.org/newsroom/serial-sexual-assault-suspect-arrested-nr22200ma/\n\n   @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "max_id": 378228,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1575444698
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 588618
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5902
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5090199899811952017",
+        "_score": 5.2176,
+        "_source": {
+          "archivedon": "2022-07-24 12:23:12.367685",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1658152834,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 634,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 16,
+              "offset": 663,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 39,
+              "offset": 902,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 954,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 1006,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 1043,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 267045,
+            "date": 1658152831,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 267045,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nForwarded from Armenian vendetta ❗️ In Mikayel Badalyan's case the court is under pressure - Eric Alexanyan\n  \nThe investigation body again applied to prolong Mika Badalyan's custody, this application is illegal. Mikayel Badalyan's lawyer Erik Aleksanyan said this in a talk with journalists before the court session.  \n  \n\"The criminal case was initiated under the old code, and this is the basis for the lawsuit, because referring to the old law in this case is impossible. No investigative actions have been conducted during this month, so the extension of the custody period is also meaningless,\" he concluded.  \n  \nhttps://youtu.be/_Ns48Qruu64\n@rusyerevantoday YouTubeՄիիայել Բադալլլնի գործոովդատարանի վրական ճնշումներ. Էրի Ալեքսայանն Դատաոոննեեե պտք է 金ասկանա, 金որ ոոո579↩ինչ タավորժ չէ, հհանավոոոր չէ 国նադդաաննն 国タեե օրեեե. փաստաբան\nԲաժանորդագրվեքք մեր աալիքննրիիիննն՝\nYouTube-ում՝ https://www.youtube.com/c/yerevantoday1\nTikTok-ում՝ https://www.tiktok.com/@yerevan.today\nTelegram-ում՝ https://t.me/YerevanTodaynews\nLink : https://t.me/mikayelbad/16569",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 567513
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5811551549939719884",
+        "_score": 2.4182,
+        "_source": {
+          "archivedon": "2022-07-25 04:33:51.099009",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1658119310,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 225,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 104,
+              "offset": 895,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 1844,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 9,
+              "offset": 1994,
+              "reformatted_key": "MessageEntityBotCommand"
+            },
+            {
+              "length": 29,
+              "offset": 2641,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 46,
+              "offset": 2722,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 12,
+              "offset": 2785,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 12,
+              "offset": 2858,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 49,
+              "offset": 3133,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 3326,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 18,
+              "offset": 3358,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 30,
+              "offset": 3511,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 57,
+              "offset": 3594,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 56,
+              "offset": 3713,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 3855,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 28,
+              "offset": 3907,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 10201,
+            "date": 1658089244,
+            "from_id": {
+              "channel_id": 1461672356,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "• On Thursday, July 14, 2022, President Trump’s first wife, Ivana, and the Mother of his first three children — Don, Jr,, Ivanka and Eric — was reported to have died due to a fall down a staircase at her New York City home. \nhttps://nypost.com/2022/07/14/ivana-trump-ex-wife-of-former-president-trump-dead-at-73/\n\n• However, there is strong speculation, Ivana Trump may NOT have actually died and instead entered into the Federal Witness Program coded named, \"Gone With The Wind,” in order to protect  her from very serious threats to her life from the Deep State cabal. \n\n• And in perhaps the most significant development of the week, also on Thursday, PRESIDENT TRUMP ANNOUNCED HE WILL BE RETURNING TO WASHINGTON, DC, for the first time since leaving the Office of President back on January 20, 2021, in order to give the keynote address at the “America First Agenda Summit” on July 26, 2022.\nhttps://www.thegatewaypundit.com/2022/07/trump-returning-dc-keynote-speaker-america-first-agenda-summit/\n\n• With President Trump back in Washington, DC this month, it may well present an extraordinary opportunity to make some very special announcements regarding the Restored Republic, which is still awaiting an official public acknowledgement of some kind. We shall have to wait to see what President Trump \n \n• In conclusion, despite the apparent lack of developments over the past week, we are seeing numerous steps forward within the new global economic system and the transfer over to the Quantum Financial System. Extraordinary events within the global systems are taking place nearly every day, yet we are still awaking the collapse of BitCoin and other Deep State cryptocurrencies as indiction the final global economic transition is underway. \n\n• Listen to the online recording of the Sunday, June 10, 2022 Miracles Intel Conference Call \nhttps://fccdl.in/WinyjDqzxk\n\n\n• Finally, as usual, we continue to request to please keep all of these great, GREAT PATRIOTS of the U.S. Military, “Q” /Military Intelligence, the Earth Alliance and President Donald Trump in your prayers at this most crucial time period in world history. IN GOD WE TRUST AND GOD BLESS AMERICA. \n\n• PLEASE NOTE: Due to the unprecedented demand of new listeners and new subscribers, our live conference line often reaches full capacity and we apologize for the inconvenience if you have difficulties getting on the Sunday call. We remind you, the recording of this call is available immediately after we conclude our program on our replay line. \n\nOur conference call line is: \nDial-in number (US):  (609) 746-1082\nAccess code: 767664#\n\nInternational dial-in numbers: https://fccdl.in/i/scottm6975\nOnline meeting ID: scottm6975\nOnline meeting link: https://join.freeconferencecall.com/scottm6975\n\nReplay Number: 712-770-5402\nAccess code:  767664# / followed by # again\n\nBackup Number: 520-420-9092\nIf you encounter any issues with our Miracles Intel Calls please reach out to Free Conference Call Technical Support: (844) 844-1322\n\nWe greatly appreciate your donations which directly support our work and you can do so through PayPal by clicking on this link: http://www.miraclesandinspiration.com/donate.html\n(Please make sure to go to the “Services” section of PayPal to make a donation and not the “Send money to Friends” section)\nWells Fargo Zelle: scottm6975@yahoo.com\nApple Pay: scottm6975@mac.com\nTo send a donation by mail: Scott Mowry c/o The Triad Theater, PO Box 2040, Yelm, WA, 98597\n\nThank you for your support, \nScott Mowry\nwww.miraclesandinspiration.com\nPlease visit our Miracles&Inspiration Amazon Store: https://www.amazon.com/?tag=miraclesandin-20&linkCode=w0f\nJoin our Facebook Miracles & Inspiration News Update Group:  https://www.facebook.com/groups/miraclesandinspiration/#\nTo join the Miracles Intel Telegram Group send your Telegram name & cell phone # to: miraclesintel@protonmail.com\nMoreah Love’s website: Subscribepage.com/moreahlove\n\nUPCOMING MIRACLES INTEL EVENTS\nMiracles Intel Conference Call - Sunday, JULY 17, 2022 at 6PM PT / 9PM ET",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

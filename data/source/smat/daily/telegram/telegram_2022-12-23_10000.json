@@ -1,0 +1,2436 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [53],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [13.842],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5846913321358055446",
+        "_score": 13.842,
+        "_source": {
+          "archivedon": "2022-12-23 21:42:19.632658",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1671829270,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 4,
+              "offset": 6,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Fine, Eric can speak again.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 776213,
+            "reply_to_top_id": 776192
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6182575233266920031",
+        "_score": 12.5067,
+        "_source": {
+          "archivedon": "1681582833",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1671823447,
+          "editdate": 1671824900,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18163,
+            "date": 1671823115,
+            "from_id": {
+              "channel_id": 1212307538,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "CornPop's Mom 💋🇺🇸",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Eric Schmidt, a strong supporter of government AI funding, channels his contributions through the non-partisan Federation of American Scientists.",
+              "display_url": "politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160",
+              "hash": 0,
+              "id": 3.49378459108127e+18,
+              "photo": {
+                "access_hash": 1.59063479949643e+18,
+                "date": 1671704132,
+                "dc_id": 4,
+                "file_reference": "AGQ66rAz9zz6fjLRFDoHhv1clotv",
+                "has_stickers": false,
+                "id": 5.84680063046161e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsoyAMkAd6sfZGweOlV1OCK1w58r+8TSk7FRVzKKYOD1oxU90u2QZxmoRVJiasIBRS0UwIgM1o2iubfJyRnFUBWnbsRYJg4y/8AWpaBOxTutwlwevWos1Lckm4fNQNTS0Bu44mikooA",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 213,
+                    "size": 9490,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 533,
+                    "size": 48118,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 799,
+                    "w": 1200,
+                    "sizes": [10715, 19918, 27364, 46038, 110942]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "POLITICO",
+              "title": "Ex-Google boss helps fund dozens of jobs in Biden’s administration",
+              "type": "photo",
+              "url": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160"
+            }
+          },
+          "message": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160",
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1241640422,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2136428
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 373,
+          "id": 43615,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-15T18:20:33.369684"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5846913321358055444",
+        "_score": 12.3382,
+        "_source": {
+          "archivedon": "2022-12-23 21:42:19.62972",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1671829212,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 4,
+              "offset": 34,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Yeah, I don't like your flooding. Eric has been muted for 2 hours!",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 934252
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5354447101273374974",
+        "_score": 12.0761,
+        "_source": {
+          "archivedon": "2022-12-24 01:32:18.33033",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1671839157,
+          "editdate": 1671839161,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 91,
+              "offset": 67,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 206,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 228,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 243,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 264,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Pastor Who Is Friends With NYC Mayor Eric Adams Arrested By Feds\n\n https://www.thegatewaypundit.com/2022/12/pastor-friends-nyc-mayor-eric-adams-arrested-feds/\nSource: Gateway Pundit \n\nHelp us spread truth! #MAGA ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1050088
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 18,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5507848979305502277",
+        "_score": 11.8613,
+        "_source": {
+          "archivedon": "2022-12-23 22:52:06.778429",
+          "channeltitle": "Patriot Party Connecticut",
+          "channelusername": "PatriotPartyCT",
+          "date": 1671824291,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 114,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "date": 1671824262,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1523631301
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.adl.org/resources/press-release/adl-honors-9th-israeli-president-shimon-peres-and-google-chairman-eric",
+          "peerid": {
+            "channel_id": 1282396023,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 54665
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5846913321358055406",
+        "_score": 11.8613,
+        "_source": {
+          "archivedon": "2022-12-23 21:42:19.562636",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1671824305,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 114,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "date": 1671824262,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1523631301
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.adl.org/resources/press-release/adl-honors-9th-israeli-president-shimon-peres-and-google-chairman-eric",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 934252
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6086674381688618379",
+        "_score": 8.6744,
+        "_source": {
+          "archivedon": "2022-12-23 03:03:14.35755",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1671758172,
+          "editdate": 1671758175,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Adams rejects Biden’s claims that border is secure, says migrants ‘coming from somewhere’\n\nMayor Eric Adams ridiculed repeated claims from the White House that the southern border is secure, scoffing that the crush of migrants overwhelming the Big Apple was “coming from somewhere.”\n\nOne day after White House press secretary Karine Jean-Pierre defiantly declared that “the border is not open” despite a record 2.4 million migrant encounters in fiscal 2022, Adams was asked if he agreed with her assertion.\n\n“They’re coming from somewhere, so, if it’s not open, they’re coming from somewhere,” Hizzoner said. “So, we need to deal with the border issue.”",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tee",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1291050
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 290,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7221451706758857856",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "2022-12-23 21:35:22.254758",
+          "channelabout": "A place to discuss all things related to the Capital Uprising  January 6th",
+          "channeltitle": "Jan 6th Capital Insurrection",
+          "channelusername": "Itwasallasetup",
+          "date": 1671815462,
+          "editdate": 1671815466,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 19,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 136,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 88,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1739,
+            "date": 1671811309,
+            "from_id": {
+              "channel_id": 1457751873,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Christie AKA ‘Fags For Trump’ was arrested on Thursday for his involvement in January 6th, during an hours-long stand-off with the FBI Joint Terrorism Task Force. Patriots showed up to support him and confront the FBI. \nREAD FULL STORY ➡️ https://rightnowviews.com/f/fags-for-trump-arrested-for-j6-hours-long-stand-off-with-fbi",
+          "peerid": {
+            "channel_id": 1681375249,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1506350934,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2706
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 13,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "mediaref": "05e6399d515cd4b78b5208a5c2a6c6a76f08e8de"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5901900559287420446",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "2022-12-23 22:22:37.758576",
+          "channelabout": "A group for those interested in preserving or liberties here in Illinois!  This group is open to all.  However, I will not you without asking if you pull any crap in this group!  No ads, no trolls, no Antifa, no Nazis (but I repeat myself).",
+          "channeltitle": "Free Illinois",
+          "channelusername": "freeillinois",
+          "date": 1671823549,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 19,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 136,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 88,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 98,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1530122851
+          },
+          "fwdfrom": {
+            "channel_post": 1739,
+            "date": 1671811309,
+            "from_id": {
+              "channel_id": 1457751873,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Christie AKA ‘Fags For Trump’ was arrested on Thursday for his involvement in January 6th, during an hours-long stand-off with the FBI Joint Terrorism Task Force. Patriots showed up to support him and confront the FBI. \nREAD FULL STORY ➡️ https://rightnowviews.com/f/fags-for-trump-arrested-for-j6-hours-long-stand-off-with-fbi",
+          "peerid": {
+            "channel_id": 1374143306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 150506
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1530122851,
+            "_v": 1,
+            "access_hash": -6.84171507844149e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Clover",
+            "id": 1530122851,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 7664,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6300899490622610614",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "2022-12-24 00:13:17.640685",
+          "channelabout": "Official Channel  of the Proud Boys New Jersey.  proudboysnewjersey@protonmail.com",
+          "channeltitle": "Proud Boys New Jersey",
+          "channelusername": "NJProudBoys",
+          "date": 1671833479,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 19,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 136,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 88,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1739,
+            "date": 1671811309,
+            "from_id": {
+              "channel_id": 1457751873,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Christie AKA ‘Fags For Trump’ was arrested on Thursday for his involvement in January 6th, during an hours-long stand-off with the FBI Joint Terrorism Task Force. Patriots showed up to support him and confront the FBI. \nREAD FULL STORY ➡️ https://rightnowviews.com/f/fags-for-trump-arrested-for-j6-hours-long-stand-off-with-fbi",
+          "peerid": {
+            "channel_id": 1467042484,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 14,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6469727997829055989",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "2022-12-23 21:26:11.886248",
+          "channelabout": "Polite free thought discussions",
+          "channeltitle": "Jan 6th Capital Insurrection Chat",
+          "date": 1671815466,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 19,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 136,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 88,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 89,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1681375249
+          },
+          "fwdfrom": {
+            "channel_post": 1739,
+            "date": 1671811309,
+            "from_id": {
+              "channel_id": 1457751873,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1152,
+            "saved_from_peer": {
+              "channel_id": 1681375249,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Christie AKA ‘Fags For Trump’ was arrested on Thursday for his involvement in January 6th, during an hours-long stand-off with the FBI Joint Terrorism Task Force. Patriots showed up to support him and confront the FBI. \nREAD FULL STORY ➡️ https://rightnowviews.com/f/fags-for-trump-arrested-for-j6-hours-long-stand-off-with-fbi",
+          "peerid": {
+            "channel_id": 1506350934,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2706
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7181,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6182575233266920033",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "1681583028",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1671823504,
+          "editdate": 1671824984,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 19,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 136,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 88,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1739,
+            "date": 1671811309,
+            "from_id": {
+              "channel_id": 1457751873,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Christie AKA ‘Fags For Trump’ was arrested on Thursday for his involvement in January 6th, during an hours-long stand-off with the FBI Joint Terrorism Task Force. Patriots showed up to support him and confront the FBI. \nREAD FULL STORY ➡️ https://rightnowviews.com/f/fags-for-trump-arrested-for-j6-hours-long-stand-off-with-fbi",
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1241640422,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2136428
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 402,
+          "id": 43617,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-15T18:23:48.415946",
+          "mediaref": "05e6399d515cd4b78b5208a5c2a6c6a76f08e8de"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5343273185506804895",
+        "_score": 7.7172,
+        "_source": {
+          "archivedon": "1679079533",
+          "channelabout": "Nachrichten, News, Infos und vieles mehr 🤓\n\nPowered by uncut-news.ch",
+          "channeltitle": "Uncut-News.ch \"Das Original\"🇨🇭",
+          "channelusername": "uncut_news",
+          "date": 1671800465,
+          "editdate": 1671800631,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 40,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 42,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 3,
+              "offset": 407,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://uncutnews.ch/covid-kriminelle-im-wilden-wilden-westen/"
+            }
+          ],
+          "forwards": 59,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Dr. Anthony Fauci, der behauptete, er sei die Verkörperung der Wissenschaft selbst, sagte plötzlich, er sei nicht qualifiziert, sich zu bestimmten Fragen im Kontext des Virus zu äußern. GESCHICHTE …",
+              "display_url": "uncutnews.ch/covid-kriminelle-im-wilden-wilden-westen",
+              "hash": 0,
+              "id": 8.83938161583714e+17,
+              "photo": {
+                "access_hash": 1.32123096145227e+18,
+                "date": 1671800462,
+                "dc_id": 4,
+                "file_reference": "AGQUuGM59jqHoZiDehz8jaY0QYuG",
+                "has_stickers": false,
+                "id": 5.85136409763812e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARco05TgjGMntVO5ldJBzgfpUl9OYFBEat06ismO5aS5DSnhvlPoBTeoo6O5sqcoD6iiWTbFIUI3Kuf0rLju2tJCrglD29Kt2UhuFkkeLCtwCe9Taw9yLTHdnaJcbcbqKvIsduS6oF45wO1FVzEuNyO/+e1fjkY/nWDjnkUUUrlWNBVaQF/JzgZJLD05q1Z3McqhFUg479DRRTEWPLJjY7iS2QPaiiimkS2f",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 17567,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 434,
+                    "size": 47408,
+                    "w": 773
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "uncut-news.ch",
+              "title": "COVID Kriminelle im Wilden Wilden Westen",
+              "type": "photo",
+              "url": "https://uncutnews.ch/covid-kriminelle-im-wilden-wilden-westen/"
+            }
+          },
+          "message": "COVID Kriminelle im Wilden Wilden Westen\n #BigPharma\n\nDr. Anthony Fauci, der behauptete, er sei die Verkörperung der Wissenschaft selbst, sagte plötzlich, er sei nicht qualifiziert, sich zu bestimmten Fragen im Kontext des Virus zu äußern. GESCHICHTE AUF EINEN BLICK Im Mai 2022 verklagten die New Civil Liberties Alliance und die Generalstaatsanwälte von Missouri und Louisiana (Eric Schmitt und Jeff La.. ➡➡➡",
+          "peerid": {
+            "channel_id": 1244077735,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21923,
+          "id": 50335,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 141,
+                "reaction": "🤡",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 67,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 18,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 9,
+                "reaction": "😢",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🎉",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-17T18:58:53.067282"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5846913321358055405",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "2022-12-23 21:42:19.558989",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1671824304,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 67,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 634,
+              "offset": 68,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 7,
+              "offset": 707,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160"
+            },
+            {
+              "length": 16,
+              "offset": 723,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 743,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rumble.com/c/JustDudeChannel"
+            },
+            {
+              "length": 3,
+              "offset": 752,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/JustDudeChannel"
+            },
+            {
+              "length": 5,
+              "offset": 758,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/justdudechannel/?referrer=justdudechannel"
+            },
+            {
+              "length": 8,
+              "offset": 766,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/JustDudeChannel"
+            }
+          ],
+          "forwards": 33,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "channel_post": 26941,
+            "date": 1671822758,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ex-Google Boss Helps Fund Dozens Of Jobs In Biden’s Administration\n\nEric Schmidt, the former CEO of Google who has long sought influence over White House science policy, is helping to fund the salaries of more than two dozen officials in the Biden administration under the auspices of an outside group, the Federation of American Scientists.\n\nThe revelation of Schmidt’s role in funding the jobs, the extent of which has not been previously reported, adds to a picture of the tech mogul’s growing influence in the White House science office and in the administration – at a time when the federal government is looking closely at future technologies and potential regulations of Artificial Intelligence.\n\n🔗 ARTICLE\n\nFollow @JustDudeChannel 😎\nRumble | Gab | Minds | Telegram |",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 934252
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 4821,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5507848979305502276",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "2022-12-23 22:52:06.775434",
+          "channeltitle": "Patriot Party Connecticut",
+          "channelusername": "PatriotPartyCT",
+          "date": 1671824206,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 67,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 634,
+              "offset": 68,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 7,
+              "offset": 707,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160"
+            },
+            {
+              "length": 16,
+              "offset": 723,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 743,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rumble.com/c/JustDudeChannel"
+            },
+            {
+              "length": 3,
+              "offset": 752,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/JustDudeChannel"
+            },
+            {
+              "length": 5,
+              "offset": 758,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/justdudechannel/?referrer=justdudechannel"
+            },
+            {
+              "length": 8,
+              "offset": 766,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/JustDudeChannel"
+            }
+          ],
+          "forwards": 44,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "channel_post": 26941,
+            "date": 1671822758,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ex-Google Boss Helps Fund Dozens Of Jobs In Biden’s Administration\n\nEric Schmidt, the former CEO of Google who has long sought influence over White House science policy, is helping to fund the salaries of more than two dozen officials in the Biden administration under the auspices of an outside group, the Federation of American Scientists.\n\nThe revelation of Schmidt’s role in funding the jobs, the extent of which has not been previously reported, adds to a picture of the tech mogul’s growing influence in the White House science office and in the administration – at a time when the federal government is looking closely at future technologies and potential regulations of Artificial Intelligence.\n\n🔗 ARTICLE\n\nFollow @JustDudeChannel 😎\nRumble | Gab | Minds | Telegram |",
+          "peerid": {
+            "channel_id": 1282396023,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 54665
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 6011,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6407494381271526485",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "2022-12-23 22:35:25.710723",
+          "channelabout": "\"News is what somebody somewhere wants to suppress; all the rest is advertising.\"\n\nMerch:\n➔ TheBestPoliticalShirts.com\n➔ WeAreTheShirts.com\n\nMembers-only:\n➔ wearechange.org/donate\n➔ patreon.com/WeAreChange\n\nNewsletter:\n➔ bit.ly/3ijjAop",
+          "channeltitle": "We Are Change",
+          "channelusername": "News4AChange",
+          "date": 1671823908,
+          "editdate": 1671823912,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 67,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 634,
+              "offset": 68,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 7,
+              "offset": 707,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160"
+            },
+            {
+              "length": 16,
+              "offset": 723,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 743,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rumble.com/c/JustDudeChannel"
+            },
+            {
+              "length": 3,
+              "offset": 752,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/JustDudeChannel"
+            },
+            {
+              "length": 5,
+              "offset": 758,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/justdudechannel/?referrer=justdudechannel"
+            },
+            {
+              "length": 8,
+              "offset": 766,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/JustDudeChannel"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 26941,
+            "date": 1671822758,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ex-Google Boss Helps Fund Dozens Of Jobs In Biden’s Administration\n\nEric Schmidt, the former CEO of Google who has long sought influence over White House science policy, is helping to fund the salaries of more than two dozen officials in the Biden administration under the auspices of an outside group, the Federation of American Scientists.\n\nThe revelation of Schmidt’s role in funding the jobs, the extent of which has not been previously reported, adds to a picture of the tech mogul’s growing influence in the White House science office and in the administration – at a time when the federal government is looking closely at future technologies and potential regulations of Artificial Intelligence.\n\n🔗 ARTICLE\n\nFollow @JustDudeChannel 😎\nRumble | Gab | Minds | Telegram |",
+          "peerid": {
+            "channel_id": 1491861041,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1441385526,
+            "comments": true,
+            "max_id": 463717,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1690328059
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 843260
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 501,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5562338894382378371",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "1679060321",
+          "channelabout": "We are comprised of journalists and researchers united under the cause of free press and information access within independent media.",
+          "channeltitle": "G3 News",
+          "channelusername": "g3news",
+          "date": 1671825304,
+          "editdate": 1671862087,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 67,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 634,
+              "offset": 68,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 7,
+              "offset": 707,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160"
+            },
+            {
+              "length": 16,
+              "offset": 723,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 743,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rumble.com/c/JustDudeChannel"
+            },
+            {
+              "length": 3,
+              "offset": 752,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gab.com/JustDudeChannel"
+            },
+            {
+              "length": 5,
+              "offset": 758,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/justdudechannel/?referrer=justdudechannel"
+            },
+            {
+              "length": 8,
+              "offset": 766,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/JustDudeChannel"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 26941,
+            "date": 1671822758,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ex-Google Boss Helps Fund Dozens Of Jobs In Biden’s Administration\n\nEric Schmidt, the former CEO of Google who has long sought influence over White House science policy, is helping to fund the salaries of more than two dozen officials in the Biden administration under the auspices of an outside group, the Federation of American Scientists.\n\nThe revelation of Schmidt’s role in funding the jobs, the extent of which has not been previously reported, adds to a picture of the tech mogul’s growing influence in the White House science office and in the administration – at a time when the federal government is looking closely at future technologies and potential regulations of Artificial Intelligence.\n\n🔗 ARTICLE\n\nFollow @JustDudeChannel 😎\nRumble | Gab | Minds | Telegram |",
+          "peerid": {
+            "channel_id": 1295082945,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 587,
+          "id": 11651,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-17T13:38:41.196839",
+          "mediaref": "ca57fb228bec27fad85781816906b58828a463ed"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5962568484171893670",
+        "_score": 4.8864,
+        "_source": {
+          "archivedon": "1681164988",
+          "channelabout": "Raven Moonstone News",
+          "channeltitle": "Raven Moonstone News",
+          "channelusername": "ravenmoonstoneart",
+          "date": 1671768338,
+          "editdate": 1671842289,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 197,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 117,
+              "offset": 325,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 79,
+              "offset": 452,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 53,
+              "offset": 665,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 44,
+              "offset": 880,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://news.yahoo.com/sean-hannity-fox-news-employees-163026995.html?guccounter=1&guce_referrer=aHR0cHM6Ly9zZWFyY2guYnJhdmUuY29tLw&guce_referrer_sig=AQAAAISIGSp2uXba3BI0ZnnBx1x1mJObJvAnmtyMS-Sq1A9ha61JXEJ8ae90nxq6SdnULk0A96QMU8zryNq3krj5bVtWDkk06Yhw_UaBhafis6N9e4U-nuTVHn6RidH5xqO0brtPJzkmbnpK2GfHUVi9kwGevQt2m0Tk3f-DeGeWhhnF"
+            },
+            {
+              "length": 11,
+              "offset": 932,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 9,
+              "offset": 952,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2624,
+            "date": 1671734267,
+            "from_id": {
+              "channel_id": 1316415645,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Lisa B 4 Baadasssss",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🔅Defamation: Dominion Suing Fox for $1.6 Billion\n🔅Hannity & Fox Employees Deny Election Rigged\n🔅\"I do not believe it for a second\" - Hannity\n🔅Depositions For Dominion Lawsuit Against Fox\n\nSCUMBAG (?) 😟\n\nHannity wasn’t alone; according to Dominion’s lawyer Stephen Shackelford during the Delaware Superior Court hearing, “not a single Fox witness” produced anything supporting the claims made against Dominion during their news coverage, and other high-profile heads at the network shared Hannity’s disbelief about the rhetoric the network was pushing, such as prime-time programming head Meade Cooper and fellow host Tucker Carlson.\n\nAccording to Shackelford, Carlson “tried to squirm out of it at his deposition” when asked about his beliefs. Shackelford referred to text messages sent by the host between November and December 2020 before judge Eric M. David cut him off.\n\nHannity & Fox Employees Showing True Colours🔗\n\nTG: @EightQBall  🎱 TS: @8CueBall 🎱",
+          "peerid": {
+            "channel_id": 1388268658,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 900,
+          "id": 84902,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🤮",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-10T22:16:28.097848",
+          "mediaref": "8ac92021c40ae05645fd1988c7d380ac5ab03b24"
+        },
+        "_ignored": ["entities.url.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5986031576977246481",
+        "_score": 4.8864,
+        "_source": {
+          "archivedon": "1681230758",
+          "channelabout": "❗Donald Trump channel",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1671795925,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 46,
+              "offset": 36,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 83,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 11,
+              "offset": 103,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 121,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 136,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wnlL5MibZ9Y1Yjgy"
+            },
+            {
+              "length": 22,
+              "offset": 150,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+YSwehk-ZtfMxYzYy"
+            },
+            {
+              "length": 19,
+              "offset": 224,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 246,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+KRHHGIvx091jZDcy"
+            },
+            {
+              "length": 14,
+              "offset": 262,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 279,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+PmC9MeTUHCE2MDk6"
+            },
+            {
+              "length": 12,
+              "offset": 298,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 313,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+hh0uXUYzBw01YjVi"
+            },
+            {
+              "length": 21,
+              "offset": 328,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 351,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+O-qcfSyzeG9iMTYy"
+            },
+            {
+              "length": 9,
+              "offset": 374,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 386,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+9Vbg1gtxL6RlNzZi"
+            },
+            {
+              "length": 17,
+              "offset": 395,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 415,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+uS_iD6IWq4IyMTUy"
+            },
+            {
+              "length": 5,
+              "offset": 434,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 442,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+D_9LCuuyyP04ZTMx"
+            },
+            {
+              "length": 15,
+              "offset": 449,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 467,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+pl2K5Freu8hkM2Q0"
+            },
+            {
+              "length": 15,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 501,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Y1z5_ORUcUpjY2Ni"
+            },
+            {
+              "length": 22,
+              "offset": 517,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 542,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ej-OU77FSA1jN2Qy"
+            },
+            {
+              "length": 13,
+              "offset": 561,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 577,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+z2EX4bPqfeI3OGNi"
+            },
+            {
+              "length": 19,
+              "offset": 591,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 613,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+kwWkRCFZgihjYjNi"
+            },
+            {
+              "length": 12,
+              "offset": 637,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 652,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+n6eEyg6GW9I0OGMy"
+            },
+            {
+              "length": 13,
+              "offset": 670,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 686,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ESFBNKlZiTE0ZGEy"
+            },
+            {
+              "length": 19,
+              "offset": 706,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 727,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+qWDLMSQtiwowZjBi"
+            },
+            {
+              "length": 16,
+              "offset": 750,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 769,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+aWfzVLU2N1o5ODYy"
+            },
+            {
+              "length": 12,
+              "offset": 791,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 806,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+RSk2WWmC0OI1NTIy"
+            },
+            {
+              "length": 1,
+              "offset": 823,
+              "reformatted_key": "MessageEntitySpoiler"
+            },
+            {
+              "length": 14,
+              "offset": 824,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 841,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+lOAVSVhYfsM4ODJi"
+            },
+            {
+              "length": 14,
+              "offset": 862,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 879,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wWsv3boIYD1mNjQ6"
+            },
+            {
+              "length": 5,
+              "offset": 900,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 908,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+JYBv1jw6f281ZmZi"
+            },
+            {
+              "length": 18,
+              "offset": 920,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 941,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+A8LVv2ANkoliMTZi"
+            },
+            {
+              "length": 12,
+              "offset": 964,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 979,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+faAMh7DfYwg2ZTUy"
+            },
+            {
+              "length": 14,
+              "offset": 997,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1014,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+d-sfNIL_UjkzMGJi"
+            },
+            {
+              "length": 16,
+              "offset": 1034,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 1053,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Xzufy6umap8wZjJi"
+            },
+            {
+              "length": 9,
+              "offset": 1070,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 1080,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+f_pfhObH7xQ4OTM6"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49,
+            "date": 1661702742,
+            "from_id": {
+              "channel_id": 1274719254,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "‼️🇺🇸‼️SHARE‼️🇺🇸‼️SHARE‼️🇺🇸‼️\n\nBIG TECH WON’T SILENCE US - Join These Popular Conservative Voices on Telegram\n\n🇺🇸 Donald Trump — @Donald_Trump\n🇺🇸 Nesara (official) — @Nesara\n🇺🇸 Melania Trump — @Melania_Trump\n🇺🇸 White Hats (secret) — @White_Hats\n🇺🇸 General Flynn — @General_Flynn\n🇺🇸 Qanon (Q17) — @Qanon_Q17\n🇺🇸 Donald Trump (2024) — @Donald_Trump_2024\n🇺🇸 Mr. Pool — @Mr_Pool\n🇺🇸 Ivanka Trump — @Ivanka_Trump\n🇺🇸 Qanon — @Qanon\n🇺🇸 Eric Trump — @Eric_Trump\n🇺🇸 Trump War Room — @Trump_War_Room\n🇺🇸 TAKE BACK AMERICA — @TAKE_BACK_AMERICA\n🇺🇸 Lin Wood — @Lin_Wood\n🇺🇸 The anti-globalist — @The_anti_globalist\n🇺🇸 Dan Scavino — @Dan_Scavino\n🇺🇸 Nesara Gesara — @Nesara_Gesara\n🇺🇸 Donald Trump (Q17) — @Donald_Trump_Q17\n🇺🇸 American Patriot — @American_Patriot\n🇺🇸 John Durham — @John_Durham\n🇺🇸 Michael Pompeo — @Michael_Pompeo\n🇺🇸 Michael Yeadon — @Michael_Yeadon\n🇺🇸 Q-Tip - @Q_Tip\n🇺🇸 Ivanka Trump (Fan) - @Ivanka_Trump_Fan\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Pepe the Frog - @Pepe_the_Frog\n🇺🇸 White Hats (Q17) - @White_Hats_Q17\n\nSee More: http://t.me/ConservativesOnTelegram/183",
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 88,
+          "id": 2321,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-11T16:32:38.776074"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5811551549939810760",
+        "_score": 2.6719,
+        "_source": {
+          "archivedon": "2022-12-23 18:04:51.564719",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1671818679,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1671817611,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1926801217
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Präsident Donald J. Trump schien am Donnerstagmorgen nicht überrascht zu sein, als General David H. Berger ihn über den neuesten Fund des Weißen Huts informierte – ein Klonlabor des Deep State in den Ozarks, sagte eine Quelle im Büro des Generals gegenüber Real Raw News.\n\n„Warum bin ich nicht überrascht, dass es so etwas gibt? Sie [der Deep State] haben alles im Griff“, sagte Trump Berichten zufolge zu General Berger.\n\nDer General, sagte unsere Quelle, fragte, ob Präsident Trump über das Klonen von Menschen Bescheid wüsste, und wenn ja, warum er keine Informationen weitergegeben habe, die einen großen Einfluss darauf gehabt hätten, wie White Hats Deep State-Verhaftungen durchgeführt hätten. Er drückte seine Besorgnis darüber aus, dass seine Männer, seine Marines, die letzten Jahre damit verbracht haben könnten, Klone statt der ursprünglichen Artikel zu bekämpfen und festzunehmen.\n\nWährend Trump zugab, dass Papiere „seinen Schreibtisch überquert“ hatten, spielte er die Schwere kurz herunter und sagte, er habe keinen Beweis für eine erfolgreiche Klonoperation gesehen und die Kosten für ein solches Programm seien so unerschwinglich, dass der Deep State nur einen aufstellen könne endlich viele Klone. Wenn andere Klonlabors existierten, sagte Trump, seien sie sicherlich zahlenmäßig begrenzt und den wichtigsten Akteuren des Deep State vorbehalten – nicht weit verbreitet. Nichtsdestotrotz sagte er, der General und sein Nachfolger, Marine Corps General Eric M. Smith, sollten die verfügbaren Ressourcen einsetzen, um zu lernen, ob zusätzliche Labors im ganzen Land verstreut und zerstört würden.\n\n„Sir, wenn der Deep State nur seine Königszapfen klont, warum dann Gretchen Whitmer? Fauci und Biden bekomme ich, aber Whitmer“, fragte General Berger.\n\n„Sie ist eine hässliche Person“, sagte Trump, „und war eine der wichtigsten Vollstreckerinnen des Lockdowns. Wir wissen nicht, welche Pläne sie mit ihr haben.“\n\nDer General informierte Trump dann darüber, dass die Fauci- und Biden-Exemplare zur Womack Army Medical Facility in Fort Bragg verschifft worden seien, wo klinische Pathologen und Genetiker die Klone auf genetische Fehler untersuchen würden, die sie von der Realität unterscheiden könnten.\n\n„Herr, ist es das wert? Ich meine, vorausgesetzt, sie sind da draußen im Amt, lohnt es sich, sie zu verfolgen, bis wir sicher sind, dass wir echte Deep Stater und keine Klone aufgreifen?“ fragte General Berger.\n\nTrump sagte, es sei genauso wichtig, die Welt von Klonen zu befreien, wie sie von den echten Deep Statern zu befreien.\n\n„Wir werden uns bemühen, unser Bestes zu geben, Mr. President“, sagte der General und beendete den Anruf.\n\nAbschließend sagte unsere Quelle noch einmal, dass die Enthüllung des Klons General Berger umgehauen hat.\n\n„Der General ist Christ. Er nannte das Klonen einen Affront gegen die Republik und gegen Gott“, sagte unsere Quelle.",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

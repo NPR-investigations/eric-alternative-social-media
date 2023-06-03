@@ -1,0 +1,3205 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [54],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [29],
+      "relation": ["eq"]
+    },
+    "max_score": [11.8676],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232019520",
+        "_score": 11.8676,
+        "_source": {
+          "archivedon": "2022-03-05 19:39:13.8897",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1641529506,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1556667101
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Excellent interview.  Eric had good questions.",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 72831
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1556667101,
+            "_media_ref": "9151fbb7a2809f672d70a52eec6873bb41b1e7b7",
+            "_v": 1,
+            "access_hash": 7.93384721748977e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Samantha",
+            "id": 1556667101,
+            "is_self": false,
+            "last_name": "🇺🇸 💫",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 171865,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038900051
+              },
+              "photo_id": 4.98598329192452e+18,
+              "photo_small": {
+                "local_id": 171863,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038900051
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Olenna_GOT",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5088703597630206885",
+        "_score": 10.9701,
+        "_source": {
+          "archivedon": "1679940903",
+          "channeltitle": "SSGQ Channel",
+          "channelusername": "SSG_Cue",
+          "date": 1641590883,
+          "editdate": 1641590887,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6781,
+            "date": 1641590692,
+            "from_id": {
+              "channel_id": 1390659157,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Pepe Lives Matter",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Who would beat Eric Fartswell in a fight?\nWrong answers encouraged.",
+          "peerid": {
+            "channel_id": 1184806134,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "SSGQ ⭐⭐⭐",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1424515640,
+            "comments": true,
+            "max_id": 23798,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1637923614
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1559233354
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1087320502
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 33,
+            "replies_pts": 321246
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 985,
+          "channelabout": "",
+          "id": 13221,
+          "noforwards": false,
+          "lastseents": "2023-03-27T18:15:04.311358"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120518",
+        "_score": 10.8081,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.726522",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641577858,
+          "editdate": 1641580477,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 59,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Children need to be in school,\" says NY Mayor Eric Adams.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1301,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6086674381688464092",
+        "_score": 9.3208,
+        "_source": {
+          "archivedon": "2022-01-09 20:21:59.752603",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1641535681,
+          "editdate": 1641535689,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 31283,
+            "date": 1641534006,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Newly sworn-in New York City Mayor Eric Adams is already using his influence to speak publicly about buying the recent Bitcoin dip.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 373,
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120508",
+        "_score": 9.2077,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.717778",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641522362,
+          "editdate": 1641697920,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 132,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Newly sworn-in New York City Mayor Eric Adams is already using his influence to speak publicly about buying the recent Bitcoin dip.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 29628,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1108400295
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1281,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232019702",
+        "_score": 8.6852,
+        "_source": {
+          "archivedon": "2022-03-05 19:39:12.654451",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1641566456,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1599847589
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Missouri AG Eric Schmidt will be there fighting this case. I am a Missouri resident and I’m proud he is representing us. I will be praying for his success.",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 73409
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1599847589,
+            "_media_ref": "98c7d516e437303158f3a7ab5b325fc8b30ab84b",
+            "_v": 1,
+            "access_hash": -8.21376356351419e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "All American Girl 1776",
+            "id": 1599847589,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 312567,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100839
+              },
+              "photo_id": 4.92055232132321e+18,
+              "photo_small": {
+                "local_id": 312565,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100839
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "All_American_Girl_1776",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595165123",
+        "_score": 8.5886,
+        "_source": {
+          "archivedon": "2022-01-09 22:05:23.872194",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641557576,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1540707697
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Schneiderman NY A G from 2011 to His resignation in 2018…..\nLooks on w “shifting Eyes…. “ He’s knee deep in NXIVM and the Corrupt SDNY…………\nEXPOSED? Showtime! 1/7",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1467409
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1540707697,
+            "_media_ref": "054832fe9e533b2ab9b8575bbdb93ec3ccd31353",
+            "_v": 1,
+            "access_hash": 3.64809651839342e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Eddie",
+            "id": 1540707697,
+            "is_self": false,
+            "last_name": "Phillip2",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 75766,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100058300668
+              },
+              "photo_id": 5.17031706056626e+18,
+              "photo_small": {
+                "local_id": 75764,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100058300668
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "EddiePhillip2",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5861508457747756385",
+        "_score": 8.1398,
+        "_source": {
+          "archivedon": "2022-01-09 20:11:26.875413",
+          "channeltitle": "INTO THE LIGHT 💫 ÜBERBLICK & NEWS",
+          "channelusername": "INTO_THE_LIGHT_NEWS",
+          "date": 1641517961,
+          "editdate": 1641520405,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 2,
+              "offset": 47,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 13,
+              "offset": 183,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 49,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 53336,
+            "date": 1641517909,
+            "from_id": {
+              "channel_id": 1256729953,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric D. Kirk als John Durham vor 7 Stunden auf YT hochgeladen\n\nHab es mit einem Deutschen Untertitel versehen, damit ihr mir sagen könnt was ihr davon haltet meine Lieben anons 😜😁\n\nt.me/FGNews07",
+          "peerid": {
+            "channel_id": 1364738787,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1284445949,
+            "comments": true,
+            "max_id": 4143109,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1949829989
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 5455064
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5649,
+          "channelabout": "UPDATES ZUM GREAT AWAKENING 💫\n\nDamit Ihr alle locker bleibt, den Überblick behaltet und die Show so richtig genießen könnt 🍿❤️🥰🦋🐝\n\nBei Fragen könnt Ihr mich gerne über diesen Bot kontaktieren:\n\n@intoTheLight_bot 🤖"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5397614048038670424",
+        "_score": 8.1398,
+        "_source": {
+          "archivedon": "2022-01-09 21:52:56.622706",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A",
+          "date": 1641517909,
+          "editdate": 1641517913,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 2,
+              "offset": 47,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 13,
+              "offset": 183,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 186,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric D. Kirk als John Durham vor 7 Stunden auf YT hochgeladen\n\nHab es mit einem Deutschen Untertitel versehen, damit ihr mir sagen könnt was ihr davon haltet meine Lieben anons 😜😁\n\nt.me/FGNews07",
+          "peerid": {
+            "channel_id": 1256729953,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1451671597,
+            "comments": true,
+            "max_id": 781635,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1040023969
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 209007746
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1325190535
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 34,
+            "replies_pts": 972461
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 17638,
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News."
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5283167231323311156",
+        "_score": 8.1398,
+        "_source": {
+          "archivedon": "2022-01-09 21:46:30.730896",
+          "channeltitle": "Q ANONYMOUS KANAL DEUTSCHLAND",
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "date": 1641590107,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 2,
+              "offset": 47,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Kmv_I7S3ZYk"
+            },
+            {
+              "length": 13,
+              "offset": 183,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 53336,
+            "date": 1641517909,
+            "from_id": {
+              "channel_id": 1256729953,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric D. Kirk als John Durham vor 7 Stunden auf YT hochgeladen\n\nHab es mit einem Deutschen Untertitel versehen, damit ihr mir sagen könnt was ihr davon haltet meine Lieben anons 😜😁\n\nt.me/FGNews07",
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1618,
+          "channelabout": "Lichtkrieger Modus...\nAnon's Netzwerk-DE/Worldwide \nQ-Anon's kontakt kanal\nVon hier wirst du weitergeleitet.\nEinfach beitreten zum Kanal.\nOder informiere dich hier über unzensierte Meldungen aus der ganzen Welt .\nWWG1WGA\n✌️"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5354447101273208373",
+        "_score": 8.0563,
+        "_source": {
+          "archivedon": "2022-01-09 21:12:22.872939",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1641522434,
+          "editdate": 1641522437,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 126,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 174,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 195,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 210,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 230,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 249,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.thegatewaypundit.com/2022/01/democrat-rep-eric-swalwell-follows-aocs-lead-vacations-maskless-mandate-free-florida/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 425010
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 137,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6086674381688464093",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-01-09 20:21:59.752904",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1641535681,
+          "editdate": 1641535689,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 31284,
+            "date": 1641534037,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "New York City subways will soon see a larger police presence as crime in the nation’s largest city continues to be a significant issue for residents. Mayor Eric Adams and Gov. Kathy Hochul announced the increase today in a press conference.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 374,
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120507",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.71605",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641521465,
+          "editdate": 1641521983,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 241,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "New York City subways will soon see a larger police presence as crime in the nation’s largest city continues to be a significant issue for residents. Mayor Eric Adams and Gov. Kathy Hochul announced the increase today in a press conference.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1256,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5626892669453130953",
+        "_score": 5.52,
+        "_source": {
+          "archivedon": "2022-08-02 03:31:27.627225",
+          "channeltitle": "Candace Owens Supporters",
+          "channelusername": "candaceowenssupporterss",
+          "date": 1641527343,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1681256152
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The entire narrative of protesters storming the Capitol to support Trump falls flat, O’Reilly told host Eric Bolling, insisting this is just part of a Democrat-spawned story of an alleged insurrection.\n\n“It’s obvious to anybody that the left doesn’t want any kind of accountability for what they do,” O’Reilly said. “Yet they demand that any mistake on the right — and certainly this was a huge mistake, invading the Capitol. And anybody who thinks it wasn’t doesn’t really understand life, doesn’t understand the United States.",
+          "peerid": {
+            "channel_id": 1310113042,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 56515
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "channelabout": "This is un-official support page for Candace Owens, please join as we share daily news on what's happening."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5396969820124157026",
+        "_score": 4.9312,
+        "_source": {
+          "archivedon": "2022-01-09 21:52:58.391479",
+          "channeltitle": "Pie n Mash Squad",
+          "channelusername": "squadsquadsquad5w",
+          "date": 1641544497,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 103,
+              "offset": 606,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Destroying things we disagree with isn't \"being on the right side of history\". That's a whole load of SJW nonsense. The right-wing staunchly opposes the Marxist terrorist Nelson Mandela statue, the murderous Karl Marx monument & the paedo Eric Gill BBC statue but haven't torn them down & chucked them in the nearest water source. If anyone on the right did they'd have been jailed for it already. When \"Lady Justice\" no longer wears her trademark blindfold & instead is politically partial we are in dark times. Freedom of speech & freedom of expression only exist for state approved protesters nowadays.\nhttps://www.dailymail.co.uk/news/article-10377203/Colston-statue-trial-judge-worried-pressure-jury.html",
+          "peerid": {
+            "channel_id": 1256579957,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 61,
+          "channelabout": "Right wing image and news sharing channel No white guilt here. Whites will be a minority in the UK by 2066 unless things change radically 5w 14w"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565135",
+        "_score": 4.7767,
+        "_source": {
+          "archivedon": "1681296661",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641599688,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 171,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            },
+            {
+              "length": 19,
+              "offset": 187,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26BA"
+            },
+            {
+              "length": 17,
+              "offset": 206,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/Cookiepuss1776"
+            },
+            {
+              "length": 17,
+              "offset": 223,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G29H3"
+            },
+            {
+              "length": 64,
+              "offset": 240,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Stephen?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Stephen"
+            },
+            {
+              "length": 25,
+              "offset": 304,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BP"
+            },
+            {
+              "length": 10,
+              "offset": 329,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25RS"
+            },
+            {
+              "length": 14,
+              "offset": 339,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26A1"
+            },
+            {
+              "length": 22,
+              "offset": 356,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G22ZH"
+            },
+            {
+              "length": 14,
+              "offset": 381,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/j6patriotrelief"
+            },
+            {
+              "length": 12,
+              "offset": 398,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/CouyGriffin"
+            },
+            {
+              "length": 16,
+              "offset": 413,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Derekkinnison"
+            },
+            {
+              "length": 13,
+              "offset": 429,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25QN"
+            },
+            {
+              "length": 17,
+              "offset": 442,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25MM"
+            },
+            {
+              "length": 12,
+              "offset": 459,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://fundly.com/stand-4-paul#gallery/3"
+            },
+            {
+              "length": 36,
+              "offset": 474,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/freejake"
+            },
+            {
+              "length": 10,
+              "offset": 513,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Freekyle"
+            },
+            {
+              "length": 19,
+              "offset": 526,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PQ"
+            },
+            {
+              "length": 19,
+              "offset": 548,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helpjackwhitton"
+            },
+            {
+              "length": 11,
+              "offset": 570,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25YQ"
+            },
+            {
+              "length": 25,
+              "offset": 584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G253Q"
+            },
+            {
+              "length": 12,
+              "offset": 612,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G26SJ"
+            },
+            {
+              "length": 11,
+              "offset": 627,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23DE"
+            },
+            {
+              "length": 19,
+              "offset": 641,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PY"
+            },
+            {
+              "length": 14,
+              "offset": 663,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26FY"
+            },
+            {
+              "length": 12,
+              "offset": 680,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PX"
+            },
+            {
+              "length": 15,
+              "offset": 695,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/savejuliankhater"
+            },
+            {
+              "length": 14,
+              "offset": 710,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26NF"
+            },
+            {
+              "length": 13,
+              "offset": 724,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G238Q"
+            },
+            {
+              "length": 13,
+              "offset": 740,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/ShaneJanuary6th"
+            },
+            {
+              "length": 14,
+              "offset": 756,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://donorbox.org/daniel-in-the-lions-den"
+            },
+            {
+              "length": 15,
+              "offset": 773,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PatriotPaul"
+            },
+            {
+              "length": 17,
+              "offset": 788,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Pezzola"
+            },
+            {
+              "length": 10,
+              "offset": 805,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G268D"
+            },
+            {
+              "length": 15,
+              "offset": 831,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26UT"
+            },
+            {
+              "length": 12,
+              "offset": 857,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2494"
+            },
+            {
+              "length": 16,
+              "offset": 882,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/defendingwilliam"
+            },
+            {
+              "length": 11,
+              "offset": 935,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.ourfreedomfunding.com/campaign/78/joe-biggs-still-needs-your-help"
+            },
+            {
+              "length": 16,
+              "offset": 946,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23RK"
+            },
+            {
+              "length": 15,
+              "offset": 962,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BV"
+            },
+            {
+              "length": 17,
+              "offset": 977,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/StoptheSmear"
+            },
+            {
+              "length": 13,
+              "offset": 994,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/dresch"
+            },
+            {
+              "length": 13,
+              "offset": 1007,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2783"
+            },
+            {
+              "length": 17,
+              "offset": 1020,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/witzemannfamilyfund"
+            },
+            {
+              "length": 15,
+              "offset": 1037,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G272Y"
+            },
+            {
+              "length": 17,
+              "offset": 1052,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/bigobarnett"
+            },
+            {
+              "length": 16,
+              "offset": 1069,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FeliciaK"
+            },
+            {
+              "length": 13,
+              "offset": 1085,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://citizensapp.us/products/cory-konold-fundraiser"
+            },
+            {
+              "length": 19,
+              "offset": 1115,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G282V"
+            },
+            {
+              "length": 28,
+              "offset": 1134,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/pianonlegalfees"
+            },
+            {
+              "length": 12,
+              "offset": 1162,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Kevintuck"
+            },
+            {
+              "length": 25,
+              "offset": 1190,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justiceforj6jonny.com/"
+            },
+            {
+              "length": 15,
+              "offset": 1215,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G28YK"
+            },
+            {
+              "length": 18,
+              "offset": 1248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26WP"
+            },
+            {
+              "length": 18,
+              "offset": 1266,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/KristinaMalimon"
+            },
+            {
+              "length": 28,
+              "offset": 1284,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24BK"
+            },
+            {
+              "length": 16,
+              "offset": 1312,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2AZY"
+            },
+            {
+              "length": 15,
+              "offset": 1344,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/hopeforahero"
+            },
+            {
+              "length": 14,
+              "offset": 1359,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G262A"
+            },
+            {
+              "length": 16,
+              "offset": 1373,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/BlessLonnie"
+            },
+            {
+              "length": 15,
+              "offset": 1389,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24F5"
+            },
+            {
+              "length": 16,
+              "offset": 1404,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Justice4Alex?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Justice4Alex"
+            },
+            {
+              "length": 12,
+              "offset": 1420,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeBrianMock"
+            },
+            {
+              "length": 14,
+              "offset": 1432,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/LegoMan"
+            },
+            {
+              "length": 12,
+              "offset": 1446,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/KandE"
+            },
+            {
+              "length": 15,
+              "offset": 1498,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G29WR"
+            },
+            {
+              "length": 15,
+              "offset": 1529,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/mcabee"
+            },
+            {
+              "length": 13,
+              "offset": 1544,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/SandyWeyerJan6Patriot"
+            },
+            {
+              "length": 20,
+              "offset": 1631,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FJH"
+            },
+            {
+              "length": 16,
+              "offset": 1651,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/supportj6family"
+            },
+            {
+              "length": 31,
+              "offset": 1672,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "J6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture and fighting strongly for Liberty and Justice for all of us!\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+              "display_url": "t.me/ThePrisonersRecord/1268",
+              "document": {
+                "access_hash": 8.93624683006672e+16,
+                "attributes": [
+                  {
+                    "duration": 117,
+                    "reformatted_key": "DocumentAttributeAudio",
+                    "voice": false
+                  },
+                  {
+                    "reformatted_key": "DocumentAttributeFilename",
+                    "file_name": "J6 Anthem.ogg"
+                  }
+                ],
+                "date": 1640460927,
+                "dc_id": 1,
+                "file_reference": "AGQ2hhAOE7ZxIEoq+4dMVBInVkUT",
+                "id": 5.06006168479885e+18,
+                "mime_type": "audio/x-opus+ogg",
+                "reformatted_key": "Document",
+                "size": 707317,
+                "thumbs": [],
+                "video_thumbs": []
+              },
+              "hash": 0,
+              "id": 9.17079312132608e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "The Prisoner's Record",
+              "type": "document",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            }
+          },
+          "message": "01.07.2022\n\nSpanish prayers—7:30PM Eastern\n\nEnglish prayers—8:30PM Eastern\n\nJ6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture: 🔗🎤Play Link\n\n\nJoseph Hutchinson\n\nMatthew Council\n\nJessica Watkins\n\n Aaron James\n\n Jonah Westbury\n\nIsaac Westbury\n\nRobert Westbury\n\nChris and Cynthia Price\n\nRon Mele\n\nJoseph Hackett \n\nSgt. Kenneth Harrelson \n\nScott Fairlamb \n\nCouy Griffin \n\nDerek Kinnison\n\nErik Warner\n\nFelipe Martinez\n\nPaul Johnson \n\nJake Angeli (Jacob Anthony Chansley) \n\nKyle Young \n\nChristopher Worrell \n\nJack (Wade) Whitton \n\nMichael Foy \n\nRobert Bashlor (Gieswein) \n\nJames McGrew \n\nGuy Reffitt \n\nJoseph Lino Padilla \n\nDouglas Jensen \n\nPeter Stager \n\nJulian Khater\n\nRyan Nichols\n\nGeorge Tanios \n\nShane Jenkins \n\nDaniel Goodwyn \n\nPaul Hodgkins\n\nDominic Pezzola\n\nTim Hale\n\nJennifer Heinl\n\nJon Mott\n\nTraci Sunstrum\n\nDavid Judd\n\nLuke Coffee\n\nWilliam Isaacs\n\nSteve Quick\n\nMike Quick\n\nZac Martin\n\nJoe Biggs\n\nVictoria White\n\nDaniel Warmus\n\nKyle Fitzsimons\n\nKarl Dresch\n\nIsaac Yoder\n\nShawn Witzemann\n\nThomas Sibick\n\nRichard Barnett\n\nFelicia Konold\n\nCory Konold\n\nCharles Donohoe\n\nRasha Abualragheb\n\nKenneth Joseph Owen Thomas\n\nKevin Tuck\n\nEnrique Tarrio\n\nJonathan Gennaro Mellis\n\nAndrew C. Taake  \n\nJustin Stoll\n\nAlbuquerque Head\n\nKristina Malimon\n\nChristopher Joseph Quaglin\n\nThomas Ballard\n\nJeff McKellops\n\nChris Alberts\n\nTimothy Hart\n\nLonnie Coffman\n\nSteve Rosatti\n\nAlex Harkrider\n\nBrian Mock\n\nRobert Morss\n\nKash Kelly\n\nSara Carpenter\n\nJenna Ryan\n\nJacob Lang\n\nJeffrey Brown\n\nGina Bisignano\n\nRonald McAbee\n\nSandy Weyer\n\nLisa Eisenhart\n\nEric Munchel\n\nEthan Nordean\n\nPauline Bauer\n\nLucas Denney\n\nEric D. Clark (KY)\n\nMarshall Neefe\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2886,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1423,
+          "noforwards": false,
+          "lastseents": "2023-04-12T10:51:02.057551"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5966960951520480497",
+        "_score": 4.5602,
+        "_source": {
+          "archivedon": "2022-01-09 22:08:43.640825",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1641581827,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 678,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1671253656
+          },
+          "fwdfrom": {
+            "channel_post": 5869,
+            "date": 1641555526,
+            "from_id": {
+              "channel_id": 1477509146,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Leslie Maj",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ICYMI:\n\nGreen Bay Mayor Genrich seeks sanctions against Gableman:\n\nEric Genrich has asked a Waukesha County judge to sanction Michael Gableman over the former justice’s effort to have the Green Bay mayor detained unless he sits for a deposition at a private office in Brookfield.\n\nAmong other things, Genrich wants Gableman to take out full-page newspaper ads to offer a public apology on the former justice’s charge that the mayor had violated his lawful obligation to provide testimony in the review of the 2020 election. Genrich also wants Gableman and the attorneys in his office to undergo at least three hours of ethics training and for the former justice to pay a fine.\n\nhttps://www.wispolitics.com/2022/green-bay-mayor-genrich-seeks-sanctions-against-gableman/",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 85240,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 140515
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1671253656,
+            "_v": 1,
+            "access_hash": 6.21176129562175e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "ID4TRUTH",
+            "id": 1671253656,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 189633,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100061900470
+              },
+              "photo_id": 5.1548524810612e+18,
+              "photo_small": {
+                "local_id": 189631,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100061900470
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ID4truth",
+            "verified": false
+          },
+          "v": 1,
+          "views": 485,
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595166187",
+        "_score": 4.3998,
+        "_source": {
+          "archivedon": "2022-01-09 22:05:25.828823",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641568137,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 77,
+              "offset": 582,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1441798365
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I think I found the article that has this guy all worried about pogo and zephyr - It smells like a load of BS, referencing \"inside sources\" and \"secret memos\" but no actual sources or memos shared. It starts with lots of complaining about people waking up to the evil of Zionism and then this \"source\" warning us about these plans to track and kill millions of Americans who know too much...and all this info was put out by some dude named Goldberg? \n\n Lol yeah smells legit alright- a legit load of crap. See for yourself, it's pretty funny that people are falling for this stuff: http://www.hugequestions.com/Eric/David-Goldberg-Projects-Pogo-and-Zyphr.html\n\nI'm guessing this scare porn came from the zog - another desperate attempt to scare people into submission...",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 989966,
+            "reply_to_top_id": 989893
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1441798365,
+            "_v": 1,
+            "access_hash": 2.89928824163837e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "habibi",
+            "id": 1441798365,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 249717,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017500969
+              },
+              "photo_id": 4.9406703132099e+18,
+              "photo_small": {
+                "local_id": 249715,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017500969
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6805392310625392550",
+        "_score": 4.2532,
+        "_source": {
+          "archivedon": "1682794927",
+          "channeltitle": "Gesunder Verstand",
+          "channelusername": "gesunder_verstand",
+          "date": 1641573136,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 74,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 262,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 196,
+              "offset": 713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 909,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-lieferengpaesse-materialmangel-101.html"
+            },
+            {
+              "length": 36,
+              "offset": 922,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/gesundohnemedikamente"
+            },
+            {
+              "length": 36,
+              "offset": 922,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1538718369
+          },
+          "fwdfrom": {
+            "channel_post": 6496,
+            "date": 1641573133,
+            "from_id": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 6496,
+            "saved_from_peer": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Seit Monaten kennen die Preise nur eine Richtung - nach oben. Daran wird sich auch im neuen Jahr wenig ändern. Vor allem Lieferengpässe dürften die Inflation auch 2022 antreiben. Von Steffen Clement.",
+              "display_url": "tagesschau.de/wirtschaft/finanzen/inflation-lieferengpaesse-materialmangel-101.html",
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "hash": 0,
+              "id": 5.44117142508811e+18,
+              "photo": {
+                "access_hash": 8.8319271011459e+18,
+                "date": 1624455717,
+                "dc_id": 4,
+                "file_reference": "AGRNaaomMUoKvYvvrXLN+d9wEyGY",
+                "has_stickers": false,
+                "id": 5.95268433895081e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcop2xCgiVST75q4sFtKcHIz23cVXjiMjNsX5A2OvNA8zGCoOOxHIqeptf3bXJYIUtpz+8LE8AipC0nnBFcFm6VXXflt424XPpRbs5vIpMZUAgn86e5m9C+k0wf95GRjg8UUCfn8aKOVC1IYY1ErMOQcEL0xxU23c+9cKB+tFFKxTHhVlyHAJxz6Vm3qCJ1QDGBnI70UUuo47i2oMcZdmyrD7tFFFUDPw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 17125,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 65013,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 135332,
+                    "w": 1280,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "w",
+                    "h": 1080,
+                    "w": 1920,
+                    "sizes": [35180, 75413, 88382, 126936, 239618]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "tagesschau",
+              "title": "Warum die Preise 2022 weiter steigen",
+              "type": "photo",
+              "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-lieferengpaesse-materialmangel-101.html"
+            }
+          },
+          "message": "Inflation und Lieferengpässe: Warum die Preise 2022 weiter steigen      \n\n▶️ Seit Monaten kennen die Preise nur eine Richtung - nach oben. Daran wird sich auch im neuen Jahr wenig ändern. Vor allem Lieferengpässe dürften die Inflation auch 2022 antreiben.     \n\nViele Faktoren treiben die Preise\n\nDamit ist der Hamburger Designer typisch für die deutschen Unternehmen. Rund zwei Drittel aller Firmen beispielsweise im Einzelhandel wollen in Zukunft ihre Preise erhöhen. Einen höheren Wert hat das Münchner ifo-Institut seit Umfragebeginn vor 30 Jahren noch nie ermittelt. Darüber wundert sich Volkswirt Eric Heymann von Deutsche Bank Research nicht, wenn Rohstoffe und Transportkapazitäten weltweit knapp sind. \n\n\"Dann steigen auch die Preise für Unternehmen über die gesamte Wertschöpfungskette\", so der Volkswirt. \"Hier sehen wir in allen Preisstatistiken so hohe Anstiege wie seit Jahrzehnten nicht.\"    \n\n📍Quelle\n\n👉 Folge hier deinem Weg der Gesundheit",
+          "peerid": {
+            "channel_id": 1584503872,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 115301
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 241,
+          "channelabout": "Zu viele Menschen lassen sich von Medien und anderen Einflüssen ihren Verstand rauben 🤡😷\n\nMit unserem Kanal sorgen wir dafür, dass damit für alle hier ansiedelnden Mitglieder Schluss damit ist 🤜",
+          "id": 22438,
+          "noforwards": false,
+          "lastseents": "2023-04-29T19:02:07.860933",
+          "collected_by": "crawler",
+          "url": "t.me/gesunder_verstand/22438"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5298146157401222766",
+        "_score": 3.7747,
+        "_source": {
+          "archivedon": "2022-01-09 21:47:16.296038",
+          "channeltitle": "counter left uncensored",
+          "channelusername": "CLuncensored",
+          "date": 1641543266,
+          "editdate": 1641543567,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Perhaps it's trashy and even hypocritical of me to say I want to see Striker killed by a nigger, but objectively it would be of benefit to the white race and humanity in general. \n\nIt shouldn't be controversial to say this, but some white people are violent, evil bigots whom we should disavow and disown. This killing in NC certainly seems to fit the bill.  The Jews use incidents like this to paint all whites and especially WNs as evil. And wignat subhumans like Striker come along and do everything in their power to confirm the worst stereotypes of white people and WNs that Jews/nigs/shitlibs have.  \n\nSo I will retract my earlier spicy wish, but it won't change the utterly undeniable fact that Eric Striker is a major liability for our movement and he should be fully ostracized.\n\nAnd before anyone points out that the antiwhite left doesn't disavow their worst elements, well, they don't need to. That's because they have power.  Optics aren't everything but they certainly are something.",
+          "peerid": {
+            "channel_id": 1233570780,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ανδρέας (AJ) اندرو جوسف",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1416016295,
+            "comments": true,
+            "max_id": 24813,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 729181532
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 984701073
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 8,
+            "replies_pts": 39258
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 144,
+          "channelabout": "Israeli Alliance Fan Club"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5823214795624598340",
+        "_score": 3.2731,
+        "_source": {
+          "archivedon": "2022-01-09 20:07:29.388748",
+          "channeltitle": "Schuberts Lagemeldung - Stefan Schubert Offiziell",
+          "channelusername": "SchubertsLM",
+          "date": 1641542098,
+          "editdate": 1641542144,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 95,
+              "offset": 1461,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 24,
+              "offset": 1601,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Inflation und Lieferengpässe\nWarum die Preise 2022 weiter steigen      \n\nSeit Monaten kennen die Preise nur eine Richtung - nach oben. Daran wird sich auch im neuen Jahr wenig ändern. Vor allem Lieferengpässe dürften die Inflation auch 2022 antreiben.     \n\nEs ist nur ein Windlicht. Doch am Modell \"Louisiana XXL\" der Firma Philippi-Design vor den Toren Hamburgs zeigt sich beispielhaft, warum die Preise im Laden auch in Zukunft steigen werden. Die Produktionskosten in China sind um 16 Prozent gestiegen, die Transportkosten nach Deutschland haben sich vervierfacht. \n\nAuf diesen Grundpreis kommen jeweils noch die Aufschläge: Die Marge für die Marke, den Handel und den Staat mit der Mehrwertsteuer.\nDie Folge: Am Ende kostet das Windlicht nicht mehr 99 Euro wie bisher, sondern seit Januar stolze 189 Euro. \n\nViele Faktoren treiben die Preise\n\nDamit ist der Hamburger Designer typisch für die deutschen Unternehmen. Rund zwei Drittel aller Firmen beispielsweise im Einzelhandel wollen in Zukunft ihre Preise erhöhen. Einen höheren Wert hat das Münchner ifo-Institut seit Umfragebeginn vor 30 Jahren noch nie ermittelt. Darüber wundert sich Volkswirt Eric Heymann von Deutsche Bank Research nicht, wenn Rohstoffe und Transportkapazitäten weltweit knapp sind. \n\n\"Dann steigen auch die Preise für Unternehmen über die gesamte Wertschöpfungskette\", so der Volkswirt. \"Hier sehen wir in allen Preisstatistiken so hohe Anstiege wie seit Jahrzehnten nicht.\"    \n\nhttps://www.tagesschau.de/wirtschaft/finanzen/inflation-lieferengpaesse-materialmangel-101.html    \n\nBitte abonniert Schuberts Lagemeldung: https://t.me/SchubertsLM",
+          "peerid": {
+            "channel_id": 1355822849,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3921,
+          "channelabout": "Täglich aktuelle Meldungen von Bestseller-Autor und Sicherheitsexperte Stefan Schubert"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6960366189637803012",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "2022-06-27 00:25:41.044978",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1641518297,
+          "edithide": false,
+          "entities": [],
+          "forwards": 89,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1253023982
+          },
+          "fwdfrom": {
+            "channel_post": 1395,
+            "date": 1641469579,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Kene Lazo  Virginia  Charged  2021-05-28\nGeoffrey Sills  Virginia  Indicted  2021-06-16\nFi Duong  Virginia  Indicted  2021-06-30\nJoshua Haynes  Virginia  Charged  2021-07-01\nJames Davis  Virginia  Charged  2021-07-22\nLuke Bender  Virginia  Indicted  2021-07-26\nBrandon Prenzlin  Virginia  Charged  2021-09-17\nMeghan Rutledge  Virginia  Charged  2021-10-05\nWillard Bostic  Virginia  Charged  2021-10-05\nMark Leffingwell  Washington  Convicted  2021-01-07\nJohn Lolos                      Washington  Sentenced 2021-01-09\nEdward Lang  Washington  Indicted  2021-01-16\nEthan Nordean  Washington  Indicted  2021-02-03\nJeffrey Grace  Washington  Charged  2021-02-04\nTaylor Johnatakis  Washington  Indicted  2021-02-05\nMarc Bru                       Washington  Indicted  2021-03-30\nJoseph Zlab  Washington  Charged  2021-05-07\nDevlyn Thompson  Washington  Sentenced 2021-07-11\nTyler Slaeker  Washington  Charged  2021-07-27\nDavid Rhine  Washington  Charged  2021-11-04\nJoshua Pruitt  Washington, DC  Indicted  2021-01-07\nVitali GossJankowski  Washington, DC  Indicted  2021-01-14\nEmanuel Jackson  Washington, DC  Charged  2021-01-18\nMark Ponder  Washington, DC  Indicted  2021-03-12\nDarrell Neely  Washington, DC  Charged  2021-09-30\nDerrick Evans  West Virginia  Indicted  2021-01-08\nGracyn Courtright  West Virginia  Sentenced 2021-01-16\nEric Barber  West Virginia  Convicted  2021-02-16\nGeorge Tanios  West Virginia  Indicted  2021-03-15\nJeffery Finley  West Virginia  Charged  2021-03-21\nKevin Loftus  Wisconsin  Convicted  2021-01-12\nDavid Mish  Wisconsin  Sentenced  2021-01-15\nMichael Fitzgerald  Wisconsin  Indicted  2021-04-02\nAbram Markofski  Wisconsin  Sentenced  2021-04-27\nBrandon Nelson  Wisconsin  Sentenced  2021-04-27",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 12809
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1253023982,
+            "_v": 1,
+            "access_hash": 5.60190431579338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lola",
+            "id": 1253023982,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 33827,
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6960366189637803010",
+        "_score": 2.9357,
+        "_source": {
+          "archivedon": "2022-06-27 00:25:41.043479",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1641518297,
+          "edithide": false,
+          "entities": [],
+          "forwards": 85,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1253023982
+          },
+          "fwdfrom": {
+            "channel_post": 1393,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dale Shalvey  Pennsylvania  Indicted  2021-02-12\nMatthew Clark  Pennsylvania  Charged  2021-02-12\nPaul Spigelmyer  Pennsylvania  Charged  2021-02-12\nRaechel Genco  Pennsylvania  Charged  2021-02-12\nRussell Peterson  Pennsylvania  Sentenced  2021-02-12\nRichard Michetti  Pennsylvania  Indicted  2021-02-17\nJoseph Fischer  Pennsylvania  Indicted  2021-02-19\nJackson Kostolsky  Pennsylvania  Convicted  2021-02-23\nAnnie Howell  Pennsylvania  Convicted  2021-03-02\nDebra Maimone  Pennsylvania  Charged  2021-03-12\nPhilip Vogel  Pennsylvania  Charged  2021-03-12\nJulian Khater  Pennsylvania  Indicted  2021-03-15\nJennifer Heinl  Pennsylvania  Convicted  2021-03-17\nFrank Scavo  Pennsylvania  Sentenced  2021-03-24\nJeremy Vorous  Pennsylvania  Indicted  2021-03-26\nAnthony Moat  Pennsylvania  Charged  2021-04-07\nMichael Rusyn  Pennsylvania  Convicted  2021-04-09\nLeonard Ridge  Pennsylvania  Sentenced  2021-04-20\nGary Edwards  Pennsylvania  Sentenced  2021-04-23\nBrian Stenz  Pennsylvania  Convicted  2021-04-28\nGary Wickersham  Pennsylvania  Sentenced  2021-05-07\nPauline Bauer  Pennsylvania  Indicted  2021-05-18\nWilliam Blauser  Pennsylvania  Convicted  2021-05-18\nRobert Morss  Pennsylvania  Indicted  2021-06-11\nMitchell Vukich  Pennsylvania  Convicted  2021-06-23\nNicholas Perretta  Pennsylvania  Convicted  2021-06-23\nSamuel Fox  Pennsylvania  Convicted  2021-06-23\nSandra Weyer  Pennsylvania  Charged  2021-06-24\nAlan Byerly  Pennsylvania  Indicted  2021-06-25\nGabriel Brown  Pennsylvania  Charged  2021-06-25\nEdward McAlanis  Pennsylvania  Convicted  2021-07-14\nSamuel Lazar  Pennsylvania  Indicted  2021-07-21\nTara Stottlemyer  Pennsylvania  Indicted  2021-07-28\nDeborah Lee  Pennsylvania  Charged  2021-08-05\nKelly O'Brien  Pennsylvania  Charged  2021-08-12\nJulia Sizer                      Pennsylvania  Convicted  2021-09-02\nCharles Smith  Pennsylvania  Charged  2021-09-08\nMarshall Neefe  Pennsylvania  Charged  2021-09-08\nMichael Dickinson  Pennsylvania  Charged  2021-09-30\nHoward Richardson  Pennsylvania  Indicted  2021-11-22\nMichael Gianos  Pennsylvania  Charged  2021-11-22\nRachel Myers  Pennsylvania  Charged  2021-11-22\nMarcos Panayiotou  Pennsylvania  Charged  2021-11-30\nBrian Healion  Pennsylvania  Charged  2021-12-08\nFreedom Vy  Pennsylvania  Charged  2021-12-08\nIsaiah Giddings  Pennsylvania  Charged  2021-12-08\nTimothy Desjardins  Rhode Island  Charged  2021-11-19\nAndrew Hatley  South Carolina  Sentenced  2021-01-19\nWilliam Norwood  South Carolina  Indicted  2021-02-25\nElias Irizarry  South Carolina  Indicted  2021-03-15\nElliot Bishai  South Carolina  Indicted  2021-03-15\nNicholas Languerand  South Carolina  Convicted  2021-04-15\nJohn Getsinger  South Carolina  Convicted  2021-06-09\nStacie Hargis Getsinger  South Carolina  Convicted  2021-06-09\nDerek Gunby  South Carolina  Charged  2021-06-29\nJames Lollis  South Carolina  Convicted  2021-09-03\nPaul Colbath  South Carolina  Charged  2021-10-20\nJames Haffner  South Dakota  Charged  2021-12-01\nEric Munchel  Tennessee  Indicted  2021-01-10\nMatthew Bledsoe  Tennessee  Indicted  2021-01-15\nJack Griffith  Tennessee  Sentenced  2021-01-16\nBlake Reed  Tennessee  Indicted  2021-01-17\nEric Torrens  Tennessee  Sentenced  2021-01-27\nRonald Sandlin  Tennessee  Indicted  2021-01-28\nJoseph Padilla  Tennessee  Indicted  2021-02-22\nBryan Ivey                      Tennessee  Convicted  2021-03-04\nRonnie Presley  Tennessee  Indicted  2021-03-05\nAlbuquerque Head  Tennessee  Indicted  2021-04-09\nMichael Roche  Tennessee  Charged  2021-04-13\nMichael Timbrook  Tennessee  Charged  2021-04-20\nMatthew Baggott  Tennessee  Charged  2021-05-24\nStewart Parks  Tennessee  Charged  2021-05-24\nClifford Meteer  Tennessee  Charged  2021-08-04\nRonald McAbee  Tennessee  Indicted  2021-08-04\nChristopher Cunningham  Tennessee Charged  2021-08-30\nJoshua Portlock  Tennessee  Charged  2021-10-28\nLarry Brock  Texas  Indicted  2021-01-09\nEliel Rosa  Texas  Sentenced  2021-01-13\nJenny Cudd  Texas  Convicted  2021-01-13\nGuy Reffitt  Texas  Indicted  2021-01-15\nJennifer Ryan  Texas  Sentenced  2021-01-15",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 12809
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1253023982,
+            "_v": 1,
+            "access_hash": 5.60190431579338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lola",
+            "id": 1253023982,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 29441,
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5507848979305487408",
+        "_score": 2.6695,
+        "_source": {
+          "archivedon": "2022-01-09 21:35:05.58233",
+          "channeltitle": "Patriot Party Connecticut",
+          "channelusername": "PatriotPartyCT",
+          "date": 1641589469,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 168,
+              "offset": 453,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 173,
+              "offset": 627,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 6,
+              "offset": 1125,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1138,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 10,
+              "offset": 1147,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 1158,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1168,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 1185,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 1192,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1205,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 1214,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 1222,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 146,
+              "offset": 1236,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 215,
+              "offset": 1387,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 123,
+              "offset": 1831,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 54,
+              "offset": 2278,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 2347,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 2375,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 53,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "date": 1641435295,
+            "from_id": {},
+            "from_name": "Boondock Sainted",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "It goes just a little deeper. \n\n\n\n\n\nGuess who made a deal with Google & Facebook starting in 2009 to.... sway opinions their way? \n\nHRC, Feinstein, and Podesta.  \n\n\nFacebook and Google  are literally programming people. \n\n2019 \n\nResearch and Development conducted by Alphabet, Facebook, Google, DeepMind, Nueralink and other ventures in Silicon Valley have created algorithms and coding that supports, promotes  and achieves brain washing of humanity \n\nhttps://theaiorganization.com/google-facebook-neuralink-sued-for-weaponized-ai-tech-transfer-complicity-to-genocide-in-china-and-endangering-humanity-with-misuse-of-ai/\n\n\n\n\n\nhttps://patriots4truth.org/2018/08/15/sen-dianne-feinstein-behind-foreign-interference-in-u-s-elections/?fbclid=IwAR223qba2UtS5erxktG6_BWOVLnWIqFXmrSuYitEPjXPxPJHLN6caQt0D5w \n\nOn Sep. 26, 2009, Hillary Clinton and her U.S. State Department started secretly paying Facebook for a “template for election winning.” On Nov. 01, 2016, Hillary, Obama, John Podesta and Robby Mook took a $1.5 billion donation from Google’s Eric Schmidt to implement the U.S. Digital Service run out of the White House. \n\n#voter fraud #treason #feinstein #facebook #hillary Clinton #obama #white house #podesta\n#google #zuckerberg \n\nhttps://www.thegatewaypundit.com/2021/04/dominion-advisor-met-john-podesta-offering-anything-help-defeat-trump-according-email-released-wikileaks/\n\n\n\n\nhttps://www.thegatewaypundit.com/2021/06/georgias-stacey-abrams-received-position-crooked-john-podestas-center-american-progress-got-involved-georgias-2020-election/?utm_source=Gab&utm_campaign=websitesharingbuttons\n\n\n\n\n\n\n\n\nIn 2014 Big Tech openly manipulated the free will of its users in the name of ‘science’… This is not science, this is emotional abuse. This is like giving a gun to someone they just made suicidal. Unfuckingbelievable. \n\nhttps://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/?sh=d47b6c7197c5\n\n\n\nAnd then they're mapping you.... \n\n\nBig Tech is collecting information on your every thought. Google has created belief maps that can actually pinpoint exact locations of people with particular viewpoints. And if you happen to fall into a classification that they consider a danger to society, you will be targeted... \n\nhttps://odysee.com/@RobBraxmanTech:6/targeted:d?&t=104 \n\nReferences: https://jigsaw.google.com | https://moonshotcve.com",
+          "peerid": {
+            "channel_id": 1282396023,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 33142
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 2762
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5729645067610650503",
+        "_score": 2.6695,
+        "_source": {
+          "archivedon": "2022-01-09 21:36:33.984567",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "date": 1641589468,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 168,
+              "offset": 453,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 173,
+              "offset": 627,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 6,
+              "offset": 1125,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1138,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 10,
+              "offset": 1147,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 1158,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1168,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 1185,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 1192,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 1205,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 7,
+              "offset": 1214,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 1222,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 146,
+              "offset": 1236,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 215,
+              "offset": 1387,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 123,
+              "offset": 1831,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 54,
+              "offset": 2278,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 2347,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 2375,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 53,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "date": 1641435295,
+            "from_id": {},
+            "from_name": "Boondock Sainted",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "It goes just a little deeper. \n\n\n\n\n\nGuess who made a deal with Google & Facebook starting in 2009 to.... sway opinions their way? \n\nHRC, Feinstein, and Podesta.  \n\n\nFacebook and Google  are literally programming people. \n\n2019 \n\nResearch and Development conducted by Alphabet, Facebook, Google, DeepMind, Nueralink and other ventures in Silicon Valley have created algorithms and coding that supports, promotes  and achieves brain washing of humanity \n\nhttps://theaiorganization.com/google-facebook-neuralink-sued-for-weaponized-ai-tech-transfer-complicity-to-genocide-in-china-and-endangering-humanity-with-misuse-of-ai/\n\n\n\n\n\nhttps://patriots4truth.org/2018/08/15/sen-dianne-feinstein-behind-foreign-interference-in-u-s-elections/?fbclid=IwAR223qba2UtS5erxktG6_BWOVLnWIqFXmrSuYitEPjXPxPJHLN6caQt0D5w \n\nOn Sep. 26, 2009, Hillary Clinton and her U.S. State Department started secretly paying Facebook for a “template for election winning.” On Nov. 01, 2016, Hillary, Obama, John Podesta and Robby Mook took a $1.5 billion donation from Google’s Eric Schmidt to implement the U.S. Digital Service run out of the White House. \n\n#voter fraud #treason #feinstein #facebook #hillary Clinton #obama #white house #podesta\n#google #zuckerberg \n\nhttps://www.thegatewaypundit.com/2021/04/dominion-advisor-met-john-podesta-offering-anything-help-defeat-trump-according-email-released-wikileaks/\n\n\n\n\nhttps://www.thegatewaypundit.com/2021/06/georgias-stacey-abrams-received-position-crooked-john-podestas-center-american-progress-got-involved-georgias-2020-election/?utm_source=Gab&utm_campaign=websitesharingbuttons\n\n\n\n\n\n\n\n\nIn 2014 Big Tech openly manipulated the free will of its users in the name of ‘science’… This is not science, this is emotional abuse. This is like giving a gun to someone they just made suicidal. Unfuckingbelievable. \n\nhttps://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/?sh=d47b6c7197c5\n\n\n\nAnd then they're mapping you.... \n\n\nBig Tech is collecting information on your every thought. Google has created belief maps that can actually pinpoint exact locations of people with particular viewpoints. And if you happen to fall into a classification that they consider a danger to society, you will be targeted... \n\nhttps://odysee.com/@RobBraxmanTech:6/targeted:d?&t=104 \n\nReferences: https://jigsaw.google.com | https://moonshotcve.com",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 46825
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1523631301,
+            "_v": 1,
+            "access_hash": 2.25110454403204e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mr.Autonomy",
+            "id": 1523631301,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 2762
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5312044933564142324",
+        "_score": 2.0905,
+        "_source": {
+          "archivedon": "2022-01-09 21:49:20.297962",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1641560717,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 142,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 205,
+              "offset": 3277,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 69837,
+            "date": 1641230495,
+            "from_id": {
+              "channel_id": 1236806841,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💥‼️💥 CEO einer Lebensversicherung in Indiana sagt, dass die Zahl der Todesfälle bei Menschen zwischen 18 und 64 Jahren um 40 % gestiegen ist 💥‼️💥\n\nDer Chef des in Indianapolis ansässigen Versicherungsunternehmens OneAmerica erklärte, dass die Sterblichkeitsrate bei Menschen im erwerbsfähigen Alter im Vergleich zur Zeit vor der Pandemie um atemberaubende 40% gestiegen ist.\n\n\"Wir erleben derzeit die höchsten Sterberaten, die wir in der Geschichte dieser Branche je gesehen haben - nicht nur bei OneAmerica\", sagte der CEO des Unternehmens, Scott Davison, während einer Online-Pressekonferenz in dieser Woche. \"Die Daten sind für alle Akteure in diesem Geschäft konsistent\".\n\nOneAmerica ist ein 100-Milliarden-Dollar-Versicherungsunternehmen, das seinen Hauptsitz seit 1877 in Indianapolis hat. Das Unternehmen beschäftigt rund 2.400 Mitarbeiter und verkauft Lebensversicherungen, einschließlich Gruppenlebensversicherungen, an Arbeitgeber in diesem Bundesstaat.\n\nDavison sagte, dass der Anstieg der Todesfälle eine \"riesige, gewaltige Zahl\" darstellt, und dass es nicht ältere Menschen sind, die sterben, sondern \"hauptsächlich Menschen im arbeitsfähigen Alter von 18 bis 64\", die Angestellte von Unternehmen sind, die Gruppenlebensversicherungen über OneAmerica haben.\n\n\"Und was wir gerade im dritten Quartal gesehen haben und was sich im vierten Quartal fortsetzt, ist, dass die Sterberaten um 40% höher sind als vor der Pandemie\", sagte er.\n\n\"Um Ihnen eine Vorstellung davon zu geben, wie schlimm das ist, würde eine Katastrophe, die nur einmal in 200 Jahren auftritt, einen Anstieg von 10% gegenüber der Zeit vor der Pandemie bedeuten\", sagte er. \"Also sind 40% einfach unerhört.\n\nDie meisten der gemeldeten Todesfälle werden nicht als COVID-19-Todesfälle eingestuft, so Davison.\n\nDie wöchentlichen Zählungen der CDC, die die Informationen auf den Totenscheinen widerspiegeln und daher eine Verzögerung von bis zu acht Wochen oder mehr aufweisen, zeigen, dass es in der Woche, die am 6. November endete, in Indiana weit weniger Todesfälle durch COVID-19 gab als vor einem Jahr - 195 gegenüber 336 - aber mehr Todesfälle durch andere Ursachen - 1.350 gegenüber 1.319.\n\nDie Zahl der Krankenhauseinweisungen im Bundesstaat ist jetzt höher als vor der Einführung des COVID-19-Impfstoffs vor einem Jahr und sogar höher als in den letzten fünf Jahren, sagte Dr. Lindsay Weaver, Indianas oberster medizinischer Leiter, am Mittwoch auf einer Pressekonferenz mit Gouverneur Eric Holcomb.\n\nNur 8,9 % der Betten auf der Intensivstation sind in den Krankenhäusern des Bundesstaates verfügbar, ein Tiefstand für dieses Jahr und niedriger als zu jedem anderen Zeitpunkt während der Pandemie. Die Mehrheit der Intensivbetten wird jedoch nicht von COVID-19-Patienten belegt - nur 37 % sind es, während 54 % der Intensivbetten von Menschen mit anderen Krankheiten oder Leiden belegt werden.\n\nDas Online-Dashboard des Bundesstaates zeigt, dass der gleitende Durchschnitt der täglichen Todesfälle durch COVID-19 weniger als die Hälfte des Wertes von vor einem Jahr beträgt. Auf dem Höhepunkt der Pandemie vor einem Jahr starben 125 Menschen an einem einzigen Tag - am 29. Dezember 2020. In den letzten drei Monaten war die höchste Zahl der Todesfälle an einem Tag 58, am 13. Dezember.\n\nhttps://web.archive.org/web/20220103154545/https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 211
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6960366189637803007",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-06-27 00:25:41.040265",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1641518297,
+          "edithide": false,
+          "entities": [],
+          "forwards": 56,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1253023982
+          },
+          "fwdfrom": {
+            "channel_post": 1390,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Chad Jones  Kentucky  Indicted  2021-01-16\nDamon Beckley  Kentucky  Indicted  2021-01-16\nMichael Sparks  Kentucky  Indicted  2021-01-18\nJordan Revlett  Kentucky  Charged  2021-01-25\nDalton Crase  Kentucky  Convicted  2021-02-01\nTroy Williams  Kentucky  Convicted  2021-02-01\nPeter Schwartz  Kentucky  Indicted  2021-02-04\nClayton Mullins  Kentucky  Indicted  2021-02-23\nLori Vinson  Kentucky  Sentenced 2021-02-23\nThomas Vinson  Kentucky  Sentenced 2021-02-23\nMichael Orangias  Kentucky  Convicted  2021-03-17\nStephen Randolph  Kentucky  Indicted  2021-04-20\nEric Clark                      Kentucky  Charged  2021-04-26\nNicholas Brockhoff  Kentucky  Indicted  2021-05-24\nKurt Peterson  Kentucky  Indicted  2021-06-16\nAntony Vo                      Kentucky  Charged  2021-07-20\nJoseph Irwin  Kentucky  Charged  2021-08-12\nVaughn Gordon  Louisiana  Indicted  2021-01-14\nCody Connell  Louisiana  Indicted  2021-01-16\nKyle Fitzsimons  Maine  Indicted  2021-02-04\nNicholas Hendrix  Maine  Charged  2021-05-27\nChristopher Alberts  Maryland  Indicted  2021-01-07\nNicholas Rodean  Maryland  Indicted  2021-01-13\nBryan Betancur  Maryland  Charged  2021-01-17\nMatthew Miller  Maryland  Indicted  2021-01-25\nAndrew Bennett  Maryland  Sentenced 2021-01-26\nJohn Andries  Maryland  Indicted  2021-01-28\nDaniel Egtvedt  Maryland  Indicted  2021-02-09\nDavid Blair  Maryland  Indicted  2021-02-09\nElias Costianes  Maryland  Indicted  2021-02-12\nRobert Reeder  Maryland  Sentenced 2021-02-24\nJohn Wilkerson  Maryland  Sentenced 2021-03-12\nBrittiany Dillon  Maryland  Sentenced 2021-04-26\nNicole Prado  Maryland  Convicted  2021-06-03\nChristopher Price  Maryland  Charged  2021-07-30\nCynthia Ballenger  Maryland  Charged  2021-07-30\nUliyahu Hayah  Maryland  Charged  2021-08-25\nMatthew Buckler  Maryland  Charged  2021-09-09\nMichael Riley  Maryland  Indicted  2021-10-14\nMark Sahady  Massachusetts  Charged  2021-01-19\nSuzanne Ianni  Massachusetts  Charged  2021-01-19\nBrian McCreary  Massachusetts  Convicted  2021-02-04\nTroy Sargent  Massachusetts  Indicted  2021-03-08\nChase Allen  Massachusetts  Charged  2021-06-30\nNoah Bacon  Massachusetts  Indicted  2021-06-30\nKarl Dresch  Michigan  Sentenced  2021-01-20\nMichael Foy  Michigan  Indicted  2021-01-21\nJames Mels  Michigan  Charged  2021-02-11\nRobert Schornak  Michigan  Convicted  2021-03-16\nDaniel Herendeen  Michigan  Convicted  2021-03-18\nAnthony Williams  Michigan  Indicted  2021-03-24\nJeremy Sorvisto  Michigan  Sentenced  2021-04-05\nJeramiah Caplinger  Michigan  Convicted  2021-04-06\nAnthony Puma  Michigan  Indicted  2021-05-27\nSteven Thurlow  Michigan  Charged  2021-06-24\nTrevor Brown  Michigan  Charged  2021-07-01\nLogan Barnhart  Michigan  Indicted  2021-08-04\nTim Boughner  Michigan  Charged  2021-11-09\nJustin Jersey  Michigan  Indicted  2021-12-02\nJordan Stotts  Minnesota  Sentenced 2021-03-16\nJonah Westbury  Minnesota  Charged  2021-03-29\nVictoria White  Minnesota  Indicted  2021-04-08\nDaniel Johnson  Minnesota  Convicted  2021-06-04\nBrian Mock  Minnesota  Indicted  2021-06-10\nAaron James  Minnesota  Indicted  2021-10-04\nIsaac Westbury  Minnesota  Indicted  2021-10-04\nRobert Westbury  Minnesota  Indicted  2021-10-04\nMichael Brock  Mississippi  Charged  2021-07-14\nThomas Smith  Mississippi  Indicted  2021-09-24\nEmily Hernandez  Missouri  Charged  2021-01-15\nZachary Martin  Missouri  Convicted  2021-01-28\nPaul Westover  Missouri  Convicted  2021-02-04\nWilliam Merry  Missouri  Charged  2021-02-04\nLouis Colon  Missouri  Indicted  2021-02-11\nMichael Quick  Missouri  Convicted  2021-02-12\nStephen Quick  Missouri  Convicted  2021-02-12\nZachary Wilson  Missouri  Convicted  2021-02-12\nNicholas Reimler  Missouri  Sentenced 2021-02-19\nMatthew Loganbill  Missouri  Indicted  2021-03-15\nCarey Walden  Missouri  Convicted  2021-05-21\nJoshua Dressel  Missouri  Charged  2021-06-29\nNicholas Kennedy  Missouri  Indicted  2021-07-23\nIsaac Yoder  Missouri  Charged  2021-07-29\nKelsey Wilson  Missouri  Convicted  2021-08-02\nCara Hentschel  Missouri  Charged  2021-09-22\nMahailya Pryer  Missouri  Charged  2021-09-22",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 12809
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1253023982,
+            "_v": 1,
+            "access_hash": 5.60190431579338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lola",
+            "id": 1253023982,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 31455,
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6960366189637803011",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-06-27 00:25:40.820145",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1641518297,
+          "edithide": false,
+          "entities": [],
+          "forwards": 81,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1253023982
+          },
+          "fwdfrom": {
+            "channel_post": 1394,
+            "date": 1641469579,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Joshua Lollar  Texas  Indicted  2021-01-15\nTroy Smocks  Texas  Sentenced  2021-01-15\nDaniel Adams  Texas  Indicted  2021-01-16\nMatthew Mazzocco  Texas  Sentenced  2021-01-17\nAlex Harkrider  Texas  Indicted  2021-01-18\nRyan Nichols  Texas  Indicted  2021-01-18\nNicholas DeCarlo  Texas  Indicted  2021-01-19\nTam Pham  Texas  Sentenced  2021-01-19\nGarret Miller  Texas  Indicted  2021-01-20\nChristopher Grider  Texas  Indicted  2021-01-21\nNolan Cooke  Texas  Charged  2021-01-21\nChance Uptmore  Texas  Indicted  2021-01-26\nDaniel Phipps  Texas  Indicted  2021-01-26\nJames Uptmore  Texas  Indicted  2021-01-26\nWilmar Alvarado  Texas  Indicted  2021-01-29\nKatherine Schwab  Texas  Charged  2021-02-01\nJason Hyland  Texas  Charged  2021-02-02\nRyan Zink                      Texas  Indicted  2021-02-04\nDaniel Caldwell  Texas  Indicted  2021-02-10\nJoseph Barnes  Texas  Deceased  2021-02-10\nLuke Coffee  Texas  Indicted  2021-02-16\nJeffrey Witcher  Texas  Convicted  2021-02-24\nRichard Barnard  Texas  Convicted  2021-02-24\nTreniss Evans  Texas  Indicted  2021-02-24\nShane Jenkins  Texas  Indicted  2021-03-02\nBenjamin Larocca  Texas  Indicted  2021-03-12\nChristian Cortez  Texas  Indicted  2021-03-12\nKevin Blakely  Texas  Convicted  2021-03-19\nBradley Bennett  Texas  Indicted  2021-03-23\nDavid Judd  Texas  Indicted  2021-03-23\nElizabeth Williams  Texas  Indicted  2021-03-23\nAndrew Morgan  Texas  Indicted  2021-04-02\nSamuel Montoya  Texas  Charged  2021-04-08\nJason Owens  Texas  Charged  2021-04-16\nJalise Middleton  Texas  Indicted  2021-04-21\nMark Middleton  Texas  Indicted  2021-04-21\nSean Watson  Texas  Charged  2021-04-23\nVic Williams  Texas  Convicted  2021-05-10\nKerry Persick  Texas  Charged  2021-05-13\nAdam Weibling  Texas  Charged  2021-05-19\nStacy Hager  Texas  Charged  2021-05-29\nLeonard Gruppo  Texas  Sentenced 2021-06-01\nDarrell Youngers  Texas  Indicted  2021-06-29\nGeorge Tenney  Texas  Indicted  2021-06-29\nThomas Ballard  Texas  Indicted  2021-06-29\nMatthew Dasilva  Texas  Indicted  2021-07-09\nDawn Munn  Texas  Charged  2021-07-12\nJoshua Munn  Texas  Charged  2021-07-12\nKayli Munn  Texas  Charged  2021-07-12\nKristi Munn  Texas  Charged  2021-07-12\nThomas Munn  Texas  Charged  2021-07-12\nAndrew Taake  Texas  Indicted  2021-07-21\nBrian Ulrich  Texas  Indicted  2021-08-04\nSteven Cappuccio  Texas  Indicted  2021-08-12\nJonathon Shroyer  Texas  Charged  2021-08-19\nCory Brannan  Texas  Charged  2021-09-02\nRobert Dennis  Texas  Indicted  2021-10-13\nLandon Mitchell  Texas  Indicted  2021-10-19\nThomas Conover  Texas  Charged  2021-12-03\nDonald Hazard  Texas  Charged  2021-12-07\nLucas Denney  Texas  Charged  2021-12-07\nJohn Sullivan  Utah  Indicted  2021-01-13\nBrady Knowlton  Utah  Indicted  2021-04-01\nMichael Hardin  Utah  Charged  2021-04-02\nWillard Peart  Utah  Charged  2021-04-20\nLandon Copeland  Utah  Indicted  2021-04-29\nJacob Wiedrich  Utah  Convicted  2021-07-21\nJanet Buhler  Utah  Charged  2021-07-28\nGary Wilson  Utah  Charged  2021-09-09\nJacob Fracker  Virginia  Indicted  2021-01-13\nRobert Packer  Virginia  Charged  2021-01-13\nThomas Robertson  Virginia  Indicted  2021-01-13\nEdward Hemenway  Virginia  Sentenced 2021-01-15\nJacob Hiles  Virginia  Sentenced 2021-01-19\nThomas Caldwell  Virginia  Indicted  2021-01-19\nDennis Sidorski  Virginia  Charged  2021-01-20\nMelody Steele-Smith  Virginia  Indicted  2021-01-20\nCindy Fitchett  Virginia  Sentenced  2021-01-21\nDouglas Sweet  Virginia  Sentenced  2021-01-21\nAntionne Brodnax  Virginia  Convicted  2021-02-02\nJonathan Mellis  Virginia  Indicted  2021-02-11\nJeremy Groseclose  Virginia  Indicted  2021-02-25\nFederico Klein  Virginia  Indicted  2021-03-04\nJessica Bustle  Virginia  Sentenced 2021-03-04\nJoshua Bustle  Virginia  Sentenced 2021-03-04\nRyan Suleski  Virginia  Indicted  2021-03-05\nJeffrey McKellop  Virginia  Indicted  2021-03-15\nEric Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Johnson  Virginia  Indicted  2021-04-12\nMichael Adams  Virginia  Charged  2021-04-20\nChristopher Warnagiris  Virginia  Indicted  2021-05-13",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 12809
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1253023982,
+            "_v": 1,
+            "access_hash": 5.60190431579338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lola",
+            "id": 1253023982,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 30303,
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6960366189637803008",
+        "_score": 1.8459,
+        "_source": {
+          "archivedon": "2022-06-27 00:25:40.82161",
+          "channeltitle": "January 6th Mega Movement notice to Congress",
+          "channelusername": "meganoticemovement",
+          "date": 1641518297,
+          "edithide": false,
+          "entities": [],
+          "forwards": 60,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1253023982
+          },
+          "fwdfrom": {
+            "channel_post": 1391,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Jonas Buxton  Missouri  Charged  2021-12-08\nHenry Muntzer  Montana  Indicted  2021-01-18\nJerod Hughes  Montana  Indicted  2021-01-28\nJoshua Hughes  Montana  Indicted  2021-01-28\nIsaac Sturgeon  Montana  Indicted  2021-02-05\nBoyd Camper  Montana  Sentenced 2021-03-11\nAndrew Cavanaugh  Montana  Charged  2021-03-15\nNathaniel Degrave  Nevada  Indicted  2021-01-28\nJosiah Kenyon  Nevada  Indicted  2021-11-23\nThomas Gallagher  New Hampshire  Sentenced 2021-01-21\nJason Riddle  New Hampshire  Convicted  2021-02-05\nThomas Baranyi  New Jersey  Indicted  2021-01-12\nTimothy Hale-Cusanelli  New Jersey  Indicted  2021-01-17\nRasha Abual-Ragheb  New Jersey  Sentenced  2021-01-19\nPatrick Stedman  New Jersey  Indicted  2021-01-21\nHector Vargas Santos  New Jersey  Charged  2021-01-22\nMarissa Suarez  New Jersey  Indicted  2021-01-22\nPatricia Todisco  New Jersey  Indicted  2021-01-22\nScott Fairlamb  New Jersey  Sentenced  2021-01-22\nStephanie Hazelton  New Jersey  Charged  2021-01-22\nJames Rahm  New Jersey  Indicted  2021-02-05\nLarry Stackhouse  New Jersey  Charged  2021-03-02\nEzekiel Stecher  New Jersey  Indicted  2021-03-04\nRoberto Minuta  New Jersey  Indicted  2021-03-06\nJames Rahm Jr  New Jersey  Indicted  2021-03-16\nChristopher Quaglin  New Jersey  Indicted  2021-04-06\nRobert Petrosh  New Jersey  Charged  2021-04-29\nShawn Price  New Jersey  Charged  2021-06-08\nDonald Smith  New Jersey  Charged  2021-07-28\nPhilip Young  New Jersey  Charged  2021-07-28\nMick Chan                      New Jersey  Charged  2021-09-07\nLawrence Dropkin  New Jersey  Charged  2021-09-13\nMichael Oliveras  New Jersey  Charged  2021-12-08\nCouy Griffin  New Mexico  Indicted  2021-01-17\nShawn Witzemann  New Mexico  Charged  2021-04-06\nMatthew Martin  New Mexico  Charged  2021-04-22\nAaron Mostofsky  New York  Indicted  2021-01-11\nWilliam Pepe  New York  Indicted  2021-01-12\nPeter Harding  New York  Charged  2021-01-14\nDominic Pezzola  New York  Indicted  2021-01-15\nThomas Fee  New York  Charged  2021-01-15\nBrandon Fellows  New York  Indicted  2021-01-17\nNicolas Moncada  New York  Charged  2021-01-18\nChristopher Kelly  New York  Dismissed  2021-01-20\nRobert Ballesteros  New York  Convicted  2021-01-20\nSamuel Fisher  New York  Charged  2021-01-20\nAlbert Ciarpelli  New York  Charged  2021-01-21\nDominick Madden  New York  Convicted  2021-01-22\nJeffrey Sabol  New York  Indicted  2021-01-22\nBrandon Straka  New York  Convicted  2021-01-25\nWilliam Vogel  New York  Charged  2021-01-25\nBrian Gundersen  New York  Indicted  2021-01-27\nChristopher Ortiz  New York  Charged  2021-01-27\nGreg Rubenacker  New York  Indicted  2021-01-27\nJames Bonet  New York  Convicted  2021-01-27\nJustin Mcauliffe  New York  Convicted  2021-01-28\nPhilip Grillo  New York  Charged  2021-02-21\nThomas Webster  New York  Indicted  2021-02-22\nChristopher Moynihan  New York  Indicted  2021-02-25\nThomas Sibick  New York  Indicted  2021-03-12\nSara Carpenter  New York  Indicted  2021-03-23\nWilliam Tryon  New York  Convicted  2021-03-30\nRobert Chapman  New York  Convicted  2021-04-13\nTraci Sunstrum  New York  Convicted  2021-04-13\nDovid Schwartzberg  New York  Charged  2021-04-16\nJohn Juran  New York  Convicted  2021-04-21\nMatthew Greene  New York  Convicted  2021-04-21\nJonathan Munafo  New York  Indicted  2021-04-23\nEric Bochene  New York  Charged  2021-04-26\nAnton Lunyk  New York  Charged  2021-05-05\nDaniel Warmus  New York  Charged  2021-05-17\nJames Breheny  New York  Charged  2021-05-18\nWilliam Jason Sywak  New York  Charged  2021-05-19\nWilliam Michael Sywak  New York  Charged  2021-05-19\nZvonimir Jurlina  New York  Charged  2021-06-28\nEdward Rodriguez  New York  Indicted  2021-07-09\nDaniel Christmann  New York  Charged  2021-07-16\nAntonio Ferrigno  New York  Charged  2021-08-27\nFrancis Connor  New York  Charged  2021-08-27\nMaryann Mooney-Rondon  New York  Charged  2021-09-01\nRafael Rondon  New York  Charged  2021-09-01\nRichard Watrous  New York  Charged  2021-09-21\nAnthony Vuksanaj  New York  Charged  2021-09-28\nCody Mattice  New York  Charged  2021-10-05\nJames Mault  New York  Charged  2021-10-05",
+          "peerid": {
+            "channel_id": 1620586540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 12809
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1253023982,
+            "_v": 1,
+            "access_hash": 5.60190431579338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lola",
+            "id": 1253023982,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 30598,
+          "channelabout": "It's time to stand as the people and get fairness based on the law of the land! No longer will politicians do what they want"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

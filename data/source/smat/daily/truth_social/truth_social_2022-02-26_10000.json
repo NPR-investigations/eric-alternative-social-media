@@ -1,0 +1,541 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [26],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [12],
+      "relation": ["eq"]
+    },
+    "max_score": [11.783],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107865966745787421",
+        "_score": 11.783,
+        "_source": {
+          "account": {
+            "acct": "gijeff69",
+            "display_name": "Jeff",
+            "id": "107834167369574639",
+            "username": "gijeff69"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> 🤔<\/p>",
+          "content_cleaned": "RT @eric 🤔",
+          "created_at": "2022-02-26T19:33:53.614+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107865966745787421",
+          "last_seen_ts": "2022-11-05T11:57:48.528414+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107856821229915200",
+            "uri": "https://truthsocial.com/users/eric/statuses/107856821229915200",
+            "url": "https://truthsocial.com/@eric/107856821229915200"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/gijeff69/statuses/107865966745787421/activity",
+          "url": "https://truthsocial.com/users/gijeff69/statuses/107865966745787421/activity",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107861913328665791",
+        "_score": 10.5346,
+        "_source": {
+          "account": {
+            "acct": "jeremyryanslate",
+            "display_name": "Jeremy Ryan Slate",
+            "id": "107819724190954876",
+            "username": "jeremyryanslate"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Swalwell went balls deep with China<\/p>",
+          "content_cleaned": "Eric Swalwell went balls deep with China",
+          "created_at": "2022-02-26T02:23:03.372+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 5,
+          "id": "107861913328665791",
+          "language": "en",
+          "last_seen_ts": "2022-06-14T14:36:08.442219+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/jeremyryanslate/statuses/107861913328665791",
+          "url": "https://truthsocial.com/@jeremyryanslate/107861913328665791",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107862256777750950",
+        "_score": 10.0129,
+        "_source": {
+          "account": {
+            "acct": "jeremyryanslate",
+            "display_name": "Jeremy Ryan Slate",
+            "id": "107819724190954876",
+            "username": "jeremyryanslate"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jeremyryanslate\" class=\"u-url mention\">@<span>jeremyryanslate<\/span><\/a><\/span> Eric Swalwell went balls deep with China<\/p>",
+          "content_cleaned": "RT @jeremyryanslate Eric Swalwell went balls deep with China",
+          "created_at": "2022-02-26T03:50:24.009+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107862256777750950",
+          "last_seen_ts": "2022-06-14T14:36:08.422752+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107861913328665791",
+            "uri": "https://truthsocial.com/users/jeremyryanslate/statuses/107861913328665791",
+            "url": "https://truthsocial.com/@jeremyryanslate/107861913328665791"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/jeremyryanslate/statuses/107862256777750950/activity",
+          "url": "https://truthsocial.com/users/jeremyryanslate/statuses/107862256777750950/activity",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107865160026093724",
+        "_score": 9.3293,
+        "_source": {
+          "account": {
+            "acct": "JackalHunter",
+            "display_name": "The Jackal Hunter 🇺🇸",
+            "id": "107834182753710287",
+            "username": "JackalHunter"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Swalwell is working very hard to unseat Schiff for top honors.<\/p>",
+          "content_cleaned": "Eric Swalwell is working very hard to unseat Schiff for top honors.",
+          "created_at": "2022-02-26T16:08:44.018+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 9,
+          "id": "107865160026093724",
+          "in_reply_to_account_id": "107834179154039434",
+          "in_reply_to_id": "107859343122421472",
+          "language": "en",
+          "last_seen_ts": "2022-11-22T11:46:40.172019+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "dankydoesntlose",
+              "id": "107834179154039434",
+              "url": "https://truthsocial.com/@dankydoesntlose",
+              "username": "dankydoesntlose"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JackalHunter/statuses/107865160026093724",
+          "url": "https://truthsocial.com/@JackalHunter/107865160026093724",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107862113729652523",
+        "_score": 7.1518,
+        "_source": {
+          "account": {
+            "acct": "diceunstoppablelife09",
+            "display_name": "Dice Unstoppable Life",
+            "id": "107834256286443820",
+            "username": "diceunstoppablelife09"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@scorpion\" class=\"u-url mention\">@<span>scorpion<\/span><\/a><\/span> Anti-Putin gang:<br />• Hillary Clinton<br />• Alexander Soros<br />• Marina Abramovic<br />• Adam Schiff<br />• Nancy Pelosi<br />• Joe Biden<br />• Eric Swallwell<\/p><p>If they’re against Putin, I’m pro-Putin.<br />Just saying.<\/p>",
+          "content_cleaned": "RT @scorpion Anti-Putin gang:• Hillary Clinton• Alexander Soros• Marina Abramovic• Adam Schiff• Nancy Pelosi• Joe Biden• Eric SwallwellIf they’re against Putin, I’m pro-Putin.Just saying.",
+          "created_at": "2022-02-26T03:14:01.264+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107862113729652523",
+          "last_seen_ts": "2022-07-17T16:45:01.874546+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107860875607411383",
+            "uri": "https://truthsocial.com/users/scorpion/statuses/107860875607411383",
+            "url": "https://truthsocial.com/@scorpion/107860875607411383"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/diceunstoppablelife09/statuses/107862113729652523/activity",
+          "url": "https://truthsocial.com/users/diceunstoppablelife09/statuses/107862113729652523/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107864919573110697",
+        "_score": 7.0589,
+        "_source": {
+          "account": {
+            "acct": "lsn826",
+            "display_name": "✝️Lᴇᴀɴᴇ Pᴀᴛʀɪᴏᴛ🇺🇸",
+            "id": "107834162858906645",
+            "username": "lsn826"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> 🚂🚂🚂<br />❤️:Follow all❤️<br />🤍:Re-Truth🤍<br />💙:Comment your tag💙<\/p><p>Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Scripology\" class=\"u-url mention\">@<span>Scripology<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PoisonControl\" class=\"u-url mention\">@<span>PoisonControl<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@truthJRN\" class=\"u-url mention\">@<span>truthJRN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@lgris\" class=\"u-url mention\">@<span>lgris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TerriLowe\" class=\"u-url mention\">@<span>TerriLowe<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@leenunes\" class=\"u-url mention\">@<span>leenunes<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@VickiMetz\" class=\"u-url mention\">@<span>VickiMetz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@realjewelz\" class=\"u-url mention\">@<span>realjewelz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kellykat\" class=\"u-url mention\">@<span>kellykat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine 🚂🚂🚂❤️:Follow all❤️🤍:Re-Truth🤍💙:Comment your tag💙Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! @southerngirlstruenorth @eric @Scripology @PoisonControl @truthJRN@lgris@eric@TerriLowe@southerngirlstruenorth@leenunes@VickiMetz@realjewelz@kellykat @coryprejean",
+          "created_at": "2022-02-26T15:07:35.027+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107864919573110697",
+          "last_seen_ts": "2022-10-01T06:10:16.900815+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107864867463132837",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107864867463132837",
+            "url": "https://truthsocial.com/@Blaine/107864867463132837"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/lsn826/statuses/107864919573110697/activity",
+          "url": "https://truthsocial.com/users/lsn826/statuses/107864919573110697/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107864885947267710",
+        "_score": 7.0589,
+        "_source": {
+          "account": {
+            "acct": "boru",
+            "display_name": "Boru",
+            "id": "107815253984589274",
+            "username": "boru"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> 🚂🚂🚂<br />❤️:Follow all❤️<br />🤍:Re-Truth🤍<br />💙:Comment your tag💙<\/p><p>Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Scripology\" class=\"u-url mention\">@<span>Scripology<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PoisonControl\" class=\"u-url mention\">@<span>PoisonControl<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@truthJRN\" class=\"u-url mention\">@<span>truthJRN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@lgris\" class=\"u-url mention\">@<span>lgris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TerriLowe\" class=\"u-url mention\">@<span>TerriLowe<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@leenunes\" class=\"u-url mention\">@<span>leenunes<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@VickiMetz\" class=\"u-url mention\">@<span>VickiMetz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@realjewelz\" class=\"u-url mention\">@<span>realjewelz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kellykat\" class=\"u-url mention\">@<span>kellykat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine 🚂🚂🚂❤️:Follow all❤️🤍:Re-Truth🤍💙:Comment your tag💙Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! @southerngirlstruenorth @eric @Scripology @PoisonControl @truthJRN@lgris@eric@TerriLowe@southerngirlstruenorth@leenunes@VickiMetz@realjewelz@kellykat @coryprejean",
+          "created_at": "2022-02-26T14:59:01.924+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107864885947267710",
+          "last_seen_ts": "2022-10-18T21:27:15.937953+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107864867463132837",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107864867463132837",
+            "url": "https://truthsocial.com/@Blaine/107864867463132837"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/boru/statuses/107864885947267710/activity",
+          "url": "https://truthsocial.com/users/boru/statuses/107864885947267710/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107864905358813542",
+        "_score": 7.0589,
+        "_source": {
+          "account": {
+            "acct": "MichelleOdell",
+            "display_name": "",
+            "id": "107834243714877484",
+            "username": "MichelleOdell"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> 🚂🚂🚂<br />❤️:Follow all❤️<br />🤍:Re-Truth🤍<br />💙:Comment your tag💙<\/p><p>Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Scripology\" class=\"u-url mention\">@<span>Scripology<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PoisonControl\" class=\"u-url mention\">@<span>PoisonControl<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@truthJRN\" class=\"u-url mention\">@<span>truthJRN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@lgris\" class=\"u-url mention\">@<span>lgris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TerriLowe\" class=\"u-url mention\">@<span>TerriLowe<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@leenunes\" class=\"u-url mention\">@<span>leenunes<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@VickiMetz\" class=\"u-url mention\">@<span>VickiMetz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@realjewelz\" class=\"u-url mention\">@<span>realjewelz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kellykat\" class=\"u-url mention\">@<span>kellykat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine 🚂🚂🚂❤️:Follow all❤️🤍:Re-Truth🤍💙:Comment your tag💙Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! @southerngirlstruenorth @eric @Scripology @PoisonControl @truthJRN@lgris@eric@TerriLowe@southerngirlstruenorth@leenunes@VickiMetz@realjewelz@kellykat @coryprejean",
+          "created_at": "2022-02-26T15:03:58.122+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107864905358813542",
+          "last_seen_ts": "2022-06-11T10:09:24.851614+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107864867463132837",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107864867463132837",
+            "url": "https://truthsocial.com/@Blaine/107864867463132837"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MichelleOdell/statuses/107864905358813542/activity",
+          "url": "https://truthsocial.com/users/MichelleOdell/statuses/107864905358813542/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107864994373625387",
+        "_score": 7.0589,
+        "_source": {
+          "account": {
+            "acct": "elisa2124",
+            "display_name": "NITRO13",
+            "id": "107834157856776510",
+            "username": "elisa2124"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> 🚂🚂🚂<br />❤️:Follow all❤️<br />🤍:Re-Truth🤍<br />💙:Comment your tag💙<\/p><p>Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Scripology\" class=\"u-url mention\">@<span>Scripology<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PoisonControl\" class=\"u-url mention\">@<span>PoisonControl<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@truthJRN\" class=\"u-url mention\">@<span>truthJRN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@lgris\" class=\"u-url mention\">@<span>lgris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TerriLowe\" class=\"u-url mention\">@<span>TerriLowe<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@leenunes\" class=\"u-url mention\">@<span>leenunes<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@VickiMetz\" class=\"u-url mention\">@<span>VickiMetz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@realjewelz\" class=\"u-url mention\">@<span>realjewelz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kellykat\" class=\"u-url mention\">@<span>kellykat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine 🚂🚂🚂❤️:Follow all❤️🤍:Re-Truth🤍💙:Comment your tag💙Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! @southerngirlstruenorth @eric @Scripology @PoisonControl @truthJRN@lgris@eric@TerriLowe@southerngirlstruenorth@leenunes@VickiMetz@realjewelz@kellykat @coryprejean",
+          "created_at": "2022-02-26T15:26:36.381+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107864994373625387",
+          "last_seen_ts": "2022-06-10T21:02:18.087805+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107864867463132837",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107864867463132837",
+            "url": "https://truthsocial.com/@Blaine/107864867463132837"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/elisa2124/statuses/107864994373625387/activity",
+          "url": "https://truthsocial.com/users/elisa2124/statuses/107864994373625387/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107865142190873744",
+        "_score": 7.0589,
+        "_source": {
+          "account": {
+            "acct": "bkrearl",
+            "display_name": "SMSGT Earl Smith, USAF, Retd",
+            "id": "107843101002069916",
+            "username": "bkrearl"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Blaine\" class=\"u-url mention\">@<span>Blaine<\/span><\/a><\/span> 🚂🚂🚂<br />❤️:Follow all❤️<br />🤍:Re-Truth🤍<br />💙:Comment your tag💙<\/p><p>Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Scripology\" class=\"u-url mention\">@<span>Scripology<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@PoisonControl\" class=\"u-url mention\">@<span>PoisonControl<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@truthJRN\" class=\"u-url mention\">@<span>truthJRN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@lgris\" class=\"u-url mention\">@<span>lgris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TerriLowe\" class=\"u-url mention\">@<span>TerriLowe<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@southerngirlstruenorth\" class=\"u-url mention\">@<span>southerngirlstruenorth<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@leenunes\" class=\"u-url mention\">@<span>leenunes<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@VickiMetz\" class=\"u-url mention\">@<span>VickiMetz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@realjewelz\" class=\"u-url mention\">@<span>realjewelz<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@kellykat\" class=\"u-url mention\">@<span>kellykat<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@coryprejean\" class=\"u-url mention\">@<span>coryprejean<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @Blaine 🚂🚂🚂❤️:Follow all❤️🤍:Re-Truth🤍💙:Comment your tag💙Have you ever seen this video of President Trump being prayed over? It brings tears to my eyes every time. WE LOVE PRESIDENT TRUMP!! RETRUTH IF YOU AGREE!! @southerngirlstruenorth @eric @Scripology @PoisonControl @truthJRN@lgris@eric@TerriLowe@southerngirlstruenorth@leenunes@VickiMetz@realjewelz@kellykat @coryprejean",
+          "created_at": "2022-02-26T16:04:11.914+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107865142190873744",
+          "last_seen_ts": "2022-06-10T10:51:54.489282+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107864867463132837",
+            "uri": "https://truthsocial.com/users/Blaine/statuses/107864867463132837",
+            "url": "https://truthsocial.com/@Blaine/107864867463132837"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/bkrearl/statuses/107865142190873744/activity",
+          "url": "https://truthsocial.com/users/bkrearl/statuses/107865142190873744/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107865854232124718",
+        "_score": 5.248,
+        "_source": {
+          "account": {
+            "acct": "WesternHighways",
+            "display_name": "Western Highways ✝️",
+            "id": "107843091095890741",
+            "username": "WesternHighways"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>A wish list for people I’d like to see on <span class=\"h-card\"><a href=\"https://truthsocial.com/@truthsocial\" class=\"u-url mention\">@<span>truthsocial<\/span><\/a><\/span>: Eric Metaxas, Katie Hopkins, Steve Bannon, Laurence Fox,￼ Dave Rubin, Joe Rogan, Lauren Boebert, Tucker Carlson, James O’Keefe, Michelle Malkin, Candace Owens, Nigel Farage, Sharyl Attkisson, Matt Walsh, Alisa Childers, John Zmirak, and Kayleigh McEnany. Just for starters. <a href=\"https://truthsocial.com/tags/truthsocial\" class=\"mention hashtag\" rel=\"tag\">#<span>truthsocial<\/span><\/a> <a href=\"https://truthsocial.com/tags/dumptwitter\" class=\"mention hashtag\" rel=\"tag\">#<span>dumptwitter<\/span><\/a><\/p>",
+          "content_cleaned": "A wish list for people I’d like to see on @truthsocial: Eric Metaxas, Katie Hopkins, Steve Bannon, Laurence Fox,￼ Dave Rubin, Joe Rogan, Lauren Boebert, Tucker Carlson, James O’Keefe, Michelle Malkin, Candace Owens, Nigel Farage, Sharyl Attkisson, Matt Walsh, Alisa Childers, John Zmirak, and Kayleigh McEnany. Just for starters. #truthsocial #dumptwitter",
+          "created_at": "2022-02-26T19:05:16.859+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "107865854232124718",
+          "language": "en",
+          "last_seen_ts": "2022-06-06T21:46:53.482632+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "truthsocial",
+              "id": "107759501782461327",
+              "url": "https://truthsocial.com/@truthsocial",
+              "username": "truthsocial"
+            }
+          ],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "TruthSocial",
+              "url": "https://truthsocial.com/tags/TruthSocial"
+            },
+            {
+              "name": "DumpTwitter",
+              "url": "https://truthsocial.com/tags/DumpTwitter"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/WesternHighways/statuses/107865854232124718",
+          "url": "https://truthsocial.com/@WesternHighways/107865854232124718",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107865955918487832",
+        "_score": 4.1814,
+        "_source": {
+          "account": {
+            "acct": "xletsgobrandonx",
+            "display_name": "Trump Girl",
+            "id": "107837460101688807",
+            "username": "xletsgobrandonx"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span> <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><br />👉🏻Like<br />👉🏻Follow All<br />👉🏻ReTruth<br />👉🏻For Ride Leave Your @ In<br />Comments<br />👉🏻To Follow My Other Trains Search <a href=\"https://truthsocial.com/tags/Ranger787\" class=\"mention hashtag\" rel=\"tag\">#<span>Ranger787<\/span><\/a><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@CCMPATRIOT\" class=\"u-url mention\">@<span>CCMPATRIOT<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@RighteousRtHand\" class=\"u-url mention\">@<span>RighteousRtHand<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@floridaredneck\" class=\"u-url mention\">@<span>floridaredneck<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@brookeee_bell\" class=\"u-url mention\">@<span>brookeee_bell<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Kickbook\" class=\"u-url mention\">@<span>Kickbook<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Ranger787\" class=\"u-url mention\">@<span>Ranger787<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PissedTxVet\" class=\"u-url mention\">@<span>PissedTxVet<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@Chris11962\" class=\"u-url mention\">@<span>Chris11962<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PatriotXV11\" class=\"u-url mention\">@<span>PatriotXV11<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@BoYeshuaBo\" class=\"u-url mention\">@<span>BoYeshuaBo<\/span><\/a><\/span><\/p><p> ❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@PAgirl67\" class=\"u-url mention\">@<span>PAgirl67<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@djcarlson\" class=\"u-url mention\">@<span>djcarlson<\/span><\/a><\/span><\/p><p>🇺🇸 <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> 🇺🇸<\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@nomandates\" class=\"u-url mention\">@<span>nomandates<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@lovewins\" class=\"u-url mention\">@<span>lovewins<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@glembeck\" class=\"u-url mention\">@<span>glembeck<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@fakebkhater\" class=\"u-url mention\">@<span>fakebkhater<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@WillSmith\" class=\"u-url mention\">@<span>WillSmith<\/span><\/a><\/span><\/p><p>☃️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@randall82ndairborne\" class=\"u-url mention\">@<span>randall82ndairborne<\/span><\/a><\/span><\/p><p>❄️ <span class=\"h-card\"><a href=\"https://truthsocial.com/@GeFazio\" class=\"u-url mention\">@<span>GeFazio<\/span><\/a><\/span><br />🇺🇸🚂🚂🚂🚂 🇺🇸<\/p>",
+          "content_cleaned": "RT @Ranger787 #Ranger787👉🏻Like👉🏻Follow All👉🏻ReTruth👉🏻For Ride Leave Your @ InComments👉🏻To Follow My Other Trains Search #Ranger787☃️ @CCMPATRIOT❄️ @RighteousRtHand☃️ @floridaredneck❄️ @brookeee_bell☃️ @ali❄️ @eric☃️ @Kickbook❄️ @Ranger787☃️ @juanitab❄️ @PissedTxVet☃️ @Chris11962❄️ @PatriotXV11☃️ @BoYeshuaBo ❄️ @bubblecovfefe☃️ @PAgirl67❄️ @djcarlson🇺🇸 @realDonaldTrump 🇺🇸❄️ @nomandates☃️ @lovewins❄️ @glembeck☃️ @fakebkhater❄️ @WillSmith☃️ @randall82ndairborne❄️ @GeFazio🇺🇸🚂🚂🚂🚂 🇺🇸",
+          "created_at": "2022-02-26T19:31:08.402+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107865955918487832",
+          "last_seen_ts": "2022-09-05T06:54:05.377552+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107854680297184676",
+            "uri": "https://truthsocial.com/users/Ranger787/statuses/107854680297184676",
+            "url": "https://truthsocial.com/@Ranger787/107854680297184676"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/xletsgobrandonx/statuses/107865955918487832/activity",
+          "url": "https://truthsocial.com/users/xletsgobrandonx/statuses/107865955918487832/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

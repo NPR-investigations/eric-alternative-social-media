@@ -1,0 +1,77 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [33],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [8.2721],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "f724bd6f-9dcd-4a87-9739-647ca7abb469",
+        "_score": 8.2721,
+        "_source": {
+          "ad": false,
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "Rep Eric Swalwell (D-CA) apparently believes that parents shouldn’t have anything to do with the education of their own children.",
+          "bodywithurls": "Rep Eric Swalwell (D-CA) apparently believes that parents shouldn’t have anything to do with the education of their own children. https://conservativefiringline.com/rep-eric-swalwell-parents-should-not-be-in-charge-of-childrens-education/",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 1,
+          "createdAt": "2022-11-11T17:36:13.000000Z",
+          "createdAtformatted": "2022-11-11T17:36:13.000000Z",
+          "creator": "545ddda9a3774d938fcacd9e1ace5bb4",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "f724bd6f-9dcd-4a87-9739-647ca7abb469",
+          "image": "https://bl-images.parler.com/images/9a/18/9a1831eb-43ae-41c7-996d-e4d37a21e27d.png",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-11-22T02:55:10.343257+00:00",
+          "link": "https://conservativefiringline.com/rep-eric-swalwell-parents-should-not-be-in-charge-of-childrens-education/",
+          "name": "Joe Newby",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/f724bd6f-9dcd-4a87-9739-647ca7abb469",
+          "state": 0,
+          "suggested": false,
+          "title": "Rep Eric Swalwell: Parents Should Not be in Charge of Children's Education ⋆ Conservative Firing Line",
+          "totalcomments": 1,
+          "trolling": false,
+          "updatedAt": "2022-11-11T17:36:16.000000Z",
+          "upvoted": false,
+          "upvotes": 2,
+          "userid": "545ddda9a3774d938fcacd9e1ace5bb4",
+          "useridraw": "545ddda9-a377-4d93-8fca-cd9e1ace5bb4",
+          "username": "jnewby",
+          "verified": true,
+          "views": 15
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2553 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [59],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [39],
+      "relation": ["eq"]
+    },
+    "max_score": [12.853],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357765264",
+        "_score": 12.853,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638305308,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1653168748
+          },
+          "message": "Thoughts on eric zemmour",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 486035,
+            "replies": 1,
+            "comments": false,
+            "replies_pts": 557484,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 21:37:00.569995",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5583450097456259511",
+        "_score": 12.3607,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638303109,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1393,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Swalwell Simply Can't Resist Screaming Into the Wind\nhttps://redstate.com/kiradavis/2021/11/30/eric-swalwell-simply-cant-resist-screaming-into-the-wind-n484356",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1299998280
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 57,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 106,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 02:52:36.393413",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5630636802898409613",
+        "_score": 12.0688,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638287592,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 318,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NEW - France’s Eric Zemmour announces presidential candidacy.\n\n@disclosetv",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1310984791
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 63
+            }
+          ],
+          "forwards": 5,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638283928,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1179270258
+            },
+            "channel_post": 5840,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 16:00:12.230869",
+          "channelabout": "International security and conflict research \n\n❗Fast and accurate coverage of relevant events",
+          "channeltitle": "Intel Slava | Osint research",
+          "channelusername": "intelslava"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5224582498721246023",
+        "_score": 12.0688,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638286019,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 17,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NEW - France’s Eric Zemmour announces presidential candidacy.\n\n@disclosetv",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1216442906
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1459867032,
+            "replies_pts": 548078,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 63
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638283928,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1179270258
+            },
+            "channel_post": 5840,
+            "saved_from_peer": {}
+          },
+          "editdate": 1638286023,
+          "edithide": true,
+          "postauthor": "Wendy",
+          "archivedon": "2021-11-30 15:28:18.287547",
+          "channelabout": "22 Dedicated patriots✝️ from ACROSS THE POND 💦 providing the latest News 📰 \n\nChannel.     👉@wearethecure1 🇬🇧\nChatroom  👇                                                  https://t.me/c/1459867032/3688 🇺🇸\n\nbit.ly/PatriotMap 🇺🇸 \n\nMultiple patriotic channels",
+          "channeltitle": "🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🇩🇪We Are The Cure 🇺🇸🇳🇱🇧🇬🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "channelusername": "wearethecure1"
+        },
+        "_ignored": ["channelabout.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5064927191255488208",
+        "_score": 12.0688,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638283928,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 27148,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "NEW - France’s Eric Zemmour announces presidential candidacy.\n\n@disclosetv",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1179270258
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 3051618,
+            "replies": 240,
+            "comments": true,
+            "channel_id": 1448934279,
+            "replies_pts": 4551767,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 405580352
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1521789106
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1658612697
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 63
+            }
+          ],
+          "forwards": 88,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638283931,
+          "edithide": true,
+          "archivedon": "2021-11-30 15:38:20.845235",
+          "channelabout": "Observing world events unfold in the grand theatre of our time. \n\nTelegram chat: @disclosetv_chat\n\nWebsite https://www.disclose.tv",
+          "channeltitle": "Disclose.tv",
+          "channelusername": "disclosetv"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5564567003156452352",
+        "_score": 12.0688,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638284273,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 78,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NEW - France’s Eric Zemmour announces presidential candidacy.\n\n@disclosetv",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1295601717
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1458395831,
+            "replies_pts": 38487,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 63
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638283928,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1179270258
+            },
+            "channel_post": 5840,
+            "saved_from_peer": {}
+          },
+          "editdate": 1638284276,
+          "edithide": true,
+          "archivedon": "2021-11-30 16:00:12.251407",
+          "channeltitle": "Eurasia & Multipolarity",
+          "channelusername": "Dragonandbear"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6168367494336618001",
+        "_score": 11.8888,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638284662,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 958,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "— NEW - Eric Zemmour announces presidential candidacy in France.\n\n@TGNewsU",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1436184974
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 8,
+              "offset": 66,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-03-02 00:18:25.60772"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5582629449465077258",
+        "_score": 11.4719,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638316171,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 146,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "French Immigration-Restriction Patriot Eric Zemmour Declares For President, As His Mistress Is Allegedly Declared Pregnant\n\nhttps://vdare.com/posts/french-immigration-restrictionis-patriot-eric-zemmour-declares-for-president-as-his-mistress-is-allegedly-declared-pregnant",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1299807208
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 147,
+              "offset": 124
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-12-01 00:27:03.226471",
+          "channelabout": "Channel for VDARE.com",
+          "channeltitle": "VDARE.com",
+          "channelusername": "vdare"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5534671479565715340",
+        "_score": 11.3906,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638288922,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 710,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "New article:\nA brief introduction to Eric Zemmour featuring a few speeches and relevant quotes.\n\nhttps://thuletide.wordpress.com/2021/11/30/eric-zemmour-runs-for-french-presidency-translation-of-announcement-speech-and-quotes-from-a-recent-interview/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1288641123
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 153,
+              "offset": 97
+            }
+          ],
+          "forwards": 15,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 17:02:23.34209",
+          "channelabout": "Articles: https://thuletide.wordpress.com/ - Twitter: https://twitter.com/thuletide",
+          "channeltitle": "Thuletide",
+          "channelusername": "thuletide"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5169339113236610039",
+        "_score": 11.382,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638310888,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 61,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "French presidential election: Eric Zemmour announces 2022 run • FRANCE 24 English\nArticle",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1203580553
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 82,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 7,
+              "offset": 82,
+              "url": "https://www.youtube.com/watch?v=v_ySlmleRI0"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 23:09:05.709945",
+          "channeltitle": "Integral Life +",
+          "channelusername": "IntegralLife"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6347407316354103829",
+        "_score": 11.2318,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638280497,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 119,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "French far-right commentator Eric Zemmour will today announce he IS running for president\n\nRead: https://www.dailymail.co.uk/news/article-10257473/French-far-right-commentator-Eric-Zemmour-today-announce-running-president.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1477870931
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 89,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 171,
+              "offset": 97,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 270,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 281,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 281,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-08-03 06:02:24.537663",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5413482113951340163",
+        "_score": 11.2234,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638292139,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 68,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Striker here. \n\nHere at the National Justice Party, we endorse mulatto supremacy!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1260424525
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638292132,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285332338
+            },
+            "channel_post": 640,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 18:01:22.773326",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5354447101273191460",
+        "_score": 10.2426,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638312817,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Swalwell Loses His 'Covid Patience', Accuses Unvaccinated of Threatening His Young Children in Twitter Tirade \n\nhttps://www.thegatewaypundit.com/2021/11/eric-swalwell-loses-covid-patience-accuses-unvaccinated-threatening-young-children-twitter-tirade/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 381395,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 117,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 139,
+              "offset": 117
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 4,
+              "offset": 304
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 325
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 340
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 360
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 19,
+              "offset": 379
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638312823,
+          "edithide": true,
+          "archivedon": "2021-11-30 22:55:05.028176",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5553450841815546145",
+        "_score": 9.9877,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638292807,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 536,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 302 replies \n\nEric Swalwell Unleashes on the Unvaccinated in Twitter Rant\n\nhe's right you know.\n\nhttp://boards.4chan.org/pol/thread/350123704",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1638288632761.png",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 59,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 100
+            }
+          ],
+          "forwards": 5,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 18:07:20.555174",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5553450841815546202",
+        "_score": 9.8686,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638316208,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 460,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 305 replies \n\nEric Zammours Presidency Announcement Speech, Most Based Thread Ever.\n\nTHEY WILL NOT REPLACE US!!!\n\nhttp://boards.4chan.org/pol/thread/350164502",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1638308375073.jpg",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 69,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 117
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-12-01 00:27:03.257893",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5553450841815546136",
+        "_score": 9.8686,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638286806,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 306,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 315 replies \n\nEric zemmour is officially candidated to the french presidency\nhttps://www.youtube.com/watch?v=k8IGBDK1BH8\n\nhttp://boards.4chan.org/pol/thread/350097820",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1638271586859.jpg",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 80
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 125
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 16:00:12.257366",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6626382308565852140",
+        "_score": 9.6397,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638277600,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 13628,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Reminder. Eric Rice does a Patriots Prayer at 12 CST everyday. Really good stuff. 👇 His chats are also at 10 CST in the evenings.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1542824858
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 396657,
+            "replies": 7,
+            "comments": true,
+            "channel_id": 1535418383,
+            "replies_pts": 1200672,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1663059740
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1329436194
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1479218656
+              }
+            ]
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638277664,
+          "edithide": false,
+          "archivedon": "1682390047",
+          "channelabout": "Study Patterns\nConnects Dots\nLFG",
+          "channeltitle": "SQvQge Dawg",
+          "channelusername": "NewSavageDawg",
+          "id": 8172,
+          "noforwards": false,
+          "lastseents": "2023-04-25T02:44:30.726846"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5354447101273191169",
+        "_score": 9.4222,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638283930,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 42,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "NEW - France’s Eric Zemmour announces presidential candidacy.\n\n@disclosetv\nSource: Disclose.tv \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 380798,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 63
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 11,
+              "offset": 83
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 4,
+              "offset": 119
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 140
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 155
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 175
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 19,
+              "offset": 194
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638283935,
+          "edithide": true,
+          "archivedon": "2021-11-30 15:28:37.417374",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5354447101273191198",
+        "_score": 9.1158,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638286187,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 38,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "COVID vaccine mandate for Missouri health care workers blocked\nhttps://www.news-leader.com/story/news/politics/2021/11/29/vaccine-mandate-health-care-workers-missouri-blocked-judge-eric-schmitt-lawsuit/8795957002/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 380871,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 150,
+              "offset": 63
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638286184,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1488105748
+            },
+            "post_author": "S P",
+            "channel_post": 2520,
+            "saved_from_peer": {}
+          },
+          "editdate": 1638286191,
+          "edithide": true,
+          "archivedon": "2021-11-30 16:33:01.984886",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5782522656259784822",
+        "_score": 8.3172,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638269325,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 14,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": " The Associated Press (Twitter)\n\nRT @AP_Europe: Far-right former television commentator Eric Zemmour, who is sometimes likened to U.S. ex-President Donald Trump, is expected to announced his candidacy in the April presidential election in France. http://apne.ws/SiY0o3s",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1346348472
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 339638,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/SiY0o3s",
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1465623169469927424",
+              "length": 30,
+              "offset": 1
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 36
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 247
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638269327,
+          "edithide": true,
+          "archivedon": "2021-11-30 11:50:31.033753",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6276323434351822688",
+        "_score": 8.0848,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638305893,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 790,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "From Eric Zemmour's speech:\n\n\"... We will be worthy of our ancestors. We will not let them dominate us, subdue us, conquer us, colonize us. [Looks up, straight into the camera] We will not let them replace us.\"\n\nhttps://twitter.com/pegobry/status/1465641008260132871",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1461320425
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 54,
+              "offset": 212
+            }
+          ],
+          "forwards": 8,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 21:35:44.708176",
+          "channelabout": "⚜️ https://legiogloria.com/\n⚜️ https://thegoldenone.se/\n⚜️ https://www.instagram.com/thegloriouslion/\n⚜️ https://www.instagram.com/legiogloria/\n☀️ https://www.jotunheimnutrition.de/\n☀️ https://jotunheimnutrition.se/\n☀️ https://jotunheimnutrition.com/",
+          "channeltitle": "The Golden One",
+          "channelusername": "thegoldenone"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5782522656259785180",
+        "_score": 7.797,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638312124,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 10,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Reuters (Twitter)\n\nFrance's far-right pundit Eric Zemmour announced his candidacy for president. He is the top contender to challenge Marine Le Pen, leader of the more established far-right National Rally, for a place in a second round against President Emmanuel Macron https://reut.rs/3D2uZ52",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1346348472
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 340254,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1465805336820924423",
+              "length": 17,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 23,
+              "offset": 270
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638312127,
+          "edithide": true,
+          "archivedon": "2021-11-30 23:29:43.22108",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5397614048038668716",
+        "_score": 7.1703,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638290957,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 299,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Jeffrey Epsteins Anklägerin Jennifer Araoz äußert sich zum Prozess gegen Ghislaine Maxwell wegen sexuellen Missbrauchs\n\n-Jennifer Araoz hat Jeffrey Epstein beschuldigt, sie als Teenager sexuell missbraucht und vergewaltigt zu haben. Zusammen mit ihrem Anwalt Eric Lerner spricht sie bei \"CBS Mornings\" über den Beginn des Prozesses gegen Epsteins enge Mitarbeiterin und ehemalige Freundin Ghislaine Maxwell.\n\nCBS\n\nt.me/Q_D_R_A",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1256729953
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1451671597,
+            "replies_pts": 917803,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.cbsnews.com/video/jeffrey-epstein-accuser-jennifer-araoz-speaks-out-on-ghislaine-maxwells-sex-abuse-trial/",
+              "length": 3,
+              "offset": 409
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 12,
+              "offset": 414
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638290960,
+          "edithide": true,
+          "archivedon": "2021-11-30 16:54:04.690617",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5839098190275573491",
+        "_score": 6.9509,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638291000,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1340,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Der konservative Publizist Eric Zemmour kandidiert bei der Präsidentschaftswahl in Frankreich. Er habe sich zu einer Kandidatur bei der Präsidentenwahl im April 2022 entschieden, um Frankreich zu „retten“, sagte Zemmour in einer am Dienstag (30. November) auf Online-Plattformen veröffentlichten Videobotschaft.\n\nhttps://www.epochtimes.de/politik/ausland/rechtsradikaler-publizist-zemmour-tritt-bei-praesidentenwahl-in-frankreich-an-a3655652.html?telegram=1\n\nhttps://t.me/epochtimesde",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1359520990
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 144,
+              "offset": 313
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 25,
+              "offset": 459
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 17:09:13.675779",
+          "channelabout": "Willkommen auf unserem Epoch Times Kanal auf Telegram! Hier bekommen Sie regelmäßige Updates zu den wichtigsten Themen des Tages.",
+          "channeltitle": "Epoch Times Deutschland",
+          "channelusername": "epochtimesde"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5354447101273191159",
+        "_score": 6.3771,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638282681,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 61,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "BREAKING: Far-right nationalist Eric Zemmour launches presidential run in France\n\n\"You feel like foreigners in your own country,\" he told voters in his announcement speech. \"Immigration is not the cause of all our problems but it aggravates them all.\" \n\nRecent polls show him to be the best candidate to beat Macron. - France24\n\nSource: Breaking911 \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 380798,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 8,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 4,
+              "offset": 373
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 394
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 409
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 429
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 19,
+              "offset": 448
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638282685,
+          "edithide": true,
+          "archivedon": "2021-11-30 15:28:37.421637",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5530451017067429105",
+        "_score": 6.3771,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638291354,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 245,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Letzte Hoffnung für Frankreich? Èric Zemmour will Präsident werden\n\nFrankreichs neuer Präsidentschaftskandidat Èric Zemmour (Foto:Imago)\n\nWann immer die äußeren Umstände einen Politikwechsel verlangen, kann dieser über die verkrusteten Strukturen einer Parteiendemokratie wie der Bundesrepublik nicht oder nicht im notwendigen Tempo herbeigeführt werden, sondern diese Strukturen erweisen sich im Gegenteil noch als selbstverstärkender Mechanismus, um die reformbedürftigen Bereiche weiter zu verfestigen. Dies lässt sich in…\n\nhttps://ansage.org/letzte-hoffnung-fuer-frankreich-eric-zemmour-will-praesident-werden/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1287658470
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 87,
+              "offset": 527
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "postauthor": "jouwatch",
+          "archivedon": "2021-11-30 17:01:48.881832",
+          "channelabout": "journalistenwatch.com",
+          "channeltitle": "Jouwatch",
+          "channelusername": "jouwatch"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6187891440706778202",
+        "_score": 6.3771,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638262490,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 14,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1418654653
+          },
+          "message": "Liberal Senator Eric Abetz says an ABC journalist got a large bonus in “recent times”, of which the ABC refused to reveal details.( really )\n\n“A journalist within the ABC in recent times got a $58,000 bonus,” (for not working) Mr Abetz told Sky News host Chris Kenny.\n\nWell this doesn't surprise me at all. Wonder how much Ita butrose received And the rest of the Swine at The ABC.☠☠☠👹 Payoffs everywhere.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1440730747
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 162763,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638262463,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1569569896
+            },
+            "channel_post": 369,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 08:56:49.054257",
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6805392310625387479",
+        "_score": 6.2097,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638289619,
+          "post": false,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "FOCUS Online",
+              "description": "Die Zahl der Corona-Fälle mit der Omikron steigt rasant, besonders in Südafrika verbreitet sich die Variante. Bislang meldeten die Behörden vor allem milde Verläufe. Daraus darauf zu schließen, dass Omikron generell milde Verläufe auslöst, ist laut Harvard-Epidemiologe Eric Feigl-Ding allerdings falsch.",
+              "display_url": "focus.de/gesundheit/news/harvard-epidemiologe-entsetzt-omikron-mild-das-ist-unsinn_id_24473412.html",
+              "hash": -451575408,
+              "id": 4.44812123117925e+18,
+              "photo": {
+                "access_hash": 8.82672707791514e+18,
+                "date": 1644850773,
+                "dc_id": 4,
+                "file_reference": "AGRNaPUvxGHillzUVmk6fipIBhmf",
+                "has_stickers": false,
+                "id": 5.7886763570085e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQorNCIUHmrvDA4INRqQV27QT2+v1qZUaUoDkYzwfSlFq5B2jJHQetXydehpzdG9SARsxZTgFe1MJxg46VN5WM+YcEfrTblVVUKAgN1B6is3Fo05k9GRbx07HrRTCKKfMyHEubiGQgnipVkYIWzzRRXYc5FPl4YpmJLuSD+FNhA8wKQCCO9FFczXvM3TtAqniiiisimfw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 160,
+                    "size": 16079,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 400,
+                    "size": 63427,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1200,
+                    "sizes": [12126, 27787, 43027, 49062, 54173]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "FOCUS Online",
+              "title": "\"Mild? Das ist Unsinn\": Omikron vervierfacht Infektionsfälle: Harvard-Mediziner warnt vor Verharmlosung",
+              "type": "photo",
+              "url": "https://www.focus.de/gesundheit/news/mild-das-ist-unsinn-harvard-epidemiologe-entsetzt-omikron-mild-das-ist-unsinn_id_24473412.html"
+            }
+          },
+          "views": 97,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1538718369
+          },
+          "message": "Omikron vervierfacht Infektionsfälle: Harvard-Mediziner warnt vor Verharmlosung\n\nDie Zahl der Corona-Fälle mit der Omikron steigt rasant, besonders in Südafrika verbreitet sich die Variante. Bislang meldeten die Behörden vor allem milde Verläufe. Daraus darauf zu schließen, dass Omikron generell milde Verläufe auslöst, ist laut Harvard-Epidemiologe Eric Feigl-Ding allerdings falsch.\n\nQuelle: https://www.focus.de/gesundheit/news/mild-das-ist-unsinn-harvard-epidemiologe-entsetzt-omikron-mild-das-ist-unsinn_id_24473412.html\n\n💥 Bitte abonniert unsere Gruppe: https://t.me/gesunder_verstand 💥",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1584503872
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 115299,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 79,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 131,
+              "offset": 395,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 562,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638289617,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1538718369
+            },
+            "channel_post": 4307,
+            "saved_from_peer": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            },
+            "saved_from_msg_id": 4307,
+            "imported": false
+          },
+          "edithide": false,
+          "archivedon": "1682794771",
+          "channelabout": "Zu viele Menschen lassen sich von Medien und anderen Einflüssen ihren Verstand rauben 🤡😷\n\nMit unserem Kanal sorgen wir dafür, dass damit für alle hier ansiedelnden Mitglieder Schluss damit ist 🤜",
+          "channeltitle": "Gesunder Verstand",
+          "channelusername": "gesunder_verstand",
+          "id": 17367,
+          "noforwards": false,
+          "lastseents": "2023-04-29T18:59:31.183343",
+          "collected_by": "crawler",
+          "url": "t.me/gesunder_verstand/17367"
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6276323434351822685",
+        "_score": 5.9043,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638284627,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 336,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "A note on Eric Zemmour.\n\nI will delve deeper into this in the coming time, but here is my take for now:\n\nI view Zemmour in a similar way as Trump, the main positive effect is in the metapolitical realm. Just as Trump greatly discredited the media, so has Zemmour brought certain talking points – The Great Replacement to be more precise – more into the mainstream. \n\nThat being said, I don't have any higher hopes for any greater change in the political arena.\n\nAnyway, exciting times ahead!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1461320425
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 15:14:09.964498",
+          "channelabout": "⚜️ https://legiogloria.com/\n⚜️ https://thegoldenone.se/\n⚜️ https://www.instagram.com/thegloriouslion/\n⚜️ https://www.instagram.com/legiogloria/\n☀️ https://www.jotunheimnutrition.de/\n☀️ https://jotunheimnutrition.se/\n☀️ https://jotunheimnutrition.com/",
+          "channeltitle": "The Golden One",
+          "channelusername": "thegoldenone"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5553450841815546057",
+        "_score": 5.7646,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638230415,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 303,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 316 replies \n\nThis can't be ignored anymore\n\nThe NJP vs AF infighting keeps intensifying by the day. It's escalated to the point where it's shitting up /pol/ on a daily basis.\n\nHow will these two nationalist groups settle their differences once and for all?\n\nIMO, Nick Fuentes and Eric Striker should have an IRL debate. On stage, with both of their fanbases in the audience on different sides of the venue. At the end, a vote will be held to determine the victor.\n\nThoughts?\n\nhttp://boards.4chan.org/pol/thread/350015506",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1638220449764.jpg",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 29,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 480
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 00:17:12.341469",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6290698938999648284",
+        "_score": 5.7646,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638258712,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 600,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "A new poll shows that the French are strongly self-aware. \n\nOn France's national identity, 57% agreed with the statement: \"We are people of the white race, Christian faith, and Greco-Roman culture.\"  \n\nIdentifying as \"white\" is not a purely new world phenomenon, as trolls claim. \n\nSadly, this sentiment is slated to be bottled up and devoured by the Zionist neocon Eric Zemmour.  \n\nhttps://www.breizh-info.com/2021/11/26/175153/immigration-selon-un-sondage-commande-par-la-licra-69-des-francais-trouvent-quil-y-a-trop-dimmigres-en-france/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1464667483
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 156,
+              "offset": 383
+            }
+          ],
+          "forwards": 12,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 08:53:26.65233",
+          "channelabout": "Official Telegram of Eric Striker",
+          "channeltitle": "Eric Striker",
+          "channelusername": "EricStrikerTRS"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6425689812652530399",
+        "_score": 5.5079,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638294016,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 863,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "❗️Sahra Wagenknecht - Identitätspolitik und Cancel Culture – \nWie selbstgerecht sind die Linken?\n\nFrüher wählten die Arbeiter linke Parteien, und diese kämpften für höhere Löhne. Heute interessieren sich Linke für Gendersternchen, Migration und Identitätspolitik – und die Arbeiter wählen häufig Rechtspopulisten. Das gilt nicht nur für die Schweiz oder Deutschland. Ähnliches sieht man in Frankreich und den Vereinigten Staaten. Die neue Linke lebt in Grossstädten und ist akademisch gebildet. Wie konnte es so weit kommen? Und wie passt dazu Olaf Scholz’ Wahlsieg?\nMit der deutschen Politikerin und Publizistin Sahra Wagenknecht spricht NZZ-Chefredaktor Eric Gujer.\n▶️https://www.youtube.com/watch?v=hMKYc6XGldQ\n\n👉 @Nachrichtenwelt",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1496097495
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 98,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 47,
+              "offset": 670
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 670
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 718
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 16,
+              "offset": 718
+            }
+          ],
+          "forwards": 8,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 18:33:06.939374",
+          "channelabout": "🌐 Nachrichtenwelt\n· Wichtiges, Interessantes & Sehenswertes                     \n· Ehrlicher, freier & kritischer Journalismus außerhalb der Mainstream-Filterblase\n\n* Teilen ausdrücklich erwünscht ! *\n\n🌐NachrichtenWeltVideos🎥\n👉 @NachrichtenWeltVideos",
+          "channeltitle": "🌐 Nachrichtenwelt",
+          "channelusername": "NachrichtenWelt"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6276323434351822689",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638306167,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 705,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Regarding Eric Zemmour by Chevalier Gaillard on Gab:\n\n\"You're quite right when it comes to the changes Zemmour could bring, even if he were to be elected - the powers of the status quo have been trained to handle Trump, for one, and the French, \"European\" and otherwise globalized deeps states will oppose him in concert from the onset.\n\nThat being said, Zemmour is a very different man. He's been speaking up against the programmed obsolescence of France for decades. He's been to trial and condemned by the French equivalent of the ACLU and ADL. He's firm and intelligent, where Trump is merely cunning and a blowhard.\n\nEven if he is elected and then defeated, those who will have believed in him will not have desertion and betrayal from their leader.\"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1461320425
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 9,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 21:35:44.707976",
+          "channelabout": "⚜️ https://legiogloria.com/\n⚜️ https://thegoldenone.se/\n⚜️ https://www.instagram.com/thegloriouslion/\n⚜️ https://www.instagram.com/legiogloria/\n☀️ https://www.jotunheimnutrition.de/\n☀️ https://jotunheimnutrition.se/\n☀️ https://jotunheimnutrition.com/",
+          "channeltitle": "The Golden One",
+          "channelusername": "thegoldenone"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357765195",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638299843,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1490,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 861997854
+          },
+          "message": "Ghislaine Maxwell's secret \"husband\" is CEO of the worldwide company SHIPPING [HUMAN TRAFFIC].\n\n\"Scott BORGERSON, the CEO of a technology company called CargoMetrics, has been linked since last year to Jeffrey Epstein's alleged mistress, Ghislaine MAXWELL, who the authorities arrested in early July.\"\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial support from private equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer and Maersk Tankers .\n\nThe Pentagon's Pedophile Task Force (working under the JOINT SPECIAL OPERATIONS COMMAND) has uncovered actionable evidence (delivered to the DoD) that has shown that the coordination of HUMAN TRAFFIC AROUND THE WORLD has been expanded to a huge database that includes every conceivable factor of a human life (blood lineage, DNA, genetics.\n \n@DismantlingTheCabal\n@DTCC1",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 555588,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 893,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 20,
+              "offset": 897
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 6,
+              "offset": 918
+            }
+          ],
+          "forwards": 30,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638239435,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1383999758
+            },
+            "channel_post": 97014,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 19:30:58.219545",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5341686564458080951",
+        "_score": 4.5511,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638312491,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 62,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷 “WE WILL NOT BE REPLACED”: FAR-RIGHT INTELLECTUAL ERIC ZEMMOUR OFFICIALLY RUNNING FOR PRESIDENT\n\n🎙 Today, the 63 years old conservative journalist declared on his youtube channel his run for the presidential elections, underlying his will to « prevent our children and our grandchildren from experiencing barbarity ».\n\n🗳 French presidential elections use a two-round system, with the top two candidates in the first round advancing to a runoff. Recent polls have put Mr. Zemmour in third place, with roughly 14 to 15 percent support, behind President Emmanuel Macron and Marine Le Pen, the leader of the far-right National Rally party.\n\n📊 As demonstrated in one of our previous poll, many among our readers wishes to know more about this peculiar candidate. As such, we decided to share a subtitled version of his announcement. Enjoy, and share!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1243708321
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 97,
+              "offset": 5
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 97,
+              "offset": 5
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 15,
+              "offset": 169,
+              "url": "https://www.youtube.com/watch?v=k8IGBDK1BH8"
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 72,
+              "offset": 250
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 452,
+              "url": "https://www.ifop.com/publication/les-intentions-de-vote-a-lelection-presidentielle-dans-la-perspective-de-la-designation-du-candidat-les-republicains/"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 24,
+              "offset": 666,
+              "url": "https://t.me/GalliaDaily/3350"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638304994,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1279884824
+            },
+            "channel_post": 3482,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 23:12:50.835325",
+          "channelabout": "WE ARE ALLWAYS WATCHING ! WE ARE IN YOUR DREAMS AND YOUR NIGHTMARES ! WE ARE PATRIOTS OF THE SHADOWS !!JOIN US !",
+          "channeltitle": "THE SHADOW MAN !",
+          "channelusername": "shadowman2020"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5497063461726719386",
+        "_score": 4.5511,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638304994,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 808,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷 “WE WILL NOT BE REPLACED”: FAR-RIGHT INTELLECTUAL ERIC ZEMMOUR OFFICIALLY RUNNING FOR PRESIDENT\n\n🎙 Today, the 63 years old conservative journalist declared on his youtube channel his run for the presidential elections, underlying his will to « prevent our children and our grandchildren from experiencing barbarity ».\n\n🗳 French presidential elections use a two-round system, with the top two candidates in the first round advancing to a runoff. Recent polls have put Mr. Zemmour in third place, with roughly 14 to 15 percent support, behind President Emmanuel Macron and Marine Le Pen, the leader of the far-right National Rally party.\n\n📊 As demonstrated in one of our previous poll, many among our readers wishes to know more about this peculiar candidate. As such, we decided to share a subtitled version of his announcement. Enjoy, and share!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1279884824
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 385809,
+            "replies": 43,
+            "comments": true,
+            "channel_id": 1173772885,
+            "replies_pts": 792288,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 948504702
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1260728637
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1286314169
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 97,
+              "offset": 5
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 97,
+              "offset": 5
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 15,
+              "offset": 169,
+              "url": "https://www.youtube.com/watch?v=k8IGBDK1BH8"
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 72,
+              "offset": 250
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 452,
+              "url": "https://www.ifop.com/publication/les-intentions-de-vote-a-lelection-presidentielle-dans-la-perspective-de-la-designation-du-candidat-les-republicains/"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 24,
+              "offset": 666,
+              "url": "https://t.me/GalliaDaily/3350"
+            }
+          ],
+          "forwards": 18,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638305288,
+          "edithide": false,
+          "archivedon": "2021-11-30 21:16:03.779395",
+          "channelabout": "✍🏻 Sharing news from France, in English.\n\nℹ️ Rules / info: \nhttps://t.me/GalliaDaily/3\n\n✉️ Contact:\n@Gallia_Bot",
+          "channeltitle": "GALLIA DAILY | 🇫🇷 IN 🇬🇧",
+          "channelusername": "GalliaDaily"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6125474132692830133",
+        "_score": 3.2274,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638301985,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 243,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Zemmour has announced he's running for president in France. You can watch his video here, and read the transcripts here. (It's all in French)\n\nI have mixed feelings about him, but overall I'd say his role in the media is something we can capitalize on. Yes, I know he's Jewish, but his rhetoric and actions are clearly having a net positive in terms of pushing the Overton window in our direction.\n\nThe lines: \"Vous vous sentez étrangers dans votre propre pays. Vous êtes des exilés de l’intérieur\" are particularly good. (You feel like foreigners in your own country. You are exiles of the interior.) \n\nHere are some more: \"Nous serons dignes de nos ancêtres. Nous ne nous laisserons pas dominer, vassaliser, conquérir, coloniser. Nous ne nous laisserons pas remplacer.\" (We will be worthy of our ancestors. We will not let ourselves be dominated, subdued, conquered, colonized. We will not let ourselves be replaced.)\n\nThese are the kinds of sentiments we want normalized and accepted in the mainstream. Whatever Zemmour ends up doing in the long run, he is helping right now in a very tangible way to normalize resistance to replacement.\n\nYes, we should remain vigilant of certain mainstream actors, but we should never refuse to take advantage of opportunities no matter where they come from. Zemmour is overall a potential opportunity for us. This does not mean we give him unqualified support a la Trump in 2016 or something. It means we play off his rhetoric and the public response to it.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1426198085
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 967,
+            "replies": 15,
+            "comments": true,
+            "channel_id": 1740639193,
+            "replies_pts": 1240,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 608247338
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 336851889
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 255677097
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=k8IGBDK1BH8",
+              "length": 4,
+              "offset": 89
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.zemmour2022.fr/candidature?s=09",
+              "length": 4,
+              "offset": 120
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 88,
+              "offset": 415
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 88,
+              "offset": 415
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 147,
+              "offset": 629
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 147,
+              "offset": 629
+            }
+          ],
+          "forwards": 4,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638303506,
+          "edithide": false,
+          "archivedon": "2021-11-30 20:29:43.063111",
+          "channelabout": "BitChute: https://www.bitchute.com/americankrogan/                                                 DLive: https://dlive.tv/AmericanKrogan                                        Odysee: https://odysee.com/@americankrogan:3",
+          "channeltitle": "American Krogan",
+          "channelusername": "OfficialAmericanKrogan"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5534671479565715338",
+        "_score": 2.8363,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638281373,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 683,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "France: Eric Zemmour announced that he is officially running for presidency.\n\nBelow are some key quotes from his interview with the Spectator (https://archive.vn/7YcTq)\n\n\"[EU's border agency, Frontex is] in reality useless. A few hundred agents who cannot control anything and when the poor fellows want to do their job and turn the migrants back, the European parliament and the Commission in Brussels accuse them of brutality.\"\n\n\"[Poland] should be helped [to build a wall on the Belarusian border]. Contrary to the Commission in Brussels, I think that walls should be built wherever possible.\"\n\n\"Immigration is war. They want to invade our European countries. That’s all. It’s nothing else. It’s war.\"\n\n\"[Western societies have] forgotten that in Christian humanism there is indeed the respect for the individual but that is rooted in a culture, a religion, a people, a land. [Today] we have the individual who is sacred [...] but who is completely isolated from his people, his historical context, his customs. You see it is believed that individuals are interchangeable, that they are only consumers. It’s an economistic view that I don’t share. I think that people are first of all a product of their culture, their people, their customs.\"\n\n\"For 40 years [European leaders have] been afraid to confront the politically correct, afraid of riots in suburbs, afraid of being seen in a bad light by the media, afraid of not obeying the judges.\"\n\n\"[Militant political correctness, 'wokeism', is] a generalised offensive against French and western culture, against the white heterosexual man. These people want above all to make the French and all westerners feel guilty, ashamed of their history, so that they amputate themselves, destroy themselves, abandon their culture, their civilisation, simply so that they no longer feel guilty.\"\n\n\"It is by destroying our cultures, our history, that they make a clean sweep of all that and allow a foreign culture, history and civilisation to come and replace it.\"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1288641123
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 24,
+              "offset": 143
+            }
+          ],
+          "forwards": 12,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "editdate": 1638281389,
+          "edithide": false,
+          "archivedon": "2021-11-30 14:53:23.561147",
+          "channelabout": "Articles: https://thuletide.wordpress.com/ - Twitter: https://twitter.com/thuletide",
+          "channeltitle": "Thuletide",
+          "channelusername": "thuletide"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5961714331141497787",
+        "_score": 2.359,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638234535,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 335,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2145112926
+          },
+          "message": "China-Israel tech transfer\n\nUri Dan, writing in the New York Post, March 30, 1997, reported that back in 1979 then-Israeli Prime Minister Menachem Begin got U.S. approval for authorising Shaul Eisenberg to undertake a $10 billion 10-year deal to modernise the Chinese armed forces thereby “strengthening the counterbalance to Soviet military might.” Dan describes this deal as “one of the most important in Israeli history” and that “the Chinese insisted on absolute secrecy.”[2]\n\nIsrael’s role as a major supplier of arms for China, including sophisticated military equipment originating from the USA, has become a public scandal on several occasions over the past decade.\nIn 1999 the New York Times reported: “Israel has long had a close, secretive military relationship with China that arms experts say has resulted in billions of dollars of weapons sales in recent years and raised a variety of concerns in the United States.\" [3] Note that The Times stated the Sino-Israeli relationship is close, secret, and of long duration.\n\nElta, a subsidiary of the Israeli Aircraft Industry, designed Phalcon, a sophisticated radar system for the Chinese Air Force.[4]\n\nIn 1999 Howard Phillips reported:\nIsrael is China’s second-largest supplier. A recent report by Kenneth W. Allen and Eric A. McVadon of the Henry L. Stimson Center, a research organization in Washington, said Israel had provided China with a range of weapons–including electronic components for tanks, communications and optical equipment, aircraft and missiles–during a relationship that began at least two decades ago. Full diplomatic ties were not established until 1997.“Both China and Israel appear to gain military and political benefits from the arms and technology transfer relationship,” the report said. “Besides seeking money from China, some Israeli officials claim the sale of military technology to China will secure Beijing’s agreement not to sell specific weapons to Israel’s enemies in the Middle East.”[5]\n\nAfter a deal between China and Israel on advanced weapons technology became public and resulted in cancellation, Israeli and Chinese diplomats met to overcome difficulties. A Jewish newspaper reported:\n\n\"JERUSALEM — Defense Minister Binyamin Ben-Eliezer met with Chinese Ambassador Pan Zhanlin in Tel Aviv Monday to discuss the cancellation of Israel’s sale of the Phalcon advanced radar system.\"\n\nBen-Eliezer appraised relations between the two countries and glossed over the affair. “We have to see it as an incident inside the family and not as a crisis between two states,” he told Zhanlin. Ben-Eliezer promised to work to strengthen the defense ties with Beijing.\n\nZhanlin told Ben-Eliezer that he believes China knows how to overcome the difficulties and strengthen the ties, according to a statement issued by the Defense Ministry. China is fully prepared to cooperate with Israel.”[6]",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 961558,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 13,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638214319,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1235314961
+            },
+            "channel_post": 1172,
+            "saved_from_peer": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 01:39:21.289196",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

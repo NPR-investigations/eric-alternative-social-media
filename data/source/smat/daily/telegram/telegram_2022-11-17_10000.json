@@ -1,0 +1,1315 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [35.0263],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5658366997252108315",
+        "_score": 35.0263,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1680802014",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1668702553,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 157,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1916758036
+          },
+          "fwdfrom": {
+            "channel_post": 5796,
+            "date": 1668697133,
+            "from_id": {
+              "channel_id": 1285984313,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 94235,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "A week after being elected as Alabama’s next Secretary of State, Wes Allen sent a certified letter to the Electronic Registration Information Center (ERIC) stating that Alabama would cease participation with the non-profit upon his inauguration on January 16, 2023.",
+              "display_url": "1819news.com/news/item/secretary-of-state-elect-notifies-voter-maintenance-program-eric-of-alabamas-withdrawal?token=JifF29FIjGAbUCRBXphKntfo7Ag6zPzr",
+              "hash": 0,
+              "id": 3.09739203985122e+18,
+              "photo": {
+                "access_hash": -3.6956119324986e+18,
+                "date": 1668655442,
+                "dc_id": 4,
+                "file_reference": "AGQu/6CWraR5gxklIsyLxh1qI4WG",
+                "has_stickers": false,
+                "id": 6.03159674374283e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUoNvy8VJCEBUAfNjrnrVZ5txKjpTpJAjL82PlU8den/wCqlylJmgEBxkDingVWtbgSKRv3be+MVL5y8hTkjsKQh0syQrluvpRVGe5WVSMEFTgiiiwFTJDEZyfU025+8D/sCiitGC6lixJSCUg/wg/zqMsXcls/d9feiip6i6EsYUtt2gbmAJHeiiioZSM=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 167,
+                    "size": 13871,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 418,
+                    "size": 36059,
+                    "w": 800
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "1819 News",
+              "title": "Secretary of State-elect Wes Allen notifies voter maintenance program…",
+              "type": "photo",
+              "url": "https://1819news.com/news/item/secretary-of-state-elect-notifies-voter-maintenance-program-eric-of-alabamas-withdrawal?token=JifF29FIjGAbUCRBXphKntfo7Ag6zPzr"
+            }
+          },
+          "message": "https://1819news.com/news/item/secretary-of-state-elect-notifies-voter-maintenance-program-eric-of-alabamas-withdrawal?token=JifF29FIjGAbUCRBXphKntfo7Ag6zPzr",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 94236,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 164146
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.27270476473594e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680802014,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "MossandBark",
+            "id": 1916758036,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.09182691118899e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIt712980UUVic92c=",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MossandBark",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 629,
+          "lastseents": "2023-04-06T17:26:54.328265"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6347407316354144687",
+        "_score": 12.6194,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-11-17 04:31:06.046623",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1668652490,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 67,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 153,
+              "offset": 75,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 230,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 241,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 241,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC comptroller demands Eric Adams reveal how much 'Tent City' cost\n\nRead: https://www.dailymail.co.uk/news/article-11437011/NYC-comptroller-demands-Eric-Adams-reveal-Tent-City-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 59
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6220726229461374288",
+        "_score": 12.2904,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1681651828",
+          "channelabout": "TAKE TEXAS BACK 🏴‍☠️🇺🇸\nBALLOT FRAUD IS RAMPANT🏴‍☠️ 🇺🇸\nNO RINOs❌\nNO COMMIES❌\nNO QUARTER❌\nTakingbacktexas.org\nTARRANT CO. TEXAS SLATE\nBUILDING A NEW SLATE OF CONSERVATIVE CANDIDATES.\nhttps://linktr.ee/tbtx",
+          "channeltitle": "Taking Back Texas/ Tarrant County TX SLATE (TBTX)",
+          "channelusername": "takingTexasback",
+          "date": 1668713320,
+          "editdate": 1668713353,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1668713150,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1585398088
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 5456,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "You go Girl ! YOU ARE A ROCK STAR ! Don't forget to mention that using ERIC is against federal law and State law.  Alabama's newly elected SOS just announced that they are withdrawing from ERIC/ Louisiana did it, too.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1448375692,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "7 HighSeas",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 9,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1774934562,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34642
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 260,
+          "lastseents": "2023-04-16T13:30:28.790300"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "4942860393887308268",
+        "_score": 8.3593,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-18 01:03:57.084708",
+          "channeltitle": "Mark Collett",
+          "channelusername": "markacollett",
+          "date": 1668722219,
+          "editdate": 1668722245,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 227,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 44,
+              "offset": 280,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The archive of last night's episode of Patriotic Weekly Review with Eric Striker can be found on Odysee and BitChute - please support my work on those platforms as they contain a full archive of all my previous videos:\nOdysee: https://odysee.com/@MarkCollett:6/PWR184:d\nBitChute: https://www.bitchute.com/video/Uvkmzvit7yay/",
+          "peerid": {
+            "channel_id": 1150849367,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1099
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6053850042588992248",
+        "_score": 6.9355,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-17 20:46:07.890922",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "date": 1668704771,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 442,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 18,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Let's be clear, there aren't sides here. Mr. Ngo did not instigate this incident and he was victimized here ... I think he's blameless,\" said Judge Eric L. Dahlin. Despite the finding I was a victim in Oregon v. John Colin Hacker, the judge would not convict the Portland Antifa member of third-degree robbery at the trial on Nov. 15, 2022. Antifa threatened to find and kill me for testifying. \n\nPlease support my independent journalism at www.andy-ngo.com",
+          "peerid": {
+            "channel_id": 1409521802,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 2391,
+          "mediaref": "1efed0e3509a91835d96fb273229773095ad9f05"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5354447101273356636",
+        "_score": 6.9355,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-17 21:07:00.855622",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1668704779,
+          "editdate": 1668704783,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 442,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4856,
+            "date": 1668704771,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Let's be clear, there aren't sides here. Mr. Ngo did not instigate this incident and he was victimized here ... I think he's blameless,\" said Judge Eric L. Dahlin. Despite the finding I was a victim in Oregon v. John Colin Hacker, the judge would not convict the Portland Antifa member of third-degree robbery at the trial on Nov. 15, 2022. Antifa threatened to find and kill me for testifying. \n\nPlease support my independent journalism at www.andy-ngo.com",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 973833
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 44
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5986031576977245598",
+        "_score": 4.9412,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681228657",
+          "channelabout": "❗Donald Trump channel",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1668671586,
+          "editdate": 1668679134,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 83,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 13,
+              "offset": 136,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wnlL5MibZ9Y1Yjgy"
+            },
+            {
+              "length": 7,
+              "offset": 175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 14,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+YSwehk-ZtfMxYzYy"
+            },
+            {
+              "length": 11,
+              "offset": 245,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+KRHHGIvx091jZDcy"
+            },
+            {
+              "length": 14,
+              "offset": 278,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+PmC9MeTUHCE2MDk6"
+            },
+            {
+              "length": 10,
+              "offset": 312,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+hh0uXUYzBw01YjVi"
+            },
+            {
+              "length": 18,
+              "offset": 350,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+O-qcfSyzeG9iMTYy"
+            },
+            {
+              "length": 8,
+              "offset": 385,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+9Vbg1gtxL6RlNzZi"
+            },
+            {
+              "length": 13,
+              "offset": 414,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+uS_iD6IWq4IyMTUy"
+            },
+            {
+              "length": 6,
+              "offset": 441,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+D_9LCuuyyP04ZTMx"
+            },
+            {
+              "length": 11,
+              "offset": 466,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+pl2K5Freu8hkM2Q0"
+            },
+            {
+              "length": 15,
+              "offset": 500,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Y1z5_ORUcUpjY2Ni"
+            },
+            {
+              "length": 18,
+              "offset": 541,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ej-OU77FSA1jN2Qy"
+            },
+            {
+              "length": 9,
+              "offset": 576,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+z2EX4bPqfeI3OGNi"
+            },
+            {
+              "length": 19,
+              "offset": 612,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+kwWkRCFZgihjYjNi"
+            },
+            {
+              "length": 12,
+              "offset": 651,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+n6eEyg6GW9I0OGMy"
+            },
+            {
+              "length": 14,
+              "offset": 685,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ESFBNKlZiTE0ZGEy"
+            },
+            {
+              "length": 17,
+              "offset": 726,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+qWDLMSQtiwowZjBi"
+            },
+            {
+              "length": 17,
+              "offset": 768,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+aWfzVLU2N1o5ODYy"
+            },
+            {
+              "length": 12,
+              "offset": 805,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+RSk2WWmC0OI1NTIy"
+            },
+            {
+              "length": 15,
+              "offset": 840,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+lOAVSVhYfsM4ODJi"
+            },
+            {
+              "length": 15,
+              "offset": 878,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wWsv3boIYD1mNjQ6"
+            },
+            {
+              "length": 6,
+              "offset": 907,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+JYBv1jw6f281ZmZi"
+            },
+            {
+              "length": 17,
+              "offset": 940,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+A8LVv2ANkoliMTZi"
+            },
+            {
+              "length": 13,
+              "offset": 978,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+faAMh7DfYwg2ZTUy"
+            },
+            {
+              "length": 14,
+              "offset": 1013,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+d-sfNIL_UjkzMGJi"
+            },
+            {
+              "length": 15,
+              "offset": 1052,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Xzufy6umap8wZjJi"
+            },
+            {
+              "length": 39,
+              "offset": 1079,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+f_pfhObH7xQ4OTM6"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49,
+            "date": 1661702742,
+            "from_id": {
+              "channel_id": 1274719254,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 1438,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "‼️🇺🇸‼️SHARE‼️🇺🇸‼️SHARE‼️🇺🇸‼️\n\nBIG TECH WON’T SILENCE US - Join These Popular Conservative Voices on Telegram\n\n🇺🇸 Donald Trump — @Donald_Trump\n🇺🇸 Nesara (official) — @Nesara\n🇺🇸 Melania Trump — @Melania_Trump\n🇺🇸White Hats (secret) — @White_Hats\n🇺🇸 General Flynn — @General_Flynn\n🇺🇸 Qanon (Q17) — @Qanon_Q17\n🇺🇸 Donald Trump (2024) — @Donald_Trump_2024\n🇺🇸 Mr. Pool — @Mr_Pool\n🇺🇸 Ivanka Trump — @Ivanka_Trump\n🇺🇸 Qanon — @Qanon\n🇺🇸 Eric Trump — @Eric_Trump\n🇺🇸 Trump War Room — @Trump_War_Room\n🇺🇸 TAKE BACK AMERICA — @TAKE_BACK_AMERICA\n🇺🇸 Lin Wood — @Lin_Wood\n🇺🇸 The anti-globalist — @The_anti_globalist\n🇺🇸 Dan Scavino — @Dan_Scavino\n🇺🇸 Nesara Gesara — @Nesara_Gesara\n🇺🇸 Donald Trump (Q17) — @Donald_Trump_Q17\n🇺🇸 American Patriot — @American_Patriot\n🇺🇸 John Durham — @John_Durham\n🇺🇸 Michael Pompeo — @Michael_Pompeo\n🇺🇸 Michael Yeadon — @Michael_Yeadon\n🇺🇸 Q-Tip - @Q_Tip\n🇺🇸 Ivanka Trump (Fan) - @Ivanka_Trump_Fan\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Pepe the Frog - @Pepe_the_Frog\n🇺🇸 White Hats (Q17) - @White_Hats_Q17\n\nSee More: http://t.me/ConservativesOnTelegram/183",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 110,
+          "lastseents": "2023-04-11T15:57:37.238153"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6052282035928568247",
+        "_score": 3.6034,
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"],
+        "_source": {
+          "archivedon": "1681307588",
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1668710380,
+          "editdate": 1668713872,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 32,
+              "offset": 622,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 52,
+              "offset": 1363,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://patriotmailproject.com/list"
+            },
+            {
+              "length": 27,
+              "offset": 1415,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gigislashup.com/"
+            },
+            {
+              "length": 32,
+              "offset": 1445,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 1490,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 4535,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Hello everyone My name is Gina Bisignano . I attended the capital on January 6 and found myself wrapped up in a whirlwind. I was sprayed in the face by a participant in the crowd and was unable to breathe . We as a group wanted our voices heard.Wr didn’t want violence . Our voices were taken a...",
+              "display_url": "givesendgo.com/G2B8N",
+              "hash": 0,
+              "id": 4.20949391840635e+18,
+              "photo": {
+                "access_hash": 6.11324932574192e+18,
+                "date": 1674961670,
+                "dc_id": 4,
+                "file_reference": "AGQ2tUp8/X+ylu6517r2IJFsAnbN",
+                "has_stickers": false,
+                "id": 5.95948285556855e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARMovWj5tk9f/r1VvGWWUDggDjmiC4jWEshDbR0FVzIZpg2Qp5zUMtLqXLOQj5Cahv74KWgQZP8AEarwT7H3fexVZszTttHzOx4poTXUlWaSR1WP5SOmDRU62Lx4YS4f2FFO6FZlRzi5OKsRqCDx2NFFSzWOzGEALxSWYzqCD3/pRRQh1DTj+9J7HiiiikZn",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 151,
+                    "size": 11937,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 262,
+                    "w": 556,
+                    "sizes": [2858, 7385, 11533, 17046, 29585]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "GiveSendGo.com",
+              "title": "Click here to Give now to Patriot fundraiser  by Gina Bisignano",
+              "type": "photo",
+              "url": "https://www.givesendgo.com/G2B8N"
+            }
+          },
+          "message": "Three patriots need your immediate help this week to continue their fight in the [in]Justice system.  I will post their requests over the next three days starting with Gina Bisignano.  They do not expect fairness in life or justice in court, but they will abide by the rule of law and the Constitution to courageously fight the legal battles.  Please consider helping Gina, Hector, and Eric this week and be their supply line spiritually, emotionally, and financially.  If you are able, please consider a monthly donation of $25 or more until Gina is exonerated of the false charges the government leveled against her.\n\n💸https://www.givesendgo.com/G2B8N\n\nUntil recently, Gina has always been a generous donor to her church and community.  January 6 and the government's torture and persecution abetted by the liberal media destroyed Gina's thriving beauty care business and wiped out her life savings.\n\nInitially, Gina was knocked off-center by the force, swiftness, and persistence of the abuse at the hands of the government and the liberal press.  She  took the plea deal upon the advice of her attorney, but soon found strength in Christ to retract the plea deal and prepare for the long legal fight.  Just as you supported Gina with prayers and fellowship 18 months ago, please reach out to Gina and support her today and help her pay rent and legal fees.\n\n📬🖇Write C/O Patriot Mail project, Gina Bisignano\n\n☎️🌐🖇Send Gina referrals\n\n💸 https://www.givesendgo.com/G2B8N\n\n11.17.22\n—\n🆘t.me/ThePrisonersRecord",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "EOJ Always",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 42,
+                "reaction": "🙏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1538114437,
+            "comments": true,
+            "max_id": 76336,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1424499175
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1508045164
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1572896962
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 182500
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 2190,
+          "lastseents": "2023-04-12T13:53:08.875512"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6061848929551577647",
+        "_score": 2.8362,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-17 19:34:42.478282",
+          "channelabout": "😊😊😊  Hier gehst es zum Chat.  . . 😊😊😊\n\n⚠️⚠️   @joinchatA26Q1I0sNpnooHb9lszQ     ⚠️⚠️",
+          "channeltitle": "Die Wahrheit und nur die Wahrheit. Was die offiziellen Medien nie zeigen .",
+          "channelusername": "DieWahrheitundnurdieWahrheit",
+          "date": 1668702887,
+          "editdate": 1668703111,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 41,
+              "offset": 2604,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 21,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Teil zwei.. \n\n👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆\n\nTeilen bitte.... \n\n\n\"Im Rahmen unserer Untersuchung haben wir Beweise dafür, dass die Finanzen, Kreditkarten und Bankkonten von Hunter und Joe Biden vermischt, wenn nicht sogar geteilt wurden\", sagte der republikanische Abgeordnete.\n\nZudem gebe es auch Hinweise, die Hunter Biden und seine Geschäftspartner angeblich \"mit internationalem Menschenhandel und anderen illegalen Aktivitäten in Verbindung bringen\". \"Wir haben das Biden-Finanzministerium wiederholt aufgefordert, den Republikanern im Ausschuss zusätzliche Finanzdokumente zur Verfügung zu stellen, aber bisher hat sich das Finanzministerium geweigert\", sagte der Abgeordnete. Wir wollen wissen, was die Biden-Administration vor dem amerikanischen Volk zu verbergen versucht hat und warum sie nicht transparent ist\".\n\nEiner von Hunters engsten Mitarbeitern, Eric Schwerin, hatte Zugriff auf Bidens Geld und stellte Schecks aus, um Hunter Geld zu erstatten. Der mit Hunter verbündete Schwerin war Berichten zufolge Leiter der Firma des Präsidentensohns und verfügte über den Großteil seiner Finanzen - und wurde in eine Position innerhalb der Obama-Regierung berufen, als Joe Biden noch Vizepräsident war. Nach einem offensichtlichen Zerwürfnis mit Schwerin begann Hunter, die Geschäfte selbst zu koordinieren - und zunehmend wurde Joe Biden als direkter Anteilseigner in die Geschäfte einbezogen, so Comer. Er behauptete auch, Hunter sei noch einen Schritt weiter gegangen und habe versucht, diese Bankwarnungen rückgängig zu machen - angeblich mit der Hilfe eines Beamten der Clinton-Regierung.\n\nIn Kürze soll auch ein Bericht über die bisherigen Ermittlungen und Beweise, die größtenteils aus Aussagen von Whistleblowern bestehen sollen, erscheinen. Das beunruhigende Ausmaß von Hunters Geschäften in der Ukraine und China kam ans Licht, als die New York Post und später DailyMail den Inhalt einer Laptop-Festplatte authentifizierten, die angeblich dem Sohn des US-Präsidenten gehört. Er erhielt ein lukratives Gehalt, als er im Vorstand des ukrainischen Energieunternehmens Burisma saß, obwohl er keine Erfahrung in der Branche hatte, während sein Vater Vizepräsident war und eine Koalition zur Bekämpfung der Korruption anführte. Die auf dem Laptop sichergestellten E-Mails zeigen auch, wie Hunter mit Partnern die Anfänge eines Geschäfts in China bespricht - in einer Nachricht, in der es um Kapitalbeteiligungen geht, sind 10 Prozent \"für den großen Mann\" vorgesehen. Den Republikanern zufolge soll es sich dabei um Joe Biden handeln.\n\nMehr Informationen in Kürze...\n\n\nhttps://t.me/DieWahrheitundnurdieWahrheit",
+          "peerid": {
+            "channel_id": 1411384188,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1253
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5586885598846845209",
+        "_score": 2.6004,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-17 16:48:03.188035",
+          "channelabout": "🙏Ülemaailmne meeleavaldus vabaduse eest ja totalitaarse ühiskonna kehtestamise vastu toimub taas 24.07.21 🥰",
+          "channeltitle": "World Wide Demonstration vol.3",
+          "channelusername": "eestivabaks",
+          "date": 1668687220,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1698275034
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Traadita ühenduse ettevõtted väidavad, et FCC kokkupuutepiirangute piires töötavad mobiiltelefonid ja tugijaamad ei kujuta endast tõestatud ohtu.\nCTIA pressiesindaja kirjutas avalduses: \"Rahvusvahelise teadusringkonna konsensus on selles, et raadiosageduslik energia traadita seadmetest ja võ\n\nrkudest, sealhulgas 5G-st, ei põhjusta terviseprobleeme.\"\nSellesse nimekirja kuulus riiklik vähiinstituut. Pressiesindaja ütles ka, et tööstus pooldab täiendavat teadust. (Verizon ise keeldus selle artikli rekordit kommenteerimast.)\nNäiteks 2021. aasta septembris toimunud kohtumisel Pittsfieldi tervishoiunõukoguga oli Verizoni peaekspert Pittsburghi ülikooli teoreetilise füüsika professor Eric Swanson.\nTa tunnistas, et traadita kiirgus on liiga nõrk, et tekitada vähki või probleeme, millest Pittsfieldi elanikud teatasid. Ta pakkus, et neil on psühholoogilisi probleeme.\nRaadiosagedusliku kiirguse hirmud, teatas Swanson videosalvestatud koosolekul, põhinevad täielikult \"äärmuslikul arvamusel\", mida toetavad ainult valitud tõendid.\nSwanson ütles, et märkas ühte sellist uuringut \"Alex Jonesi veebisaidil\" ja väljendas nördimist:\n\"See on selline asi, millega ma pean tegelema.\" Tema sõnul on mure traadita kiirguse pärast vastuolus ülekaaluka teadusliku konsensusega. \"Kõik rahvusvahelised organid kuulutavad mobiiltelefonid ohutuks,\" ütles ta.\nFCC on olnud samamoodi põlglik.\n2020. aasta juunis Washington Postis kirjutas agentuuri peanõunik Thomas Johnson president Donald Trumpi valitsemise ajal:\n\"Oletused 5G mõju kohta inimeste tervisele on paanika ja teaduse jaoks lühikesed.\"\nJohnson on sellest ajast saadik asunud advokaadibüroosse, mis esindab telekommunikatsiooniettevõtteid. (Johnson keeldus kommentaaritaotlustest.)\n\"Praegu on mõttetu veenda inimesi, et see pole lihtsalt hull asi,\" ütles Louis Slesin, MIT-i keskkonnapoliitika doktorant. ja Microwave Newsi toimetaja, tööstuse infoleht, mis on neli aastakümmet krooninud traadita kiirguse arutelu.\n\"See on osa organiseeritud kampaaniast teaduse devalveerimiseks, mille kaasnõustajaks on valitsus. Teine väga oluline tegur on see, et keegi ei taha seda kuulda, sest kõik armastavad seda tehnoloogiat. Kui panete inimeste telefonid kinni, peatuks riik.\"\nKuid üha suurem hulk rahvusvahelisi uuringuid kinnitab, et on põhjust muretseda juhtmevaba kiirguse kahjude pärast, millest paljud ei ole vähiga seotud.\nWashingtoni ülikooli bioinseneri emeriitprofessor Henry Lai on koostanud andmebaasi 1123 eelretsenseeritud uuringust, mis on avaldatud alates 1990. aastast ja mis uurivad traadita kiirgusega kokkupuute bioloogilisi mõjusid.\nLai sõnul on umbes 77% leidnud \"olulisi\" mõjusid. Seevastu Lai varasem ülevaade näitas, et 72% tööstuse toetatud uuringutest ei teatanud bioloogilistest mõjudest.\nÜks teadusharu on uurinud kiirguse mõju katseloomadele, peamiselt rottidele ja hiirtele, aga ka merisigadele, küülikutele ja lehmadele.\nTeine on uurinud epidemioloogilisi mustreid, otsides tervisemõjusid inimrühmadele, nagu pikaajalised mobiiltelefonikasutajad või mobiiltelefonitornide läheduses elavad inimesed.\nUuringud on leidnud mõju viljakusele, loote arengule, DNA-le, mälufunktsioonile ja närvisüsteemile, samuti seost paljude vähivormidega.\nMitmed uuringud teatasid märkimisväärselt suurenenud riskist ajukasvajate ehk glioomide tekkeks kõige raskemate mobiiltelefonide kasutajate seas.\nJa Maailma Terviseorganisatsiooni üksus Rahvusvaheline Vähiuuringute Agentuur klassifitseeris 2011. aastal traadita kiirguse „võimalikult kantserogeenseks inimestele”.\nÜksikud uuringud rõhutavad lihtsate ettevaatusabinõude väärtust, sealhulgas peakomplekti või kõlari kasutamist ja telefoni hoidmist kehaga otsesest kokkupuutest.\n2009. aastal avastas Clevelandi kliiniku Ameerika reproduktiivmeditsiini keskuse uurimisdirektor Ashok Agarwal, et inimese sperma kokkupuude mobiiltelefoni kiirgusega tund aegapõhjustas spermatosoidide liikuvuse ja elujõulisuse \"olulise languse\", kahjustades meeste viljakust. Ta soovitab patsientidel vältida telefonide kandmist püksitaskus.",
+          "peerid": {
+            "channel_id": 1300798170,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 291697
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.89873220945568e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Madis...",
+            "id": 1698275034,
+            "is_self": false,
+            "last_name": "...",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 5.81444179280276e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 514975,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088400332
+              },
+              "photo_small": {
+                "local_id": 514973,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400088400332
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "KSIDAM",
+            "verified": false,
+            "_id": 1698275034,
+            "restriction_reason": []
+          },
+          "v": 1
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6333509979005265180",
+        "_score": 2.4183,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-18 00:59:34.105112",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1668725086,
+          "editdate": 1668725527,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 76,
+              "offset": 71,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 112,
+              "offset": 414,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 71,
+              "offset": 528,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 1120,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 128,
+              "offset": 1212,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 63,
+              "offset": 1342,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 82,
+              "offset": 1679,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 95,
+              "offset": 1764,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 133,
+              "offset": 1861,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 100,
+              "offset": 2291,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 2395,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 2636,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 2695,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 36,
+              "offset": 2716,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.ice.gov/newsroom?field_news_release_topics_tag_target_id=All&field_field_location_administrative_area=All&field_published_date_value%5Bmin%5D=&field_published_date_value%5Bmax%5D=&combine=Child+Exploitation&field_field_location_country_code=All"
+            },
+            {
+              "length": 108,
+              "offset": 2752,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.fbi.gov/investigate/violent-crime/cac/violent-crimes-against-children-news"
+            },
+            {
+              "length": 28,
+              "offset": 3012,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 12,
+              "offset": 3077,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 27,
+              "offset": 3093,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 120,
+              "offset": 3121,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 9,
+              "offset": 3342,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.ice.gov/webform/ice-tip-form#wcm-survey-target-id"
+            },
+            {
+              "length": 9,
+              "offset": 3380,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.p3tips.com/USMS.aspx"
+            },
+            {
+              "length": 49,
+              "offset": 3395,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 3559,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(3/3)                                        \n17 Nov 2022        U.S.\n\n▫️New Ulm police investigator pleads guilty to child sexual assault charges\nEric Alan Gramentz, 43, was charged with one count of first-degree criminal sexual conduct with a victim under the age of 16, one count of second-degree criminal sexual conduct with a minor under the age of 13, and one count of second-degree criminal sexual conduct.\nhttps://kstp.com/kstp-news/local-news/new-ulm-police-investigator-pleads-guilty-to-child-sexual-assault-charges/\n\n▫️Woman arrested for 7 felonies in Las Vegas sex trafficking operation\nLAS VEGAS, Nev. - Illegal Las Vegas brothel housed sex trafficking victims in small bedroom, police suspect. A woman accused of running a sex trafficking operation out of a local massage parlor is finally under arrest. Wei Geng was arrested Saturday during a traffic stop in Las Vegas at Blue Diamond and Decatur on 7 felony warrants. Wei Geng, the business owner, faces three counts of pandering, three counts of living from the earnings of a prostitute and one charge of an act encouraging a brothel, records showed.\n» https://www.fox5vegas.com/2022/11/17/woman-arrested-7-felonies-sex-trafficking-operation/\n» https://www.8newsnow.com/investigators/illegal-las-vegas-brothel-housed-sex-trafficking-victims-in-small-bedroom-police-suspect/\n\n▫️Florida foster parent gets 170 years for exploiting children\nORANGE COUNTY, Fla. — A foster parent from Sanford has been sentenced to prison for multiple child exploitation offenses. The investigation started in Jan. 2022 after Child Protective Services was contacted about Justin Johnson, 48, recording foster children in his home.\n» https://www.wesh.com/amp/article/sanford-foster-parent-child-exploitation/41995171\n» https://www.wfla.com/news/florida/florida-foster-parent-gets-170-years-for-exploiting-children/\n\n▫️Missouri City Amber Alert: Jose Paniagua was sentenced to 15 years in prison after abducting, sexually assaulting 11-year-old girl\nMISSOURI CITY, Texas - A 27-year-old man was sentenced to prison after an 11-year-old girl was abducted, prompting a high-profile Amber Alert in July. On Wednesday, court records show Jose Abel Paniagua was sentenced to 15 years in prison for aggravated sex assault of a child under 14 years old.\nhttps://abc13.com/jose-abel-paniagua-missouri-city-amber-alert-child-sex-assault-abduction/12460525/\n\n▫️Child predator positioned as governor\nKatie Hobbs aggressively pushes the agenda to manipulate children, without consent of their parents, to change their sexual identity. Hobbs' husband was involved in gender surgery on a ten year old girl\nhttps://stopworldcontrol.com/steal/\n______________________\nMore Arrest Updates:\nHSI/ICE Newsroom Child Exploitation\nFBI Arrests & Violent Crimes Against Children News\nDepartment of Justice Press Room Human Trafficking News\n\n- - - -N-E-E-D- -H-E-L-P-?- - -US:- - - - - - - - - - - - - - - - - - -\nNCMEC Urgent victim help  24-Hour Hotline:  1-800-843-5678\nNCMEC Cybertiplines: https://report.cybertip.org/\nNational Human Trafficking Hotline: 888-373-7888 or humantraffickinghotline.org\n! Warning: multiple sources report the two helplines mentioned above are partially funded by questionable foundations !\nHSI/ICE toll-free hotline: 1-866-DHS-2-ICE  | Anonymous toll-free ICE Tip Line: (866) 347-2423   |   Tip Form\nU.S. Marshals Service:  USMS Tips app\nDHS:  https://www.dhs.gov/blue-campaign/identify-victim\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n    @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "max_id": 483420,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1510352823
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 795493
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 715
+        }
+      }
+    ]
+  }
+}

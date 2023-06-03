@@ -1,0 +1,77 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [22],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [9.6641],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "fd095587-a1ac-4d99-b0dd-10c42d068e00",
+        "_score": 9.6641,
+        "_source": {
+          "ad": false,
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "https://archive.org/details/exhibit-p-23\n\nhttps://rumble.com/vnmezh-eric-coomer-deposition.html",
+          "bodywithurls": "https://archive.org/details/exhibit-p-23\n\nhttps://rumble.com/vnmezh-eric-coomer-deposition.html https://archive.org/details/ct-wi-coomer-eric",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-10-12T14:31:26.000000Z",
+          "createdAtformatted": "2021-10-12T14:31:26.000000Z",
+          "creator": "1c5f0addc25b48528e05fdf1d350a71c",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "fd095587-a1ac-4d99-b0dd-10c42d068e00",
+          "image": "https://sp.rmbl.ws/s8/6/D/X/w/x/DXwxc.4Wpjb.jpg",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-10-30T05:33:04.288110+00:00",
+          "link": "https://archive.org/details/ct-wi-coomer-eric",
+          "name": "Hope Rohland",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/fd095587-a1ac-4d99-b0dd-10c42d068e00",
+          "state": 0,
+          "suggested": false,
+          "title": "Eric Coomer Deposition Transcript : Free Download, Borrow, and Streaming : Internet Archive\",\"Eric Coomer Deposition Exhibits : Free Download, Borrow, and Streaming : Internet Archive\",\"Eric Coomer Deposition",
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2021-10-26T22:22:51.000000Z",
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "1c5f0addc25b48528e05fdf1d350a71c",
+          "useridraw": "1c5f0add-c25b-4852-8e05-fdf1d350a71c",
+          "username": "Hopeless717",
+          "verified": true,
+          "views": 1
+        }
+      }
+    ]
+  }
+}

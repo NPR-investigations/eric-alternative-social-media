@@ -1,0 +1,117 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [47],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [10.0491],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "5cc259c4-6180-49a0-beeb-924eada03ca0",
+        "_score": 10.0491,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Eric let me know that you got this test letter.",
+          "bodywithurls": "Eric let me know that you got this test letter.",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-12T00:52:41.929115+00:00",
+          "createdAtformatted": "2021-09-12T00:52:41.929115+00:00",
+          "creator": "38174bdf51f34875a91e02bd0c4d423e",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": false,
+          "hasvideo": false,
+          "id": "5cc259c4-6180-49a0-beeb-924eada03ca0",
+          "imagensfw": false,
+          "lastseents": "2022-09-12T00:52:41.929142+00:00",
+          "name": "Melissacoins",
+          "numid": 8721100,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/5cc259c4-6180-49a0-beeb-924eada03ca0",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "38174bdf51f34875a91e02bd0c4d423e",
+          "useridraw": "38174bdf-51f3-4875-a91e-02bd0c4d423e",
+          "username": "Melissacoins",
+          "verified": false
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "parler-data-000011",
+        "_id": "c4f1ff6a-84de-4736-a514-8fa16a19460b",
+        "_score": 6.0352,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "President Biden's dementia no longer explains the destructive policies his administration has implemented since taking office........ there is no other explanation.  This is purposeful.........Susan Rice, Eric Holder, and Obama are likely part of the left's destroy-America crowd.  Pelosi and Schumer are their second string, their tools.....................................................................",
+          "bodywithurls": "President Biden's dementia no longer explains the destructive policies his administration has implemented since taking office........ there is no other explanation.  This is purposeful.........Susan Rice, Eric Holder, and Obama are likely part of the left's destroy-America crowd.  Pelosi and Schumer are their second string, their tools.....................................................................https://www.americanthinker.com/blog/2021/08/senile_or_not_biden_has_betrayed_america.html",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-12T00:00:20.013696+00:00",
+          "createdAtformatted": "2021-09-12T00:00:20.013696+00:00",
+          "creator": "9d34c07236b54574884c76e243f66e9e",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": false,
+          "hasvideo": false,
+          "id": "c4f1ff6a-84de-4736-a514-8fa16a19460b",
+          "imagensfw": false,
+          "lastseents": "2022-05-10T00:00:20.013729+00:00",
+          "name": "mike Schreiner",
+          "numid": 35856825,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/c4f1ff6a-84de-4736-a514-8fa16a19460b",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "9d34c07236b54574884c76e243f66e9e",
+          "useridraw": "9d34c072-36b5-4574-884c-76e243f66e9e",
+          "username": "Mikeflbmer",
+          "verified": false
+        },
+        "_ignored": ["body.keyword", "bodywithurls.keyword"]
+      }
+    ]
+  }
+}

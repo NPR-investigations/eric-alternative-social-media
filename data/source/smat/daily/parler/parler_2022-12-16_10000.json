@@ -1,0 +1,76 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [27],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [7.9024],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "4edf02c2-e705-400e-9ce8-86abfc362076",
+        "_score": 7.9024,
+        "_source": {
+          "ad": false,
+          "badges": [1],
+          "badges_v2": {
+            "early": 0,
+            "gold": 1,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Eric Bolling reacts to Rep. Adam Kinzinger's farewell address and an emotional speech given by John Boehner about House Speaker Nancy Pelosi.Watch Newsmax on...",
+          "bodywithurls": "Eric Bolling reacts to Rep. Adam Kinzinger's farewell address and an emotional speech given by John Boehner about House Speaker Nancy Pelosi.Watch Newsmax on...",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 12,
+          "createdAt": "2022-12-16T05:20:35.000000Z",
+          "createdAtformatted": "2022-12-16T05:20:35.000000Z",
+          "creator": "854df7aac7f5448a83e02d47d393b169",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": true,
+          "edited": false,
+          "id": "4edf02c2-e705-400e-9ce8-86abfc362076",
+          "image": "https://bl-images.parler.com/images/ed/f1/edf15604-d392-479d-9111-17cb3e9d3d03.webp",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-12-17T14:11:09.009493+00:00",
+          "name": "Newsmax",
+          "replied": false,
+          "reposts": 4,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/4edf02c2-e705-400e-9ce8-86abfc362076",
+          "state": 0,
+          "suggested": false,
+          "title": "Kinzinger cries and Boehner bawls: Eric Bolling The Balance",
+          "totalcomments": 15,
+          "trolling": false,
+          "updatedAt": "2022-12-16T05:20:36.000000Z",
+          "upvoted": false,
+          "upvotes": 11,
+          "userid": "854df7aac7f5448a83e02d47d393b169",
+          "useridraw": "854df7aa-c7f5-448a-83e0-2d47d393b169",
+          "username": "Newsmax",
+          "verified": false,
+          "views": 1902
+        }
+      }
+    ]
+  }
+}

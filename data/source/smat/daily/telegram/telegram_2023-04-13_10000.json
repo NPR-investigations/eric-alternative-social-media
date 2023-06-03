@@ -1,0 +1,842 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [39],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [10],
+      "relation": ["eq"]
+    },
+    "max_score": [12.1564],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5407317590341066879",
+        "_score": 12.1564,
+        "_source": {
+          "archivedon": "2023-04-14 12:59:48.410624",
+          "channelabout": "We are ReclaimTheNet.org - Restoring individual liberty online.",
+          "channeltitle": "Reclaim The Net",
+          "channelusername": "reclaimthenet",
+          "collected_by": "io2es",
+          "date": 1681399436,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 49,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 80,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 5.40731759034107e+18,
+          "message": "New York Mayor Eric Adams introduces NYPD robots\nhttps://ift.tt/Mn9VyP8 FOLLOW: @reclaimthenet",
+          "peerid": {
+            "channel_id": 1258989235,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/reclaimthenet/8319",
+          "v": 1,
+          "views": 400,
+          "lastseents": "2023-05-08T23:25:09.495897",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5782522656259995212",
+        "_score": 10.0753,
+        "_source": {
+          "archivedon": "1683909364",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "collected_by": "crawler",
+          "date": 1681364633,
+          "editdate": 1681364636,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1646376414990540801"
+            },
+            {
+              "length": 23,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 423500,
+          "message": "Reuters (Twitter)\n\nAs part of Mayor Eric Adams’ effort to combat a growing rodent population in New York, Kathleen Corradi has been appointed the city’s first-ever ‘rat czar’ https://reut.rs/3KACTsg",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 705534
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Breaking_911/423500",
+          "v": 1,
+          "views": 8,
+          "lastseents": "2023-05-12T16:36:04.476998",
+          "media": {
+            "document": {
+              "access_hash": -7.9320460061636e+18,
+              "attributes": [
+                {
+                  "duration": 62,
+                  "h": 1080,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1920
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "VMj04ULQvLYQZdUu_02e1.mp4"
+                }
+              ],
+              "date": 1681364633,
+              "dc_id": 2,
+              "file_reference": "AlA/pbgABnZMZF5qqkxN4AAEOKXJ21sPWPKSgxE=",
+              "id": 5.3144345717632e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 21552426,
+              "thumbs": [
+                {
+                  "bytes": "ARYopedjpxTyQVBIz9KQRZ7jrim5OTgADtmpGSwFQ+OxOCDT5XVWRVG7uarZIljI456g0t1IzgMD82ccUW1C5I7l5FcbQN3IHFFJOQ1vgYygyMUUwuMLkMccZ9KNwxjGaKKQDXdVwQPanZCHkZoooC41x8nXGfSiiimgPw==",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 14265,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "4310852352803468414",
+        "_score": 9.9005,
+        "_source": {
+          "archivedon": "2023-04-14 00:16:51.530528",
+          "channelabout": "Официальный канал Известия IZ.RU \n\nСотрудничество: @n1Che",
+          "channeltitle": "IZ.RU",
+          "channelusername": "izvestia",
+          "collected_by": "io2es",
+          "date": 1681420596,
+          "editdate": 1681420611,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 225,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 42079,
+            "date": 1681420508,
+            "from_id": {
+              "channel_id": 1029578214,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 4.31085235280347e+18,
+          "message": "МЕДВЕДЕВ! Вытащил сложнейший матч против Зверева 💪\n\nДаня проиграл первый сет, а потом собрался и прошел в четвертьфинал «Мастерса» в Монте-Карло! Следующим соперником станет Хольгер Руне из Дании.\n\n📸 Eric Gaillard/Reuters\n\n@sportexpress",
+          "peerid": {
+            "channel_id": 1003698528,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/izvestia/128126",
+          "v": 1,
+          "views": 4246,
+          "lastseents": "2023-05-08T23:20:15.202947",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6328990694157420839",
+        "_score": 9.8156,
+        "_source": {
+          "archivedon": "1682067940",
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "date": 1681396489,
+          "editdate": 1681396572,
+          "edithide": false,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 100647,
+          "message": "Eric Trump Instagram - This is Letitia James. She may be the most corrupt Attorney General in the history of the country. She is one of many reasons people are leaving New York in record numbers.",
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "╰☆☆ 𝔸𝕟𝕘𝕖𝕝 ☆☆╮",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388608
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 319,
+          "lastseents": "2023-04-21T09:05:40.907546",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "mediaref": "4824123f8ac40db3b9784177161b63613830130d",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5782522656259995155",
+        "_score": 8.9786,
+        "_source": {
+          "archivedon": "1683909219",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "collected_by": "crawler",
+          "date": 1681355087,
+          "editdate": 1681355090,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1646328851700809728"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 423443,
+          "message": "The Associated Press (Twitter)\n\nEvery New York City mayor in history has battled rats. But for current mayor Eric Adams, the war on vermin has become a focus. \n\nAdams today announced the city's first ever Director of Rodent Mitigation, also known as New York's \"Rat Czar.\"",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 705534
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Breaking_911/423443",
+          "v": 1,
+          "views": 7,
+          "lastseents": "2023-05-12T16:33:39.746273",
+          "media": {
+            "document": {
+              "access_hash": -4.9229561527028e+17,
+              "attributes": [
+                {
+                  "duration": 76,
+                  "h": 1080,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1920
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "83J0yL0MdrRzVgWQ.mp4"
+                }
+              ],
+              "date": 1681350697,
+              "dc_id": 4,
+              "file_reference": "AlA/pbgABnYTZF5qX8TP17joRcIK7ed3/wkmM9U=",
+              "id": 5.89004918544453e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 18017676,
+              "thumbs": [
+                {
+                  "bytes": "ARYoYq0rRgjB6GhQfalf5UZiRgD0oAha3HZjVZlKnB601pnY53H86YWJ6k0gH5FFRmimBpqc9qcw3RlWPBHaiigDLPFGd3QCiigBvNFFFAE=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 5850,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6753280299896972786",
+        "_score": 8.1184,
+        "_source": {
+          "archivedon": "2023-04-14 12:55:39.33105",
+          "channeltitle": "Hitler Was A Rothschild",
+          "collected_by": "io2es",
+          "date": 1681409024,
+          "editdate": 1681409618,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 967710732
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6.75328029989697e+18,
+          "message": "He’s always been a lib dem.  So are Tim McGraw, Faith Hill, Eric Church, and a few others who’s real feelings came out during the summer of mostly peaceful love.  Many anti 2A.  Many support drag shows for kids.  Reba McEntire recently said she’s against the ban in TN and other places.  Anyway country music ain’t what it used to be.",
+          "peerid": {
+            "channel_id": 1572370599,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 42477,
+            "reply_to_top_id": 42452
+          },
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-05-08T23:25:09.723750",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 967710732,
+            "_v": 1,
+            "access_hash": -5.33025335853398e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lisa",
+            "id": 967710732,
+            "is_self": false,
+            "last_name": "Rosenberger",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5131527857545158132",
+        "_score": 7.9706,
+        "_source": {
+          "archivedon": "1684016157",
+          "channelabout": "Wer den Kanal gut findet darf gerne mal Spenden!\nNein nicht an meine Person, sondern an jemanden den es nicht so gut geht, z.B. ein Rentner der Faschen sammelt einfach mal was zukommen lassen, oder denke dir selbst was aus!",
+          "channeltitle": "Dateien, Bilder, Videos gesichert",
+          "channelusername": "derdeutschamerikaner",
+          "collected_by": "crawler",
+          "date": 1681359306,
+          "editdate": 1681359487,
+          "edithide": false,
+          "entities": [],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 7668,
+          "message": "Teil 4/6\n\nIch beziehe mich hier natürlich auf das seltsame Hakenkreuz, das Finnland nach 1945 nicht für klug hielt, um es von seinen Militärflugzeugen oder Uniformen zu entfernen, obwohl die Nazi-Verbündeten untergegangen waren.\n\nDie gesäuberten Geschichtsbücher sind schnell dabei, diesen anomalen, jahrhundertelangen Fetisch für das Hakenkreuz als totalen Zufall abzutun, der nichts mit den Nazis zu tun hat, da die Nazipartei das Symbol ein ganzes Jahr nach der finnischen Regierung übernahm. Doch wie die meisten unserer offiziellen Geschichtsdarstellungen bricht auch diese bei der geringsten Druckausübung in sich zusammen.\n\nEs heißt, dass der schwedische Graf Eric von Rosen der finnischen Weißen Armee 1918 ein mit Hakenkreuzen verziertes Thulin-Flugzeug vom Typ D schenkte, wodurch die finnische Luftwaffe gegründet und das Hakenkreuz zu ihrem offiziellen Logo wurde. Da von Rosen das Hakenkreuz bereits als sein persönliches Emblem verwendet hatte, seit er es zum ersten Mal während seiner Schulzeit auf antiken Runen gesehen hatte, wird der Schluss gezogen, dass die Hakenkreuze der finnischen Streitkräfte und ihre nationalsozialistischen Gegenstücke in keinerlei Verbindung zueinander stehen könnten.\n\nDiese Behauptung ignoriert völlig die Tatsache, dass die beiden von Rosen-Brüder Eric und Clarence führende Adlige waren, die sich stolz für die Sache der Nazis einsetzten, über das Schwedische Institut für Rassenbiologie an der Universität Uppsala (ca. 1922) die schwedische Eugenik förderten, sich für Sterilisationsgesetze einsetzten und Hitler der schwedischen Oberschicht vorstellten. 1933 wurde Eric von Rosen Gründungsmitglied des Nationalsocialistiska Blocket (auch bekannt als Nationalsozialistische Partei Schwedens“).\n\nDie tatkräftige Unterstützung der Nationalsozialisten (einschließlich des Einflusses der von Rosens auf die schwedische Enskilda Bank und SKF) ändert auch die Interpretation der engen Beziehung, die Clarence, Eric und Hugo von Rosen zu ihrem Schwager Hermann Goring unterhielten, der nach dem Ersten Weltkrieg als persönlicher Pilot für Eric von Rosen gearbeitet hatte.\n\nWährend eines längeren Aufenthalts auf von Rosens Schloss Rockelstad im Jahr 1920 lernte Goring zum ersten Mal 1) von Rosens Hakenkreuze kennen, die das Schloss und das angrenzende Jagdhaus schmückten, 2) von Rosens Leidenschaft für den Naturschutz, die Goring teilte, der später in den 1930er Jahren der erste Reichsminister für Forstwirtschaft und Naturschutz wurde, und 3) Eric von Rosens Schwägerin Carin von Kantzow, die schon bald Gorings Ehefrau wurde und von Hitler als „First Lady der Nazipartei“ bezeichnet wurde.\n\nEric und Clarence von Rosen waren Anhänger einer okkulten Sekte namens Ariosophismus, die von einem mystischen, runenbesessenen Dichter namens Guido von List angeführt wurde, der einfach Madame Blavatskys Theosophie übernahm und eine arische Rassenüberlegenheit mit einer verstärkten Konzentration auf Wotan-Mythen verknüpfte. In dieser Sekte wurden das Hakenkreuz und andere Runensymbole wie die Othala-Rune, die Ehlaz/Lebensrune, die Sig-Runen (die später von der SS verwendet wurden) und der Wolfsangel als heilige, mit magischen Kräften ausgestattete Bilder betrachtet.\n\nGuido von List hatte seine Sekte in einen inneren und einen äußeren Kern organisiert, wobei die „Auserwählten“ eine geheime Interpretation der Runen im Rahmen einer okkulten Elitegesellschaft namens Hoher Armanen-Orden erlernten, in der von List selbst als Großmeister fungierte.\n\nDieses rassistische okkulte Ariertum mit seinem theosophischen Ziel, hinduistische und buddhistische Mystik in ein neues nachchristliches Zeitalter einzubringen, wurde in dieser Zeit zu einem äußerst populären Phänomen unter den Adelsfamilien Europas. Ziel war es, mit einer perversen Interpretation des östlichen Spiritualismus ohne Substanz eine neue Ordnung zu schaffen, die auf einem „Zeitalter des Wassermanns“ basierte, das das veraltete „Zeitalter der Fische“ ablösen sollte, das die veraltete Vernunft repräsentierte, wie sie von Sokrates, Platon und Christus vorgelebt wurde.",
+          "peerid": {
+            "channel_id": 1194776934,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/derdeutschamerikaner/7668",
+          "v": 1,
+          "views": 587,
+          "lastseents": "2023-05-13T22:15:57.894577",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6086674381688677148",
+        "_score": 7.7053,
+        "_source": {
+          "archivedon": "2023-04-14 02:23:03.984179",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "collected_by": "io2es",
+          "date": 1681410145,
+          "editdate": 1681410148,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6.08667438168868e+18,
+          "message": "NYPD adds ‘Digidog’ and other robots to its force\n\nNew York City Mayor Eric Adams unveiled the ‘Digidog’ and ‘K-5’ robots – the newest members of the NYPD. Digidog (aka ‘Spot’) is a highly mobile K-9 robot that can assess potentially life-threatening situations. The K-5 robot is designed to conduct automated patrols in confined areas, both indoors and outdoors, such as malls and transit hubs.\n\nBarking mad?\n\nRT_India_official",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Remi",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1436650
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/AzazelNews/402204",
+          "v": 1,
+          "views": 629,
+          "lastseents": "2023-05-08T23:21:29.697893",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5090199899812373195",
+        "_score": 7.008,
+        "_source": {
+          "archivedon": "2023-04-14 08:33:49.906581",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "collected_by": "io2es",
+          "date": 1681395010,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 596,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 688142,
+            "date": 1681395008,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 688142,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "id": 5.09019989981237e+18,
+          "message": "TRANSLATION :\nA Russian tourist in a car collided in Thailand with the \"rocket man\" - the French former world champion motorcycle racer and holder of several speed records, Eric Teboul.  \n  \nAccording to ThaiRath, both were sober. After the incident, the Frenchman was hospitalized.\n\n=======\nORIGINAL :\nРоссийский турист на автомобиле столкнулся в Таиланде с \"человеком-ракетой\" - французским экс-чемпионом мира по мотогонкам и обладателем нескольких рекордов скорости Эриком Тебулем.  \n  \nПо данным издания ThaiRath, оба были трезвы. После инцидента француза госпитализировали.\n=======\nSOURCE :\nhttps://t.me/rian_ru/199775\nРИА Новости",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1185690
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/telehunt_watch/762571",
+          "v": 1,
+          "views": 1,
+          "lastseents": "2023-05-08T23:23:07.735944",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5131527857545158129",
+        "_score": 3.8028,
+        "_source": {
+          "archivedon": "1684016157",
+          "channelabout": "Wer den Kanal gut findet darf gerne mal Spenden!\nNein nicht an meine Person, sondern an jemanden den es nicht so gut geht, z.B. ein Rentner der Faschen sammelt einfach mal was zukommen lassen, oder denke dir selbst was aus!",
+          "channeltitle": "Dateien, Bilder, Videos gesichert",
+          "channelusername": "derdeutschamerikaner",
+          "collected_by": "crawler",
+          "date": 1681359306,
+          "editdate": 1681359533,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 85,
+              "offset": 231,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 15,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 7665,
+          "message": "Teil 1/6\n\nSehr interessanter Artikel über den Beitritt Finnlands und bald auch Schweden in die NATO, und was für ein langer geschichtlicher Hintergrund dahintersteckt.\n\nDas Original dieses Beitrages ist in Englisch hier zu finden: https://canadianpatriot.org/2023/04/04/nazi-skeletons-in-finland-and-swedens-closets/\n\nNazi-Skelette in Finnlands und Schwedens Kleiderschränken\n\nDie offizielle Aufnahme Finnlands in die NATO wurde in der transatlantischen Technokratiesphäre als ein Sieg für Demokratie und Freiheit gefeiert. Jens Stoltenberg schwärmte seinen finnischen Amtskollegen bei der Eröffnungszeremonie vor: „Finnland ist sicherer, und die NATO ist mit Finnland als Verbündetem stärker. Ihre Streitkräfte sind beachtlich und äußerst leistungsfähig, Ihre Widerstandsfähigkeit ist unübertroffen, und seit vielen Jahren arbeiten Truppen aus Finnland und den NATO-Staaten Seite an Seite als Partner zusammen. Von heute an werden wir als Verbündete zusammenstehen“.\n\nDoch wie wahr sind diese Aussagen?\n\nWährend Finnland gerne die Tatsache feiert, dass sein Krieg mit Russland von 1941 bis 1944 nichts mit dem Zweiten Weltkrieg zu tun hatte, sondern lediglich ein Verteidigungsbündnis mit Deutschland gegen die böse Sowjetunion war, und während Schweden gerne die Tatsache feiert, dass es während des Zweiten Weltkriegs neutral blieb, sprechen die Fakten eine ganz andere Sprache.\n\nBeide Länder spielten nicht nur eine aggressive Rolle im Krieg gegen die Sowjetunion während der Operation Barbarossa und darüber hinaus, sondern beide Länder gewährten von 1940 bis 1945 auch umfangreiche Kredite und andere wirtschaftliche Unterstützung.\n\nAuf rein militärischer Ebene sorgte das „neutrale“ Schweden unter der Führung von König Gustav V. und dem sozialdemokratischen Ministerpräsidenten Per Albin Hannson dafür, dass seine Gebiete den Nazis während der Schlacht von Narvik 1940, die zum Fall Norwegens führte, zur Verfügung gestellt wurden. Als ein Jahr später die Operation Barbarossa eingeleitet wurde, durfte Deutschland schwedisches Territorium, Eisenbahn- und Kommunikationsnetze nutzen, um über Finnland in die Sowjetunion einzufallen. Deutsche Soldaten und Kriegsgerät wurden von Oslo nach Haparanda in Nordschweden transportiert, um Angriffe auf Russland vorzubereiten.\n\nAuf wirtschaftlicher Ebene gingen 37 % der schwedischen Exporte während des Krieges nach Deutschland, darunter 10 Millionen Tonnen Eisenerz pro Jahr sowie die größte Produktion von Kugellagern, die für die Kriegsmaschinerie der Nazis wichtig waren und über Häfen im von den Nazis besetzten Norwegen exportiert wurden. Die pro-faschistische Familie von Rosen spielte eine der wichtigsten Rollen bei der Förderung der Nazi-Ideologie in Schweden. Eric von Rosen war Mitbegründer der Nationalsozialistischen Partei Schwedens und verschaffte dem deutschen Oberkommando in den 1920er bis 1930er Jahren Zugang zur Oberschicht des schwedischen Adels.\n\nDarüber hinaus fungierte Graf Hugo von Rosen als Direktor der US-Niederlassung der schwedischen Enskilda Bank und von SKF Bearing, die während des gesamten Krieges den Fluss von Geldern und Kugellagern (hergestellt in Philadelphia) an die Wehrmacht verwaltete.\n\nDer Historiker Douglas Macdonald schrieb: „Die Kugellager von SKF waren für die Nazis absolut notwendig. Die Luftwaffe konnte ohne Kugellager nicht fliegen, und Panzer und gepanzerte Fahrzeuge konnten ohne sie nicht rollen. Nazi-Geschütze, Bombenvisiere, Generatoren und Motoren, Belüftungssysteme, U-Boote, Eisenbahnen, Bergbaumaschinen und Kommunikationsgeräte konnten ohne Kugellager nicht funktionieren. Tatsächlich hätten die Nazis den Zweiten Weltkrieg nicht führen können, wenn Wallenbergs SKF sie nicht mit allen Kugellagern versorgt hätte, die sie brauchten„.\n\nHugo war Görings Cousin zweiten Grades, und sein Cousin Eric wird in Kürze eine wichtige Rolle in dieser Geschichte spielen.\n\nFinnlands Nazi-Erbe auf dem Prüfstand",
+          "peerid": {
+            "channel_id": 1194776934,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/derdeutschamerikaner/7665",
+          "v": 1,
+          "views": 619,
+          "lastseents": "2023-05-13T22:15:57.893187",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "By Matthew Ehret Finland’s official induction into NATO has been celebrated across the trans Atlantic technocracy-sphere as a victory for democracy and freedom. Jens Stoltenberg gushed to his…",
+              "display_url": "canadianpatriot.org/2023/04/04/nazi-skeletons-in-finland-and-swedens-closets",
+              "hash": 0,
+              "id": 5.8453135309178e+17,
+              "photo": {
+                "access_hash": 1.47134621792567e+18,
+                "date": 1680659468,
+                "dc_id": 4,
+                "file_reference": "AGRgDBzK+e6MZ5+41VUOdIAyEgtL",
+                "has_stickers": false,
+                "id": 5.86707327982565e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARwo0UuV2/N1HpVG9nZ5EC5Gc4ApRd28jfIs30AB/rUU8scskYiBULkEvUK/UG0PjlmxskO5f60MGEcgxjuTmq8qOg+cHBPbiopMiP8AiwT37VfUC0Xjdi5zlvaiqixyE5J2g9MUUhjgksLHaMHOP60zEhbcBkHoRUqrvOST0z198fyo8sJEpBOT/n+tOxNh0jx+SCG+YdQKjLscKEGCep70QjbMcdqt/exnseKlz5R2IbpsGLa+3+8BRUjH5lGBwKKSloM/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 219,
+                    "size": 29474,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 439,
+                    "w": 640,
+                    "sizes": [5171, 15837, 29488, 43704, 71474]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "the Canadian patriot",
+              "title": "Nazi Skeletons in Finland and Sweden’s Closets",
+              "type": "photo",
+              "url": "https://canadianpatriot.org/2023/04/04/nazi-skeletons-in-finland-and-swedens-closets/"
+            }
+          },
+          "noforwards": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      }
+    ]
+  }
+}

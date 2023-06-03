@@ -1,0 +1,102 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [16],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [8.7421],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107831581703860510",
+        "_score": 8.7421,
+        "_source": {
+          "account": {
+            "acct": "johncardillo",
+            "display_name": "John Cardillo",
+            "id": "107831456996058288",
+            "username": "johncardillo"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Anyone seen my friends Eric Swalwell and Adam Schiff?<\/p><p>Can’t seem to find them here.<\/p>",
+          "content_cleaned": "Anyone seen my friends Eric Swalwell and Adam Schiff?Can’t seem to find them here.",
+          "created_at": "2022-02-20T17:49:19.496+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 160,
+          "id": "107831581703860510",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblogged": false,
+          "reblogs_count": 45,
+          "replies_count": 29,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@johncardillo/107831581703860510",
+          "url": "https://truthsocial.com/@johncardillo/107831581703860510",
+          "visibility": "public",
+          "lastseents": "2023-05-15T04:50:22.927016",
+          "reblog": {}
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107831612054739296",
+        "_score": 8.3945,
+        "_source": {
+          "account": {
+            "acct": "mirnatarraf",
+            "display_name": "Mirna Tarraf",
+            "id": "107825769608630414",
+            "username": "mirnatarraf"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@johncardillo\" class=\"u-url mention\">@<span>johncardillo<\/span><\/a><\/span> Anyone seen my friends Eric Swalwell and Adam Schiff?<\/p><p>Can’t seem to find them here.<\/p>",
+          "content_cleaned": "RT @johncardillo Anyone seen my friends Eric Swalwell and Adam Schiff?Can’t seem to find them here.",
+          "created_at": "2022-02-20T17:57:02.619+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107831612054739296",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/mirnatarraf/statuses/107831612054739296/activity",
+          "url": "https://truthsocial.com/users/mirnatarraf/statuses/107831612054739296/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-21T07:58:28.779687+00:00",
+          "reblog": {
+            "id": "107831581703860510",
+            "uri": "https://truthsocial.com/users/johncardillo/statuses/107831581703860510",
+            "url": "https://truthsocial.com/@johncardillo/107831581703860510"
+          }
+        }
+      }
+    ]
+  }
+}

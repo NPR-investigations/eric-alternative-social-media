@@ -1,0 +1,1543 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [37],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [13.5348],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5378609393279448258",
+        "_score": 13.5348,
+        "_source": {
+          "archivedon": "2022-03-16 04:56:31.453782",
+          "channeltitle": "Damien De Ment Chat",
+          "channelusername": "damien_dement_chat",
+          "date": 1636181978,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 36,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 42,
+              "offset": 38,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 82,
+              "offset": 82,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 608,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1996463012
+          },
+          "fwdfrom": {
+            "channel_post": 11041,
+            "date": 1636110526,
+            "from_id": {
+              "channel_id": 1202315764,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "ERIC CLAPTON MEETS ROBERT KENNEDY Jr\n\nEric Clapton and RFK Jr Stand and Deliver:\n\nhttps://anchor.fm/rfkjr/episodes/Eric-Clapton-and-RFK-Jr-Stand-and-Deliver-e19l4ak",
+          "peerid": {
+            "channel_id": 1252305087,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 80210
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1996463012,
+            "_v": 1,
+            "access_hash": -7.5884720924121e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lorraine",
+            "id": 1996463012,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 50680,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100085300637
+              },
+              "photo_id": 4.96974474642782e+18,
+              "photo_small": {
+                "local_id": 50678,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100085300637
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "KiwiGal",
+            "verified": false
+          },
+          "v": 1,
+          "views": 61005,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6187891440706766195",
+        "_score": 13.5348,
+        "_source": {
+          "archivedon": "2021-11-06 04:38:06.723323",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "date": 1636171126,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 36,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 38
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 82
+            }
+          ],
+          "forwards": 350,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1004477322
+          },
+          "fwdfrom": {
+            "channel_post": 11041,
+            "date": 1636110526,
+            "from_id": {
+              "channel_id": 1202315764,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "ERIC CLAPTON MEETS ROBERT KENNEDY Jr\n\nEric Clapton and RFK Jr Stand and Deliver:\n\nhttps://anchor.fm/rfkjr/episodes/Eric-Clapton-and-RFK-Jr-Stand-and-Deliver-e19l4ak",
+          "peerid": {
+            "channel_id": 1440730747,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 144209
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 29938,
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5766449673162230945",
+        "_score": 13.5348,
+        "_source": {
+          "archivedon": "2021-11-06 00:50:26.382922",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "date": 1636158677,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 36,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 38
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 82
+            }
+          ],
+          "forwards": 319,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1904563128
+          },
+          "fwdfrom": {
+            "channel_post": 11041,
+            "date": 1636110526,
+            "from_id": {
+              "channel_id": 1202315764,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "ERIC CLAPTON MEETS ROBERT KENNEDY Jr\n\nEric Clapton and RFK Jr Stand and Deliver:\n\nhttps://anchor.fm/rfkjr/episodes/Eric-Clapton-and-RFK-Jr-Stand-and-Deliver-e19l4ak",
+          "peerid": {
+            "channel_id": 1342606189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 57490
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27509,
+          "channelabout": "@worldwidedemonstration NYC",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5525220386851387517",
+        "_score": 11.0696,
+        "_source": {
+          "archivedon": "2021-11-06 11:28:27.28976",
+          "channeltitle": "The Great Awakening - Research",
+          "channelusername": "q_anons",
+          "date": 1636195350,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 9
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 651570634
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "PODCAST:\nhttps://anchor.fm/rfkjr/episodes/Eric-Clapton-and-RFK-Jr-Stand-and-Deliver-e19l4ak",
+          "peerid": {
+            "channel_id": 1286440619,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 533973
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "channelabout": "Please see pinned message.\nChristian: @christianencouragement\nBackup: @QAnons2\n🇺🇸WWG1WGA🇺🇸\n• Safe place for all things Q and Trump related.\n• Use common sense.\n• Invite your friends!\nQuestions and concerns? Message an admin!",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5483450769040612384",
+        "_score": 10.7754,
+        "_source": {
+          "archivedon": "2022-08-04 04:14:51.585827",
+          "channeltitle": "The Daily Caller",
+          "channelusername": "DailyCaller",
+          "date": 1636158230,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://dailycaller.com/2021/11/05/jesse-watters-msnbc-michael-dyson-winsome-sears/"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Jesse Watters Says Michael Eric Dyson Prefers White Governor Who Wears Blackface Over Black Lt. Gov.",
+          "peerid": {
+            "channel_id": 1276715372,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 46,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5961714331141475189",
+        "_score": 10.5052,
+        "_source": {
+          "archivedon": "2021-11-06 18:11:23.217786",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "date": 1636220176,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1218530199
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Btw, is Eric Xun Li the Chinese political scientist which specializes in Heideggaranism? I heard from someone, that the CCP is leading the world in Heideggaranist studies right now and that some political theorist on it works closely with Xi, was wondering is that was Eric Li or not.",
+          "peerid": {
+            "channel_id": 1388069785,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 723837,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 931711
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6103783066084311817",
+        "_score": 10.2358,
+        "_source": {
+          "archivedon": "2021-11-06 18:27:10.018509",
+          "channeltitle": "The TRUTH",
+          "channelusername": "TheTruthAboutCancer_Vaccines",
+          "date": 1636220407,
+          "editdate": 1636220357,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 66
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 13,
+              "offset": 112
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 10,
+              "offset": 126
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 29,
+              "offset": 139
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Here is my Red Carpet interview with the one and only Eric Trump: https://www.bitchute.com/video/dBh5fz6iMyB8/\n\n#AmericaFirst #EricTrump \n\n@TheTruthAboutCancer_Vaccines",
+          "peerid": {
+            "channel_id": 1421147740,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Charlene Bollinger",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1453632290,
+            "comments": true,
+            "max_id": 61712,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1622263274
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1568213298
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1434387219
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 69056
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 802,
+          "channelabout": "The Truth With Ty & Charlene Bollinger \n\nFB https://www.facebook.com/thetruthaboutcancer\n\nTwitter https://twitter.com/CancerTruthNews \n\nInstagram: https://www.instagram.com/ty.charlene.bollinger/\n\nhttps://www.instagram.com/thetruthaboutvaccinesttav/",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6086674381688444070",
+        "_score": 9.3175,
+        "_source": {
+          "archivedon": "2021-11-06 04:29:15.730836",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1636171192,
+          "editdate": 1636171164,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/ericspracklen/status/1456699249178075141?s=28",
+              "length": 167,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 26023,
+            "date": 1636170797,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Spracklen🇺🇸 - “Our efforts were the stuff of responsible, ethical journalism and we are in no doubt that Project Veritas acted properly at each and every step.”",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 40,
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5507848979305484617",
+        "_score": 9.1158,
+        "_source": {
+          "archivedon": "2021-11-06 00:50:13.953058",
+          "channeltitle": "Patriot Party Connecticut",
+          "channelusername": "PatriotPartyCT",
+          "date": 1636159571,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 111,
+              "offset": 116
+            }
+          ],
+          "forwards": 241,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "channel_post": 6532,
+            "date": 1636128823,
+            "from_id": {
+              "channel_id": 1399139748,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Dave Hayes",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Missouri Attorney General Eric Schmitt files a lawsuit on behalf of 11 states opposing OSHA's vaccine regulations. \nhttps://www.theepochtimes.com/11-states-file-lawsuit-against-bidens-vaccine-mandate-for-businesses_4088242.html",
+          "peerid": {
+            "channel_id": 1282396023,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 29377
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 38450,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5729645067610642531",
+        "_score": 9.1158,
+        "_source": {
+          "archivedon": "2021-11-06 00:50:13.926644",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "date": 1636159571,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 111,
+              "offset": 116
+            }
+          ],
+          "forwards": 241,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1523631301
+          },
+          "fwdfrom": {
+            "channel_post": 6532,
+            "date": 1636128823,
+            "from_id": {
+              "channel_id": 1399139748,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Dave Hayes",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Missouri Attorney General Eric Schmitt files a lawsuit on behalf of 11 states opposing OSHA's vaccine regulations. \nhttps://www.theepochtimes.com/11-states-file-lawsuit-against-bidens-vaccine-mandate-for-businesses_4088242.html",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 35245
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 38483,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5551568898815452005",
+        "_score": 9.0186,
+        "_source": {
+          "archivedon": "2021-11-06 14:24:21.490395",
+          "channeltitle": "WWD2021Chicago",
+          "channelusername": "worldwidechicago",
+          "date": 1636204881,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 38,
+              "offset": 132
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 19,
+              "offset": 170
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1610286770
+          },
+          "fwdfrom": {
+            "channel_post": 222,
+            "date": 1636203469,
+            "from_id": {
+              "channel_id": 1777794794,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "D",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "New York’s Mayor-elect Eric Adams walks straight into New Yorkers protesting against covid mandates\n\nWE MUST FIGHT FOR OUR RIGHTS‼️\nSHARE THIS POST FOR EVERYONE TO SEE‼️\n@StopTheVaccination",
+          "peerid": {
+            "channel_id": 1292575360,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 32935
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 490,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6427630059833644773",
+        "_score": 8.7404,
+        "_source": {
+          "archivedon": "2021-11-06 01:30:29.131228",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1636158570,
+          "editdate": 1636158536,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 10746,
+            "date": 1636157902,
+            "from_id": {
+              "channel_id": 1471556598,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "BEN MULRONEY \n\nALREADY IN GITMO \n\nCAROLINE MULRONEY \n\nWORKING WITH / WORKED WITH \n\n2 JUBILEE AWARD WINNING CHILD SEX TRAFFICKING \n\nFAKE HEROES \n\nERIC JOLLIFFE \nTHOMAS CARRIQUE \n\nAND FRIENDS \n\nWHO CLEARLY WANT TO PLAY\n\nDEADLY GITMO GAMES",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Lawless Lailapolooza",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1368195920,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 376049
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 165,
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5766449673162231079",
+        "_score": 8.2381,
+        "_source": {
+          "archivedon": "2021-11-06 18:38:41.265518",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "date": 1636220273,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1559126739
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I agree, all those protesters and protesting yet \nEric Adams becomes mayor of New York.\nI know he cheated however, he’s worse than DeBlasio, and the protests should be directed towards the auditing the New York and New Jersey elections.",
+          "peerid": {
+            "channel_id": 1342606189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 36109,
+            "reply_to_top_id": 36103
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "channelabout": "@worldwidedemonstration NYC",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5137937043967534086",
+        "_score": 8.0848,
+        "_source": {
+          "archivedon": "1682662648",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1636231824,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 145,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/80"
+            },
+            {
+              "length": 4,
+              "offset": 164,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/81"
+            },
+            {
+              "length": 5,
+              "offset": 171,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/82"
+            },
+            {
+              "length": 5,
+              "offset": 203,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/52"
+            },
+            {
+              "length": 5,
+              "offset": 231,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal/88"
+            },
+            {
+              "length": 5,
+              "offset": 256,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/7"
+            },
+            {
+              "length": 6,
+              "offset": 283,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AnjasKanal_Quellennachweise/10"
+            },
+            {
+              "length": 11,
+              "offset": 289,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8725,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 661288540
+          },
+          "fwdfrom": {
+            "channel_post": 89,
+            "date": 1624813963,
+            "from_id": {
+              "channel_id": 1425689290,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "Hallo Ihr Lieben, viele Menschen bereuen diese Impfung inzwischen, aber es gibt Hilfe für diese Menschen.  \n\nQuellennachweise: \nRamona Klüglein: hier\nEric Clapton: hier & hier\nStudie über das Darpa-Gel: hier\nAnleitung vom Edinger: hier\nBuch (Die Woche..)  hier\nGeschichte des Badens hier\n\n@AnjasKanal",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 198081
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 2.23750054767417e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 661288540,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682662648,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "views": 184511,
+          "channelabout": "",
+          "media": {
+            "document": {
+              "access_hash": 9.70585987434796e+17,
+              "attributes": [
+                {
+                  "duration": 2011,
+                  "h": 1080,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1920
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "impfung-bereuen.mp4"
+                }
+              ],
+              "date": 1624813963,
+              "dc_id": 2,
+              "file_reference": "AkdNnoUAAWQGZEtksOSmrysTXgcGxAbtoFXfQdU=",
+              "id": 5.38663217744e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 306229292,
+              "thumbs": [
+                {
+                  "bytes": "ARYoxaegBJB3fgM0ypIjhshmDdtozQAbU9X/AO+f/r01goPyk/iMVOZJOu+XBP8AdqGQ5bOWJ77higBlFFFABTlYqcqcEd6KKAHm4lP/AC0b0pjsXYsxyTRRQA2iiigD",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 5411,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument"
+          },
+          "id": 91142,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:17:28.655003"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6086674381688444097",
+        "_score": 5.9043,
+        "_source": {
+          "archivedon": "2021-11-06 05:32:17.512463",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1636173239,
+          "editdate": 1636173216,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 59,
+              "offset": 2
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 26046,
+            "date": 1636172568,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "❗️11 States Rally Against Biden's Vax Mandate On Businesses\n\nAttorney generals have filed a suit challenging vaccine requirements for firms with 100+ staff. (AP)\n\nThe lawsuit in St. Louis argues the authority lies with states, and not the federal govt.\n\n“This mandate is unconstitutional, unlawful, and unwise,” said the court filing by Missouri Attorney General Eric Schmitt, one of several Republicans vying for the state’s open U.S. Senate seat next year.\n\nFailure to comply after January 4th could see fines of around $14,000 per violation.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 36,
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6182575233266883122",
+        "_score": 5.7646,
+        "_source": {
+          "archivedon": "1681559332",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1636158140,
+          "editdate": 1641059869,
+          "edithide": true,
+          "entities": [],
+          "forwards": 28,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Warren Buffett, Harvey Weinstein, Patrick Byrne, Zuckerburg, Dorsey, Gates, Flynn, Waldron, Lindell, Pulitzer, Clements, Keshel, Kanekoa, Conan, Dennis Montgomery, Mary Fanning, Clinton’s, Bushes, Eric Holder, GARET ZEEEGLer, Mark Cook, Shelby Bush, Kandiss Taylor, Lin Wood, Jarrin Jackson, Joe Oltmann, Dr. Frank, Erin Clements, George Soros, Rothschilds, Monarchy, Australian PM, VLADMIR PUTIN, China, MURDOCH and all of his companies have all been sabotaging us and our country. \n\nThere’s so many more, but this is what we have been up against this entire time. \n\nDrugs, Money, Humans, Votes. \n\nIt’s all been trafficked and manipulated.",
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6466,
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "id": 6706,
+          "noforwards": false,
+          "lastseents": "2023-04-15T11:48:52.871920"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4971447163633789349",
+        "_score": 5.7646,
+        "_source": {
+          "archivedon": "2021-11-06 01:02:25.661748",
+          "channeltitle": "Arizona Audit Watch Chat",
+          "channelusername": "AZAuditChat",
+          "date": 1636159976,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1395012363
+          },
+          "fwdfrom": {
+            "channel_post": 6706,
+            "date": 1636158140,
+            "from_id": {
+              "channel_id": 1439492971,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 3366,
+            "saved_from_peer": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1395012363
+            }
+          },
+          "message": "Warren Buffett, Harvey Weinstein, Patrick Byrne, Zuckerburg, Dorsey, Gates, Flynn, Waldron, Lindell, Pulitzer, Clements, Keshel, Kanekoa, Conan, Dennis Montgomery, Mary Fanning, Clinton’s, Bushes, Eric Holder, GARET ZEEEGLer, Mark Cook, Shelby Bush, Kandiss Taylor, Lin Wood, Jarrin Jackson, Joe Oltmann, Dr. Frank, Erin Clements, George Soros, Rothschilds, Monarchy, Australian PM, VLADMIR PUTIN, China, MURDOCH and all of his companies have all been sabotaging us and our country. \n\nThere’s so many more, but this is what we have been up against this entire time. \n\nDrugs, Money, Humans, Votes. \n\nIt’s all been trafficked and manipulated.",
+          "peerid": {
+            "channel_id": 1157505243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 256438,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 364567
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 882,
+          "channelabout": "SEE SOMETHING SAY SOMETHING! \nHelp Arizona watch the live feeds of the largest election audit in our country's history! Join the Arizona Audit Watch Group now to get started! @AZAuditWatch \n\n        ⭐️  ALL EYES ON ARIZONA! ⭐️",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5991532476600683814",
+        "_score": 5.7646,
+        "_source": {
+          "archivedon": "2021-11-06 01:02:25.581565",
+          "channeltitle": "Arizona Audit Watch Channel",
+          "channelusername": "AZAuditNews",
+          "date": 1636159973,
+          "editdate": 1636159962,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6706,
+            "date": 1636158140,
+            "from_id": {
+              "channel_id": 1439492971,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Warren Buffett, Harvey Weinstein, Patrick Byrne, Zuckerburg, Dorsey, Gates, Flynn, Waldron, Lindell, Pulitzer, Clements, Keshel, Kanekoa, Conan, Dennis Montgomery, Mary Fanning, Clinton’s, Bushes, Eric Holder, GARET ZEEEGLer, Mark Cook, Shelby Bush, Kandiss Taylor, Lin Wood, Jarrin Jackson, Joe Oltmann, Dr. Frank, Erin Clements, George Soros, Rothschilds, Monarchy, Australian PM, VLADMIR PUTIN, China, MURDOCH and all of his companies have all been sabotaging us and our country. \n\nThere’s so many more, but this is what we have been up against this entire time. \n\nDrugs, Money, Humans, Votes. \n\nIt’s all been trafficked and manipulated.",
+          "peerid": {
+            "channel_id": 1395012363,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1157505243,
+            "comments": true,
+            "max_id": 256438,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1596300257
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1500008578
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1444176246
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 364567
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 449,
+          "channelabout": "Arizona's Official Audit Watch Channel! 🇺🇸\n     \n     SEE SOMETHING, SAY SOMETHING!\nWe need volunteers from all over the world to help us watch audit cameras 24/7! Links below.\n\n⭐️ Channel: @AZAuditNews\n⭐️ Chat: @AZAuditChat\n⭐️ Watch Group: @AZAuditWatc",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5540491821676808612",
+        "_score": 5.0693,
+        "_source": {
+          "archivedon": "2021-11-06 09:28:22.108107",
+          "channeltitle": "LiebeIsstLeben",
+          "channelusername": "liebeisstleben",
+          "date": 1636188766,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 774,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 148,
+              "offset": 774
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 70812,
+            "date": 1636124564,
+            "from_id": {
+              "channel_id": 1325174315,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "‼️Paukenschlag!!!\n\n‼️Dieses Bekenntnis der Bischöfe heißt nichts anderes, als dass Missbrauch unschuldiger Kinder jahrzehntelang zum Konzept der Katholischen Kirche gehört!\n\nDie französischen Bischöfe haben sich erstmals offiziell zur Verantwortung der katholischen Kirche für die Missbrauchsfälle bekannt. „Wir sind uns alle einig, die institutionelle Verantwortung der Kirche anzuerkennen für die Gewalt, die so viele Opfer erlitten haben“, sagte der Vorsitzende der Bischofskonferenz, Eric de Moulins-Beaufort, am Freitag in Lourdes.\n\n‼️Der Missbrauch habe eine „systematische Dimension“ gehabt. „Die Gewalttaten waren keine Einzelfälle, sondern wurden durch den allgemeinen Kontext und (…) die Mentalität innerhalb der Kirche ermöglicht“, sagte de Moulins-Beaufort. ‼️\n\nhttps://www.epochtimes.de/politik/ausland/frankreichs-bischoefe-erkennen-verantwortung-der-kirche-fuer-missbrauchsfaelle-an-a3638777.html?telegram=1",
+          "peerid": {
+            "channel_id": 1289996277,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 379,
+          "channelabout": "Aktuelles Weltgeschehen, Liebe, Leben, Gesundheit, Ernährung, Mondkalender",
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5312044933564134345",
+        "_score": 2.1373,
+        "_source": {
+          "archivedon": "2021-11-06 09:17:55.352719",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1636189042,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 106,
+              "offset": 3829
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18872,
+            "date": 1636188921,
+            "from_id": {
+              "channel_id": 1289973884,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "‼️‼️‼️OSHA-Impfpflicht: 84 Millionen Arbeitnehmer müssen sich bis zum 4. Januar impfen lassen!\n\nDie Biden-Regierung hat eine neue Vorschrift der OSHA veröffentlicht, die 84 Millionen Beschäftigte in der Privatwirtschaft dazu zwingt, sich gegen C-19 impfen zu lassen.\n\nDie Verwaltung teilte die Vorschrift des CMS, in der 17 Millionen Beschäftigte im Gesundheitswesen aufgefordert wurden, sich impfen zu lassen.\n\nDie Regierung hat auch die Frist für die vollständige Impfung der Beschäftigten in diesen Sektoren auf den 4. Januar 2022 verschoben.\n\nDieser Termin gilt auch für Bundesauftragnehmer.\n\nIm September hatte die Regierung Biden erklärt, sie werde die Beschäftigten von Bundesauftragnehmern auffordern, sich bis zum 8. Dezember impfen zu lassen.\n\n\"Wir wollten dies tun, weil wir es den Unternehmen so einfach wie möglich machen wollen, diese Anforderungen umzusetzen und den Arbeitnehmern die Einhaltung zu erleichtern\", sagte der Beamte auf die Frage nach der Verschiebung der Frist.\n\nDie Biden-Administration erhielt zahlreiche Briefe von Unternehmen, die darum baten, die Frist für die Impfung auf die Zeit nach den Feiertagen zu verschieben.\n\nDie OSHA forderte Unternehmen mit mehr als 100 Beschäftigten auf, die Impfung zur Pflicht zu machen. Andernfalls drohen ihnen Geldstrafen von bis zu 13.600 Dollar pro Verstoß. Ein Arbeitgeber, der den Verstoß nicht abstellt, muss mit einer zusätzlichen Geldstrafe in Höhe von 13.600 Dollar rechnen.\n\nDie nicht geimpften Arbeitnehmer müssen wöchentlich einen negativen Test vorlegen. Außerdem müssen sie bei der Arbeit Masken tragen.\n\nDas ETS fordert die Arbeitgeber auf, den Impfstatus jedes Mitarbeiters zu ermitteln und zu verfolgen.\n\nDie Vorschrift tritt unmittelbar nach ihrer Veröffentlichung am 5. November 2021 in Kraft.\n\nWH-Beamte erklärten, dass sie diese Verordnung zum Schutz der Arbeitnehmer vor Gesundheits- und Sicherheitsrisiken, einschließlich ansteckender Krankheiten, eingeführt haben.\n\n'' Sie sagen, dass es einen etablierten rechtlichen Präzedenzfall für die Befugnis der OSHA gibt, vorhandene wissenschaftliche Erkenntnisse zu bewerten und Daten zur Entwicklung von Sicherheits- und Gesundheitsstandards anzuwenden. Der ETS sagt, dass er staatlichen und lokalen Gesetzen vorgeht, die einem Arbeitgeber verbieten oder einschränken, Impfungen, Gesichtsbedeckungen oder Tests vorzuschreiben. Mehrere republikanische Gouverneure und Generalstaatsanwälte schworen jedoch, die neue OSHA-Vorschrift vor Gericht zu bekämpfen. Der texanische Gouverneur Greg Abbott erließ am 11. Oktober eine Durchführungsverordnung, die es texanischen Unternehmen verbietet, Impfungen für Mitarbeiter oder Kunden vorzuschreiben. Die Epoch Times berichtete.\n\nRon DeSantis reichte am 28. Oktober eine Klage gegen die Anordnung der Biden-Administration ein, die von den Angestellten der Bundesbehörden verlangt, geimpft zu werden.\n\nDie Generalstaatsanwälte von Ohio, Kentucky und Tennessee kündigten an, dass sie rechtlich gegen diese Regelung vorgehen würden. Der Generalstaatsanwalt von Missouri, Eric Schmitt, der Generalstaatsanwalt von AZ, M. Brnovich, und die Gouverneurin von Süddakota, Kristi Noem, taten dasselbe.\n\nDas republikanische Nationalkomitee kündigte an, die Verwaltung zu verklagen, und bezeichnete die Regelung als \"Angriff auf die Beschäftigten an vorderster Front, Ersthelfer, kleine Unternehmen und die Rechte des amerikanischen Volkes\".\n\nDie GOP-Gesetzgeber werden \"unverzüglich eine Resolution zum Congressional Review Act einbringen, um die 'Notfall'-Regel der OSHA für ungültig zu erklären, sobald der Kongress sie erhält.\"\n\n\"Ich hätte es zwar lieber gesehen, wenn diese Vorschriften nicht notwendig geworden wären, aber es sind noch zu viele Menschen ungeimpft, als dass wir diese Pandemie endgültig überwinden könnten\", sagte Biden in einer Erklärung.\n\nhttps://thetruedefender.com/osha-vaccine-mandate-shared-that-84-million-employees-face-january-4-deadline/",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 26,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [43],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [16],
+      "relation": ["eq"]
+    },
+    "max_score": [12.9717],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5188655694290654857",
+        "_score": 12.9717,
+        "_source": {
+          "archivedon": "2022-08-03 06:08:29.738318",
+          "channelabout": "The Official @MiniAOC Discussion Group Chat",
+          "channeltitle": "Mini AOC Chat",
+          "date": 1658065082,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1588683592
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "“Eric Smellsnotsowell” 😝😝😝",
+          "peerid": {
+            "channel_id": 1208078045,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 38536
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1588683592,
+            "_media_ref": "70ef97b45790eea21df7e113a2d519b8e65fcef2",
+            "_v": 1,
+            "access_hash": 7.89763220114596e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "John",
+            "id": 1588683592,
+            "is_self": false,
+            "last_name": "S",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 443330,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919293
+              },
+              "photo_id": 4.99691611399662e+18,
+              "photo_small": {
+                "local_id": 443328,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919293
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "sylvesterjohn",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5235557432947740466",
+        "_score": 11.8395,
+        "_source": {
+          "archivedon": "2022-07-25 05:25:58.559957",
+          "channelabout": "Dies ist der öffentliche, kostenlose Kanal von Oliver Janich. Unterstützung und exklusive Inhalte über Premium-Abo: https://t.me/JanichSupport_Bot | Nur meine Videos: https://t.me/OliverJanichtopnews | Webseite: https://www.oliverjanich.de",
+          "channeltitle": "Oliver Janich öffentlich",
+          "date": 1658071542,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 110,
+              "offset": 221,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 92,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "„Eric Martin, der Bruder des Sängers behauptet nun:  Die Person hinter der einstweiligen Verfügung – also der mutmaßliche Liebhaber – ist Martins 21-jähriger Neffe! Eric bestreitet aber, dass es jemals eine Affäre gab.“\n\nhttps://www.bild.de/unterhaltung/leute/leute/ricky-martin-inzest-vorwuerfe-gegen-popsaenger-80716934.bild.html",
+          "peerid": {
+            "channel_id": 1218998207,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 36877,
+          "channelusername": "oliverjanich"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5351590840647074593",
+        "_score": 11.8395,
+        "_source": {
+          "archivedon": "2022-07-25 05:32:17.607042",
+          "channelabout": "Politisches und Lustiges",
+          "channeltitle": "Videodump",
+          "date": 1658081923,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 110,
+              "offset": 221,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 102194,
+            "date": 1658071542,
+            "from_id": {
+              "channel_id": 1218998207,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "„Eric Martin, der Bruder des Sängers behauptet nun:  Die Person hinter der einstweiligen Verfügung – also der mutmaßliche Liebhaber – ist Martins 21-jähriger Neffe! Eric bestreitet aber, dass es jemals eine Affäre gab.“\n\nhttps://www.bild.de/unterhaltung/leute/leute/ricky-martin-inzest-vorwuerfe-gegen-popsaenger-80716934.bild.html",
+          "peerid": {
+            "channel_id": 1246014340,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2740,
+          "channelusername": "videodump1"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "4993803104064376012",
+        "_score": 11.1878,
+        "_source": {
+          "archivedon": "2022-07-25 04:31:27.548655",
+          "channeltitle": "The Khazarian Effect",
+          "date": 1658096820,
+          "editdate": 1658097870,
+          "edithide": true,
+          "entities": [],
+          "forwards": 74,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32647745643897e+16,
+          "message": "The Majdanek Gas Chamber Myth and The Treblinka Archaeological Hoax by Eric Hunt.\n\nShare with your family and friends.",
+          "peerid": {
+            "channel_id": 1162710391,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1553,
+          "channelusername": "The_Khazarian_Effect"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6363715878407636664",
+        "_score": 11.1878,
+        "_source": {
+          "archivedon": "2022-08-03 06:06:10.059162",
+          "channelabout": "Mini Ava in OC (miniAOC) and her pops. Making America Laugh Again - finding humor amid all the \"serious stuff.” #MALA \n\nhttps://linktr.ee/MiniAOC",
+          "channeltitle": "Mini AOC",
+          "date": 1658062797,
+          "editdate": 1658064319,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "'Only Tough on Twitter': Lauren Boebert Reveals Interaction with Eric Swalwell in Halls of Congress\n\nREAD: https://saferead.org/DYM",
+          "peerid": {
+            "channel_id": 1481668064,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1208078045,
+            "comments": true,
+            "max_id": 38554,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1153990922
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1509434296
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1588683592
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 59968
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1200,
+          "channelusername": "MiniAOC"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5188655694290654856",
+        "_score": 11.1878,
+        "_source": {
+          "archivedon": "2022-08-03 06:08:29.736847",
+          "channelabout": "The Official @MiniAOC Discussion Group Chat",
+          "channeltitle": "Mini AOC Chat",
+          "date": 1658062800,
+          "editdate": 1658064319,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1481668064
+          },
+          "fwdfrom": {
+            "channel_post": 1720,
+            "date": 1658062797,
+            "from_id": {
+              "channel_id": 1481668064,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1720,
+            "saved_from_peer": {
+              "channel_id": 1481668064,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "'Only Tough on Twitter': Lauren Boebert Reveals Interaction with Eric Swalwell in Halls of Congress\n\nREAD: https://saferead.org/DYM",
+          "peerid": {
+            "channel_id": 1208078045,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 38554,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 59968
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1200
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5188655694290654874",
+        "_score": 10.2973,
+        "_source": {
+          "archivedon": "2022-08-03 06:08:34.375177",
+          "channelabout": "The Official @MiniAOC Discussion Group Chat",
+          "channeltitle": "Mini AOC Chat",
+          "date": 1658074685,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1153990922
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Good for you Representative Boebert.  Eric Smellsnotsowell fantasizes about being tough on Twitter but in reality he’s just whimpering wimp.  He’s also a connoisseur of fortune cookies!  😂",
+          "peerid": {
+            "channel_id": 1208078045,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 38536
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1153990922,
+            "_media_ref": "1ea4cf42d23c6c4d5efb2ef888df34814e51717d",
+            "_v": 1,
+            "access_hash": 7.47103541281926e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lamar",
+            "id": 1153990922,
+            "is_self": false,
+            "last_name": "Faircloth",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 19369,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806528711
+              },
+              "photo_id": 4.99677037716633e+18,
+              "photo_small": {
+                "local_id": 19367,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806528711
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "LamarFaircloth",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "4599600813680125589",
+        "_score": 10.2078,
+        "_source": {
+          "archivedon": "2022-07-24 07:56:09.922274",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "date": 1658024447,
+          "editdate": 1658024483,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 150,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams got behind a street musician’s set for a quick drum lesson that turned into an impromptu jam session at a COVID-19 testing site.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 47680,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1422621950
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1353955845
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 85016
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1196,
+          "channelusername": "YidInfo"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6057077057676912823",
+        "_score": 9.3998,
+        "_source": {
+          "archivedon": "2022-08-06 20:36:03.468509",
+          "channelabout": "Fighting for POTUS 🇺🇸",
+          "channeltitle": "TheStormHasArrived17💀",
+          "date": 1658084223,
+          "editdate": 1658084340,
+          "edithide": false,
+          "entities": [],
+          "forwards": 183,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Lauren Boebert says that when the Republicans win back the House, they are going to remove Eric Swalwell from the Intelligence Committee and strip him of his security clearance 💥\n\nPlease do the same for Adam Schiff. \n\nThank you.",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17 ️ ️ ️",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 48765,
+          "channelusername": "TheStormHasArrived17"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6736149054037693611",
+        "_score": 9.1844,
+        "_source": {
+          "archivedon": "2022-08-04 03:06:15.82907",
+          "channeltitle": "Perth National Review",
+          "date": 1658017170,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 202,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "channel_post": 2,
+            "date": 1657153078,
+            "from_id": {
+              "channel_id": 1609788745,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "If the world had more people like Sir Eric Fx Sheriff, it will be a better place to live in, You really make difference out of hundred thousands online traders , you are the most beautiful ❤️ heart.\n👇\nhttp://t.me/joinchat/nRAhVsHrliM1MmM0",
+          "peerid": {
+            "channel_id": 1568381920,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 7324
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "views": 9899,
+          "channelusername": "perthnationalreview"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5626892669453136491",
+        "_score": 8.9137,
+        "_source": {
+          "archivedon": "2022-08-02 03:37:44.878392",
+          "channelabout": "This is un-official support page for Candace Owens, please join as we share daily news on what's happening.",
+          "channeltitle": "Candace Owens Supporters",
+          "date": 1658085612,
+          "editdate": 1658085994,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 231,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreedomFighterVoices"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 17,
+              "offset": 264,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1354775408
+          },
+          "fwdfrom": {
+            "channel_post": 8911,
+            "date": 1658085604,
+            "from_id": {
+              "channel_id": 1236119220,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 7603,
+            "saved_from_peer": {
+              "channel_id": 1354775408,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Lauren Boebert says that when the Republicans win back the House, they are going to remove Eric Swalwell from the Intelligence Committee and strip him of his security clearance 💥\n\nPlease do the same for Adam Schiff. \n\nThank you.\n\nShare & Join the Freedom Fighters Telegram channel",
+          "peerid": {
+            "channel_id": 1310113042,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 77484
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2998,
+          "channelusername": "candaceowenssupporterss",
+          "mediaref": "b3f29a8870c83932306c225be54f3a1afa3c7ebd"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "4983987381511176405",
+        "_score": 8.9137,
+        "_source": {
+          "archivedon": "2022-07-25 04:31:07.234542",
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch",
+          "channeltitle": "QAge2020/21",
+          "date": 1658087501,
+          "editdate": 1658087504,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 231,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreedomFighterVoices"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 17,
+              "offset": 264,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 8911,
+            "date": 1658085604,
+            "from_id": {
+              "channel_id": 1236119220,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Lauren Boebert says that when the Republicans win back the House, they are going to remove Eric Swalwell from the Intelligence Committee and strip him of his security clearance 💥\n\nPlease do the same for Adam Schiff. \n\nThank you.\n\nShare & Join the Freedom Fighters Telegram channel",
+          "peerid": {
+            "channel_id": 1160424990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Digital Warrior of God WWG1WGA🇫🇷🇺🇸🇩🇪",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 91769
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27,
+          "channelusername": "Qage2020"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5818716070785064371",
+        "_score": 8.9137,
+        "_source": {
+          "archivedon": "2022-08-05 10:22:35.628",
+          "channelabout": "Spreading truth to the choir, and crossing the divide to the deceived - in hopes of maintaining These United States.",
+          "channeltitle": "Conservative Daily",
+          "date": 1658085609,
+          "editdate": 1658085994,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 231,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreedomFighterVoices"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 17,
+              "offset": 264,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 8911,
+            "date": 1658085604,
+            "from_id": {
+              "channel_id": 1236119220,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Lauren Boebert says that when the Republicans win back the House, they are going to remove Eric Swalwell from the Intelligence Committee and strip him of his security clearance 💥\n\nPlease do the same for Adam Schiff. \n\nThank you.\n\nShare & Join the Freedom Fighters Telegram channel",
+          "peerid": {
+            "channel_id": 1354775408,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "MA YA",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1310113042,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 77508
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 617,
+          "channelusername": "Conservativedaily",
+          "mediaref": "b3f29a8870c83932306c225be54f3a1afa3c7ebd"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5309091623857038031",
+        "_score": 8.9137,
+        "_source": {
+          "archivedon": "2022-08-06 20:35:09.919586",
+          "channelabout": "Red Pilled Patriots Who Vote For Change.",
+          "channeltitle": "QAnon Patriots",
+          "date": 1658085604,
+          "editdate": 1658087020,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 231,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreedomFighterVoices"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 248,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 17,
+              "offset": 264,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Lauren Boebert says that when the Republicans win back the House, they are going to remove Eric Swalwell from the Intelligence Committee and strip him of his security clearance 💥\n\nPlease do the same for Adam Schiff. \n\nThank you.\n\nShare & Join the Freedom Fighters Telegram channel",
+          "peerid": {
+            "channel_id": 1236119220,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491210527,
+            "comments": true,
+            "max_id": 17612,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1594179826
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1415581094
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1356458906
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 8,
+            "replies_pts": 24908
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3051,
+          "channelusername": "QAnon_Patriots"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5498927378749029789",
+        "_score": 8.5397,
+        "_source": {
+          "archivedon": "2022-07-24 19:07:07.59829",
+          "channeltitle": "Free West Virginia",
+          "date": 1658045442,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 270,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 30,
+              "offset": 289,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 320,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "The most fruitful decision of my existence \nwas trading with Eric,  I wouldn’t have a second thought of choosing him over every other trader. I tested the waters with $1000 and in few weeks I got return of $6500. His diligence and trustworthiness can’t be compromised\n\n\n@ChristopherNewman\nhttps://t.me/+sID2Q1Cb2QEwZWU0\nhttps://t.me/+sID2Q1Cb2QEwZWU0",
+          "peerid": {
+            "channel_id": 1280318801,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 120498
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "FreeWestVirginia"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5811551549939719533",
+        "_score": 6.5992,
+        "_source": {
+          "archivedon": "2022-07-25 04:33:49.866798",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "date": 1658026080,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 78,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 80,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 521,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 522,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 522,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 10257,
+            "date": 1657829265,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Trump's first wife and mother of his 3 eldest children, Ivana Trump, has died.\n\nPRESIDENT TRUMP:  I am very saddened to inform all of those that loved her, of which there are many, that Ivana Trump has passed away at her home in New York City. She was a wonderful, beautiful, and amazing woman, who led a great and inspirational life. Her pride and joy were her three children, Donald Jr., Ivanka, and Eric. She was so proud of them, as we were all so proud of her. Rest In Peace, Ivana!\n\n__\n\nRest In Peace 🙏🏻\n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "channelusername": "Wahrheit2020"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

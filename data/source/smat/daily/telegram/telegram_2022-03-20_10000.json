@@ -1,0 +1,1173 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [11.5753],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4539800227376788319",
+        "_score": 11.5753,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682648351",
+          "channelabout": "",
+          "channeltitle": "Impfkritik",
+          "channelusername": "impfkritisch",
+          "date": 1647757849,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 18,
+              "offset": 135,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 188,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 279,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 357,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1139593632
+          },
+          "fwdfrom": {
+            "channel_post": 14525,
+            "date": 1647729904,
+            "from_id": {
+              "channel_id": 1609278210,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 521055,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Eric Robertson, a Knoxville teacher and basketball coach who played college and professional ball, died suddenly Monday night.",
+              "display_url": "eu.knoxnews.com/story/sports/2022/03/08/knoxville-teacher-basketball-coach-eric-robertson-dies-suddenly/9428393002",
+              "hash": 0,
+              "id": 3.72686500997891e+18,
+              "photo": {
+                "access_hash": -6.95324250461922e+17,
+                "date": 1646782748,
+                "dc_id": 4,
+                "file_reference": "AGRLLPY4p2JR9WVuBsbylJen5wJI",
+                "has_stickers": false,
+                "id": 5.85628031047865e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoyWXAFIFqxKvFEMe6UBOpHGfWgaWlwhHlkFxgHoCO1V2ADEDpmrySGMmFwrOGwSRmq8sYWQgcDNLqNK5IYxLbwhXUFQc5OO9FRRJvkVT3IooBpF9ooxs35LHoBT7tEtz5iLmQAE+lFFC3F0M4yeZPvxtB447cYqUr5ib/AOIDpRRTlowiNgjMkoAx360UUVNy2Q==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12085,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 46101,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 675,
+                    "w": 1200,
+                    "sizes": [12950, 25038, 31931, 49885, 66691]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Knoxville News Sentinel",
+              "title": "Knoxville teacher and basketball coach with a 'wonderful smile' dies suddenly",
+              "type": "photo",
+              "url": "https://eu.knoxnews.com/story/sports/2022/03/08/knoxville-teacher-basketball-coach-eric-robertson-dies-suddenly/9428393002/"
+            }
+          },
+          "message": "https://eu.knoxnews.com/story/sports/2022/03/08/knoxville-teacher-basketball-coach-eric-robertson-dies-suddenly/9428393002/\n\n🏀 🕯🇺🇸 Basketball-Trainer Eric Robertson (28) aus Tennessee bricht beim Basketball-Spielen tot zusammen. Meldung vom 8.3.22.\n\n👉🏻 Alle Meldungen auf: https://t.me/coronaimpftod",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1057004609,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 714270
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.38455163709232e+17,
+            "apply_min_photo": true,
+            "archivedon": 1682648351,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Roland",
+            "id": 1139593632,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 49907,
+          "lastseents": "2023-04-28T02:19:11.401822"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4939120813107333205",
+        "_score": 11.5753,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-20 16:12:25.197168",
+          "channelabout": "2Q2Q 💥‼️\nWWG1WGA 💪🏼‼️",
+          "channeltitle": "💥🔥The Awaking Project 💥🔥",
+          "channelusername": "awakeningproject",
+          "date": 1647785060,
+          "editdate": 1647785063,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 18,
+              "offset": 135,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 188,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 279,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 14525,
+            "date": 1647729904,
+            "from_id": {
+              "channel_id": 1609278210,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://eu.knoxnews.com/story/sports/2022/03/08/knoxville-teacher-basketball-coach-eric-robertson-dies-suddenly/9428393002/\n\n🏀 🕯🇺🇸 Basketball-Trainer Eric Robertson (28) aus Tennessee bricht beim Basketball-Spielen tot zusammen. Meldung vom 8.3.22.\n\n👉🏻 Alle Meldungen auf: https://t.me/coronaimpftod",
+          "peerid": {
+            "channel_id": 1149978678,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ar Cz",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1239964320,
+            "comments": true,
+            "max_id": 136281,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 442340386
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1281891016
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1129068325
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 166711
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 307
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6347838857488126034",
+        "_score": 11.5753,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-21 03:49:27.748784",
+          "channeltitle": "MICHAEL WENDLER 🚨",
+          "channelusername": "MICHAELWENDLEROFFICIAL",
+          "date": 1647785046,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 18,
+              "offset": 135,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 188,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 279,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 196,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 14525,
+            "date": 1647729904,
+            "from_id": {
+              "channel_id": 1609278210,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://eu.knoxnews.com/story/sports/2022/03/08/knoxville-teacher-basketball-coach-eric-robertson-dies-suddenly/9428393002/\n\n🏀 🕯🇺🇸 Basketball-Trainer Eric Robertson (28) aus Tennessee bricht beim Basketball-Spielen tot zusammen. Meldung vom 8.3.22.\n\n👉🏻 Alle Meldungen auf: https://t.me/coronaimpftod",
+          "peerid": {
+            "channel_id": 1477971407,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "CC",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 22562
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5782522656259829389",
+        "_score": 8.1781,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-21 01:42:03.009827",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1647815099,
+          "editdate": 1647815102,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/fdJeTw9"
+            },
+            {
+              "length": 30,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1505662600041873411"
+            },
+            {
+              "length": 9,
+              "offset": 36,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP_Top25"
+            },
+            {
+              "length": 13,
+              "offset": 233,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 13,
+              "offset": 251,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/willgravesap"
+            },
+            {
+              "length": 22,
+              "offset": 265,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": " The Associated Press (Twitter)\n\nRT @AP_Top25: Collin Gillespie scored 20 points, Eric Dixon hit a big 3-pointer late and second-seeded Villanova fended off seventh-seeded Ohio State 71-61 in the second round of the NCAA Tournament. #MarchMadness\n\nby @willgravesap http://apne.ws/fdJeTw9",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 412999
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 23
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "6767288937028266638",
+        "_score": 4.3409,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682760650",
+          "channelabout": "The Storm is here 2021\nWWG1WGA - Q\nTrust the Plan! :)",
+          "channeltitle": "The Storm 2021",
+          "channelusername": "TheStorm2021",
+          "date": 1647806343,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 535,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2586,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1959627436
+          },
+          "fwdfrom": {
+            "channel_post": 6231,
+            "date": 1647772463,
+            "from_id": {
+              "channel_id": 1459255169,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 10894,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Mary Tally Bowden\nDr. Thomas Ynges\nDr. Guido Hofmann\nDr. Anne Mcclosky\nDr. James Grundvig\nDr. Amanda Vollmer\nDr. Kevin Stillwagon\nDr. Luis Miguel de Benito\nDr. Bruce Boros\nDr. Steven Gundry\nDr. Ray Page\nDr. Tess Lawrie\nDr. Andreas Noack\nDr. Mark Hobart\nDr. Peter Campbell\nDr. Peter Johnston\nDr. Eric Nepute\nDr. Bradley Campbell\nDr. Joseph Yi\nDr Robert Morse ND\nDr Piotr Witczak (biolog)\nDr Jerzy Jaskowski\nDr H.Czerniak\nDr. Anna Martynowska\nDr. Byram Bridle\nProf. Dolores Cahill\nProf. Retsif Levi\nProf. Maria Majewska- neurobiolog\n_______\nMany of you often run into arguments with family and friends and need MORE> AMMO\n(sources they can search) so you can help save their life or your simply doing your Important part in the world sharing important information ..\n\nEVERYDAY More and more people wake up...\n\nKeep the Faith, Strength, Hope, love and compassion flowing Patriots/ ANONS/ FREEDOM FIGHTERS",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1575632239,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 65983
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.6242060213348e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682760650,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Jane",
+            "id": 1959627436,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1682759937
+            },
+            "support": false,
+            "username": "JaneM_2021",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 73470,
+          "lastseents": "2023-04-29T09:30:50.333583",
+          "collected_by": "crawler",
+          "url": "t.me/TheStorm2021/10894"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5533970515133268376",
+        "_score": 4.3409,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-20 15:54:31.795964",
+          "channelabout": "We are patriot truth seekers. http://bit.ly/PatriotMap",
+          "channeltitle": "Infamy2021",
+          "channelusername": "infamy2021",
+          "date": 1647788338,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 535,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6231,
+            "date": 1647772463,
+            "from_id": {
+              "channel_id": 1459255169,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Mary Tally Bowden\nDr. Thomas Ynges\nDr. Guido Hofmann\nDr. Anne Mcclosky\nDr. James Grundvig\nDr. Amanda Vollmer\nDr. Kevin Stillwagon\nDr. Luis Miguel de Benito\nDr. Bruce Boros\nDr. Steven Gundry\nDr. Ray Page\nDr. Tess Lawrie\nDr. Andreas Noack\nDr. Mark Hobart\nDr. Peter Campbell\nDr. Peter Johnston\nDr. Eric Nepute\nDr. Bradley Campbell\nDr. Joseph Yi\nDr Robert Morse ND\nDr Piotr Witczak (biolog)\nDr Jerzy Jaskowski\nDr H.Czerniak\nDr. Anna Martynowska\nDr. Byram Bridle\nProf. Dolores Cahill\nProf. Retsif Levi\nProf. Maria Majewska- neurobiolog\n_______\nMany of you often run into arguments with family and friends and need MORE> AMMO\n(sources they can search) so you can help save their life or your simply doing your Important part in the world sharing important information ..\n\nEVERYDAY More and more people wake up...\n\nKeep the Faith, Strength, Hope, love and compassion flowing Patriots/ ANONS/ FREEDOM FIGHTERS",
+          "peerid": {
+            "channel_id": 1288477917,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5586885598846755773",
+        "_score": 4.3409,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-21 06:42:14.350064",
+          "channelabout": "🙏Ülemaailmne meeleavaldus vabaduse eest ja totalitaarse ühiskonna kehtestamise vastu toimub taas 24.07.21 🥰",
+          "channeltitle": "World Wide Demonstration vol.3",
+          "channelusername": "eestivabaks",
+          "date": 1647801021,
+          "editdate": 1647801787,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 535,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1927,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 829535805
+          },
+          "fwdfrom": {
+            "channel_post": 6231,
+            "date": 1647772463,
+            "from_id": {
+              "channel_id": 1459255169,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Mary Tally Bowden\nDr. Thomas Ynges\nDr. Guido Hofmann\nDr. Anne Mcclosky\nDr. James Grundvig\nDr. Amanda Vollmer\nDr. Kevin Stillwagon\nDr. Luis Miguel de Benito\nDr. Bruce Boros\nDr. Steven Gundry\nDr. Ray Page\nDr. Tess Lawrie\nDr. Andreas Noack\nDr. Mark Hobart\nDr. Peter Campbell\nDr. Peter Johnston\nDr. Eric Nepute\nDr. Bradley Campbell\nDr. Joseph Yi\nDr Robert Morse ND\nDr Piotr Witczak (biolog)\nDr Jerzy Jaskowski\nDr H.Czerniak\nDr. Anna Martynowska\nDr. Byram Bridle\nProf. Dolores Cahill\nProf. Retsif Levi\nProf. Maria Majewska- neurobiolog\n_______\nMany of you often run into arguments with family and friends and need MORE> AMMO\n(sources they can search) so you can help save their life or your simply doing your Important part in the world sharing important information ..\n\nEVERYDAY More and more people wake up...\n\nKeep the Faith, Strength, Hope, love and compassion flowing Patriots/ ANONS/ FREEDOM FIGHTERS",
+          "peerid": {
+            "channel_id": 1300798170,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 141329
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 9.22172034530694e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Kristjan",
+            "id": 829535805,
+            "is_self": false,
+            "last_name": "saarsalu",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 9275,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400094400671
+              },
+              "photo_id": 3.56282915379227e+18,
+              "photo_small": {
+                "local_id": 9273,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400094400671
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "saarsalu",
+            "verified": false,
+            "_id": 829535805,
+            "_media_ref": "ebe51ff5da3bc091437239ea979941379bf52e62",
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 49907
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4923254645570227490",
+        "_score": 4.3409,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-21 00:38:49.235155",
+          "channeltitle": "At Weeks End News",
+          "channelusername": "AtWeeksEndNews",
+          "date": 1647775321,
+          "editdate": 1647775963,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 535,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1689,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1807969131
+          },
+          "fwdfrom": {
+            "channel_post": 6231,
+            "date": 1647772463,
+            "from_id": {
+              "channel_id": 1459255169,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Mary Tally Bowden\nDr. Thomas Ynges\nDr. Guido Hofmann\nDr. Anne Mcclosky\nDr. James Grundvig\nDr. Amanda Vollmer\nDr. Kevin Stillwagon\nDr. Luis Miguel de Benito\nDr. Bruce Boros\nDr. Steven Gundry\nDr. Ray Page\nDr. Tess Lawrie\nDr. Andreas Noack\nDr. Mark Hobart\nDr. Peter Campbell\nDr. Peter Johnston\nDr. Eric Nepute\nDr. Bradley Campbell\nDr. Joseph Yi\nDr Robert Morse ND\nDr Piotr Witczak (biolog)\nDr Jerzy Jaskowski\nDr H.Czerniak\nDr. Anna Martynowska\nDr. Byram Bridle\nProf. Dolores Cahill\nProf. Retsif Levi\nProf. Maria Majewska- neurobiolog\n_______\nMany of you often run into arguments with family and friends and need MORE> AMMO\n(sources they can search) so you can help save their life or your simply doing your Important part in the world sharing important information ..\n\nEVERYDAY More and more people wake up...\n\nKeep the Faith, Strength, Hope, love and compassion flowing Patriots/ ANONS/ FREEDOM FIGHTERS",
+          "peerid": {
+            "channel_id": 1146284548,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 100924
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.02796614200421e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Neo",
+            "id": 1807969131,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 295924,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400530
+              },
+              "photo_id": 4.97691201175773e+18,
+              "photo_small": {
+                "local_id": 295922,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400530
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1807969131,
+            "_media_ref": "7903208af7145e05dc3f89191789cd757bf4ac75",
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 44895
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "4983146010302985098",
+        "_score": 3.1471,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-20 15:43:43.060111",
+          "channelabout": "It's not over until we say it's over!",
+          "channeltitle": "BLACKLIST of CABALS",
+          "channelusername": "the_fall_of_the_Cabal",
+          "date": 1647757949,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 53,
+              "offset": 1729,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 353,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1153363712
+          },
+          "fwdfrom": {
+            "channel_post": 18422,
+            "date": 1647753512,
+            "from_id": {
+              "channel_id": 1353947649,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Fabijenna - eine Deutsche Liebe",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Die Lügenpresse hat keine Chance mehr!!!\nAm vergangenen Donnerstag war eine Ukrainerin namens Victoria, die seit 25 Jahren in Frankreich lebt, zu Gast in der Sendung Brunet & Cie des französischen Nachrichtensenders LCI, um die Zuschauer über die Lage in der Ukraine zu informieren. Die Moderatoren hatten wohl erwartet, dass die Frau eine Tirade gegen Putin loslassen würde, aber es kam ganz anders.\n\nDie Frau sagte, dass zwei Millionen Menschen in der Ukraine unter miserablen Bedingungen leben. Sie sagte, dass die Energierechnungen stark gestiegen sind und viele Menschen die Hälfte ihres Gehalts für die Heizung ausgeben.\n\n„Warum sollten wir diesen Präsidenten und seine Marionettenregierung verteidigen?“, fragte Victoria. „Die Wirtschaft bricht zusammen, die Korruption ist weit verbreitet.“ Der Moderator Eric Brunet fragte verblüfft: „Sprechen Sie von Zelensky?“\n\n„Natürlich, wer sonst?“, sagte sie. „Er ist absolut kein demokratischer Führer. Er hat vier Fernsehsender geschlossen. Journalisten sind verschwunden. Man sagt, dass russische Journalisten regelmäßig ermordet werden. Auch ukrainische Journalisten werden ermordet. In den letzten Jahren sind viele Journalisten getötet worden.\n\nBrunet fragte Victoria, ob es stimme, dass einige Einwohner Kiews froh darüber seien, dass die Russen in das Land einmarschiert seien. „Auf jeden Fall“, antwortete sie und fügte hinzu, dass viele Ukrainer bezweifeln, dass die Wahlen fair waren.\n\nBrunet wies darauf hin, dass es demokratische Methoden gibt, um die Regierung zu wechseln, wenn man mit dem Lauf der Dinge unzufrieden ist. Daraufhin sagte einer der Gäste: „Vergessen Sie nicht, dass es im Februar 2014 einen Putsch gegen den demokratisch gewählten Präsidenten gab.“\nhttps://uncutnews.ch/live-im-franzosischen-tv-erzahlt..\nhttps://t.me/Valkuera_Fabijenna",
+          "peerid": {
+            "channel_id": 1160229093,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 286046
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.188062786005e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Kathrin",
+            "id": 1153363712,
+            "is_self": false,
+            "last_name": "Biehl",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1153363712,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 11108
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5815160872951105526",
+        "_score": 3.1471,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-20 11:59:24.414736",
+          "channelabout": "An die deutsche Volksseele erinnern und zurück verhelfen 🇾🇪 💚",
+          "channeltitle": "Fabijenna - eine deutsche Liebe 🇾🇪 💚🦅",
+          "channelusername": "valkuerer",
+          "date": 1647753512,
+          "editdate": 1647753515,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 53,
+              "offset": 1729,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 293,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Die Lügenpresse hat keine Chance mehr!!!\nAm vergangenen Donnerstag war eine Ukrainerin namens Victoria, die seit 25 Jahren in Frankreich lebt, zu Gast in der Sendung Brunet & Cie des französischen Nachrichtensenders LCI, um die Zuschauer über die Lage in der Ukraine zu informieren. Die Moderatoren hatten wohl erwartet, dass die Frau eine Tirade gegen Putin loslassen würde, aber es kam ganz anders.\n\nDie Frau sagte, dass zwei Millionen Menschen in der Ukraine unter miserablen Bedingungen leben. Sie sagte, dass die Energierechnungen stark gestiegen sind und viele Menschen die Hälfte ihres Gehalts für die Heizung ausgeben.\n\n„Warum sollten wir diesen Präsidenten und seine Marionettenregierung verteidigen?“, fragte Victoria. „Die Wirtschaft bricht zusammen, die Korruption ist weit verbreitet.“ Der Moderator Eric Brunet fragte verblüfft: „Sprechen Sie von Zelensky?“\n\n„Natürlich, wer sonst?“, sagte sie. „Er ist absolut kein demokratischer Führer. Er hat vier Fernsehsender geschlossen. Journalisten sind verschwunden. Man sagt, dass russische Journalisten regelmäßig ermordet werden. Auch ukrainische Journalisten werden ermordet. In den letzten Jahren sind viele Journalisten getötet worden.\n\nBrunet fragte Victoria, ob es stimme, dass einige Einwohner Kiews froh darüber seien, dass die Russen in das Land einmarschiert seien. „Auf jeden Fall“, antwortete sie und fügte hinzu, dass viele Ukrainer bezweifeln, dass die Wahlen fair waren.\n\nBrunet wies darauf hin, dass es demokratische Methoden gibt, um die Regierung zu wechseln, wenn man mit dem Lauf der Dinge unzufrieden ist. Daraufhin sagte einer der Gäste: „Vergessen Sie nicht, dass es im Februar 2014 einen Putsch gegen den demokratisch gewählten Präsidenten gab.“\nhttps://uncutnews.ch/live-im-franzosischen-tv-erzahlt..\nhttps://t.me/Valkuera_Fabijenna",
+          "peerid": {
+            "channel_id": 1353947649,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Fabijenna - eine Deutsche Liebe",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1766381223,
+            "comments": true,
+            "max_id": 46012,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 198748859
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1213398692
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 735256962
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 59795
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 8919
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202203",
+        "_id": "5846913321357871499",
+        "_score": 2.1424,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-03-20 13:37:00.755421",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1647757834,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 339,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://en.kremlin.ru/events/president/transcripts/22939"
+            },
+            {
+              "length": 5,
+              "offset": 591,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.interpretermag.com/putin-targets-all-russian-nationalists-he-doesnt-control-dyomushkin-says/"
+            },
+            {
+              "length": 5,
+              "offset": 894,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.splcenter.org/hatewatch/2020/10/06/us-white-nationalist-group-linked-pro-kremlin-propagandist"
+            },
+            {
+              "length": 5,
+              "offset": 1365,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://republic.ru/posts/l/1099696"
+            },
+            {
+              "length": 5,
+              "offset": 1869,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.haaretz.com/opinion/.premium-pro-putin-trolls-court-u-s-alt-right-with-hardcore-anti-semitism-1.5770080"
+            },
+            {
+              "length": 5,
+              "offset": 2610,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://dailystormer.su/ukraine-anal-occupation-jew-government-threatens-to-bring-charges-against-cute-pro-russian-journalist/"
+            },
+            {
+              "length": 5,
+              "offset": 2943,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://dailystormer.su/feds-indict-satanic-death-cult-posting-as-white-nationalist-group-atomwaffen-for-domestic-terrorism/"
+            },
+            {
+              "length": 20,
+              "offset": 3180,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/JohnnyGatArchive/69"
+            }
+          ],
+          "forwards": 202,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1363193814
+          },
+          "fwdfrom": {
+            "channel_post": 115,
+            "date": 1617915442,
+            "from_id": {
+              "channel_id": 1253159228,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "According to Vladimir Putin: \"Russia considers any manifestation of nationalism and xenophobia to be destructive because we are a multiethnic country. We must and we will fight these manifestations, but we must do so using methods that do not simply make it look as if we are doing something, but which really do achieve genuine results.\" [1]\n\n Many russians have been arrested for promoting ethnonationalism, for example Yury Gorsky, Alexander Belov, Dmitry Dyomushkin, and Vyacheslav Malstev.\n\nDyomushkin went as far as saying: \"Putin targets all russian nationalists he does not control\" [2]\n\nDespite this, many known \"white nationalists\" from the US are supporters of Russia. Mike Enoch, Andrew Anglin and Eric Striker come to mind.\n\nAll of these are associated with the website \"Russia Insider,\" owned by Charles Bausman, an american ex patriate who has lived in Russia for over 30 years. [3]\n\nShaltai Boltai, a hacking group known for leaking FSB documents published emails showing Bausman requesting funding from Konstantin Mafoleev through one of his middle men. Mafoleev is sanctioned by the state of Ukraine for for his relations to russian separatists. He was the former employer of Alexander Borodai, former president of the Donetsk republic, and Igor Girkin, a former FSB colonel who provided security services to Malofeev's visits to Kyiv and Crimea. [4]\n\nAnton Shekhovtsov, a left wing activist wrote that the website \"was originally launched to attack Ukraine after its former pro-Russian president Viktor Yanukovych was ousted and fled to Russia, by accusing the new Ukrainian authorities of fascism and anti-Semitism. Therefore the website at that time did not profess anti-Semitism, quite the opposite: it portrayed the Jews as allegedly potential victims of the new Ukrainian government, which Russia Insider opposed, following the Kremlin’s line.\" [5]\n\nIt is worth noting to this day, figures such as Anglin and Striker, villified \"neo nazis\" have always retained a pro russian stance in the Crimean war, Anglin himself constantly promotes russian separatism, claiming Ukraine does not deserve to exist, and has demonized Ukrainian fighters.\n\nAccording to Anglin:\n\"Remember: the Ukraine has only been an independent state since the 1990s. Before that, it was part of the USSR, and before that, it was (mostly) part of the Russian Empire for hundreds of years. The people of the country speak a dialect of Russian.\n\nAnd obviously, the Ukraine was doing better economically, and arguably socially, when it was part of the USSR, and then when it was aligned with Russia in the post-USSR era.\"[6]\n\n\"The purpose of Azov is to murder Russians in the Ukraine. For the record, Russian media claims that Azov is also a satanic cult and engaged in death and torture rituals in the Ukraine. I don’t know if that is true or not, but I do know that is true of Atomwaffen, so I would certainly not be surprised if it was true of Azov.\" [7]\n\n These authors are not only pro Russia, but also support China and other post soviet states. Anglin was also still supporting Donald Trump even after the 2020 election. For more detailed analysis, you can follow Thuletide and watch the following series.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 678405
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.81829340011965e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dan",
+            "id": 1363193814,
+            "is_self": false,
+            "last_name": "Walker 🇦🇺",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 104290,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500089300925
+              },
+              "photo_id": 6.10740610767793e+18,
+              "photo_small": {
+                "local_id": 104288,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500089300925
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "logos_walker",
+            "verified": false,
+            "_id": 1363193814,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 17490
+        }
+      }
+    ]
+  }
+}

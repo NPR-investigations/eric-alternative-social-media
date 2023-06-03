@@ -1,0 +1,1677 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [24],
+      "relation": ["eq"]
+    },
+    "max_score": [11.1848],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5993668827693462135",
+        "_score": 11.1848,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631912739,
+          "post": true,
+          "views": 4557,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🔴 ERIC TRUMP \n🔻\nhttp://www.DoYouMissMeYet.com\n\nhttps://t.me/joinchat/AAAAAFMtygtUv2AgKZ6W3Q",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1395509771
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 29,
+              "offset": 18
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 49
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631912881,
+          "edithide": false,
+          "groupedid": 1.30553019154355e+16,
+          "postauthor": "Daniela Cecamore",
+          "archivedon": "2021-09-17 22:08:33.701604",
+          "channelabout": "🔴 Canale di sola lettura.\n\n👉Curiosita' informazioni, spunti e riflessioni. \n\nNON SEI QUI PER CREDERE...\nMA PER GUARDARE OLTRE LA MATRIX....\n\n\nLink di invito:\n\nhttps://t.me/joinchat/AAAAAFMtygtUv2AgKZ6W3Q",
+          "channeltitle": "THE STORM-Q17🇮🇹",
+          "channelusername": "TheStormQ17",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5595791965154195817",
+        "_score": 11.0167,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631905207,
+          "post": true,
+          "views": 1984,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Joe Oltmann - Carefully discuses Zoom call w/ Eric Coomer.\n@MGShow #MGShowChannel",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1302871845
+          },
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2388187
+          },
+          "entities": [
+            {
+              "length": 7,
+              "offset": 59,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 14,
+              "offset": 67,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "channel_post": 8,
+            "date": 1631904425,
+            "from_id": {
+              "channel_id": 1505353501,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631905142,
+          "edithide": true,
+          "postauthor": "Inthe Matrixxx",
+          "archivedon": "2022-03-05 19:48:40.722072",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5990455835673776294",
+        "_score": 11.0167,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631909381,
+          "post": false,
+          "views": 994,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1583780423
+          },
+          "message": "Joe Oltmann - Carefully discuses Zoom call w/ Eric Coomer.\n@MGShow #MGShowChannel",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1394761688
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 25151
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 7,
+              "offset": 59
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 14,
+              "offset": 67
+            }
+          ],
+          "forwards": 5,
+          "fwdfrom": {
+            "channel_post": 8,
+            "date": 1631904425,
+            "from_id": {
+              "channel_id": 1505353501,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 20:26:47.996843",
+          "channeltitle": "Free Minnesota",
+          "channelusername": "FreeMinnesota",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5152127744762449982",
+        "_score": 10.544,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631895848,
+          "post": true,
+          "views": 52,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🔥 Rock Legend Eric Clapton Stands Up To #VaccineMandates!\n\nhttps://freeworldnews.tv/watch?id=6143cd83d489be05d939a699",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1199573219
+          },
+          "replies": {
+            "channel_id": 1292638676,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15354
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 16,
+              "offset": 41
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 58,
+              "offset": 60
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631895833,
+          "edithide": true,
+          "archivedon": "2021-09-17 16:30:10.15589",
+          "channelabout": "🇺🇸🎙 Infowars reporter. Host of #WarRoom LIVE M-F 3pm-6pm central at: https://www.infowars.com/war-room/ & https://banned.video/channel/war-room-with-owen-shroyer",
+          "channeltitle": "Owen Shroyer",
+          "channelusername": "Owen_Shroyer",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5917122305636535638",
+        "_score": 10.3962,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631869882,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1617780098
+          },
+          "message": "Lmao\nLet's play a game, kids: Find the exit before Dylan and Eric find you",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1377687395
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 101717
+          },
+          "edithide": false,
+          "archivedon": "2021-09-17 09:50:27.560996",
+          "channelabout": "Memes for voluntarists and other liberty loving people.\n\nchannel:  t.me/volmemes",
+          "channeltitle": "Sonic the Hedgehog appreciators",
+          "channelusername": "volfrag",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6347407316354093786",
+        "_score": 10.2134,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631915058,
+          "post": true,
+          "views": 114,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NYC mayoral hopeful Eric Adams blasts De Blasio's crime-ridden city as he vows to tamp down on\n\nRead: https://www.dailymail.co.uk/news/article-10002753/NYC-mayoral-hopeful-Eric-Adams-blasts-Blasios-crime-ridden-city-vows-tamp-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1477870931
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 173,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 277,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-03 06:01:05.977925",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5445585585739674002",
+        "_score": 9.3121,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631858228,
+          "post": true,
+          "views": 276,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "ကလေးသူငယ်ညစ်ညမ်းပုံတွေကို ကမ္ဘာ့အကြီးဆုံးပံ့ပိုးပေးသူ အိုင်ယာလန်သား ထောင်ဒဏ် ၂၇ နှစ် ချမှတ်ခံရ\n_____________________________\n\nအိုင်းရစ်လူမျိုးတစ်ဦးဖြစ်တဲ့ အသက် ၃၆ နှစ်အရွယ် Eric Eoin Marques ဆိုသူဟာ ကလေးသူငယ်ညစ်ညမ်းပုံတွေကို အွန်လိုင်းကတဆင့် ဖြန့်ချိခဲ့ပြီးနောက် FBI ရဲ့ ဖမ်းဆီးခြင်းကို ခံခဲ့ရပြီး အမေရိကန်တရားရုံးက ထောင်ဒဏ် ၂၇ နှစ် ချမှတ်လိုက်ပြီဖြစ်ပါတယ်။ သူဟာ ကမ္ဘာပေါ်မှာ ကလေးသူငယ်လိင်ပိုင်းဆိုင်ရာစော်ကားမှုကို အကြီးမားဆုံးပံ့ပိုးကူညီသူတစ်ဦးအဖြစ် နာမည်ကြီးခဲ့သူဖြစ်ပါတယ်။ \n\nဒဗ္ဗလင်မှာနေထိုင်တဲ့ Eric ဟာ နာမည်မဖော်ပြထားတဲ့ web-hosting ဝန်ဆောင်မှုကိုလုပ်ကိုင်ခဲ့ပြီး ကလေးသူငယ်ညစ်ညမ်းပုံ သန်းနဲ့ချီကာ ဖြန့်ချိခဲ့သူဖြစ်ပါတယ်။ အရမ်းကြမ်းတမ်းပြီး ဆိုးဝါးတဲ့ ရုပ်ပုံတွေများစွာပါဝင်ခဲ့တယ်လို့ သိရပြီး ၂၀၁၉ မတ်လမှာ အိုင်ယာလန်အာဏာပိုင်တွေက သူ့ကို အမေရိကန်ဆီ လွှဲပြောင်းပေးအပ်ခဲ့တာဖြစ်ပါတယ်။ \n\nအမေရိကန်နိုင်ငံသားအဖြစ်ပါ ခံယူထားတဲ့ Eric က ပြီးခဲ့တဲ့နှစ် ဖေဖော်ဝါရီလမှာ ကလေးသူငယ်ပုံတွေကို အလွဲသုံးစားမှုပြုလုပ်ကာ ကျူးလွန်ခဲ့ကြောင်း ဝန်ခံခဲ့ပါတယ်။ FBI နဲ့ အိုင်းရစ်ရဲတပ်ဖွဲ့ပူးပေါင်းကာ တစ်နှစ်ကျော်ကြာစုံစမ်းမှုတွေ ပြုလုပ်အပြီး ၂၀၁၃ သြဂုတ်လအတွင်းမှာ ဒဗ္ဗလင်မှာရှိတဲ့ Mountjoy Square က သူ့နေအိမ်တိုက်ခန်းမှာ အဖမ်းခံခဲ့ရပါတယ်။ \n\nသူ့ရဲ့ Web-hosting ဝန်ဆောင်မှုမှာ ကလေးသူငယ်တွေရဲ့ ညစ်ညမ်းပုံပေါင်း ၈.၅ သန်းကျော်အထိ ပါဝင်ခဲ့ပြီး စီရင်ချက်ချမှတ်ခဲ့တဲ့ တရားသူကြီး Theodore Chuang က ဒီလုပ်ရပ်ကို စက်ဆုပ်ရွံရှာဖွယ်ကောင်းတယ်လို့ ဖော်ပြခဲ့ကာ မူးယစ်ဆေးဝါးကိစ္စမှာဆိုရင်တော့ မူးယစ်ဆေးဘုရင်လိုဖြစ်တယ်လို့ ခိုင်းနှိုင်းပြောဆိုခဲ့ပါတယ်။ \n\nထောင်ထဲမှာ နှစ်ကာလရှည်နေထိုင်ရတော့မယ့် ပြစ်ဒဏ်ဟာ ကမ္ဘာကြီးအတွက် ကောင်းမွန်တဲ့အရာတစ်ခုဖြစ်တယ်လို့လည်း တရားသူကြီးက ထပ်မံပြောဆိုခဲ့ပါတယ်။ ဒီလိုပြုမူခံရတဲ့ ကလေးသူငယ်တွေကို စိတ်ပိုင်းဆိုင်ရာနဲ့ ရုပ်ပိုင်းဆိုင်ရာအားပေးမှုတွေ ပြုလုပ်ပေးခဲ့ရပြီး ကမ္ဘာပေါ်မှာ ကလးသူငယ်လိင်ပိုင်းဆိုင်ရာအလွဲသုံးစားပြုလုပ်မှုတွေဟာ နေ့စဉ်နဲ့အမျှ မြင့်တက်နေတယ်လို့လည်း သိရပါတယ်။ \n\nထောင်ဒဏ် ၂၇ နှစ် ချမှတ်ခံခဲ့ရတဲ့ Eric ကို ပြစ်ဒဏ်ရက်စေ့ပါက အိုင်ယာလန်ဆီ ပြန်လည်လွှဲပြောင်းပေးမှာဖြစ်ကာ အိုင်ယာလန်တရားစီရင်ရေးအရ နောက်ထပ်ပြစ်ဒဏ်ချမှတ်ခံရဦးမယ်လို့လည်း သိရပါတယ်။\n\nThe River News\nhttps://t.me/mknewschannel",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1267899197
+          },
+          "replies": {
+            "channel_id": 1257521124,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 20449
+          },
+          "entities": [
+            {
+              "length": 29,
+              "offset": 95,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 26,
+              "offset": 1957,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631858144,
+          "edithide": true,
+          "archivedon": "1679005225",
+          "channelabout": "NEWS",
+          "channeltitle": "MK`s Channel🇲🇲",
+          "channelusername": "mknewschannel",
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "NEWS",
+              "display_url": "t.me/mknewschannel",
+              "hash": 0,
+              "id": 9.1707931203424e+18,
+              "photo": {
+                "access_hash": 1.10232482389089e+18,
+                "date": 1627439069,
+                "dc_id": 5,
+                "file_reference": "AGQTlfyKrttipKCW5I2oCRwUy6ra",
+                "has_stickers": false,
+                "id": 6.05514955841508e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 10888,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 28765,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 82618,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo2az766Dq0MR+Y8FvSp72Uxw7U+852isxFVZNsy4B45qWzWEE4uTAxQKQXlkbdzknH/66fBcT25bBLwhsLv61bCRAKoRdq9Mjp9Kzbi5LzHH3B0H9aFd7ExcVJcxuQTLPGHX8R6UVnabIROVzwwoprUKkeSVibUwcRMOxNZt1O0oUMuCP4vWt2eJZoijd+h9KxLu3kh++vHr2NNfEVdOnbqhpu3Ktgn5gB9Kj+zSfZzcHG33NRKatxgNbPmTAU5Ck96qc+UxhDmLWkxHdvPRVx+NFX7QKLWMoMAqDRUo0nK7JqrX5/wBFdNjvuGPlGcUUUEGGtrcdTC+DU0NtNIWVUK8YJYYoopPXcaly7G1bRmK3jRsZUYOKKKKYmQ=="
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "MK`s Channel🇲🇲",
+              "type": "telegram_channel",
+              "url": "https://t.me/mknewschannel"
+            }
+          },
+          "id": 12690,
+          "noforwards": false,
+          "lastseents": "2023-03-16T22:20:25.745459"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5766449673162217164",
+        "_score": 8.7219,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631901677,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1689645360
+          },
+          "message": "Yeah I’m grateful for anyone with a following speaking up, I’m just shocked more aren’t. Busta Rhymes did too, James Woods, Morrison, Eric Clapton, Rob Schneider… not enough tho.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1342606189
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 22099,
+            "reply_to_top_id": 22093
+          },
+          "edithide": false,
+          "archivedon": "2021-09-17 18:32:22.16722",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5445585585739674003",
+        "_score": 8.3105,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631858260,
+          "post": true,
+          "views": 272,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "ကေလးသူငယ္ညစ္ညမ္းပုံေတြကို ကမ႓ာ့အႀကီးဆုံးပံ့ပိုးေပးသူ အိုင္ယာလန္သား ေထာင္ဒဏ္ ၂၇ ႏွစ္ ခ်မွတ္ခံရ\n_____________________________\n\nအိုင္းရစ္လူမ်ိဳးတစ္ဦးျဖစ္တဲ့ အသက္ ၃၆ ႏွစ္အ႐ြယ္ Eric Eoin Marques ဆိုသူဟာ ကေလးသူငယ္ညစ္ညမ္းပုံေတြကို အြန္လိုင္းကတဆင့္ ျဖန္႔ခ်ိခဲ့ၿပီးေနာက္ FBI ရဲ႕ ဖမ္းဆီးျခင္းကို ခံခဲ့ရၿပီး အေမရိကန္တရား႐ုံးက ေထာင္ဒဏ္ ၂၇ ႏွစ္ ခ်မွတ္လိုက္ၿပီျဖစ္ပါတယ္။ သူဟာ ကမ႓ာေပၚမွာ ကေလးသူငယ္လိင္ပိုင္းဆိုင္ရာေစာ္ကားမႈကို အႀကီးမားဆုံးပံ့ပိုးကူညီသူတစ္ဦးအျဖစ္ နာမည္ႀကီးခဲ့သူျဖစ္ပါတယ္။ \n\nဒဗၺလင္မွာေနထိုင္တဲ့ Eric ဟာ နာမည္မေဖာ္ျပထားတဲ့ web-hosting ဝန္ေဆာင္မႈကိုလုပ္ကိုင္ခဲ့ၿပီး ကေလးသူငယ္ညစ္ညမ္းပုံ သန္းနဲ႔ခ်ီကာ ျဖန္႔ခ်ိခဲ့သူျဖစ္ပါတယ္။ အရမ္းၾကမ္းတမ္းၿပီး ဆိုးဝါးတဲ့ ႐ုပ္ပုံေတြမ်ားစြာပါဝင္ခဲ့တယ္လို႔ သိရၿပီး ၂၀၁၉ မတ္လမွာ အိုင္ယာလန္အာဏာပိုင္ေတြက သူ႕ကို အေမရိကန္ဆီ လႊဲေျပာင္းေပးအပ္ခဲ့တာျဖစ္ပါတယ္။ \n\nအေမရိကန္ႏိုင္ငံသားအျဖစ္ပါ ခံယူထားတဲ့ Eric က ၿပီးခဲ့တဲ့ႏွစ္ ေဖေဖာ္ဝါရီလမွာ ကေလးသူငယ္ပုံေတြကို အလြဲသုံးစားမႈျပဳလုပ္ကာ က်ဴးလြန္ခဲ့ေၾကာင္း ဝန္ခံခဲ့ပါတယ္။ FBI နဲ႔ အိုင္းရစ္ရဲတပ္ဖြဲ႕ပူးေပါင္းကာ တစ္ႏွစ္ေက်ာ္ၾကာစုံစမ္းမႈေတြ ျပဳလုပ္အၿပီး ၂၀၁၃ ၾသဂုတ္လအတြင္းမွာ ဒဗၺလင္မွာ႐ွိတဲ့ Mountjoy Square က သူ႕ေနအိမ္တိုက္ခန္းမွာ အဖမ္းခံခဲ့ရပါတယ္။ \n\nသူ႕ရဲ႕ Web-hosting ဝန္ေဆာင္မႈမွာ ကေလးသူငယ္ေတြရဲ႕ ညစ္ညမ္းပုံေပါင္း ၈.၅ သန္းေက်ာ္အထိ ပါဝင္ခဲ့ၿပီး စီရင္ခ်က္ခ်မွတ္ခဲ့တဲ့ တရားသူႀကီး Theodore Chuang က ဒီလုပ္ရပ္ကို စက္ဆုပ္႐ြံ႐ွာဖြယ္ေကာင္းတယ္လို႔ ေဖာ္ျပခဲ့ကာ မူးယစ္ေဆးဝါးကိစၥမွာဆိုရင္ေတာ့ မူးယစ္ေဆးဘုရင္လိုျဖစ္တယ္လို႔ ခိုင္းႏိႈင္းေျပာဆိုခဲ့ပါတယ္။ \n\nေထာင္ထဲမွာ ႏွစ္ကာလ႐ွည္ေနထိုင္ရေတာ့မယ့္ ျပစ္ဒဏ္ဟာ ကမ႓ာႀကီးအတြက္ ေကာင္းမြန္တဲ့အရာတစ္ခုျဖစ္တယ္လို႔လည္း တရားသူႀကီးက ထပ္မံေျပာဆိုခဲ့ပါတယ္။ ဒီလိုျပဳမူခံရတဲ့ ကေလးသူငယ္ေတြကို စိတ္ပိုင္းဆိုင္ရာနဲ႔ ႐ုပ္ပိုင္းဆိုင္ရာအားေပးမႈေတြ ျပဳလုပ္ေပးခဲ့ရၿပီး ကမ႓ာေပၚမွာ ကလးသူငယ္လိင္ပိုင္းဆိုင္ရာအလြဲသုံးစားျပဳလုပ္မႈေတြဟာ ေန႔စဥ္နဲ႔အမွ် ျမင့္တက္ေနတယ္လို႔လည္း သိရပါတယ္။ \n\nေထာင္ဒဏ္ ၂၇ ႏွစ္ ခ်မွတ္ခံခဲ့ရတဲ့ Eric ကို ျပစ္ဒဏ္ရက္ေစ့ပါက အိုင္ယာလန္ဆီ ျပန္လည္လႊဲေျပာင္းေပးမွာျဖစ္ကာ အိုင္ယာလန္တရားစီရင္ေရးအရ ေနာက္ထပ္ျပစ္ဒဏ္ခ်မွတ္ခံရဦးမယ္လို႔လည္း သိရပါတယ္။\n\nThe River News\nhttps://t.me/mknewschannel",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1267899197
+          },
+          "replies": {
+            "channel_id": 1257521124,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 20449
+          },
+          "entities": [
+            {
+              "length": 29,
+              "offset": 94,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 26,
+              "offset": 1938,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631858251,
+          "edithide": true,
+          "archivedon": "1679005225",
+          "channelabout": "NEWS",
+          "channeltitle": "MK`s Channel🇲🇲",
+          "channelusername": "mknewschannel",
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "NEWS",
+              "display_url": "t.me/mknewschannel",
+              "hash": 0,
+              "id": 9.1707931203424e+18,
+              "photo": {
+                "access_hash": 1.10232482389089e+18,
+                "date": 1627439069,
+                "dc_id": 5,
+                "file_reference": "AGQTlfyKrttipKCW5I2oCRwUy6ra",
+                "has_stickers": false,
+                "id": 6.05514955841508e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 10888,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 28765,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 82618,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo2az766Dq0MR+Y8FvSp72Uxw7U+852isxFVZNsy4B45qWzWEE4uTAxQKQXlkbdzknH/66fBcT25bBLwhsLv61bCRAKoRdq9Mjp9Kzbi5LzHH3B0H9aFd7ExcVJcxuQTLPGHX8R6UVnabIROVzwwoprUKkeSVibUwcRMOxNZt1O0oUMuCP4vWt2eJZoijd+h9KxLu3kh++vHr2NNfEVdOnbqhpu3Ktgn5gB9Kj+zSfZzcHG33NRKatxgNbPmTAU5Ck96qc+UxhDmLWkxHdvPRVx+NFX7QKLWMoMAqDRUo0nK7JqrX5/wBFdNjvuGPlGcUUUEGGtrcdTC+DU0NtNIWVUK8YJYYoopPXcaly7G1bRmK3jRsZUYOKKKKYmQ=="
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "MK`s Channel🇲🇲",
+              "type": "telegram_channel",
+              "url": "https://t.me/mknewschannel"
+            }
+          },
+          "id": 12691,
+          "noforwards": false,
+          "lastseents": "2023-03-16T22:20:25.743319"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6347407316354093758",
+        "_score": 7.6256,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631900368,
+          "post": true,
+          "views": 151,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NYPD probe armed gang targeting top-end Manhattan venues after a string of violent jewelry robberies\n\nRead: https://www.dailymail.co.uk/news/article-10001569/NYPD-investigates-Eric-Adams-dines-hotspot-Philippe-Chow-night-gunmen-robbed-diners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1477870931
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 180,
+              "offset": 108,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 290,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 301,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 301,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-03 06:01:05.933877",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5811551549939509873",
+        "_score": 6.9732,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631899299,
+          "post": true,
+          "views": 7,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "General Flynn: \"Die eine Institution, in der wir die Hoffnung und den Glauben nicht verlieren dürfen... denn alle anderen Institutionen der Regierung, Eric, haben das Vertrauen des amerikanischen Volkes verloren... Die eine Institution, die noch bleibt, ist unser Militär in Uniform.\" \n\nVerstanden, Sir. Wir haben immer noch Vertrauen in unser Militär 🇺🇸",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353107288
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 356,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 11354,
+            "date": 1631764865,
+            "from_id": {
+              "channel_id": 1220715723,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 18:17:37.842821",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6215429366554317379",
+        "_score": 6.1603,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631918437,
+          "post": true,
+          "views": 3,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "RED2 Comms\n\nScavino RTed pic from Qp 3826\nIn God We Trust.jpg\n\nTwitter link in the Q post 3826 leads you to Scavino Tweeting out same picture on Feb 5, 2020\n\nEric Trump Tweeted a new website on Sep 16, 2021, which Scavino RTed\nhttps://doyoumissmeyet.com/👇\n\nIn the picture, PDJT's Hands are covering the 2nd Red Stripe\nQp 4414\nRED2: Central communications blackout [continental US]\n\nQp 232\n_Conf_goTWIT_P_act-small#_\nRED1_RED2_",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1447142420
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 29,
+              "offset": 227
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 45352,
+            "date": 1631911116,
+            "from_id": {
+              "channel_id": 1430826036,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "MaQaveli",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 23:45:12.142523",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "channelusername": "Nelsonpeopleawake",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "4983987381511159973",
+        "_score": 6.1603,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631922295,
+          "post": true,
+          "views": 4,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "RED2 Comms\n\nScavino RTed pic from Qp 3826\nIn God We Trust.jpg\n\nTwitter link in the Q post 3826 leads you to Scavino Tweeting out same picture on Feb 5, 2020\n\nEric Trump Tweeted a new website on Sep 16, 2021, which Scavino RTed\nhttps://doyoumissmeyet.com/👇\n\nIn the picture, PDJT's Hands are covering the 2nd Red Stripe\nQp 4414\nRED2: Central communications blackout [continental US]\n\nQp 232\n_Conf_goTWIT_P_act-small#_\nRED1_RED2_",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1160424990
+          },
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 59197
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 29,
+              "offset": 227
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 45352,
+            "date": 1631911116,
+            "from_id": {
+              "channel_id": 1430826036,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "MaQaveli",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631922230,
+          "edithide": true,
+          "postauthor": "Pete",
+          "archivedon": "2021-09-17 23:55:58.938573",
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch",
+          "channeltitle": "QAge2020/21",
+          "channelusername": "Qage2020",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5908323313511354867",
+        "_score": 6.1603,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631912162,
+          "post": true,
+          "views": 179,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "RED2 Comms\n\nScavino RTed pic from Qp 3826\nIn God We Trust.jpg\n\nTwitter link in the Q post 3826 leads you to Scavino Tweeting out same picture on Feb 5, 2020\n\nEric Trump Tweeted a new website on Sep 16, 2021, which Scavino RTed\nhttps://doyoumissmeyet.com/👇\n\nIn the picture, PDJT's Hands are covering the 2nd Red Stripe\nQp 4414\nRED2: Central communications blackout [continental US]\n\nQp 232\n_Conf_goTWIT_P_act-small#_\nRED1_RED2_",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1375638720
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 29,
+              "offset": 227
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 45352,
+            "date": 1631911116,
+            "from_id": {
+              "channel_id": 1430826036,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "MaQaveli",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "postauthor": "MCB",
+          "archivedon": "2021-09-17 21:13:06.023145",
+          "channelabout": "DIGITAL SOLDIERS‼️WWG1WGA‼️",
+          "channeltitle": "B17News",
+          "channelusername": "lichtanonsmensch",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6139677447806791963",
+        "_score": 5.6824,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631882991,
+          "post": true,
+          "views": 1013,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Back to Quebec, Canada’s Premier, Francois Legault, for a moment (the epicenter of Canada’s Inoculation push and Jab passports)…once again spreading fear, segregation and hatred.  Here is a message from Eric Duhaime about his behaviour.  My question to Mr. Legault is if you have your jab, why would you be concerned about being near a nurse who didn’t?  Does your JAB not work Mr. Legault? If that is the case then what exactly are you doing with your demands for jab passports?",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1429505052
+          },
+          "replies": {
+            "channel_id": 1284730631,
+            "comments": true,
+            "max_id": 532771,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1375105508
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1527481522
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1430096276
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 600463
+          },
+          "entities": [],
+          "forwards": 3,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631882965,
+          "edithide": true,
+          "archivedon": "2021-09-17 12:54:47.92733",
+          "channelabout": "Warrior for the preservation of human DNA",
+          "channeltitle": "Dr. Tenpenny",
+          "channelusername": "DrTenpenny",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6276503578165215412",
+        "_score": 5.5422,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631848027,
+          "post": false,
+          "views": 454,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1585311678
+          },
+          "message": "DECODE UPDATE: I was just getting into bed and it hit me. There are 8 days until the 24th. 8 stars - 8 seconds (see red highlighted seconds on clock) - 8 days.  What initially caught my eye was how much DJT's pose resembles that of MM (we don't say his name either, kek) in that pic.  This pic was shared today by Eric Trump. There are also 2 unobstructed red stripes behind POTUS.  RED 2?\n\nNot date fagging.  Just putting together the pieces.  😊\n\n@leagueofextraordinarypepes",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1461362368
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 143156
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 27,
+              "offset": 449
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "channel_post": 5556,
+            "date": 1631847364,
+            "from_id": {
+              "channel_id": 1428002172,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 03:17:41.079571",
+          "channelabout": "https://linktr.ee/PatriotMap\n\nPatriot intelligence group.",
+          "channeltitle": "🇺🇸 Freedom Force News 🇺🇸",
+          "channelusername": "FreedomForceNews",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5540491821676802650",
+        "_score": 4.8159,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631894585,
+          "post": true,
+          "views": 376,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Vermittler von Kinderpornografie im Dark Web wegen Verschwörung zur Werbung für Kinderpornografie zu 27 Jahren Haft verurteilt (1)\n\nEin Staatsbürger mit doppelter Staatsangehörigkeit der Vereinigten Staaten und Irlands wurde gestern wegen Verschwörung zur Werbung für Kinderpornografie zu 324 Monaten bzw. 27 Jahren Haft in einem Bundesgefängnis verurteilt, gefolgt von einer lebenslangen Entlassung unter Aufsicht.\n\nEric Eoin Marques, 36, aus Dublin, Irland, bekannte sich am 6. Februar 2020 der Verschwörung zur Werbung für Kinderpornographie für schuldig. Laut Gerichtsdokumenten betrieb Marques zwischen dem 24. Juli 2008 und dem 29. Juli 2013 einen kostenlosen anonymen Hosting-Dienst im Dark Web, einem Bereich des Internets, der nur mit Hilfe spezieller Software zugänglich ist und es Nutzern und Website-Betreibern ermöglicht, anonym oder unauffindbar zu bleiben. Der Hosting-Dienst beherbergte Websites, die es den Nutzern ermöglichten, Bilder anzusehen und weiterzugeben, die den sexuellen Missbrauch von Kindern dokumentierten, einschließlich des Missbrauchs von vorpubertären Minderjährigen und des gewalttätigen sexuellen Missbrauchs. Die Untersuchung ergab, dass der Hosting-Dienst mehr als 200 Websites zum Thema Kindesmissbrauch enthielt, auf denen sich Millionen von Bildern mit Material zum Thema Kindesmissbrauch befanden. Über 1,97 Millionen dieser Bilder und/oder Videos waren den Strafverfolgungsbehörden bisher nicht bekannt. Viele dieser Bilder zeigten den sadistischen Missbrauch von Säuglingen und Kleinkindern.\n\n\"Der Webdienst des Angeklagten beherbergte anonym Hunderte von heimtückischen kriminellen Gemeinschaften, die sich der sexuellen Ausbeutung von Kindern widmeten und offen und notorisch Millionen von Bildern des sexuellen Missbrauchs von Kindern über den ganzen Globus verbreiteten\", sagte der stellvertretende Generalstaatsanwalt Kenneth A. Polite Jr. von der Strafabteilung des Justizministeriums. \"Diese komplexen, weltweiten Ermittlungen, die langwierige und erfolgreiche Auslieferung und die hohe Haftstrafe sind ein Beweis für das unerschütterliche und bestrebte Engagement des Ministeriums, Kriminelle zu identifizieren und vor Gericht zu stellen, die sich hinter anonymen Netzwerken verstecken, um die Kinder der Welt zu missbrauchen und auszubeuten.\"\n\n\"Eric Marques war einer der größten Vermittler von Kinderpornographie in der Welt\", sagte der amtierende US-Staatsanwalt Jonathan F. Lenzner für den District of Maryland. \"Dies ist ein ungeheuerlicher Fall, in dem eine Einzelperson Millionen von schrecklichen Bildern und Videos des Kindesmissbrauchs, darunter mehr als eine Million, die den Strafverfolgungsbehörden bisher nicht bekannt waren, gehostet und anderen geholfen hat, sie zu teilen, und versucht hat, den Missbrauch im Dark Web zu verbergen. Wir sind unseren Strafverfolgungspartnern im In- und Ausland dankbar, dass sie uns geholfen haben, Eric Marques vor Gericht zu bringen. Wir werden weiterhin alles tun, um diejenigen zu finden und strafrechtlich zu verfolgen, die die Anonymität des Internets nutzen, um das grausame und herzlose Geschäft des sexuellen Missbrauchs von Kindern fortzusetzen.\"\n\n\"Die heutige Verurteilung von Eric Marques sendet eine klare Botschaft an die Täter dieses ungeheuerlichen Verbrechens, dass die Strafverfolgungsbehörden, egal wo auf der Welt sie sich befinden, sie zur Rechenschaft ziehen und vor Gericht stellen werden\", sagte Assistant Director Calvin Shivers von der Kriminalabteilung des FBI. \"Das FBI bekämpft Verbrechen gegen Kinder und setzt sich für schutzbedürftige Kinder auf der ganzen Welt ein.\"\n\nJustice",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1289996277
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 126,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 126,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 7,
+              "offset": 3604,
+              "url": "https://www.justice.gov/opa/pr/dark-web-child-pornography-facilitator-sentenced-27-years-prison-conspiracy-advertise-child-0"
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "channel_post": 30440,
+            "date": 1631885986,
+            "from_id": {
+              "channel_id": 1308327796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 16:46:10.797022",
+          "channelabout": "Aktuelles Weltgeschehen, Liebe, Leben, Gesundheit, Ernährung, Mondkalender",
+          "channeltitle": "LiebeIsstLeben",
+          "channelusername": "liebeisstleben",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5619225096267790056",
+        "_score": 4.8159,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631885986,
+          "post": true,
+          "views": 664,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Vermittler von Kinderpornografie im Dark Web wegen Verschwörung zur Werbung für Kinderpornografie zu 27 Jahren Haft verurteilt (1)\n\nEin Staatsbürger mit doppelter Staatsangehörigkeit der Vereinigten Staaten und Irlands wurde gestern wegen Verschwörung zur Werbung für Kinderpornografie zu 324 Monaten bzw. 27 Jahren Haft in einem Bundesgefängnis verurteilt, gefolgt von einer lebenslangen Entlassung unter Aufsicht.\n\nEric Eoin Marques, 36, aus Dublin, Irland, bekannte sich am 6. Februar 2020 der Verschwörung zur Werbung für Kinderpornographie für schuldig. Laut Gerichtsdokumenten betrieb Marques zwischen dem 24. Juli 2008 und dem 29. Juli 2013 einen kostenlosen anonymen Hosting-Dienst im Dark Web, einem Bereich des Internets, der nur mit Hilfe spezieller Software zugänglich ist und es Nutzern und Website-Betreibern ermöglicht, anonym oder unauffindbar zu bleiben. Der Hosting-Dienst beherbergte Websites, die es den Nutzern ermöglichten, Bilder anzusehen und weiterzugeben, die den sexuellen Missbrauch von Kindern dokumentierten, einschließlich des Missbrauchs von vorpubertären Minderjährigen und des gewalttätigen sexuellen Missbrauchs. Die Untersuchung ergab, dass der Hosting-Dienst mehr als 200 Websites zum Thema Kindesmissbrauch enthielt, auf denen sich Millionen von Bildern mit Material zum Thema Kindesmissbrauch befanden. Über 1,97 Millionen dieser Bilder und/oder Videos waren den Strafverfolgungsbehörden bisher nicht bekannt. Viele dieser Bilder zeigten den sadistischen Missbrauch von Säuglingen und Kleinkindern.\n\n\"Der Webdienst des Angeklagten beherbergte anonym Hunderte von heimtückischen kriminellen Gemeinschaften, die sich der sexuellen Ausbeutung von Kindern widmeten und offen und notorisch Millionen von Bildern des sexuellen Missbrauchs von Kindern über den ganzen Globus verbreiteten\", sagte der stellvertretende Generalstaatsanwalt Kenneth A. Polite Jr. von der Strafabteilung des Justizministeriums. \"Diese komplexen, weltweiten Ermittlungen, die langwierige und erfolgreiche Auslieferung und die hohe Haftstrafe sind ein Beweis für das unerschütterliche und bestrebte Engagement des Ministeriums, Kriminelle zu identifizieren und vor Gericht zu stellen, die sich hinter anonymen Netzwerken verstecken, um die Kinder der Welt zu missbrauchen und auszubeuten.\"\n\n\"Eric Marques war einer der größten Vermittler von Kinderpornographie in der Welt\", sagte der amtierende US-Staatsanwalt Jonathan F. Lenzner für den District of Maryland. \"Dies ist ein ungeheuerlicher Fall, in dem eine Einzelperson Millionen von schrecklichen Bildern und Videos des Kindesmissbrauchs, darunter mehr als eine Million, die den Strafverfolgungsbehörden bisher nicht bekannt waren, gehostet und anderen geholfen hat, sie zu teilen, und versucht hat, den Missbrauch im Dark Web zu verbergen. Wir sind unseren Strafverfolgungspartnern im In- und Ausland dankbar, dass sie uns geholfen haben, Eric Marques vor Gericht zu bringen. Wir werden weiterhin alles tun, um diejenigen zu finden und strafrechtlich zu verfolgen, die die Anonymität des Internets nutzen, um das grausame und herzlose Geschäft des sexuellen Missbrauchs von Kindern fortzusetzen.\"\n\n\"Die heutige Verurteilung von Eric Marques sendet eine klare Botschaft an die Täter dieses ungeheuerlichen Verbrechens, dass die Strafverfolgungsbehörden, egal wo auf der Welt sie sich befinden, sie zur Rechenschaft ziehen und vor Gericht stellen werden\", sagte Assistant Director Calvin Shivers von der Kriminalabteilung des FBI. \"Das FBI bekämpft Verbrechen gegen Kinder und setzt sich für schutzbedürftige Kinder auf der ganzen Welt ein.\"\n\nJustice",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1308327796
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 126,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 126,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 7,
+              "offset": 3604,
+              "url": "https://www.justice.gov/opa/pr/dark-web-child-pornography-facilitator-sentenced-27-years-prison-conspiracy-advertise-child-0"
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 13:48:18.254236",
+          "channelabout": "Freiheit, Freude, Erwachen                                                         www.awakening-code.com",
+          "channeltitle": "Immer Frei",
+          "channelusername": "marioamenti",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6187891440706737776",
+        "_score": 4.2694,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631877749,
+          "post": false,
+          "views": 4548,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1534933023
+          },
+          "message": "🚨Dark Web Child Pornography Facilitator Sentenced To 27 Years In Federal Prison🚨\n\n🔹Eric Eoin Marques, 36, of Dublin, Ireland, was sentenced to 27 years in federal prison, followed lifetime supervised release, for conspiracy to advertise child pornography on the dark web.  \n🔹Between July 2008 & July 2013, Marques advertised child pornography by operating a free, anonymous web hosting service located on the “dark web” which is only accessible by means of special software, allowing users & website operators to remain anonymous or untraceable. \n🔹The hosting service contained over 200 child exploitation websites that housed millions of images of child exploitation material. Over 1.97 million of these images and/or videos involved victims that were not previously known by law enforcement.\nhttps://www.justice.gov/usao-md/pr/dark-web-child-pornography-facilitator-sentenced-27-years-federal-prison-conspiracy",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1440730747
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 102399
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 78,
+              "offset": 2
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 245,
+              "offset": 553
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 118,
+              "offset": 799
+            }
+          ],
+          "forwards": 26,
+          "fwdfrom": {
+            "channel_post": 2247,
+            "date": 1631822908,
+            "from_id": {
+              "channel_id": 1212307538,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1567,
+            "saved_from_peer": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1534933023
+            }
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": -9.07199024186959e+18,
+          "archivedon": "2021-09-17 11:54:14.010165",
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5031147715854195900",
+        "_score": 4.0099,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631899777,
+          "post": false,
+          "views": 2924,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1502113552
+          },
+          "message": "1. Obama appoints CrowdStrike Officer to Admin post two months before the June 2016 Report On Russia Hacking the DNC\n\n2. The FBI NEVER looked at The DNC’s Servers — Only CrowdStrike ever did.\n\n3. Comey Contradicted The DNC’s story on the FBI by asking to see the Server. \n+ Full Transparency: this is what the Deep State calls \"Blocking & Tackling\".\n++ Neither Comey, nor Mueller were ever truly investigating anything at all... \n+++ Comey's brother Peter Comey, handled the Tax Returns for the Clinton Foundation.\n\n*By \"officially investigating\" they blocked any legitimate agency from doing the same or completing any investigation. The Dems/Mueller's SC used this very same tactic with regard to ES&S/Dominion in 2018*\n\n4. CS Co-Founder is a fellow on Russia Hawk Group, has connections to George Soros, Ukrainian Billionaire. CS President, Shawn Henry - former head of FBI cyber division under Mueller.\n\n5. CrowdStrike was funded by Clinton-loving Google $$ - Eric Schmidt\n\nIT'S ALL CONNECTED",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1171405361
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 147637
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 272,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 480,
+              "offset": 516
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 18,
+              "offset": 978
+            }
+          ],
+          "forwards": 65,
+          "fwdfrom": {
+            "channel_post": 233,
+            "date": 1631892633,
+            "from_id": {
+              "channel_id": 1569987903,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Joe M.",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 18:18:16.658393",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5278666174316490586",
+        "_score": 4.0099,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631893359,
+          "post": true,
+          "views": 365,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "2/… Joe M - \n\n1. Obama ernennt CrowdStrike Officer zum Admin-Posten zwei Monate vor dem Juni 2016-Bericht über Russland, das die DNC hackt.\n\n2. Das FBI hat NIE auf die Server des DNC geschaut - nur CrowdStrike hat es jemals getan.\n\n3. Comey widersprach der Geschichte des DNC über das FBI, indem er darum bat, den Server zu sehen. \n+ Volle Transparenz: Das nennt der Deep State \"Blockieren & Anpacken\".\n++ Weder Comey noch Mueller untersuchten jemals wirklich Etwas... \n+ + + Comeys Bruder Peter Comey hat die Steuererklärungen für die Clinton Foundation bearbeitet.\n\n*Durch \"offizielle Ermittlungen\" haben sie jede legitime Agentur daran gehindert, dasselbe zu tun oder Ermittlungen abzuschließen. Der Dems/Mueller ' s SC verwendete dieselbe Taktik in Bezug auf ES&S/Dominion in 2018*\n\n4. CS Mitbegründer ist ein Fellow auf Russland Hawk Group, hat Verbindungen zu George Soros, ukrainischer Milliardär. CS-Präsident, Shawn Henry-ehemaliger Leiter der Cyber-Abteilung des FBI unter Mueller.\n\n5. CrowdStrike wurde von Clinton-liebenden Google $$ - Eric Schmidt finanziert.\n\nES IST ALLES VERBUNDEN",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1229035243
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 5,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-17 16:35:24.15937",
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6126519879920047770",
+        "_score": 3.7885,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631895109,
+          "post": true,
+          "views": 3134,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "1. Obama ernennt CrowdStrike-Offizier auf Verwaltungsposten zwei Monate vor dem Bericht über das Hacken des DNC durch Russland im Juni 2016\n\n2. Das FBI hat sich die Server des DNC NIE angesehen - nur CrowdStrike hat das getan.\n\n3. Comey widersprach der Geschichte des DNC über das FBI, indem er darum bat, den Server zu sehen. \n+ Volle Transparenz: Das nennt der Tiefe Staat \"Blocking & Tackling\".\n++ Weder Comey noch Mueller haben jemals wirklich etwas untersucht... \n+++ Comeys Bruder Peter Comey bearbeitete die Steuererklärungen für die Clinton-Stiftung.\n\n*Indem sie \"offiziell ermittelten\", hinderten sie jede legitime Behörde daran, das Gleiche zu tun oder eine Untersuchung abzuschließen. Die Dems/Muellers SC haben genau dieselbe Taktik in Bezug auf ES&S/Dominion im Jahr 2018 angewandt*\n\n4. Der Mitbegründer der CS ist Mitglied der Russia Hawk Group und hat Verbindungen zu George Soros, einem ukrainischen Milliardär. CS-Präsident Shawn Henry - ehemaliger Leiter der FBI-Cyberabteilung unter Mueller.\n\n5. CrowdStrike wurde von Clinton-liebenden Google $$ finanziert - Eric Schmidt\n\nES HÄNGT ALLES ZUSAMMEN\n\nJoe M\n\n@QWWG1WGA16PLUS1",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1426441567
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 1124,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 1124
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631895121,
+          "edithide": false,
+          "archivedon": "2021-09-17 17:00:13.760451",
+          "channelabout": "Info-Kanal zur Verbreitung globaler News.\nAlles zur aktuellen Lage. Geschichtliche Aufarbeitung, sowie Offenlegungen weltlicher Machtstrukturen. Info Material zur Aufklärung. Disskussionsgruppe @QandMore17 #WWG1WGA",
+          "channeltitle": "1️⃣7️⃣ we are the News 💥",
+          "channelusername": "QWWG1WGA16PLUS1",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5397614048038663602",
+        "_score": 2.5415,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631874241,
+          "post": true,
+          "views": 1261,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Durham Clown-Vertuschung (?)\n\n\"Im Juni letzten Jahres (2011) entschied eine zweijährige Untersuchung unter der Leitung des Sonderstaatsanwalts John Durham, dass von 101 CIA-Verhören in einem Zeitraum, in dem die US-Regierung Folter in Form von \"erweiterten Verhörtechniken\" offiziell sanktioniert hatte, nur diese beiden einer weiteren Untersuchung würdig waren. Durham hatte den Auftrag, nur die Verhöre zu untersuchen, die über die offiziell sanktionierten Richtlinien hinausgingen, wobei Generalstaatsanwalt Eric Holder bekräftigte, dass Vernehmungsbeamte, die in \"gutem Glauben\" auf der Grundlage von Anweisungen des Bush-Justizministeriums gehandelt hatten, nicht strafrechtlich verfolgt werden sollten.\n\nErmittlungen gegen die Architekten des Programms aus der Bush-Ära waren 2009 so gut wie ausgeschlossen, als Präsident Barack Obama gegenüber ABC News erklärte, dass \"wir nach vorne schauen müssen, anstatt zurückzublicken\" - eine Bemerkung, die die institutionelle Unabhängigkeit des Justizministeriums untergrub. Viele im Justizministerium sahen das genauso: Eine interne Untersuchung über das berufliche Verhalten der Anwälte aus der Bush-Ära, die die Folter rechtlich absegneten, John Yoo und Jay Bybee, wurde von einem hochrangigen Justizbeamten kastriert. Bybee ist jetzt ein Bundesrichter. Yoo ist wieder Professor an der UC-Berkeley; National Review lädt ihn gelegentlich ein, Liberale zu trollen, indem er behauptet, sie würden die Grenzen der Exekutivgewalt nicht respektieren.\n\nDurham war ursprünglich damit beauftragt worden, die Vernichtung von CIA-Bändern zu untersuchen, die die Folterung von zwei Gefangenen in amerikanischem Gewahrsam zeigten. Die Bänder waren von dem ehemaligen CIA-Beamten Jose Rodriguez vernichtet worden, der Folter als ein Anziehen der \"Big Boy Hosen\" Amerikas bezeichnete, aber befürchtete, dass die öffentliche Reaktion auf das auf den Bändern enthaltene Material \"verheerend\" sein würde.  Rodriguez wurde wegen seiner vorsätzlichen Zerstörung von Beweismaterial nicht angeklagt, obwohl er ein Buch über seine Erfahrungen geschrieben und eine Werbetour unternommen hat, auf der er zweifelhafte Argumente über die Wirksamkeit von Folter vorbringt. \n\nDennoch ist nicht jeder, der mit der Folter der Bush-Ära in Verbindung steht, der Rechenschaftspflicht entgangen. John Kiriakou, der ehemalige CIA-Beamte, der Verhörtechniken wie das Waterboarding öffentlich gemacht hat, wird wegen Weitergabe von Verschlusssachen angeklagt, weil er angeblich Verteidigern geholfen hat, die Vernehmungsbeamten zu identifizieren, die ihre Mandanten möglicherweise gefoltert haben.\"\n\nMother Jones\n\n@Q_D_R_A",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1256729953
+          },
+          "replies": {
+            "channel_id": 1451671597,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 846942
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.wired.com/dangerroom/2011/06/cia-exhales-99-out-of-101-torture-cases-dropped/",
+              "length": 29,
+              "offset": 71
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justice.gov/opa/pr/2011/June/11-ag-861.html",
+              "length": 59,
+              "offset": 523
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.nytimes.com/2009/01/12/us/politics/12inquire.html?pagewanted=all",
+              "length": 36,
+              "offset": 818
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2010/02/david_margolis_is_wrong.html",
+              "length": 53,
+              "offset": 1216
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://motherjones.com/mojo/2012/01/bushs-torture-lawyers-agree-obama-mad-power",
+              "length": 40,
+              "offset": 1393
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.motherjones.com/mojo/2012/04/former-cia-official-seeking-confirm-efficacy-torture-does-opposite",
+              "length": 43,
+              "offset": 1755
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.nytimes.com/2010/11/10/world/10tapes.html",
+              "length": 15,
+              "offset": 2012
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.motherjones.com/mojo/2012/05/cia-torture-chief-calls-leon-panetta-liar-over-bin-laden-killing",
+              "length": 22,
+              "offset": 2130
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.motherjones.com/politics/2012/01/john-kiriakou-cia-leak-investigation",
+              "length": 97,
+              "offset": 2419
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.motherjones.com/politics/2012/08/durham-torture-cia-obama-holder/",
+              "length": 12,
+              "offset": 2613
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 2627
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1631874237,
+          "edithide": true,
+          "archivedon": "2021-09-17 11:20:31.785452",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6328990694157364792",
+        "_score": 1.934,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1631911148,
+          "post": true,
+          "views": 455,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "• One America's Pearson Sharp did a report on a newly released study involving tens-of-thousands of patients. It reveals fully vaccinated people are 27 times more likely to end up with covid symptoms than those who have never had a vaccine [wakey wakey sleepyheads!]\n• Boris Johnson will announce that he is scrapping plans that would have required vaccine passports for entry to nightclubs, cinemas and sports grounds\n• The state of Arizona has sued the Biden-Harris Administration over the coronavirus vaccine mandate. Atty Gen Mark Brnovich argues it violates the Constitution’s Equal Protection Clause\n• Israeli Minister of Health caught on recording telling the Minister of Interior: \"there is no medical or epidemiological justification for the Covid passport [green pass] it is only intended to pressure the unvaccinated to vaccinate\"\n• The Navy this week gave its sailors 90 days to get the shot and the Army and Air Force are poised to enforce their own timetables, reports Military.com [Biden admin gave 75 days]. Meanwhile a lawsuit was filed on behalf of 220k+ active-duty members against Def Sec Austin, Homeland Sec Dir Bacerra and FDA Com Woodcock seeking a temporary restraining order preventing the forced injections before a full hearing can be scheduled. They are ultimately seeking a permanent injunction and declaratory judgment against Biden’s Department of Defense\n• First responders including police officers, firefighters paramedics, and other first responders gathered at Queen’s Park in Toronto, Ontario, Canada to protest against mandatory covid-19 vaccination in a moment of silence\n• Comedian Jim Breuer says he's \"absolutely not\" performing shows at venues that require proof of covid-19 vaccinations, calling the public health measures \"segregation\"\n• Six Los Angeles Police Department employees are suing the city for its vaccine and mask mandate, claiming it violates their constitutional right to privacy. The group of employees is also suing LAPD Chief Michael Moore and Los Angeles Mayor Eric Garcetti\n• In response to the Biden admin's new policy of limiting shipments of monoclonal antibody treatments to certain states that have leaned heavily on the treatment, Florida Gov Ron DeSantis said his state will circumvent the policy and just buy more treatments\n• Working with a whistleblower, Project Veritas exposed elder abuse and medical fraud at Aegis Living eldercare facility in Issaquah, Washington, including falsifying records, forcibly injecting the covid-19 vaccine, and lying about what was being administered. The Issaquah Police Department has opened an investigation\n• Federal Judge David Hurd in the Northern District of New York suspended the vaccine mandate for healthcare workers because of their religious beliefs. Seventeen health professionals, including doctors and nurses, filed a lawsuit arguing for a religious exemption from the covid-19 vaccines\n• 18 senior FDA officials, including two who have said they plan to resign over this, have written a report this week in which they disagreed with the Biden administration’s plans to roll out covid-19 vaccine boosters next week\n• White looking foreign substances have been discovered floating in unused vials of Pfizer’s covid-19 vaccine near Tokyo, Japan, and one in Osaka prefecture, officials said\n• Riverside County (CA) Sheriff Chad Bianco says he will not enforce any type of covid-19 vaccination mandate on employees of the sheriff's department\n• Cleburne County Arkansas Sheriff Chris Brown has  stated that all officers under his command will have the freedom to choose whether or not they are vaccinated\n• A patient's wife records doctor admitting that once he intubates patients, 99% of them died [exposed]\n• In a local ABC news station WXYZ-TV Channel 7 Facebook post asking for stories about people who lost a loved one because they weren’t vaccinated, was overwhelmed with comments from people that had lost loved ones right after the vaccine instead",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1473582977
+          },
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388317
+          },
+          "entities": [
+            {
+              "length": 12,
+              "offset": 983,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fwdfrom": {
+            "channel_post": 4403,
+            "date": 1631910907,
+            "from_id": {
+              "channel_id": 1302809019,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "replyto": {},
+          "editdate": 1631911142,
+          "edithide": true,
+          "postauthor": "Angel",
+          "archivedon": "1681942078",
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 44600,
+          "noforwards": false,
+          "lastseents": "2023-04-19T22:07:58.598331"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

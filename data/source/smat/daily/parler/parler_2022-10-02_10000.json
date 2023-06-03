@@ -1,0 +1,74 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [21],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [3.6279],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "1926de23-24fe-459f-802c-d580cd54c4ef",
+        "_score": 3.6279,
+        "_ignored": ["body.keyword"],
+        "_source": {
+          "ad": false,
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "Former regional security officer of U.S. Embassy in Tripoli Eric Nordstrom correctly testified that top people in Hillary Clinton's State Dept were allowed by the Accountability Review Board to escape any accountability for the failures that preceded the #Benghazi attack. Inexplicably, the ARB decided that it was not necessary to interview people at the top of the State Dept, including Hillary, Deputy Secretary of State Bill Burns, or Deputy Secretary of State Tom Nides. The name \"Accountability Review Board\" is ironic. Nordstrom testified \"It’s an accountability of midlevel officer review board, and the message to my colleagues is that if you are above a certain level, no matter what your decision is, no one is going to question it.\" (1/2)",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2022-10-02T17:58:11.000000Z",
+          "createdAtformatted": "2022-10-02T17:58:11.000000Z",
+          "creator": "ec29c2ecb2e245ba976dc047adc1dbcc",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "1926de23-24fe-459f-802c-d580cd54c4ef",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-10-05T10:56:14.019140+00:00",
+          "name": "Benghazi Notes",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/1926de23-24fe-459f-802c-d580cd54c4ef",
+          "state": 0,
+          "suggested": false,
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2022-10-02T17:58:17.000000Z",
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "ec29c2ecb2e245ba976dc047adc1dbcc",
+          "useridraw": "ec29c2ec-b2e2-45ba-976d-c047adc1dbcc",
+          "username": "BenghaziNotes",
+          "verified": true,
+          "views": 5
+        }
+      }
+    ]
+  }
+}

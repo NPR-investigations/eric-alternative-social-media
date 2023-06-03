@@ -1,0 +1,3341 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [48],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [43],
+      "relation": ["eq"]
+    },
+    "max_score": [12.2735],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5712857208681950054",
+        "_score": 12.2735,
+        "_source": {
+          "archivedon": "2022-08-02 13:02:56.988202",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1641433628,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1467501887
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Zimmur a raison !",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 289399
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1467501887,
+            "_media_ref": "a76572bdc4821d27e57751ed24425b4b5483a422",
+            "_v": 1,
+            "access_hash": 7.76081759649097e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Brasil",
+            "id": 1467501887,
+            "is_self": false,
+            "last_name": "AV",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 44600,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100216600067
+              },
+              "photo_id": 5.04642901667595e+18,
+              "photo_small": {
+                "local_id": 44598,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100216600067
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232019175",
+        "_score": 11.6754,
+        "_source": {
+          "archivedon": "2022-03-05 19:39:13.362799",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1641512060,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1580565691
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dang. Eric bolling is a terrible host",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 72831
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1580565691,
+            "_media_ref": "be5fa9d6a2f78e33d28ec418f617dcf2b73507e4",
+            "_v": 1,
+            "access_hash": -8.07966200001686e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dale",
+            "id": 1580565691,
+            "is_self": false,
+            "last_name": "Huckaby",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 33274,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100039000729
+              },
+              "photo_id": 5.1814553409889e+18,
+              "photo_small": {
+                "local_id": 33272,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100039000729
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259803184",
+        "_score": 11.5295,
+        "_source": {
+          "archivedon": "2022-01-09 20:01:21.458919",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1641440809,
+          "editdate": 1641440811,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.foxnews.com/politics/eric-swalwell-spotted-maskless-mandate-free-florida"
+            },
+            {
+              "length": 18,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FoxNews/status/1478910439824125953"
+            },
+            {
+              "length": 84,
+              "offset": 112,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": " Fox News (Twitter)\n\nRep. Eric Swalwell the latest blue-state Democrat spotted maskless in mandate-free Florida\nhttps://www.foxnews.com/politics/eric-swalwell-spotted-maskless-mandate-free-florida",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 371829
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 25,
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos."
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120496",
+        "_score": 11.5295,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.705792",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641504997,
+          "editdate": 1641505005,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 70,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 90,
+              "offset": 82,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams Signs Order To Reduce Fines For Small Businesses\n@YidInfo \n\n https://yidinfo.net/nyc-mayor-eric-adams-signs-order-to-reduce-fines-for-small-businesses/",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1223,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565095",
+        "_score": 11.3489,
+        "_source": {
+          "archivedon": "1681296834",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641435620,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 61,
+              "offset": 154,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The Professor's Record fights for the right of Jan 6th political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Push back against government tyranny and win back their freedom!",
+              "display_url": "t.me/ThePrisonersRecord?livestream=90a3bcfbcbe5aa0f43",
+              "hash": 0,
+              "id": 9.17079312040725e+18,
+              "photo": {
+                "access_hash": -4.34728843336488e+18,
+                "date": 1630940750,
+                "dc_id": 1,
+                "file_reference": "AGQ2hhA/d96lR3GuDWIwZjPlsgBq",
+                "has_stickers": false,
+                "id": 5.02172664971196e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 12097,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 39128,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 130813,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo1Z5kgjLyHAH61RDXl58wbyYj0x1P+P6UlwftN0/8SQ/LtHcn/P6UJeGJSXDSZ6c9KAHf2bzn7Q+7PXn/ABoJvLP5i/nxDrnqP6/zqxHPvYDZgE4zn2zU1ACQTJPGHjPH8jRVNQLO/QLxHPxj0P8An+dFAEFrcx232kzEgmcjpmnLNbTyvskfLAsRt6VV1eFoblm/5Zynd9D3o06NdrSZ+Y5XHtQBagvbSAtiR2zjqtWJtQhhbZISDjPSsgRRfbmjx8o6L746VLqEYZfNP3hgUAT3N1Hcm38rJKzLRVfSIGmug5/1cfzH69qKANyeBLiIxyDI/kay/sU1nKzxqZEIIIX/AAoooAzvs84b7rbvxzWkbOa8nDyIY0AAAY8flRRQBpwQR28QjjGFH60UUUAf"
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "The Prisoner's Record",
+              "type": "telegram_livestream",
+              "url": "https://t.me/ThePrisonersRecord?livestream=90a3bcfbcbe5aa0f43"
+            }
+          },
+          "message": "1.5.22\n\nEric recounts his experience of January 6th.\n\nHe was arrested and released January last year.\n\nEric is home under Pretrial Conditions.\n\nLive Now\n\nhttps://t.me/ThePrisonersRecord?livestream=90a3bcfbcbe5aa0f43",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2527,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1383,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.288565"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5197635942625608336",
+        "_score": 11.3489,
+        "_source": {
+          "archivedon": "2022-08-02 01:39:17.36777",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "date": 1641429123,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 70,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 134,
+              "offset": 71,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Swalwell follows AOC's lead, ditches mask in mandate-free Florida\nhttps://www.washingtontimes.com/news/2022/jan/5/eric-swalwell-follows-aocs-lead-ditches-mask-manda/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "channel_id": 1210168922,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 446,
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5686521886562162512",
+        "_score": 11.261,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:50.305524",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1641507079,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1672835247
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "This Eric guy … his interviewing skills are Aweful. I’d like to listen to mike but I can’t stand Eric and how he interrupts. I’ll have to get my news elsewhere.",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 365479
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1672835247,
+            "_v": 1,
+            "access_hash": 5.62923686652886e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michelle",
+            "id": 1672835247,
+            "is_self": false,
+            "last_name": "Lindell",
+            "min": true,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 34287,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054000484
+              },
+              "photo_id": 5.03552932598158e+18,
+              "photo_small": {
+                "local_id": 34285,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054000484
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5583450097456260332",
+        "_score": 11.1745,
+        "_source": {
+          "archivedon": "2022-08-02 02:52:47.892951",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1641512191,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 136,
+              "offset": 88,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Clapton's \"Heart of a Child\" Powerfully Addresses COVID Lockdown-Fueled Depression\nhttps://redstate.com/jerrywilson/2022/01/06/eric-claptons-heart-of-a-child-powerfully-addresses-covid-lockdown-fueled-depression-n502827",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1684
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5583450097456260310",
+        "_score": 10.7631,
+        "_source": {
+          "archivedon": "2022-08-02 02:52:47.84727",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1641438731,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 84,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 133,
+              "offset": 85,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Swalwell Busted Maskless in the Free State of Florida After Bashing GOP 'Liars'\nhttps://redstate.com/nick-arama/2022/01/05/eric-swalwell-busted-maskless-in-the-free-state-of-florida-after-bashing-gop-liars-n502456",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1680
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5798023184640918862",
+        "_score": 10.6512,
+        "_source": {
+          "archivedon": "2022-01-09 20:07:39.804662",
+          "channeltitle": "Dan Bongino",
+          "channelusername": "DBongino",
+          "date": 1641485886,
+          "editdate": 1641757144,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 98,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 27,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://bongino.com/eric-swalwell-the-latest-democrat-rep-spotted-vacationing-maskless-in-florida/",
+          "peerid": {
+            "channel_id": 1349957470,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 29156,
+          "channelabout": "Host of The Dan Bongino Show. Fox News Contributor.\nbongino.com"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5354447101273208004",
+        "_score": 10.6512,
+        "_source": {
+          "archivedon": "2022-01-09 21:12:22.534488",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1641485908,
+          "editdate": 1641485911,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 98,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17742,
+            "date": 1641485886,
+            "from_id": {
+              "channel_id": 1349957470,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://bongino.com/eric-swalwell-the-latest-democrat-rep-spotted-vacationing-maskless-in-florida/",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 425010
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 82,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5686521886562161974",
+        "_score": 10.3522,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:49.216003",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1641453915,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1561057213
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Great interview, love you bothe may God’s peace and blessing be upon you and Eric",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 365479
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1561057213,
+            "_media_ref": "3f7d655efd4a2379b2a89dbf53508a22694b5384",
+            "_v": 1,
+            "access_hash": 1.69904358425589e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michele",
+            "id": 1561057213,
+            "is_self": false,
+            "last_name": "Baranowski",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 299898,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100474
+              },
+              "photo_id": 4.90038205538957e+18,
+              "photo_small": {
+                "local_id": 299896,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100474
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MEBarano",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232019071",
+        "_score": 10.0711,
+        "_source": {
+          "archivedon": "2022-03-05 19:39:13.231522",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1641507840,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 102,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 183,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1601053024
+          },
+          "fwdfrom": {
+            "channel_post": 1553,
+            "date": 1641507837,
+            "from_id": {
+              "channel_id": 1601053024,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1553,
+            "saved_from_peer": {
+              "channel_id": 1601053024,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Robert Malone joined Eric Bolling to discuss the Joe Rogan interview and his vaccine experience \n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 101595,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 15,
+            "replies_pts": 313545
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 26698
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6876470377241904657",
+        "_score": 10.0711,
+        "_source": {
+          "archivedon": "2022-03-05 19:32:14.758801",
+          "channeltitle": "Chief Nerd",
+          "channelusername": "chiefnerd",
+          "date": 1641507837,
+          "editdate": 1641507840,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 102,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 183,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dr. Robert Malone joined Eric Bolling to discuss the Joe Rogan interview and his vaccine experience \n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1601053024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1686210190,
+            "comments": true,
+            "max_id": 101595,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1800369223
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1446247336
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1572005621
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 15,
+            "replies_pts": 313495
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 26698,
+          "channelabout": "Pro-Freedom Citizen Journalist \nTelegram: https://t.me/chiefnerd\nRumble: https://rumble.com/c/ChiefNerd\nGETTR: https://www.gettr.com/user/chiefnerd \nTruth Social: https://truthsocial.com/@chiefnerd"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6283444399934285072",
+        "_score": 9.6798,
+        "_source": {
+          "archivedon": "2022-08-03 04:14:39.542445",
+          "channeltitle": "The Western Journal",
+          "channelusername": "WesternJournal",
+          "date": 1641494675,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 21,
+              "offset": 108,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 17,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "After Blaming GOP COVID Policy for 'Canceling Vacations', Eric Swalwell Spotted Maskless on Vacation\n\nREAD: http://w-j.co/s/ddd2a",
+          "peerid": {
+            "channel_id": 1462978404,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 10814,
+          "channelabout": "The Western Journal aims to equip readers with the TRUTH."
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595159847",
+        "_score": 9.5567,
+        "_source": {
+          "archivedon": "2022-01-09 22:05:06.068475",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641438191,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 189,
+              "offset": 9,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1115589785
+          },
+          "fwdfrom": {
+            "channel_post": 17529,
+            "date": 1641438172,
+            "from_id": {
+              "channel_id": 1178172430,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "REDCAP 🇺🇲",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Busted.\n\nhttps://www.dailymail.co.uk/news/article-10372009/Eric-Swalwell-seen-maskless-Miami-blaming-GOP-prolonging-pandemic.html?adobe_mc=TS%3D1641438353%7CMCAID%3D2EE90B1085159BB5-4000083DF9A24380",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1467407
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1115589785,
+            "_media_ref": "76237239cad92be7a406e03bfc2a9347ec3162f3",
+            "_v": 1,
+            "access_hash": 2.93398895639411e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "A.REDCAP 🇺🇲",
+            "id": 1115589785,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 72405,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100146
+              },
+              "photo_id": 5.17487607815665e+18,
+              "photo_small": {
+                "local_id": 72403,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100146
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Redcap004",
+            "verified": false
+          },
+          "v": 1,
+          "views": 940,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6290698938999649011",
+        "_score": 8.4024,
+        "_source": {
+          "archivedon": "2022-01-09 20:32:51.329673",
+          "channeltitle": "Eric Striker",
+          "channelusername": "EricStrikerTRS",
+          "date": 1641441875,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 120,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 70,
+              "offset": 130,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 21146,
+            "date": 1641429821,
+            "from_id": {
+              "channel_id": 1070928018,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams Today Appointed Two Orthodox Jews, Menashe Schapiro and Fred Kreizman, as Part of his Senior Team.\n@YidInfo\n\nhttps://yidinfo.net/two-orthodox-jews-part-of-mayor-adams-senior-team/",
+          "peerid": {
+            "channel_id": 1464667483,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3206,
+          "channelabout": "Official Telegram of Eric Striker"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120474",
+        "_score": 8.4024,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.679317",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641429821,
+          "editdate": 1641431367,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 120,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 70,
+              "offset": 130,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 34,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams Today Appointed Two Orthodox Jews, Menashe Schapiro and Fred Kreizman, as Part of his Senior Team.\n@YidInfo\n\nhttps://yidinfo.net/two-orthodox-jews-part-of-mayor-adams-senior-team/",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 29549,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1560390284
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 828958423
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1066710404
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5137,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120497",
+        "_score": 8.2252,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.705813",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641505545,
+          "editdate": 1641506624,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 176,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Mayor Eric Adams had tough words for Queens cops on his first day on the job, warning the bad apples that he’ll bounce them from the NYPD if they’re “abusive to my community.\"\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 29670,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1229,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5063559007948598044",
+        "_score": 7.9748,
+        "_source": {
+          "archivedon": "1679603026",
+          "channeltitle": "Noticias Ocultas Patriot 🚫💉🚫",
+          "channelusername": "Bretpanther",
+          "date": 1641512935,
+          "edithide": false,
+          "entities": [],
+          "forwards": 210,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1057785559
+          },
+          "fwdfrom": {
+            "channel_post": 15903,
+            "date": 1641512815,
+            "from_id": {
+              "channel_id": 1406735434,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Veréis la campaña mediática que se va a organizar contra Djokovic. ¿Os acordáis de la de Miguel Bosé, la de Bunbury, la de Sherpa, la de Van Morrison o la de Eric Clapton? Pues multiplicadas por 100.",
+          "peerid": {
+            "channel_id": 1178951703,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 389221
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -5.67652355118938e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Aguilar",
+            "id": 1057785559,
+            "is_self": false,
+            "last_name": "Caja",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.54315438254232e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIPMhNiBkbhBj7w67fSiiikhs/"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "AguilarCaja",
+            "verified": false,
+            "archivedon": 1679603026,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "views": 62637,
+          "channelabout": "Grupo de difusión variada de información.\n\nLos integrantes pueden debatir  respetando a los demás.\n\n🔴Enlace de invitación🔴 👇\n\nt.me/Bretpanther\n\n🔴Canal del grupo🔴👇\n\nhttps://t.me/LaCuevadelLoboRojo",
+          "id": 92956,
+          "noforwards": false,
+          "lastseents": "2023-03-23T20:23:47.113597"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5278666174316508222",
+        "_score": 7.8951,
+        "_source": {
+          "archivedon": "2022-01-09 21:45:52.74742",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1641453196,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 157,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Donald J. Trump - Eine Hexenjagd in New York auf dem schlimmsten und höchsten Niveau.\n \nLesen Sie den vollständigen Artikel aus dem Wall Street Journal hier…https://www.wsj.com/articles/new-yorks-trump-inquisition-letitia-james-ivanka-eric-donald-11641336578",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1242,
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5031147715854246729",
+        "_score": 7.8172,
+        "_source": {
+          "archivedon": "2022-01-09 21:10:36.977771",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "date": 1641500731,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 96,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 214,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1519379513
+          },
+          "fwdfrom": {
+            "channel_post": 6599,
+            "date": 1641500586,
+            "from_id": {
+              "channel_id": 1279521348,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Apparently it's \nDO AS I SAY, NOT AS I DO!\nTotal hypocrite! They don't even try to hide it anymore!\n\n https://dailycaller.com/2022/01/05/eric-swalwell-florida-maskless-vacation-covid-19-coronavirus/\n\nFollow us at:\nhttps://t.me/qdrops17",
+          "peerid": {
+            "channel_id": 1171405361,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 211829
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1519379513,
+            "_media_ref": "d95610c44fe16a33e4bd2a4a91e451029ccc2705",
+            "_v": 1,
+            "access_hash": -4.05132599128226e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rick",
+            "id": 1519379513,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 128386,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400860
+              },
+              "photo_id": 4.98370204152009e+18,
+              "photo_small": {
+                "local_id": 128384,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400860
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Sparky17",
+            "verified": false
+          },
+          "v": 1,
+          "views": 725,
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6415489467188049297",
+        "_score": 7.8172,
+        "_source": {
+          "archivedon": "2022-01-09 21:14:03.045408",
+          "channeltitle": "Patriots U.S.A (Channel)",
+          "channelusername": "PatriotsEEUU",
+          "date": 1641500729,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 96,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 214,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1519379513
+          },
+          "fwdfrom": {
+            "channel_post": 6599,
+            "date": 1641500586,
+            "from_id": {
+              "channel_id": 1279521348,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Apparently it's \nDO AS I SAY, NOT AS I DO!\nTotal hypocrite! They don't even try to hide it anymore!\n\n https://dailycaller.com/2022/01/05/eric-swalwell-florida-maskless-vacation-covid-19-coronavirus/\n\nFollow us at:\nhttps://t.me/qdrops17",
+          "peerid": {
+            "channel_id": 1493722542,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 62907,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 89430
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1519379513,
+            "_media_ref": "d95610c44fe16a33e4bd2a4a91e451029ccc2705",
+            "_v": 1,
+            "access_hash": -4.05132599128226e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rick",
+            "id": 1519379513,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 128386,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400860
+              },
+              "photo_id": 4.98370204152009e+18,
+              "photo_small": {
+                "local_id": 128384,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035400860
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Sparky17",
+            "verified": false
+          },
+          "v": 1,
+          "views": 725,
+          "channelabout": "We fight for freedom.  We fight together Trump. WE ARE THE DIGITAL ARMY OF SOLDIERS\nhttps://linktr.ee/PatriotMap"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4957894673503880364",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-01-09 21:03:36.572883",
+          "channeltitle": "Health Ranger",
+          "channelusername": "RealHealthRanger",
+          "date": 1641492388,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 108,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 46,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Brighteon Radio launches Monday, January 10th, with amazing lineup of hosts, including Brannon Howse, Wayne Allyn Root, Jim White, Dr. Eric Nepute, Robert Scott Bell and more\nhttps://www.naturalnews.com/2022-01-06-brighteon-radio-launches-monday-january-10th-with-amazing-lineup.html",
+          "peerid": {
+            "channel_id": 1154349808,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21959,
+          "channelabout": "Official Health Ranger breaking news, links, podcasts and videos.\n\nOur emergency IP address, to enter into your browser, to access emergency alerts, audio alerts, etc., in case of global domain takedowns. WRITE THIS DOWN:  http://45.89.97.6/"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6202437180678231964",
+        "_score": 7.4528,
+        "_source": {
+          "archivedon": "2022-01-09 21:01:41.381984",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1641460254,
+          "editdate": 1641461838,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 285,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 285,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 20,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇫🇷 Présidentielle 2022 : Les Républicains comptent discrètement aider Eric Zemmour pour les parrainages en ne sanctionnant pas leurs élus qui le soutiendraient. Une manœuvre tactique pour maintenir la division des voix entre Zemmour et Marine Le Pen, et favoriser Valérie Pécresse.\n\n📰 Europe 1",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 279077,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 989757991
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 938385622
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1527761269
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 408508
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 22427
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1786,
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5252780737136297877",
+        "_score": 5.52,
+        "_source": {
+          "archivedon": "2022-08-02 02:17:58.599311",
+          "channeltitle": "MAGA Chat 🇺🇸",
+          "channelusername": "MAGARevolutionChat",
+          "date": 1641497055,
+          "editdate": 1641497568,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1612999597
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Another thing that concerns me is if the Republicans are paying attention to the people moving from these democratic states of New York and California and moving to Republican run states of Texas and Florida.  There is so much chaos right now and I just think it's strange that Nancy Pelosi bought a mansion in Florida, then AOC is vacationing there, and I heard Eric Swalwell is there right now also.  I pray the Republicans are paying attention and don't lose any republican states.",
+          "peerid": {
+            "channel_id": 1223008320,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 346443,
+            "reply_to_top_id": 346396
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1612999597,
+            "_v": 1,
+            "access_hash": 5.18450406232364e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Darlene",
+            "id": 1612999597,
+            "is_self": false,
+            "last_name": "Gregg",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6268561698303524889",
+        "_score": 5.1473,
+        "_source": {
+          "archivedon": "2022-01-09 20:31:10.222905",
+          "channeltitle": "LAURA LOOMER",
+          "channelusername": "loomeredofficial",
+          "date": 1641435395,
+          "editdate": 1641435678,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 63,
+              "offset": 491,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dude sounds like he’s speaking Ebonics and is dressed like he’s about to jump someone on the street and give them his latest mix tape. And he wants to tell you about “low skilled workers”? 🤡🤡🤡\n\nYears ago, I once washed dishes and made sandwiches at a Honey Baked Ham. And now I’m running for United States Congress and President Donald Trump voted for me in 2020. I’m definitely not “low skilled”. I was trying to make an honest living.\n\nEric Adams is an out of touch, elitist asshole. \n\nhttps://twitter.com/breaking911/status/1478594096499503104?s=21",
+          "peerid": {
+            "channel_id": 1459513255,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1162718979,
+            "comments": true,
+            "max_id": 330149,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 638863866
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1481463931
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1475791767
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 43,
+            "replies_pts": 428453
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3990,
+          "channelabout": "Uncensored telegram channel for official updates from Laura Loomer"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5823214795624598226",
+        "_score": 4.2532,
+        "_source": {
+          "archivedon": "2022-01-09 20:07:29.196197",
+          "channeltitle": "Schuberts Lagemeldung - Stefan Schubert Offiziell",
+          "channelusername": "SchubertsLM",
+          "date": 1641479372,
+          "editdate": 1641479400,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 214,
+              "offset": 80,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 100,
+              "offset": 850,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 24,
+              "offset": 996,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Viele bleiben zu Hause\n\n Omikron legt Wirtschaft auch ohne Lockdowns lahm     \n\nVielerorts wollen Politiker Schäden für die Wirtschaft durch harte Corona-Maßnahmen vermeiden. Doch in New York, London oder Madrid zeigt sich: Wenn die Infektionszahlen steigen, bleiben auch die Innenstädte leer.\n\nEric Adams wiederholt es wie eine Beschwörung: \"New York bleibt offen\", sagte der frisch ins Amt eingeführte Bürgermeister der US-Metropole immer wieder oder zuletzt bei CNN in einem Appell an die Einwohner und Unternehmen der Stadt: \"Wir müssen öffnen!\" Obwohl sich zuletzt im Zuge der Omikron-Welle eine Million Menschen in den USA pro Tag mit Corona infizierten, schließen Politiker vielerorts Maßnahmen wie Lockdowns, Schulschließungen oder weitgehende Kontaktbeschränkungen aus. Doch das öffentliche Leben kommt trotzdem teilweise zum Erliegen.    \n\nhttps://www.n-tv.de/wirtschaft/Omikron-legt-Wirtschaft-auch-ohne-Lockdowns-lahm-article23038637.html     \n\nBitte abonniert Schuberts Lagemeldung: https://t.me/SchubertsLM",
+          "peerid": {
+            "channel_id": 1355822849,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3985,
+          "channelabout": "Täglich aktuelle Meldungen von Bestseller-Autor und Sicherheitsexperte Stefan Schubert"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5408433375599931843",
+        "_score": 3.5846,
+        "_source": {
+          "archivedon": "2022-01-09 21:53:26.609003",
+          "channeltitle": "COVID-19 Up",
+          "channelusername": "COVID19Up",
+          "date": 1641489899,
+          "editdate": 1641492240,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 76,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 66,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 137,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.msnbc.com/opinion/biden-cdc-s-covid-19-variant-guidelines-have-disabled-people-n1286967"
+            },
+            {
+              "length": 246,
+              "offset": 615,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 282,
+              "offset": 878,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 18,
+              "offset": 1171,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1173,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 1202,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 1204,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 41,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "MSNBC Columnist Likens Biden’s COVID-19 Approach to Eugenics\n\n🇺🇸@COVID19Up: On Wednesday (Jan. 5), MSNBC opinion columnist Eric Garcia argued that Biden's approach to handling the pandemic—emphasizing COVID-19 vaccination and masking over everything else—is reminiscent of eugenics.\n\nThe obsession with COVID-19 vaccination and masking makes catching SARS-CoV-2 a moral failure, Garcia writes, because people—especially those with disabilities or health conditions—can still get very sick or die from the virus even if vaccinated and boosted, making it immoral to be unhealthy—akin to eugenics in Garcia's eyes.\n\n“Mentioning eugenics is sure to rankle some readers because it evokes the horrors of Nazi Germany and the Holocaust. But eugenics, which is rooted in the idea that the human gene pool can and should be improved, is often evoked during pandemics,” Garcia wrote. \n\n“During the Spanish flu pandemic of 1918, which has often been compared to our novel coronavirus pandemic, poor people, immigrants and racial minorities were disproportionately infected, and eugenicists argued that they fell ill more often because they were genetically inferior.\"\n\nJoin us:👇\n💬@COVID1984Chat\n\nFollow us:👇\n📡@COVID19Up",
+          "peerid": {
+            "channel_id": 1259249024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1289672600,
+            "comments": true,
+            "max_id": 390088,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 557034284
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1518396954
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1021996745
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 9,
+            "replies_pts": 606095
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5867,
+          "channelabout": "A network of independent researchers from around the world united on providing the latest updates about COVID-19."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6151072236561247780",
+        "_score": 3.2879,
+        "_source": {
+          "archivedon": "2022-01-09 20:57:59.38197",
+          "channeltitle": "Free Connecticut",
+          "channelusername": "FreeConnecticut",
+          "date": 1641506211,
+          "edithide": false,
+          "entities": [],
+          "forwards": 18,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1549096189
+          },
+          "fwdfrom": {
+            "channel_post": 7948,
+            "date": 1641492681,
+            "from_id": {
+              "channel_id": 1429771341,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Here is a list of US politicians who have dual US/Israeli citizenship. Note the head banking and policy advising positions. Why is this allowed? Israel first, and this is a list of democrats. Imagine how many republicans have duel citizenship. But it's just a conspiracy theory that the Zionists own everything and choose our elected officials. \n\nOBAMA ADMINISTRATION\nJack Lew – Chief of Staff to the President; Treasury Secretary\nDavid Plouffe – Senior Advisor to the President\nDanielle Borrin – Associate Director, Office of Public Engagement; Special Assistant to the Vice President\nGary Gensler – Chairman of the Commodity Futures Trading Commission\nDan Shapiro – Ambassador to Israel\nGene Sperling – Director National Economic Council\nMary Schapiro – Chairwoman of the Securities and Exchange Commission\nSteven Simon – Head of Middle East/North Africa Desk at the National Security Council\nEric Lynn – Middle East Policy Advisor\nPAST OBAMA ADMINISTRATION\nRahm Emanuel (2009-2010) Chief of Staff to the President\nDavid Axelrod (2009-2011) Senior Advisor to the President\nElena Kagan (2009-2010) Solicitor General of the United States\nPeter Orszag (2009-2010) Director of the Office of Management and Budget\nLawrence Summers (’09-’11) Director National Economic Council\nMona Sutphen (2009-2011) Deputy White House Chief of Staff\nJames B. Steinberg (’09-’11 ) Deputy Secretary of State\nDennis Ross (2009-2011 ) Special Assistant to the President, Senior Director for the Central Region to the Secretary of State\nRonald Klain (2009-2011) Chief of Staff to the Vice President\nJared Bernstein (2009-2011) Chief Economist and Economic Policy Advisor to the Vice President\nSusan Sher (2009-2011) Chief of Staff to the First Lady\nLee Feinstein (2009) Campaign Foreign Policy Advisor\nMara Rudman (2009) Foreign Policy Advisor Sources: White House\n112 CONGRESS (current)\nTHE US SENATE [13]\nRichard Blumenthal (D-CT) Barbara Boxer (D-CA) Benjamin Cardin (D-MD) Dianne Feinstein (D-CA) Al Franken (D-MN) Herb Kohl (D-WI) Frank Lautenberg (D-NJ) Joseph Lieberman (Independent-CT) Carl Levin (D-MI) Bernie Sanders (Independent-VT) Charles Schumer (D-NY) Ron Wyden (D-OR) Michael Bennet (D-CO)\nHOUSE OF REPRESENTATIVES [27]\nGary Ackerman (D-NY) Shelley Berkley (D-NV) Howard Berman (D-CA) Eric Cantor (R-VA) David Cicilline (D-RI) Stephen Cohen (D-TN) Susan Davis (D-CA) Ted Deutch (D-FL) Eliot Engel (D-NY) Bob Filner (D-CA) Barney Frank (D-MA) Gabrielle Giffords (D-AZ) Jane Harman (D-CA) Steve Israel (D-NY) Sander Levin (D-MI) Nita Lowey (D-NY) Jerrold Nadler (D-NY) Jared Polis (D-CO) Steve Rothman (D-NJ) Jan Schakowsky (D-IL) Allyson Schwartz (D-PA) Adam Schiff (D-CA) Brad Sherman (D-CA) Debbie Wasserman Schultz (D-FL) Henry Waxman (D-CA) Anthony Weiner (D-NY) John Yarmuth (D-KY)",
+          "peerid": {
+            "channel_id": 1432158108,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 16793
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1549096189,
+            "_v": 1,
+            "access_hash": 2.0958836359922e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Saicheez",
+            "id": 1549096189,
+            "is_self": false,
+            "last_name": "Saicheez",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Saicheez",
+            "verified": false
+          },
+          "v": 1,
+          "views": 540
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565107",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "1681296803",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641469579,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [],
+          "forwards": 91,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Kene Lazo  Virginia  Charged  2021-05-28\nGeoffrey Sills  Virginia  Indicted  2021-06-16\nFi Duong  Virginia  Indicted  2021-06-30\nJoshua Haynes  Virginia  Charged  2021-07-01\nJames Davis  Virginia  Charged  2021-07-22\nLuke Bender  Virginia  Indicted  2021-07-26\nBrandon Prenzlin  Virginia  Charged  2021-09-17\nMeghan Rutledge  Virginia  Charged  2021-10-05\nWillard Bostic  Virginia  Charged  2021-10-05\nMark Leffingwell  Washington  Convicted  2021-01-07\nJohn Lolos                      Washington  Sentenced 2021-01-09\nEdward Lang  Washington  Indicted  2021-01-16\nEthan Nordean  Washington  Indicted  2021-02-03\nJeffrey Grace  Washington  Charged  2021-02-04\nTaylor Johnatakis  Washington  Indicted  2021-02-05\nMarc Bru                       Washington  Indicted  2021-03-30\nJoseph Zlab  Washington  Charged  2021-05-07\nDevlyn Thompson  Washington  Sentenced 2021-07-11\nTyler Slaeker  Washington  Charged  2021-07-27\nDavid Rhine  Washington  Charged  2021-11-04\nJoshua Pruitt  Washington, DC  Indicted  2021-01-07\nVitali GossJankowski  Washington, DC  Indicted  2021-01-14\nEmanuel Jackson  Washington, DC  Charged  2021-01-18\nMark Ponder  Washington, DC  Indicted  2021-03-12\nDarrell Neely  Washington, DC  Charged  2021-09-30\nDerrick Evans  West Virginia  Indicted  2021-01-08\nGracyn Courtright  West Virginia  Sentenced 2021-01-16\nEric Barber  West Virginia  Convicted  2021-02-16\nGeorge Tanios  West Virginia  Indicted  2021-03-15\nJeffery Finley  West Virginia  Charged  2021-03-21\nKevin Loftus  Wisconsin  Convicted  2021-01-12\nDavid Mish  Wisconsin  Sentenced  2021-01-15\nMichael Fitzgerald  Wisconsin  Indicted  2021-04-02\nAbram Markofski  Wisconsin  Sentenced  2021-04-27\nBrandon Nelson  Wisconsin  Sentenced  2021-04-27",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 34147,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1395,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.291962"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6570927700884589524",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:11.132084",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1641484358,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1395,
+            "date": 1641469579,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Kene Lazo  Virginia  Charged  2021-05-28\nGeoffrey Sills  Virginia  Indicted  2021-06-16\nFi Duong  Virginia  Indicted  2021-06-30\nJoshua Haynes  Virginia  Charged  2021-07-01\nJames Davis  Virginia  Charged  2021-07-22\nLuke Bender  Virginia  Indicted  2021-07-26\nBrandon Prenzlin  Virginia  Charged  2021-09-17\nMeghan Rutledge  Virginia  Charged  2021-10-05\nWillard Bostic  Virginia  Charged  2021-10-05\nMark Leffingwell  Washington  Convicted  2021-01-07\nJohn Lolos                      Washington  Sentenced 2021-01-09\nEdward Lang  Washington  Indicted  2021-01-16\nEthan Nordean  Washington  Indicted  2021-02-03\nJeffrey Grace  Washington  Charged  2021-02-04\nTaylor Johnatakis  Washington  Indicted  2021-02-05\nMarc Bru                       Washington  Indicted  2021-03-30\nJoseph Zlab  Washington  Charged  2021-05-07\nDevlyn Thompson  Washington  Sentenced 2021-07-11\nTyler Slaeker  Washington  Charged  2021-07-27\nDavid Rhine  Washington  Charged  2021-11-04\nJoshua Pruitt  Washington, DC  Indicted  2021-01-07\nVitali GossJankowski  Washington, DC  Indicted  2021-01-14\nEmanuel Jackson  Washington, DC  Charged  2021-01-18\nMark Ponder  Washington, DC  Indicted  2021-03-12\nDarrell Neely  Washington, DC  Charged  2021-09-30\nDerrick Evans  West Virginia  Indicted  2021-01-08\nGracyn Courtright  West Virginia  Sentenced 2021-01-16\nEric Barber  West Virginia  Convicted  2021-02-16\nGeorge Tanios  West Virginia  Indicted  2021-03-15\nJeffery Finley  West Virginia  Charged  2021-03-21\nKevin Loftus  Wisconsin  Convicted  2021-01-12\nDavid Mish  Wisconsin  Sentenced  2021-01-15\nMichael Fitzgerald  Wisconsin  Indicted  2021-04-02\nAbram Markofski  Wisconsin  Sentenced  2021-04-27\nBrandon Nelson  Wisconsin  Sentenced  2021-04-27",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565105",
+        "_score": 2.9357,
+        "_source": {
+          "archivedon": "1681296803",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641469578,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [],
+          "forwards": 86,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dale Shalvey  Pennsylvania  Indicted  2021-02-12\nMatthew Clark  Pennsylvania  Charged  2021-02-12\nPaul Spigelmyer  Pennsylvania  Charged  2021-02-12\nRaechel Genco  Pennsylvania  Charged  2021-02-12\nRussell Peterson  Pennsylvania  Sentenced  2021-02-12\nRichard Michetti  Pennsylvania  Indicted  2021-02-17\nJoseph Fischer  Pennsylvania  Indicted  2021-02-19\nJackson Kostolsky  Pennsylvania  Convicted  2021-02-23\nAnnie Howell  Pennsylvania  Convicted  2021-03-02\nDebra Maimone  Pennsylvania  Charged  2021-03-12\nPhilip Vogel  Pennsylvania  Charged  2021-03-12\nJulian Khater  Pennsylvania  Indicted  2021-03-15\nJennifer Heinl  Pennsylvania  Convicted  2021-03-17\nFrank Scavo  Pennsylvania  Sentenced  2021-03-24\nJeremy Vorous  Pennsylvania  Indicted  2021-03-26\nAnthony Moat  Pennsylvania  Charged  2021-04-07\nMichael Rusyn  Pennsylvania  Convicted  2021-04-09\nLeonard Ridge  Pennsylvania  Sentenced  2021-04-20\nGary Edwards  Pennsylvania  Sentenced  2021-04-23\nBrian Stenz  Pennsylvania  Convicted  2021-04-28\nGary Wickersham  Pennsylvania  Sentenced  2021-05-07\nPauline Bauer  Pennsylvania  Indicted  2021-05-18\nWilliam Blauser  Pennsylvania  Convicted  2021-05-18\nRobert Morss  Pennsylvania  Indicted  2021-06-11\nMitchell Vukich  Pennsylvania  Convicted  2021-06-23\nNicholas Perretta  Pennsylvania  Convicted  2021-06-23\nSamuel Fox  Pennsylvania  Convicted  2021-06-23\nSandra Weyer  Pennsylvania  Charged  2021-06-24\nAlan Byerly  Pennsylvania  Indicted  2021-06-25\nGabriel Brown  Pennsylvania  Charged  2021-06-25\nEdward McAlanis  Pennsylvania  Convicted  2021-07-14\nSamuel Lazar  Pennsylvania  Indicted  2021-07-21\nTara Stottlemyer  Pennsylvania  Indicted  2021-07-28\nDeborah Lee  Pennsylvania  Charged  2021-08-05\nKelly O'Brien  Pennsylvania  Charged  2021-08-12\nJulia Sizer                      Pennsylvania  Convicted  2021-09-02\nCharles Smith  Pennsylvania  Charged  2021-09-08\nMarshall Neefe  Pennsylvania  Charged  2021-09-08\nMichael Dickinson  Pennsylvania  Charged  2021-09-30\nHoward Richardson  Pennsylvania  Indicted  2021-11-22\nMichael Gianos  Pennsylvania  Charged  2021-11-22\nRachel Myers  Pennsylvania  Charged  2021-11-22\nMarcos Panayiotou  Pennsylvania  Charged  2021-11-30\nBrian Healion  Pennsylvania  Charged  2021-12-08\nFreedom Vy  Pennsylvania  Charged  2021-12-08\nIsaiah Giddings  Pennsylvania  Charged  2021-12-08\nTimothy Desjardins  Rhode Island  Charged  2021-11-19\nAndrew Hatley  South Carolina  Sentenced  2021-01-19\nWilliam Norwood  South Carolina  Indicted  2021-02-25\nElias Irizarry  South Carolina  Indicted  2021-03-15\nElliot Bishai  South Carolina  Indicted  2021-03-15\nNicholas Languerand  South Carolina  Convicted  2021-04-15\nJohn Getsinger  South Carolina  Convicted  2021-06-09\nStacie Hargis Getsinger  South Carolina  Convicted  2021-06-09\nDerek Gunby  South Carolina  Charged  2021-06-29\nJames Lollis  South Carolina  Convicted  2021-09-03\nPaul Colbath  South Carolina  Charged  2021-10-20\nJames Haffner  South Dakota  Charged  2021-12-01\nEric Munchel  Tennessee  Indicted  2021-01-10\nMatthew Bledsoe  Tennessee  Indicted  2021-01-15\nJack Griffith  Tennessee  Sentenced  2021-01-16\nBlake Reed  Tennessee  Indicted  2021-01-17\nEric Torrens  Tennessee  Sentenced  2021-01-27\nRonald Sandlin  Tennessee  Indicted  2021-01-28\nJoseph Padilla  Tennessee  Indicted  2021-02-22\nBryan Ivey                      Tennessee  Convicted  2021-03-04\nRonnie Presley  Tennessee  Indicted  2021-03-05\nAlbuquerque Head  Tennessee  Indicted  2021-04-09\nMichael Roche  Tennessee  Charged  2021-04-13\nMichael Timbrook  Tennessee  Charged  2021-04-20\nMatthew Baggott  Tennessee  Charged  2021-05-24\nStewart Parks  Tennessee  Charged  2021-05-24\nClifford Meteer  Tennessee  Charged  2021-08-04\nRonald McAbee  Tennessee  Indicted  2021-08-04\nChristopher Cunningham  Tennessee Charged  2021-08-30\nJoshua Portlock  Tennessee  Charged  2021-10-28\nLarry Brock  Texas  Indicted  2021-01-09\nEliel Rosa  Texas  Sentenced  2021-01-13\nJenny Cudd  Texas  Convicted  2021-01-13\nGuy Reffitt  Texas  Indicted  2021-01-15\nJennifer Ryan  Texas  Sentenced  2021-01-15",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 29791,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1393,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.291383"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6570927700884589522",
+        "_score": 2.9357,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:11.129213",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1641484337,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1393,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Dale Shalvey  Pennsylvania  Indicted  2021-02-12\nMatthew Clark  Pennsylvania  Charged  2021-02-12\nPaul Spigelmyer  Pennsylvania  Charged  2021-02-12\nRaechel Genco  Pennsylvania  Charged  2021-02-12\nRussell Peterson  Pennsylvania  Sentenced  2021-02-12\nRichard Michetti  Pennsylvania  Indicted  2021-02-17\nJoseph Fischer  Pennsylvania  Indicted  2021-02-19\nJackson Kostolsky  Pennsylvania  Convicted  2021-02-23\nAnnie Howell  Pennsylvania  Convicted  2021-03-02\nDebra Maimone  Pennsylvania  Charged  2021-03-12\nPhilip Vogel  Pennsylvania  Charged  2021-03-12\nJulian Khater  Pennsylvania  Indicted  2021-03-15\nJennifer Heinl  Pennsylvania  Convicted  2021-03-17\nFrank Scavo  Pennsylvania  Sentenced  2021-03-24\nJeremy Vorous  Pennsylvania  Indicted  2021-03-26\nAnthony Moat  Pennsylvania  Charged  2021-04-07\nMichael Rusyn  Pennsylvania  Convicted  2021-04-09\nLeonard Ridge  Pennsylvania  Sentenced  2021-04-20\nGary Edwards  Pennsylvania  Sentenced  2021-04-23\nBrian Stenz  Pennsylvania  Convicted  2021-04-28\nGary Wickersham  Pennsylvania  Sentenced  2021-05-07\nPauline Bauer  Pennsylvania  Indicted  2021-05-18\nWilliam Blauser  Pennsylvania  Convicted  2021-05-18\nRobert Morss  Pennsylvania  Indicted  2021-06-11\nMitchell Vukich  Pennsylvania  Convicted  2021-06-23\nNicholas Perretta  Pennsylvania  Convicted  2021-06-23\nSamuel Fox  Pennsylvania  Convicted  2021-06-23\nSandra Weyer  Pennsylvania  Charged  2021-06-24\nAlan Byerly  Pennsylvania  Indicted  2021-06-25\nGabriel Brown  Pennsylvania  Charged  2021-06-25\nEdward McAlanis  Pennsylvania  Convicted  2021-07-14\nSamuel Lazar  Pennsylvania  Indicted  2021-07-21\nTara Stottlemyer  Pennsylvania  Indicted  2021-07-28\nDeborah Lee  Pennsylvania  Charged  2021-08-05\nKelly O'Brien  Pennsylvania  Charged  2021-08-12\nJulia Sizer                      Pennsylvania  Convicted  2021-09-02\nCharles Smith  Pennsylvania  Charged  2021-09-08\nMarshall Neefe  Pennsylvania  Charged  2021-09-08\nMichael Dickinson  Pennsylvania  Charged  2021-09-30\nHoward Richardson  Pennsylvania  Indicted  2021-11-22\nMichael Gianos  Pennsylvania  Charged  2021-11-22\nRachel Myers  Pennsylvania  Charged  2021-11-22\nMarcos Panayiotou  Pennsylvania  Charged  2021-11-30\nBrian Healion  Pennsylvania  Charged  2021-12-08\nFreedom Vy  Pennsylvania  Charged  2021-12-08\nIsaiah Giddings  Pennsylvania  Charged  2021-12-08\nTimothy Desjardins  Rhode Island  Charged  2021-11-19\nAndrew Hatley  South Carolina  Sentenced  2021-01-19\nWilliam Norwood  South Carolina  Indicted  2021-02-25\nElias Irizarry  South Carolina  Indicted  2021-03-15\nElliot Bishai  South Carolina  Indicted  2021-03-15\nNicholas Languerand  South Carolina  Convicted  2021-04-15\nJohn Getsinger  South Carolina  Convicted  2021-06-09\nStacie Hargis Getsinger  South Carolina  Convicted  2021-06-09\nDerek Gunby  South Carolina  Charged  2021-06-29\nJames Lollis  South Carolina  Convicted  2021-09-03\nPaul Colbath  South Carolina  Charged  2021-10-20\nJames Haffner  South Dakota  Charged  2021-12-01\nEric Munchel  Tennessee  Indicted  2021-01-10\nMatthew Bledsoe  Tennessee  Indicted  2021-01-15\nJack Griffith  Tennessee  Sentenced  2021-01-16\nBlake Reed  Tennessee  Indicted  2021-01-17\nEric Torrens  Tennessee  Sentenced  2021-01-27\nRonald Sandlin  Tennessee  Indicted  2021-01-28\nJoseph Padilla  Tennessee  Indicted  2021-02-22\nBryan Ivey                      Tennessee  Convicted  2021-03-04\nRonnie Presley  Tennessee  Indicted  2021-03-05\nAlbuquerque Head  Tennessee  Indicted  2021-04-09\nMichael Roche  Tennessee  Charged  2021-04-13\nMichael Timbrook  Tennessee  Charged  2021-04-20\nMatthew Baggott  Tennessee  Charged  2021-05-24\nStewart Parks  Tennessee  Charged  2021-05-24\nClifford Meteer  Tennessee  Charged  2021-08-04\nRonald McAbee  Tennessee  Indicted  2021-08-04\nChristopher Cunningham  Tennessee Charged  2021-08-30\nJoshua Portlock  Tennessee  Charged  2021-10-28\nLarry Brock  Texas  Indicted  2021-01-09\nEliel Rosa  Texas  Sentenced  2021-01-13\nJenny Cudd  Texas  Convicted  2021-01-13\nGuy Reffitt  Texas  Indicted  2021-01-15\nJennifer Ryan  Texas  Sentenced  2021-01-15",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 20,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6182575233266890783",
+        "_score": 2.233,
+        "_source": {
+          "archivedon": "1681560746",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1641438128,
+          "editdate": 1641497043,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 1368,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 21,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1641437787,
+            "from_id": {},
+            "from_name": "s. p.",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "HERE'S A LIST OF PEOPLE THAT PHIL WALDRON WANTED TO USE TO TRY AND GET THINGS DONE, HOW MANY OF THEM HAVE STAYED TRUE TO TRUMP TO THIS DAY? YOU TELL ME. ALSO, THIS IS THE LEVEL THAT THESE CLOWNS WERE WORKING AT WHEN WE KNEW FOR YEARS THAT THE UNIPARTY WAS PLANNING THIS. ...                          SOCIAL MEDIA CONSERVATIVE INFLUENCERS\nCompiled by Christos Makridis and Soula Parassidis\nBig names:\n1. Candace Owens (YouTube 747k, Instagram 3 million, Twitter 2.8 million)\n2. Charlie Kirk (YouTube 356k, Twitter 1.9 million, Instagram 1.5 million)\n3. Hodge Twins (YouTube 1.69 million subs, Instagram 2.3 million)\n4. Officer Tatum (YouTube 1.43 million, Instagram 748k, Twitter 611k)\n5. Ben Shapiro (YouTube 2.5 million, Instagram 2.5 million)\n6. PragerU (YouTube 2.85 million, Instagram 1.5 million)\n7. Dave Rubin (YouTube 1.46 million, Instagram 176k)\n8. Daily Wire (YouTube 2.44 million, Instagram 1 million)\n9. Students for Trump - Ryan Fournier, (Twitter 1.1 million, Instagram 318k)\n10. The Majority Report (Sam Seder) (YouTube 993k, Twitter 168k)\n11. Steven Crowder (YouTube 5 million, Twitter 1.3 million)\n12. Mark Levin (Twitter 2.8 million)\nMedium:\n10. Eric Metaxas (YouTube 186k, Twitter 129k, Instagram 16k)\n11. Brandon Straka - \"Walk Away\" (YouTube 219k, Personal Twitter 665k, Instagram 191k)\n12. Michael Knowles (YouTube 370k, Instagram 158k)\n13. Ron (@codemonkeyZ) (475k Twitter)\nSmall:\n13. Stop the Fraud (Rod) - (Twitter 135k)\n14. Hey Jude (Twitter 148k)\n15. AMErikaGIRL (Twitter 205k)\n16. Bradley Scott (Twitter 281k)\n17. Juanita Broaddrick (Twitter 484k)\n18. Melissa Tate (Twitter 524k)\n19. John Kiss my Bot (Twitter 199k)\n20. Adam Corolla (YouTube 142k)\n21. Trish Regan (YouTube 26.4K, Twitter 745.3K)\nMicro:\n22. Sara Eaglesfield (Twitter, 24k)\n23. Cultural Husbandry (Twitter 30k)\n24. Alison Morrow (YouTube 78K, Twitter 3.5K)\nTIKTOK*** WE have to use TIKTOK!! Content goes VIRAL here like no other platform!!!!! And there are MILLIONS of Trump supporters! It would be amazing if POTUS would use the platform actually - he'd have the biggest account EVER\n20. Conservative Ant (Vito) (574k followers)\n21. Conservative Barbie (846k followers)\n22. Republican Hype House (1.5 million)\n23. Dr. Sara Lorei (86k - fewer followers but she does an amazing Kamala Harris impression)\n24. Matt Convard (young guy, very logical and articulate, 190k followers)\n25. Adam Calhoun (949k) (musical artist, hilarious but swears a lot, rough persona but I think it will connect with many people)\n26. Bryson Gray (213k TIKTOK, 111k YT) - “Donald Trump is your President” - amazing song!!! All his songs for Trump are incredible!\n27. Emmanuel Harouno (279k) - he uses green screen a lot to simply react to facts that are put out, very high engagement and super sympathetic.\n28. The Republican Girls (367k)\n29. Damani Bryant Felder (239k, very funny and extremely high engagement.",
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1484,
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "id": 14367,
+          "noforwards": false,
+          "lastseents": "2023-04-15T12:12:26.751988"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5991532476600687848",
+        "_score": 2.233,
+        "_source": {
+          "archivedon": "2022-01-09 19:25:59.676301",
+          "channeltitle": "Arizona Audit Watch Channel",
+          "channelusername": "AZAuditNews",
+          "date": 1641438289,
+          "editdate": 1641438292,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 1360,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1641437787,
+            "from_id": {},
+            "from_name": "s. p.",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "HERE'S A LIST OF PEOPLE THAT SOME WANTED TO USE TO TRY AND GET THINGS DONE, HOW MANY OF THEM HAVE STAYED TRUE TO TRUMP TO THIS DAY? YOU TELL ME. ALSO, THIS IS THE LEVEL THAT THESE CLOWNS WERE WORKING AT WHEN WE KNEW FOR YEARS THAT THE UNIPARTY WAS PLANNING THIS. ...                          SOCIAL MEDIA CONSERVATIVE INFLUENCERS\nCompiled by Christos Makridis and Soula Parassidis\nBig names:\n1. Candace Owens (YouTube 747k, Instagram 3 million, Twitter 2.8 million)\n2. Charlie Kirk (YouTube 356k, Twitter 1.9 million, Instagram 1.5 million)\n3. Hodge Twins (YouTube 1.69 million subs, Instagram 2.3 million)\n4. Officer Tatum (YouTube 1.43 million, Instagram 748k, Twitter 611k)\n5. Ben Shapiro (YouTube 2.5 million, Instagram 2.5 million)\n6. PragerU (YouTube 2.85 million, Instagram 1.5 million)\n7. Dave Rubin (YouTube 1.46 million, Instagram 176k)\n8. Daily Wire (YouTube 2.44 million, Instagram 1 million)\n9. Students for Trump - Ryan Fournier, (Twitter 1.1 million, Instagram 318k)\n10. The Majority Report (Sam Seder) (YouTube 993k, Twitter 168k)\n11. Steven Crowder (YouTube 5 million, Twitter 1.3 million)\n12. Mark Levin (Twitter 2.8 million)\nMedium:\n10. Eric Metaxas (YouTube 186k, Twitter 129k, Instagram 16k)\n11. Brandon Straka - \"Walk Away\" (YouTube 219k, Personal Twitter 665k, Instagram 191k)\n12. Michael Knowles (YouTube 370k, Instagram 158k)\n13. Ron (@codemonkeyZ) (475k Twitter)\nSmall:\n13. Stop the Fraud (Rod) - (Twitter 135k)\n14. Hey Jude (Twitter 148k)\n15. AMErikaGIRL (Twitter 205k)\n16. Bradley Scott (Twitter 281k)\n17. Juanita Broaddrick (Twitter 484k)\n18. Melissa Tate (Twitter 524k)\n19. John Kiss my Bot (Twitter 199k)\n20. Adam Corolla (YouTube 142k)\n21. Trish Regan (YouTube 26.4K, Twitter 745.3K)\nMicro:\n22. Sara Eaglesfield (Twitter, 24k)\n23. Cultural Husbandry (Twitter 30k)\n24. Alison Morrow (YouTube 78K, Twitter 3.5K)\nTIKTOK*** WE have to use TIKTOK!! Content goes VIRAL here like no other platform!!!!! And there are MILLIONS of Trump supporters! It would be amazing if POTUS would use the platform actually - he'd have the biggest account EVER\n20. Conservative Ant (Vito) (574k followers)\n21. Conservative Barbie (846k followers)\n22. Republican Hype House (1.5 million)\n23. Dr. Sara Lorei (86k - fewer followers but she does an amazing Kamala Harris impression)\n24. Matt Convard (young guy, very logical and articulate, 190k followers)\n25. Adam Calhoun (949k) (musical artist, hilarious but swears a lot, rough persona but I think it will connect with many people)\n26. Bryson Gray (213k TIKTOK, 111k YT) - “Donald Trump is your President” - amazing song!!! All his songs for Trump are incredible!\n27. Emmanuel Harouno (279k) - he uses green screen a lot to simply react to facts that are put out, very high engagement and super sympathetic.\n28. The Republican Girls (367k)\n29. Damani Bryant Felder (239k, very funny and extremely high engagement.",
+          "peerid": {
+            "channel_id": 1395012363,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1388,
+          "channelabout": "Arizona's Official Audit Watch Channel! 🇺🇸\n     \n     SEE SOMETHING, SAY SOMETHING!\nWe need volunteers from all over the world to help us watch audit cameras 24/7! Links below.\n\n⭐️ Channel: @AZAuditNews\n⭐️ Chat: @AZAuditChat\n⭐️ Watch Group: @AZAuditWatc"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565106",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "1681296803",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641469579,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [],
+          "forwards": 83,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Joshua Lollar  Texas  Indicted  2021-01-15\nTroy Smocks  Texas  Sentenced  2021-01-15\nDaniel Adams  Texas  Indicted  2021-01-16\nMatthew Mazzocco  Texas  Sentenced  2021-01-17\nAlex Harkrider  Texas  Indicted  2021-01-18\nRyan Nichols  Texas  Indicted  2021-01-18\nNicholas DeCarlo  Texas  Indicted  2021-01-19\nTam Pham  Texas  Sentenced  2021-01-19\nGarret Miller  Texas  Indicted  2021-01-20\nChristopher Grider  Texas  Indicted  2021-01-21\nNolan Cooke  Texas  Charged  2021-01-21\nChance Uptmore  Texas  Indicted  2021-01-26\nDaniel Phipps  Texas  Indicted  2021-01-26\nJames Uptmore  Texas  Indicted  2021-01-26\nWilmar Alvarado  Texas  Indicted  2021-01-29\nKatherine Schwab  Texas  Charged  2021-02-01\nJason Hyland  Texas  Charged  2021-02-02\nRyan Zink                      Texas  Indicted  2021-02-04\nDaniel Caldwell  Texas  Indicted  2021-02-10\nJoseph Barnes  Texas  Deceased  2021-02-10\nLuke Coffee  Texas  Indicted  2021-02-16\nJeffrey Witcher  Texas  Convicted  2021-02-24\nRichard Barnard  Texas  Convicted  2021-02-24\nTreniss Evans  Texas  Indicted  2021-02-24\nShane Jenkins  Texas  Indicted  2021-03-02\nBenjamin Larocca  Texas  Indicted  2021-03-12\nChristian Cortez  Texas  Indicted  2021-03-12\nKevin Blakely  Texas  Convicted  2021-03-19\nBradley Bennett  Texas  Indicted  2021-03-23\nDavid Judd  Texas  Indicted  2021-03-23\nElizabeth Williams  Texas  Indicted  2021-03-23\nAndrew Morgan  Texas  Indicted  2021-04-02\nSamuel Montoya  Texas  Charged  2021-04-08\nJason Owens  Texas  Charged  2021-04-16\nJalise Middleton  Texas  Indicted  2021-04-21\nMark Middleton  Texas  Indicted  2021-04-21\nSean Watson  Texas  Charged  2021-04-23\nVic Williams  Texas  Convicted  2021-05-10\nKerry Persick  Texas  Charged  2021-05-13\nAdam Weibling  Texas  Charged  2021-05-19\nStacy Hager  Texas  Charged  2021-05-29\nLeonard Gruppo  Texas  Sentenced 2021-06-01\nDarrell Youngers  Texas  Indicted  2021-06-29\nGeorge Tenney  Texas  Indicted  2021-06-29\nThomas Ballard  Texas  Indicted  2021-06-29\nMatthew Dasilva  Texas  Indicted  2021-07-09\nDawn Munn  Texas  Charged  2021-07-12\nJoshua Munn  Texas  Charged  2021-07-12\nKayli Munn  Texas  Charged  2021-07-12\nKristi Munn  Texas  Charged  2021-07-12\nThomas Munn  Texas  Charged  2021-07-12\nAndrew Taake  Texas  Indicted  2021-07-21\nBrian Ulrich  Texas  Indicted  2021-08-04\nSteven Cappuccio  Texas  Indicted  2021-08-12\nJonathon Shroyer  Texas  Charged  2021-08-19\nCory Brannan  Texas  Charged  2021-09-02\nRobert Dennis  Texas  Indicted  2021-10-13\nLandon Mitchell  Texas  Indicted  2021-10-19\nThomas Conover  Texas  Charged  2021-12-03\nDonald Hazard  Texas  Charged  2021-12-07\nLucas Denney  Texas  Charged  2021-12-07\nJohn Sullivan  Utah  Indicted  2021-01-13\nBrady Knowlton  Utah  Indicted  2021-04-01\nMichael Hardin  Utah  Charged  2021-04-02\nWillard Peart  Utah  Charged  2021-04-20\nLandon Copeland  Utah  Indicted  2021-04-29\nJacob Wiedrich  Utah  Convicted  2021-07-21\nJanet Buhler  Utah  Charged  2021-07-28\nGary Wilson  Utah  Charged  2021-09-09\nJacob Fracker  Virginia  Indicted  2021-01-13\nRobert Packer  Virginia  Charged  2021-01-13\nThomas Robertson  Virginia  Indicted  2021-01-13\nEdward Hemenway  Virginia  Sentenced 2021-01-15\nJacob Hiles  Virginia  Sentenced 2021-01-19\nThomas Caldwell  Virginia  Indicted  2021-01-19\nDennis Sidorski  Virginia  Charged  2021-01-20\nMelody Steele-Smith  Virginia  Indicted  2021-01-20\nCindy Fitchett  Virginia  Sentenced  2021-01-21\nDouglas Sweet  Virginia  Sentenced  2021-01-21\nAntionne Brodnax  Virginia  Convicted  2021-02-02\nJonathan Mellis  Virginia  Indicted  2021-02-11\nJeremy Groseclose  Virginia  Indicted  2021-02-25\nFederico Klein  Virginia  Indicted  2021-03-04\nJessica Bustle  Virginia  Sentenced 2021-03-04\nJoshua Bustle  Virginia  Sentenced 2021-03-04\nRyan Suleski  Virginia  Indicted  2021-03-05\nJeffrey McKellop  Virginia  Indicted  2021-03-15\nEric Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Johnson  Virginia  Indicted  2021-04-12\nMichael Adams  Virginia  Charged  2021-04-20\nChristopher Warnagiris  Virginia  Indicted  2021-05-13",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 30624,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1394,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.288755"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565102",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "1681296803",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641469578,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [],
+          "forwards": 60,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Chad Jones  Kentucky  Indicted  2021-01-16\nDamon Beckley  Kentucky  Indicted  2021-01-16\nMichael Sparks  Kentucky  Indicted  2021-01-18\nJordan Revlett  Kentucky  Charged  2021-01-25\nDalton Crase  Kentucky  Convicted  2021-02-01\nTroy Williams  Kentucky  Convicted  2021-02-01\nPeter Schwartz  Kentucky  Indicted  2021-02-04\nClayton Mullins  Kentucky  Indicted  2021-02-23\nLori Vinson  Kentucky  Sentenced 2021-02-23\nThomas Vinson  Kentucky  Sentenced 2021-02-23\nMichael Orangias  Kentucky  Convicted  2021-03-17\nStephen Randolph  Kentucky  Indicted  2021-04-20\nEric Clark                      Kentucky  Charged  2021-04-26\nNicholas Brockhoff  Kentucky  Indicted  2021-05-24\nKurt Peterson  Kentucky  Indicted  2021-06-16\nAntony Vo                      Kentucky  Charged  2021-07-20\nJoseph Irwin  Kentucky  Charged  2021-08-12\nVaughn Gordon  Louisiana  Indicted  2021-01-14\nCody Connell  Louisiana  Indicted  2021-01-16\nKyle Fitzsimons  Maine  Indicted  2021-02-04\nNicholas Hendrix  Maine  Charged  2021-05-27\nChristopher Alberts  Maryland  Indicted  2021-01-07\nNicholas Rodean  Maryland  Indicted  2021-01-13\nBryan Betancur  Maryland  Charged  2021-01-17\nMatthew Miller  Maryland  Indicted  2021-01-25\nAndrew Bennett  Maryland  Sentenced 2021-01-26\nJohn Andries  Maryland  Indicted  2021-01-28\nDaniel Egtvedt  Maryland  Indicted  2021-02-09\nDavid Blair  Maryland  Indicted  2021-02-09\nElias Costianes  Maryland  Indicted  2021-02-12\nRobert Reeder  Maryland  Sentenced 2021-02-24\nJohn Wilkerson  Maryland  Sentenced 2021-03-12\nBrittiany Dillon  Maryland  Sentenced 2021-04-26\nNicole Prado  Maryland  Convicted  2021-06-03\nChristopher Price  Maryland  Charged  2021-07-30\nCynthia Ballenger  Maryland  Charged  2021-07-30\nUliyahu Hayah  Maryland  Charged  2021-08-25\nMatthew Buckler  Maryland  Charged  2021-09-09\nMichael Riley  Maryland  Indicted  2021-10-14\nMark Sahady  Massachusetts  Charged  2021-01-19\nSuzanne Ianni  Massachusetts  Charged  2021-01-19\nBrian McCreary  Massachusetts  Convicted  2021-02-04\nTroy Sargent  Massachusetts  Indicted  2021-03-08\nChase Allen  Massachusetts  Charged  2021-06-30\nNoah Bacon  Massachusetts  Indicted  2021-06-30\nKarl Dresch  Michigan  Sentenced  2021-01-20\nMichael Foy  Michigan  Indicted  2021-01-21\nJames Mels  Michigan  Charged  2021-02-11\nRobert Schornak  Michigan  Convicted  2021-03-16\nDaniel Herendeen  Michigan  Convicted  2021-03-18\nAnthony Williams  Michigan  Indicted  2021-03-24\nJeremy Sorvisto  Michigan  Sentenced  2021-04-05\nJeramiah Caplinger  Michigan  Convicted  2021-04-06\nAnthony Puma  Michigan  Indicted  2021-05-27\nSteven Thurlow  Michigan  Charged  2021-06-24\nTrevor Brown  Michigan  Charged  2021-07-01\nLogan Barnhart  Michigan  Indicted  2021-08-04\nTim Boughner  Michigan  Charged  2021-11-09\nJustin Jersey  Michigan  Indicted  2021-12-02\nJordan Stotts  Minnesota  Sentenced 2021-03-16\nJonah Westbury  Minnesota  Charged  2021-03-29\nVictoria White  Minnesota  Indicted  2021-04-08\nDaniel Johnson  Minnesota  Convicted  2021-06-04\nBrian Mock  Minnesota  Indicted  2021-06-10\nAaron James  Minnesota  Indicted  2021-10-04\nIsaac Westbury  Minnesota  Indicted  2021-10-04\nRobert Westbury  Minnesota  Indicted  2021-10-04\nMichael Brock  Mississippi  Charged  2021-07-14\nThomas Smith  Mississippi  Indicted  2021-09-24\nEmily Hernandez  Missouri  Charged  2021-01-15\nZachary Martin  Missouri  Convicted  2021-01-28\nPaul Westover  Missouri  Convicted  2021-02-04\nWilliam Merry  Missouri  Charged  2021-02-04\nLouis Colon  Missouri  Indicted  2021-02-11\nMichael Quick  Missouri  Convicted  2021-02-12\nStephen Quick  Missouri  Convicted  2021-02-12\nZachary Wilson  Missouri  Convicted  2021-02-12\nNicholas Reimler  Missouri  Sentenced 2021-02-19\nMatthew Loganbill  Missouri  Indicted  2021-03-15\nCarey Walden  Missouri  Convicted  2021-05-21\nJoshua Dressel  Missouri  Charged  2021-06-29\nNicholas Kennedy  Missouri  Indicted  2021-07-23\nIsaac Yoder  Missouri  Charged  2021-07-29\nKelsey Wilson  Missouri  Convicted  2021-08-02\nCara Hentschel  Missouri  Charged  2021-09-22\nMahailya Pryer  Missouri  Charged  2021-09-22",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 31842,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1390,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.292405"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5966960951520480311",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-01-09 22:08:43.460182",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1641458633,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 3317,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1558100823
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "retention laws requiring records to be maintained for 22 months\n• Secretary of State Jocelyn Benson sent a Board of Electors directive on 1\nDecember to all Country Clerks telling them to delete all electronic records\n– in violation of state law records retention\n• Republican Speaker Lee Chatfield called for a subpoena in Wayne County to\nexamine the voting machines – with a due date of January 6th\n• 17,367 Dead Voters – first, middle, last, date, obit\n\nOVERVOTE IN MICHIGAN BY TOWNSHIIP\n Precinct/Township % Turnout\n   City of North Muskegon 781.91%\n Zeeland Charter Township 460.51%\n Grout Township 215.21%\n City of Muskegon 205.07%\n City of Detroit 139.29%\n Spring Lake Township 120.00%\n Greenwood Township 100.00%\n Hart Township 100.00%\n Leavitt Township 100.00%\n Newfield Township 100.00%\n Otto Township 100.00%\n Pentwater Township 100.00%\n Shelby Township 100.00%\n Shelby Township 100.00%\n Weare Township 100.00%\nCity of Hart   100.00%\n Grand Island Township 96.77%\n Tallmadge Charter\nTownship 95.24%\nFenton   93.33%\nBohemia Twp   90.63%\n Zeeland Charter Township 90.59%\n \nPENNSYLVANIA Margin: 68,000 votes\n• 682,777 mail-in votes were counted without a single Republican viewing and verifying the ballots, names, signatures, addresses, dates\n• Secretary of State election results removed from the internet\n• Primary – 1.98m mail-in votes sent out, 2.4m mail-in votes counted\n • Mail-in Ballots Retuned: 1,462,302\n• Mail-in Ballots Not Returned: 360,846\n • Mail Ballots Returned Before Mailed Date: 22,686\n• Mail Ballots Returned on Same Day They Were Mailed: 32,591\n• Mail Ballots Processed for Confirmed Dead: 8,021\n• Mail Ballots Mailed Before They Were Requested: 4,894\n• Mail Ballots Processed Before They Were Requested: 735\nTAKE-AWAYS:\n• Give us access to the voting machines for forensics analyses to determine the accuracy of the vote, and the legitimacy of the ballots\no Our review can determine valid paper, creases from folding for mailing, ink type, whether ballot was filled out by hand or machine\n• Help educate Governors and Legislators as to the extent of the proven fraud\n• Support citizens’ protests coming in the next two weeks against state officials\n• Support our duly-elected President – we WILL win this battle against fraud!\n\nSM CONSERVATIVE INFLUENCERS\nCompiled by Christos Makridis and Soula Parassidis\nBig names:\n1. Candace Owens (YouTube 747k, Instagram 3 million, Twitter 2.8 million) 2. Charlie Kirk (YouTube 356k, Twitter 1.9 million, Instagram 1.5 million)\n3. Hodge Twins (YouTube 1.69 million subs, Instagram 2.3 million)\n4. Officer Tatum (YouTube 1.43 million, Instagram 748k, Twitter 611k)\n5. Ben Shapiro (YouTube 2.5 million, Instagram 2.5 million)\n6. PragerU (YouTube 2.85 million, Instagram 1.5 million)\n7. Dave Rubin (YouTube 1.46 million, Instagram 176k)\n8. Daily Wire (YouTube 2.44 million, Instagram 1 million)\n9. Students for Trump - Ryan Fournier, (Twitter 1.1 million, Instagram 318k) 10. The Majority Report (Sam Seder) (YouTube 993k, Twitter 168k)\n11. Steven Crowder (YouTube 5 million, Twitter 1.3 million)\n12. Mark Levin (Twitter 2.8 million)\nMedium:\n10. Eric Metaxas (YouTube 186k, Twitter 129k, Instagram 16k)\n11. Brandon Straka - \"Walk Away\" (YouTube 219k, Personal Twitter 665k, Instagram 191k) 12. Michael Knowles (YouTube 370k, Instagram 158k)\n13. Ron (@codemonkeyZ) (475k Twitter)\nSmall:\n13. Stop the Fraud (Rod) - (Twitter 135k)\n14. Hey Jude (Twitter 148k)\n15. AMErikaGIRL (Twitter 205k)\n16. Bradley Scott (Twitter 281k)\n17. Juanita Broaddrick (Twitter 484k)\n18. Melissa Tate (Twitter 524k)\n19. John Kiss my Bot (Twitter 199k)\n20. Adam Corolla (YouTube 142k)\n21. Trish Regan (YouTube 26.4K, Twitter 745.3K)\nMicro:\n22. Sara Eaglesfield (Twitter, 24k)\n23. Cultural Husbandry (Twitter 30k)\n24. Alison Morrow (YouTube 78K, Twitter 3.5K)\nTIKTOK*** WE have to use TIKTOK!! Content goes VIRAL here like no other platform!!!!! And there are MILLIONS of Trump supporters! It would be amazing if POTUS would use the platform actually - he'd have the biggest account EVER\n20. Conservative Ant (Vito) (574k followers)\n21.",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 140515
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1558100823,
+            "_v": 1,
+            "access_hash": -7.44704678521278e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Miki",
+            "id": 1558100823,
+            "is_self": false,
+            "last_name": "Ringwald",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 218218,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017700769
+              },
+              "photo_id": 5.1769169435365e+18,
+              "photo_small": {
+                "local_id": 218216,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017700769
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MikiRingwald",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6570927700884589519",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:11.12704",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1641484298,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1390,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Chad Jones  Kentucky  Indicted  2021-01-16\nDamon Beckley  Kentucky  Indicted  2021-01-16\nMichael Sparks  Kentucky  Indicted  2021-01-18\nJordan Revlett  Kentucky  Charged  2021-01-25\nDalton Crase  Kentucky  Convicted  2021-02-01\nTroy Williams  Kentucky  Convicted  2021-02-01\nPeter Schwartz  Kentucky  Indicted  2021-02-04\nClayton Mullins  Kentucky  Indicted  2021-02-23\nLori Vinson  Kentucky  Sentenced 2021-02-23\nThomas Vinson  Kentucky  Sentenced 2021-02-23\nMichael Orangias  Kentucky  Convicted  2021-03-17\nStephen Randolph  Kentucky  Indicted  2021-04-20\nEric Clark                      Kentucky  Charged  2021-04-26\nNicholas Brockhoff  Kentucky  Indicted  2021-05-24\nKurt Peterson  Kentucky  Indicted  2021-06-16\nAntony Vo                      Kentucky  Charged  2021-07-20\nJoseph Irwin  Kentucky  Charged  2021-08-12\nVaughn Gordon  Louisiana  Indicted  2021-01-14\nCody Connell  Louisiana  Indicted  2021-01-16\nKyle Fitzsimons  Maine  Indicted  2021-02-04\nNicholas Hendrix  Maine  Charged  2021-05-27\nChristopher Alberts  Maryland  Indicted  2021-01-07\nNicholas Rodean  Maryland  Indicted  2021-01-13\nBryan Betancur  Maryland  Charged  2021-01-17\nMatthew Miller  Maryland  Indicted  2021-01-25\nAndrew Bennett  Maryland  Sentenced 2021-01-26\nJohn Andries  Maryland  Indicted  2021-01-28\nDaniel Egtvedt  Maryland  Indicted  2021-02-09\nDavid Blair  Maryland  Indicted  2021-02-09\nElias Costianes  Maryland  Indicted  2021-02-12\nRobert Reeder  Maryland  Sentenced 2021-02-24\nJohn Wilkerson  Maryland  Sentenced 2021-03-12\nBrittiany Dillon  Maryland  Sentenced 2021-04-26\nNicole Prado  Maryland  Convicted  2021-06-03\nChristopher Price  Maryland  Charged  2021-07-30\nCynthia Ballenger  Maryland  Charged  2021-07-30\nUliyahu Hayah  Maryland  Charged  2021-08-25\nMatthew Buckler  Maryland  Charged  2021-09-09\nMichael Riley  Maryland  Indicted  2021-10-14\nMark Sahady  Massachusetts  Charged  2021-01-19\nSuzanne Ianni  Massachusetts  Charged  2021-01-19\nBrian McCreary  Massachusetts  Convicted  2021-02-04\nTroy Sargent  Massachusetts  Indicted  2021-03-08\nChase Allen  Massachusetts  Charged  2021-06-30\nNoah Bacon  Massachusetts  Indicted  2021-06-30\nKarl Dresch  Michigan  Sentenced  2021-01-20\nMichael Foy  Michigan  Indicted  2021-01-21\nJames Mels  Michigan  Charged  2021-02-11\nRobert Schornak  Michigan  Convicted  2021-03-16\nDaniel Herendeen  Michigan  Convicted  2021-03-18\nAnthony Williams  Michigan  Indicted  2021-03-24\nJeremy Sorvisto  Michigan  Sentenced  2021-04-05\nJeramiah Caplinger  Michigan  Convicted  2021-04-06\nAnthony Puma  Michigan  Indicted  2021-05-27\nSteven Thurlow  Michigan  Charged  2021-06-24\nTrevor Brown  Michigan  Charged  2021-07-01\nLogan Barnhart  Michigan  Indicted  2021-08-04\nTim Boughner  Michigan  Charged  2021-11-09\nJustin Jersey  Michigan  Indicted  2021-12-02\nJordan Stotts  Minnesota  Sentenced 2021-03-16\nJonah Westbury  Minnesota  Charged  2021-03-29\nVictoria White  Minnesota  Indicted  2021-04-08\nDaniel Johnson  Minnesota  Convicted  2021-06-04\nBrian Mock  Minnesota  Indicted  2021-06-10\nAaron James  Minnesota  Indicted  2021-10-04\nIsaac Westbury  Minnesota  Indicted  2021-10-04\nRobert Westbury  Minnesota  Indicted  2021-10-04\nMichael Brock  Mississippi  Charged  2021-07-14\nThomas Smith  Mississippi  Indicted  2021-09-24\nEmily Hernandez  Missouri  Charged  2021-01-15\nZachary Martin  Missouri  Convicted  2021-01-28\nPaul Westover  Missouri  Convicted  2021-02-04\nWilliam Merry  Missouri  Charged  2021-02-04\nLouis Colon  Missouri  Indicted  2021-02-11\nMichael Quick  Missouri  Convicted  2021-02-12\nStephen Quick  Missouri  Convicted  2021-02-12\nZachary Wilson  Missouri  Convicted  2021-02-12\nNicholas Reimler  Missouri  Sentenced 2021-02-19\nMatthew Loganbill  Missouri  Indicted  2021-03-15\nCarey Walden  Missouri  Convicted  2021-05-21\nJoshua Dressel  Missouri  Charged  2021-06-29\nNicholas Kennedy  Missouri  Indicted  2021-07-23\nIsaac Yoder  Missouri  Charged  2021-07-29\nKelsey Wilson  Missouri  Convicted  2021-08-02\nCara Hentschel  Missouri  Charged  2021-09-22\nMahailya Pryer  Missouri  Charged  2021-09-22",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6570927700884589523",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:11.130485",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1641484349,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1394,
+            "date": 1641469579,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Joshua Lollar  Texas  Indicted  2021-01-15\nTroy Smocks  Texas  Sentenced  2021-01-15\nDaniel Adams  Texas  Indicted  2021-01-16\nMatthew Mazzocco  Texas  Sentenced  2021-01-17\nAlex Harkrider  Texas  Indicted  2021-01-18\nRyan Nichols  Texas  Indicted  2021-01-18\nNicholas DeCarlo  Texas  Indicted  2021-01-19\nTam Pham  Texas  Sentenced  2021-01-19\nGarret Miller  Texas  Indicted  2021-01-20\nChristopher Grider  Texas  Indicted  2021-01-21\nNolan Cooke  Texas  Charged  2021-01-21\nChance Uptmore  Texas  Indicted  2021-01-26\nDaniel Phipps  Texas  Indicted  2021-01-26\nJames Uptmore  Texas  Indicted  2021-01-26\nWilmar Alvarado  Texas  Indicted  2021-01-29\nKatherine Schwab  Texas  Charged  2021-02-01\nJason Hyland  Texas  Charged  2021-02-02\nRyan Zink                      Texas  Indicted  2021-02-04\nDaniel Caldwell  Texas  Indicted  2021-02-10\nJoseph Barnes  Texas  Deceased  2021-02-10\nLuke Coffee  Texas  Indicted  2021-02-16\nJeffrey Witcher  Texas  Convicted  2021-02-24\nRichard Barnard  Texas  Convicted  2021-02-24\nTreniss Evans  Texas  Indicted  2021-02-24\nShane Jenkins  Texas  Indicted  2021-03-02\nBenjamin Larocca  Texas  Indicted  2021-03-12\nChristian Cortez  Texas  Indicted  2021-03-12\nKevin Blakely  Texas  Convicted  2021-03-19\nBradley Bennett  Texas  Indicted  2021-03-23\nDavid Judd  Texas  Indicted  2021-03-23\nElizabeth Williams  Texas  Indicted  2021-03-23\nAndrew Morgan  Texas  Indicted  2021-04-02\nSamuel Montoya  Texas  Charged  2021-04-08\nJason Owens  Texas  Charged  2021-04-16\nJalise Middleton  Texas  Indicted  2021-04-21\nMark Middleton  Texas  Indicted  2021-04-21\nSean Watson  Texas  Charged  2021-04-23\nVic Williams  Texas  Convicted  2021-05-10\nKerry Persick  Texas  Charged  2021-05-13\nAdam Weibling  Texas  Charged  2021-05-19\nStacy Hager  Texas  Charged  2021-05-29\nLeonard Gruppo  Texas  Sentenced 2021-06-01\nDarrell Youngers  Texas  Indicted  2021-06-29\nGeorge Tenney  Texas  Indicted  2021-06-29\nThomas Ballard  Texas  Indicted  2021-06-29\nMatthew Dasilva  Texas  Indicted  2021-07-09\nDawn Munn  Texas  Charged  2021-07-12\nJoshua Munn  Texas  Charged  2021-07-12\nKayli Munn  Texas  Charged  2021-07-12\nKristi Munn  Texas  Charged  2021-07-12\nThomas Munn  Texas  Charged  2021-07-12\nAndrew Taake  Texas  Indicted  2021-07-21\nBrian Ulrich  Texas  Indicted  2021-08-04\nSteven Cappuccio  Texas  Indicted  2021-08-12\nJonathon Shroyer  Texas  Charged  2021-08-19\nCory Brannan  Texas  Charged  2021-09-02\nRobert Dennis  Texas  Indicted  2021-10-13\nLandon Mitchell  Texas  Indicted  2021-10-19\nThomas Conover  Texas  Charged  2021-12-03\nDonald Hazard  Texas  Charged  2021-12-07\nLucas Denney  Texas  Charged  2021-12-07\nJohn Sullivan  Utah  Indicted  2021-01-13\nBrady Knowlton  Utah  Indicted  2021-04-01\nMichael Hardin  Utah  Charged  2021-04-02\nWillard Peart  Utah  Charged  2021-04-20\nLandon Copeland  Utah  Indicted  2021-04-29\nJacob Wiedrich  Utah  Convicted  2021-07-21\nJanet Buhler  Utah  Charged  2021-07-28\nGary Wilson  Utah  Charged  2021-09-09\nJacob Fracker  Virginia  Indicted  2021-01-13\nRobert Packer  Virginia  Charged  2021-01-13\nThomas Robertson  Virginia  Indicted  2021-01-13\nEdward Hemenway  Virginia  Sentenced 2021-01-15\nJacob Hiles  Virginia  Sentenced 2021-01-19\nThomas Caldwell  Virginia  Indicted  2021-01-19\nDennis Sidorski  Virginia  Charged  2021-01-20\nMelody Steele-Smith  Virginia  Indicted  2021-01-20\nCindy Fitchett  Virginia  Sentenced  2021-01-21\nDouglas Sweet  Virginia  Sentenced  2021-01-21\nAntionne Brodnax  Virginia  Convicted  2021-02-02\nJonathan Mellis  Virginia  Indicted  2021-02-11\nJeremy Groseclose  Virginia  Indicted  2021-02-25\nFederico Klein  Virginia  Indicted  2021-03-04\nJessica Bustle  Virginia  Sentenced 2021-03-04\nJoshua Bustle  Virginia  Sentenced 2021-03-04\nRyan Suleski  Virginia  Indicted  2021-03-05\nJeffrey McKellop  Virginia  Indicted  2021-03-15\nEric Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Von Bernewitz  Virginia  Charged  2021-03-24\nPaul Johnson  Virginia  Indicted  2021-04-12\nMichael Adams  Virginia  Charged  2021-04-20\nChristopher Warnagiris  Virginia  Indicted  2021-05-13",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 22,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6052282035928565103",
+        "_score": 1.8459,
+        "_source": {
+          "archivedon": "1681296803",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1641469578,
+          "editdate": 1647104745,
+          "edithide": true,
+          "entities": [],
+          "forwards": 69,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Jonas Buxton  Missouri  Charged  2021-12-08\nHenry Muntzer  Montana  Indicted  2021-01-18\nJerod Hughes  Montana  Indicted  2021-01-28\nJoshua Hughes  Montana  Indicted  2021-01-28\nIsaac Sturgeon  Montana  Indicted  2021-02-05\nBoyd Camper  Montana  Sentenced 2021-03-11\nAndrew Cavanaugh  Montana  Charged  2021-03-15\nNathaniel Degrave  Nevada  Indicted  2021-01-28\nJosiah Kenyon  Nevada  Indicted  2021-11-23\nThomas Gallagher  New Hampshire  Sentenced 2021-01-21\nJason Riddle  New Hampshire  Convicted  2021-02-05\nThomas Baranyi  New Jersey  Indicted  2021-01-12\nTimothy Hale-Cusanelli  New Jersey  Indicted  2021-01-17\nRasha Abual-Ragheb  New Jersey  Sentenced  2021-01-19\nPatrick Stedman  New Jersey  Indicted  2021-01-21\nHector Vargas Santos  New Jersey  Charged  2021-01-22\nMarissa Suarez  New Jersey  Indicted  2021-01-22\nPatricia Todisco  New Jersey  Indicted  2021-01-22\nScott Fairlamb  New Jersey  Sentenced  2021-01-22\nStephanie Hazelton  New Jersey  Charged  2021-01-22\nJames Rahm  New Jersey  Indicted  2021-02-05\nLarry Stackhouse  New Jersey  Charged  2021-03-02\nEzekiel Stecher  New Jersey  Indicted  2021-03-04\nRoberto Minuta  New Jersey  Indicted  2021-03-06\nJames Rahm Jr  New Jersey  Indicted  2021-03-16\nChristopher Quaglin  New Jersey  Indicted  2021-04-06\nRobert Petrosh  New Jersey  Charged  2021-04-29\nShawn Price  New Jersey  Charged  2021-06-08\nDonald Smith  New Jersey  Charged  2021-07-28\nPhilip Young  New Jersey  Charged  2021-07-28\nMick Chan                      New Jersey  Charged  2021-09-07\nLawrence Dropkin  New Jersey  Charged  2021-09-13\nMichael Oliveras  New Jersey  Charged  2021-12-08\nCouy Griffin  New Mexico  Indicted  2021-01-17\nShawn Witzemann  New Mexico  Charged  2021-04-06\nMatthew Martin  New Mexico  Charged  2021-04-22\nAaron Mostofsky  New York  Indicted  2021-01-11\nWilliam Pepe  New York  Indicted  2021-01-12\nPeter Harding  New York  Charged  2021-01-14\nDominic Pezzola  New York  Indicted  2021-01-15\nThomas Fee  New York  Charged  2021-01-15\nBrandon Fellows  New York  Indicted  2021-01-17\nNicolas Moncada  New York  Charged  2021-01-18\nChristopher Kelly  New York  Dismissed  2021-01-20\nRobert Ballesteros  New York  Convicted  2021-01-20\nSamuel Fisher  New York  Charged  2021-01-20\nAlbert Ciarpelli  New York  Charged  2021-01-21\nDominick Madden  New York  Convicted  2021-01-22\nJeffrey Sabol  New York  Indicted  2021-01-22\nBrandon Straka  New York  Convicted  2021-01-25\nWilliam Vogel  New York  Charged  2021-01-25\nBrian Gundersen  New York  Indicted  2021-01-27\nChristopher Ortiz  New York  Charged  2021-01-27\nGreg Rubenacker  New York  Indicted  2021-01-27\nJames Bonet  New York  Convicted  2021-01-27\nJustin Mcauliffe  New York  Convicted  2021-01-28\nPhilip Grillo  New York  Charged  2021-02-21\nThomas Webster  New York  Indicted  2021-02-22\nChristopher Moynihan  New York  Indicted  2021-02-25\nThomas Sibick  New York  Indicted  2021-03-12\nSara Carpenter  New York  Indicted  2021-03-23\nWilliam Tryon  New York  Convicted  2021-03-30\nRobert Chapman  New York  Convicted  2021-04-13\nTraci Sunstrum  New York  Convicted  2021-04-13\nDovid Schwartzberg  New York  Charged  2021-04-16\nJohn Juran  New York  Convicted  2021-04-21\nMatthew Greene  New York  Convicted  2021-04-21\nJonathan Munafo  New York  Indicted  2021-04-23\nEric Bochene  New York  Charged  2021-04-26\nAnton Lunyk  New York  Charged  2021-05-05\nDaniel Warmus  New York  Charged  2021-05-17\nJames Breheny  New York  Charged  2021-05-18\nWilliam Jason Sywak  New York  Charged  2021-05-19\nWilliam Michael Sywak  New York  Charged  2021-05-19\nZvonimir Jurlina  New York  Charged  2021-06-28\nEdward Rodriguez  New York  Indicted  2021-07-09\nDaniel Christmann  New York  Charged  2021-07-16\nAntonio Ferrigno  New York  Charged  2021-08-27\nFrancis Connor  New York  Charged  2021-08-27\nMaryann Mooney-Rondon  New York  Charged  2021-09-01\nRafael Rondon  New York  Charged  2021-09-01\nRichard Watrous  New York  Charged  2021-09-21\nAnthony Vuksanaj  New York  Charged  2021-09-28\nCody Mattice  New York  Charged  2021-10-05\nJames Mault  New York  Charged  2021-10-05",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 31104,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 1391,
+          "noforwards": false,
+          "lastseents": "2023-04-12T11:05:45.289840"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6570927700884589520",
+        "_score": 1.8459,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:11.128096",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1641484311,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1391,
+            "date": 1641469578,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Jonas Buxton  Missouri  Charged  2021-12-08\nHenry Muntzer  Montana  Indicted  2021-01-18\nJerod Hughes  Montana  Indicted  2021-01-28\nJoshua Hughes  Montana  Indicted  2021-01-28\nIsaac Sturgeon  Montana  Indicted  2021-02-05\nBoyd Camper  Montana  Sentenced 2021-03-11\nAndrew Cavanaugh  Montana  Charged  2021-03-15\nNathaniel Degrave  Nevada  Indicted  2021-01-28\nJosiah Kenyon  Nevada  Indicted  2021-11-23\nThomas Gallagher  New Hampshire  Sentenced 2021-01-21\nJason Riddle  New Hampshire  Convicted  2021-02-05\nThomas Baranyi  New Jersey  Indicted  2021-01-12\nTimothy Hale-Cusanelli  New Jersey  Indicted  2021-01-17\nRasha Abual-Ragheb  New Jersey  Sentenced  2021-01-19\nPatrick Stedman  New Jersey  Indicted  2021-01-21\nHector Vargas Santos  New Jersey  Charged  2021-01-22\nMarissa Suarez  New Jersey  Indicted  2021-01-22\nPatricia Todisco  New Jersey  Indicted  2021-01-22\nScott Fairlamb  New Jersey  Sentenced  2021-01-22\nStephanie Hazelton  New Jersey  Charged  2021-01-22\nJames Rahm  New Jersey  Indicted  2021-02-05\nLarry Stackhouse  New Jersey  Charged  2021-03-02\nEzekiel Stecher  New Jersey  Indicted  2021-03-04\nRoberto Minuta  New Jersey  Indicted  2021-03-06\nJames Rahm Jr  New Jersey  Indicted  2021-03-16\nChristopher Quaglin  New Jersey  Indicted  2021-04-06\nRobert Petrosh  New Jersey  Charged  2021-04-29\nShawn Price  New Jersey  Charged  2021-06-08\nDonald Smith  New Jersey  Charged  2021-07-28\nPhilip Young  New Jersey  Charged  2021-07-28\nMick Chan                      New Jersey  Charged  2021-09-07\nLawrence Dropkin  New Jersey  Charged  2021-09-13\nMichael Oliveras  New Jersey  Charged  2021-12-08\nCouy Griffin  New Mexico  Indicted  2021-01-17\nShawn Witzemann  New Mexico  Charged  2021-04-06\nMatthew Martin  New Mexico  Charged  2021-04-22\nAaron Mostofsky  New York  Indicted  2021-01-11\nWilliam Pepe  New York  Indicted  2021-01-12\nPeter Harding  New York  Charged  2021-01-14\nDominic Pezzola  New York  Indicted  2021-01-15\nThomas Fee  New York  Charged  2021-01-15\nBrandon Fellows  New York  Indicted  2021-01-17\nNicolas Moncada  New York  Charged  2021-01-18\nChristopher Kelly  New York  Dismissed  2021-01-20\nRobert Ballesteros  New York  Convicted  2021-01-20\nSamuel Fisher  New York  Charged  2021-01-20\nAlbert Ciarpelli  New York  Charged  2021-01-21\nDominick Madden  New York  Convicted  2021-01-22\nJeffrey Sabol  New York  Indicted  2021-01-22\nBrandon Straka  New York  Convicted  2021-01-25\nWilliam Vogel  New York  Charged  2021-01-25\nBrian Gundersen  New York  Indicted  2021-01-27\nChristopher Ortiz  New York  Charged  2021-01-27\nGreg Rubenacker  New York  Indicted  2021-01-27\nJames Bonet  New York  Convicted  2021-01-27\nJustin Mcauliffe  New York  Convicted  2021-01-28\nPhilip Grillo  New York  Charged  2021-02-21\nThomas Webster  New York  Indicted  2021-02-22\nChristopher Moynihan  New York  Indicted  2021-02-25\nThomas Sibick  New York  Indicted  2021-03-12\nSara Carpenter  New York  Indicted  2021-03-23\nWilliam Tryon  New York  Convicted  2021-03-30\nRobert Chapman  New York  Convicted  2021-04-13\nTraci Sunstrum  New York  Convicted  2021-04-13\nDovid Schwartzberg  New York  Charged  2021-04-16\nJohn Juran  New York  Convicted  2021-04-21\nMatthew Greene  New York  Convicted  2021-04-21\nJonathan Munafo  New York  Indicted  2021-04-23\nEric Bochene  New York  Charged  2021-04-26\nAnton Lunyk  New York  Charged  2021-05-05\nDaniel Warmus  New York  Charged  2021-05-17\nJames Breheny  New York  Charged  2021-05-18\nWilliam Jason Sywak  New York  Charged  2021-05-19\nWilliam Michael Sywak  New York  Charged  2021-05-19\nZvonimir Jurlina  New York  Charged  2021-06-28\nEdward Rodriguez  New York  Indicted  2021-07-09\nDaniel Christmann  New York  Charged  2021-07-16\nAntonio Ferrigno  New York  Charged  2021-08-27\nFrancis Connor  New York  Charged  2021-08-27\nMaryann Mooney-Rondon  New York  Charged  2021-09-01\nRafael Rondon  New York  Charged  2021-09-01\nRichard Watrous  New York  Charged  2021-09-21\nAnthony Vuksanaj  New York  Charged  2021-09-28\nCody Mattice  New York  Charged  2021-10-05\nJames Mault  New York  Charged  2021-10-05",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 20,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

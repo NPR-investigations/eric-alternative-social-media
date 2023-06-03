@@ -1,0 +1,969 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [48],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [12.8378],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5197635942625616444",
+        "_score": 12.8378,
+        "_source": {
+          "archivedon": "2022-12-21 17:15:51.27091",
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "date": 1671633506,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 69,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 135,
+              "offset": 70,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams tells city to mask up due to trifecta of viruses\nhttps://www.washingtontimes.com/news/2022/dec/21/nyc-mayor-eric-adams-tells-city-mask-due-trifecta-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "channel_id": 1210168922,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 77,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4599600813680129500",
+        "_score": 12.6802,
+        "_source": {
+          "archivedon": "2022-12-21 10:53:24.420473",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1671581191,
+          "editdate": 1671581194,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 72,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Mayor Eric Adams delivers remarks at Gracie Mansion Chanukah Reception.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 112674
+          },
+          "silent": true,
+          "v": 1,
+          "views": 806,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5664207495644596918",
+        "_score": 12.1747,
+        "_source": {
+          "archivedon": "2022-12-21 23:39:15.273126",
+          "channelabout": "News, analysis, and opinion from Canada, US and the world. Among North America’s Most-Read News Publishers \nThePostMillennial.com",
+          "channeltitle": "The Post Millennial",
+          "channelusername": "ThePostMillennial",
+          "date": 1671645511,
+          "editdate": 1671645824,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://mr.cdn.ignitecdn.com/client_assets/thepostmillennial_com/media/picture/63a3/466a/5390/4167/676d/5097/original_Adams_NYC_1.jpg?1671644778"
+            },
+            {
+              "length": 65,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 68,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "​Eric Adams parties maskless after urging New Yorkers to 'mask up'\n\nhttps://postmillennialnews.com/1IBdaq",
+          "peerid": {
+            "channel_id": 1318801077,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1353,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6347407316354150867",
+        "_score": 12.0761,
+        "_source": {
+          "archivedon": "2022-12-21 11:32:55.523078",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1671602070,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 176,
+              "offset": 99,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 277,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Adams wants to halve City Council's $563M fund as NYC braces for migrant budget crunch\n\nRead: https://www.dailymail.co.uk/news/article-11560935/Eric-Adams-wants-halve-City-Councils-563M-fund-NYC-braces-migrant-budget-crunch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 52,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5354447101273373593",
+        "_score": 10.5708,
+        "_source": {
+          "archivedon": "2022-12-21 17:44:06.026069",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1671631315,
+          "editdate": 1671631318,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 190,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 79,
+              "offset": 193,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 320,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 342,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 357,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 378,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "This Man and His Mother Were Put in Shackles and Flown to DC and the Gulag - They Were Not Permitted to Talk - A Letter from Jan. 6 Political Prisoner Eric Munchel - Please Donate If You Can \n\nhttps://www.thegatewaypundit.com/2022/12/letter-dc-gulag-prisoner-eric-munchel/\nSource: Gateway Pundit \n\nHelp us spread truth! #MAGA ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1046795
+          },
+          "silent": false,
+          "v": 1,
+          "views": 21,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4599600813680129508",
+        "_score": 10.297,
+        "_source": {
+          "archivedon": "2022-12-21 10:53:24.432065",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1671588842,
+          "editdate": 1671588846,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 156,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Donning a mask, Mayor Eric Adams urged New Yorkers to protect themselves against a swirl of viral illnesses in the city, including Covid-19, flu and R.S.V.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 61062,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1409208710
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1408440219
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 112674
+          },
+          "silent": true,
+          "v": 1,
+          "views": 1684,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6212984250262638181",
+        "_score": 10.297,
+        "_source": {
+          "archivedon": "2022-12-21 07:39:11.392166",
+          "channelabout": "Infographics, videos, memes, and news articles about vaccines, COVID-19, and other pharmaceutical crimes against humanity.",
+          "channeltitle": "COVID-19 Agenda",
+          "channelusername": "COVID19agenda",
+          "date": 1671590965,
+          "editdate": 1671591166,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 156,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 30180,
+            "date": 1671588842,
+            "from_id": {
+              "channel_id": 1070928018,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Donning a mask, Mayor Eric Adams urged New Yorkers to protect themselves against a swirl of viral illnesses in the city, including Covid-19, flu and R.S.V.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1446573122,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "v": 1,
+          "views": 388,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5531535719648209869",
+        "_score": 8.4974,
+        "_source": {
+          "archivedon": "1678127440",
+          "channelabout": "Aquí puede intercambiar información sobre Q\n\nPONER NOTICIAS DE RAFAPAL O DE YOUTUBERS MONETIZADOS HABLANDO DE Q, SERA  EXPULSION INMEDIATA\nAquí no queremos CRIPTOMONEDAS PESADOS¡¡¡\n\nBuzón : @QanonsSpain_bot",
+          "channeltitle": "Q-Anons España 🇪🇸 Dark to Light",
+          "channelusername": "QAnons_Espana",
+          "date": 1671642577,
+          "editdate": 1671642591,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1123321299
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Supongo que el \"Fiscal\" Especial Jack Smith, discípulo de Obama, Biden, Eric Holder, Lisa Monaco, Andrew Weissmann y todos los demás que odian a Trump, está buscando procesar el esfuerzo fraudulento, pero altamente exitoso, realizado por el FBI para cambiar ilegalmente los resultados de las elecciones presidenciales de 2020.",
+          "peerid": {
+            "channel_id": 1287911022,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 503145
+          },
+          "silent": false,
+          "v": 1,
+          "id": 273357,
+          "mediaref": "4bdbeb5e4f6e8858083b4a8aa3793f5fa596b4b5",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.69830998950517e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678127440,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Alicia",
+            "id": 1123321299,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 5.79431394396614e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIEgkLMxlw6nlfaiiikmN7nw=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1678119702
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "lastseents": "2023-03-06T18:30:40.454398",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5798827211108740658",
+        "_score": 6.201,
+        "_source": {
+          "archivedon": "1684238184",
+          "channelabout": "See through the deception 👁\nI stand with humanity NOT PSYOPS! Deprogram👁 \nBe the change you want to see in the world! 🌟Awakened🌟\n‼️BEWARE OF SCAMMERS ‼️IMPERSONATING ME I DONT DM ANYONE NOR DO I SELL BULLSHIT CRYPTO",
+          "channeltitle": "Awakened_144",
+          "channelusername": "awakened_144000",
+          "date": 1671585189,
+          "editdate": 1671586286,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 95,
+              "offset": 466,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 77,
+              "offset": 1131,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 15,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5752,
+            "date": 1671532715,
+            "from_id": {
+              "channel_id": 1162677585,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "In 5D",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "Is Billy Joel next?  Billy Joel Told To Rest After Contracting Viral Infection.  Billy Joel has postponed his final Madison Square Garden concert of the year, after being placed on “vocal rest due to a viral infection”. Billy played his only Australian show on December 10, 2022 in Melbourne. Joel was set to play the 86th show of his residency at the iconic New York venue on Monday night (12.19.22), however, he’s been forced to reschedule the concert to June 2. \nhttps://www.noise11.com/news/billy-joel-told-to-rest-after-contracting-viral-infection-20221220\nBilly Joel Says Eric Clapton’s Anti-Vax Views Are a “Total Shock”.  Joel was asked about Clapton's vaccine stance during a recent appearance on \"Howard Stern\". The topic of Clapton came up while Stern and Joel were discussing Cream, praising the band but pointing out Clapton’s problematic views.\n“Clapton is like one of my heroes, but he got weird with the pandemic,” Stern said. “Did you read about him? He was like one of the guys who was anti-vax?”\n“Yeah, it was a total shock to me,” Joel responded. “I didn’t know what his politics were, but it’s not pleasant.” \nhttps://www.insidehook.com/daily_brief/music/billy-joel-eric-clapton-anti-vax",
+          "peerid": {
+            "channel_id": 1350144672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1169040915,
+            "comments": true,
+            "max_id": 354023,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 904847893
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1598413010
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1591165466
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 686181
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1749,
+          "id": 93746,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 8,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🖕",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "😈",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "lastseents": "2023-05-16T11:56:24.034613",
+          "collected_by": "crawler",
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Music-News.com",
+              "description": "Billy Joel has postponed his final Madison Square Garden concert of the year, after being placed on \"vocal rest due to a viral infection\".",
+              "display_url": "noise11.com/news/billy-joel-told-to-rest-after-contracting-viral-infection-20221220",
+              "hash": 0,
+              "id": 4.07821871039027e+18,
+              "photo": {
+                "access_hash": 6.80434998207303e+18,
+                "date": 1671532633,
+                "dc_id": 4,
+                "file_reference": "AGRjbxQicNkw4SrKFWBC9TdW+q7y",
+                "has_stickers": false,
+                "id": 5.84020844836773e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "AR4ox6XtSU4bcc5zQNDmjZY1cj5W6GmYzVuUgRbOQuM8VDhfLDKTnJB46UAhi4xzRRxgUUjRMZT0UkEjnAzim9eKeszouFIGPamZkmWaIDGSeCT9aa8W1C2f4sYo8+UZ/eN780xnZ/vMT9TTAcBtI+n+FFNTkn6UUikj",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 241,
+                    "size": 17560,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 602,
+                    "size": 86541,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 723,
+                    "w": 960,
+                    "sizes": [9912, 22902, 33676, 55183, 135630]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Noise11.com",
+              "title": "Billy Joel Told To Rest After Contracting Viral Infection",
+              "type": "photo",
+              "url": "https://www.noise11.com/news/billy-joel-told-to-rest-after-contracting-viral-infection-20221220"
+            }
+          },
+          "url": "t.me/awakened_144000/93746"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5090199899812247634",
+        "_score": 3.4259,
+        "_source": {
+          "archivedon": "2022-12-21 16:54:53.711398",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1671628031,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 1774,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 562606,
+            "date": 1671628029,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 562606,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nForwarded from Skeptic Media reports that China is experiencing a massive surge in coronavirus cases after restrictions on Covid-19 were loosened: hospitals are completely overcrowded, crematoria are overwhelmed, and the number of new cases exceeds 10,000 daily.  \n  \nEric Feigl-Ding, an epidemiologist and health economist, has estimated (!) that more than 60 percent of China's population and 10 percent of the world's population could be infected within the next three months, and the number of deaths could be in the millions (source)\n  \nKorea urged to prepare for new Covid-19 variants coming out of China (source) FirstpostChina in grip of Covid spike: What we know about new omicron variant BF.7 According to health officials, omicron strain BF.7 is the main variant spreading in Beijing, and is contributing to a wider surge of Covid infections in China.\n\n=======\nORIGINAL :\nForwarded from Скептик  СМИ сообщают, что после ослабления ограничений на Covid-19 Китай переживает массовый всплеск заболеваемости коронавирусом: больницы полностью переполнены, крематории перегружены, а число новых случаев ежедневно превышает 10 000.  \n  \nЭрик Фейгл-Динг, эпидемиолог и экономист в области здравоохранения, подсчитал (!), что в течение следующих трех месяцев более 60 процентов населения Китая и 10 процентов населения Земли могут быть инфицированы, а число смертей может исчисляться миллионами (источник)  \n  \nКорею призывают подготовиться к новым вариантам Covid-19, идущим из Китая (источник)   FirstpostChina in grip of Covid spike: What we know about new omicron variant BF.7 According to health officials, omicron strain BF.7 is the main variant spreading in Beijing, and is contributing to a wider surge of Covid infections in China.\n=======\nSOURCE :\nhttps://t.me/spletnicca/8216\nСплетница",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 993726
+          },
+          "silent": false,
+          "v": 1,
+          "views": 3,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5729645067610719945",
+        "_score": 2.469,
+        "_source": {
+          "archivedon": "2022-12-21 12:25:57.140892",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "date": 1671600110,
+          "edithide": false,
+          "entities": [],
+          "forwards": 48,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1549856523
+          },
+          "fwdfrom": {
+            "channel_post": 6062,
+            "date": 1671578820,
+            "from_id": {
+              "channel_id": 1508207239,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Alright, proof read is done, I still need to finish up 4 more small historical notes and then I can color-code and format the finished PDF.\n\nI also have all of the entries for the legend from Oct+Nov 2017 isolated:\n\n—————————\n187 - Police Code for Homicide\n4,10,20 - DJT or Donald John Trump\nA. Cooper - Anderson Cooper (CNN on-air personality)\nA. Merkel - Angela Merkel (German Chancellor)\naddy - Adress\nAF1 - Air Force 1\nAG Sessions - Jeff Sessions (1st Attorney General under Trump)\nAW - Former Congressman Anthony Weiner (Husband of Huma Abedin)\nAdm R - Admiral Mike Rodgers\nAlwaleed - Prince Alwaleed bin Talal\nAwan - Imran Awan (Former IT employee for the House Democrats)\nBC - Bill Clinton\nBO - Barack Obama\nBOD - Board of Drectors\nBP - Border Patrol\nBetsy D - Betsy DeVos (Secretary of Education)\nBob - Robert Mueller (Russiagate Special Counsel)\nC - Classified\nC Wray - Christopher Wray (FBI Director under Trump)\nCF - Clinton Foundation\nCS - Senator Chuck Schumer?\nComey - James Comey (Former FBI director under Obama and Trump)\nD or A - Dead or Alive\nD's - Democrats\nDI -Defense Intelligence (a sub-department of the British Ministry of Defence)\nDNC - Democratic National Committee\nDOE - Department of Energy\nDonna - Donna Brazil (former Acting Chair of the Democratic National Committee)\nf2f - Face to Face\nFB - Facebook\nFED - Federal Reserve\nFOIA - Freedom of Information Act\nFlynn - General Mike Flynn\nGER - Germany\nGS - George Soros\nGrassley - Senator Chuck Grassley\nH - Haiti\nHI - Hawaii\nHRC - Hillary Rodham CLinton\nHS - Homeland Security\nHolder - Eric Holder (Former Attorney General under Obama)\nHuma/HUMA - Huma Abedin/Harvard University Muslim Alumni\nICBM - Inter-Continental Ballistic Missile\nISIS - Islamic State of Iraq and Syria\nJK - Jared Kushner (Son-in-Law of and Senior Advisor to President Trump)\nJohn M - Senator John McCain\nKKK - Ku Klux Klan\nKim - North Korean Supreme Leader Kin Jong Un\nLARP - Live Action Role Play\nLV - Las Vegas\nLynch - Loretta Lynch (Former Attorney General under Obama)\nMB - Muslim Brotherhood\nMI - Military Intelligence\nMSM - Mainstream Media\nMW - Congresswoman Maxine Waters\nMaxine W - Congresswoman Maxine Waters\nMerkel - Angela Merkel (German Chancellor)\nMueller - Robert Mueller (Russiagate Special Counsel)\nNAT SEC E - National Security E (Emergency?)\nNG - National Guard\nNK - North Korea\nNP - Non-Profit\nNPO - Non-Profit Organization\nOS comm - *Possible typo for \"AS comm\" (Armed Services Committee)\nPAK - Pakistan\nPM - Prime Minister\nPOS - Piece of Shit\nPOTUS - President of the Unted States\nPodesta - John Podesta (or Tony Podesta?)\nR's - Republicans\nRC -  Registered Charity? (In reference to George Soros's Open Society Foundations)\nRM - Robert Mueller (Russiagate Special Counsel)\nRR - Rod Rosenstein (Deputy Attorney General)\nRod - Rod Rosenstein (Deputy Attorney General)\nRoth's - The Rothschilds\nSA - Saudi Arabia\nSAPs - Special Access Programs\nSC - Supreme Court\nSK - South Korea\nSS - Secret Service\nST - ? (unclear from context)\nSoros - George Soros\nU1 - Uranium One (US-based uranium mining company sold to the Russian government)\nUBL - Usama (Osama) bin Laden\nUS M's - US Marines\nUSSS - United States Secret Service\nVJ - Valerie Jarrett (Obama Senior Advisor)\nWH - White House\nWK - Wikileaks\nWW - Worldwide\nxkeysc - XKeyscore ( NSA Internet data scanning computer system)",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 134495
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1597,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 6.76061522303589e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Heather",
+            "id": 1549856523,
+            "is_self": false,
+            "last_name": "Wallace",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "HEwouldlovefirst",
+            "verified": false,
+            "_id": 1549856523,
+            "restriction_reason": []
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

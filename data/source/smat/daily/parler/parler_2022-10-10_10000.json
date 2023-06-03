@@ -1,0 +1,74 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [22],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [7.1706],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "bb2b1493-e5f7-440f-8021-06528dca7624",
+        "_score": 7.1706,
+        "_source": {
+          "ad": false,
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "It is mind-boggling that NYC found someone worse than Bill de Blasio for Mayor. Eric Adams had one job, to be better than Bill de Blasio and he failed miserably.",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2022-10-10T00:12:30.000000Z",
+          "createdAtformatted": "2022-10-10T00:12:30.000000Z",
+          "creator": "dc4da115b33642099839117b436d1df8",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "bb2b1493-e5f7-440f-8021-06528dca7624",
+          "image": "https://bl-images.parler.com/images/f5/c1/f5c1be55-4efe-4aeb-ba9a-0b524b92d684.jpg",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-10-17T02:07:14.749263+00:00",
+          "name": "Eddie",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/bb2b1493-e5f7-440f-8021-06528dca7624",
+          "state": 0,
+          "suggested": false,
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2022-10-10T00:12:34.000000Z",
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "dc4da115b33642099839117b436d1df8",
+          "useridraw": "dc4da115-b336-4209-9839-117b436d1df8",
+          "username": "OldSchoolEddie",
+          "verified": true,
+          "views": 1
+        }
+      }
+    ]
+  }
+}

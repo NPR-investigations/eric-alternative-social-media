@@ -1,0 +1,1081 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [40],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [11.6314],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6086674381688437530",
+        "_score": 11.6314,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634780920,
+          "post": true,
+          "views": 164,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "https://thenationalpulse.com/exclusive/eric-adams-met-with-cpaffc/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1431409795,
+            "replies_pts": 678922,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 66,
+              "offset": 0
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634780849,
+          "edithide": true,
+          "postauthor": "Aries",
+          "archivedon": "2021-10-21 02:28:37.333255",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5111396602799471818",
+        "_score": 11.4498,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634828705,
+          "post": true,
+          "views": 1293,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Like Scott Adams, Eric Weinstein is a complete retard",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1190089761
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 1406,
+            "date": 1634828576,
+            "from_id": {
+              "channel_id": 1312525807,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1634828634,
+          "edithide": true,
+          "groupedid": 1.30786296437798e+16,
+          "postauthor": "Your Moderator, Chris Paul",
+          "archivedon": "1680233905",
+          "channelabout": "Information stream via Chris Paul, host of Be Reasonable: with Your Moderator Chris Paul\n\nAll links here:\n\nhttps://linktr.ee/imyourmoderator",
+          "channeltitle": "Be Reasonable Podcast info stream (Chris Paul)",
+          "channelusername": "imyourmoderator",
+          "id": 15562,
+          "mediaref": "3920c2ced29a776ea67dbecff078065a854a9ef3",
+          "noforwards": false,
+          "lastseents": "2023-03-31T03:38:25.682126",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6347407316354098515",
+        "_score": 11.3122,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634818170,
+          "post": true,
+          "views": 150,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Zemmour posts picture of the Queen holding a rifle\n\nRead: https://www.dailymail.co.uk/news/article-10115917/Eric-Zemmour-posts-picture-Queen-holding-rifle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1477870931
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 55,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 143,
+              "offset": 63,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 208,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 219,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 219,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-03 06:01:41.981176",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6086674381688437529",
+        "_score": 10.7817,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634780354,
+          "post": true,
+          "views": 153,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Can we get a round of applause for Eric Adams, ladies and gentlemen",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1431409795,
+            "replies_pts": 678920,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634780299,
+          "edithide": true,
+          "postauthor": "Ramblin",
+          "archivedon": "2021-10-21 02:28:37.331779",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4985421256343018665",
+        "_score": 10.6278,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634795969,
+          "post": true,
+          "views": 293,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Mayor Eric Garcetti to Unvaccinated L.A. City Workers: Get Vaccinated or 'Lose Your Job'",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1160758840
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.breitbart.com/politics/2021/10/20/mayor-garcetti-unvaccinated-la-city-workers-vaccinated-lose-job/",
+              "length": 88,
+              "offset": 0
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 06:09:47.413098",
+          "channelabout": "News, commentary, and destruction of the political/media establishment.\n\nbreitbart.com",
+          "channeltitle": "Breitbart",
+          "channelusername": "Breitbart",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5413482113951339944",
+        "_score": 10.4375,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634843859,
+          "post": true,
+          "views": 49,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Striker just shared this photo. Somebody should remind Eric that Jose Rivera despised national socialism, and he called it racial idolatry.\n\nJose Rivera supported bringing back the Spanish empire, and working with Indians and mestizos to further the interests of Hispanic civilization.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1260424525
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634845099,
+          "edithide": false,
+          "archivedon": "2021-10-21 19:42:59.34325",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6086674381688437528",
+        "_score": 10.3341,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634780324,
+          "post": true,
+          "views": 193,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Outside of Rockefeller Plaza, rallies for Eric Adams and Curtis Sliwa ahead of their debate tonight",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1431409795,
+            "replies_pts": 678918,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 2,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634780308,
+          "edithide": true,
+          "postauthor": "Ramblin",
+          "archivedon": "2021-10-21 02:28:37.331839",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5766449673162226678",
+        "_score": 9.6727,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634817006,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1709694477
+          },
+          "message": "We should also protest near the areas of where the elections are being held ! Eric ADAMS cannot and SHALL NOT win.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1342606189
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 50665,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 12:57:20.720828",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6226418139165365434",
+        "_score": 9.319,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634797161,
+          "post": true,
+          "views": 94,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Damn Eric Adams got btfo by Sliwa. NYC votes 7-1 Democrat so it doesn't matter. But good on this guy. \n\nhttps://youtu.be/FeDy4REX_lU",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1449700943
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 28,
+              "offset": 104
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 06:47:23.067872",
+          "channeltitle": "Tony Hovater",
+          "channelusername": "Tony_Hovater",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6290698938999647162",
+        "_score": 9.319,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634839053,
+          "post": true,
+          "views": 656,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Damn Eric Adams got btfo by Sliwa. NYC votes 7-1 Democrat so it doesn't matter. But good on this guy. \n\nhttps://youtu.be/FeDy4REX_lU",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1464667483
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 28,
+              "offset": 104
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "channel_post": 5306,
+            "date": 1634797161,
+            "from_id": {
+              "channel_id": 1449700943,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 19:03:26.280831",
+          "channelabout": "Official Telegram of Eric Striker",
+          "channeltitle": "Eric Striker",
+          "channelusername": "EricStrikerTRS",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5378176409036396154",
+        "_score": 9.2074,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634847153,
+          "post": true,
+          "views": 125,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Someone on Twitter, ask Eric and Steven how you can be both \"trans\" and intersex at the same time. Thanks. https://twitter.com/EricRWeinstein/status/1451072395456880651",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1252204275
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 4187,
+            "replies": 4,
+            "comments": true,
+            "channel_id": 1596640471,
+            "replies_pts": 4581,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 676637267
+              },
+              {
+                "reformatted_key": "PeerChannel",
+                "channel_id": 1596640471
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1264814640
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 61,
+              "offset": 107
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634847116,
+          "edithide": true,
+          "archivedon": "2021-10-21 20:43:41.127725",
+          "channeltitle": "Communism Kills",
+          "channelusername": "communismkills",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6094192163594892734",
+        "_score": 9.0687,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634780087,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1542211324
+          },
+          "message": "My take is this... wasn't Eric Holder held in contempt of Congress after Fast and Furious?.. short answer: yes... Did it have any effect on Eric Holder..? Short answer.. No... we call that precedence in legal terms... and the cabal LOVES precedence... I got a feeling theres a whole lot of precedence about to be stomped into the collective butthole of what is currently called congress..",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1418914684
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 716006
+          },
+          "edithide": false,
+          "archivedon": "2021-10-21 02:08:35.571678",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5197635942625606060",
+        "_score": 8.4121,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634856073,
+          "post": true,
+          "views": 284,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Dan Patrick, Texas GOP leader, pays voter fraud 'bounty' to Democrat tipster Eric Frank\nhttps://www.washingtontimes.com/news/2021/oct/21/dan-patrick-texas-gop-leader-pays-voter-fraud-boun/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1210168922
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 135,
+              "offset": 88,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-02 01:39:07.538019",
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6094192163594893212",
+        "_score": 6.7971,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634815508,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2083327655
+          },
+          "message": "🇺🇸 GREAT NEWS for all TRUMP supporters🇺🇸\n\nEric Trump©️ about to launch shocking information on his brand new Telegram channel.\n 🚀 Get ready for a BOMBASTIC NEWS on this channel!\n Justice is coming soon.\n\nLet's see how many real patriots we have on TELEGRAM!🦅\n\n▪️JOIN THIS CHANNEL : @officialerictrump ✔️\nhttps://t.me/officialerictrump/3",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1418914684
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 288
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 32,
+              "offset": 310
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 718664
+          },
+          "edithide": false,
+          "archivedon": "2021-10-21 12:01:28.611716",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6432984586971552540",
+        "_score": 6.2054,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634781225,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2061537521
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n⚠️     IMPORTANT      ⚠️\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @realericftrump ✅\n✅ @realericftrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1497795942
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 15,
+              "offset": 359,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 15,
+              "offset": 379,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 39490
+          },
+          "edithide": false,
+          "archivedon": "2022-03-05 18:59:48.986934",
+          "channeltitle": "JuliansRum Chat",
+          "channelusername": "juliansrumchat",
+          "userinfo": {
+            "_id": 2061537521,
+            "_v": 1,
+            "access_hash": 4.17602351641583e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2061537521,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6432984586971552539",
+        "_score": 6.2054,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634781222,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2061537521
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n⚠️     IMPORTANT      ⚠️\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @realericftrump ✅\n✅ @realericftrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1497795942
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 15,
+              "offset": 359,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 15,
+              "offset": 379,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 39597
+          },
+          "edithide": false,
+          "archivedon": "2022-03-05 18:59:48.9858",
+          "channeltitle": "JuliansRum Chat",
+          "channelusername": "juliansrumchat",
+          "userinfo": {
+            "_id": 2061537521,
+            "_v": 1,
+            "access_hash": 4.17602351641583e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2061537521,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5982241349942904961",
+        "_score": 3.4521,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634807104,
+          "post": true,
+          "views": 683,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Quality farm equipment is getting hard to find amid the supply chain shortage, many farmers and experts said, and its scarcity is driving up prices and raising questions about whether farmers' harvests and next year's planting season could be affected.\n\nSome farmers are concerned that the shortage could grow worse after 10,000 John Deere workers went on strike last week. The company had reported record profits this year, and United Auto Workers union members walked off the job at 14 manufacturing plants when it refused to raise wages above 6 percent.\n\n\"It's got us worried for sure,\" said Eric Hopkins, the senior vice president of Hundley Farms, which boasts 20,000 acres of mostly vegetables in central Florida. \"They're already low on inventory and parts right now. A strike is only going to exacerbate things, make it worse. If it lasts for a while, not only will they not have new tractors, but when you have a breakdown and there's no parts, your tractor is just going to sit there not being able to harvest or plant a crop.\"\n\n#WarOnFarms #SupplyChain\n\nhttps://www.msn.com/en-us/news/us/supply-chain-shortage-is-driving-up-prices-farmers-are-worried-it-could-grow-worse/ar-AAPGZGB",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1392849104
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 184578,
+            "replies": 3,
+            "comments": true,
+            "channel_id": 1483709665,
+            "replies_pts": 230271,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1389050798
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1977568276
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 252,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 289
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 31,
+              "offset": 557
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 317,
+              "offset": 720
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 11,
+              "offset": 1039
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 12,
+              "offset": 1051
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 127,
+              "offset": 1065
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634807110,
+          "edithide": false,
+          "archivedon": "2021-10-21 09:13:59.321612",
+          "channelabout": "Warmth, abundance, knowledge.",
+          "channeltitle": "Ice Age Farmer",
+          "channelusername": "iceagefarmer",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5235557432947714922",
+        "_score": 2.25,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634795328,
+          "post": true,
+          "views": 4559,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "„Megyn Kelly EVISCERATES Biden And Fauci Over Vaccine Mandates - 'I'm So Sick Of This Bullsh*t' [VIDEOS]“\n\nhttps://www.redvoicemedia.com/2021/10/megyn-kelly-eviscerates-biden-and-fauci-over-vaccine-mandates-im-so-sick-of-this-bullsht-videos/\n\n„Diese Woche meldete sich die frühere Fox News-Moderatorin Megyn Kelly zu Wort, um Präsident Joe Biden und Dr. Anthony Fauci wegen der Impfstoff- und Maskenpflicht zurechtzuweisen, und sagte, sie habe \"die Nase voll von diesem Schwachsinn\".\n\nIn ihrer Radiosendung auf Sirius XM am Dienstag sprach Kelly über die ESPN-Reporterin Allison Williams, die den Sender wegen des Impfstoffmandats verlassen hat. Anschließend ging sie auf Faucis Äußerungen zu der Frage ein, ob die Amerikaner in diesem Jahr gemeinsam in den Urlaub fahren können.\n\nEs liegt an Fauci, zu sagen: 'Hmm, ich entscheide, ob ihr Weihnachten habt, ich entscheide, ob ihr Thanksgiving habt'\", erklärte Kelly im Gespräch mit ihrem Gast Eric Bolling in dem unten stehenden Video.\n\n\"Nein, das werdet ihr nicht, das werdet ihr nicht entscheiden\", rief sie aus. \"Wir werden selbst entscheiden. Wir brauchen dich nicht, um uns zu sagen, ob wir uns an Weihnachten mit unserer Familie treffen sollen. Ich habe diesen Schwachsinn so satt. Diese Bundesbürokraten denken, dass sie jeden unserer Schritte kontrollieren können.\"\n\nDamit nicht genug, fuhr Kelly fort, die Idee der Maskenpflicht für Kinder zu kritisieren.\n\n\"Sie halten meinen Kindern bereits den ganzen Tag in der Schule diese unnötigen Masken vor den Mund\", sagte Kelly. \"Die eigene Studie der CDC zeigt, dass sie die Ausbreitung von COVID bei Kindern im schulischen Umfeld nicht verhindern. Eine Tatsache, die sie nicht anerkennen wollen.\"\n\n\"In der Zwischenzeit fährt die Biden-Administration damit fort, ihre eigenen Mandate für uns alle zu missachten\", fuhr sie fort. \"Der Präsident und Frau Biden waren erst letztes Wochenende in einem Restaurant in D.C., wo man im Restaurant eine Maske tragen muss.\n\n\"Diese blöde Regel, dass man sie auf dem Gesicht tragen muss, wenn man reinkommt und zu seinem Tisch geht\", fügte Kelly hinzu. \"Man kann sie am Tisch abnehmen. Der Virus weiß auf magische Weise, dass er nur an deinem Tisch bleibt und nicht auf die Leute überspringt, die das Restaurant verlassen oder auf die Toilette gehen. Es ist lächerlich.\"\n\n\"Aber hey, es ist sein Team, das uns diese Dinge aufzwingt\", erklärte sie. \"Wenn ich es tun muss, muss er es auch tun. Aber wie sich herausstellte, hat er es nicht getan, und Frau Biden auch nicht. Sie verließen das Restaurant vor aller Augen und trugen keine Masken\".\n\nKelly schloss mit den Worten, dass die Tatsache, dass Biden die Regeln \"missachtet\", zeige, dass selbst er \"weiß, dass es Blödsinn ist, selbst er weiß, dass das alles nur Theater ist.\"“",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1218998207
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 134,
+              "offset": 107
+            }
+          ],
+          "forwards": 36,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 06:17:43.373431",
+          "channelabout": "Dies ist der öffentliche, kostenlose Kanal von Oliver Janich. Unterstützung und exklusive Inhalte über Premium-Abo: https://t.me/JanichSupport_Bot | Nur meine Videos: https://t.me/OliverJanichtopnews | Webseite: https://www.oliverjanich.de",
+          "channeltitle": "Oliver Janich öffentlich",
+          "channelusername": "oliverjanich",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5998564867072622628",
+        "_score": 2.25,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634808119,
+          "post": true,
+          "views": 26,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "„Megyn Kelly EVISCERATES Biden And Fauci Over Vaccine Mandates - 'I'm So Sick Of This Bullsh*t' [VIDEOS]“\n\nhttps://www.redvoicemedia.com/2021/10/megyn-kelly-eviscerates-biden-and-fauci-over-vaccine-mandates-im-so-sick-of-this-bullsht-videos/\n\n„Diese Woche meldete sich die frühere Fox News-Moderatorin Megyn Kelly zu Wort, um Präsident Joe Biden und Dr. Anthony Fauci wegen der Impfstoff- und Maskenpflicht zurechtzuweisen, und sagte, sie habe \"die Nase voll von diesem Schwachsinn\".\n\nIn ihrer Radiosendung auf Sirius XM am Dienstag sprach Kelly über die ESPN-Reporterin Allison Williams, die den Sender wegen des Impfstoffmandats verlassen hat. Anschließend ging sie auf Faucis Äußerungen zu der Frage ein, ob die Amerikaner in diesem Jahr gemeinsam in den Urlaub fahren können.\n\nEs liegt an Fauci, zu sagen: 'Hmm, ich entscheide, ob ihr Weihnachten habt, ich entscheide, ob ihr Thanksgiving habt'\", erklärte Kelly im Gespräch mit ihrem Gast Eric Bolling in dem unten stehenden Video.\n\n\"Nein, das werdet ihr nicht, das werdet ihr nicht entscheiden\", rief sie aus. \"Wir werden selbst entscheiden. Wir brauchen dich nicht, um uns zu sagen, ob wir uns an Weihnachten mit unserer Familie treffen sollen. Ich habe diesen Schwachsinn so satt. Diese Bundesbürokraten denken, dass sie jeden unserer Schritte kontrollieren können.\"\n\nDamit nicht genug, fuhr Kelly fort, die Idee der Maskenpflicht für Kinder zu kritisieren.\n\n\"Sie halten meinen Kindern bereits den ganzen Tag in der Schule diese unnötigen Masken vor den Mund\", sagte Kelly. \"Die eigene Studie der CDC zeigt, dass sie die Ausbreitung von COVID bei Kindern im schulischen Umfeld nicht verhindern. Eine Tatsache, die sie nicht anerkennen wollen.\"\n\n\"In der Zwischenzeit fährt die Biden-Administration damit fort, ihre eigenen Mandate für uns alle zu missachten\", fuhr sie fort. \"Der Präsident und Frau Biden waren erst letztes Wochenende in einem Restaurant in D.C., wo man im Restaurant eine Maske tragen muss.\n\n\"Diese blöde Regel, dass man sie auf dem Gesicht tragen muss, wenn man reinkommt und zu seinem Tisch geht\", fügte Kelly hinzu. \"Man kann sie am Tisch abnehmen. Der Virus weiß auf magische Weise, dass er nur an deinem Tisch bleibt und nicht auf die Leute überspringt, die das Restaurant verlassen oder auf die Toilette gehen. Es ist lächerlich.\"\n\n\"Aber hey, es ist sein Team, das uns diese Dinge aufzwingt\", erklärte sie. \"Wenn ich es tun muss, muss er es auch tun. Aber wie sich herausstellte, hat er es nicht getan, und Frau Biden auch nicht. Sie verließen das Restaurant vor aller Augen und trugen keine Masken\".\n\nKelly schloss mit den Worten, dass die Tatsache, dass Biden die Regeln \"missachtet\", zeige, dass selbst er \"weiß, dass es Blödsinn ist, selbst er weiß, dass das alles nur Theater ist.\"“",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1396649719
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 134,
+              "offset": 107
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 76650,
+            "date": 1634795328,
+            "from_id": {
+              "channel_id": 1218998207,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 09:59:14.130058",
+          "channelabout": "Kanal für aktuelle und historische Informationen \nvor und hinter dem Vorhang der Macht.\n\nÜberparteilich, unabhängig, \ngegen jede Art von Desinformation und Medienpropaganda.\n\nFür politische Transparenz, Gerechtigkeit \nund wahre Freiheit der Menschen",
+          "channeltitle": "CONTRACOMA",
+          "channelusername": "contracoma",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6334189859443329935",
+        "_score": 2.25,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634807599,
+          "post": true,
+          "views": 1772,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "„Megyn Kelly EVISCERATES Biden And Fauci Over Vaccine Mandates - 'I'm So Sick Of This Bullsh*t' [VIDEOS]“\n\nhttps://www.redvoicemedia.com/2021/10/megyn-kelly-eviscerates-biden-and-fauci-over-vaccine-mandates-im-so-sick-of-this-bullsht-videos/\n\n„Diese Woche meldete sich die frühere Fox News-Moderatorin Megyn Kelly zu Wort, um Präsident Joe Biden und Dr. Anthony Fauci wegen der Impfstoff- und Maskenpflicht zurechtzuweisen, und sagte, sie habe \"die Nase voll von diesem Schwachsinn\".\n\nIn ihrer Radiosendung auf Sirius XM am Dienstag sprach Kelly über die ESPN-Reporterin Allison Williams, die den Sender wegen des Impfstoffmandats verlassen hat. Anschließend ging sie auf Faucis Äußerungen zu der Frage ein, ob die Amerikaner in diesem Jahr gemeinsam in den Urlaub fahren können.\n\nEs liegt an Fauci, zu sagen: 'Hmm, ich entscheide, ob ihr Weihnachten habt, ich entscheide, ob ihr Thanksgiving habt'\", erklärte Kelly im Gespräch mit ihrem Gast Eric Bolling in dem unten stehenden Video.\n\n\"Nein, das werdet ihr nicht, das werdet ihr nicht entscheiden\", rief sie aus. \"Wir werden selbst entscheiden. Wir brauchen dich nicht, um uns zu sagen, ob wir uns an Weihnachten mit unserer Familie treffen sollen. Ich habe diesen Schwachsinn so satt. Diese Bundesbürokraten denken, dass sie jeden unserer Schritte kontrollieren können.\"\n\nDamit nicht genug, fuhr Kelly fort, die Idee der Maskenpflicht für Kinder zu kritisieren.\n\n\"Sie halten meinen Kindern bereits den ganzen Tag in der Schule diese unnötigen Masken vor den Mund\", sagte Kelly. \"Die eigene Studie der CDC zeigt, dass sie die Ausbreitung von COVID bei Kindern im schulischen Umfeld nicht verhindern. Eine Tatsache, die sie nicht anerkennen wollen.\"\n\n\"In der Zwischenzeit fährt die Biden-Administration damit fort, ihre eigenen Mandate für uns alle zu missachten\", fuhr sie fort. \"Der Präsident und Frau Biden waren erst letztes Wochenende in einem Restaurant in D.C., wo man im Restaurant eine Maske tragen muss.\n\n\"Diese blöde Regel, dass man sie auf dem Gesicht tragen muss, wenn man reinkommt und zu seinem Tisch geht\", fügte Kelly hinzu. \"Man kann sie am Tisch abnehmen. Der Virus weiß auf magische Weise, dass er nur an deinem Tisch bleibt und nicht auf die Leute überspringt, die das Restaurant verlassen oder auf die Toilette gehen. Es ist lächerlich.\"\n\n\"Aber hey, es ist sein Team, das uns diese Dinge aufzwingt\", erklärte sie. \"Wenn ich es tun muss, muss er es auch tun. Aber wie sich herausstellte, hat er es nicht getan, und Frau Biden auch nicht. Sie verließen das Restaurant vor aller Augen und trugen keine Masken\".\n\nKelly schloss mit den Worten, dass die Tatsache, dass Biden die Regeln \"missachtet\", zeige, dass selbst er \"weiß, dass es Blödsinn ist, selbst er weiß, dass das alles nur Theater ist.\"“",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1474793502
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 134,
+              "offset": 107
+            }
+          ],
+          "forwards": 24,
+          "fwdfrom": {
+            "channel_post": 76650,
+            "date": 1634795328,
+            "from_id": {
+              "channel_id": 1218998207,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-21 10:21:53.426039",
+          "channelabout": "Kontakt: team@kulturstudio.info\n\nUNTERSTÜTZE DEIN KULTURSTUDIO\n▶ PAYPAL\nhttp://paypal.me/kulturstudio\noder\nhttps://t.me/suporterKS/4",
+          "channeltitle": "Kulturstudio.tv",
+          "channelusername": "Kulturstudio",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

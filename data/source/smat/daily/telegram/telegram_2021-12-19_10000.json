@@ -1,0 +1,387 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [28],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [5],
+      "relation": ["eq"]
+    },
+    "max_score": [11.8207],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6204561351243730067",
+        "_score": 11.8207,
+        "_source": {
+          "archivedon": "2022-02-11 06:37:57.107878",
+          "channeltitle": "[S] MZG / Freiheitsboten Merzig - offene Startgruppe",
+          "channelusername": "FreiheitsbotenMerzigStart",
+          "date": 1639956171,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 3,
+              "reformatted_key": "MessageEntityPhone"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 300860929
+          },
+          "message": "👤 1057954720 changed name from Eric Segura to ES SLS",
+          "peerid": {
+            "channel_id": 1444612013,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 10955
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 300860929,
+            "_media_ref": "4de0a0a97cc58e9519b2392595b42c1e062cb6ff",
+            "_v": 1,
+            "access_hash": -1.44068481630482e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 14,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "SangMata",
+            "id": 300860929,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 189251,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 852110547
+              },
+              "photo_id": 1.29218785115542e+18,
+              "photo_small": {
+                "local_id": 189249,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 852110547
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "SangMata_BOT",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5686521886562151606",
+        "_score": 11.8207,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:16.133774",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1639945121,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1594365504
+          },
+          "message": "BREAKING!! Fisher Price has just released Eric Trump’s phone records.",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1709115
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1594365504,
+            "_v": 1,
+            "access_hash": -5.16544380847517e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marcus",
+            "id": 1594365504,
+            "is_self": false,
+            "last_name": "Strong",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 32688,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "photo_id": 5.17923181923989e+18,
+              "photo_small": {
+                "local_id": 32686,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5583450097456259920",
+        "_score": 11.3942,
+        "_source": {
+          "archivedon": "2022-08-02 02:52:47.081685",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1639939312,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 135,
+              "offset": 88,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "message": "In the Ongoing Mask Mandate Battle, Missouri AG Eric Schmitt Makes the Case for Freedom\nhttps://redstate.com/smoosieq/2021/12/19/in-the-ongoing-mask-mandate-battle-missouri-ag-eric-schmitt-makes-the-case-for-freedom-n493806",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1495
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5686521886562151402",
+        "_score": 11.3191,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:15.921702",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1639931823,
+          "editdate": 1639931841,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1606326836
+          },
+          "message": "Do you feel bad for Floyd, oscar grant, eric garner, or Trayvon Martin?",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 355303,
+            "reply_to_top_id": 353134
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1606326836,
+            "_v": 1,
+            "access_hash": 8.70923940310543e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Paul",
+            "id": 1606326836,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Pparlerq17",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6204561351243730055",
+        "_score": 7.9772,
+        "_source": {
+          "archivedon": "2022-02-11 06:37:59.91492",
+          "channeltitle": "[S] MZG / Freiheitsboten Merzig - offene Startgruppe",
+          "channelusername": "FreiheitsbotenMerzigStart",
+          "date": 1639954636,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1057954720
+          },
+          "message": "Hallo, ich bin Eric aus Saarlouis. Gerne würde auch ich mich einbringen und nicht nur Couch patatoe spielen. 🙂 ... Auch meine / unsere rote Linie ist längst erreicht. Wir müssen aufstehen und handeln, solange sich noch etwas bewegen läßt. Heute in SB war schon mal toll....",
+          "peerid": {
+            "channel_id": 1444612013,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 3209,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 10955
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1057954720,
+            "_media_ref": "9f13c748d9010e04ccb409562c5a04be83c73198",
+            "_v": 1,
+            "access_hash": -8.887681287681e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dodde",
+            "id": 1057954720,
+            "is_self": false,
+            "last_name": "lää",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 105219,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200600400742
+              },
+              "photo_id": 4.54388092350508e+18,
+              "photo_small": {
+                "local_id": 105217,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200600400742
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ES_SLS",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

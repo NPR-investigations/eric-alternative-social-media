@@ -1,0 +1,1158 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [43],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [16],
+      "relation": ["eq"]
+    },
+    "max_score": [14.1824],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5767153021301559831",
+        "_score": 14.1824,
+        "_source": {
+          "archivedon": "1680909609",
+          "channelabout": "",
+          "channeltitle": "The Authority",
+          "channelusername": "AlexanderQPatriot",
+          "date": 1663470482,
+          "editdate": 1663470731,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 4631,
+          "mediaref": "16d8d05b71174e52c81169d315d5834e12898a22",
+          "message": "Thanks Eric.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342769950,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Authority",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 47,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 20,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 12,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤣",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤮",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 4858,
+          "lastseents": "2023-04-07T23:20:09.429309",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6347407316354134713",
+        "_score": 11.7841,
+        "_source": {
+          "archivedon": "2022-09-19 04:22:12.478549",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1663534190,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 300,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 311,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 311,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Adams REJECTS Greg Abbott's invitation to border: NYC mayor says Texas gov refused cooperation\n\nRead: https://www.dailymail.co.uk/news/article-11225187/Eric-Adams-REJECTS-Greg-Abbotts-invitation-border-NYC-mayor-says-Texas-gov-refused-cooperation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 95,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6008661385997973032",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-18 19:34:08.188605",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1663467583,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1995206836
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Life came so easy when I started investing with him, thanks to those who recommended his testimony how they got paid from your company I tried and am doing the same ERIC ZIMMER",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 259605
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1995206836,
+            "_v": 1,
+            "access_hash": -3.04927557949006e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Ronnie",
+            "id": 1995206836,
+            "is_self": false,
+            "last_name": "Grayson",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 396796,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400323400759
+              },
+              "photo_id": 5.76933406628025e+18,
+              "photo_small": {
+                "local_id": 396794,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400323400759
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ronniegrayson",
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6395918709969417147",
+        "_score": 9.0759,
+        "_source": {
+          "archivedon": "2022-09-18 20:17:10.468962",
+          "channelabout": "An unofficial channel of the Epoch Times, an independent, award-winning voice in print & online integrity & truthfulness in reporting.",
+          "channeltitle": "Epoch Times",
+          "channelusername": "EpochTimesChannel",
+          "date": 1663523018,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 123,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 153,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 23,
+              "offset": 233,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "“Over 11,000 individuals, asylum seekers and migrants have come to the city already,” Adams said. 6 more buses filled with #IllegalImmigrants arrived in #NewYorkCity on Sunday morning as Democrat Mayor Eric Adams condemned the move. https://t.co/rjQxCbh65A",
+          "peerid": {
+            "channel_id": 1489165870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 41,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6876470377241908154",
+        "_score": 9.0759,
+        "_source": {
+          "archivedon": "2022-09-19 01:50:24.287539",
+          "channelabout": "Pro-Freedom Citizen Journalist \nTelegram: https://t.me/chiefnerd\nRumble: https://rumble.com/c/ChiefNerd\nGETTR: https://www.gettr.com/user/chiefnerd \nTruth Social: https://truthsocial.com/@chiefnerd",
+          "channeltitle": "Chief Nerd",
+          "channelusername": "chiefnerd",
+          "date": 1663512595,
+          "editdate": 1663512624,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 207,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 38,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 11685,
+            "date": 1663511092,
+            "from_id": {
+              "channel_id": 1687072719,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "@realmacreport",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Jon Karl: \"You pledged during your campaign to keep New York City a 'sanctuary city.' Do you have any concern that that policy is attracting more people to cross the border?\"\n\nEric Adams: \"No, not at all.\"\n\n@dailyrealtimenews",
+          "peerid": {
+            "channel_id": 1601053024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1686210190,
+            "comments": true,
+            "max_id": 658418,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1508282554
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1576266380
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1553514214
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 53,
+            "replies_pts": 1114151
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 13746,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5630636802898432507",
+        "_score": 8.9899,
+        "_source": {
+          "archivedon": "2022-09-18 21:33:46.118291",
+          "channelabout": "International security and conflict research \n\n❗Fast and accurate coverage of relevant events",
+          "channeltitle": "Intel Slava | Osint research",
+          "channelusername": "intelslava",
+          "date": 1663493203,
+          "edithide": false,
+          "entities": [],
+          "forwards": 166,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇪🇺🇭🇺⚡The European Commission is considering a freeze of up to 65% of payments to Hungary under three main programs from the EU cohesion fund, which is about 7.5 billion euros, said European Commission spokesman Eric Mamer.",
+          "peerid": {
+            "channel_id": 1310984791,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 84739,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5397614048038677852",
+        "_score": 8.9057,
+        "_source": {
+          "archivedon": "2022-09-18 22:20:27.057803",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A",
+          "date": 1663537996,
+          "editdate": 1663537996,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 267,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FGNews07"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC-Bürgermeister Eric Adams: „Die republikanische Partei hat eine Blaupause geschaffen, der alle zu folgen beginnen. Es ist unmenschlich, wenn ein Gouverneur Einwanderer ohne jegliche Koordination nach Martha's Vineyard schickt, es schafft nur eine echte Krise.“\n\n⚡️FGNews Folgen⚡️",
+          "peerid": {
+            "channel_id": 1256729953,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 413,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5090199899812100226",
+        "_score": 8.7426,
+        "_source": {
+          "archivedon": "2022-09-18 16:31:02.707555",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1663495386,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 250,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 415222,
+            "date": 1663495385,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 415222,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\n⚡️The European Commission is considering freezing up to 65% of payments to Hungary under the three main programs from the EU cohesion fund, which amounts to about 7.5 billion euros, said European Commission spokesman Eric Mamer.\nLink : https://t.me/bbbreaking/135574",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 765286
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5090199899812100273",
+        "_score": 8.5861,
+        "_source": {
+          "archivedon": "2022-09-18 16:31:04.489562",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1663497141,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 29,
+              "offset": 248,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 415269,
+            "date": 1663497138,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 415269,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\n🇪🇺🇭🇺⚡The European Commission is considering a freeze of up to 65% of payments to Hungary under three main programs from the EU cohesion fund, which is about 7.5 billion euros, said European Commission spokesman Eric Mamer.\nLink : https://t.me/intelslava/37371",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 765286
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6957458123116252999",
+        "_score": 6.5621,
+        "_source": {
+          "archivedon": "2022-09-19 00:00:31.885037",
+          "channelabout": "All important military or social events in Ukraine",
+          "channeltitle": "Military events in Ukraine",
+          "channelusername": "military_events_in_Ukraine",
+          "date": 1663496881,
+          "editdate": 1663497070,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 57,
+              "offset": 9,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 44,
+              "offset": 305,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.3307970770805e+16,
+          "mediaref": "e6d3fad8a3e649c92606d534239e6ad601b707d1",
+          "message": "🇭🇺🇺🇦 Orban predicted Ukraine will lose half of its territory\n\nAccording to the Hungarian prime minister, the conflict in Ukraine was a local event, but after the intervention of the West, it escalated into full-scale hostilities at the global level.\n\nMeanwhile, the European Commission is considering a freeze of up to 65% of payments to Hungary under three major programs from the EU cohesion fund, which amounts to about 7.5 billion euros, said European Commission spokesman Eric Mamer.",
+          "peerid": {
+            "channel_id": 1619909453,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1408,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "4589158519822882689",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "1679134255",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "date": 1663502636,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 770,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 783,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6017,
+          "mediaref": "e99d91795300115a6c80f7609d9eefd93e0436af",
+          "message": "Bussed-in Immigrants Bring Big Apple to “Breaking Point”, claims Mayor\n\n11,000 migrants shipped in from Texas in protest over Joe Biden’s liberal border policy are being inadequately housed, NYC Mayor Eric Adams has admitted  - a failure bringing the threat of legal action. \n\n“In this new and unforeseen reality … the city's system is nearing its breaking point,” Mayor Adams said in a statement. “As a result, the city's prior practices… must be reassessed.”\n\nLegal Aid NY slammed the failure, noting the city has numerous places for shelter, which it guarantees under right-to-shelter laws. “'We are extremely alarmed by the frequency of these violations under this administration. Any New Yorker … is legally entitled to placement,\" the group said in a statement. \n\nSubscribe to https://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 20926,
+          "lastseents": "2023-03-18T10:29:00.841031",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "4585130905651124060",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "1679105417",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "date": 1663502638,
+          "editdate": 1663510422,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 770,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 783,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 5980,
+          "mediaref": "e99d91795300115a6c80f7609d9eefd93e0436af",
+          "message": "Bussed-in Immigrants Bring Big Apple to “Breaking Point”, claims Mayor\n\n11,000 migrants shipped in from Texas in protest over Joe Biden’s liberal border policy are being inadequately housed, NYC Mayor Eric Adams has admitted  - a failure bringing the threat of legal action. \n\n“In this new and unforeseen reality … the city's system is nearing its breaking point,” Mayor Adams said in a statement. “As a result, the city's prior practices… must be reassessed.”\n\nLegal Aid NY slammed the failure, noting the city has numerous places for shelter, which it guarantees under right-to-shelter laws. “'We are extremely alarmed by the frequency of these violations under this administration. Any New Yorker … is legally entitled to placement,\" the group said in a statement. \n\nSubscribe to https://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 21075,
+          "lastseents": "2023-03-18T02:10:17.568152",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5764665659711559635",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "1680896119",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1663502578,
+          "editdate": 1663502582,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 770,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 783,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6099,
+          "mediaref": "e99d91795300115a6c80f7609d9eefd93e0436af",
+          "message": "Bussed-in Immigrants Bring Big Apple to “Breaking Point”, claims Mayor\n\n11,000 migrants shipped in from Texas in protest over Joe Biden’s liberal border policy are being inadequately housed, NYC Mayor Eric Adams has admitted  - a failure bringing the threat of legal action. \n\n“In this new and unforeseen reality … the city's system is nearing its breaking point,” Mayor Adams said in a statement. “As a result, the city's prior practices… must be reassessed.”\n\nLegal Aid NY slammed the failure, noting the city has numerous places for shelter, which it guarantees under right-to-shelter laws. “'We are extremely alarmed by the frequency of these violations under this administration. Any New Yorker … is legally entitled to placement,\" the group said in a statement. \n\nSubscribe to https://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27906
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 21713,
+          "lastseents": "2023-04-07T19:35:19.793260",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "4902471006767028640",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "1683708598",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "date": 1663502581,
+          "editdate": 1663502584,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 770,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 783,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6560,
+          "mediaref": "e99d91795300115a6c80f7609d9eefd93e0436af",
+          "message": "Bussed-in Immigrants Bring Big Apple to “Breaking Point”, claims Mayor\n\n11,000 migrants shipped in from Texas in protest over Joe Biden’s liberal border policy are being inadequately housed, NYC Mayor Eric Adams has admitted  - a failure bringing the threat of legal action. \n\n“In this new and unforeseen reality … the city's system is nearing its breaking point,” Mayor Adams said in a statement. “As a result, the city's prior practices… must be reassessed.”\n\nLegal Aid NY slammed the failure, noting the city has numerous places for shelter, which it guarantees under right-to-shelter laws. “'We are extremely alarmed by the frequency of these violations under this administration. Any New Yorker … is legally entitled to placement,\" the group said in a statement. \n\nSubscribe to https://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 21559,
+          "lastseents": "2023-05-10T08:49:58.585194",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/6560"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6382476312736436449",
+        "_score": 4.6268,
+        "_source": {
+          "archivedon": "2022-09-19 03:51:45.949997",
+          "channeltitle": "Pure Politics",
+          "channelusername": "Pure_Politics",
+          "date": 1663530394,
+          "editdate": 1663530937,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 151,
+              "offset": 863,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 22,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 95239,
+            "date": 1663424758,
+            "from_id": {
+              "channel_id": 1346350333,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "An autopsy report revealed by the Detroit News has shown that the FBI executed an alleged “domestic terrorist” in Michigan days before they rolled out their phony Whitmer kidnapping plot.\n\n43-year-old Eric Mark-Matthew Allport was shot once in the back and three times in the head as FBI agents confronted him in the parking lot of a Madison Heights steakhouse. One FBI agent was wounded during the ambush. The FBI and the Oakland County Medical Examiner’s Office attempted to keep details about the case hidden from the public, but the Detroit News obtained the autopsy report following an appeal.\n\nOct. 2, 2020 — just days before the fake Whitmer kidnapping was rolled out in an October surprise meant to influence the presidential election. Allport was riddled with bullet holes by the FBI as they supposedly attempted to apprehend him on illegal gun charges.\nhttps://bigleaguepolitics.com/autopsy-shows-fbi-agents-executed-domestic-terrorist-in-michigan-days-before-fake-whitmer-kidnapping-plot-was-rolled-out/",
+          "peerid": {
+            "channel_id": 1486036068,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Greyson",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1430763294,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 66498
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 516,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939754876",
+        "_score": 4.6268,
+        "_source": {
+          "archivedon": "2022-09-18 21:45:55.487178",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1663476751,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 151,
+              "offset": 863,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 95239,
+            "date": 1663424758,
+            "from_id": {
+              "channel_id": 1346350333,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "An autopsy report revealed by the Detroit News has shown that the FBI executed an alleged “domestic terrorist” in Michigan days before they rolled out their phony Whitmer kidnapping plot.\n\n43-year-old Eric Mark-Matthew Allport was shot once in the back and three times in the head as FBI agents confronted him in the parking lot of a Madison Heights steakhouse. One FBI agent was wounded during the ambush. The FBI and the Oakland County Medical Examiner’s Office attempted to keep details about the case hidden from the public, but the Detroit News obtained the autopsy report following an appeal.\n\nOct. 2, 2020 — just days before the fake Whitmer kidnapping was rolled out in an October surprise meant to influence the presidential election. Allport was riddled with bullet holes by the FBI as they supposedly attempted to apprehend him on illegal gun charges.\nhttps://bigleaguepolitics.com/autopsy-shows-fbi-agents-executed-domestic-terrorist-in-michigan-days-before-fake-whitmer-kidnapping-plot-was-rolled-out/",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 3,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

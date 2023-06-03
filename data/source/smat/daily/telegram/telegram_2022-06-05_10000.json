@@ -1,0 +1,1411 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [13],
+      "relation": ["eq"]
+    },
+    "max_score": [13.834],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5658366997252093250",
+        "_score": 13.834,
+        "_source": {
+          "archivedon": "1680797727",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1654397337,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1435349508
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 79170,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ERIC strikes again!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 79163,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -9.16239234843612e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680797727,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "MAGA Randall",
+            "id": 1435349508,
+            "is_self": false,
+            "last_name": "Wengair",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.12322094457433e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgItZPm4x369sUUUUDP",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1680751663
+            },
+            "support": false,
+            "username": "wengair",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-06T16:15:27.057583"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5202185657316838333",
+        "_score": 12.2488,
+        "_source": {
+          "archivedon": "1679053672",
+          "channelabout": "Join America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. \n\nhttps://foxnews.com \n\n—————————————————— \n\nUnofficial",
+          "channeltitle": "Fox News",
+          "channelusername": "FoxNewsTG",
+          "date": 1654434260,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 92,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 94,
+              "offset": 100,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 196,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 207,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 207,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 35773,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "New York Post",
+              "description": "New York City Mayor Adams praised the NYPD’s thoroughness in ensuring the right person was arrested for the murder of a Chinese food delivery man.",
+              "display_url": "foxnews.com/us/new-york-eric-adams-applauds-nypd-suspect-killing-food-delivery-man",
+              "hash": 718422471,
+              "id": 7.36282381986284e+18,
+              "photo": {
+                "access_hash": -6.60342957864733e+18,
+                "date": 1654344176,
+                "dc_id": 4,
+                "file_reference": "AGQUU2a5ejSnS20TMv1tY0FCixPU",
+                "has_stickers": false,
+                "id": 5.82903602725006e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoygtOCU5cZ5qxG6KuNqtnuRWliLlfy6aUq95qdfLjH4VG8iFCoRAfUDmiwk/MplaKlbGeKKLDuRBqUPRRU3HYd5lNL0UU7isIWooopXKP",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 8557,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 324,
+                    "w": 576,
+                    "sizes": [3022, 5166, 7931, 12460, 17906]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Fox News",
+              "title": "Mayor Eric Adams applauds NYPD over handling of suspect accused of killing food delivery man",
+              "type": "photo",
+              "url": "https://www.foxnews.com/us/new-york-eric-adams-applauds-nypd-suspect-killing-food-delivery-man"
+            }
+          },
+          "message": "Mayor Eric Adams applauds NYPD over handling of suspect accused of killing food delivery man\n\nREAD: https://www.foxnews.com/us/new-york-eric-adams-applauds-nypd-suspect-killing-food-delivery-man\n\nSubscribe: @FoxNewsTG",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1211228235,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 257,
+          "lastseents": "2023-03-17T11:47:55.181996"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6549819053316244591",
+        "_score": 11.9718,
+        "_source": {
+          "archivedon": "1682377901",
+          "channelabout": "",
+          "channeltitle": "Thomas Massie",
+          "channelusername": "RepThomasMassie",
+          "date": 1654445641,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 89,
+              "offset": 145,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1135,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.theguardian.com/profile/edpilkington",
+              "description": "Attorney general first sitting cabinet member to be held in contempt as 17 Democrats join Republicans to pass resolution",
+              "display_url": "theguardian.com/world/2012/jun/28/eric-holder-contempt-historic-congress-vote",
+              "hash": 0,
+              "id": 1.49197879580633e+18,
+              "photo": {
+                "access_hash": 7.03102031567905e+18,
+                "date": 1636753933,
+                "dc_id": 4,
+                "file_reference": "AGRHDJTt4oULRW9sQlpPSsQ45NAo",
+                "has_stickers": false,
+                "id": 5.79986793797528e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUoy8VNaYF0mRkZpIIxLLhiQMZ4qdrVQN8bksOcY7VBZYuT5sTZAHGRWaKvhC9s8o6jgIB74qmfQrhh17U0hNogbrRU5hQxM4kG4H7uKKYFmVFij3IuMe9RLdOiqeDzjmiiqaRKbNXcZlWQfJx061nzT+VcvhAWxgk96KKwpfxJDlsV5JUfOIgpPcGiiiusyA==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 13305,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 242,
+                    "w": 460,
+                    "sizes": [2863, 6453, 10487, 14087, 19207]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "the Guardian",
+              "title": "Eric Holder held in contempt of Congress after historic vote",
+              "type": "photo",
+              "url": "https://www.theguardian.com/world/2012/jun/28/eric-holder-contempt-historic-congress-vote"
+            }
+          },
+          "message": "The criminal contempt resolution against Eric Holder passed by 255 to 67 with 17 democrats joining 238 republicans. Why was he never arrested?\n\n\nhttps://www.theguardian.com/world/2012/jun/28/eric-holder-contempt-historic-congress-vote",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1524998586,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1817,
+          "lastseents": "2023-04-24T23:11:41.533559"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "4499882234391576652",
+        "_score": 10.8174,
+        "_source": {
+          "archivedon": "2022-06-05 17:51:57.309233",
+          "channelabout": "Analysis and Commentary on Current Events —  4GW and Economic Collapse with a dash of Freedoms and Civil Rights. Chat: @ActionableTruth or @wokeintelchat",
+          "channeltitle": "Truth: Harder to Find",
+          "channelusername": "exposingthelies",
+          "date": 1654446312,
+          "editdate": 1654446315,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 51,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 366,
+            "date": 1654446070,
+            "from_id": {
+              "channel_id": 1189398247,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "This is why Eric Coomer was confident when he said \"Trump won’t win. I made fucking sure of that.”",
+          "peerid": {
+            "channel_id": 1047710477,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1458450017,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 140321
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 27
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5603308265296365208",
+        "_score": 10.8174,
+        "_source": {
+          "archivedon": "1680768369",
+          "channelabout": "Georgia Election Audit general news and political updates!",
+          "channeltitle": "Georgia Election Audit Updates",
+          "channelusername": "GAelectionaudit",
+          "date": 1654446919,
+          "editdate": 1656206780,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 51,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 366,
+            "date": 1654446070,
+            "from_id": {
+              "channel_id": 1189398247,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 1688,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "This is why Eric Coomer was confident when he said \"Trump won’t win. I made fucking sure of that.”",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1304621870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 284,
+          "lastseents": "2023-04-06T08:06:09.013276",
+          "mediaref": "f3015b2ac8f7d4a3489b94083096bebebece7e98"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6944441348552401895",
+        "_score": 4.6109,
+        "_source": {
+          "archivedon": "1682992272",
+          "channelabout": "America is the only place on earth founded and dedicated on the principles laid out by God. We are under attack because of it. We will win. We must put on the armor of God every day and fight his battles.",
+          "channeltitle": "The Colonel’s Corner🦅🦅🦅",
+          "channelusername": "ColonelWatkins",
+          "date": 1654452655,
+          "editdate": 1654452906,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 239,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 507,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 564,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 43956,
+            "date": 1654451099,
+            "from_id": {
+              "channel_id": 1264643776,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Brian Cates",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 9191,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Now, it might be a shock to some people to find out that the private spies Hillary Clinton hired in 2016 were spying on Trump family members, but that just means those people haven't been listening to me for the past 5 years.  \n\nI've said all along the evidence pointed to the entire Trump family being spied on.  \n\nThe entire Trump family is: \n\n1. Donald J. Trump\n2. Melania Trump\n3. Donald Trump Jr. and his wife\n4. Jared Kushner\n5. Ivanka Trump\n6. Barron Trump\n7. Eric Trump and his wife\n\nWhen I've said they spied on the Trump family I meant they spied on the entire Trump family.  \n\nEven when Barron Trump was 10 years old they were looking for his electronic comms data to spy on it.  \n\nThey were spying on the entire Trump transition team members and their families.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1616878749,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Colonel Roxane ⭐️⭐️⭐️ Towner-Watkins The Colonel’s Corner",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1512196517,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 112354
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 168,
+          "lastseents": "2023-05-02T01:51:12.794547",
+          "collected_by": "crawler",
+          "url": "t.me/ColonelWatkins/9191"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "4989848298178283623",
+        "_score": 4.6109,
+        "_source": {
+          "archivedon": "2022-06-05 18:36:48.411691",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1654451206,
+          "editdate": 1654451210,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 239,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 507,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 564,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 41,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 43956,
+            "date": 1654451099,
+            "from_id": {
+              "channel_id": 1264643776,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Brian Cates",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Now, it might be a shock to some people to find out that the private spies Hillary Clinton hired in 2016 were spying on Trump family members, but that just means those people haven't been listening to me for the past 5 years.  \n\nI've said all along the evidence pointed to the entire Trump family being spied on.  \n\nThe entire Trump family is: \n\n1. Donald J. Trump\n2. Melania Trump\n3. Donald Trump Jr. and his wife\n4. Jared Kushner\n5. Ivanka Trump\n6. Barron Trump\n7. Eric Trump and his wife\n\nWhen I've said they spied on the Trump family I meant they spied on the entire Trump family.  \n\nEven when Barron Trump was 10 years old they were looking for his electronic comms data to spy on it.  \n\nThey were spying on the entire Trump transition team members and their families.",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Brian Cates",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 5579095,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1508632058
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1472073611
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1412859088
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 18,
+            "replies_pts": 7529101
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 5283
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5146429555816283842",
+        "_score": 4.6109,
+        "_source": {
+          "archivedon": "1680319041",
+          "channelabout": "Digital Soldiers fighting against the mainstream media so the truth will prevail!",
+          "channeltitle": "Q+Anon Map 🍊🇺🇸",
+          "channelusername": "QAnonMap",
+          "date": 1654459652,
+          "editdate": 1654460452,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 239,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 507,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 564,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 18,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 43956,
+            "date": 1654451099,
+            "from_id": {
+              "channel_id": 1264643776,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Brian Cates",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 16066,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Now, it might be a shock to some people to find out that the private spies Hillary Clinton hired in 2016 were spying on Trump family members, but that just means those people haven't been listening to me for the past 5 years.  \n\nI've said all along the evidence pointed to the entire Trump family being spied on.  \n\nThe entire Trump family is: \n\n1. Donald J. Trump\n2. Melania Trump\n3. Donald Trump Jr. and his wife\n4. Jared Kushner\n5. Ivanka Trump\n6. Barron Trump\n7. Eric Trump and his wife\n\nWhen I've said they spied on the Trump family I meant they spied on the entire Trump family.  \n\nEven when Barron Trump was 10 years old they were looking for his electronic comms data to spy on it.  \n\nThey were spying on the entire Trump transition team members and their families.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1198246506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 127,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "😱",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 4123,
+          "lastseents": "2023-04-01T03:17:21.235030"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6729827970279555484",
+        "_score": 4.6109,
+        "_source": {
+          "archivedon": "1682444873",
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "channeltitle": "Blazen Herb",
+          "channelusername": "Blazenherb",
+          "date": 1654453690,
+          "editdate": 1654453694,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 239,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 507,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 564,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 43956,
+            "date": 1654451099,
+            "from_id": {
+              "channel_id": 1264643776,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Brian Cates",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 16796,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Now, it might be a shock to some people to find out that the private spies Hillary Clinton hired in 2016 were spying on Trump family members, but that just means those people haven't been listening to me for the past 5 years.  \n\nI've said all along the evidence pointed to the entire Trump family being spied on.  \n\nThe entire Trump family is: \n\n1. Donald J. Trump\n2. Melania Trump\n3. Donald Trump Jr. and his wife\n4. Jared Kushner\n5. Ivanka Trump\n6. Barron Trump\n7. Eric Trump and his wife\n\nWhen I've said they spied on the Trump family I meant they spied on the entire Trump family.  \n\nEven when Barron Trump was 10 years old they were looking for his electronic comms data to spy on it.  \n\nThey were spying on the entire Trump transition team members and their families.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 155608
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 277,
+          "lastseents": "2023-04-25T17:47:53.566560"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5846913321357914132",
+        "_score": 4.3236,
+        "_source": {
+          "archivedon": "2022-06-05 12:53:42.020185",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1654430770,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 42,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://thuletide.wordpress.com/2022/03/31/are-western-dissidents-e-g-the-national-justice-party-of-therightstuff-biz-being-paid-to-shill-kremlin-propaganda/"
+            },
+            {
+              "length": 6,
+              "offset": 347,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://web.archive.org/web/20220207081521/https://www.interpretermag.com/is-russia-insider-sponsored-by-a-russian-oligarch-with-ties-to-the-european-far-right/"
+            },
+            {
+              "length": 6,
+              "offset": 552,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://web.archive.org/web/20210228151825/https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf"
+            },
+            {
+              "length": 6,
+              "offset": 720,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://web.archive.org/web/20220110210136/https://lancasteronline.com/news/politics/who-s-charles-bausman-a-closer-look-at-the-pro-putin-blogger-who-moved-to/article_3e58ac06-38e5-11ec-a7fb-337af43c5a89.html"
+            },
+            {
+              "length": 6,
+              "offset": 875,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.ph/TJ5YN"
+            },
+            {
+              "length": 57,
+              "offset": 920,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://thuletide.wordpress.com/2022/02/24/alt-right-and-identitarian-links-to-aleksandr-dugin-tldr-version/"
+            }
+          ],
+          "forwards": 222,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1736840833
+          },
+          "fwdfrom": {
+            "channel_post": 2535,
+            "date": 1648750575,
+            "from_id": {
+              "channel_id": 1288641123,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "It would not surprise me one iota if some dissidents in the West are being paid to shill Kremlin / GRU propaganda or are, at the very least, fishing for Kremlinbux.\n\nSee, for example, Charles Bausman who owns the pro-Kremlin propaganda website, 'Russia Insider.' He is reportedly financed by Russian oligarch Konstantin Malofeev via Alexey Komov (source).\n\nMalofeev also funds Russian separatists in Ukraine, and founded/funded Aleksandr Dugin's thinktank 'Katehon' (which is aimed at subverting Westerners) and Tsargrad TV, on which Dugin has a show (source).\n\nApparently, TRS' National Justice Party throws events at a barn on Bausman's $450k 5-acre property, which is also home to one of NJP's founders, Greg Conte. (source). \n\nAnd, apparently, Eric Striker's National-Justice website shares a Google analytics account with Russia Insider and also uses the same web code (source).\n\nSo, maybe this explains all of the weird Alt-Right and Identitarian links to Aleksandr Dugin that I've been talking about for years?  🤔",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 732076
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.14107850001274e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Cozza",
+            "id": 1736840833,
+            "is_self": false,
+            "last_name": "Frenzzy",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "CozzaFrenzzy",
+            "verified": false,
+            "_id": 1736840833,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 13087
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6699560700089474492",
+        "_score": 4.0786,
+        "_source": {
+          "archivedon": "2022-06-05 13:43:30.139274",
+          "channelabout": "En attendant que Tass mette en place un canal en Anglais - Français officiel - Idem pour RT Fr en RSS car le site n'est pas configuré pour - Pour la \"pluralité de l'information\" et la liberté d'expression.\nIl y a aussi : https://t.me/rt_france_alt",
+          "channeltitle": "RSS RT France - Tass News Agency English / Non-Official Channel",
+          "channelusername": "Rss_Tass_en_RT_fr_not_offical",
+          "date": 1654421238,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://francais.rt.com/international/98931-etats-unis-moins-trois-morts-fusillade-pleine-rue-philadelphie"
+            },
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 83,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 83,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 19,
+              "offset": 969,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 990,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://francais.rt.com/international"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1949336244
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "groupedid": 1.32353699048263e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Etats-Unis : au moins trois morts dans une fusillade en pleine rue à Philadelphie\n\nEtats-Unis : au moins trois morts dans une fusillade en pleine rue à Philadelphie\n\n 5 juin 2022, 11:22\n© Eric Gay Source: AP\nUn policier surveille l'église catholique du Sacré-Cœur à Uvalde au Texas (image d'illustration).\nAux Etats-Unis, la police a annoncé que trois personnes ont été tuées et 11 autres blessées lors d'une fusillade survenue dans la soirée du 4 juin dans une rue bondée de Philadelphie.\n\nTrois personnes ont été tuées et 11 autres blessées dans la soirée du 4 juin lors d'une fusillade dans une rue bondée de Philadelphie au nord-Est des Etats-Unis.\n\n«Quatorze personnes, à notre connaissance, ont été touchées par des tirs et hospitalisées», a déclaré aux journalistes l'inspecteur D.F. Pace. «Trois de ces personnes, deux hommes et une femme, ont été déclarés morts après leur arrivée dans les hôpitaux, atteints de multiples blessures par balle», a-t-il ajouté.\n\nDétails à suivre...\n\nInternational\n\nvia RT en français",
+          "peerid": {
+            "channel_id": 1559863030,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 9573
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.19318275139462e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 15,
+            "bot_inline_geo": false,
+            "bot_inline_placeholder": "Please input a command to continue...",
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "RSS to Telegram Bot",
+            "id": 1949336244,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_id": 6.18618019734314e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 38708,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "photo_small": {
+                "local_id": 38706,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "RSStT_Bot",
+            "verified": false,
+            "_id": 1949336244,
+            "restriction_reason": [],
+            "_media_ref": "bd6093aaf24280bdfc2419b15952e261a6bea07f"
+          },
+          "v": 1,
+          "mediaref": "66fa88fc1181f9d0e5edcd35f58f4377985126f2"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6094192163595835780",
+        "_score": 2.8508,
+        "_source": {
+          "archivedon": "2022-06-05 06:39:05.451425",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1654405686,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1521916776
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "American's at Bilderberger meeting: Adeyemo, Adewale (USA), Deputy Secretary, Department of  The Treasury\nApplebaum, Anne (USA), Staff Writer, The Atlantic\nBaker, James H. (USA), Director, Office of Net Assessment, Office of the Secretary of Defense\nBourla, Albert (USA), Chairman and CEO, Pfizer Inc.\nBurns, William J. (USA), Director, CIA\nCampbell, Kurt (USA), White House Coordinator for Indo-Pacific, NSC\nChhabra, Tarun (USA), Senior Director for Technology and National Security, National Security Council\nDudley, William C. (USA), Senior Research Scholar, Princeton University\nEasterly, Jen (USA), Director, Cybersecurity and Infrastructure Security Agency\nEconomy, Elizabeth (USA), Senior Advisor for China, Department of Commerce\nFanusie, Yaya (USA), Adjunct Senior Fellow, Center for a New American Security\nHenry, Mary Kay (USA), International President, Service Employees International Union\nHobson, Mellody (USA), Co-CEO and President, Ariel Investments LLC\nHodges, Ben (USA), Pershing Chair in Strategic Studies, Center for European Policy Analysis\nHoffman, Reid (USA), Co-Founder, Inflection AI; Partner, Greylock\nKarp, Alex (USA), CEO, Palantir Technologies Inc.\nKissinger, Henry A. (USA), Chairman, Kissinger Associates Inc.\nKofman, Michael (USA), Director, Russia Studies Program, Center for Naval Analysis\nKravis, Henry R. (USA), Co-Chairman, KKR & Co. Inc.  \nLeCun, Yann (USA), Vice-President and Chief AI Scientist, Facebook, Inc.\nKravis, Marie-Josée (USA), Co-Chair Bilderberg Meetings; Chair, The Museum of Modern Art\nMullen, Michael (USA), Former Chairman of the Joint Chiefs of Staff\nMundie, Craig J. (USA), President, Mundie & Associates LLC\nPetraeus, David H. (USA), Chairman, KKR Global Institute\nRaimondo, Gina M. (USA), Secretary of Commerce\nSchadlow, Nadia (USA), Senior Fellow, Hudson Institute\nSchmidt, Eric E. (USA), Former CEO and Chairman, Google LLC\nScott, Kevin (USA), CTO, Microsoft Corporation\nSinema, Kyrsten (USA), Senator\nSullivan, Jake (USA), Director, National Security Council\nTellis, Ashley J. (USA), Tata Chair for Strategic Affairs, Carnegie Endowment\nThiel, Peter (USA), President, Thiel Capital LLCSullivan, Jake (USA), Director, National Security Council\nWallander, Celeste (USA), Assistant Secretary of Defense for International Security Affairs",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2589222
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.24563895319833e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Isabella",
+            "id": 1521916776,
+            "is_self": false,
+            "last_name": "Hunter",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.17926863140459e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 29859,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038800840
+              },
+              "photo_small": {
+                "local_id": 29857,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038800840
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1521916776,
+            "restriction_reason": [],
+            "_media_ref": "87671dc0590387a1a892d26fb551641c1fc6f83d"
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5223207954567701960",
+        "_score": 2.2825,
+        "_source": {
+          "archivedon": "1680427701",
+          "channelabout": "Just Hanging Out and Exposing the TRUTH!",
+          "channeltitle": "DoctorQ's Boom Box!",
+          "channelusername": "DoctorQsBoomBox",
+          "date": 1654404206,
+          "editdate": 1663453543,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 3496,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 42440,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Just Hanging Out and Exposing the TRUTH!",
+              "display_url": "t.me/DoctorQsBoomBox",
+              "hash": 0,
+              "id": 9.17079312025806e+18,
+              "photo": {
+                "access_hash": -6.59816646726224e+18,
+                "date": 1613177160,
+                "dc_id": 1,
+                "file_reference": "AGQpSNK2C4fN2MRqvyz07paEEVkN",
+                "has_stickers": false,
+                "id": 4.98804032356127e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 16002,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 50685,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 137022,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgoGIQ7QcCoZSQeBnHpQ6NLyG/CmEOMZB/KojsHUkWQOuCOo5oyodTtHH5VDyud1OSRWOMHP860bLbuh08pY8nOaKhwS3OSaKRmSwse446UjMTL8pBHseaeTzjJwOMmmEoBnaCT3ArNblELs5kIwQ3pSpBITxhfqafGu+4LJ0x3qbJ4GM/0q7gRxyc7ZBhv50U+RVZeRnHTHWilZMTIcljknJPrUobarZwMdaKKQyFSdxIPGanVvmAP8qKKGIeisThVye+KKKKcXoUm0Q=="
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "DoctorQ's Boom Box!",
+              "type": "telegram_channel",
+              "url": "https://t.me/DoctorQsBoomBox"
+            }
+          },
+          "message": "BILDERBERGER MEETINGS IN WASHINGTON DC 6/2/2022 TO 6/5/2022 \nLIST OF PARTICIPANTS (Page 2/2)\n\nLammy, David (GBR), Shadow Secretary of State for Foreign, Commonwealth and Development Affairs, House of Commons\n\nLeCun, Yann (USA), Vice-President and Chief AI Scientist, Facebook, Inc.\n\nLeu, Livia (CHE), State Secretary, Federal Department of Foreign Affairs\n\nLeysen, Thomas (BEL), Chairman, Umicore and Mediahuis; Chairman DSM N.V.\n\nLiikanen, Erkki (FIN), Chairman, IFRS  Foundation Trustees\n\nLittle, Mark (CAN), President and CEO, Suncor Energy Inc.\n\nLooney, Bernard (GBR), CEO, BP plc\n\nLundstedt, Martin (SWE), CEO and President, Volvo Group\n\nLütke, Tobias (CAN), CEO, Shopify\n\nMarin, Sanna (FIN), Prime Minister\n\nMarkarowa, Oksana (UKR), Ambassador of Ukraine to the US\n\nMeinl-Reisinger, Beate (AUT), Party Leader, NEOS\n\nMichel, Charles (INT), President, European Council\n\nMinton Beddoes, Zanny (GBR), Editor-in-Chief, The Economist\n\nMullen, Michael (USA), Former Chairman of the Joint Chiefs of Staff\n\nMundie, Craig J. (USA), President, Mundie & Associates LLC\n\nNetherlands, H.M. the King of the (NLD)\n\nNiemi, Kaius (FIN), Senior Editor-in-Chief, Helsingin Sanomat Newspaper\n\nNúñez, Carlos (ESP), Executive Chairman, PRISA Media\n\nO'Leary, Michael (IRL), Group CEO, Ryanair Group\n\nPapalexopoulos, Dimitri (GRC), Chairman, TITAN Cement Group\n\nPetraeus, David H. (USA), Chairman, KKR Global Institute\n\nPierrakakis, Kyriakos (GRC), Minister of Digital Governance\n\nPinho, Ana (PRT), President and CEO, Serralves Foundation\n\nPouyanné, Patrick (FRA), Chairman and CEO, TotalEnergies SE\n\nRachman, Gideon (GBR), Chief Foreign Affairs Commentator, The Financial Times\n\nRaimondo, Gina M. (USA), Secretary of Commerce\n\nReksten Skaugen, Grace (NOR), Board Member, Investor AB\n\nRende, Mithat (TUR), Member of the Board, TSKB\n\nReynders, Didier (INT), European Commissioner for Justice\n\nRutte, Mark (NLD), Prime Minister\n\nSalvi, Diogo (PRT), Co-Founder and CEO, TIMWE\n\nSawers, John (GBR), Executive Chairman, Newbridge Advisory Ltd.\n\nSchadlow, Nadia (USA), Senior Fellow, Hudson Institute\n\nSchinas, Margaritis (INT), Vice President, European Commission\n\nSchmidt, Eric E. (USA), Former CEO and Chairman, Google LLC\n\nScott, Kevin (USA), CTO, Microsoft Corporation\n\nSebastião, Nuno (PRT), CEO, Feedzai\n\nSedwill, Mark (GBR), Chairman, Atlantic Futures Forum\n\nSikorski, Radoslaw (POL), MEP, European Parliament\n\nSinema, Kyrsten (USA), Senator\n\nStarace, Francesco (ITA), CEO, Enel S.p.A.\n\nStelzenmüller, Constanze (DEU), Fritz Stern Chair, The Brookings Institution\n\nStoltenberg, Jens (INT), Secretary General, NATO\n\nStraeten, Tinne Van der (BEL), Minister for Energy\n\nSuleyman, Mustafa (GBR), CEO, Inflection AI\n\nSullivan, Jake (USA), Director, National Security Council\n\nTellis, Ashley J. (USA), Tata Chair for Strategic Affairs, Carnegie Endowment\n\nThiel, Peter (USA), President, Thiel Capital LLC\n\nTreichl, Andreas (AUT), President, Chairman ERSTE Foundation\n\nTugendhat, Tom (GBR), MP; Chair Foreign Affairs Committee, House of Commons\n\nVeremis, Markos (GRC), Co-Founder and Chairman, Upstream\n\nVitrenko, Yuriy (UKR), CEO, Naftogaz\n\nWallander, Celeste (USA), Assistant Secretary of Defense for International Security Affairs\n\nWallenberg, Marcus (SWE), Chair, Skandinaviska Enskilda Banken AB\n\nWalmsley, Emma (GBR), CEO, GlaxoSmithKline plc\n\nWennink, Peter (NLD), President and CEO, ASML Holding NV\n\nYetkin, Murat (TUR), Journalist/Writer, YetkinReport\n\nYurdakul, Afsin (TUR), Journalist, Habertürk News Network\n\nhttps://t.me/DoctorQsBoomBox",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1216122870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1828,
+          "lastseents": "2023-04-02T09:28:21.858742"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [36],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [5],
+      "relation": ["eq"]
+    },
+    "max_score": [8.3234],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6254965403802494329",
+        "_score": 8.3234,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1682705868",
+          "channelabout": "",
+          "channeltitle": "CORONA RAF",
+          "channelusername": "CORONARAF",
+          "collected_by": "crawler",
+          "date": 1633335934,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 49,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 202,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 723847249
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 91513,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Doppelt geimpfter Eric Clapton berichtet über gravierende Nebenwirkungen!\n\nIn einem Exklusiv-Interview berichtet Eric Clapton, einer der bekanntesten Gitarristen und Musiker weltweit, über seine Erfahrungen mit Covid-Impfungen, über die gespaltene Gesellschaft und Gehirnwäsche innerhalb der eigenen Familie.\n\nDas Video  zeigt einen Ausschnitt aus dem fast 25-minuten langen Interview.\n\nDas Interview wurde am 13.06.'21 auf Youtube hochgeladen mit dem klaren Hinweis, man solle es teilen, runterladen und re-uploaden.\n\nSynchronisation und Aufarbeitung: MOYO Film – Videoproduktion\n\nSprecher © Stoffteddy (Ton-Mix / Arrangement)\n(www.moyo-film.de / Radio MOPPI) 2021\n\nSchnitt, Arrangement, Bearbeitung: Jan (yoice.net)",
+              "display_url": "t.me/ich2es/1359",
+              "document": {
+                "access_hash": -7.87510297013702e+18,
+                "attributes": [
+                  {
+                    "duration": 252,
+                    "h": 720,
+                    "reformatted_key": "DocumentAttributeVideo",
+                    "round_message": false,
+                    "supports_streaming": true,
+                    "w": 1280
+                  },
+                  {
+                    "reformatted_key": "DocumentAttributeFilename",
+                    "file_name": "doppelt geimpfter eric Clapton.mp4"
+                  }
+                ],
+                "date": 1623873012,
+                "dc_id": 2,
+                "file_reference": "AGRMDb+DVPt/VKFeJNNmx127m9oE",
+                "id": 5.35720874806451e+18,
+                "mime_type": "video/mp4",
+                "reformatted_key": "Document",
+                "size": 41819052,
+                "thumbs": [
+                  {
+                    "bytes": "ARYoxaKKKACiiigAooooAKKKKACiiigAooooAw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 644,
+                    "w": 320
+                  }
+                ],
+                "video_thumbs": []
+              },
+              "hash": 0,
+              "id": 9.17079312102497e+18,
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "Ich2es",
+              "type": "document",
+              "url": "https://t.me/ich2es/1359"
+            }
+          },
+          "message": "Kennt die Slomka das Interview mit Eric Clepton? https://t.me/ich2es/1359 und unter diesem Podcast: \"Die Psychologie der Verschwörungsleugner\" liest man ganz andere Kommentare von sog. Einheitsjüngern: https://www.youtube.com/watch?v=qEu0qQL-AtI",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1456347621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 91343,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "url": "t.me/CORONARAF/91513",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.31276092902774e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682705868,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Qimpix",
+            "id": 723847249,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_id": 3.10890026221081e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIpmVVceX0HqO9FFFKwz8="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Qimpix",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T18:17:48.044042"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357646633",
+        "_score": 7.5407,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-10-04 02:18:03.45592",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1633311370,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1858344639
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "There's some debate about Mike Enoch's ethnicity; the guy that runs TRS.  I have a paywall subscription and really enjoy Strike-and-Mike podcasts.  Eric Striker is also founder of National-Justice and co-founder of National Justice Party, along with Enoch and Warren Balogh.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 367393,
+            "reply_to_top_id": 367321
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6276503578165220977",
+        "_score": 4.7878,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-10-04 23:25:14.673573",
+          "channelabout": "https://linktr.ee/PatriotMap\n\nPatriot intelligence group.",
+          "channeltitle": "🇺🇸 Freedom Force News 🇺🇸",
+          "channelusername": "FreedomForceNews",
+          "date": 1633384411,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 28,
+              "offset": 658
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 688
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 19,
+              "offset": 697
+            }
+          ],
+          "forwards": 317,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1544568056
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1633092898,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1202315764
+            },
+            "channel_post": 9417
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "SLOWHAND AND & VAN:\n'THIS HAS GOTTA STOP':\nNEW VERSION - OCTOBER 2021\n\nEric Clapton and Van Morrison reunited again to release a new version of Clapton’s latest single “This Has Gotta Stop” as Slowhand and Van from Bushbranch/Surfdog Records. The new version of the song features Van Morrison on saxophone as well as an additional verse from Van Morrison. The song was written by Clapton, produced by his longtime producing partner Simon Climie and is performed by Clapton, Sonny Emory on drums, Nathan East on bass, Sharon White on background vocals along with Nick Ingman as the strings arranger and conductor and Perry Montague-Mason as strings leader. \n\nhttps://youtu.be/VrlPQIdA2js\n\n@RobinMG @LOVEnotfearmankind",
+          "peerid": {
+            "channel_id": 1461362368,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 151938,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 29307
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5658366997252065107",
+        "_score": 3.0566,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-10-04 13:01:29.018321",
+          "channelabout": "Welcome to the Official Virginia Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Virginia Audit Watch Chat",
+          "channelusername": "VaAuditChat",
+          "date": 1633348805,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 176,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 20,
+              "offset": 154
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 36,
+              "offset": 188
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 2,
+              "offset": 237
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 1133,
+              "offset": 347
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 103,
+              "offset": 1481
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1564010706
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "Prince George County Gop Meeting:\nOctober 4th  7:00 pm \nThe Forehand Barn\n4620 Melfore Drive\nPrince George, Va\n\nPrince George County Chairman:\nEric Ditri\nEric.ditri@gmail.com\n\n🇺🇸🇺🇸🇺🇸SUGGESTED talking POINTS FOR EMAILS 🇺🇸🇺🇸🇺🇸\n- We the People of Prince George County ask that you support the Resolution for a Full Forensic Audit tonight!\n-Contrary to what the MSM would have you believe, the  Maricopa Arizona results show that there are at least 50,000 votes that may not be valid.  There could be similar results in Virginia, and we have the right to know.\n -Captain Seth Keshel, says there were some irregularities in voting trends in Prince George County in the Nov 2020 Elections.  This would indicate a need for a full forensic audit. \n-Resolutions were already created in 12 counties of Virginia :Bath County (6th Congressional Republican District), Campell, Culpeper,Fluvanna, Highland, Nelson, Newport News, Orange, Portsmouth, Russell, Spostsylvania and Suffolk)  MAKE Prince George the lucky 13th!\n-We the People want to believe in free and fair elections.   Let’s make a Resolution to investigate the election of 2020, while we also try to prevent the cheating of 2021.\n-The same machines, excessive absentee ballots, and extended days of voting are happening again this year.  How do we know the cheat won’t re-occur?\nPlease step up and be the leader that we need in Prince George and demand with us for a Full Forensic Audit  of Virginia’s 2020 Election! \n\nThank you for your time and attention to this matter.\n\nLet me know if you hear anything from the Chair.",
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 84021,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5201084341802783561",
+        "_score": 2.1733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2021-10-04 08:57:52.552144",
+          "channelabout": "THE DUTCH PATRIOT",
+          "channeltitle": "DUTCH DIGGER NEWS",
+          "channelusername": "maddogholland",
+          "date": 1633337598,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 3,
+              "offset": 137
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 99,
+              "offset": 141
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 24,
+              "offset": 185
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 280
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 325
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 19,
+              "offset": 372
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 20,
+              "offset": 411
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 454
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 17,
+              "offset": 504
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 541
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 14,
+              "offset": 575,
+              "url": "https://t.me/joinchat/tyyghebcPw8zYmFh"
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 17,
+              "offset": 619
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 667
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 17,
+              "offset": 706
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 746
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 784
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 823
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 862
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 904
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 934
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 965
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1004
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 9,
+              "offset": 1034
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 1066
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 1100
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1137
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 1170
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 1203
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 17,
+              "offset": 1243
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 1284
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 1322
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 1353
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1388
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 1418
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 1445
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 1475
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 1508
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 1535
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1566
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 1603
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 1640
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1679
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 1712
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 1744
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 1771
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 1808
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 1840
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 1873
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 1911
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 1950
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 1985
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2017
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2049
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 2078
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2106
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2141
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2175
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2206
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 2237
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 2267
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2299
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 22,
+              "offset": 2335
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2378
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 2410
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 9,
+              "offset": 2438
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 2471
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 9,
+              "offset": 2503
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 2530
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 2558
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 2593
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2625
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 2658
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2698
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 2732
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2769
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 2801
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2832
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 2866
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 20,
+              "offset": 2900
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 2935
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 2968
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 3010
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 17,
+              "offset": 3053
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 3097
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 3135
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 19,
+              "offset": 3168
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 3205
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 3241
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 24,
+              "offset": 3280
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 20,
+              "offset": 3332
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 3372
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 3399
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 3437
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 24,
+              "offset": 3484
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 3534
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 3565
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 22,
+              "offset": 3609
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 3650
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 3683
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 3710
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 7,
+              "offset": 3730
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 3764
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 9,
+              "offset": 3808
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 3831
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 3877
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 3918
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 3,
+              "offset": 3929
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 35,
+              "offset": 3933
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 24,
+              "offset": 3944
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 31,
+              "offset": 3969
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 69,
+              "offset": 4001
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 69,
+              "offset": 4001
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 35,
+              "offset": 4035
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "SHARE ‼️ 🇺🇸 ‼️ SHARE ‼️ 🇺🇸 ‼️ SHARE\n\nBIG TECH’S CANCEL CULTURE WON’T SILENCE US. Join these popular conservative voices on Telegram!\n———\nNOTE: Original COT lists are forwarded from @ConservativesOnTelegram (see top left of this message)\n\n[Oct 3, 2021]\n\n🇺🇸 President Trump - @real_DonaldJTrump\n🇺🇸 BREAKING HEADLINES - @BREAKINGHEADLINES\n🇺🇸 Fighting The Commies - @FightingTheCommies\n🇺🇸 NICKI MINAJ - @NICKIMINAJ_OFFICIAL\n🇺🇸 Liz Harrington - @LizHarrington76\n🇺🇸 Julio Gonzalez-Tax Expert - @TaxReformExpert1\n🇺🇸 Becker News - @BeckerNews\n🇺🇸 James O’Keefe - @JamesOKeefeIII\n🇺🇸 The Trump Republicans - @TrumpRepublicans\n🇺🇸 The American Spectator - @AmericanSpectator\n🇺🇸 Save America - @SaveAmericaToday\n🇺🇸 Dinesh D’Souza - @DineshJDSouza\n🇺🇸 The Epoch Times - @epochtimes\n🇺🇸 The Western Journal - @WesternJournal\n🇺🇸 The Babylon Bee - @TheBabylonBee\n🇺🇸 Taking Back America - @TakingBackAmerica\n🇺🇸 NTD - @NTDNews\n🇺🇸 Operation 2022 - @Operation2022\n🇺🇸 Trump Supporters - @TrumpChannel\n🇺🇸 Pearfeed - @Pearfeed\n🇺🇸 Steven Crowder - @StevenCrowder\n🇺🇸 Ben Shapiro - @realBenShapiro\n🇺🇸 Candace Owens - @CandaceOwens\n🇺🇸 James Woods - @JamesWoodsReal\n🇺🇸 Breitbart - @wearebreitbart\n🇺🇸 Kayleigh McEnany - @KayleighMcEnany7\n🇺🇸 Herschel Walker - @HerschelWaIker\n🇺🇸 The Daily Wire - @realDailyWire\n🇺🇸 JP Sears - @AwakenWithJPS\n🇺🇸 Daily Caller - @Daily_Caller\n🇺🇸 Fox News - @FoxNewsTG\n🇺🇸 TheBlaze - @TheBlazeTV\n🇺🇸 Newsmax TV - @NewsmaxTV\n🇺🇸 The Federalist - @FDRLSTT\n🇺🇸 Lara Trump - @LaraLTrump\n🇺🇸 Dan Scavino - @DanScavinoJr\n🇺🇸 Donald Trump Jr - @TrumpJr\n🇺🇸 America’s Voice News - @RealAmericasVoice\n🇺🇸 Ivanka Trump - @IvankaMTrump\n🇺🇸 Mike Pompeo - @MichaelRPompeo\n🇺🇸 Mini AOC - @MiniAOC\n🇺🇸 Matt Gaetz - @MattGaetzOfficial\n🇺🇸 Mark Levin - @MarkRLevin\n🇺🇸 Greg Gutfeld - @greg_gutfeld\n🇺🇸 Kevin Sorbo - @KevinSorbo\n🇺🇸 Harmeet K. Dhillon - @pnjaban\n🇺🇸 Sarah Huckabee Sanders - @SarahHuckabee\n🇺🇸 Vernon Jones - @VernonJones\n🇺🇸 Devin Nunes - @Devin_Nunes\n🇺🇸 Josh Hawley - @Josh_Hawley\n🇺🇸 Ted Cruz - @TedCruzTX\n🇺🇸 The First - @TheFirst0nTV\n🇺🇸 Burgess Owens - @Burgess4Utah\n🇺🇸 Sean Parnell - @SeanParnell\n🇺🇸 Jim Jordan - @JimJordanOH\n🇺🇸 Glenn Beck - @glennbeck\n🇺🇸 Larry Elder - @LarryElder\n🇺🇸 Dave Portnoy - @DavidPortnoy\n🇺🇸 Tucker Carlson - @TuckerCarlsonOfficial\n🇺🇸 Ami Horowitz - @AmiHorowitz\n🇺🇸 John Voight - @John_Voight\n🇺🇸 Catturd - @Catturrd\n🇺🇸 Kimberly Klacik - @KimberlyKlacik\n🇺🇸 Andy Ngô - @Andy_Ngo\n🇺🇸 Lou Dobbs - @LouDobbs2nite\nAllen West - @AllenBWest\n🇺🇸 Rogan O’Handley - @DC_Draino\n🇺🇸 Brandon Tatum - @BrandonTatum\n🇺🇸 Scott Adams - @ScottAdams925\n🇺🇸 David J Harris Jr - @DavidJHarris\n🇺🇸 Mike Lindell - @MichaelJLindell\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Lee Zeldin - @LeeZeldin\n🇺🇸 Eric Bolling - @Eric_Bolling\n🇺🇸 Steve Cortes - @Steve_Cortes\n🇺🇸 Sean Hannity - @SeanHannityOfficial\n🇺🇸 Blexit - @BlexitAmerica\n🇺🇸 Matt Walsh - @MattWalshShow\n🇺🇸 The Post Millennial - @ThePostMillennial\n🇺🇸 Classically Abby - @Classically_Abby\n🇺🇸 Conservative Brief - @ConservativeBrief\n🇺🇸 Kyle Becker - @KyleBecker\n🇺🇸 Just The News - @JustTheNewsReports\n🇺🇸 Red State - @RedStateBlog\n🇺🇸 Townhall Media - @TownhallMedia\n🇺🇸 Washington Times - @WashingtonTimesOfficial\n🇺🇸 Washington Examiner - @Washington_Examiner\n🇺🇸 Mail Online - @DailyMaiI\n🇺🇸 CBN News - @CBNnewsonline\n🇺🇸 National Review - @National_Review\n🇺🇸 Washington Free Beacon - @TheWashingtonFreeBeacon\n🇺🇸 Melania Trump Fan - @MelaniaTrumpFan\n🇺🇸 Rumble - @rumblevideo\n🇺🇸 Conservatives On Rumble - @ConservativesOnRumble\n🇺🇸 Fox Nation - @TheFOXNation\n🇺🇸 Live Action - @LiveActionorg\n🇺🇸 CPAC - @CPACorg\n🇺🇸 NRA - @NRAorg\n🇺🇸 BREAKING HEADLINES - @BREAK_ING\n🇺🇸 The American Conservative - @amconmag\n🇺🇸 Frank - @FrankSpeechSocial\n🇺🇸 Trump DeSantis 2024 - @TrumpDeSantis24\n🇺🇸 Fox News YouTube - @FoxNewsYT\n———\nPowered by @ConservativesOnTelegram\nWe Built Conservative Telegram.\nSee the full list on our website:\nhttps://conservativesontelegram.com",
+          "peerid": {
+            "channel_id": 1210971815,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "wim visscher",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 409
+        }
+      }
+    ]
+  }
+}

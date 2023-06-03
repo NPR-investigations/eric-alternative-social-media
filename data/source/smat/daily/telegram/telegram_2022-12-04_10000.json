@@ -1,0 +1,589 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [7],
+      "relation": ["eq"]
+    },
+    "max_score": [12.859],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5430134264800346518",
+        "_score": 12.859,
+        "_source": {
+          "archivedon": "1679002158",
+          "channelabout": "",
+          "channeltitle": "The Epoch Times Chat",
+          "channelusername": "epochtimeschat",
+          "date": 1670123880,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1719134163
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1704342,
+          "message": "TRUMP is my President.  Eric Trump would make  Great President",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1264301656,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1704328,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.69270202037513e+18,
+            "apply_min_photo": true,
+            "archivedon": 1679002158,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Ida",
+            "id": 1719134163,
+            "is_self": false,
+            "last_name": "Hobgood",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 4.93596144421055e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgI0ULtOWZGUA4Hpj1ooopIGQ==",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1678981748
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-03-16T21:29:18.348195"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6699560700089496614",
+        "_score": 11.565,
+        "_source": {
+          "archivedon": "2022-12-04 20:01:12.666182",
+          "channelabout": "En attendant que Tass mette en place un canal en Anglais - Français officiel - Idem pour RT Fr en RSS car le site n'est pas configuré pour - Pour la \"pluralité de l'information\" et la liberté d'expression.\nIl y a aussi : https://t.me/rt_france_alt",
+          "channeltitle": "RSS RT France - Tass News Agency English / Non-Official Channel",
+          "channelusername": "Rss_Tass_en_RT_fr_not_offical",
+          "date": 1670175999,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 95,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://telegra.ph/Pr%C3%A9sidence-des-R%C3%A9publicains--Eric-Ciotti-et-Bruno-Retaillea-12-04"
+            },
+            {
+              "length": 95,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 95,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1949336244
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Présidence des Républicains : Eric Ciotti et Bruno Retailleau se qualifient pour le second tour\n\nvia RT en français",
+          "peerid": {
+            "channel_id": 1559863030,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 35839
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.19318275139462e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 15,
+            "bot_inline_geo": false,
+            "bot_inline_placeholder": "Please input a command to continue...",
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "RSS to Telegram Bot",
+            "id": 1949336244,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_id": 6.18618019734314e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 38708,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "photo_small": {
+                "local_id": 38706,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "RSStT_Bot",
+            "verified": false,
+            "_id": 1949336244,
+            "_media_ref": "bd6093aaf24280bdfc2419b15952e261a6bea07f",
+            "restriction_reason": []
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6372728575220605928",
+        "_score": 8.9596,
+        "_source": {
+          "archivedon": "2022-12-04 19:23:32.276583",
+          "channelabout": "Harold’s Library",
+          "channeltitle": "The Library",
+          "channelusername": "The_Library_II",
+          "date": 1670171837,
+          "editdate": 1670172803,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 39,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5422,
+            "date": 1670161128,
+            "from_id": {
+              "channel_id": 1329886149,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "MISSOURI ATTORNEY GENERAL ERIC SCHMITT: \"...the information we've uncovered through those depositions [in Missouri v. Biden] has been shocking to say the least. It's clear from Tuesday's deposition that the FBI has an extremely close role in working to censor freedom of speech.\"",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Finch",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1254
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5223207954567712764",
+        "_score": 8.7993,
+        "_source": {
+          "archivedon": "1680439606",
+          "channelabout": "Just Hanging Out and Exposing the TRUTH!",
+          "channeltitle": "DoctorQ's Boom Box!",
+          "channelusername": "DoctorQsBoomBox",
+          "date": 1670175658,
+          "editdate": 1670205244,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 281,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/johndurhamchannel"
+            },
+            {
+              "length": 11,
+              "offset": 281,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 385,
+            "date": 1670173823,
+            "from_id": {
+              "channel_id": 1519526182,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 53244,
+          "message": "MISSOURI ATTORNEY GENERAL Eric Schmitt: \"...the information we've uncovered through those depositions [in Missouri v. Biden] has been shocking to say the least. It's clear from Tuesday's deposition that the FBI has an extremely close role in working to censor freedom of speech.\"\n\nJohn Durham",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1216122870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 7,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1493446725,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 505621
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 860,
+          "lastseents": "2023-04-02T12:46:46.937313"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6462698025423736917",
+        "_score": 8.355,
+        "_source": {
+          "archivedon": "1682244565",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1670188667,
+          "editdate": 1670189091,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 39,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5401,
+            "date": 1670021268,
+            "from_id": {
+              "channel_id": 1329886149,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 4181,
+          "message": "MISSOURI ATTORNEY GENERAL ERIC SCHMITT: \"In our deposition of FBI agent Elvis Chan on Tuesday, we found that the FBI plays a big role in working with social media companies to censor speech - from weekly meetings with social media companies ahead of the 2020 election to asks for account takedowns.\"",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 10,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "max_id": 17674,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1955482365
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 34072
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 182,
+          "lastseents": "2023-04-23T10:09:25.718075"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5908323313511417023",
+        "_score": 6.8988,
+        "_source": {
+          "archivedon": "2022-12-05 00:00:31.489027",
+          "channelabout": "DIGITAL SOLDIERS‼️WWG1WGA‼️",
+          "channeltitle": "B17News",
+          "channelusername": "lichtanonsmensch",
+          "date": 1670187022,
+          "editdate": 1670189863,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 484,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Nc522E_qRkU"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22188,
+            "date": 1670077827,
+            "from_id": {
+              "channel_id": 1403191153,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "#Documentary\n\nBest Kept Secret - Chapter 6: Archons\n\nIn the final chapter of the docuseries, we explore the ancient conception of 'alien' overlords known as Archons, which fits into the reptilian lore of Satan, from the ancient world to the modern day. But how do we overcome this parasitic form that feeds on humanity?\n\nFeaturing David Icke, John Lamb Lash, Jessie Czebotar, Cathy O'Brien, Carine Hutsebaut, Jay Parker, James Martinez, Eric Pepin, William Henry and Elizabeth April\n\nSOURCE",
+          "peerid": {
+            "channel_id": 1375638720,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Sascha Lechner",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1672747084,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 161678
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 770
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5811551549939798813",
+        "_score": 6.8988,
+        "_source": {
+          "archivedon": "2022-12-05 01:39:18.752146",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1670187235,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 484,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/Nc522E_qRkU"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22188,
+            "date": 1670077827,
+            "from_id": {
+              "channel_id": 1403191153,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "#Documentary\n\nBest Kept Secret - Chapter 6: Archons\n\nIn the final chapter of the docuseries, we explore the ancient conception of 'alien' overlords known as Archons, which fits into the reptilian lore of Satan, from the ancient world to the modern day. But how do we overcome this parasitic form that feeds on humanity?\n\nFeaturing David Icke, John Lamb Lash, Jessie Czebotar, Cathy O'Brien, Carine Hutsebaut, Jay Parker, James Martinez, Eric Pepin, William Henry and Elizabeth April\n\nSOURCE",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 4
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

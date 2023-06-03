@@ -1,0 +1,331 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [56],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [5],
+      "relation": ["eq"]
+    },
+    "max_score": [12.9567],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6432984586971941435",
+        "_score": 12.9567,
+        "_source": {
+          "archivedon": "2022-04-17 03:42:53.342031",
+          "channeltitle": "JuliansRum Chat",
+          "channelusername": "juliansrumchat",
+          "date": 1650141692,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "message": "Hey there Eric, and welcome to JuliansRum Chat! How are you?",
+          "peerid": {
+            "channel_id": 1497795942,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 508876
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5963627275214652519",
+        "_score": 12.872,
+        "_source": {
+          "archivedon": "2022-04-16 16:30:41.942198",
+          "channeltitle": "Every Day",
+          "channelusername": "everyday1350",
+          "date": 1650106830,
+          "editdate": 1650106871,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "message": "On April 16, 2015, Eric William Schade was killed during a robbery. While Eric was chatting with an employee at a convenience store, Ahmed Mumin came in, demanded money, and told the two men to lie on the floor. When Eric failed to comply immediately, Ahmed shot the 48-year-old in the chest.",
+          "peerid": {
+            "channel_id": 1388515177,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 626,
+          "channelabout": "These lives mattered.",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5447796329960993381",
+        "_score": 9.2775,
+        "_source": {
+          "archivedon": "2022-04-16 14:09:07.244536",
+          "channeltitle": "TIL: Today I Learned",
+          "channelusername": "tor_til",
+          "date": 1650070968,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 172,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "message": "TIL the “Father of Soft Play” and inventor of the ball pit, Eric McMilan, was inspired to create safe play areas because he grew up in post-WW2 England, playing in rubble. https://ift.tt/IfSeCP5",
+          "peerid": {
+            "channel_id": 1268413926,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 55,
+          "channelabout": "r/todayilearned, quick and simple!\n@torzod",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6017328694425553569",
+        "_score": 4.7756,
+        "_source": {
+          "archivedon": "1681259397",
+          "channeltitle": "Soothing White Pills",
+          "channelusername": "SoothingWhitePillsChannel",
+          "date": 1650129734,
+          "editdate": 1651776549,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 504,
+              "offset": 265,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 771,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://nypost.com/2022/04/15/transitions-have-gone-too-far-trans-psychologist/"
+            },
+            {
+              "length": 5,
+              "offset": 771,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 24,
+          "fromid": {},
+          "message": "This is both notable and a fascinating reminder as to how transitioning didn’t used to, nor should it be, something undertaken on a whim. Unfortunately, [they’re] prolly gonna roll this person for calling out the insanity of transitioning mush-brained kids/teens.\n\nAnderson readily shared her birth name, Eric, and her story of how an endocrinologist refused to prescribe hormones and left her feeling deeply ashamed when she first sought them at age 45.\n\nShe finally got them at 58, and had genital surgery at 61, thrilled to finally “become a woman.”\n\nBut while thrilled that the world is now more accepting, she fears it has swung to an extreme, noting a 13-year-old patient whose pediatrician put him on testosterone, even though he had not met with a psychologist.\n\nSauce",
+          "peerid": {
+            "channel_id": 1401018513,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Melissa_in_Arcadia",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1465338977,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 174094
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 8399,
+          "channelabout": "A cozy corner existing outside of the BCW",
+          "id": 2721,
+          "mediaref": "f850d507d6ec6322cc2a06e49db1b92315bc3ce1",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-12T00:29:57.717954"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5210918489765718779",
+        "_score": 4.3109,
+        "_source": {
+          "archivedon": "2022-04-16 22:30:23.483321",
+          "channeltitle": "Archiving Irish Diversity Stuff (AIDS)",
+          "channelusername": "IrelandArchive",
+          "date": 1650128907,
+          "editdate": 1650130280,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 39,
+              "offset": 248,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 46,
+              "offset": 866,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 90,
+              "offset": 912,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "message": "The Topography of Ireland by Gerald of Wales, discussed a few times in this channel, was one of the main sources continentals had to read about Ireland during the 13-15th Centuries. It was basically Norman propaganda piece that can be summed up as \"great country, pity about the natives\" - example of this is calling the Irish backward/savages for preferring to live in Woods than in Cities.\n\nItalian scholar and poet Francesco Petrarca, anglicized as Petrarch, who discovered Cicero's papers and is considered to have begun the Renaissance, owned a copy of Topography of Ireland, which is still available in the French National Library in Paris. Petrarch himself hated cities and preferred to live in woods, to the point where his friends nicknamed him Woody.\n\nUpon reading the Irish preference to live in the woods than cities, he wrote in the margin in his copy  “Go there, Woody, what are you waiting for?”\n\nFabulous Ireland- Ibernia Fabulosa; Imagining Ireland in Renaissance Italy by Eric Haywood",
+          "peerid": {
+            "channel_id": 1213261506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 281,
+          "channelabout": "Archiving news articles mostly related to Ireland and some global stuff that may affect Ireland.",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

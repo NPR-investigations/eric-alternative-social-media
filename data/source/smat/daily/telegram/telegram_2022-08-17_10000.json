@@ -1,0 +1,4456 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [125],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [43],
+      "relation": ["eq"]
+    },
+    "max_score": [12.3191],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6008661385997958392",
+        "_score": 12.3191,
+        "_source": {
+          "archivedon": "2022-08-17 21:47:27.800392",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1660745544,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1597582214
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Good for Eric!!! Enough is enough already.",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 244916
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1597582214,
+            "_v": 1,
+            "access_hash": -6.24228936456469e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Jeffery",
+            "id": 1597582214,
+            "is_self": false,
+            "last_name": "Stinson",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5750952443315753264",
+        "_score": 12.0823,
+        "_source": {
+          "archivedon": "2022-08-17 21:46:52.501937",
+          "channelabout": "We are the Trump Republicans. Huge fans of President Trump.",
+          "channeltitle": "The Trump Republicans",
+          "date": 1660742495,
+          "editdate": 1660742499,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 68,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 103,
+              "offset": 82,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump Claims to Have a Silver Bullet From the Mar-a-Lago Raid\n\nFULL STORY —> https://republicandaily.com/2022/08/eric-trump-claims-to-have-a-silver-bullet-from-the-mar-a-lago-raid/",
+          "peerid": {
+            "channel_id": 1338997959,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1399000498,
+            "comments": true,
+            "max_id": 245176,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 782240529
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1576858948
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 25,
+            "replies_pts": 353855
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4096,
+          "channelusername": "trumprepublicans",
+          "mediaref": "e0abd6c6bdb9d7f3c05e06c8c8ce00e70b8d10ff",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6008661385997958324",
+        "_score": 12.0823,
+        "_source": {
+          "archivedon": "2022-08-17 21:47:28.157088",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1660742499,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 68,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 103,
+              "offset": 82,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1338997959
+          },
+          "fwdfrom": {
+            "channel_post": 4400,
+            "date": 1660742495,
+            "from_id": {
+              "channel_id": 1338997959,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 4400,
+            "saved_from_peer": {
+              "channel_id": 1338997959,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump Claims to Have a Silver Bullet From the Mar-a-Lago Raid\n\nFULL STORY —> https://republicandaily.com/2022/08/eric-trump-claims-to-have-a-silver-bullet-from-the-mar-a-lago-raid/",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 245176,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 25,
+            "replies_pts": 353855
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4096,
+          "mediaref": "e0abd6c6bdb9d7f3c05e06c8c8ce00e70b8d10ff",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "4496833426086808456",
+        "_score": 12.0141,
+        "_source": {
+          "archivedon": "2022-08-17 05:55:20.954335",
+          "channelabout": "Admin: itsmykraken@gmail.com\n\nShould you like to support our channel, please donate with:\n\nBTC: 1ELy2nVxA5CXcNxrNZWT5FtA4q6Q1PdKYE\n\nBCH: qzl87nt0umemgljvz5tjg4fupcn62tm05v2hvsztmp\n\nETH: 0x9d25Fc795300217E66298963a0c5A32F644CC8dc",
+          "channeltitle": "zerohedge",
+          "date": 1660704054,
+          "editdate": 1660704057,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 90,
+              "offset": 154,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump Says He’ll Release FBI Raid Surveillance Tape\n\nhttps://www.zerohedge.com/political/eric-trump-says-hell-release-fbi-raid-surveillance-tape\n\n⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "peerid": {
+            "channel_id": 1047000621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1716348266,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36964
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1347,
+          "channelusername": "zerohedge",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5908323313511409997",
+        "_score": 11.9467,
+        "_source": {
+          "archivedon": "2022-08-18 01:34:28.897218",
+          "channelabout": "DIGITAL SOLDIERS‼️WWG1WGA‼️",
+          "channeltitle": "B17News",
+          "date": 1660762598,
+          "editdate": 1660769409,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 10,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 29,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 147,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 79,
+              "offset": 162,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 45173,
+            "date": 1660762551,
+            "from_id": {
+              "channel_id": 1175039331,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Posted by @ShannonAdams03 on SantaSurfing.Locals.com\n\nLIBERAL ERIC ADAMS just confirms what APES have been sharing!!!  🔥🔥\n\nArticle Link found on FreeSpoke.com:\nhttps://nypost.com/2022/07/28/eric-adams-refutes-biden-says-us-is-in-recession/",
+          "peerid": {
+            "channel_id": 1375638720,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "MCB",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1672747084,
+            "comments": true,
+            "max_id": 73691,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 842361053
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 132732
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 513,
+          "channelusername": "lichtanonsmensch",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5877291053811263982",
+        "_score": 11.8801,
+        "_source": {
+          "archivedon": "2022-08-17 03:23:02.522656",
+          "channelabout": "This Iowa Patriot Party is a constitutional organization. The purpose of this chat is for networking, organizing, and affecting our local governments. \n\nNo unfounded conspiracies, non-Iowa related telegram channel promotion, or unvetted candidate adverts.",
+          "channeltitle": "Iowa Patriot Party",
+          "date": 1660695886,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 121,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 145,
+              "offset": 123,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 131,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1459296920
+          },
+          "fwdfrom": {
+            "channel_post": 16812,
+            "date": 1660694802,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Louisiana Secretary of State Leads the Nation - Ends ERIC in State and Creates Directive to Keep 2020 Election Materials \n\nhttps://www.thegatewaypundit.com/2022/08/louisiana-secretary-state-leading-nation-ends-eric-state-creates-directive-keep-2020-election-materials/",
+          "peerid": {
+            "channel_id": 1368413459,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 37462
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1459296920,
+            "_v": 1,
+            "access_hash": 7.29816022599786e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Archer",
+            "id": 1459296920,
+            "is_self": false,
+            "last_name": "Freedom",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 100737,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100881
+              },
+              "photo_id": 4.92949996226646e+18,
+              "photo_small": {
+                "local_id": 100735,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100881
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Archer1776",
+            "verified": false,
+            "_media_ref": "6ca84350e794b4b2677c7bcc6050b0804e377921"
+          },
+          "v": 1,
+          "views": 12915,
+          "channelusername": "PatriotPartyIowa",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5201084341802805180",
+        "_score": 11.8801,
+        "_source": {
+          "archivedon": "2022-08-17 22:54:52.643344",
+          "channelabout": "THE DUTCH PATRIOT",
+          "channeltitle": "DUTCH DIGGER NEWS",
+          "date": 1660752987,
+          "editdate": 1660753045,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 177,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 18,
+              "offset": 226,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 90,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1660752767,
+            "from_id": {},
+            "from_name": "Roy",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Allahu Akbar\" schreeuwende, en met messen zwaaiende gelukzoekers onderweg naar Europa. Binnenkort bij u en mij in de gemeente op bevel van asieldictator Eric van der Burg.\n\n🔗 https://www.vvd.nl/profielen/eric-van-der-burg/\n\nt.me/hetkantelpunt",
+          "peerid": {
+            "channel_id": 1210971815,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Syl Hilverink",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5344,
+          "channelusername": "maddogholland",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5354447101273307925",
+        "_score": 11.6851,
+        "_source": {
+          "archivedon": "2022-08-17 03:02:35.818854",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "date": 1660704076,
+          "editdate": 1660704079,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 192,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 213,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 228,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 248,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 267,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump Says He’ll Release FBI Raid Surveillance Tape\n\nhttps://www.zerohedge.com/political/eric-trump-says-hell-release-fbi-raid-surveillance-tape\nSource: ZeroHedge \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 661075
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21,
+          "channelusername": "PatriotArmy",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6211492122789419987",
+        "_score": 11.6456,
+        "_source": {
+          "archivedon": "2022-08-17 01:59:09.65036",
+          "channelabout": "“Ballot harvesting” is voter fraud. Say no to indiscriminate “mail-in” voting.",
+          "channeltitle": "James Woods",
+          "date": 1660695959,
+          "editdate": 1660695995,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 52,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump drops big news about the video footage.\n\nhttps://jameswoodsfans.com/Bmhdmu",
+          "peerid": {
+            "channel_id": 1446225709,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3626,
+          "channelusername": "JamesWoodsReal",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6272406054810699682",
+        "_score": 11.6456,
+        "_source": {
+          "archivedon": "2022-08-17 19:15:41.676827",
+          "channeltitle": "Politically Incorrect News",
+          "date": 1660739532,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.zerohedge.com/political/eric-trump-says-hell-release-fbi-raid-surveillance-tape",
+          "peerid": {
+            "channel_id": 1460408339,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21,
+          "channelusername": "bannedforlife",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6222333732641114834",
+        "_score": 11.5204,
+        "_source": {
+          "archivedon": "2022-08-18 02:45:19.34386",
+          "channelabout": "@FoundationGermanEmpire\n\n\nhttps://truthsgnosis.com/5d-6d\n\n\n\nhttps://linktr.ee/kagbabe\n\n\n\nhttps://twitter.com/Ralph82198654?s=09\n\n\n\nhttps://twitter.com/AKhnum?s=09",
+          "channeltitle": "#XMen 🇾🇪",
+          "date": 1660778587,
+          "editdate": 1660778590,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FoundationGermanEmpire/9947"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1660778573,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 794633388
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ernst-zundel-dietlieb-felderer-and-eric-thomson-anne-frank-diary-hoax-exposed_f7LwIK3GXwPlsQq (1)",
+          "peerid": {
+            "channel_id": 1448749968,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ralph der Erste",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1295874936,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 296350
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 14,
+          "channelusername": "StiftungGermanEmpire",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6008661385997958337",
+        "_score": 11.4358,
+        "_source": {
+          "archivedon": "2022-08-17 21:47:27.747924",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1660743168,
+          "editdate": 1660743238,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The illiterate or ignorant level of our society helps the arrogant elites fill us with propaganda. We will believe whatever lies they want us to believe.  Wake up!  Eric has had enough of the BS. Break it out Eric!  Petty traitors will get justice.",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 244916
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6729827970279560123",
+        "_score": 11.3981,
+        "_source": {
+          "archivedon": "1682457272",
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "channeltitle": "Blazen Herb",
+          "date": 1660730952,
+          "editdate": 1660747755,
+          "edithide": true,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 113628,
+            "date": 1660730687,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BANNON: \"Walter Cronkite, Eric Severeid, and Edward R. Murrow would SPIT on the floor!\"",
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "max_id": 59382,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1525138383
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 155626
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 438,
+          "channelusername": "Blazenherb",
+          "mediaref": "446768b7c7f54580a01d3707ccf5bdce63308211",
+          "id": 21435,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 8,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-25T21:14:32.455119"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "4983987381511178107",
+        "_score": 11.0477,
+        "_source": {
+          "archivedon": "2022-08-17 22:27:47.152317",
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch",
+          "channeltitle": "QAge2020/21",
+          "date": 1660770969,
+          "editdate": 1660770972,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 101,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17755,
+            "date": 1660697926,
+            "from_id": {
+              "channel_id": 1195956199,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump says Trump cameras CAUGHT the FBI raid and family will “ABSOLUTELY” release footage\n\nJoin @CBKNEWS",
+          "peerid": {
+            "channel_id": 1160424990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Digital Warrior of God WWG1WGA🇫🇷🇺🇸🇩🇪",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 94245
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5,
+          "channelusername": "Qage2020",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6137290442422707771",
+        "_score": 11.0477,
+        "_source": {
+          "archivedon": "1681454910",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "date": 1660698647,
+          "editdate": 1660698650,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 101,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17755,
+            "date": 1660697926,
+            "from_id": {
+              "channel_id": 1195956199,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump says Trump cameras CAUGHT the FBI raid and family will “ABSOLUTELY” release footage\n\nJoin @CBKNEWS",
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jeannie Lewis",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243302
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 111,
+          "channelusername": "Hyer971",
+          "mediaref": "20951caaf1b23445a82e8bdcf789a7d0b7e8867c",
+          "id": 91707,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-14T06:48:30.471334"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5966960951520535545",
+        "_score": 10.9361,
+        "_source": {
+          "archivedon": "2022-08-17 18:14:16.329346",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "date": 1660755288,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 145,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1637768532
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.thegatewaypundit.com/2022/08/louisiana-secretary-state-leading-nation-ends-eric-state-creates-directive-keep-2020-election-materials/",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 235360
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1637768532,
+            "_v": 1,
+            "access_hash": 8.16928532963402e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Aaron",
+            "id": 1637768532,
+            "is_self": false,
+            "last_name": "Cronk",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "cronkedagain",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "Wiauditchat",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6617507450138449475",
+        "_score": 10.9361,
+        "_source": {
+          "archivedon": "2022-08-18 02:25:04.143255",
+          "channeltitle": "Kayleigh McEnany Chat",
+          "date": 1660773090,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1794132017
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Looking so forward to seeing that security camera footage, when the time is right, as Eric Trump suggested!",
+          "peerid": {
+            "channel_id": 1540758519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 54743
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1794132017,
+            "_v": 1,
+            "access_hash": -2.12153685097907e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Steve",
+            "id": 1794132017,
+            "is_self": false,
+            "last_name": "Cox",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5354447101273308413",
+        "_score": 10.827,
+        "_source": {
+          "archivedon": "2022-08-17 22:30:33.170003",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "date": 1660773295,
+          "editdate": 1660773298,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 34,
+              "offset": 81,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2058,
+            "date": 1660770685,
+            "from_id": {
+              "channel_id": 1138211056,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Justice Reporter",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump on Elijah Streams with Steve Shultz tomorrow morn:\n\n11 am ET / 8am PT\nhttps://rumble.com/c/ElijahStreams",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 662911
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 17,
+          "channelusername": "PatriotArmy",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5354447101273307864",
+        "_score": 10.7531,
+        "_source": {
+          "archivedon": "2022-08-17 03:02:35.728989",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "date": 1660694814,
+          "editdate": 1660694817,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 121,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 145,
+              "offset": 123,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 316,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 337,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 352,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 372,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 391,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Louisiana Secretary of State Leads the Nation - Ends ERIC in State and Creates Directive to Keep 2020 Election Materials \n\nhttps://www.thegatewaypundit.com/2022/08/louisiana-secretary-state-leading-nation-ends-eric-state-creates-directive-keep-2020-election-materials/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 661075
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 43,
+          "channelusername": "PatriotArmy",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5903952213625013539",
+        "_score": 10.7202,
+        "_source": {
+          "archivedon": "2022-08-17 06:09:50.071839",
+          "channelabout": "Host: “America This Week W/ Eric Bolling” (ABC, NBC, CBS, FOX); “BOLLING With FAVRE”; 2 NYT Bestsellers; 2020 Emmy nominee \n\nericbolling.com",
+          "channeltitle": "Eric Bolling",
+          "date": 1660714265,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 124,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 137,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.mediaite.com/tv/whats-wrong-with-you-eric-bolling-knocks-laura-ingraham-over-comments-about-moving-beyond-trump/\n\nSubscribe: @Eric_Bolling",
+          "peerid": {
+            "channel_id": 1374620994,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 17,
+          "channelusername": "Eric_Bolling",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5317971357072385862",
+        "_score": 10.4133,
+        "_source": {
+          "archivedon": "2022-08-17 08:46:09.460523",
+          "channelabout": "🐸 We The Pepe 🐸\n🐸 We bake🐸    \n🐸WWG1WGA🐸",
+          "channeltitle": "🐸 We The Pepe 🐸",
+          "date": 1660716528,
+          "editdate": 1660716748,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 48,
+              "offset": 103,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "We will be able to see what happened.\nEric Trump Says They Will Show Surveillance Video Of FBI Search\n\nhttps://conservativebrief.com/surveillance-65631",
+          "peerid": {
+            "channel_id": 1238186694,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1450730912,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2597513
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1044,
+          "channelusername": "qanonofficial",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "7409218992516104232",
+        "_score": 10.1252,
+        "_source": {
+          "archivedon": "2022-08-17 21:52:49.342855",
+          "channelabout": "American political advisor who served for the Trump administration as White House deputy of stuff for communication from 2019 to 2021.\n\nDirector of social media for the Donald Trump 2016 presidential campaign 2016.",
+          "channeltitle": "Dan Scavino Jr. 🇺🇸🦅",
+          "date": 1660767779,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 103,
+              "offset": 14,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 21,
+              "offset": 130,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump - “Yes we’re going to release the footage at the right time-and yes they told us to turn the cameras off.”\n\nJoin&Share @DanScavinoJrOfficiaI",
+          "peerid": {
+            "channel_id": 1725093227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 108,
+          "channelusername": "DanScavinoJrOfficiaI",
+          "mediaref": "74c5452e13ac8fe6c42603467190e6505b6f46fd",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6094192163595957231",
+        "_score": 9.9707,
+        "_source": {
+          "archivedon": "2022-08-18 00:59:47.443838",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1660779122,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 24,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 61,
+              "offset": 576,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 704,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1794708144
+          },
+          "fwdfrom": {
+            "date": 1660779048,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1794708144
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Asielkrakers slaan door https://youtu.be/2sPPlc_L5iU (zoon van Eric vd Burg in de draaideur)                                                                                                                                                                                                                                                                                             👉🏻 Gewoon even als vader, je wordt gebeld door je zoon, je ziet deze beelden, beelden van je zoon, en je bent van slag, angstige momenten, gelukkig is het met hem en zijn huisgenoten allemaal goed https://twitter.com/ericvanderburg/status/1003593893420683264  \"Hoe meer asielzoekers hoe beter\", aldus Eric van der Burg (VVD) https://youtu.be/eYMcoDJkYK8  grens dicht⛔️⛔️⛔️",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2838184
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1794708144,
+            "_v": 1,
+            "access_hash": 6.28143942813596e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rafaeloooo✌🏽💙💚💛💕🤘😎🔥",
+            "id": 1794708144,
+            "is_self": false,
+            "last_name": "VRIJHEID",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 46655,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400234300508
+              },
+              "photo_id": 5.91801141156759e+18,
+              "photo_small": {
+                "local_id": 46653,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400234300508
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Fuckglobalismm",
+            "verified": false,
+            "_media_ref": "87df31936c3128fc73d4b184102c41006d8581ee"
+          },
+          "v": 1,
+          "channelusername": "QStorm1111",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6057077057676913167",
+        "_score": 9.9428,
+        "_source": {
+          "archivedon": "2022-08-18 01:02:11.596365",
+          "channelabout": "Fighting for POTUS 🇺🇸",
+          "channeltitle": "TheStormHasArrived17💀",
+          "date": 1660778816,
+          "editdate": 1660778853,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 31,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 141,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3923,
+            "date": 1660777429,
+            "from_id": {
+              "channel_id": 1331507956,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Cognitive Carbon",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I find it interesting that this comes out after Eric Trump says they're going to release the video of the raid to the public\n\nhttps://t.me/praying_medic/9873",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17 ️ ️ ️",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 8556,
+          "channelusername": "TheStormHasArrived17",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6372728575220598609",
+        "_score": 9.9428,
+        "_source": {
+          "archivedon": "2022-08-18 02:08:54.070442",
+          "channelabout": "Harold’s Library",
+          "channeltitle": "The Library",
+          "date": 1660779429,
+          "editdate": 1660779516,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 31,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3923,
+            "date": 1660777429,
+            "from_id": {
+              "channel_id": 1331507956,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Cognitive Carbon",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I find it interesting that this comes out after Eric Trump says they're going to release the video of the raid to the public\n\nhttps://t.me/praying_medic/9873",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Finch",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1095,
+          "channelusername": "The_Library_II",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5525220386851414317",
+        "_score": 9.9428,
+        "_source": {
+          "archivedon": "2022-08-18 00:59:24.195126",
+          "channelabout": "Please see pinned message.\nChristian: @christianencouragement\nBackup: @QAnons2\n🇺🇸WWG1WGA🇺🇸\n• Safe place for all things Q and Trump related.\n• Use common sense.\n• Invite your friends!\nQuestions and concerns? Message an admin!",
+          "channeltitle": "The Great Awakening - Research",
+          "date": 1660778233,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 31,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 323,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 651570634
+          },
+          "fwdfrom": {
+            "channel_post": 3923,
+            "date": 1660777429,
+            "from_id": {
+              "channel_id": 1331507956,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Cognitive Carbon",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I find it interesting that this comes out after Eric Trump says they're going to release the video of the raid to the public\n\nhttps://t.me/praying_medic/9873",
+          "peerid": {
+            "channel_id": 1286440619,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 570446
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 651570634,
+            "_v": 1,
+            "access_hash": -7.86677235380047e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Norwegian",
+            "id": 651570634,
+            "is_self": false,
+            "last_name": "Squirrel",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 288327,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              },
+              "photo_id": 2.79847456452022e+18,
+              "photo_small": {
+                "local_id": 288325,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "NorSquirrel",
+            "verified": false,
+            "_media_ref": "17a7ec4611b0c075547ffefd2b64c1153232cb26"
+          },
+          "v": 1,
+          "views": 26184,
+          "channelusername": "q_anons",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5146429555816286314",
+        "_score": 9.9428,
+        "_source": {
+          "archivedon": "1680324096",
+          "channelabout": "Digital Soldiers fighting against the mainstream media so the truth will prevail!",
+          "channeltitle": "Q+Anon Map 🍊🇺🇸",
+          "date": 1660780729,
+          "editdate": 1660781424,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 31,
+              "offset": 126,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3923,
+            "date": 1660777429,
+            "from_id": {
+              "channel_id": 1331507956,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Cognitive Carbon",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The DOJ admits that the FBI seized property from President Trump that went outside the scope of the warrant.",
+              "display_url": "t.me/praying_medic/9873",
+              "document": {
+                "access_hash": -9.01510768251738e+18,
+                "attributes": [
+                  {
+                    "duration": 71,
+                    "h": 480,
+                    "reformatted_key": "DocumentAttributeVideo",
+                    "round_message": false,
+                    "supports_streaming": true,
+                    "w": 854
+                  },
+                  {
+                    "reformatted_key": "DocumentAttributeFilename",
+                    "file_name": "john_solomon_DOJ_admits_FBI_took_things_not_authorized_in_the_warrant.mp4"
+                  }
+                ],
+                "date": 1660689730,
+                "dc_id": 1,
+                "file_reference": "AGQns4HGZ4b8Rk0J9RiYLIvI1tb2",
+                "id": 5.1791725568249e+18,
+                "mime_type": "video/mp4",
+                "reformatted_key": "Document",
+                "size": 7340850,
+                "thumbs": [
+                  {
+                    "bytes": "ARYoy0RmIUAZNTz2xRVwBwOTT4MrLlwcClublQdqLkkck1q5LoTqJFbRtByPmPfNU8AVbilxanJ5ANVQ+etKMtXcp+Q0/SilJorTQRdF1EqZUPu+lVHbzHLsTk+1FFcxaQpAVCMnn2pqbQ4JJwCM8UUUwsW5Zbd49oRwc9f8miiii5J/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 11007,
+                    "w": 320
+                  }
+                ],
+                "video_thumbs": []
+              },
+              "hash": 0,
+              "id": 9.17079312110887e+18,
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "Praying Medic",
+              "type": "document",
+              "url": "https://t.me/praying_medic/9873"
+            }
+          },
+          "message": "I find it interesting that this comes out after Eric Trump says they're going to release the video of the raid to the public\n\nhttps://t.me/praying_medic/9873",
+          "peerid": {
+            "channel_id": 1198246506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1790,
+          "channelusername": "QAnonMap",
+          "id": 18538,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 34,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 6,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-01T04:41:36.056002"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6094192163595957011",
+        "_score": 9.5171,
+        "_source": {
+          "archivedon": "2022-08-18 00:59:47.345317",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1660767030,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1513476075
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💯 % accurate regarding Colorado. The death-grip by Jena Griswold and Eric Coomer, Hickenlooper and Polis is enormous. The illegal games they play with Dominion voting systems and drop boxes are heinous crimes.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1782527
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1513476075,
+            "_v": 1,
+            "access_hash": 4.74810887647006e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mary",
+            "id": 1513476075,
+            "is_self": false,
+            "last_name": "Lindow",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 162796,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062100289
+              },
+              "photo_id": 5.08939408279874e+18,
+              "photo_small": {
+                "local_id": 162794,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062100289
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "advocateofhope",
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "QStorm1111",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5966960951520535513",
+        "_score": 9.3045,
+        "_source": {
+          "archivedon": "2022-08-17 04:22:57.486743",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "date": 1660705504,
+          "edithide": false,
+          "entities": [],
+          "forwards": 6,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1561473871
+          },
+          "fwdfrom": {
+            "date": 1660702243,
+            "from_id": {},
+            "from_name": "Mary Jo Joyce",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "It’s the machines and the fractal data base that sews together voter rolls and is used by ERIC. A fractal database, invented by a friend of Obama, can merge data bases of different formats and make them capable of manipulation on the backend without the appearance of the front end changing in any visible way for users (clerks). The entire rolls of 31 states plus DC are sewn together in such fashion. The ERIC service that was touted to prevent fraud, conducts fraud. Vos sold the service to Wisconsin Legislators at a hefty annual subscription.",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 235306
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1561473871,
+            "_v": 1,
+            "access_hash": 2.87146872849365e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mervin",
+            "id": 1561473871,
+            "is_self": false,
+            "last_name": "Trump",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 3394,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054200079
+              },
+              "photo_id": 4.94993399502666e+18,
+              "photo_small": {
+                "local_id": 3392,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100054200079
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 403,
+          "channelusername": "Wiauditchat",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6036877306792805350",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "2022-08-17 09:26:27.905956",
+          "channelabout": "The Storm is Coming 💥\nThe Storm is Here 💥\n\nThe Storm is Upon us ‼️\n\nThe Great Awakening 💥💛\n17 Q\nGematria.💥\nQ Drops.💥\nSchuhmann Resonanzen 💥\nNews.💥👉🏽🌍\nEnjoy the Show 💥🍿\nWWG1WGA",
+          "channeltitle": "DER 17. STAMMTISCH KANAL 💛💥",
+          "date": 1660723582,
+          "editdate": 1660723609,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 26,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23703,
+            "date": 1660699146,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1405570029,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1486214721,
+            "comments": true,
+            "max_id": 194681,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1244710434
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1526364603
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1289878583
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 285355
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4497,
+          "channelusername": "der17stammtisch",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5893679841558959448",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "2022-08-17 06:44:33.36229",
+          "channelabout": "🇦🇹🇦🇹  Qanon Austria  🇦🇹🇦🇹\n\nVon Mensch zu Mensch ✊\n\nE-Mail: Kiki.Qanon.Wien@gmx.at \n\nUnterstützung via PayPal:\npaypal.me/QanonAustria\n\nEure Unterstützung zählt, DANKE ♥️🙏\n\n#WhereWeGo1WeGoAll #WWG1WGA",
+          "channeltitle": "Qanon Austria 🇦🇹",
+          "date": 1660706110,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23703,
+            "date": 1660699146,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1372229271,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 563,
+          "channelusername": "QanonAustria",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6233253502307607435",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "2022-08-17 05:10:35.366368",
+          "channelabout": "Vernetzung ist für uns das höchste Gut!\n\nKontakt: @QNET17ChannelContact_bot\n\nNetzwerk: https://QNET17.cc\n\nhttps://twitter.qnet17.cc\nhttps://facebook.qnet17.cc\nhttps://parler.com/profile/BennyChange\nhttps://lbry.tv/@QNET17:1\nhttps://gab.com/BennyChange",
+          "channeltitle": "QNET17 〉Wir sind die News 🇩🇪",
+          "date": 1660709817,
+          "editdate": 1660710502,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23703,
+            "date": 1660699146,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1451292425,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 311,
+          "channelusername": "qpluswatnn",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5659423404588026862",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "2022-08-17 18:32:39.858168",
+          "channelabout": "Bitte verbreitet den Link des Kanals um noch mehr Menschen aufzuwecken: \n\nt.me/q_proofs\n\nWas ist Q?\n\nhttps://qlobal-change.blogspot.com/p/fur-neulinge-thema-qanon-trump-zum.html\n\nhttp://qposts.in\n\nhttps://qanon.pub\n\nhttps://qposts.online/",
+          "channeltitle": "Q-Beweise (Q-proofs)",
+          "date": 1660730685,
+          "editdate": 1660747551,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23703,
+            "date": 1660699146,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1317687194,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 626,
+          "channelusername": "q_proofs",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5283167231323363480",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "2022-08-17 22:58:28.222449",
+          "channelabout": "Lichtkrieger Modus...\nAnon's Netzwerk-DE/Worldwide \nQ-Anon's kontakt kanal\nVon hier wirst du weitergeleitet.\nEinfach beitreten zum Kanal.\nOder informiere dich hier über unzensierte Meldungen aus der ganzen Welt .\nWWG1WGA\n✌️",
+          "channeltitle": "Q ANONYMOUS KANAL DEUTSCHLAND",
+          "date": 1660751039,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23703,
+            "date": 1660699146,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 939,
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5519724344835595415",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "1682525397",
+          "channelabout": "https://qalerts.app\n📨 @QC_Kontakt_Bot\n🇺🇸 @QlobalChangeUSA\n🇮🇹 @QlobalChangeItalia\n🇪🇸 @QlobalChangeEspana\n🇵🇹 @QlobalChangePortugal\n🇫🇷 @QlobalChangeFrance\n🇳🇱 @QlobalChangeNL\n🎦 @X22_Report_Deutsch\n▶️ odysee.com/$/invite/@Qlobal-Change:",
+          "channeltitle": "Qlobal-Change 🇩🇪🇦🇹🇨🇭🇱🇮 🤝 🇳🇱",
+          "date": 1660699146,
+          "editdate": 1660699236,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 179,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 809,
+              "offset": 495,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 110,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 273,
+              "offset": 1440,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 1713,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1722,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            },
+            {
+              "length": 7,
+              "offset": 1733,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de"
+            }
+          ],
+          "forwards": 523,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.facebook.com/gatewaypundit",
+              "display_url": "thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video",
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "hash": 0,
+              "id": 7.00594959760186e+18,
+              "photo": {
+                "access_hash": 2.40346726594263e+18,
+                "date": 1660663969,
+                "dc_id": 4,
+                "file_reference": "AGRJTMnXZ702hyEscQyhzstbwbNh",
+                "has_stickers": false,
+                "id": 6.04284803763993e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARYoobM0vl55HSljkRn+Y7RUpkjAPOfTAqriEMKeTwvz465qNkGemDjoOatRQ/uxITkBd2KabiFzkodx9alXRTK3l8iipEfJUAY5opc4rCwywoqkwqzdORxU32uDobeMcf3BRRVFWJUuUUcLxjGCO1Rfa4uM20eP90UUUgI2lhbhIsHHoKKKKTEj",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 177,
+                    "size": 18109,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 340,
+                    "w": 613,
+                    "sizes": [3902, 11471, 19829, 26963, 39166]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "\"Yes, Absolutely - At The Right Time\" - Eric Trump Says Trump Team will Release Mar-a-lago Security Camera Footage from FBI Raid on President's Home (VIDEO)",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/08/yes-absolutely-right-time-eric-trump-says-trump-team-will-release-mar-lago-security-camera-footage-fbi-raid-presidents-home-video/"
+            }
+          },
+          "message": "Eric Trump sagt, dass das Trump-Team die Aufnahmen der Sicherheitskameras von der FBI-Razzia im Haus des Präsidenten in Mar-a-Lago \"zum richtigen Zeitpunkt\" veröffentlichen wird\n\nEric Trump war am Montagabend bei Sean Hannity zu Gast, um die Diskussion über die beispiellose Razzia in Präsident Trumps Haus Mar-a-Lago vor einer Woche fortzusetzen.\n\nWährend der Diskussion sagte Eric, dass die Familie das Filmmaterial der Sicherheitskameras während der Razzia veröffentlichen wird.\n\nEric Trump: \"Das ist auf jeden Fall ein Fangeinsatz. Sie haben den Durchsuchungsbefehl am Freitag ausgestellt. Sie haben den Durchsuchungsbefehl erst am Montag vollstreckt... Es ist genau das gleiche Format, das sie für Russland verwendet haben. Es sind genau dieselben Reporter, denen Informationen zugespielt werden, die als Quellen für den ganzen Russland-Schwindel verwendet wurden... Es sind genau dieselben Leute, denen das FBI jetzt Informationen zuspielt. Dieselben Reporter, die über dieselbe Sache berichten. Dieselbe Geschichte. Sie wenden sich an ihre Freunde in den demokratischen Medien. Sie waren praktisch der Lobbyisten-Arm der Demokratischen Partei und sie lassen Geschichten über Donald Trump durchsickern, um ihm zu schaden... Wir sind 90 Tage vor den Zwischenwahlen. Das wird auf sie zurückfallen.\"\n\nSean Hannity: \"Ihr habt immer noch das Überwachungsband. Ist das richtig? Ist es euch erlaubt, es mit dem Land zu teilen?\"\n\nEric Trump: \"Auf jeden Fall, Sean. Zum richtigen Zeitpunkt. Und dein Argument mit der Bodycam war genau richtig. Das ist der Grund, warum Polizisten Bodycams haben. Sie sagen dir nicht, dass du die Kameras ausschalten sollst. Sie wollen Transparenz. Und das ist hier nicht der Fall.\"\n\nQuelle:\n[Englisch] [Deutsch]",
+          "peerid": {
+            "channel_id": 1285160972,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 117157,
+          "channelusername": "QlobalChange",
+          "id": 23703,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 636,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 24,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 13,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-26T16:09:57.348317"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6008661385997958398",
+        "_score": 8.9849,
+        "_source": {
+          "archivedon": "2022-08-17 21:47:27.808571",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1660745814,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 782240529
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Lol..good for Eric..pretty pathetic that trump and his inner circle always say “wait..it will come” but they never actually bring it..you always have to wait..but when he wants donations then he immediately advertising begs for donations",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 244984,
+            "reply_to_top_id": 244916
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 782240529,
+            "_v": 1,
+            "access_hash": 5.42942327790413e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Yanni",
+            "id": 782240529,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6328990694157407485",
+        "_score": 8.579,
+        "_source": {
+          "archivedon": "1682025210",
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "date": 1660748592,
+          "editdate": 1660748596,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 4,
+              "offset": 5,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 6,
+              "offset": 53,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 190,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 27,
+              "offset": 201,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 22,
+              "offset": 251,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5660,
+            "date": 1660746644,
+            "from_id": {
+              "channel_id": 1207994469,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "When FBI agents raided the home of President Donald Trump at Mar-a-Lago, they allegedly requested that security cameras ...",
+              "display_url": "theepochtimes.com/trump-recorded-mar-a-lago-raid-family-plans-to-release-video-behind-the-dismantling-of-americas-energy-independence_4669234.html",
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "hash": 0,
+              "id": 7.03780172460391e+18,
+              "photo": {
+                "access_hash": -9.19327057287715e+18,
+                "date": 1661629899,
+                "dc_id": 4,
+                "file_reference": "AGRBo6M5xL8Uz39/ThItHTTNTPL4",
+                "has_stickers": false,
+                "id": 5.79061081886856e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcorIydjtcd60IZt8YO3qcnHTNRLEHgVix6dsfX09qkNqGjG6SQYj3dgfp0pAU758OvBwCRkcelRQ7juJJ4HBbJq80I8sgsWxgYbBB4H+NVwSFwwIYcAYoQyu00oU/PnP4GircEfmSFmjVh/tCii9hWuRLNGIVAZlbvtJqOSYgjypJBxjljRRR1KXwEZnlxgsSvoxJpDO54OKKKZILO/ODj6UUUUAc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 24983,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 107682,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 720,
+                    "w": 1280,
+                    "sizes": [14892, 41882, 66254, 100717, 170494]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "www.theepochtimes.com",
+              "title": "Trump Recorded Mar-a-Lago Raid, Family Plans to Release Video; Behind the Dismantling of America's Energy Independence",
+              "type": "photo",
+              "url": "https://ept.ms/RaidRecorded"
+            }
+          },
+          "message": "When #FBI agents raided the home of President Donald #Trump, the cameras may have still been rolling over. Eric Trump is now announcing his plans to release the video publicly.\n\n🔵 Watch at @EpochTV👉 https://ept.ms/RaidRecorded\n\n🔵 Save up to 50%👉  https://ept.ms/3QZtZXC",
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "13th-GEN_PATRIOT ❤🇺🇸✔",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388491
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 328,
+          "channelusername": "imglover13THGENPATRIOT",
+          "id": 87293,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-20T21:13:30.732680"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5726038085356011705",
+        "_score": 8.0979,
+        "_source": {
+          "archivedon": "2022-08-18 01:48:40.021874",
+          "channeltitle": "Freie Saarländer Chat",
+          "date": 1660768317,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 60,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 45,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 62,
+              "offset": 273,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 9,
+              "offset": 348,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 359,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 390,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 401,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 64,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 914427761
+          },
+          "fwdfrom": {
+            "channel_post": 2245,
+            "date": 1660706284,
+            "from_id": {
+              "channel_id": 1202050583,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "So sieht die \"unabhängige\" Berichterstattung bei der ARD aus.\n\nDie Atlantikbrücke wurde von Eric M. Warburg gegründet:\n\nhttps://de.wikipedia.org/wiki/Eric_M._Warburg\n\nEin Blick in die Gremien lässt erahnen in welchem Umfeld sich diese \"unabhängigen Journalisten\" bewegen:\n\nhttps://www.atlantik-bruecke.org/die-atlantik-bruecke/gremien/\n\nFolgt uns: @FreiesST\n\n@Beitragsservice \n\nImmer Neues @Aufdecker\n@SchlussJetzt für Checker",
+          "peerid": {
+            "channel_id": 1333197133,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 55881
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 914427761,
+            "_v": 1,
+            "access_hash": 8.28073751621185e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "ich bin ein Kind Gottes",
+            "id": 914427761,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 2451,
+          "mediaref": "44c1e3d3362ffc1b6fcb767163d53f2cadf91784",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6205000782232707936",
+        "_score": 8.0979,
+        "_source": {
+          "archivedon": "2022-08-17 22:08:05.920268",
+          "channeltitle": "Free South Carolina",
+          "date": 1660765140,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 151,
+              "offset": 190,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1537655520
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Every state that has the ERIC system needs to get rid of it.  How can we do it?  Listen to this very important informational video from Jovan Hutton Pulitzer and you will understand why.    https://jovanhuttonpulitzer.locals.com/post/2587173/what-if-a-foreign-entity-knew-all-our-election-workers-their-passwords-and-exactly-when-an-election",
+          "peerid": {
+            "channel_id": 1444714326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 35726
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1537655520,
+            "_v": 1,
+            "access_hash": -5.66066039500635e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marianne",
+            "id": 1537655520,
+            "is_self": false,
+            "last_name": "Zeltner",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelusername": "FreeSouthCarolina",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5369948690511367561",
+        "_score": 8.0979,
+        "_source": {
+          "archivedon": "2022-08-17 23:01:35.69063",
+          "channelabout": "🔊 Wir Demokraten wollen miteinander in Kontakt bleiben @DemotermineChat und uns im Bedarfsfall möglichst schnell austauschen, Beweise in Wort, Bild und Ton sichern, damit sie nicht unterschlagen werden können @LivestreamsFuerDich!\n\n@Terminverteiler_Bot",
+          "channeltitle": "Demo-Termine & Kontakte, Gleichgesinnte treffen - Demokalender, Spaziergänge, Mahnwachen, Meditation *Rücktritt Bundesregierung!",
+          "date": 1660768275,
+          "editdate": 1660769248,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 60,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 45,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 62,
+              "offset": 273,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 9,
+              "offset": 348,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 359,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 390,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 401,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 31,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2245,
+            "date": 1660706284,
+            "from_id": {
+              "channel_id": 1202050583,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "So sieht die \"unabhängige\" Berichterstattung bei der ARD aus.\n\nDie Atlantikbrücke wurde von Eric M. Warburg gegründet:\n\nhttps://de.wikipedia.org/wiki/Eric_M._Warburg\n\nEin Blick in die Gremien lässt erahnen in welchem Umfeld sich diese \"unabhängigen Journalisten\" bewegen:\n\nhttps://www.atlantik-bruecke.org/die-atlantik-bruecke/gremien/\n\nFolgt uns: @FreiesST\n\n@Beitragsservice \n\nImmer Neues @Aufdecker\n@SchlussJetzt für Checker",
+          "peerid": {
+            "channel_id": 1250288610,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1390786296,
+            "comments": true,
+            "max_id": 259432,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 893597902
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 553147
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1331,
+          "channelusername": "Demotermine",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6137290442422707836",
+        "_score": 7.3882,
+        "_source": {
+          "archivedon": "1681454834",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "date": 1660702644,
+          "editdate": 1660702647,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 74,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 310,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ago.mo.gov/docs/default-source/press-releases/08916881989.pdf"
+            },
+            {
+              "length": 1,
+              "offset": 423,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 31,
+              "offset": 424,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 31,
+              "offset": 424,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 455,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 45,
+              "offset": 457,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 45,
+              "offset": 457,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 40580,
+            "date": 1660701874,
+            "from_id": {
+              "channel_id": 1184870794,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "SANTINQ",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Judge Orders Biden Admin to Hand Over Communications With Tech Companies\n\nA federal judge has ordered the Biden administration to hand over communication documents between the federal government and big tech companies.\nU.S. District Court Judge Terry Doughty, of the Western District of Louisiana, granted the order of discovery sought by Republican Attorneys General Eric Schmitt of Missouri and Jeff Landry of Louisiana.\n\nhttps://t.me/TheOfficialSantino\n\nhttps://conservativebrief.com/judge-34-65213/",
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jeannie Lewis",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243302
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 107,
+          "channelusername": "Hyer971",
+          "mediaref": "4ae5bfadaa9c1741501d1971da0e2be692d8ee8a",
+          "id": 91772,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-14T06:47:14.234921"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6290698938999652547",
+        "_score": 6.3237,
+        "_source": {
+          "archivedon": "2022-08-17 20:46:20.088471",
+          "channelabout": "Official Telegram of Eric Striker",
+          "channeltitle": "Eric Striker",
+          "date": 1660757384,
+          "editdate": 1660757593,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 508,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "When the FBI raided Mar-a-Lago they demanded the Trumps turn off their surveillance cameras. The FBI's modus operandi is to behave like a child molester, telling you to keep your mouth shut when they violate you and not document what they are doing.  The Trumps were smart and refused to comply. \n\nNow the secret police is going to have to deal with video of their thugs trashing Trump's property and rifling through Melania's clothes on a fishing expedition being made public, which is a really bad look. \n\nhttps://www.ntd.com/eric-trump-says-hell-release-fbi-raid-surveillance-tape_825672.html",
+          "peerid": {
+            "channel_id": 1464667483,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1576,
+          "channelusername": "EricStrikerTRS",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6382876771192152390",
+        "_score": 3.1502,
+        "_source": {
+          "archivedon": "2022-08-17 05:51:19.307663",
+          "channelabout": "God Bless the SSPX\n\n𝘌𝘹𝘵𝘳𝘢 𝘌𝘤𝘤𝘭𝘦𝘴𝘪𝘢𝘮 𝘯𝘶𝘭𝘭𝘢 𝘴𝘢𝘭𝘶𝘴 - Ž𝘪𝘷𝘫𝘦𝘭𝘪 𝘜𝘴𝘵𝘢š𝘦",
+          "channeltitle": "Modernists Go To Hell",
+          "date": 1660704920,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 303,
+              "offset": 31,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 3,
+              "offset": 419,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://therightstuff.biz/"
+            },
+            {
+              "length": 14,
+              "offset": 550,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AmalekInternational/91"
+            },
+            {
+              "length": 25,
+              "offset": 579,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://overthrowdotcom.files.wordpress.com/2017/01/meet-mike-peinovich-the-upper-east-side_s-neo-nazi-media-kingpin.pdf"
+            },
+            {
+              "length": 30,
+              "offset": 809,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://lukeford.net/blog/?p=111761"
+            },
+            {
+              "length": 8,
+              "offset": 846,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://j-impact.fund/"
+            },
+            {
+              "length": 47,
+              "offset": 1168,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/IsMikeEnochOfTRSJewishLetsFindOut"
+            },
+            {
+              "length": 57,
+              "offset": 1309,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.ph/aqiCV"
+            },
+            {
+              "length": 40,
+              "offset": 1491,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/TRSEXPOSED/179"
+            },
+            {
+              "length": 12,
+              "offset": 1571,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.renegadetribune.com/eric-striker-is-a-bolshevik-shill/"
+            },
+            {
+              "length": 46,
+              "offset": 1596,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/TRSEXPOSED/175"
+            },
+            {
+              "length": 10,
+              "offset": 1684,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 1717,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/TRSEXPOSED/176"
+            },
+            {
+              "length": 19,
+              "offset": 1800,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://nationaljusticeparty.com/platform/"
+            },
+            {
+              "length": 62,
+              "offset": 1901,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 32,
+              "offset": 2003,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 94,
+            "date": 1660362844,
+            "from_id": {
+              "channel_id": 1536959769,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.32856393512943e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "THE GLOWNIGGERS IN OUR MIDST\n\n“Paranoia is an insidious thing & must rank as one of the top 2 or 3 causes for the complete failure of a racialist organization.  Paranoia is most often thought of as seeing things which aren’t there (infiltrators, “Jews”, etc), but it has one residual effect of NOT SEEING things which really are there” — SIEGE [Vol. XIII #12 - Dec 1984]\n\nHere is the story of Mike “Enoch” Peinovich of TRS, whose podcast became popular in the 2010s\n\nTRS talked about racial realism & he and his chums followed the breadcrumbs to the Jewish Problem\n\nThen in 2017 a Lefty outfit doxxed him.  Goys were shocked; ‘based’ Mike was married to a Jew, the same Jew who had read a cringe “fashy” poem on the Xmas show #64\n\nAnd not just a Jew, but a SUPER-JEW named Ames Friedman who was B'nai B’rith, worked as a drag show reviewer & for J-impact, which is “using the world's best technology & bound by Jewish values\"\n\nThis caused a huge fallout & TRS went into damage control mode, banning anyone who pointed out the obvious; everyone had known Mike’s wife was Jewish and yet they had kept quiet.  Peinovich divorced her\n\nThen recordings started surfacing of Peinovich talking about his own Jewish ancestry\n\nThen in 2019 it was found that “Jayoh”, who was then in charge of security at TRS, had been a heroin dealer on the run from the feds in South America. TRS went into damage control mode again\n\nMike Peinovich has stated that it is ‘ridiculous’ to think Israel did 9/11 & that MDs sceptical of the vaxxes are “Quacks”.  His right hand man Joseph Jordan aka Eric Striker stated that “the science is in” & the mRNA vaxxes are safe.  His other right hand man has said that @tomsewell and other people are “fake White nationalists” \n\nIf you would like to join the TRS organization or their political party NJP you can ‘go to a pool party and get vetted’ by giving them your personal info \n\n“The best way to control the opposition is to lead it ourselves”\n\n(((Vladimir Lenin)))\n\n∞∞∞∞∞∞∞∞∞∞∞∞∞∞\nhttps://t.me/AmalekInternational",
+          "peerid": {
+            "channel_id": 1486129307,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 108,
+          "channelusername": "ModernistsGoToHell",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1821 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [21],
+      "relation": ["eq"]
+    },
+    "max_score": [11.6173],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "7293488315586577570",
+        "_score": 11.6173,
+        "_source": {
+          "archivedon": "2022-02-13 15:41:53.346525",
+          "channeltitle": "Worldwide convoy",
+          "date": 1644444589,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Hey there ERIC, and welcome to Worldwide convoy! How are you?",
+          "peerid": {
+            "channel_id": 1698147579,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2977
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6094192163595396618",
+        "_score": 10.5324,
+        "_source": {
+          "archivedon": "2022-02-09 16:33:49.966712",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "date": 1644421938,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1480367727
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Oh my goodness, I forgot about Eric Clayton’s son. He fell from a window or balcony, correct?",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1222151
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1480367727,
+            "_v": 1,
+            "access_hash": 3.45942404062886e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lori",
+            "id": 1480367727,
+            "is_self": false,
+            "last_name": "B",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 249362,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806525315
+              },
+              "photo_id": 4.99469492441486e+18,
+              "photo_small": {
+                "local_id": 249360,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806525315
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "just_me_lori",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channelusername": "QStorm1111",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5989426340602842434",
+        "_score": 10.2184,
+        "_source": {
+          "archivedon": "2022-02-09 23:34:07.266752",
+          "channeltitle": "Free Nebraska",
+          "date": 1644446601,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1557474170
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Poor Allie has to deal with Eric Cartman  over here when she put the two of us together 😂",
+          "peerid": {
+            "channel_id": 1394521990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 3393
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1557474170,
+            "_v": 1,
+            "access_hash": -3.33376489402658e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Patrick",
+            "id": 1557474170,
+            "is_self": false,
+            "last_name": "Minary",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 11464,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100167600227
+              },
+              "photo_id": 5.03332016230824e+18,
+              "photo_small": {
+                "local_id": 11462,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100167600227
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "4bd82658973fe0c0b9591ae16877e2e705f51a1b"
+          },
+          "v": 1,
+          "channelabout": "Promoting a free Nebraska",
+          "channelusername": "FreeNebraska",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4599600813680121468",
+        "_score": 9.898,
+        "_source": {
+          "archivedon": "2022-02-09 19:01:33.327552",
+          "channeltitle": "Yid Info",
+          "date": 1644428108,
+          "editdate": 1644428111,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 224,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 134,
+              "offset": 234,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Brooklyn District Attorney Eric Gonzalez today announced the creation of a new helpline and email address to accept reports of the use or sale of fraudulent vaccination records to combat abuses that can endanger the public.\n@YidInfo\n\nhttps://yidinfo.net/brooklyn-district-attorney-eric-gonzalez-establishes-helpline-to-reportvaccination-fraud-and-relief-program-abuse/",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 53241
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 686,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channelusername": "YidInfo",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5487978987420507082",
+        "_score": 9.898,
+        "_source": {
+          "archivedon": "2022-02-09 18:15:58.439849",
+          "channeltitle": "BOSS_HAWGA",
+          "date": 1644428147,
+          "editdate": 1644428150,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 224,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 134,
+              "offset": 234,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22140,
+            "date": 1644428108,
+            "from_id": {
+              "channel_id": 1070928018,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Brooklyn District Attorney Eric Gonzalez today announced the creation of a new helpline and email address to accept reports of the use or sale of fraudulent vaccination records to combat abuses that can endanger the public.\n@YidInfo\n\nhttps://yidinfo.net/brooklyn-district-attorney-eric-gonzalez-establishes-helpline-to-reportvaccination-fraud-and-relief-program-abuse/",
+          "peerid": {
+            "channel_id": 1277769680,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1744702409,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28497
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 141,
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channelusername": "HawGa",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6202437180678232807",
+        "_score": 8.9148,
+        "_source": {
+          "archivedon": "2022-02-09 14:25:25.928322",
+          "channeltitle": "Nashira News",
+          "date": 1644416192,
+          "editdate": 1644416195,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 182,
+              "offset": 5,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇫🇷 Présidentielle 2022 : Ancien ministre et figure de la droite, Eric Woerth annonce au Parisien qu'il ne soutiendra pas Valérie Pécresse pour la course à l'Elysée, mais Emmanuel Macron",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 286595,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 597092318
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 895967666
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 420536
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 290,
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channelusername": "NashiraNews",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5592478299101082342",
+        "_score": 8.8045,
+        "_source": {
+          "archivedon": "2022-02-09 12:13:02.131538",
+          "channeltitle": "East Coast News & Discussion",
+          "date": 1644373747,
+          "editdate": 1644373751,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 96,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 62848,
+            "date": 1644371106,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "He bizarrely claimed that he made the racial slur because he fought racism.  Yeah, he said that.\n\nhttps://www.lawenforcementtoday.com/nyc-mayor-eric-adams-use-a-racial-slur-towards-white-people/",
+          "peerid": {
+            "channel_id": 1302100322,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1252147944,
+            "comments": true,
+            "max_id": 24410,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1712064140
+              },
+              {
+                "reformatted_key": "PeerChannel",
+                "channel_id": 1302100322
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2019202223
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 42743
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 116,
+          "channelabout": "Welcome to East Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@midwest_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channelusername": "eastcoast_intel",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6117742860847569161",
+        "_score": 8.8045,
+        "_source": {
+          "archivedon": "2022-02-09 11:03:35.33582",
+          "channeltitle": "US Voter Fraud & Coup-Ops Intel 2020 & 2021",
+          "date": 1644373747,
+          "editdate": 1644373750,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 96,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 62848,
+            "date": 1644371106,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "He bizarrely claimed that he made the racial slur because he fought racism.  Yeah, he said that.\n\nhttps://www.lawenforcementtoday.com/nyc-mayor-eric-adams-use-a-racial-slur-towards-white-people/",
+          "peerid": {
+            "channel_id": 1424398008,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1304909613,
+            "comments": true,
+            "max_id": 117579,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1513549241
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 174054
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 125,
+          "channelabout": "This is a Dedicated-Curated Archive of Savage_Marxist_Election_Fraud_Criminality\n\nPresented to both the audience, and Archived for the Public, Legal and Historic Record.\n\nDrop voter fraud info in the linked groupchat channel https://t.me/usvoterfraudchat",
+          "channelusername": "usvoterfraud",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6871030530578615985",
+        "_score": 8.4911,
+        "_source": {
+          "archivedon": "2022-02-13 19:09:27.398614",
+          "channeltitle": "Canada Freedom Convoy🚛🚚",
+          "date": 1644416598,
+          "editdate": 1644416837,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 106,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 18,
+              "offset": 121,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 24,
+              "offset": 140,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 21,
+              "offset": 165,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 23,
+              "offset": 187,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 19,
+              "offset": 211,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 68,
+              "offset": 233,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2121130001
+          },
+          "fwdfrom": {
+            "channel_post": 613,
+            "date": 1644385320,
+            "from_id": {
+              "channel_id": 1399974835,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Chris and Eric give an update on Freedom Convoy 2022 morale and the situation with the police and fuel. \n\n#FreedomConvoy #FreedomConvoy2022 #FreedomConvoyCanada2022 #ConvoyForFreedom2022 #TruckersForFreedom2022 #TruckersConvoy2022 \n\nhttps://brightlightnews.com/trucker-morale-high-freedom-convoy-2022/",
+          "peerid": {
+            "channel_id": 1599786461,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 73179
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 2121130001,
+            "_v": 1,
+            "access_hash": 3.47794504503965e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Aloysius",
+            "id": 2121130001,
+            "is_self": false,
+            "last_name": "Snuffleupagus",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Snuffler",
+            "verified": false
+          },
+          "v": 1,
+          "views": 2516,
+          "channelabout": "Organizing local mutual aid for those being denied basic rights and freedoms. Part of the Freedom Support Network. Canada Group Link: t.me/ConvoyCA",
+          "channelusername": "ConvoyCA",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6139677447806795925",
+        "_score": 7.8494,
+        "_source": {
+          "archivedon": "2022-02-09 17:06:24.2656",
+          "channeltitle": "Dr. Tenpenny",
+          "date": 1644426184,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 252,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 13,
+              "offset": 266,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 90,
+              "offset": 390,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Vote out every politician that is breaking the law by forcing unconstitutional mandates on our society but especially when it comes to our children!                                                                                                        #VoteThemOut  #MaskMandates                                                                                                               https://www.newsmax.com/politics/new-york-hochul-eric-adams-schools/2022/02/07/id/1055881/",
+          "peerid": {
+            "channel_id": 1429505052,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 544,
+          "channelabout": "Warrior for the preservation of human DNA",
+          "channelusername": "DrTenpenny",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6202437180678232808",
+        "_score": 7.5298,
+        "_source": {
+          "archivedon": "2022-02-09 15:56:20.955798",
+          "channeltitle": "Nashira News",
+          "date": 1644417180,
+          "editdate": 1644419057,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 5,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇫🇷 Présidentielle 2022 : Jacob demande à Woerth de quitter LR après son soutien à Macron\n\nLe président du parti Les Républicains Christian Jacob a appelé Eric Woerth à quitter le parti après qu'il ait annoncé son ralliement à Emmanuel Macron pour la campagne présidentielle.",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 286608,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 886684342
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 420562
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 23271
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 748,
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channelusername": "NashiraNews",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6283726514861124913",
+        "_score": 6.5026,
+        "_source": {
+          "archivedon": "2022-02-09 14:08:54.777187",
+          "channeltitle": "The For Britain Movement (Official)",
+          "date": 1644412704,
+          "editdate": 1644412707,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 334,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Complete joke\": Larry Elder exposes BLM leaders as tax-aversion reports emerge\n\nLongtime nationally-syndicated talk radio personality and former California gubernatorial candidate Larry Elder comments on new reports about leaders at the 'non profit' Black Lives Matter. - via Eric Bolling The Balance, weekdays at 4PM ET on Newsmax\n\nhttps://odysee.com/@NewsmaxTV:3/complete-joke-larry-elder-exposes-blm:4",
+          "peerid": {
+            "channel_id": 1463044089,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "For Britain movement",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1260375604,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 19776
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27,
+          "channelabout": "The For Britain Movement is a positive, pro-British, pro-democracy party, which believes in preserving the culture and values of the decent British majority and passing these on to future generations. We believe in truth, justice, and freedom.",
+          "channelusername": "TheForBritainMovement",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4589158519822878200",
+        "_score": 4.8411,
+        "_source": {
+          "archivedon": "1679123422",
+          "channeltitle": "Michael Yeadon (Real)",
+          "date": 1644400580,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 56,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 57,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 91,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 733,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Internal WH Investigation Finds Biden’s Science Advisor 'Bullied and Demeaned Subordinates'\n\nThe two-month White House review, initiated by complaints, found Eric Lander mistreated his subordinates and violated President Biden’s workplace policies. (Politico)\n\nThe investigation found \"credible evidence” of “disrespectful interactions with staff by Dr. Lander and OSTP leadership,” and he had communicated \"harshly and disrespectfully to colleagues.”\n\nLander has apologized to staff for his “demeaning conduct” and the WH plans to keep Lander in his position after he receives counselling. (AP)\n\nWhat happened to Biden’s policy warning anyone who disrespected their colleagues would be fired, “on the spot, no ifs, ands or buts”…?\n\nhttps://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21335,
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channelusername": "Yeadon_Michael",
+          "id": 1528,
+          "mediaref": "40cd908fdcb991796a74fa3f5a85f6d0ad81fdab",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-18T07:10:22.957837"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4585130905651119576",
+        "_score": 4.8411,
+        "_source": {
+          "archivedon": "1679092783",
+          "channeltitle": "Ghost Ezra (Real)",
+          "date": 1644400582,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 56,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 57,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 91,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 733,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Internal WH Investigation Finds Biden’s Science Advisor 'Bullied and Demeaned Subordinates'\n\nThe two-month White House review, initiated by complaints, found Eric Lander mistreated his subordinates and violated President Biden’s workplace policies. (Politico)\n\nThe investigation found \"credible evidence” of “disrespectful interactions with staff by Dr. Lander and OSTP leadership,” and he had communicated \"harshly and disrespectfully to colleagues.”\n\nLander has apologized to staff for his “demeaning conduct” and the WH plans to keep Lander in his position after he receives counselling. (AP)\n\nWhat happened to Biden’s policy warning anyone who disrespected their colleagues would be fired, “on the spot, no ifs, ands or buts”…?\n\nhttps://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21497,
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channelusername": "Ezra_Ghost",
+          "id": 1496,
+          "mediaref": "40cd908fdcb991796a74fa3f5a85f6d0ad81fdab",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-17T22:39:43.727618"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5764665659711555136",
+        "_score": 4.8411,
+        "_source": {
+          "archivedon": "1680887454",
+          "channeltitle": "Nesara - Gesara",
+          "date": 1644400528,
+          "editdate": 1644400531,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 56,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 57,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 91,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 733,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Internal WH Investigation Finds Biden’s Science Advisor 'Bullied and Demeaned Subordinates'\n\nThe two-month White House review, initiated by complaints, found Eric Lander mistreated his subordinates and violated President Biden’s workplace policies. (Politico)\n\nThe investigation found \"credible evidence” of “disrespectful interactions with staff by Dr. Lander and OSTP leadership,” and he had communicated \"harshly and disrespectfully to colleagues.”\n\nLander has apologized to staff for his “demeaning conduct” and the WH plans to keep Lander in his position after he receives counselling. (AP)\n\nWhat happened to Biden’s policy warning anyone who disrespected their colleagues would be fired, “on the spot, no ifs, ands or buts”…?\n\nhttps://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27897
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21269,
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channelusername": "Nesara_Gesara1",
+          "id": 1600,
+          "mediaref": "40cd908fdcb991796a74fa3f5a85f6d0ad81fdab",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-07T17:10:54.681402"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4902471006767024146",
+        "_score": 4.8411,
+        "_source": {
+          "archivedon": "1683699430",
+          "channeltitle": "Ivanka Trump",
+          "date": 1644400529,
+          "editdate": 1644400533,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 56,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 57,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 2,
+              "offset": 91,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 733,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Internal WH Investigation Finds Biden’s Science Advisor 'Bullied and Demeaned Subordinates'\n\nThe two-month White House review, initiated by complaints, found Eric Lander mistreated his subordinates and violated President Biden’s workplace policies. (Politico)\n\nThe investigation found \"credible evidence” of “disrespectful interactions with staff by Dr. Lander and OSTP leadership,” and he had communicated \"harshly and disrespectfully to colleagues.”\n\nLander has apologized to staff for his “demeaning conduct” and the WH plans to keep Lander in his position after he receives counselling. (AP)\n\nWhat happened to Biden’s policy warning anyone who disrespected their colleagues would be fired, “on the spot, no ifs, ands or buts”…?\n\nhttps://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 20646,
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channelusername": "Ivanka_Trump1",
+          "id": 2066,
+          "mediaref": "40cd908fdcb991796a74fa3f5a85f6d0ad81fdab",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-05-10T06:17:10.909285",
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/2066"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4680014906542523430",
+        "_score": 4.4611,
+        "_source": {
+          "archivedon": "1679147666",
+          "channeltitle": "Paul Gosar",
+          "date": 1644445815,
+          "editdate": 1644445817,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 733,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Biden’s Top WH Medical Adviser QUITS After Staff Mistreatment Evidence\n\nEric Lander has resigned just hours after the White House confirmed an investigation had found credible evidence of him bullying staff - despite the review being completed weeks ago.\n\nJoe Biden had insisted in his Inauguration Day address that he would fire anyone who showed disrespect to others “on the spot”, but Monday the WH signaled he’d been allowed to remain in his job.\n\nPress Sec Jen Psaki claimed that “the president has been crystal clear with all of us about his high expectations of how he and his staff should be creating a respectful work environment.”\n\nLander claimed to be “devastated” to have caused hurt - or perhaps that he’d been caught?\n\nhttps://t.me/Donald_Real_Trump",
+          "peerid": {
+            "channel_id": 1089650883,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1160314312,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28267
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 16547,
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channelusername": "Paul_Gosar",
+          "id": 1062,
+          "mediaref": "c5f26d4a69b62f44879278e9fdffa4932e59f6a5",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-18T14:05:56.402648"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6017328694425553041",
+        "_score": 4.1495,
+        "_source": {
+          "archivedon": "1681259744",
+          "channeltitle": "Soothing White Pills",
+          "date": 1644432893,
+          "editdate": 1644435152,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 787,
+              "offset": 45,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.dailymail.co.uk/news/article-10494115/Eric-Lander-500-000-1million-BioNTech-stock-promoting-vaccines.html"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 69,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Morgan Phillips, Politics Reporter For Dailymail.Com",
+              "description": "President Biden's now-disgraced outgoing top science adviser Eric Lander held stocks in BioNTech as we was peddling the Pfizer-BioNTech vaccine in his official role.",
+              "display_url": "dailymail.co.uk/news/article-10494115/Eric-Lander-500-000-1million-BioNTech-stock-promoting-vaccines.html",
+              "hash": 0,
+              "id": 1.2432811181943e+17,
+              "photo": {
+                "access_hash": -3.38636290301217e+18,
+                "date": 1644421375,
+                "dc_id": 4,
+                "file_reference": "AGQ1+yvlBbh+4YColZoRfQ+G5T28",
+                "has_stickers": false,
+                "id": 5.77504886386496e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARgoYlsGhLkjPXrUUfzSbQeajuJWA8sMQvUimQD5yRnIracnrFEQXVl2FAbtQCMAitfCEZ8v/wAdrnoGMVxnrtOf1rRbVWUf6kfnSknJJgtHYuSqvkvtjH3T2xRUT3e+3ZlAI4B56AjrRUIppmFOjLId3c8GnRgx7XbhSOKKKc9JBDVD/JklbfGPlPGc1MLaUEMSCQc49KKKtR0B7l4CHCxRn5TlDx68iiiispJJlqTsfw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 192,
+                    "size": 17309,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 382,
+                    "w": 636,
+                    "sizes": [7828, 15549, 23800, 30839, 45347]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Mail Online",
+              "title": "REVEALED: Biden science advisor Eric Lander, who resigned for bullying staff, had between $500,000 to $1million in BioNTech stock when he was in the White House promoting vaccines",
+              "type": "video",
+              "url": "https://www.dailymail.co.uk/news/article-10494115/Eric-Lander-500-000-1million-BioNTech-stock-promoting-vaccines.html"
+            }
+          },
+          "message": "Oh FFS; because of course he did. 🤡🤦🏻‍♀️\n\nPresident Biden's now-disgraced outgoing top science adviser Eric Lander held stocks in BioNTech as we was peddling the Pfizer-BioNTech vaccine in his official role, financial disclosure documents show.  \n\nUpon taking his role as head of the Office of Science and Technology Policy on May 28, Lander sold off much of his stock in other pharmaceutical companies in June but held on to some of his stock in BioNTech SE, the German biotechnology company and Pfeizer’s Covid-19 vaccine partner. \n\nLander did not sell $500,000 to $1 million worth of the stock until August 5, well after he'd begun publicly encouraging Americans to get vaccinated against Covid-19. The sale occurred 69 days after his confirmation, though legally Lander had until 90 days into the new job to dump the shares. \n\nSauce",
+          "peerid": {
+            "channel_id": 1401018513,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Melissa_in_Arcadia⭐️⭐️⭐️",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1465338977,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 174094
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7319,
+          "channelabout": "A cozy corner existing outside of the BCW",
+          "channelusername": "SoothingWhitePillsChannel",
+          "id": 2193,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-12T00:35:44.658477"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6812484216459107565",
+        "_score": 4.1495,
+        "_source": {
+          "archivedon": "2022-02-14 01:40:05.68254",
+          "channeltitle": "POYNews",
+          "date": 1644433732,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 787,
+              "offset": 45,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.dailymail.co.uk/news/article-10494115/Eric-Lander-500-000-1million-BioNTech-stock-promoting-vaccines.html"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2193,
+            "date": 1644432893,
+            "from_id": {
+              "channel_id": 1401018513,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Melissa_in_Arcadia⭐️⭐️⭐️",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Oh FFS; because of course he did. 🤡🤦🏻‍♀️\n\nPresident Biden's now-disgraced outgoing top science adviser Eric Lander held stocks in BioNTech as we was peddling the Pfizer-BioNTech vaccine in his official role, financial disclosure documents show.  \n\nUpon taking his role as head of the Office of Science and Technology Policy on May 28, Lander sold off much of his stock in other pharmaceutical companies in June but held on to some of his stock in BioNTech SE, the German biotechnology company and Pfeizer’s Covid-19 vaccine partner. \n\nLander did not sell $500,000 to $1 million worth of the stock until August 5, well after he'd begun publicly encouraging Americans to get vaccinated against Covid-19. The sale occurred 69 days after his confirmation, though legally Lander had until 90 days into the new job to dump the shares. \n\nSauce",
+          "peerid": {
+            "channel_id": 1586155085,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "BIG Blue",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 80,
+          "channelabout": "This is an aggregate news and opinion feed 4 Patriots by Patriots that seeks to be a premier source for current news information and relevant updates that relate to our organization. #poyb",
+          "channelusername": "POYNews",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "7424411756425907413",
+        "_score": 4.1495,
+        "_source": {
+          "archivedon": "2022-02-14 01:41:03.608828",
+          "channeltitle": "Official Memphis \"West Tennessee\" Proud Boys",
+          "date": 1644433737,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 787,
+              "offset": 45,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.dailymail.co.uk/news/article-10494115/Eric-Lander-500-000-1million-BioNTech-stock-promoting-vaccines.html"
+            },
+            {
+              "length": 5,
+              "offset": 834,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2193,
+            "date": 1644432893,
+            "from_id": {
+              "channel_id": 1401018513,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Melissa_in_Arcadia⭐️⭐️⭐️",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Oh FFS; because of course he did. 🤡🤦🏻‍♀️\n\nPresident Biden's now-disgraced outgoing top science adviser Eric Lander held stocks in BioNTech as we was peddling the Pfizer-BioNTech vaccine in his official role, financial disclosure documents show.  \n\nUpon taking his role as head of the Office of Science and Technology Policy on May 28, Lander sold off much of his stock in other pharmaceutical companies in June but held on to some of his stock in BioNTech SE, the German biotechnology company and Pfeizer’s Covid-19 vaccine partner. \n\nLander did not sell $500,000 to $1 million worth of the stock until August 5, well after he'd begun publicly encouraging Americans to get vaccinated against Covid-19. The sale occurred 69 days after his confirmation, though legally Lander had until 90 days into the new job to dump the shares. \n\nSauce",
+          "peerid": {
+            "channel_id": 1728630568,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 58,
+          "channelusername": "OfficialWestTennesseProudBoys",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6404610095983889192",
+        "_score": 2.7398,
+        "_source": {
+          "archivedon": "2022-02-09 20:27:30.37424",
+          "channeltitle": "Evan Troxel",
+          "date": 1644437535,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The top 50 ranked members of the U.S. Congress (elected in 2020) who follow the most people on Twitter\nAmy Klobuchar, Minnesota, Democrat\nCory Booker, New Jersey, Democrat\nJudy Chu, California, Democrat\nEleanor Holmes Norton, Washington D.C., Democrat\nDarrell Issa, California, Republican\nMark Warner, Virginia, Democrat\nChuck Schumer, New York, Democrat\nDavid Cicilline, Rhode Island, Democrat\nAyanna Pressley, Massachusetts, Democrat\nChuck Grassley, Iowa, Republican\nBarbara Lee, California, Democrat\nRobin Kelly, Illinois, Democrat\nTed Lieu, California, Democrat\nEric Swalwell, California, Democrat\nJeff Duncan, South Carolina, Republican\nMike Levin, California, Democrat\nJohn Cornyn, Texas, Republican\nNicole Malliotakis, New York, Republican\nPramila Jayapal, Washington, Democrat\nTom O'Halleran, Arizona, Democrat\nJeff Merkley, Oregon, Democrat\nDiana Degette, Colorado, Democrat\nTed Cruz, Texas, Republican\nTammy Duckworth, Illinois, Democrat\nNanette Barragan, California, Democrat\nThom Tillis, North Carolina, Republican\nBob Menendez, New Jersey, Democrat\nJohn Garamendi, California, Democrat\nDoris Matsui, California, Democrat\nClaudia Tenney, New York, Republican\nCarolyn Maloney, New York, Democrat\nBilly Long, Missouri, Republican\nNancy Pelosi, California, Democrat\nDarren Soto, Florida, Democrat\nRaja Krishnamoorthi, Illinois, Democrat\nMark Pocan, Wisconsin, Democrat\nJamie Raskin, Maryland, Democrat\nChris Coons, Delaware, Democrat\nSteven Horsford, Nevada, Democrat\nBill Huizenga, Michigan, Republican\nMarcia Fudge, Ohio, Democrat (currently the Secretary of Housing and Urban Development, no longer a member of the U.S. Congress)\nVern Buchanan, Florida, Republican\nSteve Cohen, Tennessee, Democrat\nRoy Blunt, Missouri, Republican\nTammy Baldwin, Wisconsin, Democrat\nRick Larsen, Washington, Democrat\nTroy Carter, Louisiana, Democrat\nRob Wittman  , Virginia, Republican\nJimmy Gomez, California, Democrat\nBrendan Boyle, Pennsylvania, Democrat\n\n50th ranked current member of the U.S. Congress who follows the most people on Twitter, 51st ranked member of the U.S. Congress (elected in 2020) who follows the most people on Twitter: \nRob Portman, Ohio, Republican\n\nData gathered between June 1st & June 16th, 2021",
+          "peerid": {
+            "channel_id": 1491189491,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Evan Troxel",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelabout": "Uncensored Telegram channel for Evan Troxel",
+          "channelusername": "Evan_Troxel",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1332 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [90],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [22],
+      "relation": ["eq"]
+    },
+    "max_score": [12.2159],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673688",
+        "_score": 12.2159,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634435025,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1935524429
+          },
+          "message": "Eric dubays is the best",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 394452,
+            "reply_to_top_id": 394438
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 02:46:40.746172",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5202185657316819180",
+        "_score": 11.5796,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634433264,
+          "post": true,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Ryan Gaydos",
+              "description": "Eastern Washington quarterback Eric Barriere put up a mind-blowing stat line in the Eagles’ 71-21 win over Idaho on Saturday.",
+              "display_url": "foxnews.com/sports/eastern-washington-eric-barriere-video-game-numbers-victory",
+              "hash": 0,
+              "id": 7.36282382048053e+18,
+              "photo": {
+                "access_hash": -6.86026562970125e+18,
+                "date": 1634432671,
+                "dc_id": 4,
+                "file_reference": "AGQUUp7o7aFg363Cam2FxFOn6GxQ",
+                "has_stickers": false,
+                "id": 6.00934987400647e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcouJp8QwWzkHIwahuY7fzGcgt689anmuU8lhnGen0pkaRfZ0LqGJ9TRcaXUqO0csi/IBGOANvQUtyLe3ZZIM+ZjPXNTW0ccryjf8vTZtHH40SwRxyjA3ADjJ6UdBu7YyYiSRMjGRz+VFJdEJBvUcjpRQSVsN1YFlHcmrEG64yGJWPb8oz096KKBuTY1IXFqWRvmDHB701Lp5zhx09KKKBlguCOBkj1oooouCSP",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 17341,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 70461,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 524,
+                    "w": 931,
+                    "sizes": [9579, 24160, 35389, 55618, 79325]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Fox News",
+              "title": "Eastern Washington's Eric Barriere puts up video game numbers in dominating victory over Idaho",
+              "type": "photo",
+              "url": "https://www.foxnews.com/sports/eastern-washington-eric-barriere-video-game-numbers-victory"
+            }
+          },
+          "views": 274,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Eastern Washington's Eric Barriere puts up video game numbers in dominating victory over Idaho\n\nREAD: https://www.foxnews.com/sports/eastern-washington-eric-barriere-video-game-numbers-victory\n\nSubscribe: @FoxNewsTG",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1211228235
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 90,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 194,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 205,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 205,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1679053472",
+          "channelabout": "Join America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. \n\nhttps://foxnews.com \n\n—————————————————— \n\nUnofficial",
+          "channeltitle": "Fox News",
+          "channelusername": "FoxNewsTG",
+          "id": 16620,
+          "noforwards": false,
+          "lastseents": "2023-03-17T11:44:32.559961"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5782522656259760238",
+        "_score": 11.5796,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634439659,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 34,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": " Fox News (Twitter)\n\nEastern Washington's Eric Barriere puts up video game numbers in dominating victory over Idaho\n\nhttps://www.foxnews.com/sports/eastern-washington-eric-barriere-video-game-numbers-victory",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1346348472
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 299226,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.foxnews.com/sports/eastern-washington-eric-barriere-video-game-numbers-victory",
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FoxNews/status/1449551989000581128",
+              "length": 18,
+              "offset": 1
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 90,
+              "offset": 117
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634439597,
+          "edithide": true,
+          "archivedon": "2021-10-17 03:36:17.570082",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5401606074111367993",
+        "_score": 10.5853,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634493885,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "“Only F***ing Idiots Voted for Trump” – Eric Coomer Admits Under Oath that Dominion Executives Share His Extreme Far Left Beliefs\n\nhttps://www.thegatewaypundit.com/2021/10/fing-idiots-voted-trump-eric-coomer-admits-oath-dominion-executives-share-extreme-far-left-beliefs/\n\n@KanekoaTheGreat",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1257659419
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 140,
+              "offset": 131
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 273
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634106618,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1453677131
+            },
+            "channel_post": 2070
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-17 18:15:07.89232",
+          "channelabout": "Devoted to Uniting the Right for 2020\nBeing divided is being conquered.",
+          "channeltitle": "United Free Patriots",
+          "channelusername": "UnitedFreePatriots"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5185010516891804136",
+        "_score": 10.5853,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634493885,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "“Only F***ing Idiots Voted for Trump” – Eric Coomer Admits Under Oath that Dominion Executives Share His Extreme Far Left Beliefs\n\nhttps://www.thegatewaypundit.com/2021/10/fing-idiots-voted-trump-eric-coomer-admits-oath-dominion-executives-share-extreme-far-left-beliefs/\n\n@KanekoaTheGreat",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1207229336
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1390298307,
+            "replies_pts": 25297,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 140,
+              "offset": 131
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 273
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634106618,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1453677131
+            },
+            "channel_post": 2070
+          },
+          "replyto": {},
+          "editdate": 1634493856,
+          "edithide": true,
+          "postauthor": "Build",
+          "archivedon": "2021-10-17 18:08:21.940153",
+          "channelabout": "#stopthebias is a Laura Loomer conceived movement. #LauraLoomerforCongress",
+          "channeltitle": "Stop The Bias",
+          "channelusername": "stopthebias"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6351711315966306630",
+        "_score": 10.3341,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634491155,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 117,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Frankreich next?\n\nhttps://www.t-online.de/nachrichten/ausland/id_90973834/rechtspopulist-eric-zemmour-will-praesidentenjob-frankreichs-trump-moment.html",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1478873034
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1241743822,
+            "replies_pts": 43274,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 17,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 134,
+              "offset": 18
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634491128,
+          "edithide": true,
+          "archivedon": "2021-10-17 17:39:14.929744",
+          "channelabout": "❤️ DU BIST FREI ❤️ Hier erfahrt Ihr alles, was nicht Mainstream (MSM) ist und was der MSM so gegen seine Bürger veranstaltet. Wir sammeln für Euch wichtige aktuelle Themen und verweisen auf alternatives Wissen! Im offenen Chat darf gern diskutiert werden!",
+          "channeltitle": "❤️ Liberté ❤️",
+          "channelusername": "dubistfrei"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5664207495644587097",
+        "_score": 9.9257,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634430493,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 12996,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "​Eric Adams vows to mandate COVID vaccines for New York children under 12, pending FDA approval\nhttps://postmillennialnews.com/obSBfc",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1318801077
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://cms.thepostmillennial.com/content/images/2021/10/adams-de-blasio.jpg"
+            },
+            {
+              "length": 37,
+              "offset": 96,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 18,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-05 10:08:28.379251",
+          "channelabout": "News, analysis, and opinion from Canada, US and the world. Among North America’s Most-Read News Publishers \nThePostMillennial.com",
+          "channeltitle": "The Post Millennial",
+          "channelusername": "ThePostMillennial"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5447796329960989321",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634450535,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 17,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "TIL The Beatles song \"Savoy Truffle\" was about Eric Clapton, who at the time was having a candy addiction. George Harrison wrote the song as a warning to him. https://ift.tt/3C1aVjC",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1268413926
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 159
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-17 07:55:48.752613",
+          "channelabout": "r/todayilearned, quick and simple!\n@torzod",
+          "channeltitle": "TIL: Today I Learned",
+          "channelusername": "tor_til"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4599600813680118330",
+        "_score": 7.8328,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634431856,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 423,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Mayoral candidate Eric Adams said he would require COVID-19 vaccinations for school children if the FDA approves it, in what would be a major shift from Mayor Bill de Blasio’s position that there shouldn’t be a mandate for kids.\n@YidInfo",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1070928018
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 22605,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1219417644,
+            "replies_pts": 35085,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1752701761
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 229
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634431796,
+          "edithide": true,
+          "archivedon": "2021-10-17 01:45:01.751435",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673735",
+        "_score": 7.8328,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634437689,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 37,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "In this interview (go to 2:00), Eric \"Striker\" (fake name) admits he is \"a lifelong communist\"\nNo wonder he defends russia & china & bashes the west like it's his day job...\nBECAUSE IT IS HIS DAY JOB!!!\n\nhttps://archive.org/details/EricStrikerTheRealistReportJan112016",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 444121,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 64,
+              "offset": 204
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634437678,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1338632624
+            },
+            "channel_post": 626
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-17 02:46:40.792734",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673857",
+        "_score": 6.9091,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634441568,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "What I know for a fact is that anybody who says russia & china is better than the US is either retarded or a liar. Eric \"striker\" does that, & he claimed to be a reformed former marxist & maoist, therefore there is no reason for anybody to listen to a single word he has to say",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 394619,
+            "reply_to_top_id": 394503
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 04:09:38.051583",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673810",
+        "_score": 6.9091,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634440251,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "Eric \"striker\" is a rat who says russia & china are better than the US - no they're not, those places are living hell. Same with the big fat jew Mike \"Enoch\". Again, both have fake names. Also, Mike Peinovich grew up in Maplewood, NJ, which just happens to have a very large jewish community. 👃",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 394572,
+            "reply_to_top_id": 394503
+          },
+          "edithide": false,
+          "groupedid": 1.30755220123218e+16,
+          "archivedon": "2021-10-17 04:09:38.001812",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357675166",
+        "_score": 6.9091,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634489858,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "Eric \"striker\" is a rat who says russia & china are better than the US - no they're not, those places are living hell. Same with the big fat jew Mike \"Enoch\". Again, both have fake names. Also, Mike Peinovich grew up in Maplewood, NJ, which just happens to have a very large jewish community. 👃",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 445742,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634440251,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1534282085
+            }
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30759188681793e+16,
+          "archivedon": "2021-10-17 17:37:01.901147",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141456675",
+        "_score": 6.9091,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634490448,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 988868280
+          },
+          "message": "Eric \"striker\" is a rat who says russia & china are better than the US - no they're not, those places are living hell. Same with the big fat jew Mike \"Enoch\". Again, both have fake names. Also, Mike Peinovich grew up in Maplewood, NJ, which just happens to have a very large jewish community. 👃",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 910445,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634440251,
+            "from_id": {},
+            "from_name": "Revelation 3:9"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30759235875606e+16,
+          "archivedon": "2021-10-17 17:37:02.74219",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5766449673162225744",
+        "_score": 6.7971,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634474336,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1904563128
+          },
+          "message": "Eric Adams referred to himself as the \"Biden of Brooklyn\" so there's nothing more we need to know!!! He DOES NOT care about NYC and the people. WE THE PEOPLE HAVE THE POWER TO MAKE NYC GREAT AGAIN. Get the word out that Adams will control our lives, take away our freedom and liberties, and target our children!!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1342606189
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 30795
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 13:24:23.021747",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673800",
+        "_score": 6.5855,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634439902,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "He's part of the rat crowd of TRS, is pals with Mike \"Enoch\" (interesting alias that is literally jewish\" Peinovich (interesting jewish last name), who denied jews did 911 & was at the Charlottesville rally which made whites look like psychos & is connected with the russian government. They are 100% controlled opposition, including Eric \"Striker\", which again is a fake name",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 394561,
+            "reply_to_top_id": 394503
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 04:09:37.992048",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357673824",
+        "_score": 6.3888,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634440495,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "I haven't checked them out. But people need to realize that 99.9% of all content creators & movements are controlled opposition. Need to look at who these people are tied to. Notice how Eric \"Striker\" (fake name) said in the recording he has \"been very active in the militant left\". Nobody \"is very active in the militant left\" & suddenly goes fascist. It's a larp, he's a subvert, 100%",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 394576,
+            "reply_to_top_id": 394503
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 04:09:38.015902",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4971447163633778306",
+        "_score": 6.2054,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634443922,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2081595568
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n⚠️     IMPORTANT      ⚠️\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @realericftrump ✅\n✅ @realericftrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1157505243
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 359
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 379
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 245052
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 04:41:56.919792",
+          "channelabout": "SEE SOMETHING SAY SOMETHING! \nHelp Arizona watch the live feeds of the largest election audit in our country's history! Join the Arizona Audit Watch Group now to get started! @AZAuditWatch \n\n        ⭐️  ALL EYES ON ARIZONA! ⭐️",
+          "channeltitle": "Arizona Audit Watch Chat",
+          "channelusername": "AZAuditChat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4971447163633778315",
+        "_score": 6.2054,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634449436,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2086434150
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n⚠️     IMPORTANT      ⚠️\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @realericftrump ✅\n✅ @realericftrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1157505243
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 359
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 379
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 245052
+          },
+          "edithide": false,
+          "archivedon": "2021-10-17 06:38:05.125424",
+          "channelabout": "SEE SOMETHING SAY SOMETHING! \nHelp Arizona watch the live feeds of the largest election audit in our country's history! Join the Arizona Audit Watch Group now to get started! @AZAuditWatch \n\n        ⭐️  ALL EYES ON ARIZONA! ⭐️",
+          "channeltitle": "Arizona Audit Watch Chat",
+          "channelusername": "AZAuditChat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5823214795624585137",
+        "_score": 5.4486,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634502197,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1193,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷 Provokateur will Präsidentenjob  \n\nFrankreichs Trump-Moment\n\nIn sechs Monaten wird in Frankreich der Präsident gewählt. Ein möglicher Bewerber bringt sich nun in unzähligen Interviews in Stellung, verbreitet seine extremen Thesen – und gewinnt Zustimmung.\n\nEr vertritt die Verschwörungstheorie des \"großen Austauschs\", nach welcher eine mysteriöse Elite die weiße Mehrheitsgesellschaft Europas durch eine aus Arabern und Afrikanern ersetzen möchte. Das Opfer all dieser Trends steht für Zemmour fest: der weiße, heterosexuelle Mann.\n\nhttps://www.t-online.de/nachrichten/ausland/id_90973834/rechtspopulist-eric-zemmour-will-praesidentenjob-frankreichs-trump-moment.html.  \n\nBitte abonniert Schuberts Lagemeldung: https://t.me/SchubertsLM.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1355822849
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 257,
+              "offset": 5
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 134,
+              "offset": 539
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 24,
+              "offset": 717
+            }
+          ],
+          "forwards": 10,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634502518,
+          "edithide": false,
+          "archivedon": "2021-10-17 20:50:54.506689",
+          "channelabout": "Täglich aktuelle Meldungen von Bestseller-Autor und Sicherheitsexperte Stefan Schubert",
+          "channeltitle": "Schuberts Lagemeldung - Stefan Schubert Offiziell",
+          "channelusername": "SchubertsLM"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6164523661815531957",
+        "_score": 4.2979,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634432318,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 222633,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1240564431
+          },
+          "message": "Ghislaine Maxwell’s secret ‘husband’ is CEO of worldwide SHIPPING [HUMAN TRAFFICKING] company\n\n“Scott Borgerson, the CEO of a tech company called CargoMetrics, has been tied since last year to Jeffrey Epstein’s alleged madam Ghislaine Maxwell, who authorities arrested in early July.”\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial backing from private-equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer, and Maersk Tankers.\n\nThe Pentagon Pedophile Task Force (working under Joint Special Operations Command) discovered actionable evidence  (turned over to the DoD) that showed the coordination of world-wide human trafficking has been expanded to a massive database that includes every conceivable factor of a human life (e.g. bloodline, DNA, genetics) including medical records.\n\nhttps://timothycharlesholmseth.com/ghislaine-maxwells-secret-husband-is-ceo-of-worldwide-shipping-human-trafficking-company/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1435290012
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 104859,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 124,
+              "offset": 894
+            }
+          ],
+          "forwards": 4020,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1616537311,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1327519844
+            },
+            "channel_post": 935
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-17 01:44:19.503247",
+          "channelabout": "News tracker and discussion group on everything Q\n\nUs On Gab:\nhttps://gab.com/groups/17269\n\nQResearch Board:\nhttps://8kun.top/qresearch\nhttps://8kun.top/projectdcomms\n\nTools:\nhttps://qagg.news\nhttps://qanon.pub\n\nResignations:\nhttps://www.resignation.info",
+          "channeltitle": "QAnon Australia/NZ",
+          "channelusername": "qanonausnz"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357676370",
+        "_score": 4.0361,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634514429,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 27,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534282085
+          },
+          "message": "Christopher John Cornell was a songwriter & musician known as the lead vocalist & guitarist for rock bands Soundgarden and Audioslave & Temple of the Dog.\n\nCornell was born Christopher John Boyle on July 20, 1964, in Seattle, Washington. His parents are Edward F. Boyle, an Irish Catholic pharmacist, & Karen Cornell, a Jewish accountant & \"self-proclaimed psychic\". After his parents' divorce, his family adopted their Jewish mother's maiden name, Cornell, as their surname.\n\nCornell’s most controversial Soundgarden song was “Jesus Christ Pose\", released in 1991. The music video - directed by Eric Zimmerman - featured a woman on a cross, leading to its ban on MTV.  Cornell said, \"It was a pretty unanimous decision by the band to have a woman being crucified in the video... & it would almost make more sense than seeing a man on it.\" \n\nRegarding MTV banning the music video, Cornell stated \"they figured I guess that in the normal hours people watch videos they're not going to want to watch something for 6 minutes.\"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 446882,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634514419,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1720238441
+            },
+            "channel_post": 56
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-18 00:33:34.103417",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

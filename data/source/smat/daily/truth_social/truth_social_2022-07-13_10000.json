@@ -1,0 +1,3823 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [108],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [68],
+      "relation": ["eq"]
+    },
+    "max_score": [11.7811],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642173489417666",
+        "_score": 11.7811,
+        "_source": {
+          "account": {
+            "acct": "JohnMarkNielsen",
+            "display_name": "True North Ambition",
+            "id": "107848993050211798",
+            "username": "JohnMarkNielsen"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Who? Eric? Looks like Eric to me! LOL<\/p>",
+          "content_cleaned": "Who? Eric? Looks like Eric to me! LOL",
+          "created_at": "2022-07-13T21:33:28.564+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "108642173489417666",
+          "in_reply_to_account_id": "108241580584108939",
+          "in_reply_to_id": "108642097115867126",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "cityslut",
+              "id": "108241580584108939",
+              "url": "https://truthsocial.com/@cityslut",
+              "username": "cityslut"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JohnMarkNielsen/statuses/108642173489417666",
+          "url": "https://truthsocial.com/@JohnMarkNielsen/108642173489417666",
+          "visibility": "public",
+          "lastseents": "2023-04-22T22:00:42.387913",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641603749946668",
+        "_score": 10.4096,
+        "_source": {
+          "account": {
+            "acct": "Donaldlostlol",
+            "display_name": "iLOSTthe2020election",
+            "id": "108456317660034342",
+            "username": "Donaldlostlol"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Mr Eric is coming out<\/p>",
+          "content_cleaned": "Mr Eric is coming out",
+          "created_at": "2022-07-13T19:08:35.031+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108641603749946668",
+          "in_reply_to_account_id": "107838784575463237",
+          "in_reply_to_id": "108641598445776748",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Bonsai9771",
+              "id": "108442179942966919",
+              "url": "https://truthsocial.com/@Bonsai9771",
+              "username": "Bonsai9771"
+            },
+            {
+              "acct": "CantStopMe",
+              "id": "108561636782531140",
+              "url": "https://truthsocial.com/@CantStopMe",
+              "username": "CantStopMe"
+            },
+            {
+              "acct": "Donaldlostlol",
+              "id": "108456317660034342",
+              "url": "https://truthsocial.com/@Donaldlostlol",
+              "username": "Donaldlostlol"
+            },
+            {
+              "acct": "dutchmcclure",
+              "id": "107838784575463237",
+              "url": "https://truthsocial.com/@dutchmcclure",
+              "username": "dutchmcclure"
+            },
+            {
+              "acct": "greatscott64",
+              "id": "107835973091924716",
+              "url": "https://truthsocial.com/@greatscott64",
+              "username": "greatscott64"
+            },
+            {
+              "acct": "JereMemez",
+              "id": "108324110327665111",
+              "url": "https://truthsocial.com/@JereMemez",
+              "username": "JereMemez"
+            },
+            {
+              "acct": "juniordeacon",
+              "id": "107840941937135227",
+              "url": "https://truthsocial.com/@juniordeacon",
+              "username": "juniordeacon"
+            },
+            {
+              "acct": "MurderHornetSubordinate",
+              "id": "108615009950483070",
+              "url": "https://truthsocial.com/@MurderHornetSubordinate",
+              "username": "MurderHornetSubordinate"
+            },
+            {
+              "acct": "pit_stop",
+              "id": "107839599667904654",
+              "url": "https://truthsocial.com/@pit_stop",
+              "username": "pit_stop"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "reconflyfishing",
+              "id": "107843059349943850",
+              "url": "https://truthsocial.com/@reconflyfishing",
+              "username": "reconflyfishing"
+            },
+            {
+              "acct": "Remanon78",
+              "id": "107834204024458676",
+              "url": "https://truthsocial.com/@Remanon78",
+              "username": "Remanon78"
+            },
+            {
+              "acct": "Twineddevotion",
+              "id": "108318364273268993",
+              "url": "https://truthsocial.com/@Twineddevotion",
+              "username": "Twineddevotion"
+            },
+            {
+              "acct": "WEMosley56",
+              "id": "107853818717963721",
+              "url": "https://truthsocial.com/@WEMosley56",
+              "username": "WEMosley56"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Donaldlostlol/statuses/108641603749946668",
+          "url": "https://truthsocial.com/@Donaldlostlol/108641603749946668",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-15T17:17:05.213270+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637749167389680",
+        "_score": 9.9114,
+        "_source": {
+          "account": {
+            "acct": "geeda69",
+            "display_name": "geeda69",
+            "id": "107909996289247372",
+            "username": "geeda69"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Your choice. FUCK OFF ERIC THE TRAITOR!<\/p>",
+          "content_cleaned": "Your choice. FUCK OFF ERIC THE TRAITOR!",
+          "created_at": "2022-07-13T02:48:18.775+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637749167389680",
+          "in_reply_to_account_id": "107928548243353382",
+          "in_reply_to_id": "108637685030950896",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "AlessandraWC",
+              "id": "107839126298527548",
+              "url": "https://truthsocial.com/@AlessandraWC",
+              "username": "AlessandraWC"
+            },
+            {
+              "acct": "american_eric",
+              "id": "107928548243353382",
+              "url": "https://truthsocial.com/@american_eric",
+              "username": "american_eric"
+            },
+            {
+              "acct": "AwakePatriot19",
+              "id": "108334349253442349",
+              "url": "https://truthsocial.com/@AwakePatriot19",
+              "username": "AwakePatriot19"
+            },
+            {
+              "acct": "BidenWonYouFools",
+              "id": "107845095913650657",
+              "url": "https://truthsocial.com/@BidenWonYouFools",
+              "username": "BidenWonYouFools"
+            },
+            {
+              "acct": "BillieB",
+              "id": "107835829617206213",
+              "url": "https://truthsocial.com/@BillieB",
+              "username": "BillieB"
+            },
+            {
+              "acct": "BroCon",
+              "id": "107836012641958690",
+              "url": "https://truthsocial.com/@BroCon",
+              "username": "BroCon"
+            },
+            {
+              "acct": "Dakotakid",
+              "id": "107835886246416167",
+              "url": "https://truthsocial.com/@Dakotakid",
+              "username": "Dakotakid"
+            },
+            {
+              "acct": "DanaJo007",
+              "id": "107834432156089884",
+              "url": "https://truthsocial.com/@DanaJo007",
+              "username": "DanaJo007"
+            },
+            {
+              "acct": "DawnMQ65",
+              "id": "107853547933392998",
+              "url": "https://truthsocial.com/@DawnMQ65",
+              "username": "DawnMQ65"
+            },
+            {
+              "acct": "DBHnBuckhead",
+              "id": "107838250668095429",
+              "url": "https://truthsocial.com/@DBHnBuckhead",
+              "username": "DBHnBuckhead"
+            },
+            {
+              "acct": "geeda69",
+              "id": "107909996289247372",
+              "url": "https://truthsocial.com/@geeda69",
+              "username": "geeda69"
+            },
+            {
+              "acct": "GooseGivens",
+              "id": "108336522719212986",
+              "url": "https://truthsocial.com/@GooseGivens",
+              "username": "GooseGivens"
+            },
+            {
+              "acct": "Grace4me333",
+              "id": "107930391452492175",
+              "url": "https://truthsocial.com/@Grace4me333",
+              "username": "Grace4me333"
+            },
+            {
+              "acct": "kagdrogo",
+              "id": "107834450197185966",
+              "url": "https://truthsocial.com/@kagdrogo",
+              "username": "kagdrogo"
+            },
+            {
+              "acct": "NJred",
+              "id": "107850707196959097",
+              "url": "https://truthsocial.com/@NJred",
+              "username": "NJred"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/geeda69/statuses/108637749167389680",
+          "url": "https://truthsocial.com/@geeda69/108637749167389680",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-04T08:41:51.221354+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642635093966553",
+        "_score": 9.2557,
+        "_source": {
+          "account": {
+            "acct": "barnettforaz",
+            "display_name": "Barnett for AZ",
+            "id": "107834557055815431",
+            "username": "barnettforaz"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>The ERIC system must be eliminated at the state level<\/p>",
+          "content_cleaned": "The ERIC system must be eliminated at the state level",
+          "created_at": "2022-07-13T23:30:52.134+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 9,
+          "id": "108642635093966553",
+          "in_reply_to_account_id": "108319491946718684",
+          "in_reply_to_id": "108642627130844602",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "barnettforaz",
+              "id": "107834557055815431",
+              "url": "https://truthsocial.com/@barnettforaz",
+              "username": "barnettforaz"
+            },
+            {
+              "acct": "DaveCaresForYou",
+              "id": "108025606692154792",
+              "url": "https://truthsocial.com/@DaveCaresForYou",
+              "username": "DaveCaresForYou"
+            },
+            {
+              "acct": "Dillon1771",
+              "id": "107856198753051820",
+              "url": "https://truthsocial.com/@Dillon1771",
+              "username": "Dillon1771"
+            },
+            {
+              "acct": "Frank_Westling",
+              "id": "108319491946718684",
+              "url": "https://truthsocial.com/@Frank_Westling",
+              "username": "Frank_Westling"
+            },
+            {
+              "acct": "MatReaper",
+              "id": "108348983268299836",
+              "url": "https://truthsocial.com/@MatReaper",
+              "username": "MatReaper"
+            },
+            {
+              "acct": "patriots2022",
+              "id": "107834509461634745",
+              "url": "https://truthsocial.com/@patriots2022",
+              "username": "patriots2022"
+            },
+            {
+              "acct": "TrulyDasting",
+              "id": "107834467123491726",
+              "url": "https://truthsocial.com/@TrulyDasting",
+              "username": "TrulyDasting"
+            },
+            {
+              "acct": "TruthSeekerUSA82",
+              "id": "107843241955219619",
+              "url": "https://truthsocial.com/@TruthSeekerUSA82",
+              "username": "TruthSeekerUSA82"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 3,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/barnettforaz/statuses/108642635093966553",
+          "url": "https://truthsocial.com/@barnettforaz/108642635093966553",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-05T18:47:02.809049+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642661938828246",
+        "_score": 9.2557,
+        "_source": {
+          "account": {
+            "acct": "BlueBoy2023",
+            "display_name": "IwillNeverVoteRed",
+            "id": "108556805507502939",
+            "username": "BlueBoy2023"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric, how’s riding Daddy’s coat tail? You stupid, useless fuck!<\/p>",
+          "content_cleaned": "Eric, how’s riding Daddy’s coat tail? You stupid, useless fuck!",
+          "created_at": "2022-07-13T23:37:41.711+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108642661938828246",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BlueBoy2023/statuses/108642661938828246",
+          "url": "https://truthsocial.com/@BlueBoy2023/108642661938828246",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:58:39.232181",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642298479447637",
+        "_score": 9.0581,
+        "_source": {
+          "account": {
+            "acct": "PoliticalJunkie1961",
+            "display_name": "Frankenstein of Human Flaws",
+            "id": "108526642721896931",
+            "username": "PoliticalJunkie1961"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric is the dumb Trump, which is a very low bar…<\/p>",
+          "content_cleaned": "Eric is the dumb Trump, which is a very low bar…",
+          "created_at": "2022-07-13T22:05:15.761+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "group_timeline_visible": false,
+          "id": "108642298479447637",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/PoliticalJunkie1961/statuses/108642298479447637",
+          "url": "https://truthsocial.com/@PoliticalJunkie1961/108642298479447637",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:58:37.882682",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637791319310207",
+        "_score": 8.5181,
+        "_source": {
+          "account": {
+            "acct": "leadersdontfail",
+            "display_name": "Big John",
+            "id": "108277525438466827",
+            "username": "leadersdontfail"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric is such a good person ! His soul is in Joy and complete love . ￼<\/p>",
+          "content_cleaned": "Eric is such a good person ! His soul is in Joy and complete love . ￼",
+          "created_at": "2022-07-13T02:59:01.956+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 4,
+          "id": "108637791319310207",
+          "in_reply_to_account_id": "107799596344546069",
+          "in_reply_to_id": "108626632431666795",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DanScavino",
+              "id": "107799596344546069",
+              "url": "https://truthsocial.com/@DanScavino",
+              "username": "DanScavino"
+            },
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            },
+            {
+              "acct": "LaraTrump",
+              "id": "107834251706284834",
+              "url": "https://truthsocial.com/@LaraTrump",
+              "username": "LaraTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 3,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/leadersdontfail/statuses/108637791319310207",
+          "url": "https://truthsocial.com/@leadersdontfail/108637791319310207",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-03T09:30:26.001025+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637920243269247",
+        "_score": 8.3539,
+        "_source": {
+          "account": {
+            "acct": "ArizonaRealty",
+            "display_name": "Andrew",
+            "id": "107838088938648972",
+            "username": "ArizonaRealty"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "Nick Moseder",
+            "author_url": "https://rumble.com/c/NickMoseder",
+            "blurhash": "UQJ*YLIT_LD*kCb|%#n-I{o#IUt2${nfs.NG",
+            "description": "",
+            "embed_url": "",
+            "height": 720,
+            "html": "<iframe src=\"https://rumble.com/embed/vr6srs/\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Erich Speckin Interview! The 36,000 &amp;quot;Questionable&amp;quot; AZ Ballots You NEVER Knew About!\" allowfullscreen=\"\"><\/iframe>",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/093/314/original/21bd8dca11a1505f.jpg",
+            "provider_name": "Rumble.com",
+            "provider_url": "https://rumble.com/",
+            "title": "Erich Speckin Interview! The 36,000 \"Questionable\" AZ Ballots You NEVER Knew About!",
+            "type": "video",
+            "url": "https://rumble.com/vtsyve-interview-w-paper-expert-eric-speckin-the-25000-questionable-az-ballots-you.html",
+            "width": 1280
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://rumble.com/vtsyve-interview-w-paper-expert-eric-speckin-the-25000-questionable-az-ballots-you.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">rumble.com/vtsyve-interview-w-<\/span><span class=\"invisible\">paper-expert-eric-speckin-the-25000-questionable-az-ballots-you.html<\/span><\/a><\/p>",
+          "content_cleaned": "https://rumble.com/vtsyve-interview-w-paper-expert-eric-speckin-the-25000-questionable-az-ballots-you.html",
+          "created_at": "2022-07-13T03:31:49.179+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "108637920243269247",
+          "in_reply_to_account_id": "107904600106838812",
+          "in_reply_to_id": "108637809436554434",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "KariLake",
+              "id": "107832890542091577",
+              "url": "https://truthsocial.com/@KariLake",
+              "username": "KariLake"
+            },
+            {
+              "acct": "RealSKeshel",
+              "id": "107904600106838812",
+              "url": "https://truthsocial.com/@RealSKeshel",
+              "username": "RealSKeshel"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ArizonaRealty/statuses/108637920243269247",
+          "url": "https://truthsocial.com/@ArizonaRealty/108637920243269247",
+          "visibility": "public",
+          "lastseents": "2023-04-21T17:29:50.618613",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642171953370752",
+        "_score": 7.9015,
+        "_source": {
+          "account": {
+            "acct": "JohnMarkNielsen",
+            "display_name": "True North Ambition",
+            "id": "107848993050211798",
+            "username": "JohnMarkNielsen"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Say what? This is Eric and he is calling DJT, his Dad. How could this be a plot?<\/p>",
+          "content_cleaned": "Say what? This is Eric and he is calling DJT, his Dad. How could this be a plot?",
+          "created_at": "2022-07-13T21:33:05.133+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "108642171953370752",
+          "in_reply_to_account_id": "108241580584108939",
+          "in_reply_to_id": "108642098486209346",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "cityslut",
+              "id": "108241580584108939",
+              "url": "https://truthsocial.com/@cityslut",
+              "username": "cityslut"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JohnMarkNielsen/statuses/108642171953370752",
+          "url": "https://truthsocial.com/@JohnMarkNielsen/108642171953370752",
+          "visibility": "public",
+          "lastseents": "2023-04-22T22:00:43.214517",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108638425487026779",
+        "_score": 7.6297,
+        "_source": {
+          "account": {
+            "acct": "TheVoiceOfWeThePeople",
+            "display_name": "TheVoiceOfWeThePeople",
+            "id": "108319950077273323",
+            "username": "TheVoiceOfWeThePeople"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>The Young Turks book about Paul Cryin, Eric Kantdo, and Kevin McBarfy should be re-released as The Young Jerks.<\/p>",
+          "content_cleaned": "The Young Turks book about Paul Cryin, Eric Kantdo, and Kevin McBarfy should be re-released as The Young Jerks.",
+          "created_at": "2022-07-13T05:40:18.593+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108638425487026779",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636528385692250",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/TheVoiceOfWeThePeople/statuses/108638425487026779",
+          "url": "https://truthsocial.com/@TheVoiceOfWeThePeople/108638425487026779",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-04T09:50:55.564711+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642464312727125",
+        "_score": 7.5715,
+        "_source": {
+          "account": {
+            "acct": "meanymom",
+            "display_name": "meanymom",
+            "id": "108354340396378403",
+            "username": "meanymom"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "Shane Trejo",
+            "author_url": "https://bigleaguepolitics.com/author/shane/",
+            "blurhash": "UGFh*J}XIp5,?FrqRjNIF3JUt7iwNHM{xuxu",
+            "description": "A complaint has been violated with the FEC against Schmitt.",
+            "embed_url": "",
+            "height": 534,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/995/535/original/dfd26563abe0157a.jpg",
+            "provider_name": "Big League Politics",
+            "provider_url": "https://bigleaguepolitics.com",
+            "title": "EXCLUSIVE: Missouri Attorney General Eric Schmitt Hit with Major Allegations of Reporting Fraud, Funding Campaign Event with Taxpayer Money, Illegal Super PAC Coordination - Big League Politics",
+            "type": "link",
+            "url": "https://bigleaguepolitics.com/exclusive-missouri-attorney-general-eric-schmitt-hit-with-major-allegations-of-reporting-fraud-funding-campaign-event-with-taxpayer-money-illegal-super-pac-coordination/",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>EXCLUSIVE: Missouri Attorney General Eric Schmitt Hit with Major Allegations of Reporting Fraud, Funding Campaign Event with Taxpayer Money, Illegal Super PAC Coordination  <a href=\"https://bigleaguepolitics.com/exclusive-missouri-attorney-general-eric-schmitt-hit-with-major-allegations-of-reporting-fraud-funding-campaign-event-with-taxpayer-money-illegal-super-pac-coordination/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">bigleaguepolitics.com/exclusiv<\/span><span class=\"invisible\">e-missouri-attorney-general-eric-schmitt-hit-with-major-allegations-of-reporting-fraud-funding-campaign-event-with-taxpayer-money-illegal-super-pac-coordination/<\/span><\/a><\/p>",
+          "content_cleaned": "EXCLUSIVE: Missouri Attorney General Eric Schmitt Hit with Major Allegations of Reporting Fraud, Funding Campaign Event with Taxpayer Money, Illegal Super PAC Coordination  https://bigleaguepolitics.com/exclusive-missouri-attorney-general-eric-schmitt-hit-with-major-allegations-of-reporting-fraud-funding-campaign-event-with-taxpayer-money-illegal-super-pac-coordination/",
+          "created_at": "2022-07-13T22:47:26.250+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642464312727125",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/meanymom/statuses/108642464312727125",
+          "url": "https://truthsocial.com/@meanymom/108642464312727125",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-26T22:41:55.309197+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641146050454995",
+        "_score": 7.5016,
+        "_source": {
+          "account": {
+            "acct": "KingGonzo",
+            "display_name": "Gonzo Sports News™️",
+            "id": "108203517520422352",
+            "username": "KingGonzo"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>The Sabres have signed their goalie. <\/p><p>They’re signing former Winnipeg Jet, Eric Comrie, per @FriedgeHNIC. <\/p><p>2 years x $1.8M AAV.<\/p><p><a href=\"https://truthsocial.com/tags/Sabres\" class=\"mention hashtag\" rel=\"tag\">#<span>Sabres<\/span><\/a><\/p>",
+          "content_cleaned": "The Sabres have signed their goalie. They’re signing former Winnipeg Jet, Eric Comrie, per @FriedgeHNIC. 2 years x $1.8M AAV.#Sabres",
+          "created_at": "2022-07-13T17:12:11.106+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108641146050454995",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UdKBK{xtxuM|00R*M{ayMya#kCofITf5aeWB",
+              "id": "108641146035184952",
+              "meta": {
+                "aspect": 1.501,
+                "height": 499,
+                "size": "749x499",
+                "width": 749
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/641/146/035/184/952/original/fe941cc55cfe4062.jpg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/641/146/035/184/952/original/fe941cc55cfe4062.jpg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "Sabres"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/KingGonzo/statuses/108641146050454995",
+          "url": "https://truthsocial.com/@KingGonzo/108641146050454995",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-23T08:31:45.503313+00:00",
+          "pinned": false,
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637264496335208",
+        "_score": 7.3784,
+        "_source": {
+          "account": {
+            "acct": "Repsh08",
+            "display_name": "RepSH..2008🍊",
+            "id": "107834938466214087",
+            "username": "Repsh08"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dannyc\" class=\"u-url mention\">@<span>dannyc<\/span><\/a><\/span> Hunter Biden and Joe Biden discussing his son&apos;s challenges with his former business partner Eric Schwerin via text.<\/p>",
+          "content_cleaned": "RT @dannyc Hunter Biden and Joe Biden discussing his son&apos;s challenges with his former business partner Eric Schwerin via text.",
+          "created_at": "2022-07-13T00:45:03.346+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637264496335208",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Repsh08/statuses/108637264496335208/activity",
+          "url": "https://truthsocial.com/users/Repsh08/statuses/108637264496335208/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-05T10:31:25.208489+00:00",
+          "reblog": {
+            "id": "108635590199206522",
+            "uri": "https://truthsocial.com/users/dannyc/statuses/108635590199206522",
+            "url": "https://truthsocial.com/@dannyc/108635590199206522"
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641685231748717",
+        "_score": 7.3784,
+        "_source": {
+          "account": {
+            "acct": "GetRhonda",
+            "display_name": "Rhonda",
+            "id": "108351936697248554",
+            "username": "GetRhonda"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Sandy Hook was an Obama/Eric Holder propaganda piece to get GoFundMe money to fill DNC coffers.  They made millions...still are.<\/p>",
+          "content_cleaned": "Sandy Hook was an Obama/Eric Holder propaganda piece to get GoFundMe money to fill DNC coffers.  They made millions...still are.",
+          "created_at": "2022-07-13T19:29:18.390+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 8,
+          "group_timeline_visible": false,
+          "id": "108641685231748717",
+          "in_reply_to_account_id": "107855067187721280",
+          "in_reply_to_id": "108641678048600038",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "bestmimix6",
+              "id": "107856111658519518",
+              "url": "https://truthsocial.com/@bestmimix6",
+              "username": "bestmimix6"
+            },
+            {
+              "acct": "kauaikatt",
+              "id": "107855067187721280",
+              "url": "https://truthsocial.com/@kauaikatt",
+              "username": "kauaikatt"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 5,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/GetRhonda/statuses/108641685231748717",
+          "url": "https://truthsocial.com/@GetRhonda/108641685231748717",
+          "visibility": "public",
+          "lastseents": "2023-04-30T16:02:37.185594",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642669210359198",
+        "_score": 7.2598,
+        "_source": {
+          "account": {
+            "acct": "PattiCakes17",
+            "display_name": "PattiCakes17",
+            "id": "108318668283850823",
+            "username": "PattiCakes17"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>You&apos;re the traitor Moldy Breb! 13th Gen is a loyal patriot and brother in Christ. Something you know nothing about Eric.<\/p>",
+          "content_cleaned": "You&apos;re the traitor Moldy Breb! 13th Gen is a loyal patriot and brother in Christ. Something you know nothing about Eric.",
+          "created_at": "2022-07-13T23:39:32.666+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 6,
+          "id": "108642669210359198",
+          "in_reply_to_account_id": "107834770807487511",
+          "in_reply_to_id": "108642292610604705",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "daveinWI",
+              "id": "108374178142964239",
+              "url": "https://truthsocial.com/@daveinWI",
+              "username": "daveinWI"
+            },
+            {
+              "acct": "DevinNunes",
+              "id": "107777378958166346",
+              "url": "https://truthsocial.com/@DevinNunes",
+              "username": "DevinNunes"
+            },
+            {
+              "acct": "imglover",
+              "id": "107835243859071803",
+              "url": "https://truthsocial.com/@imglover",
+              "username": "imglover"
+            },
+            {
+              "acct": "Pepredjax",
+              "id": "108352198355444291",
+              "url": "https://truthsocial.com/@Pepredjax",
+              "username": "Pepredjax"
+            },
+            {
+              "acct": "RealDirty",
+              "id": "107804918165029898",
+              "url": "https://truthsocial.com/@RealDirty",
+              "username": "RealDirty"
+            },
+            {
+              "acct": "thebrebroom",
+              "id": "107834770807487511",
+              "url": "https://truthsocial.com/@thebrebroom",
+              "username": "thebrebroom"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/PattiCakes17/statuses/108642669210359198",
+          "url": "https://truthsocial.com/@PattiCakes17/108642669210359198",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-17T12:59:07.461303+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640194566029332",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?<\/p>",
+          "content_cleaned": "Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?",
+          "created_at": "2022-07-13T13:10:12.591+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640194566029332",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108634216633812003",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640194566029332",
+          "url": "https://truthsocial.com/@LandingGear/108640194566029332",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-19T10:10:50.874700+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640192861582860",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?<\/p>",
+          "content_cleaned": "Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?",
+          "created_at": "2022-07-13T13:09:46.584+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640192861582860",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108634216633812003",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640192861582860",
+          "url": "https://truthsocial.com/@LandingGear/108640192861582860",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-19T10:10:50.869357+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640187716223111",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?<\/p>",
+          "content_cleaned": "Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?",
+          "created_at": "2022-07-13T13:08:28.070+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640187716223111",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636748962589913",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "jack",
+              "id": "107805245438126167",
+              "url": "https://truthsocial.com/@jack",
+              "username": "jack"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640187716223111",
+          "url": "https://truthsocial.com/@LandingGear/108640187716223111",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-14T12:34:48.495793+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640188513951061",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?<\/p>",
+          "content_cleaned": "Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?",
+          "created_at": "2022-07-13T13:08:40.242+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640188513951061",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636743295734643",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640188513951061",
+          "url": "https://truthsocial.com/@LandingGear/108640188513951061",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-07T00:01:24.296935+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640190101328186",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?<\/p>",
+          "content_cleaned": "Why are IVANKA and JARED not speaking out in support of Pres. Trump like Eric and Don? Why have they gone underground and silent?",
+          "created_at": "2022-07-13T13:09:04.464+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640190101328186",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636711438176830",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640190101328186",
+          "url": "https://truthsocial.com/@LandingGear/108640190101328186",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-11T01:19:08.185078+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641773089470420",
+        "_score": 7.1455,
+        "_source": {
+          "account": {
+            "acct": "GetRhonda",
+            "display_name": "Rhonda ManufacturedNews.com",
+            "id": "108351936697248554",
+            "username": "GetRhonda"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@GetRhonda\" class=\"u-url mention\">@<span>GetRhonda<\/span><\/a><\/span> Sandy Hook was an Obama/Eric Holder propaganda piece to get GoFundMe money to fill DNC coffers.  They made millions...still are.<\/p>",
+          "content_cleaned": "RT @GetRhonda Sandy Hook was an Obama/Eric Holder propaganda piece to get GoFundMe money to fill DNC coffers.  They made millions...still are.",
+          "created_at": "2022-07-13T19:51:38.953+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108641773089470420",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/GetRhonda/statuses/108641773089470420/activity",
+          "url": "https://truthsocial.com/users/GetRhonda/statuses/108641773089470420/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-28T08:19:05.382176+00:00",
+          "reblog": {
+            "id": "108641685231748717",
+            "uri": "https://truthsocial.com/users/GetRhonda/statuses/108641685231748717",
+            "url": "https://truthsocial.com/@GetRhonda/108641685231748717"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642029959982237",
+        "_score": 7.0353,
+        "_source": {
+          "account": {
+            "acct": "JohnMarkNielsen",
+            "display_name": "True North Ambition",
+            "id": "107848993050211798",
+            "username": "JohnMarkNielsen"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "hostid1",
+            "author_url": "https://rumble.com/user/hostid1",
+            "blurhash": "UCAALE9Y57^*4,%3Z}S0-rOZo#rpELwdRhS$",
+            "description": "",
+            "embed_url": "",
+            "height": 720,
+            "html": "<iframe src=\"https://rumble.com/embed/v19k10j/\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Video upload for 108642029959982237\" allowfullscreen=\"\"><\/iframe>",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/998/579/original/9d2a0d97214987e9.jpg",
+            "provider_name": "Rumble.com",
+            "provider_url": "https://rumble.com/",
+            "title": "Video upload for 108642029959982237",
+            "type": "video",
+            "url": "https://rumble.com/v1c66yb-video-upload-for-108642029959982237.html?mref=ummtf&mc=3nvg0",
+            "width": 1280
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Trump calls his Dad at the ReAwaken America Event in VA this week. Wait until you hear what <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span> tells the crowd! <a href=\"https://truthsocial.com/tags/MAGA\" class=\"mention hashtag\" rel=\"tag\">#<span>MAGA<\/span><\/a> <a href=\"https://truthsocial.com/tags/UltraMAGA\" class=\"mention hashtag\" rel=\"tag\">#<span>UltraMAGA<\/span><\/a><\/p>",
+          "content_cleaned": "Eric Trump calls his Dad at the ReAwaken America Event in VA this week. Wait until you hear what @realDonaldTrump tells the crowd! #MAGA #UltraMAGA",
+          "created_at": "2022-07-13T20:56:58.489+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 11,
+          "id": "108642029959982237",
+          "language": "en",
+          "media_attachments": [
+            {
+              "external_video_id": "v19k10j",
+              "id": "108642028497230814",
+              "meta": {
+                "bitrate": 5017491,
+                "duration": 119.9533,
+                "frame_rate": "53925000/1799303",
+                "height": 720,
+                "width": 1280
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/998/579/original/9d2a0d97214987e9.jpg",
+              "text_url": "https://truthsocial.com/media/82CMbsgAdyu9tmQ1iL8",
+              "type": "video",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/642/028/497/230/814/original/6d0a3441248e0c88.mp4"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 8,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "UltraMaGa",
+              "url": "https://truthsocial.com/tags/UltraMaGa"
+            },
+            {
+              "name": "MAGA",
+              "url": "https://truthsocial.com/tags/MAGA"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/JohnMarkNielsen/statuses/108642029959982237",
+          "url": "https://truthsocial.com/@JohnMarkNielsen/108642029959982237",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-19T12:40:39.855862+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641016838287062",
+        "_score": 6.8264,
+        "_source": {
+          "account": {
+            "acct": "QStevieMills",
+            "display_name": "Q Truth Shaman",
+            "id": "108471640540071207",
+            "username": "QStevieMills"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>You’re right, Eric. There is no such photo. This one is photo-shopped - it did originally feature the American flag. You got fake news’d you fucking dickhead.<\/p>",
+          "content_cleaned": "You’re right, Eric. There is no such photo. This one is photo-shopped - it did originally feature the American flag. You got fake news’d you fucking dickhead.",
+          "created_at": "2022-07-13T16:39:19.472+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108641016838287062",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/QStevieMills/statuses/108641016838287062",
+          "url": "https://truthsocial.com/@QStevieMills/108641016838287062",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:58:21.567311",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641448265947298",
+        "_score": 6.6314,
+        "_source": {
+          "account": {
+            "acct": "MarionBeyl",
+            "display_name": "Marion Beyl",
+            "id": "107878908429189556",
+            "username": "MarionBeyl"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><span class=\"h-card\"><a href=\"https://truthsocial.com/@NorthwestNut\" class=\"u-url mention\">@<span>NorthwestNut<\/span><\/a><\/span> No! I’ve seen all the videos of how this isn’t real either. Lookup Eric Dubay and The late Rob Skiba’s videos. Serious mind blowing material on those channels.<\/p>",
+          "content_cleaned": "@NorthwestNut No! I’ve seen all the videos of how this isn’t real either. Lookup Eric Dubay and The late Rob Skiba’s videos. Serious mind blowing material on those channels.",
+          "created_at": "2022-07-13T18:29:02.605+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108641448265947298",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "NorthwestNut",
+              "id": "108335684137568731",
+              "url": "https://truthsocial.com/@NorthwestNut",
+              "username": "NorthwestNut"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MarionBeyl/statuses/108641448265947298",
+          "url": "https://truthsocial.com/@MarionBeyl/108641448265947298",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-20T14:00:30.108618+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108639767533046214",
+        "_score": 6.6314,
+        "_source": {
+          "account": {
+            "acct": "Sanctuarious",
+            "display_name": "REBDANKULOUS",
+            "id": "108332615366447270",
+            "username": "Sanctuarious"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I hear they want the basement dummy &quot;wind powered&quot; (God knows him and Eric Swalwell truly are) by the midterms or the basement dummy is being replaced<\/p>",
+          "content_cleaned": "I hear they want the basement dummy &quot;wind powered&quot; (God knows him and Eric Swalwell truly are) by the midterms or the basement dummy is being replaced",
+          "created_at": "2022-07-13T11:21:36.589+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108639767533046214",
+          "in_reply_to_account_id": "107813673407103404",
+          "in_reply_to_id": "108639494448307651",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Sanctuarious/statuses/108639767533046214",
+          "url": "https://truthsocial.com/@Sanctuarious/108639767533046214",
+          "visibility": "public",
+          "lastseents": "2023-04-06T15:11:26.984097",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637506594161008",
+        "_score": 6.2782,
+        "_source": {
+          "account": {
+            "acct": "cbtbass",
+            "display_name": "CBT",
+            "id": "107951771812977352",
+            "username": "cbtbass"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>To see your Father, our 45, to stand with them during the Army Navy game was one of my favorite moments ever.  It is time Eric. Time to finish what was started. WWG1WGA<\/p>",
+          "content_cleaned": "To see your Father, our 45, to stand with them during the Army Navy game was one of my favorite moments ever.  It is time Eric. Time to finish what was started. WWG1WGA",
+          "created_at": "2022-07-13T01:46:37.396+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108637506594161008",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/cbtbass/statuses/108637506594161008",
+          "url": "https://truthsocial.com/@cbtbass/108637506594161008",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:57:42.570823",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640172474967199",
+        "_score": 6.1177,
+        "_source": {
+          "account": {
+            "acct": "LandingGear",
+            "display_name": "MJ SHEP",
+            "id": "108329945470209925",
+            "username": "LandingGear"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Why are you and Jared not standing up for your father during these Jan. 6 Hearings like your brothers, Don and Eric? You two have gone silent underground when your father needs you most. WHY?<\/p>",
+          "content_cleaned": "Why are you and Jared not standing up for your father during these Jan. 6 Hearings like your brothers, Don and Eric? You two have gone silent underground when your father needs you most. WHY?",
+          "created_at": "2022-07-13T13:04:35.514+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "group_timeline_visible": false,
+          "id": "108640172474967199",
+          "in_reply_to_account_id": "107834208976598497",
+          "in_reply_to_id": "108630902762007203",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "IvankaTrump",
+              "id": "107834208976598497",
+              "url": "https://truthsocial.com/@IvankaTrump",
+              "username": "IvankaTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LandingGear/statuses/108640172474967199",
+          "url": "https://truthsocial.com/@LandingGear/108640172474967199",
+          "visibility": "public",
+          "lastseents": "2023-04-27T15:03:05.247811",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637088408724395",
+        "_score": 6.0411,
+        "_source": {
+          "account": {
+            "acct": "Missflowerpot",
+            "display_name": "Missflowerpot ☝️🍊",
+            "id": "108318416269079320",
+            "username": "Missflowerpot"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Sadly, MSM is covering for Hunter, Pedo Pete, and the rest Biden crime family. <\/p><p>Can you imagine the 24/7 news coverage if this was Eric or Don Jr.? Or frankly any republican. <\/p><p>Makes me sick<\/p>",
+          "content_cleaned": "Sadly, MSM is covering for Hunter, Pedo Pete, and the rest Biden crime family. Can you imagine the 24/7 news coverage if this was Eric or Don Jr.? Or frankly any republican. Makes me sick",
+          "created_at": "2022-07-13T00:00:16.390+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 4,
+          "id": "108637088408724395",
+          "in_reply_to_account_id": "107777378958166346",
+          "in_reply_to_id": "108637070509084855",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DevinNunes",
+              "id": "107777378958166346",
+              "url": "https://truthsocial.com/@DevinNunes",
+              "username": "DevinNunes"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Missflowerpot/statuses/108637088408724395",
+          "url": "https://truthsocial.com/@Missflowerpot/108637088408724395",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-15T05:54:20.477374+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640079522775040",
+        "_score": 5.8243,
+        "_source": {
+          "account": {
+            "acct": "NJPatriot1970",
+            "display_name": "🇺🇸NJPATRIOT🇺🇸FJB",
+            "id": "107843989874938719",
+            "username": "NJPatriot1970"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>just inagine if this were Eric or Don Trump measuring CRACK on a scale with a crack hooker. they would and should be raked all over the coals !!!!!oh wait should i say raked over the Solar Panels 🥴<\/p>",
+          "content_cleaned": "just inagine if this were Eric or Don Trump measuring CRACK on a scale with a crack hooker. they would and should be raked all over the coals !!!!!oh wait should i say raked over the Solar Panels 🥴",
+          "created_at": "2022-07-13T12:40:57.171+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640079522775040",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UKBygnJYE0i]9Dnfo#Nf-:xuNMNINLR-sjs*",
+              "id": "108640079507847818",
+              "meta": {
+                "aspect": 2.164,
+                "height": 689,
+                "size": "1491x689",
+                "width": 1491
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/640/079/507/847/818/original/30c3bc26f0fd143d.jpg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/640/079/507/847/818/original/30c3bc26f0fd143d.jpg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/NJPatriot1970/statuses/108640079522775040",
+          "url": "https://truthsocial.com/@NJPatriot1970/108640079522775040",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-07T20:48:54.316259+00:00",
+          "pinned": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642069759509818",
+        "_score": 5.8243,
+        "_source": {
+          "account": {
+            "acct": "rebelwende",
+            "display_name": "Wendy P",
+            "id": "107843972524889247",
+            "username": "rebelwende"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://youtube.com/watch?v=zSnIHUNWPjI&amp;feature=share\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">youtube.com/watch?v=zSnIHUNWPj<\/span><span class=\"invisible\">I&amp;feature=share<\/span><\/a><br/>The Rippaverse launched and within 24 hours had already made $1,000,000. Just goes to show how hungry people are for good story telling without any of the BS. Congratulations to Eric July!!<\/p>",
+          "content_cleaned": "https://youtube.com/watch?v=zSnIHUNWPjI&amp;feature=shareThe Rippaverse launched and within 24 hours had already made $1,000,000. Just goes to show how hungry people are for good story telling without any of the BS. Congratulations to Eric July!!",
+          "created_at": "2022-07-13T21:07:05.773+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642069759509818",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/rebelwende/statuses/108642069759509818",
+          "url": "https://truthsocial.com/@rebelwende/108642069759509818",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-14T18:01:53.376390+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637356427592959",
+        "_score": 5.7562,
+        "_source": {
+          "account": {
+            "acct": "Feemann",
+            "display_name": "Fee",
+            "id": "107838283240775265",
+            "username": "Feemann"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Now who came up with these fakes? You put Lara and Eric&apos;s faces on other bodies and Dan they did a poor job on your hair above your forehead. Tell them to do a better job we have discernment!!<\/p>",
+          "content_cleaned": "Now who came up with these fakes? You put Lara and Eric&apos;s faces on other bodies and Dan they did a poor job on your hair above your forehead. Tell them to do a better job we have discernment!!",
+          "created_at": "2022-07-13T01:08:26.042+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637356427592959",
+          "in_reply_to_account_id": "107799596344546069",
+          "in_reply_to_id": "108626632431666795",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DanScavino",
+              "id": "107799596344546069",
+              "url": "https://truthsocial.com/@DanScavino",
+              "username": "DanScavino"
+            },
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            },
+            {
+              "acct": "LaraTrump",
+              "id": "107834251706284834",
+              "url": "https://truthsocial.com/@LaraTrump",
+              "username": "LaraTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Feemann/statuses/108637356427592959",
+          "url": "https://truthsocial.com/@Feemann/108637356427592959",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-03T09:30:25.990523+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108638668308355129",
+        "_score": 5.3844,
+        "_source": {
+          "account": {
+            "acct": "Kekenjay",
+            "display_name": "",
+            "id": "108353505980416221",
+            "username": "Kekenjay"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric, this was a first for Michael. Previous to this he&apos;s studiously avoided identifying any of his contacts, under than to say they are Mar-e-largo sources. Yesterday, however, he posted an article, and stated that Steve Bannon was one of his Trump sources.<\/p>",
+          "content_cleaned": "Eric, this was a first for Michael. Previous to this he&apos;s studiously avoided identifying any of his contacts, under than to say they are Mar-e-largo sources. Yesterday, however, he posted an article, and stated that Steve Bannon was one of his Trump sources.",
+          "created_at": "2022-07-13T06:42:03.793+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108638668308355129",
+          "in_reply_to_account_id": "108319025492928802",
+          "in_reply_to_id": "108606202204269322",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DFD4122Q",
+              "id": "107853111952801021",
+              "url": "https://truthsocial.com/@DFD4122Q",
+              "username": "DFD4122Q"
+            },
+            {
+              "acct": "greggphillips",
+              "id": "108302129412552913",
+              "url": "https://truthsocial.com/@greggphillips",
+              "username": "greggphillips"
+            },
+            {
+              "acct": "KrisRanney",
+              "id": "108320110999368356",
+              "url": "https://truthsocial.com/@KrisRanney",
+              "username": "KrisRanney"
+            },
+            {
+              "acct": "patelpatriot",
+              "id": "107834264975991621",
+              "url": "https://truthsocial.com/@patelpatriot",
+              "username": "patelpatriot"
+            },
+            {
+              "acct": "RichardTheSaint",
+              "id": "108358159603071162",
+              "url": "https://truthsocial.com/@RichardTheSaint",
+              "username": "RichardTheSaint"
+            },
+            {
+              "acct": "SonOfLar375",
+              "id": "108319025492928802",
+              "url": "https://truthsocial.com/@SonOfLar375",
+              "username": "SonOfLar375"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Kekenjay/statuses/108638668308355129",
+          "url": "https://truthsocial.com/@Kekenjay/108638668308355129",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-16T18:55:38.465064+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641742377007039",
+        "_score": 5.2731,
+        "_source": {
+          "account": {
+            "acct": "AmericaBeautifulTrue",
+            "display_name": "AmericaBeaut#IStandWithTrump",
+            "id": "108353886671603512",
+            "username": "AmericaBeautifulTrue"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>We love you, Eric, and your wife, your kids, and your whole family.<br />Never has there been a family who loves our country, and Truth, as you all do, and you prove it with the sacrifices you make. <br />May God richly bless and reward you all, and protect you mightily.<\/p>",
+          "content_cleaned": "We love you, Eric, and your wife, your kids, and your whole family.Never has there been a family who loves our country, and Truth, as you all do, and you prove it with the sacrifices you make. May God richly bless and reward you all, and protect you mightily.",
+          "created_at": "2022-07-13T19:43:50.319+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108641742377007039",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/AmericaBeautifulTrue/statuses/108641742377007039",
+          "url": "https://truthsocial.com/@AmericaBeautifulTrue/108641742377007039",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:58:36.989376",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640494559950729",
+        "_score": 5.1673,
+        "_source": {
+          "account": {
+            "acct": "GoldenAge7",
+            "display_name": "Love&Light ⭐️⭐️⭐️",
+            "id": "107841465471157240",
+            "username": "GoldenAge7"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DC_Draino\" class=\"u-url mention\">@<span>DC_Draino<\/span><\/a><\/span> If hackers posted the contents of Eric or Trump Jr.’s phone, it would be wall-to-wall international news for months<\/p><p>But when it’s Hunter Biden? Barely a peep<\/p><p>That’s ok - the American People will know the truth about the Biden Crime Family by November and will be voting accordingly<\/p>",
+          "content_cleaned": "RT @DC_Draino If hackers posted the contents of Eric or Trump Jr.’s phone, it would be wall-to-wall international news for monthsBut when it’s Hunter Biden? Barely a peepThat’s ok - the American People will know the truth about the Biden Crime Family by November and will be voting accordingly",
+          "created_at": "2022-07-13T14:26:30.136+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640494559950729",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/GoldenAge7/statuses/108640494559950729/activity",
+          "url": "https://truthsocial.com/users/GoldenAge7/statuses/108640494559950729/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-14T12:33:39.774699+00:00",
+          "reblog": {
+            "id": "108624834388882137",
+            "uri": "https://truthsocial.com/users/DC_Draino/statuses/108624834388882137",
+            "url": "https://truthsocial.com/@DC_Draino/108624834388882137"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642197802406421",
+        "_score": 5.1673,
+        "_source": {
+          "account": {
+            "acct": "kagdrogo",
+            "display_name": "Chad H Vivas ⭐️⭐️⭐️ɄⱠ₮Ɽ₳2QQQ🐴",
+            "id": "107834450197185966",
+            "username": "kagdrogo"
+          },
+          "card": {
+            "author_name": "hostid1",
+            "author_url": "https://rumble.com/user/hostid1",
+            "blurhash": "UlF6@GMxXnaJ?^V@oyRj%MOFaKt7S2ofMxkD",
+            "description": "",
+            "embed_url": "",
+            "height": 1280,
+            "html": "<iframe src=\"https://rumble.com/embed/v19k60b/\" width=\"2276\" height=\"1280\" frameborder=\"0\" title=\"Video upload for 108642197802406421\" allowfullscreen=\"\"><\/iframe>",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/004/000/241/original/b9cfb205399669df.jpg",
+            "provider_name": "Rumble.com",
+            "provider_url": "https://rumble.com/",
+            "title": "Video upload for 108642197802406421",
+            "type": "video",
+            "url": "https://rumble.com/v1c6by3-video-upload-for-108642197802406421.html?mref=ummtf&mc=3nvg0",
+            "width": 2276
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T21:39:39.628+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 1174,
+          "id": "108642197802406421",
+          "language": "en",
+          "media_attachments": [
+            {
+              "external_video_id": "v19k60b",
+              "id": "108642197168806338",
+              "meta": {
+                "bitrate": 8562108,
+                "duration": 122.9083,
+                "frame_rate": "1454000/24707",
+                "height": 720,
+                "width": 1280
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/004/000/241/original/b9cfb205399669df.jpg",
+              "text_url": "https://truthsocial.com/media/DsfuXjh_5hUFcj__S7w",
+              "type": "video",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/642/197/168/806/338/original/a3f75b13aceacc41.qt"
+            }
+          ],
+          "mentions": [],
+          "reblogs_count": 622,
+          "replies_count": 28,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+          "url": "https://truthsocial.com/@kagdrogo/108642197802406421",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-31T11:58:41.140923+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637392608312092",
+        "_score": 5.1673,
+        "_source": {
+          "account": {
+            "acct": "lisamichelle12",
+            "display_name": "",
+            "id": "107845417411901922",
+            "username": "lisamichelle12"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DC_Draino\" class=\"u-url mention\">@<span>DC_Draino<\/span><\/a><\/span>If hackers posted the contents of Eric or Trump Jr.’s phone, it would be wall-to-wall international news for months<\/p><p>But when it’s Hunter Biden? Barely a peep<\/p><p>That’s ok - the American People will know the truth about the Biden Crime Family by November and will be voting accordingly<\/p>",
+          "content_cleaned": "RT @DC_DrainoIf hackers posted the contents of Eric or Trump Jr.’s phone, it would be wall-to-wall international news for monthsBut when it’s Hunter Biden? Barely a peepThat’s ok - the American People will know the truth about the Biden Crime Family by November and will be voting accordingly",
+          "created_at": "2022-07-13T01:17:38.114+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637392608312092",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@lisamichelle12/108637392608312092",
+          "url": "https://truthsocial.com/@lisamichelle12/108637392608312092",
+          "visibility": "public",
+          "lastseents": "2023-05-15T02:20:37.892531",
+          "pinned": false,
+          "reblog": {
+            "id": "108624834388882137",
+            "uri": "https://truthsocial.com/@DC_Draino/108624834388882137",
+            "url": "https://truthsocial.com/@DC_Draino/108624834388882137"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642669522156644",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "cpautrey",
+            "display_name": "freedomfightercpautrey",
+            "id": "107837455634003446",
+            "username": "cpautrey"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T23:39:37.427+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642669522156644",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/cpautrey/statuses/108642669522156644/activity",
+          "url": "https://truthsocial.com/users/cpautrey/statuses/108642669522156644/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-12T16:13:49.581704+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642217910885090",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "PatriotMommy78",
+            "display_name": "Patriot Mommy",
+            "id": "107843168619502235",
+            "username": "PatriotMommy78"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T21:44:46.388+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642217910885090",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/PatriotMommy78/statuses/108642217910885090/activity",
+          "url": "https://truthsocial.com/users/PatriotMommy78/statuses/108642217910885090/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-26T04:59:44.899374+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642209032275762",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "DQDGER",
+            "display_name": "𝕯𝖔𝖉𝖌𝖊𝖗🏴‍☠️",
+            "id": "107924388140608019",
+            "username": "DQDGER"
+          },
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T21:42:30.909+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 0,
+          "id": "108642209032275762",
+          "media_attachments": [],
+          "mentions": [],
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/DQDGER/statuses/108642209032275762/activity",
+          "url": "https://truthsocial.com/users/DQDGER/statuses/108642209032275762/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-26T07:27:46.435224+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642382791339465",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "RealtorJonathanMott",
+            "display_name": "RealtorJonathanMott",
+            "id": "108321747723776249",
+            "username": "RealtorJonathanMott"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T22:26:42.261+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642382791339465",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/RealtorJonathanMott/statuses/108642382791339465/activity",
+          "url": "https://truthsocial.com/users/RealtorJonathanMott/statuses/108642382791339465/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-21T18:39:15.046562+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642281805067676",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "LaurelS",
+            "display_name": "Laurel",
+            "id": "107848295021467915",
+            "username": "LaurelS"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T22:01:01.333+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642281805067676",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/LaurelS/statuses/108642281805067676/activity",
+          "url": "https://truthsocial.com/users/LaurelS/statuses/108642281805067676/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-05T18:30:43.932454+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642554327538145",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "reagape",
+            "display_name": "",
+            "id": "107835946815513815",
+            "username": "reagape"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T23:10:19.696+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642554327538145",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/reagape/statuses/108642554327538145/activity",
+          "url": "https://truthsocial.com/users/reagape/statuses/108642554327538145/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-08-07T08:32:52.859126+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642630200518471",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "justagirl123",
+            "display_name": "💎💎💎💎Just Courtney💎💎💎💎",
+            "id": "107842123917261848",
+            "username": "justagirl123"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T23:29:37.426+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642630200518471",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/justagirl123/statuses/108642630200518471/activity",
+          "url": "https://truthsocial.com/users/justagirl123/statuses/108642630200518471/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-30T04:19:13.230035+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642463550721382",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "Anonamoose",
+            "display_name": "Ultra Anonamoose",
+            "id": "107834571406757509",
+            "username": "Anonamoose"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T22:47:14.551+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642463550721382",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Anonamoose/statuses/108642463550721382/activity",
+          "url": "https://truthsocial.com/users/Anonamoose/statuses/108642463550721382/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-15T16:03:57.779860+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642738139117190",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "CBanford",
+            "display_name": "Chrissy FB",
+            "id": "107844086657556480",
+            "username": "CBanford"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T23:57:04.441+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642738139117190",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CBanford/statuses/108642738139117190/activity",
+          "url": "https://truthsocial.com/users/CBanford/statuses/108642738139117190/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-08-13T13:19:33.934215+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637281937069343",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "DonutJTurnip",
+            "display_name": "Milli Vanilli",
+            "id": "108475689239880555",
+            "username": "DonutJTurnip"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Trump and Lara Trump used burner phones to communicate on J6. Don Jr told the MAGA-mob to “fight like hell.” Ivanka refused to tell her fascist father to “call-off” his supporters. And TFG &amp; his immigrant wife gleefully watched J6 unfold on tv. Jail the Trumps. All of them.<\/p>",
+          "content_cleaned": "Eric Trump and Lara Trump used burner phones to communicate on J6. Don Jr told the MAGA-mob to “fight like hell.” Ivanka refused to tell her fascist father to “call-off” his supporters. And TFG &amp; his immigrant wife gleefully watched J6 unfold on tv. Jail the Trumps. All of them.",
+          "created_at": "2022-07-13T00:49:29.400+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108637281937069343",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636709682962081",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "URGIG^Ri03xs58oypJay?Ft7$xR.k;WBNGod",
+              "id": "108637281900614183",
+              "meta": {
+                "aspect": 1.4433,
+                "height": 573,
+                "size": "827x573",
+                "width": 827
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/281/900/614/183/small/4815d8f2369ed483.jpeg",
+              "text_url": "https://truthsocial.com/media/C0mvtwqKLsY_Lvq3Ylc",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/281/900/614/183/original/4815d8f2369ed483.jpeg"
+            }
+          ],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/DonutJTurnip/statuses/108637281937069343",
+          "url": "https://truthsocial.com/@DonutJTurnip/108637281937069343",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-24T16:44:23.202135+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642289157652954",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "lisamei62",
+            "display_name": "Lisa Mei Crowley 🇺🇸",
+            "id": "107861801878217220",
+            "username": "lisamei62"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T22:02:53.593+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642289157652954",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/lisamei62/statuses/108642289157652954/activity",
+          "url": "https://truthsocial.com/users/lisamei62/statuses/108642289157652954/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-02T22:24:43.824131+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642362868170033",
+        "_score": 5.0666,
+        "_source": {
+          "account": {
+            "acct": "5Never_Give_Up5",
+            "display_name": "🇺🇸🇺🇸55🇺🇸🇺🇸",
+            "id": "107834180331963456",
+            "username": "5Never_Give_Up5"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @kagdrogo Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T22:21:38.258+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642362868170033",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/5Never_Give_Up5/statuses/108642362868170033/activity",
+          "url": "https://truthsocial.com/users/5Never_Give_Up5/statuses/108642362868170033/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-15T01:37:38.891598+00:00",
+          "reblog": {
+            "id": "108642197802406421",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/108642197802406421",
+            "url": "https://truthsocial.com/@kagdrogo/108642197802406421"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640261065464848",
+        "_score": 4.8792,
+        "_source": {
+          "account": {
+            "acct": "Deltayoshi98",
+            "display_name": "Andy Strong",
+            "id": "107838993325673584",
+            "username": "Deltayoshi98"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Hey <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" class=\"u-url mention\">@<span>realDonaldTrump<\/span><\/a><\/span>  please do a rally in Missouri preferably in Springfield Missouri. This is Trump country and the Missouri Primary is on August 2nd. We need republican leadership in this state and we’re having trouble deciding who to pick for senate. A lot of division in the Republican Party. Please endorse Eric Schmidt and Josh Hawley.<\/p>",
+          "content_cleaned": "Hey @realDonaldTrump  please do a rally in Missouri preferably in Springfield Missouri. This is Trump country and the Missouri Primary is on August 2nd. We need republican leadership in this state and we’re having trouble deciding who to pick for senate. A lot of division in the Republican Party. Please endorse Eric Schmidt and Josh Hawley.",
+          "created_at": "2022-07-13T13:27:07.290+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640261065464848",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108636748962589913",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "jack",
+              "id": "107805245438126167",
+              "url": "https://truthsocial.com/@jack",
+              "username": "jack"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Deltayoshi98/statuses/108640261065464848",
+          "url": "https://truthsocial.com/@Deltayoshi98/108640261065464848",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-14T12:35:11.272451+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642627130844602",
+        "_score": 4.8792,
+        "_source": {
+          "account": {
+            "acct": "Frank_Westling",
+            "display_name": "Frank_Westling",
+            "id": "108319491946718684",
+            "username": "Frank_Westling"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I understand this.<\/p><p>The ERIC system was founded by none other than Sonos.<\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@barnettforaz\" class=\"u-url mention\">@<span>barnettforaz<\/span><\/a><\/span> and<br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@DaveCaresForYou\" class=\"u-url mention\">@<span>DaveCaresForYou<\/span><\/a><\/span> <\/p><p>Have tons of teaching on when to, how and why to write up legally binding notices and affidavits. <\/p><p>Only though standing up and getting busy can we slap these sorry SOB&apos;s back to the insignificance from where they came.<\/p><p>We are the Majority.<\/p>",
+          "content_cleaned": "I understand this.The ERIC system was founded by none other than Sonos.@barnettforaz and@DaveCaresForYou Have tons of teaching on when to, how and why to write up legally binding notices and affidavits. Only though standing up and getting busy can we slap these sorry SOB&apos;s back to the insignificance from where they came.We are the Majority.",
+          "created_at": "2022-07-13T23:28:50.590+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "id": "108642627130844602",
+          "in_reply_to_account_id": "107843241955219619",
+          "in_reply_to_id": "108642580912907330",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "barnettforaz",
+              "id": "107834557055815431",
+              "url": "https://truthsocial.com/@barnettforaz",
+              "username": "barnettforaz"
+            },
+            {
+              "acct": "DaveCaresForYou",
+              "id": "108025606692154792",
+              "url": "https://truthsocial.com/@DaveCaresForYou",
+              "username": "DaveCaresForYou"
+            },
+            {
+              "acct": "Dillon1771",
+              "id": "107856198753051820",
+              "url": "https://truthsocial.com/@Dillon1771",
+              "username": "Dillon1771"
+            },
+            {
+              "acct": "MatReaper",
+              "id": "108348983268299836",
+              "url": "https://truthsocial.com/@MatReaper",
+              "username": "MatReaper"
+            },
+            {
+              "acct": "patriots2022",
+              "id": "107834509461634745",
+              "url": "https://truthsocial.com/@patriots2022",
+              "username": "patriots2022"
+            },
+            {
+              "acct": "TrulyDasting",
+              "id": "107834467123491726",
+              "url": "https://truthsocial.com/@TrulyDasting",
+              "username": "TrulyDasting"
+            },
+            {
+              "acct": "TruthSeekerUSA82",
+              "id": "107843241955219619",
+              "url": "https://truthsocial.com/@TruthSeekerUSA82",
+              "username": "TruthSeekerUSA82"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Frank_Westling/statuses/108642627130844602",
+          "url": "https://truthsocial.com/@Frank_Westling/108642627130844602",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-05T18:47:02.794546+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642085190449824",
+        "_score": 4.8792,
+        "_source": {
+          "account": {
+            "acct": "VenusTapley",
+            "display_name": "🌺𝓥𝓮𝓷𝓾𝓼☀️🌴🌊𝓢𝓪𝓵𝓽𝔂 𝓖𝓸𝓭𝓭𝓮𝓼𝓼🏄🏻‍♂️",
+            "id": "107841964916346308",
+            "username": "VenusTapley"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "hostid1",
+            "author_url": "https://rumble.com/user/hostid1",
+            "blurhash": "UoFsojMxk?aJ?^V[t7Rk%NNxjFt7W=ofRPkD",
+            "description": "",
+            "embed_url": "",
+            "height": 720,
+            "html": "<iframe src=\"https://rumble.com/embed/v19k2n5/\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Video upload for 108642085190449824\" allowfullscreen=\"\"><\/iframe>",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/999/112/original/a4075a4843a49430.jpg",
+            "provider_name": "Rumble.com",
+            "provider_url": "https://rumble.com/",
+            "title": "Video upload for 108642085190449824",
+            "type": "video",
+            "url": "https://rumble.com/v1c68kx-video-upload-for-108642085190449824.html?mref=ummtf&mc=3nvg0",
+            "width": 1280
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know. <\/p><p><a href=\"https://truthsocial.com/tags/RETruth\" class=\"mention hashtag\" rel=\"tag\">#<span>RETruth<\/span><\/a>🔁 <a href=\"https://truthsocial.com/tags/followme\" class=\"mention hashtag\" rel=\"tag\">#<span>followme<\/span><\/a> 👉🏻<span class=\"h-card\"><a href=\"https://truthsocial.com/@VenusTapley\" class=\"u-url mention\">@<span>VenusTapley<\/span><\/a><\/span>🇺🇸<\/p>",
+          "content_cleaned": "Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know. #RETruth🔁 #followme 👉🏻@VenusTapley🇺🇸",
+          "created_at": "2022-07-13T21:11:01.233+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 4,
+          "id": "108642085190449824",
+          "language": "en",
+          "media_attachments": [
+            {
+              "external_video_id": "v19k2n5",
+              "id": "108642084988733776",
+              "meta": {
+                "bitrate": 2567944,
+                "duration": 122.8333,
+                "frame_rate": "54600/1847",
+                "height": 720,
+                "width": 1280
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/999/112/original/a4075a4843a49430.jpg",
+              "text_url": "https://truthsocial.com/media/p5EifCBi8aO9s1cj72E",
+              "type": "video",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/642/084/988/733/776/original/5cc6a818a771c5fd.qt"
+            }
+          ],
+          "mentions": [
+            {
+              "acct": "VenusTapley",
+              "id": "107841964916346308",
+              "url": "https://truthsocial.com/@VenusTapley",
+              "username": "VenusTapley"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 3,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "followme",
+              "url": "https://truthsocial.com/tags/followme"
+            },
+            {
+              "name": "RETruth",
+              "url": "https://truthsocial.com/tags/RETruth"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/VenusTapley/statuses/108642085190449824",
+          "url": "https://truthsocial.com/@VenusTapley/108642085190449824",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-15T18:51:37.842867+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637766098782358",
+        "_score": 4.8792,
+        "_source": {
+          "account": {
+            "acct": "trumpwisdomdotcom",
+            "display_name": "trumpwisdom.com",
+            "id": "108164416885107084",
+            "username": "trumpwisdomdotcom"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric, let me explain Photoshop. No one is holding the flag. Just look! The edges of the flag were cut with a tool that did not respect transparent backgrounds. The shadows do not line up! Honestly, this looks like you may have done it yourself it’s so bad. Did they let you near the computer again?<\/p>",
+          "content_cleaned": "Eric, let me explain Photoshop. No one is holding the flag. Just look! The edges of the flag were cut with a tool that did not respect transparent backgrounds. The shadows do not line up! Honestly, this looks like you may have done it yourself it’s so bad. Did they let you near the computer again?",
+          "created_at": "2022-07-13T02:52:37.128+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108637766098782358",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/trumpwisdomdotcom/statuses/108637766098782358",
+          "url": "https://truthsocial.com/@trumpwisdomdotcom/108637766098782358",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:57:47.186534",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642046572951561",
+        "_score": 4.7082,
+        "_source": {
+          "account": {
+            "acct": "SoggySock",
+            "display_name": "SoggySock (Diz)",
+            "id": "108326468532235436",
+            "username": "SoggySock"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@_truth_sniper_21\" class=\"u-url mention\">@<span>_truth_sniper_21<\/span><\/a><\/span> Here&apos;s a good dose of truth right here 👇<\/p><p>Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @_truth_sniper_21 Here&apos;s a good dose of truth right here 👇Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T21:01:12.043+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642046572951561",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/SoggySock/statuses/108642046572951561/activity",
+          "url": "https://truthsocial.com/users/SoggySock/statuses/108642046572951561/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-08-11T19:42:31.620459+00:00",
+          "reblog": {
+            "id": "108641975233473517",
+            "uri": "https://truthsocial.com/users/_truth_sniper_21/statuses/108641975233473517",
+            "url": "https://truthsocial.com/@_truth_sniper_21/108641975233473517"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642042145182408",
+        "_score": 4.7082,
+        "_source": {
+          "account": {
+            "acct": "Humanizzimo",
+            "display_name": "Humanizzimo",
+            "id": "108318624053422872",
+            "username": "Humanizzimo"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@_truth_sniper_21\" class=\"u-url mention\">@<span>_truth_sniper_21<\/span><\/a><\/span> Here&apos;s a good dose of truth right here 👇<\/p><p>Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.<\/p>",
+          "content_cleaned": "RT @_truth_sniper_21 Here&apos;s a good dose of truth right here 👇Eric Trump speaks about how his father woke up long before he did to the satanic and demonic forces trying to end our Constitution … while standing in front of a giant image of “the Great Awakening vs the Great Reset” with Klaus Schwab, Yuval Harari and Bill Gates… they know.",
+          "created_at": "2022-07-13T21:00:04.480+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642042145182408",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Humanizzimo/statuses/108642042145182408/activity",
+          "url": "https://truthsocial.com/users/Humanizzimo/statuses/108642042145182408/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-21T06:06:45.575016+00:00",
+          "reblog": {
+            "id": "108641975233473517",
+            "uri": "https://truthsocial.com/users/_truth_sniper_21/statuses/108641975233473517",
+            "url": "https://truthsocial.com/@_truth_sniper_21/108641975233473517"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642711691664746",
+        "_score": 4.7082,
+        "_source": {
+          "account": {
+            "acct": "Frank_Westling",
+            "display_name": "Frank_Westling",
+            "id": "108319491946718684",
+            "username": "Frank_Westling"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Thank you Josh.<\/p><p>Eric can only be removed by convincing each states Legislators that We want them gone.<\/p><p>What ERIC does is inflate the voter rolls allowing fake ballots to appear as legitimate ballots.<\/p><p>Harder to catch the rig, but still able to be done through full forensic audits, signature matching and canvassing.<\/p><p>What happened in 2020, and since are acts of Treason. Keep that in mind.<\/p>",
+          "content_cleaned": "Thank you Josh.Eric can only be removed by convincing each states Legislators that We want them gone.What ERIC does is inflate the voter rolls allowing fake ballots to appear as legitimate ballots.Harder to catch the rig, but still able to be done through full forensic audits, signature matching and canvassing.What happened in 2020, and since are acts of Treason. Keep that in mind.",
+          "created_at": "2022-07-13T23:50:20.887+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108642711691664746",
+          "in_reply_to_account_id": "107834557055815431",
+          "in_reply_to_id": "108642635093966553",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "barnettforaz",
+              "id": "107834557055815431",
+              "url": "https://truthsocial.com/@barnettforaz",
+              "username": "barnettforaz"
+            },
+            {
+              "acct": "DaveCaresForYou",
+              "id": "108025606692154792",
+              "url": "https://truthsocial.com/@DaveCaresForYou",
+              "username": "DaveCaresForYou"
+            },
+            {
+              "acct": "Dillon1771",
+              "id": "107856198753051820",
+              "url": "https://truthsocial.com/@Dillon1771",
+              "username": "Dillon1771"
+            },
+            {
+              "acct": "MatReaper",
+              "id": "108348983268299836",
+              "url": "https://truthsocial.com/@MatReaper",
+              "username": "MatReaper"
+            },
+            {
+              "acct": "patriots2022",
+              "id": "107834509461634745",
+              "url": "https://truthsocial.com/@patriots2022",
+              "username": "patriots2022"
+            },
+            {
+              "acct": "TrulyDasting",
+              "id": "107834467123491726",
+              "url": "https://truthsocial.com/@TrulyDasting",
+              "username": "TrulyDasting"
+            },
+            {
+              "acct": "TruthSeekerUSA82",
+              "id": "107843241955219619",
+              "url": "https://truthsocial.com/@TruthSeekerUSA82",
+              "username": "TruthSeekerUSA82"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Frank_Westling/statuses/108642711691664746",
+          "url": "https://truthsocial.com/@Frank_Westling/108642711691664746",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-05T18:47:02.867569+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108641514643597131",
+        "_score": 4.4079,
+        "_source": {
+          "account": {
+            "acct": "CynthiaHolt",
+            "display_name": "Cynthia Holt MAGA ✝️🇺🇸",
+            "id": "108317953566693908",
+            "username": "CynthiaHolt"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConcernedCitizen2\" class=\"u-url mention\">@<span>ConcernedCitizen2<\/span><\/a><\/span> The book she is reading is “Profiles in Corruption” to which Kamala Harris and Joe Biden are the 2nd  and 3rd chapters in it, along with 4) Cory Booker, 5) Elizabeth Warren, 6) Sherrod Brown, 7) Bernie Sanders, 8) Amy Klobucher, and 9) Eric Garcetti. (Chapter 1 was an introduction.) They were the remaining Democrats running for President in 2020 when the book was being published.<\/p>",
+          "content_cleaned": "RT @ConcernedCitizen2 The book she is reading is “Profiles in Corruption” to which Kamala Harris and Joe Biden are the 2nd  and 3rd chapters in it, along with 4) Cory Booker, 5) Elizabeth Warren, 6) Sherrod Brown, 7) Bernie Sanders, 8) Amy Klobucher, and 9) Eric Garcetti. (Chapter 1 was an introduction.) They were the remaining Democrats running for President in 2020 when the book was being published.",
+          "created_at": "2022-07-13T18:45:55.379+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108641514643597131",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CynthiaHolt/statuses/108641514643597131/activity",
+          "url": "https://truthsocial.com/users/CynthiaHolt/statuses/108641514643597131/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-06T04:31:58.865911+00:00",
+          "reblog": {
+            "id": "108640914129641941",
+            "uri": "https://truthsocial.com/users/ConcernedCitizen2/statuses/108640914129641941",
+            "url": "https://truthsocial.com/@ConcernedCitizen2/108640914129641941"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640199195853350",
+        "_score": 4.4079,
+        "_source": {
+          "account": {
+            "acct": "yousmellityoudealtit",
+            "display_name": "somethingclever",
+            "id": "108475801209171142",
+            "username": "yousmellityoudealtit"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Wow that is entirely, and demonstrably incorrect. Under Trump unemployment sat at around 6% and never really changed. I wonder what is one thing you can point to that shows your administration was anything more than a bad reality T.V. show. Ps. Tell Eric if he doesn’t stop using cocaine to clear his sinuses, he’s not going to have them much longer. 🫵💩🥢🤢🤮😭🤯￼<\/p>",
+          "content_cleaned": "Wow that is entirely, and demonstrably incorrect. Under Trump unemployment sat at around 6% and never really changed. I wonder what is one thing you can point to that shows your administration was anything more than a bad reality T.V. show. Ps. Tell Eric if he doesn’t stop using cocaine to clear his sinuses, he’s not going to have them much longer. 🫵💩🥢🤢🤮😭🤯￼",
+          "created_at": "2022-07-13T13:11:23.234+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108640199195853350",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108475821812157620",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/yousmellityoudealtit/statuses/108640199195853350",
+          "url": "https://truthsocial.com/@yousmellityoudealtit/108640199195853350",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-24T00:42:37.829403+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108638018122425548",
+        "_score": 3.9328,
+        "_source": {
+          "account": {
+            "acct": "WaltervB66",
+            "display_name": "German Gator",
+            "id": "107834519688408051",
+            "username": "WaltervB66"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@CrazyCatRescuer\" class=\"u-url mention\">@<span>CrazyCatRescuer<\/span><\/a><\/span> ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.<\/p><p>No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…<\/p><p><a href=\"https://truthsocial.com/tags/TheFam\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFam<\/span><\/a> <a href=\"https://truthsocial.com/tags/P19\" class=\"mention hashtag\" rel=\"tag\">#<span>P19<\/span><\/a> <a href=\"https://truthsocial.com/tags/P4E\" class=\"mention hashtag\" rel=\"tag\">#<span>P4E<\/span><\/a> <a href=\"https://truthsocial.com/tags/TWGRP\" class=\"mention hashtag\" rel=\"tag\">#<span>TWGRP<\/span><\/a> <a href=\"https://truthsocial.com/tags/MH8\" class=\"mention hashtag\" rel=\"tag\">#<span>MH8<\/span><\/a><\/p>",
+          "content_cleaned": "RT @CrazyCatRescuer ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…#TheFam #P19 #P4E #TWGRP #MH8",
+          "created_at": "2022-07-13T03:56:42.703+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108638018122425548",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/WaltervB66/statuses/108638018122425548/activity",
+          "url": "https://truthsocial.com/users/WaltervB66/statuses/108638018122425548/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-13T09:33:05.249708+00:00",
+          "reblog": {
+            "id": "108636378200046705",
+            "uri": "https://truthsocial.com/users/CrazyCatRescuer/statuses/108636378200046705",
+            "url": "https://truthsocial.com/@CrazyCatRescuer/108636378200046705"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637629973977542",
+        "_score": 3.9328,
+        "_source": {
+          "account": {
+            "acct": "craigazoffroad",
+            "display_name": "Craig H",
+            "id": "107912069462996338",
+            "username": "craigazoffroad"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@CrazyCatRescuer\" class=\"u-url mention\">@<span>CrazyCatRescuer<\/span><\/a><\/span> ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.<\/p><p>No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…<\/p><p><a href=\"https://truthsocial.com/tags/TheFam\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFam<\/span><\/a> <a href=\"https://truthsocial.com/tags/P19\" class=\"mention hashtag\" rel=\"tag\">#<span>P19<\/span><\/a> <a href=\"https://truthsocial.com/tags/P4E\" class=\"mention hashtag\" rel=\"tag\">#<span>P4E<\/span><\/a> <a href=\"https://truthsocial.com/tags/TWGRP\" class=\"mention hashtag\" rel=\"tag\">#<span>TWGRP<\/span><\/a> <a href=\"https://truthsocial.com/tags/MH8\" class=\"mention hashtag\" rel=\"tag\">#<span>MH8<\/span><\/a><\/p>",
+          "content_cleaned": "RT @CrazyCatRescuer ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…#TheFam #P19 #P4E #TWGRP #MH8",
+          "created_at": "2022-07-13T02:18:00.026+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637629973977542",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/craigazoffroad/statuses/108637629973977542/activity",
+          "url": "https://truthsocial.com/users/craigazoffroad/statuses/108637629973977542/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-05T20:14:16.696434+00:00",
+          "reblog": {
+            "id": "108636378200046705",
+            "uri": "https://truthsocial.com/users/CrazyCatRescuer/statuses/108636378200046705",
+            "url": "https://truthsocial.com/@CrazyCatRescuer/108636378200046705"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637135145820282",
+        "_score": 3.9328,
+        "_source": {
+          "account": {
+            "acct": "Leah77",
+            "display_name": "Leah77 Ultra MAGA ✝️🇺🇸🌴🎸🐸🐇",
+            "id": "107834664164475932",
+            "username": "Leah77"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@CrazyCatRescuer\" class=\"u-url mention\">@<span>CrazyCatRescuer<\/span><\/a><\/span> ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.<\/p><p>No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…<\/p><p><a href=\"https://truthsocial.com/tags/TheFam\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFam<\/span><\/a> <a href=\"https://truthsocial.com/tags/P19\" class=\"mention hashtag\" rel=\"tag\">#<span>P19<\/span><\/a> <a href=\"https://truthsocial.com/tags/P4E\" class=\"mention hashtag\" rel=\"tag\">#<span>P4E<\/span><\/a> <a href=\"https://truthsocial.com/tags/TWGRP\" class=\"mention hashtag\" rel=\"tag\">#<span>TWGRP<\/span><\/a> <a href=\"https://truthsocial.com/tags/MH8\" class=\"mention hashtag\" rel=\"tag\">#<span>MH8<\/span><\/a><\/p>",
+          "content_cleaned": "RT @CrazyCatRescuer ERIC TRUMP comments on HUNTER’S DRUG DEAL VIDEO &amp; the differences between their families.No comparison between them, as well as their treatment by MSM…or the DOJ for that matter as they look the other way with the Biden family corruption. As my other Truth today points out, Hunter could be the way to get rid of Biden for the next Dem 10 yr reign. It’s getting hard even for Dems to ignore as more videos leak out…#TheFam #P19 #P4E #TWGRP #MH8",
+          "created_at": "2022-07-13T00:12:09.546+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637135145820282",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Leah77/statuses/108637135145820282/activity",
+          "url": "https://truthsocial.com/users/Leah77/statuses/108637135145820282/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-13T04:29:45.629425+00:00",
+          "reblog": {
+            "id": "108636378200046705",
+            "uri": "https://truthsocial.com/users/CrazyCatRescuer/statuses/108636378200046705",
+            "url": "https://truthsocial.com/@CrazyCatRescuer/108636378200046705"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637821470354050",
+        "_score": 3.834,
+        "_source": {
+          "account": {
+            "acct": "leadersdontfail",
+            "display_name": "Big John",
+            "id": "108277525438466827",
+            "username": "leadersdontfail"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>From concern Eric I speak , have a medical examination , checking your heart Carotid arteries, Liver and kidneys lungs and brain I just since something￼￼ not sure . I know your right side is your strong side yes I believe it is on your right side there’s something wrong not saying it’s a panic I just recognize and concern because I see the good person you are it exudes from a distance from the picture so it got my attention that strong presents so I look closer and I sense a problem.<\/p>",
+          "content_cleaned": "From concern Eric I speak , have a medical examination , checking your heart Carotid arteries, Liver and kidneys lungs and brain I just since something￼￼ not sure . I know your right side is your strong side yes I believe it is on your right side there’s something wrong not saying it’s a panic I just recognize and concern because I see the good person you are it exudes from a distance from the picture so it got my attention that strong presents so I look closer and I sense a problem.",
+          "created_at": "2022-07-13T03:06:42.031+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108637821470354050",
+          "in_reply_to_account_id": "107799596344546069",
+          "in_reply_to_id": "108626632431666795",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DanScavino",
+              "id": "107799596344546069",
+              "url": "https://truthsocial.com/@DanScavino",
+              "username": "DanScavino"
+            },
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            },
+            {
+              "acct": "LaraTrump",
+              "id": "107834251706284834",
+              "url": "https://truthsocial.com/@LaraTrump",
+              "username": "LaraTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/leadersdontfail/statuses/108637821470354050",
+          "url": "https://truthsocial.com/@leadersdontfail/108637821470354050",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-03T09:30:26.049557+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637407739646558",
+        "_score": 3.834,
+        "_source": {
+          "account": {
+            "acct": "zool",
+            "display_name": "MR",
+            "id": "107842654958068633",
+            "username": "zool"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span> 🔥🔥🔥 <span class=\"h-card\"><a href=\"https://truthsocial.com/@TerrenceKWilliams\" class=\"u-url mention\">@<span>TerrenceKWilliams<\/span><\/a><\/span>: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”<\/p><p><a href=\"https://truthsocial.com/tags/BubbleCovfefe\" class=\"mention hashtag\" rel=\"tag\">#<span>BubbleCovfefe<\/span><\/a> | <a href=\"https://truthsocial.com/tags/AT22\" class=\"mention hashtag\" rel=\"tag\">#<span>AT22<\/span><\/a><\/p>",
+          "content_cleaned": "RT @bubblecovfefe 🔥🔥🔥 @TerrenceKWilliams: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”#BubbleCovfefe | #AT22",
+          "created_at": "2022-07-13T01:21:29.001+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637407739646558",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/zool/statuses/108637407739646558/activity",
+          "url": "https://truthsocial.com/users/zool/statuses/108637407739646558/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-16T00:25:19.960810+00:00",
+          "reblog": {
+            "id": "108634939360625370",
+            "uri": "https://truthsocial.com/users/bubblecovfefe/statuses/108634939360625370",
+            "url": "https://truthsocial.com/@bubblecovfefe/108634939360625370"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637555948253959",
+        "_score": 3.834,
+        "_source": {
+          "account": {
+            "acct": "daveh9502",
+            "display_name": "Richard Cranium",
+            "id": "107839467311380760",
+            "username": "daveh9502"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span> 🔥🔥🔥 <span class=\"h-card\"><a href=\"https://truthsocial.com/@TerrenceKWilliams\" class=\"u-url mention\">@<span>TerrenceKWilliams<\/span><\/a><\/span>: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”<\/p><p><a href=\"https://truthsocial.com/tags/BubbleCovfefe\" class=\"mention hashtag\" rel=\"tag\">#<span>BubbleCovfefe<\/span><\/a> | <a href=\"https://truthsocial.com/tags/AT22\" class=\"mention hashtag\" rel=\"tag\">#<span>AT22<\/span><\/a><\/p>",
+          "content_cleaned": "RT @bubblecovfefe 🔥🔥🔥 @TerrenceKWilliams: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”#BubbleCovfefe | #AT22",
+          "created_at": "2022-07-13T01:59:10.481+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637555948253959",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/daveh9502/statuses/108637555948253959/activity",
+          "url": "https://truthsocial.com/users/daveh9502/statuses/108637555948253959/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-08-12T12:42:06.420075+00:00",
+          "reblog": {
+            "id": "108634939360625370",
+            "uri": "https://truthsocial.com/users/bubblecovfefe/statuses/108634939360625370",
+            "url": "https://truthsocial.com/@bubblecovfefe/108634939360625370"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640412490152330",
+        "_score": 3.834,
+        "_source": {
+          "account": {
+            "acct": "patrishg",
+            "display_name": "patrishg",
+            "id": "108047544909983644",
+            "username": "patrishg"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Dear Eric,<br />We LOVED how your father ran this country and put in place policies that were good for our Constitution, our Freedoms &amp; the good of our citizens. <br /> <br />Please,  someone, coach your Father to learn to have “a filter “ &amp; to learn to stop being abrasive &amp; insulting. He’s got to learn to keep his mouth shut &amp; generally treat people better &amp; keep his comments to himself. Everything he “thinks” about other people “comes out of his mouth”   <br />Good, kind-natured Christian people object to this !<\/p>",
+          "content_cleaned": "Dear Eric,We LOVED how your father ran this country and put in place policies that were good for our Constitution, our Freedoms &amp; the good of our citizens.  Please,  someone, coach your Father to learn to have “a filter “ &amp; to learn to stop being abrasive &amp; insulting. He’s got to learn to keep his mouth shut &amp; generally treat people better &amp; keep his comments to himself. Everything he “thinks” about other people “comes out of his mouth”   Good, kind-natured Christian people object to this !",
+          "created_at": "2022-07-13T14:05:37.856+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 3,
+          "group_timeline_visible": false,
+          "id": "108640412490152330",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "108635595386636429",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/patrishg/statuses/108640412490152330",
+          "url": "https://truthsocial.com/@patrishg/108640412490152330",
+          "visibility": "public",
+          "lastseents": "2023-04-29T14:58:18.077879",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637659224876949",
+        "_score": 3.834,
+        "_source": {
+          "account": {
+            "acct": "Davesnothere13",
+            "display_name": "Dave’s not here!",
+            "id": "107837960178298596",
+            "username": "Davesnothere13"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@bubblecovfefe\" class=\"u-url mention\">@<span>bubblecovfefe<\/span><\/a><\/span>🔥🔥🔥 <span class=\"h-card\"><a href=\"https://truthsocial.com/@TerrenceKWilliams\" class=\"u-url mention\">@<span>TerrenceKWilliams<\/span><\/a><\/span>: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”<\/p><p><a href=\"https://truthsocial.com/tags/BubbleCovfefe\" class=\"mention hashtag\" rel=\"tag\">#<span>BubbleCovfefe<\/span><\/a> | <a href=\"https://truthsocial.com/tags/AT22\" class=\"mention hashtag\" rel=\"tag\">#<span>AT22<\/span><\/a><\/p>",
+          "content_cleaned": "RT @bubblecovfefe🔥🔥🔥 @TerrenceKWilliams: “Y’all know that’s not sugar right? That’s not sugar or salt. This man is weighing crack cocaine. Crack rocks. And you mean to tell me he has not been arrested yet when he is on camera weighing crack cocaine. You mean to tell me the FBI is not knocking on his door? But the FBI can arrest people for J6? If this were DJT Jr or Eric Trump on video weighing crack cocaine, you wouldn’t hear the end of it!!”#BubbleCovfefe | #AT22",
+          "created_at": "2022-07-13T02:25:26.358+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108637659224876949",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@Davesnothere13/108637659224876949",
+          "url": "https://truthsocial.com/@Davesnothere13/108637659224876949",
+          "visibility": "public",
+          "lastseents": "2023-05-15T05:15:14.687170",
+          "pinned": false,
+          "reblog": {
+            "id": "108634939360625370",
+            "uri": "https://truthsocial.com/@bubblecovfefe/108634939360625370",
+            "url": "https://truthsocial.com/@bubblecovfefe/108634939360625370"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108637663315376509",
+        "_score": 3.6552,
+        "_source": {
+          "account": {
+            "acct": "KonaGabbard",
+            "display_name": "KonaGabbard",
+            "id": "108325174987853296",
+            "username": "KonaGabbard"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Q/MAGA/GOP people don&apos;t give a dam. They love shouting &quot;Trump 2024!&quot;. They bent over for Nov 3rd 2020 coup. They LOVE &quot;voting&quot;. Brian Kemp &quot;voting&quot; Gavin Newsome &quot;voting&quot; Brad Raffensperger &quot;voting&quot;. They think they are moon walking into the polls and &quot;voting&quot; in Nov. They think the swamp will let them or Trump/Q will handle it. <br />Then they think their RINOS on FOX that won&apos;t say 2,000 mules will help them. America LOL. Eric Coomer and his DOMINION STILL 100% free.<\/p>",
+          "content_cleaned": "Q/MAGA/GOP people don&apos;t give a dam. They love shouting &quot;Trump 2024!&quot;. They bent over for Nov 3rd 2020 coup. They LOVE &quot;voting&quot;. Brian Kemp &quot;voting&quot; Gavin Newsome &quot;voting&quot; Brad Raffensperger &quot;voting&quot;. They think they are moon walking into the polls and &quot;voting&quot; in Nov. They think the swamp will let them or Trump/Q will handle it. Then they think their RINOS on FOX that won&apos;t say 2,000 mules will help them. America LOL. Eric Coomer and his DOMINION STILL 100% free.",
+          "created_at": "2022-07-13T02:26:28.769+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108637663315376509",
+          "in_reply_to_account_id": "107842299876619984",
+          "in_reply_to_id": "108637636234263753",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UeMs_}-;%#bc0Kwax^e.RjV?V[kCo#bwayW=",
+              "id": "108637656711223035",
+              "meta": {
+                "aspect": 0.7339,
+                "height": 218,
+                "size": "160x218",
+                "width": 160
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/656/711/223/035/small/28df99985954fe5f.jpeg",
+              "text_url": "https://truthsocial.com/media/xDjSGZl9EWooMwNKrBc",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/656/711/223/035/original/28df99985954fe5f.jpeg"
+            },
+            {
+              "blurhash": "UmRCrSV@?wx^xvV@R%kWt+t8R5RPM{f+s:aK",
+              "id": "108637656319630272",
+              "meta": {
+                "aspect": 0.9382,
+                "height": 275,
+                "size": "258x275",
+                "width": 258
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/656/319/630/272/small/b2dbc32058b826ef.jpeg",
+              "text_url": "https://truthsocial.com/media/wBoYFyvACLlR8WShywA",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/656/319/630/272/original/b2dbc32058b826ef.jpeg"
+            },
+            {
+              "blurhash": "UOKA$tu4pwiI0KaKVsS257$*R5tk-qM{xuR*",
+              "id": "108637658503995554",
+              "meta": {
+                "aspect": 1,
+                "height": 500,
+                "size": "500x500",
+                "width": 500
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/658/503/995/554/small/35ae7871739dcf88.jpeg",
+              "text_url": "https://truthsocial.com/media/13dYJtLIl3A8GQiUOoI",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/658/503/995/554/original/35ae7871739dcf88.jpeg"
+            },
+            {
+              "blurhash": "UXJ%;40|ae$*9tr?RkW=s=kBayWB-;nioyoM",
+              "id": "108637659772275610",
+              "meta": {
+                "aspect": 1.1085,
+                "height": 866,
+                "size": "960x866",
+                "width": 960
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/659/772/275/610/small/bf656725a9f5e476.jpeg",
+              "text_url": "https://truthsocial.com/media/EwR0wyTDNWbIHGXHNWk",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/637/659/772/275/610/original/bf656725a9f5e476.jpeg"
+            }
+          ],
+          "mentions": [
+            {
+              "acct": "ilpresidento",
+              "id": "107842299876619984",
+              "url": "https://truthsocial.com/@ilpresidento",
+              "username": "ilpresidento"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KonaGabbard/statuses/108637663315376509",
+          "url": "https://truthsocial.com/@KonaGabbard/108637663315376509",
+          "visibility": "public",
+          "lastseents": "2023-04-17T14:07:44.417336",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108642502584091931",
+        "_score": 3.4976,
+        "_source": {
+          "account": {
+            "acct": "thekingg57",
+            "display_name": "The Punisher -ULTRA MAGA🇺🇸",
+            "id": "107835497296411048",
+            "username": "thekingg57"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@joemoore1205\" class=\"u-url mention\">@<span>joemoore1205<\/span><\/a><\/span> When is our side bigwigs going to start fighting back?if it is playing dirty so be it! I’m tried of playing nice and being run over. We’re tried playing by the rules and it’s got us no where. We’ve been lied to, sent false dates, information etc.Hunter should be in jail with Joe! If that was Eric they would have arrested him a year ago. There comes a time when getting knocked down over and over again has to stop! We out number them yet they rule us why? We’re nice, obey the law that why. Really?<span class=\"quote-inline\"><br/>RT: <a href=\"https://truthsocial.com/users/NevadaElJefe/statuses/108637280402227098\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">truthsocial.com/users/NevadaEl<\/span><span class=\"invisible\">Jefe/statuses/108637280402227098<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @joemoore1205 When is our side bigwigs going to start fighting back?if it is playing dirty so be it! I’m tried of playing nice and being run over. We’re tried playing by the rules and it’s got us no where. We’ve been lied to, sent false dates, information etc.Hunter should be in jail with Joe! If that was Eric they would have arrested him a year ago. There comes a time when getting knocked down over and over again has to stop! We out number them yet they rule us why? We’re nice, obey the law that why. Really?RT: https://truthsocial.com/users/NevadaElJefe/statuses/108637280402227098",
+          "created_at": "2022-07-13T22:57:10.154+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108642502584091931",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/thekingg57/statuses/108642502584091931/activity",
+          "url": "https://truthsocial.com/users/thekingg57/statuses/108642502584091931/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-14T15:41:45.172242+00:00",
+          "reblog": {
+            "id": "108642489167985367",
+            "uri": "https://truthsocial.com/users/joemoore1205/statuses/108642489167985367",
+            "url": "https://truthsocial.com/@joemoore1205/108642489167985367"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202207",
+        "_id": "108640149972972888",
+        "_score": 3.4976,
+        "_source": {
+          "account": {
+            "acct": "KonaGabbard",
+            "display_name": "KonaGabbard",
+            "id": "108325174987853296",
+            "username": "KonaGabbard"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>They fight to win win win. Put nothing past the swamp. 2018 house steal Nov 3rd 2020 people bent over for. GOP/Q/MAGA thinks the swamp will let them moon walk in and &quot;vote&quot; this Nov for their do NOTHING RINOS that won&apos;t say 2,000 mules. So even IF! They won&apos;t say Nov 3rd 2020 coup, Eric Coomer and DOMINION and 2,000 mules. The swamp is STILL 100% free to operate. They fight fight fight Q/GOP/MAGA just &quot;wakes people up&quot; or so they think. GOP/MAGA/Q love &quot;Trump 2024!&quot; Nov 3rd surrender.<\/p>",
+          "content_cleaned": "They fight to win win win. Put nothing past the swamp. 2018 house steal Nov 3rd 2020 people bent over for. GOP/Q/MAGA thinks the swamp will let them moon walk in and &quot;vote&quot; this Nov for their do NOTHING RINOS that won&apos;t say 2,000 mules. So even IF! They won&apos;t say Nov 3rd 2020 coup, Eric Coomer and DOMINION and 2,000 mules. The swamp is STILL 100% free to operate. They fight fight fight Q/GOP/MAGA just &quot;wakes people up&quot; or so they think. GOP/MAGA/Q love &quot;Trump 2024!&quot; Nov 3rd surrender.",
+          "created_at": "2022-07-13T12:58:52.153+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108640149972972888",
+          "in_reply_to_account_id": "107813673407103404",
+          "in_reply_to_id": "108640118406860349",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KonaGabbard/statuses/108640149972972888",
+          "url": "https://truthsocial.com/@KonaGabbard/108640149972972888",
+          "visibility": "public",
+          "lastseents": "2023-04-09T14:30:41.153837",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

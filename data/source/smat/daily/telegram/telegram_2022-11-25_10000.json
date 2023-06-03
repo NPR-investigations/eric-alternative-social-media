@@ -1,0 +1,772 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [52],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [11],
+      "relation": ["eq"]
+    },
+    "max_score": [11.8305],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6347407316354146240",
+        "_score": 11.8305,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 22:36:15.937856",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1669405469,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 171,
+              "offset": 105,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 278,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 289,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 289,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC party mayor Eric Adams' rapper son - who goes by Jayoo - belts out songs on stage in Albania \n\nRead: https://www.dailymail.co.uk/news/article-11470061/NYC-party-mayor-Eric-Adams-rapper-son-goes-Jayoo-belts-songs-stage-Albania.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 49,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6215429366554372932",
+        "_score": 11.581,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-11-25 03:34:14.649746",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "channelusername": "Nelsonpeopleawake",
+          "date": 1669339962,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 107,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "https://rumble.com/v1wvrx6-eric-trumpclay-clark-this-is-a-battle-between-good-and-evilthe-people-are-w.html",
+          "peerid": {
+            "channel_id": 1447142420,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 13,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6086674381688604335",
+        "_score": 9.5415,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-11-25 21:21:36.099657",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1669399638,
+          "editdate": 1669399642,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 194,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "https://www.haaretz.com/israel-news/podcasts/2022-11-24/ty-article-podcast/israel-is-a-red-state-u-s-jewry-is-blue-listen-to-eric-alterman-on-u-s-israel-ties/00000184-aade-d06e-a9f7-ebde18430000",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1257170
+          },
+          "silent": false,
+          "v": 1,
+          "views": 343,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5729645067610717850",
+        "_score": 8.4977,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-11-25 04:28:00.774029",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "date": 1669342617,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 221,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "So what everyone is saying about Mr Eric  is true after seeing too many good posts about him  I decided to give him a try and to my greatest surprise I just received my profits contact him on the link and thank me later👇https://t.me/+18_vJXqRmV82OTA8",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 131901
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6139125346940752170",
+        "_score": 8.4977,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-26 01:41:25.422013",
+          "channelabout": "The official channel of Roger Stone - https://StoneColdTruth.com • Get a personal, up-to-date briefing from #RogerStone : https://cameo.com/rogerstone",
+          "channeltitle": "Roger Stone",
+          "channelusername": "RogerStoneJr",
+          "date": 1669412349,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 271,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "While NYPD officers actually found guilt of crimes can keep their jobs in Eric Adam's New York, my friend Sal Greco loses his job just for being friends with me, despite an unblemished record of service!\n\nSal discusses this on the StoneZONE, airing today at 5PM EST!\n\n>> https://stoneZONE.live",
+          "peerid": {
+            "channel_id": 1429376506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 744,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6139125346940752168",
+        "_score": 7.5175,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 21:23:44.982116",
+          "channelabout": "The official channel of Roger Stone - https://StoneColdTruth.com • Get a personal, up-to-date briefing from #RogerStone : https://cameo.com/rogerstone",
+          "channeltitle": "Roger Stone",
+          "channelusername": "RogerStoneJr",
+          "date": 1669410542,
+          "editdate": 1669410687,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 370,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I'm baaaaack! After almost a week of laryngitis I am back on the StoneZONE with one of our biggest shows ever. We blow the lid on the FTX – Kevin McCarthy connection, bring you the latest report from the Warnock -Walker showdown and expose the epic corruption of the New York city police department under mayor Eric Adams. Don't miss the StoneZONE today at 5 PM Eastern StoneZONE.live",
+          "peerid": {
+            "channel_id": 1429376506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 297,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6407494381271526065",
+        "_score": 7.1176,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 23:16:13.313702",
+          "channelabout": "\"News is what somebody somewhere wants to suppress; all the rest is advertising.\"\n\nMerch:\n➔ TheBestPoliticalShirts.com\n➔ WeAreTheShirts.com\n\nMembers-only:\n➔ wearechange.org/donate\n➔ patreon.com/WeAreChange\n\nNewsletter:\n➔ bit.ly/3ijjAop",
+          "channeltitle": "We Are Change",
+          "channelusername": "News4AChange",
+          "date": 1669411323,
+          "editdate": 1669411326,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 279,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 93,
+              "offset": 443,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6827,
+            "date": 1669331670,
+            "from_id": {
+              "channel_id": 1390692326,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Dr. Anthony Fauci today faced questions from Attorneys General Eric Schmitt (Missouri) and Jeff Landry (Louisiana) in their lawsuit against the federal government for allegedly colluding with Big Tech platforms to censor content critical of COVID-19 vaccines and countermeasures.\n\nFauci sat for a deposition one day after the 5th U.S. Circuit Court of Appeals temporarily halted the depositions of three other Biden administration officials.\n\nhttps://childrenshealthdefense.org/defender/anthony-fauci-under-oath-social-media-censorship/",
+          "peerid": {
+            "channel_id": 1491861041,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1441385526,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 821933
+          },
+          "silent": false,
+          "v": 1,
+          "views": 87,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5531535719648207821",
+        "_score": 6.1665,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1669631034",
+          "channelabout": "Aquí puede intercambiar información sobre Q\n\nPONER NOTICIAS DE RAFAPAL O DE YOUTUBERS MONETIZADOS HABLANDO DE Q, SERA  EXPULSION INMEDIATA\nAquí no queremos CRIPTOMONEDAS PESADOS¡¡¡\n\nBuzón : @QanonsSpain_bot",
+          "channeltitle": "Q-Anons España 🇪🇸 Dark to Light",
+          "channelusername": "QAnons_Espana",
+          "date": 1669363244,
+          "editdate": 1669363257,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1123321299
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "La supuesta investigación sobre mí por parte de un fiscal de la izquierda radical, que está totalmente controlado por Eric Holder y Obama, es una estafa manipulada. El Departamento de \"Justicia\" y el FBI están CORRUPTOS, de hecho, le ofrecieron $ 1,000,000 a Christopher Steele para que mintiera, le dijeron a Facebook que la computadora portátil de Hunter era desinformación rusa cuando sabían que no lo era, y le pagaron a la gente para \"atrapar a Trump\". No hizo nada malo el 6 de enero (Pacíficamente y Patrióticamente), o con los Documentos (Revise a los presidentes anteriores).",
+          "peerid": {
+            "channel_id": 1287911022,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 487343
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.69830998950517e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Alicia",
+            "id": 1123321299,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 5.79431394396614e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIEgkLMxlw6nlfaiiikmN7nw=="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1669629177
+            },
+            "support": false,
+            "verified": false,
+            "archivedon": 1669631034,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "id": 271309,
+          "mediaref": "077843e1b6616cf6945f4174d29e9e366a0338dc",
+          "noforwards": false
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5090199899812219089",
+        "_score": 5.2795,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 16:26:58.806844",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1669378001,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 27,
+              "offset": 788,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 534027,
+            "date": 1669377998,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 534027,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nThe European Commission has never considered imposing a ban on gas imports to the EU from Russia. This was stated by EC spokesman Eric Mamer.  \n  \nOn the eve the EU countries agreed to exclude Russian gas from the contracts on joint purchases. In 2023, the volume of such contracts should amount to at least 15% of the volume of UGS in the EU member states.  \n  \nRossiyskaya Gazeta\n\n=======\nORIGINAL :\nЕврокомиссия никогда не рассматривала введение запрета на импорт газа в ЕС из России. Об этом заявил пресс-секретарь ЕК Эрик Мамер.  \n  \nНакануне страны ЕС договорились исключить российский газ из контрактов на совместные закупки. Объем таких контрактов должен в 2023 году составлять не менее 15% от объема ПХГ в странах-членах ЕС.  \n  \nРоссийская газета\n=======\nSOURCE :\nhttps://t.me/rgrunews/63061\nРоссийская Газета | Новости",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 950713
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "4804742260056933484",
+        "_score": 3.7468,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 11:01:33.570671",
+          "channelabout": "Wir bringen die Stimmen, Infos und Meinungen der alternativen Medien auf eine Plattform & setzen Impulse. Prüft & recherchiert bevor ihr glaubt. NUR HIER ZENSURFREI! \n\n\nwww.fb.com/freiemedien2.0\nwww.fb.com/freiemedien3.0\nwww.freie-medien.tv",
+          "channeltitle": "Freie Medien",
+          "channelusername": "FreieMedienTV",
+          "date": 1669373692,
+          "editdate": 1669373797,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 396,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 216,
+              "offset": 987,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 1613,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://childrenshealthdefense-org.translate.goog/defender/anthony-fauci-under-oath-social-media-censorship/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            {
+              "length": 28,
+              "offset": 1613,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 1641,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://childrenshealthdefense.org/defender/anthony-fauci-under-oath-social-media-censorship/"
+            },
+            {
+              "length": 30,
+              "offset": 1662,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1692,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreieMedienTV"
+            },
+            {
+              "length": 7,
+              "offset": 1701,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FreieMedienTV"
+            },
+            {
+              "length": 10,
+              "offset": 1709,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freiemedien.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1720,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/freiemedien"
+            },
+            {
+              "length": 7,
+              "offset": 1726,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bastyon.com/freiemedien?ref=P8sSu2qFnVPGEtnSTKYRMUzuG3xBHsj3ms"
+            }
+          ],
+          "forwards": 15,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇺🇸Fauci unter Eid im Fall der Zensur sozialer Medien gegrillt\n\nDr. Anthony Fauci wurde heute von den Generalstaatsanwälten Eric Schmitt (Missouri) und Jeff Landry (Louisiana) im Rahmen ihrer Klage gegen die Bundesregierung befragt, weil er angeblich mit Big-Tech-Plattformen zusammengearbeitet hat, um Inhalte zu zensieren, die kritisch gegenüber COVID-19-Impfstoffen und Gegenmaßnahmen sind.\n\nFauci wurde einen Tag, nachdem das 5. US-Berufungsgericht die Aussagen von drei anderen Beamten der Biden-Regierung vorübergehend gestoppt hatte, zu einer Befragung geladen.\n\nSchmitt und Landry verklagten Präsident Biden, Fauci und andere am 5. Mai. Die New Civil Liberties Alliance, eine gemeinnützige Gruppe, die ausgesprochene Kritiker der COVID-19-Impfstoffe und -Gegenmaßnahmen vertritt, darunter Dr. Jayanta Bhattacharya, Martin Kulldorff, Aaron Kheriaty und auch Jill Hines, schloss sich der Klage im August an, ebenso wie Jim Hoft, Gründer und Chefredakteur von The Gateway Pundit.\n\nDer Klage zufolge haben Regierungsbeamte mit Big Tech und Social-Media-Plattformen zusammengearbeitet und diese gezwungen, \"missliebige Redner, Standpunkte und Inhalte\" im Zusammenhang mit COVID-19 zu unterdrücken.\n\nMehrere in der Klage genannte Beamte, darunter die ehemalige Pressesprecherin des Weißen Hauses, Jen Psaki, argumentierten, dass sie nicht vorgeladen werden sollten, aber ein Bundesrichter lehnte am Montag einen Antrag auf Aufhebung von Psakis Vorladung ab.\n\nDerselbe Richter, US-Bezirksrichter Terry Doughty, hatte am 21. Oktober angeordnet, dass Fauci und andere Regierungsbeamte unter Eid aussagen müssen.\n\nweiterlesen auf  deutsch🔗\n\nauf english🇹🇻🇬🇧\n\nFreieMedien Kanäle abonnieren\nTelegram|Twitter|Newsletter|Gettr|Bastyon",
+          "peerid": {
+            "channel_id": 1118691233,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "v": 1,
+          "views": 1368,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6347838857488134451",
+        "_score": 3.7468,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-25 16:12:59.05745",
+          "channeltitle": "MICHAEL WENDLER 🚨",
+          "channelusername": "MICHAELWENDLEROFFICIAL",
+          "date": 1669387633,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 396,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 216,
+              "offset": 987,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 1613,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://childrenshealthdefense-org.translate.goog/defender/anthony-fauci-under-oath-social-media-censorship/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            {
+              "length": 28,
+              "offset": 1613,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 1641,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://childrenshealthdefense.org/defender/anthony-fauci-under-oath-social-media-censorship/"
+            },
+            {
+              "length": 30,
+              "offset": 1662,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1692,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreieMedienTV"
+            },
+            {
+              "length": 7,
+              "offset": 1701,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FreieMedienTV"
+            },
+            {
+              "length": 10,
+              "offset": 1709,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freiemedien.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1720,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/freiemedien"
+            },
+            {
+              "length": 7,
+              "offset": 1726,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bastyon.com/freiemedien?ref=P8sSu2qFnVPGEtnSTKYRMUzuG3xBHsj3ms"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17516,
+            "date": 1669373692,
+            "from_id": {
+              "channel_id": 1118691233,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇺🇸Fauci unter Eid im Fall der Zensur sozialer Medien gegrillt\n\nDr. Anthony Fauci wurde heute von den Generalstaatsanwälten Eric Schmitt (Missouri) und Jeff Landry (Louisiana) im Rahmen ihrer Klage gegen die Bundesregierung befragt, weil er angeblich mit Big-Tech-Plattformen zusammengearbeitet hat, um Inhalte zu zensieren, die kritisch gegenüber COVID-19-Impfstoffen und Gegenmaßnahmen sind.\n\nFauci wurde einen Tag, nachdem das 5. US-Berufungsgericht die Aussagen von drei anderen Beamten der Biden-Regierung vorübergehend gestoppt hatte, zu einer Befragung geladen.\n\nSchmitt und Landry verklagten Präsident Biden, Fauci und andere am 5. Mai. Die New Civil Liberties Alliance, eine gemeinnützige Gruppe, die ausgesprochene Kritiker der COVID-19-Impfstoffe und -Gegenmaßnahmen vertritt, darunter Dr. Jayanta Bhattacharya, Martin Kulldorff, Aaron Kheriaty und auch Jill Hines, schloss sich der Klage im August an, ebenso wie Jim Hoft, Gründer und Chefredakteur von The Gateway Pundit.\n\nDer Klage zufolge haben Regierungsbeamte mit Big Tech und Social-Media-Plattformen zusammengearbeitet und diese gezwungen, \"missliebige Redner, Standpunkte und Inhalte\" im Zusammenhang mit COVID-19 zu unterdrücken.\n\nMehrere in der Klage genannte Beamte, darunter die ehemalige Pressesprecherin des Weißen Hauses, Jen Psaki, argumentierten, dass sie nicht vorgeladen werden sollten, aber ein Bundesrichter lehnte am Montag einen Antrag auf Aufhebung von Psakis Vorladung ab.\n\nDerselbe Richter, US-Bezirksrichter Terry Doughty, hatte am 21. Oktober angeordnet, dass Fauci und andere Regierungsbeamte unter Eid aussagen müssen.\n\nweiterlesen auf  deutsch🔗\n\nauf english🇹🇻🇬🇧\n\nFreieMedien Kanäle abonnieren\nTelegram|Twitter|Newsletter|Gettr|Bastyon",
+          "peerid": {
+            "channel_id": 1477971407,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "CC",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 4071,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      }
+    ]
+  }
+}

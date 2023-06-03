@@ -1,0 +1,2641 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [85],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [49],
+      "relation": ["eq"]
+    },
+    "max_score": [10.1737],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139781214803639",
+        "_score": 10.1737,
+        "_source": {
+          "account": {
+            "acct": "gracejferraro",
+            "display_name": "Grace J. Ferraro",
+            "id": "107916541336771467",
+            "username": "gracejferraro"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>“New York has a brand!” - NYC Mayor Eric Adams<\/p>",
+          "content_cleaned": "“New York has a brand!” - NYC Mayor Eric Adams",
+          "created_at": "2022-10-09T18:41:39.891+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "group_timeline_visible": false,
+          "id": "109139781214803639",
+          "in_reply_to_account_id": "107834149647767059",
+          "in_reply_to_id": "109138416169619253",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "KarliBonne",
+              "id": "107834149647767059",
+              "url": "https://truthsocial.com/@KarliBonne",
+              "username": "KarliBonne"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/gracejferraro/statuses/109139781214803639",
+          "url": "https://truthsocial.com/@gracejferraro/109139781214803639",
+          "visibility": "public",
+          "lastseents": "2023-04-27T09:51:29.817855",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138496536162924",
+        "_score": 9.9538,
+        "_source": {
+          "account": {
+            "acct": "tracybeanz",
+            "display_name": "Tracy Beanz",
+            "id": "107834238645474333",
+            "username": "tracybeanz"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "Kane",
+            "author_url": "https://citizenfreepress.com/author/admin/",
+            "blurhash": "U9IE|f00%2o#?aIos.WXM_x]oLM{IUt7R*e.",
+            "description": "        Adams is now complaining about Biden…                  ",
+            "embed_url": "",
+            "height": 800,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/007/545/259/original/1a5d0f6091c06b8a.jpg",
+            "provider_name": "CITIZEN FREE PRESS",
+            "provider_url": "https://citizenfreepress.com",
+            "title": "Life comes at you fast, Eric Adams…",
+            "type": "link",
+            "url": "https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+            "width": 571
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">citizenfreepress.com/breaking/<\/span><span class=\"invisible\">life-comes-at-you-fast-eric-adams/<\/span><\/a><\/p>",
+          "content_cleaned": "https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+          "created_at": "2022-10-09T13:14:57.245+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1324,
+          "id": "109138496536162924",
+          "media_attachments": [
+            {
+              "blurhash": "UAIY5=00-;oz-pIooea#jExvoMM{D%t7R*ae",
+              "id": "109138496512236946",
+              "meta": {
+                "aspect": 0.7203,
+                "height": 1194,
+                "size": "860x1194",
+                "width": 860
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/109/138/496/512/236/946/small/353db5e7107c500e.jpg",
+              "text_url": "https://truthsocial.com/media/wwmWL_wCCDGsefVwpq8",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/109/138/496/512/236/946/original/353db5e7107c500e.jpg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 631,
+          "replies_count": 187,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/tracybeanz/statuses/109138496536162924",
+          "url": "https://truthsocial.com/@tracybeanz/109138496536162924",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-18T17:55:43.889273+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135763031486288",
+        "_score": 9.8815,
+        "_source": {
+          "account": {
+            "acct": "chaser4U",
+            "display_name": "Mac Can Do",
+            "id": "107853516699342326",
+            "username": "chaser4U"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Trump2024FanChannel\" class=\"u-url mention\">@<span>Trump2024FanChannel<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency (VIDEO)<br />👇 <br /><a href=\"http://patriotsquare.co/this-is-unsustainable-nyc-mayor-eric-adams-declares-state-of-emergency/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://<\/span><span class=\"ellipsis\">patriotsquare.co/this-is-unsus<\/span><span class=\"invisible\">tainable-nyc-mayor-eric-adams-declares-state-of-emergency/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @Trump2024FanChannel “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency (VIDEO)👇 http://patriotsquare.co/this-is-unsustainable-nyc-mayor-eric-adams-declares-state-of-emergency/",
+          "created_at": "2022-10-09T01:39:47.274+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109135763031486288",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/chaser4U/statuses/109135763031486288/activity",
+          "url": "https://truthsocial.com/users/chaser4U/statuses/109135763031486288/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-24T14:55:43.535275+00:00",
+          "reblog": {
+            "id": "109129879685487364",
+            "uri": "https://truthsocial.com/users/Trump2024FanChannel/statuses/109129879685487364",
+            "url": "https://truthsocial.com/@Trump2024FanChannel/109129879685487364"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139368919554163",
+        "_score": 9.8815,
+        "_source": {
+          "account": {
+            "acct": "lovly2cu",
+            "display_name": "lovly2cu",
+            "id": "108394313861774330",
+            "username": "lovly2cu"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>ERIC ALREADY HAS IT EMBROIDERED ON HIS GOLF BAG.<br />IN JANUARY IN PHOENIX, ERIC SAID &apos;BE PATIENT, BE PATIENT&apos;. REAWAKEN AMERICA TOUR. I WAS THERE. SEARCH RUMBLE<\/p>",
+          "content_cleaned": "ERIC ALREADY HAS IT EMBROIDERED ON HIS GOLF BAG.IN JANUARY IN PHOENIX, ERIC SAID &apos;BE PATIENT, BE PATIENT&apos;. REAWAKEN AMERICA TOUR. I WAS THERE. SEARCH RUMBLE",
+          "created_at": "2022-10-09T16:56:48.758+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "109139368919554163",
+          "in_reply_to_account_id": "107804136363140452",
+          "in_reply_to_id": "109136327401955576",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "RSBN",
+              "id": "107804136363140452",
+              "url": "https://truthsocial.com/@RSBN",
+              "username": "RSBN"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/lovly2cu/statuses/109139368919554163",
+          "url": "https://truthsocial.com/@lovly2cu/109139368919554163",
+          "visibility": "public",
+          "lastseents": "2023-04-29T20:05:16.803016",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138968799554149",
+        "_score": 9.7442,
+        "_source": {
+          "account": {
+            "acct": "NeenRay",
+            "display_name": "",
+            "id": "107834368753029491",
+            "username": "NeenRay"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@tracybeanz\" class=\"u-url mention\">@<span>tracybeanz<\/span><\/a><\/span><a href=\"https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">citizenfreepress.com/breaking/<\/span><span class=\"invisible\">life-comes-at-you-fast-eric-adams/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @tracybeanzhttps://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+          "created_at": "2022-10-09T15:15:03.414+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109138968799554149",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@NeenRay/109138968799554149",
+          "url": "https://truthsocial.com/@NeenRay/109138968799554149",
+          "visibility": "public",
+          "lastseents": "2023-05-14T04:58:23.455223",
+          "reblog": {
+            "id": "109138496536162924",
+            "uri": "https://truthsocial.com/@tracybeanz/109138496536162924",
+            "url": "https://truthsocial.com/@tracybeanz/109138496536162924"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138508495950777",
+        "_score": 9.5442,
+        "_source": {
+          "account": {
+            "acct": "Magz61",
+            "display_name": "",
+            "id": "108199687671441647",
+            "username": "Magz61"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@tracybeanz\" class=\"u-url mention\">@<span>tracybeanz<\/span><\/a><\/span> <a href=\"https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">citizenfreepress.com/breaking/<\/span><span class=\"invisible\">life-comes-at-you-fast-eric-adams/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @tracybeanz https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+          "created_at": "2022-10-09T13:17:59.738+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109138508495950777",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Magz61/statuses/109138508495950777/activity",
+          "url": "https://truthsocial.com/users/Magz61/statuses/109138508495950777/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-21T14:35:13.377423+00:00",
+          "reblog": {
+            "id": "109138496536162924",
+            "uri": "https://truthsocial.com/users/tracybeanz/statuses/109138496536162924",
+            "url": "https://truthsocial.com/@tracybeanz/109138496536162924"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138781012146115",
+        "_score": 9.5442,
+        "_source": {
+          "account": {
+            "acct": "razor70",
+            "display_name": "razor plants",
+            "id": "107902040198974396",
+            "username": "razor70"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@tracybeanz\" class=\"u-url mention\">@<span>tracybeanz<\/span><\/a><\/span> <a href=\"https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">citizenfreepress.com/breaking/<\/span><span class=\"invisible\">life-comes-at-you-fast-eric-adams/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @tracybeanz https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+          "created_at": "2022-10-09T14:27:18.005+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109138781012146115",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/razor70/statuses/109138781012146115/activity",
+          "url": "https://truthsocial.com/users/razor70/statuses/109138781012146115/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-22T03:04:02.172097+00:00",
+          "reblog": {
+            "id": "109138496536162924",
+            "uri": "https://truthsocial.com/users/tracybeanz/statuses/109138496536162924",
+            "url": "https://truthsocial.com/@tracybeanz/109138496536162924"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138503810319078",
+        "_score": 9.5442,
+        "_source": {
+          "account": {
+            "acct": "melayneeb",
+            "display_name": "Melanie",
+            "id": "107837913913636545",
+            "username": "melayneeb"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@tracybeanz\" class=\"u-url mention\">@<span>tracybeanz<\/span><\/a><\/span> <a href=\"https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">citizenfreepress.com/breaking/<\/span><span class=\"invisible\">life-comes-at-you-fast-eric-adams/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @tracybeanz https://citizenfreepress.com/breaking/life-comes-at-you-fast-eric-adams/",
+          "created_at": "2022-10-09T13:16:48.241+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109138503810319078",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/melayneeb/statuses/109138503810319078/activity",
+          "url": "https://truthsocial.com/users/melayneeb/statuses/109138503810319078/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-28T06:17:29.264497+00:00",
+          "reblog": {
+            "id": "109138496536162924",
+            "uri": "https://truthsocial.com/users/tracybeanz/statuses/109138496536162924",
+            "url": "https://truthsocial.com/@tracybeanz/109138496536162924"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139122552081536",
+        "_score": 9.3532,
+        "_source": {
+          "account": {
+            "acct": "thisismytruthsocial",
+            "display_name": "QLapis QLazuli",
+            "id": "108557608430929233",
+            "username": "thisismytruthsocial"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I think I&apos;m shadowbanned by DonSr and Eric, oh the sorrow<\/p>",
+          "content_cleaned": "I think I&apos;m shadowbanned by DonSr and Eric, oh the sorrow",
+          "created_at": "2022-10-09T15:54:09.491+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "109139122552081536",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/thisismytruthsocial/statuses/109139122552081536",
+          "url": "https://truthsocial.com/@thisismytruthsocial/109139122552081536",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-13T23:06:01.344534+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135482725649244",
+        "_score": 8.6674,
+        "_source": {
+          "account": {
+            "acct": "suzyq76",
+            "display_name": "blueyed1",
+            "id": "107850397352964306",
+            "username": "suzyq76"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>not onlythat, but the dominion (eric digital system) as well... alaska has2 cheating systems, not just 1...<\/p>",
+          "content_cleaned": "not onlythat, but the dominion (eric digital system) as well... alaska has2 cheating systems, not just 1...",
+          "created_at": "2022-10-09T00:28:30.142+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "109135482725649244",
+          "in_reply_to_account_id": "108857277434514019",
+          "in_reply_to_id": "109134379916107968",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "AzChrissy2",
+              "id": "108857277434514019",
+              "url": "https://truthsocial.com/@AzChrissy2",
+              "username": "AzChrissy2"
+            },
+            {
+              "acct": "DineshDSouza",
+              "id": "107810096875431988",
+              "url": "https://truthsocial.com/@DineshDSouza",
+              "username": "DineshDSouza"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/suzyq76/statuses/109135482725649244",
+          "url": "https://truthsocial.com/@suzyq76/109135482725649244",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-21T18:19:33.033813+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139736345181526",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "JoeyDHoneycutt",
+            "display_name": "Joey D Honeycutt",
+            "id": "108367298704476586",
+            "username": "JoeyDHoneycutt"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T18:30:15.231+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139736345181526",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JoeyDHoneycutt/statuses/109139736345181526/activity",
+          "url": "https://truthsocial.com/users/JoeyDHoneycutt/statuses/109139736345181526/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-12T08:58:48.486235+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139754933690809",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "Jmdaidone",
+            "display_name": "Joseph M.Daidone🇺🇸",
+            "id": "108383831570025309",
+            "username": "Jmdaidone"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T18:34:58.871+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139754933690809",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Jmdaidone/statuses/109139754933690809/activity",
+          "url": "https://truthsocial.com/users/Jmdaidone/statuses/109139754933690809/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-12T09:22:51.204445+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139764745208311",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "MrsQ17",
+            "display_name": "Mrs. Q17",
+            "id": "108256535923328137",
+            "username": "MrsQ17"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T18:37:28.583+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139764745208311",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MrsQ17/statuses/109139764745208311/activity",
+          "url": "https://truthsocial.com/users/MrsQ17/statuses/109139764745208311/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-12T09:37:27.863596+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109137671418813143",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "heggie79",
+            "display_name": "heggie79",
+            "id": "107837631807829526",
+            "username": "heggie79"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T09:45:06.954+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109137671418813143",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/heggie79/statuses/109137671418813143/activity",
+          "url": "https://truthsocial.com/users/heggie79/statuses/109137671418813143/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-23T00:59:23.605463+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139437534280756",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "Alexy_7734",
+            "display_name": "Alexy_7734",
+            "id": "108348737288340524",
+            "username": "Alexy_7734"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T17:14:15.738+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139437534280756",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Alexy_7734/statuses/109139437534280756/activity",
+          "url": "https://truthsocial.com/users/Alexy_7734/statuses/109139437534280756/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-24T23:50:05.468328+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139829901886004",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "TexasDuude",
+            "display_name": "Tony Dean",
+            "id": "107839773301049828",
+            "username": "TexasDuude"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T18:54:02.794+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139829901886004",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/TexasDuude/statuses/109139829901886004/activity",
+          "url": "https://truthsocial.com/users/TexasDuude/statuses/109139829901886004/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-23T17:02:35.918895+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138429310943193",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "Oldesalt6282",
+            "display_name": "Oldesalt6282",
+            "id": "108356988769070588",
+            "username": "Oldesalt6282"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T12:57:51.471+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109138429310943193",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Oldesalt6282/statuses/109138429310943193/activity",
+          "url": "https://truthsocial.com/users/Oldesalt6282/statuses/109138429310943193/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-07T02:30:20.140815+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109136492125558856",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "pat26",
+            "display_name": "",
+            "id": "108810108375772168",
+            "username": "pat26"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>NYC attacking fireman . We need justice . I’m so sick of this scum running NYC . Thank you Eric Trump .<\/p>",
+          "content_cleaned": "NYC attacking fireman . We need justice . I’m so sick of this scum running NYC . Thank you Eric Trump .",
+          "created_at": "2022-10-09T04:45:12.369+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 29,
+          "id": "109136492125558856",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "109087850212903105",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/pat26/statuses/109136492125558856",
+          "url": "https://truthsocial.com/@pat26/109136492125558856",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-11T13:00:51.060779+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139799510112015",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "Gator37",
+            "display_name": "Gator37",
+            "id": "108319589765698939",
+            "username": "Gator37"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T18:46:19.052+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139799510112015",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Gator37/statuses/109139799510112015/activity",
+          "url": "https://truthsocial.com/users/Gator37/statuses/109139799510112015/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-15T09:18:09.071408+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109137831290427861",
+        "_score": 8.5132,
+        "_source": {
+          "account": {
+            "acct": "Dvromar63",
+            "display_name": "Dvromar63",
+            "id": "107876633763876092",
+            "username": "Dvromar63"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ConservativeStory\" class=\"u-url mention\">@<span>ConservativeStory<\/span><\/a><\/span> “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency<br /><a href=\"https://conservativepost.news/This-is-Unsustainable-NYCMayor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">conservativepost.news/This-is-<\/span><span class=\"invisible\">Unsustainable-NYCMayor<\/span><\/a><\/p>",
+          "content_cleaned": "RT @ConservativeStory “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergencyhttps://conservativepost.news/This-is-Unsustainable-NYCMayor",
+          "created_at": "2022-10-09T10:25:46.402+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109137831290427861",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Dvromar63/statuses/109137831290427861/activity",
+          "url": "https://truthsocial.com/users/Dvromar63/statuses/109137831290427861/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-25T10:36:15.800832+00:00",
+          "reblog": {
+            "id": "109135230283529942",
+            "uri": "https://truthsocial.com/users/ConservativeStory/statuses/109135230283529942",
+            "url": "https://truthsocial.com/@ConservativeStory/109135230283529942"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139904516699681",
+        "_score": 7.9538,
+        "_source": {
+          "account": {
+            "acct": "dpspera",
+            "display_name": "",
+            "id": "107944510363060404",
+            "username": "dpspera"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "ThebigawakeningQ",
+            "author_url": "https://www.bitchute.com/channel/Uv5MMkxlD0En/",
+            "blurhash": "UBG9HOq.sxRjM_jF%J%Kt0V_-VNrVvR*-:s=",
+            "description": "",
+            "embed_url": "",
+            "height": 344,
+            "html": "<iframe width=\"459\" height=\"344\" src=\"https://www.bitchute.com/embed/ASIuqO6VTEdl/?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\"><\/iframe>",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/007/575/225/original/ae7b02b7718467da.jpg",
+            "provider_name": "BitChute",
+            "provider_url": "https://www.bitchute.com/",
+            "title": "Shocking.... In the secret presentation to CIA",
+            "type": "video",
+            "url": "https://www.bitchute.com/video/ASIuqO6VTEdl/",
+            "width": 459
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric I don’t know if you saw this before but I thought I would share it with you.<\/p><p>￼ <a href=\"https://www.bitchute.com/video/ASIuqO6VTEdl/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">bitchute.com/video/ASIuqO6VTEd<\/span><span class=\"invisible\">l/<\/span><\/a><\/p>",
+          "content_cleaned": "Eric I don’t know if you saw this before but I thought I would share it with you.￼ https://www.bitchute.com/video/ASIuqO6VTEdl/",
+          "created_at": "2022-10-09T19:13:01.322+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 27,
+          "id": "109139904516699681",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "109044967093223047",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/dpspera/statuses/109139904516699681",
+          "url": "https://truthsocial.com/@dpspera/109139904516699681",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-24T15:25:42.125653+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135822718377191",
+        "_score": 7.7042,
+        "_source": {
+          "account": {
+            "acct": "Always1right",
+            "display_name": "Mera",
+            "id": "107872978326623284",
+            "username": "Always1right"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Interesting report from The Balance with Eric Bolling on New World Order faces and ranks title “We are all living in the “Joe-Mageddon”<\/p>",
+          "content_cleaned": "Interesting report from The Balance with Eric Bolling on New World Order faces and ranks title “We are all living in the “Joe-Mageddon”",
+          "created_at": "2022-10-09T01:54:58.021+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109135822718377191",
+          "in_reply_to_account_id": "107837183828763782",
+          "in_reply_to_id": "109129639571110359",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "OAN",
+              "id": "107771700550828156",
+              "url": "https://truthsocial.com/@OAN",
+              "username": "OAN"
+            },
+            {
+              "acct": "tippingpointoan",
+              "id": "107837183828763782",
+              "url": "https://truthsocial.com/@tippingpointoan",
+              "username": "tippingpointoan"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Always1right/statuses/109135822718377191",
+          "url": "https://truthsocial.com/@Always1right/109135822718377191",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-17T07:46:41.136030+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139168883329811",
+        "_score": 7.586,
+        "_source": {
+          "account": {
+            "acct": "theyarealltaken",
+            "display_name": "nunnya",
+            "id": "107837191343294574",
+            "username": "theyarealltaken"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Now tell me how great Mark Levin is lol. go with the rest of the sheep and follow Candace Owens. Female version of Eric Adams￼￼<\/p>",
+          "content_cleaned": "Now tell me how great Mark Levin is lol. go with the rest of the sheep and follow Candace Owens. Female version of Eric Adams￼￼",
+          "created_at": "2022-10-09T16:05:56.447+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "109139168883329811",
+          "in_reply_to_account_id": "107835469233738217",
+          "in_reply_to_id": "109139138919416899",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Gitmo",
+              "id": "107834405262091869",
+              "url": "https://truthsocial.com/@Gitmo",
+              "username": "Gitmo"
+            },
+            {
+              "acct": "nayryellek",
+              "id": "107835469233738217",
+              "url": "https://truthsocial.com/@nayryellek",
+              "username": "nayryellek"
+            },
+            {
+              "acct": "theyarealltaken",
+              "id": "107837191343294574",
+              "url": "https://truthsocial.com/@theyarealltaken",
+              "username": "theyarealltaken"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/theyarealltaken/statuses/109139168883329811",
+          "url": "https://truthsocial.com/@theyarealltaken/109139168883329811",
+          "visibility": "public",
+          "lastseents": "2023-04-27T11:12:35.887294",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135415591730253",
+        "_score": 7.4719,
+        "_source": {
+          "account": {
+            "acct": "ArchiveAnon",
+            "display_name": "✝️ 🇺🇸 Andrew Spooner 🇮🇱 🕎",
+            "id": "107834945605766610",
+            "username": "ArchiveAnon"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Honestly I think when he said it he genuinely thought he was the one who came up with the idea.<\/p><p>But then, so did Eric Cartman. 🤷‍♂️<\/p>",
+          "content_cleaned": "Honestly I think when he said it he genuinely thought he was the one who came up with the idea.But then, so did Eric Cartman. 🤷‍♂️",
+          "created_at": "2022-10-09T00:11:25.760+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "group_timeline_visible": false,
+          "id": "109135415591730253",
+          "in_reply_to_account_id": "107837950794981897",
+          "in_reply_to_id": "109135367655266878",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "joanmiller",
+              "id": "107837950794981897",
+              "url": "https://truthsocial.com/@joanmiller",
+              "username": "joanmiller"
+            },
+            {
+              "acct": "lebronsonroids",
+              "id": "107956796377944957",
+              "url": "https://truthsocial.com/@lebronsonroids",
+              "username": "lebronsonroids"
+            },
+            {
+              "acct": "utism",
+              "id": "108200000185652362",
+              "url": "https://truthsocial.com/@utism",
+              "username": "utism"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ArchiveAnon/statuses/109135415591730253",
+          "url": "https://truthsocial.com/@ArchiveAnon/109135415591730253",
+          "visibility": "public",
+          "lastseents": "2023-04-27T23:30:48.425833",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140901104576399",
+        "_score": 7.2198,
+        "_source": {
+          "account": {
+            "acct": "GeneralPattonKnew",
+            "display_name": "GeneralPattonKnew",
+            "id": "108377998250782802",
+            "username": "GeneralPattonKnew"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "U~Mtz4X8?^niR+jsoLWqS$bHs9jZX8jZo0fk",
+            "description": "Television writer Eric Weinberg has been charged with 18 felony counts, according to the Los Angeles County District Attorney's office. Weinberg made $5 million bail.",
+            "embed_url": "",
+            "height": 450,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/007/435/317/original/35f53af303367903.jpg",
+            "provider_name": "www.foxnews.com",
+            "provider_url": "",
+            "title": "'Scrubs' producer Eric Weinberg charged with sex assaults: district attorney",
+            "type": "link",
+            "url": "https://www.foxnews.com/entertainment/scrubs-producer-eric-weinberg-charged-sex-assaults-district-attorney",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Scrubs&apos; producer Eric Weinberg charged with sex assaults: district attorney<br />Eric Weinberg was arrested on Oct. 4 and released on a $5 million bail<br /><a href=\"https://www.foxnews.com/entertainment/scrubs-producer-eric-weinberg-charged-sex-assaults-district-attorney\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">foxnews.com/entertainment/scru<\/span><span class=\"invisible\">bs-producer-eric-weinberg-charged-sex-assaults-district-attorney<\/span><\/a><\/p><p>Trump Sends Message, Military &amp; Civilian Control, It Had To Be This Way – Ep. 2893<br /><a href=\"https://x22report.com/aiovg_videos/ep-2893b-trump-sends-message-military-civilian-control-it-had-to-be-this-way/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">x22report.com/aiovg_videos/ep-<\/span><span class=\"invisible\">2893b-trump-sends-message-military-civilian-control-it-had-to-be-this-way/<\/span><\/a><\/p>",
+          "content_cleaned": "Scrubs&apos; producer Eric Weinberg charged with sex assaults: district attorneyEric Weinberg was arrested on Oct. 4 and released on a $5 million bailhttps://www.foxnews.com/entertainment/scrubs-producer-eric-weinberg-charged-sex-assaults-district-attorneyTrump Sends Message, Military &amp; Civilian Control, It Had To Be This Way – Ep. 2893https://x22report.com/aiovg_videos/ep-2893b-trump-sends-message-military-civilian-control-it-had-to-be-this-way/",
+          "created_at": "2022-10-09T23:26:28.043+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140901104576399",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "109139801031664724",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/GeneralPattonKnew/statuses/109140901104576399",
+          "url": "https://truthsocial.com/@GeneralPattonKnew/109140901104576399",
+          "visibility": "public",
+          "lastseents": "2023-04-15T19:13:35.599527",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138782759373181",
+        "_score": 7.1522,
+        "_source": {
+          "account": {
+            "acct": "Beverlymaga",
+            "display_name": "Beverly #IstandwithTrump",
+            "id": "107837195483911779",
+            "username": "Beverlymaga"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Thank you for this. I thought because Eric or Donald Trump Junior, one of them, was on the board, I thought it was a good place to give money.<\/p>",
+          "content_cleaned": "Thank you for this. I thought because Eric or Donald Trump Junior, one of them, was on the board, I thought it was a good place to give money.",
+          "created_at": "2022-10-09T14:27:44.663+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "109138782759373181",
+          "in_reply_to_account_id": "107837381220818749",
+          "in_reply_to_id": "109136096322370949",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DrDDC",
+              "id": "107837381220818749",
+              "url": "https://truthsocial.com/@DrDDC",
+              "username": "DrDDC"
+            },
+            {
+              "acct": "kevin",
+              "id": "107774818501049278",
+              "url": "https://truthsocial.com/@kevin",
+              "username": "kevin"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Beverlymaga/statuses/109138782759373181",
+          "url": "https://truthsocial.com/@Beverlymaga/109138782759373181",
+          "visibility": "public",
+          "lastseents": "2023-04-29T05:24:31.997376",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109136233319907347",
+        "_score": 6.8625,
+        "_source": {
+          "account": {
+            "acct": "Barbarous_Relic",
+            "display_name": "Barbarous Relic",
+            "id": "108318513021483773",
+            "username": "Barbarous_Relic"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Looks a little like shrimp dick Vindman, are they related?<\/p><p>Btw the Ukraine whistleblower was Eric Caravelle and he coordinated beforehand with Schiff. Feels so good to post that without being blocked.<\/p>",
+          "content_cleaned": "Looks a little like shrimp dick Vindman, are they related?Btw the Ukraine whistleblower was Eric Caravelle and he coordinated beforehand with Schiff. Feels so good to post that without being blocked.",
+          "created_at": "2022-10-09T03:39:23.309+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 4,
+          "id": "109136233319907347",
+          "in_reply_to_account_id": "107834407936966159",
+          "in_reply_to_id": "109135738868308419",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "chadnedohin",
+              "id": "108318014709880534",
+              "url": "https://truthsocial.com/@chadnedohin",
+              "username": "chadnedohin"
+            },
+            {
+              "acct": "kevin",
+              "id": "107774818501049278",
+              "url": "https://truthsocial.com/@kevin",
+              "username": "kevin"
+            },
+            {
+              "acct": "Natalie1999Order",
+              "id": "108286992099229617",
+              "url": "https://truthsocial.com/@Natalie1999Order",
+              "username": "Natalie1999Order"
+            },
+            {
+              "acct": "Tulip_5Solas",
+              "id": "107834407936966159",
+              "url": "https://truthsocial.com/@Tulip_5Solas",
+              "username": "Tulip_5Solas"
+            },
+            {
+              "acct": "Will",
+              "id": "107770705216121680",
+              "url": "https://truthsocial.com/@Will",
+              "username": "Will"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Barbarous_Relic/statuses/109136233319907347",
+          "url": "https://truthsocial.com/@Barbarous_Relic/109136233319907347",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-09T05:32:45.799151+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139297785536074",
+        "_score": 6.7719,
+        "_source": {
+          "account": {
+            "acct": "aries18",
+            "display_name": "Music",
+            "id": "108351809326115483",
+            "username": "aries18"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Thinking Mayor Eric Adams is too busy being fitted for silk suits and aviator sunglasses to make NYC safe again.  Or, is he being told to STAY ON SCRIPT like a good DEM?<\/p>",
+          "content_cleaned": "Thinking Mayor Eric Adams is too busy being fitted for silk suits and aviator sunglasses to make NYC safe again.  Or, is he being told to STAY ON SCRIPT like a good DEM?",
+          "created_at": "2022-10-09T16:38:43.345+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "group_timeline_visible": false,
+          "id": "109139297785536074",
+          "in_reply_to_account_id": "107803381972948233",
+          "in_reply_to_id": "109127313852789179",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "seanhannity",
+              "id": "107803381972948233",
+              "url": "https://truthsocial.com/@seanhannity",
+              "username": "seanhannity"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/aries18/statuses/109139297785536074",
+          "url": "https://truthsocial.com/@aries18/109139297785536074",
+          "visibility": "public",
+          "lastseents": "2023-05-03T03:11:41.504958",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139553112872686",
+        "_score": 6.4887,
+        "_source": {
+          "account": {
+            "acct": "Dvromar63",
+            "display_name": "Dvromar63",
+            "id": "107876633763876092",
+            "username": "Dvromar63"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@NevadaElJefe\" class=\"u-url mention\">@<span>NevadaElJefe<\/span><\/a><\/span> 🔥 “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency Over Influx of Illegal Aliens (VIDEO)<\/p><p>👉 Ya think! As it turns out, the dems love to call the cesspools they live in, &quot;Sancturary Cities,&quot; but only until the illegal aliens actually show up! Then it&apos;s a different story! Then they want them out!<\/p><p><a href=\"https://truthsocial.com/tags/WSWT\" class=\"mention hashtag\" rel=\"tag\">#<span>WSWT<\/span><\/a> <a href=\"https://truthsocial.com/tags/KY8\" class=\"mention hashtag\" rel=\"tag\">#<span>KY8<\/span><\/a> <a href=\"https://truthsocial.com/tags/Fam1003\" class=\"mention hashtag\" rel=\"tag\">#<span>Fam1003<\/span><\/a> <a href=\"https://truthsocial.com/tags/RPN\" class=\"mention hashtag\" rel=\"tag\">#<span>RPN<\/span><\/a> <a href=\"https://truthsocial.com/tags/P19\" class=\"mention hashtag\" rel=\"tag\">#<span>P19<\/span><\/a> <a href=\"https://truthsocial.com/tags/l0\" class=\"mention hashtag\" rel=\"tag\">#<span>l0<\/span><\/a><br /><a href=\"https://www.thegatewaypundit.com/2022/10/unsustainable-nyc-mayor-eric-adams-declares-state-emergency-influx-illegal-aliens-video/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">thegatewaypundit.com/2022/10/u<\/span><span class=\"invisible\">nsustainable-nyc-mayor-eric-adams-declares-state-emergency-influx-illegal-aliens-video/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @NevadaElJefe 🔥 “This is Unsustainable” – NYC Mayor Eric Adams Declares State of Emergency Over Influx of Illegal Aliens (VIDEO)👉 Ya think! As it turns out, the dems love to call the cesspools they live in, &quot;Sancturary Cities,&quot; but only until the illegal aliens actually show up! Then it&apos;s a different story! Then they want them out!#WSWT #KY8 #Fam1003 #RPN #P19 #l0https://www.thegatewaypundit.com/2022/10/unsustainable-nyc-mayor-eric-adams-declares-state-emergency-influx-illegal-aliens-video/",
+          "created_at": "2022-10-09T17:43:39.330+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139553112872686",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Dvromar63/statuses/109139553112872686/activity",
+          "url": "https://truthsocial.com/users/Dvromar63/statuses/109139553112872686/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-25T09:36:33.076985+00:00",
+          "reblog": {
+            "id": "109129968347606382",
+            "uri": "https://truthsocial.com/users/NevadaElJefe/statuses/109129968347606382",
+            "url": "https://truthsocial.com/@NevadaElJefe/109129968347606382"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109138411279748258",
+        "_score": 6.436,
+        "_source": {
+          "account": {
+            "acct": "GR8MA",
+            "display_name": "GR8MA",
+            "id": "109131786024962735",
+            "username": "GR8MA"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "UGDcO5^*V@RiJ.4.Rjwd4TIA$*x].8-;MxRl",
+            "description": "The Chinese Communist Party (CCP) is opening police departments outside of China, including in New York. These offices ...",
+            "embed_url": "",
+            "height": 450,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/007/362/319/original/7671455ae7f00eea.jpeg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "CCP Opens Police Department in the US; COVID-19 Vaccine Autopsy Reports Hidden From Public",
+            "type": "link",
+            "url": "https://www.theepochtimes.com/ccp-opens-police-departments-in-the-us-covid-19-vaccine-autopsy-reports-hidden-from-public_4772360.html?utm_source=share-btn-copylink",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric?  What the hell is the CCP doing opening a police department on American soil?<br /> <a href=\"https://www.theepochtimes.com/ccp-opens-police-departments-in-the-us-covid-19-vaccine-autopsy-reports-hidden-from-public_4772360.html?utm_source=share-btn-copylink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">theepochtimes.com/ccp-opens-po<\/span><span class=\"invisible\">lice-departments-in-the-us-covid-19-vaccine-autopsy-reports-hidden-from-public_4772360.html?utm_source=share-btn-copylink<\/span><\/a><\/p>",
+          "content_cleaned": "Eric?  What the hell is the CCP doing opening a police department on American soil? https://www.theepochtimes.com/ccp-opens-police-departments-in-the-us-covid-19-vaccine-autopsy-reports-hidden-from-public_4772360.html?utm_source=share-btn-copylink",
+          "created_at": "2022-10-09T12:53:16.334+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 28,
+          "id": "109138411279748258",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "109087850212903105",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/GR8MA/statuses/109138411279748258",
+          "url": "https://truthsocial.com/@GR8MA/109138411279748258",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-11T13:00:51.129583+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140964437021330",
+        "_score": 6.358,
+        "_source": {
+          "account": {
+            "acct": "QWillow",
+            "display_name": "QWillow Patriot🌷🌳🇺🇸✝️",
+            "id": "107898144889400891",
+            "username": "QWillow"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric I always thought that you would be the one to follow in your father’s footsteps. Laura and you are proving me right even now 5 1/2 years later God bless you God bless your beautiful babies￼!<\/p>",
+          "content_cleaned": "Eric I always thought that you would be the one to follow in your father’s footsteps. Laura and you are proving me right even now 5 1/2 years later God bless you God bless your beautiful babies￼!",
+          "created_at": "2022-10-09T23:42:34.431+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 23,
+          "id": "109140964437021330",
+          "in_reply_to_account_id": "107834179200623983",
+          "in_reply_to_id": "109007652266195456",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "EricTrump",
+              "id": "107834179200623983",
+              "url": "https://truthsocial.com/@EricTrump",
+              "username": "EricTrump"
+            },
+            {
+              "acct": "trumpchicago",
+              "id": "107873188744711688",
+              "url": "https://truthsocial.com/@trumpchicago",
+              "username": "trumpchicago"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/QWillow/statuses/109140964437021330",
+          "url": "https://truthsocial.com/@QWillow/109140964437021330",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-03T08:25:24.936334+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135456424286013",
+        "_score": 6.2086,
+        "_source": {
+          "account": {
+            "acct": "Mitchrappfan",
+            "display_name": "Mitchrappfan",
+            "id": "108335069869811998",
+            "username": "Mitchrappfan"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I am not a fan of Eric Bolling after he said on The Five that he is fine with increasing our already insanely high number of immigrants per year. That is what big business wants in order to keep wages down.<\/p>",
+          "content_cleaned": "I am not a fan of Eric Bolling after he said on The Five that he is fine with increasing our already insanely high number of immigrants per year. That is what big business wants in order to keep wages down.",
+          "created_at": "2022-10-09T00:21:48.816+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "109135456424286013",
+          "in_reply_to_account_id": "107804083470405722",
+          "in_reply_to_id": "109134237111670640",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "ericbolling",
+              "id": "107835386403617838",
+              "url": "https://truthsocial.com/@ericbolling",
+              "username": "ericbolling"
+            },
+            {
+              "acct": "laralogan",
+              "id": "107804083470405722",
+              "url": "https://truthsocial.com/@laralogan",
+              "username": "laralogan"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Mitchrappfan/statuses/109135456424286013",
+          "url": "https://truthsocial.com/@Mitchrappfan/109135456424286013",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-07T19:40:06.982743+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140747103518281",
+        "_score": 5.8065,
+        "_source": {
+          "account": {
+            "acct": "trekkie10",
+            "display_name": "Anne Pate",
+            "id": "107835832002593591",
+            "username": "trekkie10"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@breitbartnews\" class=\"u-url mention\">@<span>breitbartnews<\/span><\/a><\/span> NYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”<\/p>",
+          "content_cleaned": "RT @breitbartnews NYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”",
+          "created_at": "2022-10-09T22:47:18.181+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140747103518281",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/trekkie10/statuses/109140747103518281/activity",
+          "url": "https://truthsocial.com/users/trekkie10/statuses/109140747103518281/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-10T15:21:41.733965+00:00",
+          "reblog": {
+            "id": "109140682299141037",
+            "uri": "https://truthsocial.com/users/breitbartnews/statuses/109140682299141037",
+            "url": "https://truthsocial.com/@breitbartnews/109140682299141037"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140899459134690",
+        "_score": 5.8065,
+        "_source": {
+          "account": {
+            "acct": "realPWats",
+            "display_name": "",
+            "id": "108054473168744920",
+            "username": "realPWats"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@breitbartnews\" class=\"u-url mention\">@<span>breitbartnews<\/span><\/a><\/span>In the words of Mayor Eric Adams, New York City sure has a brand. The New York City crimewave took a theatrical turn over the weekend when a gang of six women dressed in neon green leotards robbed two 19-year-olds on the subway.<\/p>",
+          "content_cleaned": "RT @breitbartnewsIn the words of Mayor Eric Adams, New York City sure has a brand. The New York City crimewave took a theatrical turn over the weekend when a gang of six women dressed in neon green leotards robbed two 19-year-olds on the subway.",
+          "created_at": "2022-10-09T23:26:02.939+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140899459134690",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/realPWats/statuses/109140899459134690/activity",
+          "url": "https://truthsocial.com/@realPWats/109140899459134690",
+          "visibility": "public",
+          "lastseents": "2023-04-11T13:37:58.695760",
+          "reblog": {
+            "id": "109122796108723485",
+            "uri": "https://truthsocial.com/users/breitbartnews/statuses/109122796108723485",
+            "url": "https://truthsocial.com/@breitbartnews/109122796108723485"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140794548176662",
+        "_score": 5.8065,
+        "_source": {
+          "account": {
+            "acct": "Monti07",
+            "display_name": "monti07",
+            "id": "108004729548907462",
+            "username": "Monti07"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@breitbartnews\" class=\"u-url mention\">@<span>breitbartnews<\/span><\/a><\/span> NYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”<\/p>",
+          "content_cleaned": "RT @breitbartnews NYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”",
+          "created_at": "2022-10-09T22:59:22.127+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140794548176662",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Monti07/statuses/109140794548176662/activity",
+          "url": "https://truthsocial.com/users/Monti07/statuses/109140794548176662/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-11-07T16:34:20.421714+00:00",
+          "reblog": {
+            "id": "109140682299141037",
+            "uri": "https://truthsocial.com/users/breitbartnews/statuses/109140682299141037",
+            "url": "https://truthsocial.com/@breitbartnews/109140682299141037"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140722287616026",
+        "_score": 5.8065,
+        "_source": {
+          "account": {
+            "acct": "Rosecake",
+            "display_name": "Rosecake",
+            "id": "107873222018818943",
+            "username": "Rosecake"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@breitbartnews\" class=\"u-url mention\">@<span>breitbartnews<\/span><\/a><\/span>NYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”<\/p>",
+          "content_cleaned": "RT @breitbartnewsNYC Mayor Eric Adams, who declared a state of emergency over the crisis of migrants being shipped to the city, stated in a press conference Friday that the city’s citizens did not “ask for” the influx of migrants, despite the city being called a “sanctuary.”",
+          "created_at": "2022-10-09T22:40:59.518+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140722287616026",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@Rosecake/109140722287616026",
+          "url": "https://truthsocial.com/@Rosecake/109140722287616026",
+          "visibility": "public",
+          "lastseents": "2023-05-14T05:52:48.243545",
+          "reblog": {
+            "id": "109140682299141037",
+            "uri": "https://truthsocial.com/@breitbartnews/109140682299141037",
+            "url": "https://truthsocial.com/@breitbartnews/109140682299141037"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109137421717242425",
+        "_score": 5.6859,
+        "_source": {
+          "account": {
+            "acct": "Benny1951",
+            "display_name": "Benny1951",
+            "id": "108427897366020726",
+            "username": "Benny1951"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ProjectVeritas\" class=\"u-url mention\">@<span>ProjectVeritas<\/span><\/a><\/span>Former NYC Dept. of Education LGBTQ Program Manager, Eric Vaughan, Reveals He Was Told To Lie About Competitive Advantage of Male-to-Female Transgender Athletes<\/p><p>\"The thing is, they want me to say that there's no competitive advantage to being a trans athlete. There is a competitive advantage.\"<\/p>",
+          "content_cleaned": "RT @ProjectVeritasFormer NYC Dept. of Education LGBTQ Program Manager, Eric Vaughan, Reveals He Was Told To Lie About Competitive Advantage of Male-to-Female Transgender Athletes\"The thing is, they want me to say that there's no competitive advantage to being a trans athlete. There is a competitive advantage.\"",
+          "created_at": "2022-10-09T08:41:36.810+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109137421717242425",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Benny1951/statuses/109137421717242425/activity",
+          "url": "https://truthsocial.com/@Benny1951/109137421717242425",
+          "visibility": "public",
+          "lastseents": "2023-04-11T13:39:03.233762",
+          "reblog": {
+            "id": "109128982015457986",
+            "uri": "https://truthsocial.com/users/ProjectVeritas/statuses/109128982015457986",
+            "url": "https://truthsocial.com/@ProjectVeritas/109128982015457986"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135411063863262",
+        "_score": 5.4621,
+        "_source": {
+          "account": {
+            "acct": "IRISRICHTER",
+            "display_name": "America1ST",
+            "id": "108687347087221618",
+            "username": "IRISRICHTER"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>You ARE THE BOSS POTUS!  Always praying for you, Melania ( the most Beautiful woman with the biggest heart), Baron who you keep Private (thank you) and your two sons, Donald Jr. And Eric, your daughter, and your former wife who recently passed. Give me TRUTH&apos;S!  My family is with you 10000%<\/p>",
+          "content_cleaned": "You ARE THE BOSS POTUS!  Always praying for you, Melania ( the most Beautiful woman with the biggest heart), Baron who you keep Private (thank you) and your two sons, Donald Jr. And Eric, your daughter, and your former wife who recently passed. Give me TRUTH&apos;S!  My family is with you 10000%",
+          "created_at": "2022-10-09T00:10:16.670+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109135411063863262",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "109134030823213493",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/IRISRICHTER/statuses/109135411063863262",
+          "url": "https://truthsocial.com/@IRISRICHTER/109135411063863262",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-12T11:15:41.623198+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109136726067322076",
+        "_score": 5.2586,
+        "_source": {
+          "account": {
+            "acct": "BarbaraJoHodge",
+            "display_name": "BarbaraTripodiHodgeNY",
+            "id": "107838298033498276",
+            "username": "BarbaraJoHodge"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@themelkshow\" class=\"u-url mention\">@<span>themelkshow<\/span><\/a><\/span>Hey Eric Adams why is this ok in the city we are seeing destroyed from within.. oh wait.. that you? These need to be closed down and the CCP operatives expelled from our country now! <a href=\"https://nypost.com/2022/10/08/chinese-police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/10/08/chinese-<\/span><span class=\"invisible\">police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster<\/span><\/a><\/p>",
+          "content_cleaned": "RT @themelkshowHey Eric Adams why is this ok in the city we are seeing destroyed from within.. oh wait.. that you? These need to be closed down and the CCP operatives expelled from our country now! https://nypost.com/2022/10/08/chinese-police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster",
+          "created_at": "2022-10-09T05:44:42.035+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109136726067322076",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BarbaraJoHodge/statuses/109136726067322076/activity",
+          "url": "https://truthsocial.com/@BarbaraJoHodge/109136726067322076",
+          "last_seen_ts": "2022-12-02T10:43:02.355098+00:00",
+          "reblog": {
+            "id": "109136630840941735",
+            "uri": "https://truthsocial.com/users/themelkshow/statuses/109136630840941735",
+            "url": "https://truthsocial.com/@themelkshow/109136630840941735"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109136641072658101",
+        "_score": 5.2586,
+        "_source": {
+          "account": {
+            "acct": "RandyL77",
+            "display_name": "RandyLopez",
+            "id": "107834297502508233",
+            "username": "RandyL77"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@themelkshow\" class=\"u-url mention\">@<span>themelkshow<\/span><\/a><\/span>Hey Eric Adams why is this ok in the city we are seeing destroyed from within.. oh wait.. that you? These need to be closed down and the CCP operatives expelled from our country now! <a href=\"https://nypost.com/2022/10/08/chinese-police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/10/08/chinese-<\/span><span class=\"invisible\">police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster<\/span><\/a><\/p>",
+          "content_cleaned": "RT @themelkshowHey Eric Adams why is this ok in the city we are seeing destroyed from within.. oh wait.. that you? These need to be closed down and the CCP operatives expelled from our country now! https://nypost.com/2022/10/08/chinese-police-station-spies-on-dissenters-linked-to-shady-us-charity/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster",
+          "created_at": "2022-10-09T05:23:05.120+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109136641072658101",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@RandyL77/109136641072658101",
+          "url": "https://truthsocial.com/@RandyL77/109136641072658101",
+          "visibility": "public",
+          "lastseents": "2023-05-14T22:10:33.068094",
+          "reblog": {
+            "id": "109136630840941735",
+            "uri": "https://truthsocial.com/@themelkshow/109136630840941735",
+            "url": "https://truthsocial.com/@themelkshow/109136630840941735"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140518575129908",
+        "_score": 4.7461,
+        "_source": {
+          "account": {
+            "acct": "ksun",
+            "display_name": "ksun",
+            "id": "107858750757901845",
+            "username": "ksun"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@SHOCKS_SS\" class=\"u-url mention\">@<span>SHOCKS_SS<\/span><\/a><\/span> Gettin ALLLLL THESE SCUMBAGS!!! 🔥💥🎉<\/p><p>Hollywood producer and former ‘Scrubs’ writer Eric Weinberg arrested on sex assault charges<\/p><p>Weinberg has been on law enforcement’s radar for years but the DA previously refused to bring charges.<\/p><p>According to The Hollywood Reporter, Weinberg’s sex misconduct goes back decades and also involved minors.<\/p><p>Weinberg, 62, was freed late Tuesday night after posting $5 million bail<\/p><p><a href=\"https://www.instagram.com/p/CjWUkpTueCr/?igshid=YmMyMTA2M2Y=\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">instagram.com/p/CjWUkpTueCr/?i<\/span><span class=\"invisible\">gshid=YmMyMTA2M2Y=<\/span><\/a><\/p>",
+          "content_cleaned": "RT @SHOCKS_SS Gettin ALLLLL THESE SCUMBAGS!!! 🔥💥🎉Hollywood producer and former ‘Scrubs’ writer Eric Weinberg arrested on sex assault chargesWeinberg has been on law enforcement’s radar for years but the DA previously refused to bring charges.According to The Hollywood Reporter, Weinberg’s sex misconduct goes back decades and also involved minors.Weinberg, 62, was freed late Tuesday night after posting $5 million bailhttps://www.instagram.com/p/CjWUkpTueCr/?igshid=YmMyMTA2M2Y=",
+          "created_at": "2022-10-09T21:49:11.114+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109140518575129908",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ksun/statuses/109140518575129908/activity",
+          "url": "https://truthsocial.com/users/ksun/statuses/109140518575129908/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-20T13:30:07.078471+00:00",
+          "reblog": {
+            "id": "109140028051955769",
+            "uri": "https://truthsocial.com/users/SHOCKS_SS/statuses/109140028051955769",
+            "url": "https://truthsocial.com/@SHOCKS_SS/109140028051955769"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139036694739844",
+        "_score": 4.7461,
+        "_source": {
+          "account": {
+            "acct": "KonaGabbard",
+            "display_name": "KonaGabbard",
+            "id": "108325174987853296",
+            "username": "KonaGabbard"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Good! The swamp is 100% free to operate. They win win win unlike endless Q/Trump/MAGA/GOP. The swamp is God now. America is long gone. Thanks Devin and useless GOP. 2018 house Nov 3rd 2020 try to lose more! Midterm RINOS with so called &quot;voting&quot; yeah ok. How many of these midterm RINOS have said 2,000 mules or Eric Coomer/Dominion? NONE! FU all!<\/p>",
+          "content_cleaned": "Good! The swamp is 100% free to operate. They win win win unlike endless Q/Trump/MAGA/GOP. The swamp is God now. America is long gone. Thanks Devin and useless GOP. 2018 house Nov 3rd 2020 try to lose more! Midterm RINOS with so called &quot;voting&quot; yeah ok. How many of these midterm RINOS have said 2,000 mules or Eric Coomer/Dominion? NONE! FU all!",
+          "created_at": "2022-10-09T15:32:19.416+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139036694739844",
+          "in_reply_to_account_id": "107777378958166346",
+          "in_reply_to_id": "109138933813282405",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DevinNunes",
+              "id": "107777378958166346",
+              "url": "https://truthsocial.com/@DevinNunes",
+              "username": "DevinNunes"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KonaGabbard/statuses/109139036694739844",
+          "url": "https://truthsocial.com/@KonaGabbard/109139036694739844",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-27T19:13:45.574005+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109140498012521834",
+        "_score": 4.6017,
+        "_source": {
+          "account": {
+            "acct": "Gypsies50",
+            "display_name": "Gypsies50",
+            "id": "108326086300724797",
+            "username": "Gypsies50"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Funny-Just last night we were talking about this--<\/p><p>Trump flew: <\/p><p>4 times 1993 <br />1 time 1994  <br />1 time 1995<br />1 time 1997<\/p><p>The flights were from Palm Beach New York City airports<\/p><p>Marla Maples and DJT June 1994 flight with Tiffany, and nanny <\/p><p>Eric Trump and DJT August 1995 <br />Palm Beach New York<\/p><p> Association does not make anyone but Epstein a pedo.  All of these people ran in the same crowd for years, including the Clintons<\/p>",
+          "content_cleaned": "Funny-Just last night we were talking about this--Trump flew: 4 times 1993 1 time 1994  1 time 19951 time 1997The flights were from Palm Beach New York City airportsMarla Maples and DJT June 1994 flight with Tiffany, and nanny Eric Trump and DJT August 1995 Palm Beach New York Association does not make anyone but Epstein a pedo.  All of these people ran in the same crowd for years, including the Clintons",
+          "created_at": "2022-10-09T21:43:57.357+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "109140498012521834",
+          "in_reply_to_account_id": "108227322698769594",
+          "in_reply_to_id": "109140413065068690",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "ALB4Trump",
+              "id": "107855639445718666",
+              "url": "https://truthsocial.com/@ALB4Trump",
+              "username": "ALB4Trump"
+            },
+            {
+              "acct": "Dirty_Harry1960",
+              "id": "107848556075017498",
+              "url": "https://truthsocial.com/@Dirty_Harry1960",
+              "username": "Dirty_Harry1960"
+            },
+            {
+              "acct": "DJTizSatan",
+              "id": "107904660227526952",
+              "url": "https://truthsocial.com/@DJTizSatan",
+              "username": "DJTizSatan"
+            },
+            {
+              "acct": "GGemmet",
+              "id": "107837690222475105",
+              "url": "https://truthsocial.com/@GGemmet",
+              "username": "GGemmet"
+            },
+            {
+              "acct": "jeepsifu",
+              "id": "108227322698769594",
+              "url": "https://truthsocial.com/@jeepsifu",
+              "username": "jeepsifu"
+            },
+            {
+              "acct": "justbrowsing2",
+              "id": "108807835524639196",
+              "url": "https://truthsocial.com/@justbrowsing2",
+              "username": "justbrowsing2"
+            },
+            {
+              "acct": "letsgokaren",
+              "id": "108558973686366831",
+              "url": "https://truthsocial.com/@letsgokaren",
+              "username": "letsgokaren"
+            },
+            {
+              "acct": "marlinsman1",
+              "id": "108202286218898661",
+              "url": "https://truthsocial.com/@marlinsman1",
+              "username": "marlinsman1"
+            },
+            {
+              "acct": "MissyLouTexas",
+              "id": "107838153313580732",
+              "url": "https://truthsocial.com/@MissyLouTexas",
+              "username": "MissyLouTexas"
+            },
+            {
+              "acct": "NoAgendaJustTruth",
+              "id": "108323792058297202",
+              "url": "https://truthsocial.com/@NoAgendaJustTruth",
+              "username": "NoAgendaJustTruth"
+            },
+            {
+              "acct": "Nunyabiz123",
+              "id": "108454925475119467",
+              "url": "https://truthsocial.com/@Nunyabiz123",
+              "username": "Nunyabiz123"
+            },
+            {
+              "acct": "OrangeStain",
+              "id": "107849246287164894",
+              "url": "https://truthsocial.com/@OrangeStain",
+              "username": "OrangeStain"
+            },
+            {
+              "acct": "peterparker6",
+              "id": "108455389141378426",
+              "url": "https://truthsocial.com/@peterparker6",
+              "username": "peterparker6"
+            },
+            {
+              "acct": "TheEspionage",
+              "id": "108819406881646374",
+              "url": "https://truthsocial.com/@TheEspionage",
+              "username": "TheEspionage"
+            },
+            {
+              "acct": "TinyPureOne",
+              "id": "108328789259646672",
+              "url": "https://truthsocial.com/@TinyPureOne",
+              "username": "TinyPureOne"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Gypsies50/statuses/109140498012521834",
+          "url": "https://truthsocial.com/@Gypsies50/109140498012521834",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-01T08:25:32.763899+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135405383812066",
+        "_score": 4.6017,
+        "_source": {
+          "account": {
+            "acct": "SirSean510",
+            "display_name": "SirSean510",
+            "id": "108139912973049682",
+            "username": "SirSean510"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@NTD\" class=\"u-url mention\">@<span>NTD<\/span><\/a><\/span> &quot;We are in a <a href=\"https://truthsocial.com/tags/CrisisSituation\" class=\"mention hashtag\" rel=\"tag\">#<span>CrisisSituation<\/span><\/a>. Thousands of <a href=\"https://truthsocial.com/tags/Asylum\" class=\"mention hashtag\" rel=\"tag\">#<span>Asylum<\/span><\/a> seekers have been <a href=\"https://truthsocial.com/tags/Bused\" class=\"mention hashtag\" rel=\"tag\">#<span>Bused<\/span><\/a> into New York City and simply dropped off, without notice, coordination, or care—and more are arriving every day.” New York City Mayor Eric Adams.<\/p><p>The office of Adams, a Democrat, estimated (pdf) that some 17,000 <a href=\"https://truthsocial.com/tags/IllegalAliens\" class=\"mention hashtag\" rel=\"tag\">#<span>IllegalAliens<\/span><\/a> have been transported to his city in recent months. <\/p><p><a href=\"https://www.ntd.com/new-york-mayor-declares-state-of-emergency-over-illegal-immigration-crisis_852594.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">ntd.com/new-york-mayor-declare<\/span><span class=\"invisible\">s-state-of-emergency-over-illegal-immigration-crisis_852594.html<\/span><\/a><\/p>",
+          "content_cleaned": "RT @NTD &quot;We are in a #CrisisSituation. Thousands of #Asylum seekers have been #Bused into New York City and simply dropped off, without notice, coordination, or care—and more are arriving every day.” New York City Mayor Eric Adams.The office of Adams, a Democrat, estimated (pdf) that some 17,000 #IllegalAliens have been transported to his city in recent months. https://www.ntd.com/new-york-mayor-declares-state-of-emergency-over-illegal-immigration-crisis_852594.html",
+          "created_at": "2022-10-09T00:08:50.004+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109135405383812066",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/SirSean510/statuses/109135405383812066/activity",
+          "url": "https://truthsocial.com/users/SirSean510/statuses/109135405383812066/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-12-05T16:50:21.383370+00:00",
+          "reblog": {
+            "id": "109135400944198694",
+            "uri": "https://truthsocial.com/users/NTD/statuses/109135400944198694",
+            "url": "https://truthsocial.com/@NTD/109135400944198694"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109136391882154939",
+        "_score": 4.6017,
+        "_source": {
+          "account": {
+            "acct": "AmericanEliteHunter",
+            "display_name": "EliteHunter",
+            "id": "107878898728362831",
+            "username": "AmericanEliteHunter"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Senator, saw you on Newsmax tonight. You said the left has corrupted all institutions for the left. That does get into the details. America is under a Marxist Jewish attack. Sussmann. Elias. Rosenstein. Weismann. Schiff. Schumer. Feinstein. Eric Mann. Shapiro. Weingarten. Zuckerberg. Spritzer-Rubinstein. Zucker. Fink. Owners, Executive Management, Senior Management at NBC, CBS, ABC, CNN, MSNBC, FOX. And Many Many more: All Marxist Jews. They lie all the time. Covering up all the time.<\/p>",
+          "content_cleaned": "Senator, saw you on Newsmax tonight. You said the left has corrupted all institutions for the left. That does get into the details. America is under a Marxist Jewish attack. Sussmann. Elias. Rosenstein. Weismann. Schiff. Schumer. Feinstein. Eric Mann. Shapiro. Weingarten. Zuckerberg. Spritzer-Rubinstein. Zucker. Fink. Owners, Executive Management, Senior Management at NBC, CBS, ABC, CNN, MSNBC, FOX. And Many Many more: All Marxist Jews. They lie all the time. Covering up all the time.",
+          "created_at": "2022-10-09T04:19:42.771+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109136391882154939",
+          "in_reply_to_account_id": "107921848407242282",
+          "in_reply_to_id": "109127529695762811",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "RonJohnsonforWI",
+              "id": "107921848407242282",
+              "url": "https://truthsocial.com/@RonJohnsonforWI",
+              "username": "RonJohnsonforWI"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/AmericanEliteHunter/statuses/109136391882154939",
+          "url": "https://truthsocial.com/@AmericanEliteHunter/109136391882154939",
+          "visibility": "public",
+          "lastseents": "2023-04-09T02:16:59.667531",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139970627678941",
+        "_score": 4.2282,
+        "_source": {
+          "account": {
+            "acct": "RobynCC",
+            "display_name": "Ultra-MAGA Deplorable Cultist",
+            "id": "108863315773178049",
+            "username": "RobynCC"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I hate to say this, but some Nazi policies continue in Germany to this day.  Children HAVE to attend public schools or they are removed from their parents, who are imprisoned.  Remember how OBama&apos;s So-called Atty. General, Eric Race-baiter, White-hater Holder gleefully sent a Christian family back to Germany, knowing their family would  be split and  the parents would go to prison for fleeing to the US, where their kids attended Christian Schooling. Obama commies&amp; Nazis think <br />alike.<\/p>",
+          "content_cleaned": "I hate to say this, but some Nazi policies continue in Germany to this day.  Children HAVE to attend public schools or they are removed from their parents, who are imprisoned.  Remember how OBama&apos;s So-called Atty. General, Eric Race-baiter, White-hater Holder gleefully sent a Christian family back to Germany, knowing their family would  be split and  the parents would go to prison for fleeing to the US, where their kids attended Christian Schooling. Obama commies&amp; Nazis think alike.",
+          "created_at": "2022-10-09T19:29:50.096+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "109139970627678941",
+          "in_reply_to_account_id": "107839515247976465",
+          "in_reply_to_id": "109139668199519542",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/RobynCC/statuses/109139970627678941",
+          "url": "https://truthsocial.com/@RobynCC/109139970627678941",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-17T00:59:27.718131+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135773948664382",
+        "_score": 4.2282,
+        "_source": {
+          "account": {
+            "acct": "Gypsies50",
+            "display_name": "Gypsies50",
+            "id": "108326086300724797",
+            "username": "Gypsies50"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Trump flew: <\/p><p>4 times 1993 <br />1 time 1994  <br />1 time 1995<br />1 time 1997<\/p><p>The flights were from Palm Beach- New York City airports<\/p><p>Marla Maples and Donald Trump June 1994 flight with a Tiffany, and a nanny. <\/p><p>Eric Trump and Donald Trump August 1995 <br />Palm Beach -New York.<\/p><p>Still, think Trump and Epstein were not friends?   Grow up! You must be a long way from Manhattan.  Association does not make anyone but Epstein a pedo.  All of these people ran in the same crowd for years, including the Clintons.<\/p>",
+          "content_cleaned": "Trump flew: 4 times 1993 1 time 1994  1 time 19951 time 1997The flights were from Palm Beach- New York City airportsMarla Maples and Donald Trump June 1994 flight with a Tiffany, and a nanny. Eric Trump and Donald Trump August 1995 Palm Beach -New York.Still, think Trump and Epstein were not friends?   Grow up! You must be a long way from Manhattan.  Association does not make anyone but Epstein a pedo.  All of these people ran in the same crowd for years, including the Clintons.",
+          "created_at": "2022-10-09T01:42:33.854+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 6,
+          "id": "109135773948664382",
+          "in_reply_to_account_id": "108328789259646672",
+          "in_reply_to_id": "109135589902607358",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "ALB4Trump",
+              "id": "107855639445718666",
+              "url": "https://truthsocial.com/@ALB4Trump",
+              "username": "ALB4Trump"
+            },
+            {
+              "acct": "Dirty_Harry1960",
+              "id": "107848556075017498",
+              "url": "https://truthsocial.com/@Dirty_Harry1960",
+              "username": "Dirty_Harry1960"
+            },
+            {
+              "acct": "DJTizSatan",
+              "id": "107904660227526952",
+              "url": "https://truthsocial.com/@DJTizSatan",
+              "username": "DJTizSatan"
+            },
+            {
+              "acct": "GGemmet",
+              "id": "107837690222475105",
+              "url": "https://truthsocial.com/@GGemmet",
+              "username": "GGemmet"
+            },
+            {
+              "acct": "justbrowsing2",
+              "id": "108807835524639196",
+              "url": "https://truthsocial.com/@justbrowsing2",
+              "username": "justbrowsing2"
+            },
+            {
+              "acct": "letsgokaren",
+              "id": "108558973686366831",
+              "url": "https://truthsocial.com/@letsgokaren",
+              "username": "letsgokaren"
+            },
+            {
+              "acct": "marlinsman1",
+              "id": "108202286218898661",
+              "url": "https://truthsocial.com/@marlinsman1",
+              "username": "marlinsman1"
+            },
+            {
+              "acct": "MissyLouTexas",
+              "id": "107838153313580732",
+              "url": "https://truthsocial.com/@MissyLouTexas",
+              "username": "MissyLouTexas"
+            },
+            {
+              "acct": "NoAgendaJustTruth",
+              "id": "108323792058297202",
+              "url": "https://truthsocial.com/@NoAgendaJustTruth",
+              "username": "NoAgendaJustTruth"
+            },
+            {
+              "acct": "Nunyabiz123",
+              "id": "108454925475119467",
+              "url": "https://truthsocial.com/@Nunyabiz123",
+              "username": "Nunyabiz123"
+            },
+            {
+              "acct": "OrangeStain",
+              "id": "107849246287164894",
+              "url": "https://truthsocial.com/@OrangeStain",
+              "username": "OrangeStain"
+            },
+            {
+              "acct": "peterparker6",
+              "id": "108455389141378426",
+              "url": "https://truthsocial.com/@peterparker6",
+              "username": "peterparker6"
+            },
+            {
+              "acct": "TheEspionage",
+              "id": "108819406881646374",
+              "url": "https://truthsocial.com/@TheEspionage",
+              "username": "TheEspionage"
+            },
+            {
+              "acct": "TinyPureOne",
+              "id": "108328789259646672",
+              "url": "https://truthsocial.com/@TinyPureOne",
+              "username": "TinyPureOne"
+            },
+            {
+              "acct": "TruthyRuthy",
+              "id": "107845098991690245",
+              "url": "https://truthsocial.com/@TruthyRuthy",
+              "username": "TruthyRuthy"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 2,
+          "replies_count": 6,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Gypsies50/statuses/109135773948664382",
+          "url": "https://truthsocial.com/@Gypsies50/109135773948664382",
+          "visibility": "public",
+          "last_seen_ts": "2023-01-01T08:25:32.729277+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109135992746997625",
+        "_score": 4.1203,
+        "_source": {
+          "account": {
+            "acct": "KathyKay",
+            "display_name": "⚖️Ka✝️hyKay🇺🇸🏍🌏✌️",
+            "id": "107834194569154806",
+            "username": "KathyKay"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I’ve watched every video on her rumble channel since April or May. She speaks at all of the Clay Clark/Gen Flynn ReawaKen America Tours that Eric Trump, Kash Patel and many others speak at. (I went to one of these last Dec; it was amazing and I hear they just keep getting better.) she’s on every Weds with Pastor Dave Scarlett. Those are REALLY good. Anyway, I love her. She keeps me sane. Just make sure you watch on her Rumble Julie Green Ministries Channel. The ones on YouTube are pirated.<\/p>",
+          "content_cleaned": "I’ve watched every video on her rumble channel since April or May. She speaks at all of the Clay Clark/Gen Flynn ReawaKen America Tours that Eric Trump, Kash Patel and many others speak at. (I went to one of these last Dec; it was amazing and I hear they just keep getting better.) she’s on every Weds with Pastor Dave Scarlett. Those are REALLY good. Anyway, I love her. She keeps me sane. Just make sure you watch on her Rumble Julie Green Ministries Channel. The ones on YouTube are pirated.",
+          "created_at": "2022-10-09T02:38:12.457+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "group_timeline_visible": false,
+          "id": "109135992746997625",
+          "in_reply_to_account_id": "107906079869806089",
+          "in_reply_to_id": "109135371769642650",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Barton1",
+              "id": "107906079869806089",
+              "url": "https://truthsocial.com/@Barton1",
+              "username": "Barton1"
+            },
+            {
+              "acct": "KathyKay",
+              "id": "107834194569154806",
+              "url": "https://truthsocial.com/@KathyKay",
+              "username": "KathyKay"
+            },
+            {
+              "acct": "Qstradamus",
+              "id": "107834318527894167",
+              "url": "https://truthsocial.com/@Qstradamus",
+              "username": "Qstradamus"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KathyKay/statuses/109135992746997625",
+          "url": "https://truthsocial.com/@KathyKay/109135992746997625",
+          "visibility": "public",
+          "lastseents": "2023-04-26T01:36:58.495919",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202210",
+        "_id": "109139102738292515",
+        "_score": 3.9249,
+        "_source": {
+          "account": {
+            "acct": "KonaGabbard",
+            "display_name": "KonaGabbard",
+            "id": "108325174987853296",
+            "username": "KonaGabbard"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Bird face all talk overrated Flynn never talks about Nov 3rd 2020 coup. He moved onto &quot;Trump 2024&quot; by Nov 4th 2020. Lin talks about those pedo&apos;s and satanists including at the the Vatican. Bird face Flynn never does. At the end of the day it&apos;s all biblical losing. 2018 house and Nov 3rd 2020 coup. Now what? Midterm RINOS that can&apos;t even say 2,000 mules or Eric Coomer and Dominion! After all this it&apos;s just &quot;vote&quot; harder? You people are something else. Biblical losing. You people are not serious.<\/p>",
+          "content_cleaned": "Bird face all talk overrated Flynn never talks about Nov 3rd 2020 coup. He moved onto &quot;Trump 2024&quot; by Nov 4th 2020. Lin talks about those pedo&apos;s and satanists including at the the Vatican. Bird face Flynn never does. At the end of the day it&apos;s all biblical losing. 2018 house and Nov 3rd 2020 coup. Now what? Midterm RINOS that can&apos;t even say 2,000 mules or Eric Coomer and Dominion! After all this it&apos;s just &quot;vote&quot; harder? You people are something else. Biblical losing. You people are not serious.",
+          "created_at": "2022-10-09T15:49:07.153+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "109139102738292515",
+          "in_reply_to_account_id": "107839311876249772",
+          "in_reply_to_id": "109139028768012319",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "U=M%vDM|ofkB4TV[ayoe%LayWBof%Mj@WVay",
+              "id": "109139083252281775",
+              "meta": {
+                "aspect": 1,
+                "height": 629,
+                "size": "629x629",
+                "width": 629
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/109/139/083/252/281/775/small/c756de843728666c.png",
+              "text_url": "https://truthsocial.com/media/bAU045B5DsEyAPUJnLQ",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/109/139/083/252/281/775/original/c756de843728666c.png"
+            }
+          ],
+          "mentions": [
+            {
+              "acct": "qalerts",
+              "id": "107839311876249772",
+              "url": "https://truthsocial.com/@qalerts",
+              "username": "qalerts"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KonaGabbard/statuses/109139102738292515",
+          "url": "https://truthsocial.com/@KonaGabbard/109139102738292515",
+          "visibility": "public",
+          "lastseents": "2023-04-16T23:11:39.675778",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

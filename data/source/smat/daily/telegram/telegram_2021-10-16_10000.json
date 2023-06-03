@@ -1,0 +1,910 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [36],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [15],
+      "relation": ["eq"]
+    },
+    "max_score": [12.014],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5932974690624006234",
+        "_score": 12.014,
+        "_source": {
+          "archivedon": "1682677291",
+          "channelabout": "The Official E Discussion Group. \nSilent No More.",
+          "channeltitle": "E Team",
+          "channelusername": "TheETeam",
+          "date": 1634355201,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1371372107
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 452698,
+          "message": "😂 yes I saw Eric too.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1381378316,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 452695,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.11165785691999e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682677291,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Sondra",
+            "id": 1371372107,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.13659662378531e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIkjVY4QAE39CWHUUUUVHLcnmtpY8="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "sonny929",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T10:21:31.410795"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5312807234424560932",
+        "_score": 11.6314,
+        "_source": {
+          "archivedon": "2021-10-16 01:36:48.194977",
+          "channelabout": "EVERYTHING NON-TN SPECIFIC TALK: https://t.me/FreeStatesOpenChat \n\nHomesteading: https://t.me/FreeHomesteadTN \nGuns/Tactical: https://t.me/joinchat/GoFm7uYobsJJw-8i\nBarter/Trade: https://t.me/FeeTNBarterTrade \nLake Life: https://t.me/FreeTNLakeLife",
+          "channeltitle": "@FreeStatesProjectTN",
+          "channelusername": "TNPatriots",
+          "date": 1634344838,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 66,
+              "offset": 0
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1537574544
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "https://thenationalpulse.com/exclusive/eric-adams-met-with-cpaffc/",
+          "peerid": {
+            "channel_id": 1236984328,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 27241,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4972466879063940662",
+        "_score": 10.7379,
+        "_source": {
+          "archivedon": "2022-08-04 23:32:35.079346",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1634416025,
+          "editdate": 1634415981,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://img.theepochtimes.com/assets/uploads/2021/08/24/DSC00010-1200x800.jpg"
+            },
+            {
+              "length": 84,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 169,
+              "offset": 93,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 264,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 278,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://app.adjust.com/y91pc85"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "​NYC Mayoral Candidate Eric Adams Pledges to Preserve the Gifted and Talented Program\n\nREAD: https://www.theepochtimes.com/nyc-mayoral-candidate-eric-adams-pledges-to-preserve-the-gifted-and-talented-program_4051700.html?utm_medium=epochtimes&utm_source=telegram\n\n@EpochTimes | Download Our App",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 730276,
+            "replies": 8,
+            "comments": true,
+            "channel_id": 1264301656,
+            "replies_pts": 1959152,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1225833906
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1722493435
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1596177726
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 10404
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5811551549939537516",
+        "_score": 10.6278,
+        "_source": {
+          "archivedon": "2021-10-16 16:07:14.252038",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1634395618,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Alex Sheppard | Eric Rice | Savage Dawg\nThe Real Kim Shady Chat 10/14/2021",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 5
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5932974690624006231",
+        "_score": 10.4787,
+        "_source": {
+          "archivedon": "1682677291",
+          "channelabout": "The Official E Discussion Group. \nSilent No More.",
+          "channeltitle": "E Team",
+          "channelusername": "TheETeam",
+          "date": 1634355161,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1500698309
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 452695,
+          "message": "They have been hitting us with Eric and Barron today. 😂 Melania is on vacation.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1381378316,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 452698,
+            "replies": 1,
+            "comments": false,
+            "replies_pts": 1825679,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.66063248138795e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682677291,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Steph",
+            "id": 1500698309,
+            "is_self": false,
+            "last_name": "✨",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 4.9136288812867e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgISNd8Ehy+ADnIGfwoooqWUQ=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T10:21:31.421193"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4675715330747670085",
+        "_score": 9.4336,
+        "_source": {
+          "archivedon": "2021-10-16 00:52:09.482351",
+          "channeltitle": "4Chan YLYL",
+          "channelusername": "YLYL4chan",
+          "date": 1634343332,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 10,
+              "offset": 102
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "le-livre-d-eric-zemmour-la-france-n-a-pas-dit-son-dernier-mot-est-sorti-ce-jeudi-photo-afp-joel-saget-1631804152",
+          "peerid": {
+            "channel_id": 1088649810,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 12
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5811551549939537330",
+        "_score": 8.8899,
+        "_source": {
+          "archivedon": "2021-10-16 10:07:01.921023",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1634377980,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 106,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 28,
+              "offset": 132
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634316238,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1590785445
+            },
+            "channel_post": 2950
+          },
+          "message": "While most artists are selling out and being a part of the establishment , Eric Clapton is taking a stand!\n\nBRAVO 👏 to this man ✨\n\nhttps://youtu.be/dNt4NIQ7FTA",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 5
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6728879770349600945",
+        "_score": 8.6916,
+        "_source": {
+          "archivedon": "2022-02-14 01:37:12.987532",
+          "channeltitle": "DISCUSSIONS CHAT",
+          "channelusername": "NICNewsdaily",
+          "date": 1634372063,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1419137853
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Breach (2007)\nFBI upstart Eric O'Neill enters into a power game with his boss, Robert Hanssen, an agent who was put on trial for selling secrets to the Soviet Union.",
+          "peerid": {
+            "channel_id": 1566689408,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 157
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.35332766983742e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "XXX-XX-XX",
+            "id": 1419137853,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1419137853,
+            "restriction_reason": []
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6418839919635997512",
+        "_score": 8.503,
+        "_source": {
+          "archivedon": "2022-03-07 11:38:51.387506",
+          "channelabout": "Truth-seeking junkie, unapologetic pure-bred American PATRIOT!",
+          "channeltitle": "RealStewPeters",
+          "channelusername": "stewpeters",
+          "date": 1634347152,
+          "editdate": 1634347147,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 122,
+              "offset": 77,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 57,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "“Yeah, because getting a free vaccine is exactly like slavery and Jim Crow\"\n\nhttps://www.redvoicemedia.com/2021/10/msnbc-hack-joy-reid-attacks-eric-clapton-jim-breuer-for-their-anti-covid-jab-stance/",
+          "peerid": {
+            "channel_id": 1494502630,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 57079
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5888187484625439133",
+        "_score": 7.9889,
+        "_source": {
+          "archivedon": "2021-10-16 11:57:31.919059",
+          "channelabout": "An alternative Media Selection",
+          "channeltitle": "The Unz Review",
+          "channelusername": "TheUnz",
+          "date": 1634384283,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 120,
+              "offset": 110
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "UK: Conservative MP Stabbed to Death By Somali Was A Strong Supporter of Black Lives Matter, by Eric Striker\n\nhttps://www.unz.com/estriker/uk-conservative-mp-stabbed-to-death-by-somali-was-a-strong-supporter-of-black-lives-matter/",
+          "peerid": {
+            "channel_id": 1370950482,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 5
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5782522656259760179",
+        "_score": 7.5407,
+        "_source": {
+          "archivedon": "2021-10-17 00:16:01.701793",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1634428642,
+          "editdate": 1634428627,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/NewsNOWFOX/status/1449520531825332225",
+              "length": 26,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 106,
+              "offset": 154
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "NewsNOW from FOX (Twitter)\n\nEric Robison, 23, of Fort Smith, Arkansas lost his wife to COVID-19 and became a single father within the span of two months.\nhttps://www.fox29.com/news/icu-nurse-helps-young-covid-19-widowed-dad-fill-newborns-nursery-with-donations",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 299125,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 21
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5339612236988029564",
+        "_score": 6.7971,
+        "_source": {
+          "archivedon": "2021-10-16 04:02:43.906217",
+          "channelabout": "This channel is monitoring and reporting on all things \"islamophobia\". If you are a jihadi sympathizer you don't belong here!\n\nYouTube: https://www.youtube.com/c/islamophobiawatch\nWebsite: https://islamohphobia.watch",
+          "channeltitle": "Islamophobia.Watch",
+          "channelusername": "islamophobiawatch",
+          "date": 1634355865,
+          "editdate": 1634355946,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 289,
+              "offset": 52
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 25,
+              "offset": 107,
+              "url": "https://www.rollingstone.com/music/music-lists/100-greatest-guitarists-153675/eric-clapton-4-38244/"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 10,
+              "offset": 155,
+              "url": "https://www.rockhall.com/inductees/eric-clapton?gclid=Cj0KCQjwwY-LBhD6ARIsACvT72OE8PpUl_Qiz33qH1pobiKaNXfDDtjxd-2k73mo4FcUSNQFAXuo8joaAgUCEALw_wcB"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "And now the terrorist left is after Eric Clapton. \n\nClapton may have been branded Rolling Stone magazine’s second-greatest guitarist of all time, and is a three-time Rock & Roll Hall of Fame inductee who has inspired legions to try to follow in his footsteps, but the shiny veneer papering over his belief systems has always been paper thin.",
+          "peerid": {
+            "channel_id": 1243225354,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "GP",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1266508317,
+            "replies_pts": 20556,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5782522656259759981",
+        "_score": 6.7971,
+        "_source": {
+          "archivedon": "2021-10-16 16:14:00.060442",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1634400436,
+          "editdate": 1634400379,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/r8ZU7bx",
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1449405048694444036",
+              "length": 30,
+              "offset": 1
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 287
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": " The Associated Press (Twitter)\n\nA New York man who was 13 years old when he killed a 4-year-old boy with a rock has been granted parole. Officials say Eric Smith, now 41, appeared for the 11th time before the parole board earlier this month and was granted release as early as Nov. 17. http://apne.ws/r8ZU7bx",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 298795,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 13
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5533563034405983736",
+        "_score": 3.6395,
+        "_source": {
+          "archivedon": "2021-10-16 07:28:01.266877",
+          "channelabout": "Herzlich willkommen auf Q-Faktor Germany. Hier findet ihr alle von mir zusammen getragenen Realtime-Infos zu Q und zum derzeitigen Geschehen. Dies ist keine populistische oder extremistische Seite, sondern eine Aufklärungsseite der momentanen Ereignisse.",
+          "channeltitle": "Q-Faktor Germany Die Echtzeit Analyse",
+          "channelusername": "Q_Faktor_Germany",
+          "date": 1634367063,
+          "edithide": false,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Bereitet sich China auf einen Krieg vor? Der von der KPCh in Auftrag gegebene Bestseller-Film in China stellt die Vereinigten Staaten als Staatsfeinde dar.\n\n▪️Zehntausende Menschen schließen sich der Kampagne Freedom Flyers an, die von dem Piloten Rob Schmitt gegründet wurde, der von seiner Fluggesellschaft gefeuert wurde, weil er sich weigerte, sich impfen zu lassen.\n\n▪️\"Nur verdammte Idioten haben Trump gewählt\" - der ehemalige Direktor für Sicherheit und Produktstrategie von Dominion, Eric Coomer, gibt unter Eid zu, dass die Führungskräfte von Dominion seine linksextremen Überzeugungen teilen.\n\nEs wurde entdeckt, dass Eric Coomer von Dominion eine Tätowierung auf seinem Arm hat, die von einem Künstler gemacht wurde, der von der Kirche Satans als Nummer eins geführt wird.\n\n▪️Telegram-Benutzer in mehreren Ländern berichten von Anwendungsfehlern und der Nichtverfügbarkeit der Website.\n\n▪️ Rekordzahlen in Bidens Amerika: 4,3 Millionen Amerikaner haben im August ihren Job gekündigt.\n\n▪️ Der oberste nationale Sicherheitsbeamte ist besorgt über eine noch schrecklichere digitale Gefahr, nämlich Cyberangriffe, die buchstäblich Leben kosten können.\n\nDie zweite Facebook-Whistleblowerin, Sophie Zhang, erklärte, dass sie bereit sei, vor dem Kongress auszusagen und dass sie einer amerikanischen Justizbehörde Dokumente zur Verfügung gestellt habe.\n\n▪️Zwei Mitarbeiter des georgischen Wahlsystems wurden entlassen, nachdem sie angeblich Hunderte von Wählerregistrierungsanträgen vernichtet hatten.\n\n▪️Das korrupte Justizministerium und das FBI verhaften einen der Zehntausenden von Trump-Anhängern, die Hunderte von Metern vor dem US-Kapitol stehen.\n\n▪️Southwest Airlines kündigt an, dass sie Joe Bidens Mandat zur Impfung gegen Covid in Texas trotz des Verbots des Gouverneurs Greg Abbott erfüllen wird.\n\n▪️Point Guard \"Brooklyn Nets\" Basketballspieler Kyrie Irving darf so lange nicht an Spielen teilnehmen, bis er einen Impfstoff gegen das Coronavirus erhalten hat.\n\n▪️Psaki erklärte, Biden wolle \"grundlegende Veränderungen\" in der Wirtschaft des Landes vornehmen, und er glaube, dass das Ende der Pandemie der ideale Zeitpunkt dafür sei.\n\n▪️Im August 2020 wurde berichtet, dass die Zahl der Todesfälle durch COVID von der CDC zu hoch angegeben wurde - nun wollen die Gesetzgeber, dass eine Grand Jury des Bundes dies untersucht.\n\nDer Gouverneur von Massachusetts aktiviert die Nationalgarde, um Schulkinder auf das Coronavirus zu untersuchen.\n\n▪️Die Nierentransplantation bei einem Mann aus Ohio wird wenige Tage vor der geplanten Operation abgesagt, weil der Spender nicht geimpft war.\n\n▪️Boeing verlangt von 125.000 seiner Mitarbeiter in den Vereinigten Staaten, sich bis zum 8. Dezember gegen COVID impfen zu lassen.",
+          "peerid": {
+            "channel_id": 1288383043,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1525
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5798825686395258365",
+        "_score": 3.1734,
+        "_source": {
+          "archivedon": "2021-10-16 18:27:11.581807",
+          "channelabout": "Coordinated Intel Drops for Situational Awareness and Preparedness in developing non-permissive environments.\nwww.superessestraps.com/pages/graymanbrief",
+          "channeltitle": "Grayman Briefing",
+          "channelusername": "graymanbriefing",
+          "date": 1634405461,
+          "editdate": 1634405409,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 23,
+              "offset": 820
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 14,
+              "offset": 1038
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Law and Order Brief: COVID-19 Restrictions place the City and Officers in Chicago in a Standoff.\n\nLate last night a judge issued a temporary restraining order against the union president prohibiting him from making public statements that discourage officers from reporting their COVID-19 vaccine status to the city.\n\nA hearing was also held in which city leaders said the union president was holding the city “hostage” to the point of “municipal sedition and treason.” The union president described Mayor Lightfoot's administration as a “dictatorship” and complained that First Deputy Police Superintendent Eric Carter is “threatening officers with termination carrying the mayor’s water.” Lightfoot said the union president was trying to start an \"insurrection.\"\n\nDebrief: (CLASSIFIED, get the decoded full analysis at gbc.graymanbriefing.com) 4N 3571M473D 5500 5W0rN CH1C460 P011C3 0FF1C3r5 4r3 W1111N6 70 83 P14C3D 0N UNP41D 134V3 0r 73rM1N473D r47H3r 7H4N C0MP1Y W17H C0V1D19 M345Ur35  7H3 1111N015 60V3rN0r 4DV153D 7H47 7H3 1111N015 NA710NAL GUArD C0U1D 83 C4113D 1N 70 M41N741N 14W 4ND 0rD3r 1F 7H3 CH1C460 P011C3 134V3 1N M4553 7H3 V1013N7 Cr1M3 r473 1N CH1C460 1N 2019 W45 943 P3r 100000 r351D3N75 8U7 2020 4ND 2021 54W 4 5H4rP 1NCr3453 500N H41F 7H3 F0rC3 M4Y 83 60N3 175 11K31Y 7H3 C17Y W111 K33P UP 7H3 r37CH0r1C 8U7 W111 D314Y 53P4r4710N 4ND 5U5P3N510N5 70 4V01D 4 M4553 W41K 0FF 1N 4 W0r57C4535C3N4r10 7H3 P011C3 F0rC3 15 D1584ND3D 8Y H41F 4ND 7H3 57r337 4r3 5W4rM3D 8Y 7H3 M11174rY UND3r 4N 3M3r63NCY D3C14r4710N",
+          "peerid": {
+            "channel_id": 1350144317,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1352923591,
+            "replies_pts": 13345,
+            "recent_repliers": []
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1527
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 229
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

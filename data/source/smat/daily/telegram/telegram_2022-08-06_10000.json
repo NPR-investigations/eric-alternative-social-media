@@ -1,0 +1,2286 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [25],
+      "relation": ["eq"]
+    },
+    "max_score": [13.1346],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5482377881914994901",
+        "_score": 13.1346,
+        "_source": {
+          "archivedon": "2022-08-10 06:49:29.221818",
+          "channelabout": "PLYMOUTH World Wide Rally for Freedom - May 15th 2021\nPlease keep group on topic\n@WWD_global",
+          "channeltitle": "WWD Plymouth",
+          "channelusername": "WWDPlymouth",
+          "date": 1659771550,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 101,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 852021363
+          },
+          "fwdfrom": {
+            "channel_post": 7643,
+            "date": 1659771524,
+            "from_id": {
+              "channel_id": 1195052286,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BBC Journalist Shakes After Questions on Eric GillBBC Journalist Shakes After Questions on Eric Gill https://www.youtube.com/watch?v=Tb6d2MIHhqg",
+          "peerid": {
+            "channel_id": 1276465571,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 40269
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 852021363,
+            "_v": 1,
+            "access_hash": 4.62185435616504e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "kes",
+            "id": 852021363,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 336217,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168500798
+              },
+              "photo_id": 3.65940389003458e+18,
+              "photo_small": {
+                "local_id": 336215,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168500798
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "voodoobeans",
+            "verified": false
+          },
+          "v": 1,
+          "views": 839,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "7466616080761373233",
+        "_score": 13.1346,
+        "_source": {
+          "archivedon": "2022-08-06 22:35:56.170451",
+          "channelabout": "Canada/USA Trucker Convoy Chat",
+          "channeltitle": "Trucker Convoy 2022 Chat",
+          "channelusername": "can_usa_truckers_2022_chat",
+          "date": 1659771551,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 101,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 852021363
+          },
+          "fwdfrom": {
+            "channel_post": 7643,
+            "date": 1659771524,
+            "from_id": {
+              "channel_id": 1195052286,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BBC Journalist Shakes After Questions on Eric GillBBC Journalist Shakes After Questions on Eric Gill https://www.youtube.com/watch?v=Tb6d2MIHhqg",
+          "peerid": {
+            "channel_id": 1738457028,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 22053
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 852021363,
+            "_v": 1,
+            "access_hash": 4.62185435616504e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "kes",
+            "id": 852021363,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 336217,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168500798
+              },
+              "photo_id": 3.65940389003458e+18,
+              "photo_small": {
+                "local_id": 336215,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400168500798
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "voodoobeans",
+            "verified": false
+          },
+          "v": 1,
+          "views": 594,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6086674381688553111",
+        "_score": 12.4642,
+        "_source": {
+          "archivedon": "2022-08-06 22:53:02.05572",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1659757471,
+          "editdate": 1659757474,
+          "edithide": true,
+          "entities": [],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49252,
+            "date": 1658364119,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Abraham Lincoln",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Sus\nWhat’s in the water Eric?",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ramblin",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "max_id": 700802,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1590495750
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1939152040
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 1103172
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 488,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5658366997252100558",
+        "_score": 11.1619,
+        "_source": {
+          "archivedon": "1680799427",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1659812600,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1509960043
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Great info! I wonder if there’s any avenue to sue ERIC on behalf of VA taxpayers.",
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 86459,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -2.12712772249745e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Tom",
+            "id": 1509960043,
+            "is_self": false,
+            "last_name": "Roberts",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 5.1815356354025e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIhlMRwynknj3ooorFo0uf"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "archivedon": 1680799427,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "id": 86478,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-06T16:43:47.573311"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5846913321357951884",
+        "_score": 11.0477,
+        "_source": {
+          "archivedon": "2022-08-07 09:50:27.369327",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1659798191,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 143,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1736840833
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.dailymail.co.uk/news/article-11084903/NYC-Mayor-Eric-Adams-collecting-headshots-job-applicants-raising-concerns-hiring-process.html",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 783621
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1736840833,
+            "_v": 1,
+            "access_hash": 8.14107850001274e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Cozza",
+            "id": 1736840833,
+            "is_self": false,
+            "last_name": "Frenzzy",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "CozzaFrenzzy",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5658366997252100519",
+        "_score": 10.9361,
+        "_source": {
+          "archivedon": "1680799427",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1659795756,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 132,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1588909457
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Addison Wilson",
+              "description": "On Thursday, TGP shared that the Dems have fought ferociously to prevent the cleanup of State Voter registration rolls. The left-wing activist created ERIC to clean the voter rolls with their rules. In 201, the ERIC was created as a membership organization for blue states. It is a left-wing voter registration drive disguised as voter …",
+              "display_url": "thetruedefender.com/eric-investigation-soros-open-society-the-founding-of-the-nations-largest-voter-roll-clean-up-operation",
+              "hash": 0,
+              "id": 8.15379085992147e+18,
+              "photo": {
+                "access_hash": 9.9462365895438e+17,
+                "date": 1643046282,
+                "dc_id": 4,
+                "file_reference": "AGQu9rxljlAEH0is/XX5/61mSd9s",
+                "has_stickers": false,
+                "id": 6.01598085253993e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARwo1HCKCzDAPU0sZQk7exwaJgTGQoycj+dJCrKGDf3jj3FAhztg4qMSE98U6T734VHHnBzS1KHCZScBwTRUatF5pUbd47AUU7MV0TNKPM8oZDkZBxStIqcMRn6gUMi58zHzgYzSxn5BSAjaRGcYYfmKaH678DnAqSQ/NTEAXOO5zTERJ5X2jcPvH60VKAM52jPriincLH8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 224,
+                    "size": 15951,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 452,
+                    "w": 645,
+                    "sizes": [3736, 27395, 30633]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The True Defender !",
+              "title": "ERIC Investigation! Soros Open Society & The Founding of The Nation’s Largest Voter Roll Clean-Up Operation! - The True Defender !",
+              "type": "photo",
+              "url": "https://thetruedefender.com/eric-investigation-soros-open-society-the-founding-of-the-nations-largest-voter-roll-clean-up-operation/"
+            }
+          },
+          "message": "https://thetruedefender.com/eric-investigation-soros-open-society-the-founding-of-the-nations-largest-voter-roll-clean-up-operation/",
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 164146
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.75359453018437e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mama",
+            "id": 1588909457,
+            "is_self": false,
+            "last_name": "Bear",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "UnapoligeticallyMamaBear",
+            "verified": false,
+            "archivedon": 1680799427,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "id": 86439,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-06T16:43:47.655054"
+        },
+        "_ignored": ["media.webpage.description.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5658366997252100565",
+        "_score": 10.9361,
+        "_source": {
+          "archivedon": "1680799427",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1659818879,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1588909457
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I would claim that the contract with ERIC should be voided on this claim: Violation of Public Policy.",
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 86478,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 86459
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.75359453018437e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mama",
+            "id": 1588909457,
+            "is_self": false,
+            "last_name": "Bear",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "UnapoligeticallyMamaBear",
+            "verified": false,
+            "archivedon": 1680799427,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "id": 86485,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-06T16:43:47.564967"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5524017525425402977",
+        "_score": 10.5134,
+        "_source": {
+          "archivedon": "2022-08-06 20:35:33.014309",
+          "channelabout": "This is the discussion channel for We The People News (PioyPioyPioy).\n\nPlease read the rules and participate.\n\nRules: https://t.me/PioyPioyPioy_BACKUP/62130",
+          "channeltitle": "Great Awakening (@PioyPioyPioy)",
+          "channelusername": "PioyPioyPioy_BACKUP",
+          "date": 1659756003,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1526289038
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric - I’d like the link, if you don’t mind to dm it to me. Not laughing at you or your words whatsoever",
+          "peerid": {
+            "channel_id": 1286160556,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 383798
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1526289038,
+            "_v": 1,
+            "access_hash": 3.25366489647256e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dave",
+            "id": 1526289038,
+            "is_self": false,
+            "last_name": "Rauti",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 227903,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017600564
+              },
+              "photo_id": 4.90488178095644e+18,
+              "photo_small": {
+                "local_id": 227901,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100017600564
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MidnightRider11",
+            "verified": false,
+            "_media_ref": "712804e7fb1afe0c0e72787a23b1a96d8679103b"
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6110732250154800879",
+        "_score": 10.4133,
+        "_source": {
+          "archivedon": "1681335702",
+          "channelabout": "Your best alternative to cable [fake] news!\n\nShare this link with your friends: https://defycablenews.com",
+          "channeltitle": "Defy Cable News",
+          "channelusername": "DefyCableNews",
+          "date": 1659793045,
+          "editdate": 1659793425,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://patriotfetch.com/wp-content/uploads/2022/08/migranttruck.shutterstock_1294085749-e1659713969231.jpg"
+            },
+            {
+              "length": 112,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 115,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 32,
+              "offset": 122,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "display_url": "patriotfetch.com/wp-content/uploads/2022/08/migranttruck.shutterstock_1294085749-e1659713969231.jpg",
+              "hash": 0,
+              "id": 3.87442309094853e+18,
+              "photo": {
+                "access_hash": -6.29771093343852e+18,
+                "date": 1659793041,
+                "dc_id": 4,
+                "file_reference": "AGQ3JZIZ6tXQEhOIhKlT89WAChFG",
+                "has_stickers": false,
+                "id": 6.0162358962879e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsoqX7D7RjjgACmxICyu4Ax6U27BLgnqeD71NbxqNhd+nHHagDW05t8O7GMjt+NXKzra6hi3IWAAGc1YF5E0e9WyKALDdKKpS3qrGGCkg+xFFAjCMm8jf0HpQ3Kll/EUxBlhUqgbyMUeZS7CxTfKUIBB61PkW5Bib5W7mqkYG+pgARz2FCAmN3wRjdn0oqC5UK4CjHFFNbA3Zk=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 214,
+                    "size": 17236,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 347,
+                    "w": 520,
+                    "sizes": [3384, 9402, 14714, 20888, 32758]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "type": "photo",
+              "url": "https://patriotfetch.com/wp-content/uploads/2022/08/migranttruck.shutterstock_1294085749-e1659713969231.jpg"
+            }
+          },
+          "message": "​First 50 Illegal Immigrants Arrive in NY as Texas Gov Abbott Insists Woke Mayor Eric Adams Should ‘Welcome Them’\n\nREAD → https://defycablenews.com/etQziW",
+          "peerid": {
+            "channel_id": 1422765723,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1840,
+          "id": 5871,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 59,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 18,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "😱",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-12T21:41:42.115224"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6372728575220596974",
+        "_score": 10.0331,
+        "_source": {
+          "archivedon": "2022-08-07 10:01:46.798879",
+          "channelabout": "Harold’s Library",
+          "channeltitle": "The Library",
+          "channelusername": "The_Library_II",
+          "date": 1659799277,
+          "editdate": 1659799330,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1200,
+            "date": 1659718060,
+            "from_id": {
+              "channel_id": 1496043828,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "August 2nd Election Results: \n\nArizona\n✅Blake Masters (Senate)\n✅Kari Lake (Governor)\n\nMichigan\n✅Tudor Dixon (Governor)\n✅John Gibbs (MI03)\n\nMissouri \n✅Eric Schmitt (Senate)",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Finch",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2756,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6117742860847576014",
+        "_score": 9.6824,
+        "_source": {
+          "archivedon": "2022-08-06 22:55:03.682235",
+          "channelabout": "This is a Dedicated-Curated Archive of Savage_Marxist_Election_Fraud_Criminality\n\nPresented to both the audience, and Archived for the Public, Legal and Historic Record.\n\nDrop voter fraud info in the linked groupchat channel https://t.me/usvoterfraudchat",
+          "channeltitle": "US Voter Fraud & Coup-Ops Intel 2020 & 2021",
+          "channelusername": "usvoterfraud",
+          "date": 1659759200,
+          "editdate": 1659759203,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 113,
+              "offset": 127,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 17,
+              "offset": 242,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 74712,
+            "date": 1659759155,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING! Indiana Gov. Eric Holcomb signs abortion ban, making his state the first to approve abortion restrictions post-Roe.\n\nhttps://apnews.com/article/abortion-us-supreme-court-health-indianapolis-indiana-83fe300188fcf15d8a3b4a36ceee7443\n\n@police_frequency",
+          "peerid": {
+            "channel_id": 1424398008,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1304909613,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 224818
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 140,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5487978987420513012",
+        "_score": 9.6824,
+        "_source": {
+          "archivedon": "2022-08-06 20:38:40.689535",
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channeltitle": "BOSS_HAWGA",
+          "channelusername": "HawGa",
+          "date": 1659759464,
+          "editdate": 1659801928,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 113,
+              "offset": 127,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 17,
+              "offset": 242,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 74712,
+            "date": 1659759155,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING! Indiana Gov. Eric Holcomb signs abortion ban, making his state the first to approve abortion restrictions post-Roe.\n\nhttps://apnews.com/article/abortion-us-supreme-court-health-indianapolis-indiana-83fe300188fcf15d8a3b4a36ceee7443\n\n@police_frequency",
+          "peerid": {
+            "channel_id": 1277769680,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "d̵o̵n̷ ̴j̸o̵l̵l̸y̴",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1744702409,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 73631
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 389,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6360458837203373338",
+        "_score": 9.6824,
+        "_source": {
+          "archivedon": "2022-08-07 10:00:56.251222",
+          "channelabout": "Welcome to Mid-West Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@eastcoast_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "Mid West News & Discussion",
+          "channelusername": "midwest_intel",
+          "date": 1659759200,
+          "editdate": 1659759203,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 113,
+              "offset": 127,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 17,
+              "offset": 242,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 74712,
+            "date": 1659759155,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING! Indiana Gov. Eric Holcomb signs abortion ban, making his state the first to approve abortion restrictions post-Roe.\n\nhttps://apnews.com/article/abortion-us-supreme-court-health-indianapolis-indiana-83fe300188fcf15d8a3b4a36ceee7443\n\n@police_frequency",
+          "peerid": {
+            "channel_id": 1480909725,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1160472707,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 71265
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 77,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5782522656259881856",
+        "_score": 9.5171,
+        "_source": {
+          "archivedon": "2022-08-06 22:16:55.686217",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1659822964,
+          "editdate": 1659822967,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1556034126896959488"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Reuters (Twitter)\n\nIndiana's Republican Governor Eric Holcomb signed into law a bill that bans most abortions, six weeks after a U.S. Supreme Court decision erased a woman's constitutional right to terminate her pregnancy",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 499965
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5235557432947742427",
+        "_score": 9.3045,
+        "_source": {
+          "archivedon": "2022-08-10 06:55:28.324146",
+          "channelabout": "Dies ist der öffentliche, kostenlose Kanal von Oliver Janich. Unterstützung und exklusive Inhalte über Premium-Abo: https://t.me/JanichSupport_Bot | Nur meine Videos: https://t.me/OliverJanichtopnews | Webseite: https://www.oliverjanich.de",
+          "channeltitle": "Oliver Janich öffentlich",
+          "channelusername": "oliverjanich",
+          "date": 1659773384,
+          "editdate": 1659773410,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 90,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 59,
+              "offset": 321,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 382,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 41,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 24,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Andino Reynal was a member of the Organized Crime Strike Force before being appointed by Eric Holder to serve as a federal prosecutor for the Southern District of Texas. Andino successfully tried white-collar cases, public corruption cases, and major drug trafficking cases while working for the US Attorney’s Office.\"\n\nhttps://information-cradle.com/f-andino-reynal-lawyer-wiki/\n\nEric Holder war Generalbundesanwalt der Vereinigten Staaten unter Obama. Keine Ahnung, wie man sich ausgerechnet so einen aussuchen kann. Hat Jones wohl davon überzeugt, dass er vom Saulus zum Paulus geworden ist...\n\nhttps://de.wikipedia.org/wiki/Eric_Holder",
+          "peerid": {
+            "channel_id": 1218998207,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 104154
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 26237,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5658366997252100539",
+        "_score": 9.2574,
+        "_source": {
+          "archivedon": "1680799427",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1659800530,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1588909457
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "More on ERIC\n\nJohn Lindback was the first Executive Director of ERIC. He was the Senior Officer in Election Initiatives at Pew and part of the original 2009 workgroup. Later, he was the Senior Advisor for the left-leaning CSME, a Soros-funded dark money organization New Venture Fund.\n\nIn July 2011, ERIC’s UVR design was presented to California officials by Shane Hamlin (WA), IBM IT Architect Jeff Butcher, Pam Smith from Verified Voting, and Jim Dempsey from Soros funded (CDT) Center for Democracy and Technology.\n\nIBM’s Jeff Jonas and Jeff Butcher, who designed ERIC’s technology, went on to co-found Senzing in 2016. It is the data matching AI that runs ERIC. Jonas says, “ERIC has a two-person staff, one tends to the constantly growing database.”\n\nEricka Hass has been the system Engineer at ERIC for nine years. She worked in the Oregon Secretary of State’s office with Lindback. In 2018, DHS created the SCC. Hass shared a seat on this council with staff from Dominion, ES&S, Smartmatic, and Unisyn Votic. ‘’ SCC represents 30 companies responsible for providing key components to our elections, including public policy. The SCC group rubs noses with the GCC council, which includes CISA, EAC, NASS, NASED. \n\nDavid Becker is a scoundrel. In 2016, he created CEIR and distributed $69.5 million in Zuckerberg money with CTCL. During his time at the DOJ, Becker was reported to OPR. Brad Scholzman said, “It’s the most unethical thing I’ve ever seen. He’s a hardcore leftist who couldn’t stand conservatives. Emails revealed nasty, disparaging remarks about Republicans…unethical and unprofessional”.",
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 86491,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 164146
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.75359453018437e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mama",
+            "id": 1588909457,
+            "is_self": false,
+            "last_name": "Bear",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "UnapoligeticallyMamaBear",
+            "verified": false,
+            "archivedon": 1680799427,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "id": 86459,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-06T16:43:47.616223"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "7299497176697152533",
+        "_score": 9.0568,
+        "_source": {
+          "archivedon": "2022-08-06 08:16:30.607539",
+          "channeltitle": "The Kyiv Independent",
+          "channelusername": "kyivindependent",
+          "date": 1659764578,
+          "editdate": 1659768217,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "⚡️ European Commission: No obstacles to return of Nord Stream 1 turbine to Russia. Eric Mamer, chief spokesperson of the European Commission, rejected Russian claims that EU sanctions impede the delivery of the Siemens turbine from Germany to Russia.",
+          "peerid": {
+            "channel_id": 1699546626,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 177,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6372728575220596951",
+        "_score": 9.0568,
+        "_source": {
+          "archivedon": "2022-08-07 10:01:46.762297",
+          "channelabout": "Harold’s Library",
+          "channeltitle": "The Library",
+          "channelusername": "The_Library_II",
+          "date": 1659753080,
+          "editdate": 1659753242,
+          "edithide": true,
+          "entities": [],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4405,
+            "date": 1659752542,
+            "from_id": {
+              "channel_id": 1329886149,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING: Indiana’s Legislature has become the first in the nation to pass new legislation restricting access to abortions since the U.S. Supreme Court overturned Roe v. Wade. Republican Gov. Eric Holcomb has not indicated whether he will sign it.",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Finch",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3688,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6086674381688553104",
+        "_score": 8.579,
+        "_source": {
+          "archivedon": "2022-08-06 22:53:02.048384",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1659757427,
+          "editdate": 1659757431,
+          "edithide": true,
+          "entities": [],
+          "forwards": 21,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 51191,
+            "date": 1659725485,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Tee",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Who remembers this video of Eric adams touting the benefits of drinking tap water??\nAnd now they found that NYC’s water supply is tainted with polio \n\nSUS!!\nConnect the dots!\n\n\nNext level Evil 🟥\n\n                 🚨 PSA 🚨 \nGet water filters Now-especially if you live in NYC",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ramblin",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1103172
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 483,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5782522656259881559",
+        "_score": 8.579,
+        "_source": {
+          "archivedon": "2022-08-06 22:16:55.31637",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1659756799,
+          "editdate": 1659756802,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/SmDmoum"
+            },
+            {
+              "length": 30,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1555738503731879936"
+            },
+            {
+              "length": 22,
+              "offset": 281,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": " The Associated Press (Twitter)\n\nBREAKING: Indiana’s Legislature has become the first in the nation to pass new legislation restricting access to abortions since the U.S. Supreme Court overturned Roe v. Wade. Republican Gov. Eric Holcomb has not indicated whether he will sign it. http://apne.ws/SmDmoum",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 499965
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "7126222850058362541",
+        "_score": 7.2108,
+        "_source": {
+          "archivedon": "2022-08-07 10:39:19.422943",
+          "channelabout": "Top-notch English-language journalism in Ukraine.\nBecome our patron here: http://patreon.com/kyivindependent\n\nThe only official channel of Kyiv Independent.",
+          "channeltitle": "The Kyiv Independent",
+          "channelusername": "KyivIndependent_official",
+          "date": 1659764506,
+          "editdate": 1659764540,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 79,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "⚡️ European Commission: No obstacles to return of Nord Stream 1 turbine to Russia.\n\nEric Mamer, chief spokesperson of the European Commission, rejected Russian claims that EU sanctions impede the delivery of the Siemens turbine from Germany to Russia. \n\n“There is nothing in the sanctions that prohibits the turbine,” Mamer said on Aug. 5. \n\nOn Aug. 3, Russian gas giant Gazprom refused to take back the turbine, claiming that the turbine’s delivery would violate sanctions.",
+          "peerid": {
+            "channel_id": 1659203053,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3624,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6094192163595938986",
+        "_score": 6.5899,
+        "_source": {
+          "archivedon": "2022-08-06 20:31:02.969714",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1659816138,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 44,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1671675029
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "groupedid": 1.32785291057831e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Is Freedom to Choose a Good Thing, or EVIL?\n\n(My son Eric wrote on my TG Channel about Free CHOICES)\n\n • God Gives Us FREE WILL - FREEDOM to Choose Our Path\n • As Freedom-Loving Patriots, We Want Freedom!\n • So Freedom is GOOD, BUT it Means We CAN Choose EVIL\n • Some MAD at God for Allowing Evil & Not “Borging“ Us\n • SATAN Says “Do As You Wish!” - UNBRIDLED Freedom\n • Propagandists Use “Free Choice” to Promote ABORTION\n • CHOOSE to NOT Harm Others, STOP Those Who Do\n • ULTIMATE Free CHOICE: “It’s MY Will to Do GOD’s Will”",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2800881
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6742492347071726090",
+        "_score": 4.5537,
+        "_source": {
+          "archivedon": "2023-01-29 16:10:08.479281",
+          "channelabout": "A place for dissident homeschool parents. Find material here that is not riddled with Current Year programming.\nWe are also on Gab, but mainly as a backup: https://gab.com/groups/57282\nGab does not allow for pdfs to be shared, so keep that in mind.",
+          "channeltitle": "Dissident-Homeschool",
+          "channelusername": "dissidenthomeschool",
+          "date": 1659753300,
+          "editdate": 1659809065,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 25,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 187,
+              "offset": 25,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 8,
+              "offset": 212,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 38,
+              "offset": 223,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 36,
+              "offset": 337,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 36,
+              "offset": 421,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 683,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 881,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 1060,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 53,
+              "offset": 1168,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 1532,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 48,
+              "offset": 1647,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 1795,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 25,
+              "offset": 1879,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 34,
+              "offset": 2066,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 60,
+              "offset": 2225,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 20,
+              "offset": 2434,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 52,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Recommended book lists: \nIt can be hard to find good books for the children to read. These are books that we have personally enjoyed, and in the next few days we will release book lists for elementary grades. \n\n\nPre-K: \n-  Margaret Wise Brown – Goodnight Moon. (Chosen because of its place in literature. It is a children’s classic.)\n-  Eric Carle – The Hungry Caterpillar. (Chosen for its introductions of counting.)\n-  Eric Carle – The Very Quiet Cricket. (Chosen because this tiny little cricket will not chirp until he finds his kin. I personally like to add that he is a boy cricket, and that the other little cricket is a girl cricket that surely must be quite beautiful.) \n-  Dr Seuss – Thidwick the Moose. (The author is definitely not our guy, but this book does have a good message, taken on its own: carrying the weight of racial strangers will lead to your demise.)\n-  D’aulaires’ Book of Animals. (This book inspires a love of nature, and the realization that certain animals live in their own place, because it is where they live healthily.) \n-  D’Aulaire –Children of the Northlights. I recommend this book because of its connection to our kinfolk. \n-  Aesop’s Fables (Especially The Farmer and the Snake). Recommended edition: The Aesop for Children, with pictures by Milo Winter, 1993. The fables can be used for literature lessons in Kindergarten, and usually have a great moral message. They are great to start exercising your children’s narration skills: read the story and have them narrate it back to you. \n-  Sartore / Alexander – Animal Ark. Beautiful pictures of animals that hopefully will inspire a love for nature. \n-  Pallotta – Construction Alphabet (a board book). This is for the mothers of boys. Introduce letters in a fun way: with construction equipment.  \n-  Mother Goose’s Nursery Rhymes. Easy, light rhymes to inspire a love for poetry. \n-  Montessori – Letter Work. Recommended by a subscriber, seconded by me. A nice way of introducing phonics to little ones, with sandpaper texture so those tots can trace those letters. \n-  Sneed Collard - The Deep-Sea Floor. A picture book about all the creatures that live in the deep sea. Good to fill your child’s mind with mystery and beauty.\n-  George Lincoln Rockwell – Fable of the Ducks and the Hens. This story tells how the naïve ducks had their happy lives wrecked by pushy (((hens))). A very appropriate story to tell your children repeatedly.\n\n@dissidenthomeschool",
+          "peerid": {
+            "channel_id": 1569858833,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mrs. Saxon",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1024,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "5831058874785872222",
+        "_score": 4.4939,
+        "_source": {
+          "archivedon": "2022-08-10 04:55:53.898741",
+          "channelabout": "Verdad y Tradición. Una voz independiente con informes basados en hechos, imparciales y precisos. https://es.theepochtimes.com/",
+          "channeltitle": "The Epoch Times Español | Noticias",
+          "channelusername": "EpochTimesEs",
+          "date": 1659797946,
+          "editdate": 1659799065,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 138,
+              "offset": 982,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 81,
+              "offset": 1131,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 903,
+            "date": 1659666625,
+            "from_id": {
+              "channel_id": 1264239623,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Bienvenidos a la entrega 418 de “En Primera Plana” de la NTD.\n\nEl número de chinos que ha abandonado las filas del Partido Comunista Chino, la organización más sanguinaria de la historia, ya se eleva a más de 400 millones.\n\n En las primarias, el viento parece no estar soplando a favor de los republicanos de la Cámara de Representantes que votaron para destituir a Trump.\n\n El exalcalde de Nueva York, Rudy Giuliani, responde al controvertido multimillonario de izquierdas George Soros, que financia a los fiscales pro-crimen..\n\n El alcalde Eric Adams, y el comisario de la Policía de Nueva York, Keechant Sewell, están pidiendo que se llevan a cabo cambios específicos en la reforma de la fianza del Estado. Los datos sugieren que provoca un aumento tanto de los crímenes, como de la reincidencia.\n\n Y en nuestra última sección, el senador de Wisconsin Ron Johnson responderá a algunas de las preguntas que se están haciendo los estadounidenses.\n\nEsto y más a continuación.\n\nVer: https://es.theepochtimes.com/la-gira-de-la-venganza-del-45o-presidente-sigue-ny-en-peligro-400-millones-de-chinos-dicen-basta_1025331.html\n\nPodcast: https://open.spotify.com/episode/46JmYFZOIDVVradZVjvj1A?si=5pAhEwP3R8-aFIT_7AYygQ\n\n--",
+          "peerid": {
+            "channel_id": 1357649191,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1152006885,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 161919
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1593,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202208",
+        "_id": "6742492347071726092",
+        "_score": 2.3311,
+        "_source": {
+          "archivedon": "2023-01-29 16:10:08.328752",
+          "channelabout": "A place for dissident homeschool parents. Find material here that is not riddled with Current Year programming.\nWe are also on Gab, but mainly as a backup: https://gab.com/groups/57282\nGab does not allow for pdfs to be shared, so keep that in mind.",
+          "channeltitle": "Dissident-Homeschool",
+          "channelusername": "dissidenthomeschool",
+          "date": 1659793742,
+          "editdate": 1659810480,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 33,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 218,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 53,
+              "offset": 487,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 40,
+              "offset": 761,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 1018,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 33,
+              "offset": 1489,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 53,
+              "offset": 1710,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 38,
+              "offset": 1947,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 51,
+              "offset": 2240,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 47,
+              "offset": 2375,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 41,
+              "offset": 2524,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 2709,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 53,
+              "offset": 3132,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 20,
+              "offset": 3598,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 32,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "K  through 2nd *PART 2 OF 3*\n\n-  Gertrude Warner – The Boxcar Children. Only let your children read this if you are ready for homemade forts in your yard. This book is also recommended for the 3rd and 4th graders. \n-  E.B. White – Charlotte’s Web. A book about a friendly spider and a Pig’s friendship, and a little girl’s desire to protect a farm pet she has come to love. The book values friendship and strong commitments. This book is also recommended for the 3rd and 4th graders.\n-  Laura Ingalls Wilder – Little House in the Big Woods. This series is not for everyone, some children will find it dull and unentertaining. However, the stories are wholesome and one ought to have given it a try. This book is also recommended for the 3rd and 4th graders.\n-  Margery Williams – The Velveteen Rabbit. The premise is that if you love a toy for a very long time, it will become real. This book teaches us that hardships are a normal part of life, and that they will come to pass. Read this book with your children. \n-  Jennie Hall – Viking Tales. This is a Landmark book. The Landmark books are great historical novels, based on real stories from long ago. They are written by an expert in the specific field being discussed, for example: Jennie Hall has written many books on the early ages Vikings. This specific book tells the tales of Eric the Red, Leif the Lucky, Harold of Norway and others. It is a good and worthy read. This book is also recommended for the 3rd and 4th graders.\n-  Rudyard Kipling – Just so Stories. Some children will find this book dull and unentertaining, but this book explains why whales eat smaller preys, how the kangaroos got long legs and a tail, and other animal stories. \n-  Thornton Burgess – The Burgess Bird Book for Children. A narrative book telling stories of Jenny Wren, and many other bird friends. It shows actual characteristics of birds. Some children will find this book dull and unentertaining. \n-  James Herriot – Treasury for Children. Your children will grow up good and kind if you show them to love and take care of animals. This book helps with that. It will make you feel good. Use this for the early ages as a read-aloud. This book is also recommended for the 3rd and 4th graders.\n-  Robert Louis Stevenson – A Child’s Garden of Verses. Gentle verses and rhymes which can help improve your child’s language skills. \n-  Hans Christian Andersen – Andersen Fairy Tales. More classic fairy tales teaching your child about their cultural heritage. These things matter. \n-  Richard Atwater – Mr. Popper’s Penguins. This is a funny story. Your child might learn a thing or two about penguins, and about the difference between the North and the South Pole. \n-  Robert Browning – The Pied Piper of Hamelin. Classic fairy tale about a town plagued by rats, and the townsfolk hires the pied piper to rid them of the vermin. The pied piper fulfills his job, but when the townsfolk refuses to pay him, he abducts the children and they are never seen again. Use this as a lesson for your children to not go with creepy guys with a flute, and also to teach them the importance of honor. \n-  Rachel Firth - Usborne Illustrated Classics for Boys. This book is now out of print, and you can find it used on Thriftbooks or Abebooks fairly easily. It’s a great copy with the stories you want your boys to swoon over, and in our case it inspired one of our sons at an early age to actually want to read thick books. The stories are those of Robin Hood, Gulliver, and four others. The book’s ISBN is 978-0794524395, in case you have a difficult time finding it.\n\n\n@dissidenthomeschool",
+          "peerid": {
+            "channel_id": 1569858833,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mrs. Saxon",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1028,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [39],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [10],
+      "relation": ["eq"]
+    },
+    "max_score": [12.136],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6462698025423735061",
+        "_score": 12.136,
+        "_source": {
+          "archivedon": "1682237472",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1659143300,
+          "editdate": 1659147902,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4357,
+            "date": 1659140256,
+            "from_id": {
+              "channel_id": 1486518721,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 2325,
+          "mediaref": "ade8c812f23008e25a44e20412e588b67176a9fe",
+          "message": "And more on the fraudulent Dominion machines… PS- F$&@ Eric Coomer.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "max_id": 13222,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1590238160
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 34072
+          },
+          "silent": false,
+          "v": 1,
+          "views": 182,
+          "lastseents": "2023-04-23T08:11:12.897883",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5314864278946198642",
+        "_score": 11.8395,
+        "_source": {
+          "archivedon": "2022-08-05 17:17:02.446563",
+          "channelabout": "Freier Journalismus für den Durchblick in einer Zeit, die geprägt ist von politisch motivierter Desinformation.\n\nYoutube 🎥 \nhttps://www.youtube.com/c/LIONMediaNetwork",
+          "channeltitle": "LION Media",
+          "channelusername": "LIONMediaTelegram",
+          "date": 1659152307,
+          "editdate": 1659154348,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 34,
+              "offset": 5,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 79,
+              "offset": 176,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 257,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 272,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 194,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "❗️📉 New Yorks Bürgermeister Eric Adams widersprich Biden deutlich und warnt, dass sich die USA längst in einer Rezession befinden und die Wall Street bereits zusammenbreche.\n\nhttps://nypost.com/2022/07/28/eric-adams-refutes-biden-says-us-is-in-recession/\n\nKlicke hier 👉 @LIONMediaNews",
+          "peerid": {
+            "channel_id": 1237463271,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 49557,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5901900559287405673",
+        "_score": 11.7605,
+        "_source": {
+          "archivedon": "2022-08-05 11:56:04.594474",
+          "channelabout": "A group for those interested in preserving or liberties here in Illinois!  This group is open to all.  However, I will not you without asking if you pull any crap in this group!  No ads, no trolls, no Antifa, no Nazis (but I repeat myself).",
+          "channeltitle": "Free Illinois",
+          "channelusername": "freeillinois",
+          "date": 1659147302,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1530122851
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "https://www.newsmax.com/newsfront/donald-trump-eric-trump-202-4election/2022/07/29/id/1080934/",
+          "peerid": {
+            "channel_id": 1374143306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 124581
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1530122851,
+            "_v": 1,
+            "access_hash": -6.84171507844149e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Clover",
+            "id": 1530122851,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6364641332190795280",
+        "_score": 10.9755,
+        "_source": {
+          "archivedon": "2022-08-01 15:55:12.091544",
+          "channelabout": "The world is changing, much to the detriment of our kin, our culture, our archaeology, our history & our overall existence as western people. \n\n\nTwitter: https://twitter.com/We_Heritage\n\nJoin us as we display the true glory of the West.",
+          "channeltitle": "Western Heritage",
+          "channelusername": "WesternHeritage",
+          "date": 1659171491,
+          "editdate": 1659176569,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 114,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 696,
+            "date": 1659171442,
+            "from_id": {
+              "channel_id": 1248173705,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "This is an image of Swedish major Eric Bonde smoking shortly after being shot twice in an being ambush Congo, 1961",
+          "peerid": {
+            "channel_id": 1481883538,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1445499688,
+            "comments": true,
+            "max_id": 69823,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1031462122
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 122835
+          },
+          "silent": false,
+          "v": 1,
+          "views": 450,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5142272435495652686",
+        "_score": 10.9755,
+        "_source": {
+          "archivedon": "2022-08-05 16:47:25.03935",
+          "channelabout": "Independent Journalist/ Patriot Activist\n#thinkforyourself \n\nLoving your own isn't the same as hating others.",
+          "channeltitle": "𝐕𝐢𝐧𝐧𝐢𝐞 𝐒𝐮𝐥𝐥𝐢𝐯𝐚𝐧",
+          "channelusername": "vinniesullivan",
+          "date": 1659177883,
+          "editdate": 1659233490,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 114,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 696,
+            "date": 1659171442,
+            "from_id": {
+              "channel_id": 1248173705,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "This is an image of Swedish major Eric Bonde smoking shortly after being shot twice in an being ambush Congo, 1961",
+          "peerid": {
+            "channel_id": 1197278601,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1322064667,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 571765
+          },
+          "silent": false,
+          "v": 1,
+          "views": 396,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6200274110593937003",
+        "_score": 10.9755,
+        "_source": {
+          "archivedon": "2022-08-06 22:59:28.414293",
+          "channelabout": "Independent Journalists / Patriot Activists\n#therealityreport \n\nIf you're going through hell, keep going",
+          "channeltitle": "𝙏𝙝𝙚 𝙍𝙚𝙖𝙡𝙞𝙩𝙮 𝙍𝙚𝙥𝙤𝙧𝙩",
+          "channelusername": "therealityreport",
+          "date": 1659171491,
+          "editdate": 1659193018,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 114,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 696,
+            "date": 1659171442,
+            "from_id": {
+              "channel_id": 1248173705,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "This is an image of Swedish major Eric Bonde smoking shortly after being shot twice in an being ambush Congo, 1961",
+          "peerid": {
+            "channel_id": 1443613812,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1236310180,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 261801
+          },
+          "silent": true,
+          "v": 1,
+          "views": 266,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6736149054037693802",
+        "_score": 9.1844,
+        "_source": {
+          "archivedon": "2022-08-04 03:05:45.829182",
+          "channeltitle": "Perth National Review",
+          "channelusername": "perthnationalreview",
+          "date": 1659144023,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 202,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "channel_post": 2,
+            "date": 1657153078,
+            "from_id": {
+              "channel_id": 1609788745,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "If the world had more people like Sir Eric Fx Sheriff, it will be a better place to live in, You really make difference out of hundred thousands online traders , you are the most beautiful ❤️ heart.\n👇\nhttp://t.me/joinchat/nRAhVsHrliM1MmM0",
+          "peerid": {
+            "channel_id": 1568381920,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 7324
+          },
+          "silent": false,
+          "v": 1,
+          "views": 9899,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5782522656259878513",
+        "_score": 8.3094,
+        "_source": {
+          "archivedon": "2022-08-06 22:16:48.95484",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1659144858,
+          "editdate": 1659144861,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://apnews.com/article/2022-midterm-elections-campaigns-eric-greitens-legislature-missouri-e7d8dbe63068ac77290f6c22550d46d5?taid=62e45091fcd5620001531ee4&\""
+            },
+            {
+              "length": 30,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1553154167157538816"
+            },
+            {
+              "length": 214,
+              "offset": 238,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": " The Associated Press (Twitter)\n\nAs the U.S. Senate primary campaign nears its end in Missouri, all three leading Republican candidates are making it clear that if elected, Senate Minority Leader Mitch McConnell won't have their support. https://apnews.com/article/2022-midterm-elections-campaigns-eric-greitens-legislature-missouri-e7d8dbe63068ac77290f6c22550d46d5?taid=62e45091fcd5620001531ee4&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 499965
+          },
+          "silent": false,
+          "v": 1,
+          "views": 13,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "5317283758578103856",
+        "_score": 5.7164,
+        "_source": {
+          "archivedon": "2022-08-05 16:56:22.522473",
+          "channeltitle": "Patriot Party Alabama",
+          "channelusername": "PatriotPartyAlabama",
+          "date": 1659222561,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 459323414
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Welcome Eric\nPatriot Party National Chat Guidelines\n\nWe the people are building a political party within each state to push for actual representation. This is the main national chat, please view the pin for your state's chat room (where you live and vote). Let's stick to communicating about the party and organizing at the local level. Spread the word!\n\nPlease do not use this as an echo chamber of news/forwards/link spamming. Five links spammed will result in a ban.  \n\nEveryone is from a different background and has different knowledge, skills and perspective, so be kind, courteous and DO NOT incite or encourage violence of any kind (you will be banned)\n\nThank you for your interested and dedication patriot. Let’s be the change we want to see.",
+          "peerid": {
+            "channel_id": 1238026600,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 37706
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 459323414,
+            "_v": 1,
+            "access_hash": -3.84538455848182e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 14,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Group Guardian",
+            "id": 459323414,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 128859,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 804725969
+              },
+              "photo_id": 1.97277904187331e+18,
+              "photo_small": {
+                "local_id": 128857,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 804725969
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "GroupGuardianBot",
+            "verified": false,
+            "_media_ref": "308668d0ad58270dc26476db5d6a09696a58597c"
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202207",
+        "_id": "6215429366554363718",
+        "_score": 5.3717,
+        "_source": {
+          "archivedon": "2022-08-01 15:54:29.336306",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "channelusername": "Nelsonpeopleawake",
+          "date": 1659169048,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 140927,
+            "date": 1659164576,
+            "from_id": {
+              "channel_id": 1168034208,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Wall Street is Collapsing – NYC mayor \n\nThe US has entered a recession, New York Mayor Eric Adams said on Thursday, contradicting earlier claims by President Joe Biden that the economy is “on the right path.” \n\n“We are in a financial crisis like you can never imagine… Wall Street is collapsing; we are in a recession,” Adams said at a New York event hosted by nonprofit Project Hospitality, as cited by Hamodia news outlet.\n\nThe top city official’s statements come in contrast with the assurances that Biden gave earlier the same day, stating that despite the fact “the economy is slowing down,” Washington’s efforts to battle soaring inflation in the country put it “on the right path.”\n\nThe New York mayor later amended his words, however, stating that it is the president’s prerogative to describe the state of the economy.\n\nSubscribe to RT\n\n\nRemember Remember",
+          "peerid": {
+            "channel_id": 1447142420,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "v": 1,
+          "views": 39,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

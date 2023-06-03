@@ -1,0 +1,2628 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [47],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [38],
+      "relation": ["eq"]
+    },
+    "max_score": [12.014],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5932974690624005643",
+        "_score": 12.014,
+        "_source": {
+          "archivedon": "1682677296",
+          "channelabout": "The Official E Discussion Group. \nSilent No More.",
+          "channeltitle": "E Team",
+          "channelusername": "TheETeam",
+          "date": 1634320042,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1500698309
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 452107,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric has been popular today. Lol",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1381378316,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 452106,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.66063248138795e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682677296,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Steph",
+            "id": 1500698309,
+            "is_self": false,
+            "last_name": "✨",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 4.9136288812867e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgISNd8Ehy+ADnIGfwoooqWUQ=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T10:21:36.650333"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5276123639576527696",
+        "_score": 11.6719,
+        "_source": {
+          "archivedon": "1680503087",
+          "channelabout": "Links from The National Pulse - the best conservative news and investigations website around.",
+          "channeltitle": "The National Pulse",
+          "channelusername": "nationalpulse",
+          "date": 1634327547,
+          "editdate": 1634327546,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 848,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.facebook.com/nataliegwinters",
+              "description": "New York City mayoral candidate Eric Adams met with a Chinese Communist Party-run foreign influence flagged by the U.S. government for seeking to “directly and malignly influence” officials to push pro-Beijing policies.",
+              "display_url": "thenationalpulse.com/2021/10/15/eric-adams-met-with-cpaffc",
+              "hash": 0,
+              "id": 8.21074350630268e+18,
+              "photo": {
+                "access_hash": -5.65344048994694e+18,
+                "date": 1634325311,
+                "dc_id": 4,
+                "file_reference": "AGQqcSodYKlX4uyE0H+CsTEeZRUa",
+                "has_stickers": false,
+                "id": 6.00464441950612e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "AR4ofFIFdGJwAatFkdt6ODk+tZzH92agF0dwPX1rOJpO1zY37WHKn6EU4Tfey64we9Yn2lyO3WnR3BLoCcc8kVVmToWd3yCiiVQiDBorJo1RBn5SPUVU6JnuTWrPEvknaADxzUBtMxqmRkHriri7Gb1KGfapovnmHAGfTtV5bUeZG3y4XtjrxS/Z9s5cEAemKbkJIjlzgCirCp6nNFQaOR8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 240,
+                    "size": 20621,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 429,
+                    "w": 572,
+                    "sizes": [4509, 12699, 20453, 34679, 47259]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The National Pulse.",
+              "title": "New York Mayoral Candidate Eric Adams Met With Chinese Communist Party Influence Group Seeking To 'Malignly Influence' American Officials.",
+              "type": "photo",
+              "url": "https://thenationalpulse.com/exclusive/eric-adams-met-with-cpaffc/"
+            }
+          },
+          "message": "https://thenationalpulse.com/exclusive/eric-adams-met-with-cpaffc/\nNew York Mayoral Candidate Eric Adams Met With Chinese Communist Party Influence Group Seeking To 'Malignly Influence' American Officials.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1228443263,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1267710385,
+            "comments": true,
+            "max_id": 102212,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1668230294
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1459499846
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1671564557
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 17,
+            "replies_pts": 583908
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5546,
+          "lastseents": "2023-04-03T06:24:49.160111"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5766449673162225457",
+        "_score": 11.6719,
+        "_source": {
+          "archivedon": "2021-10-15 20:51:34.237749",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "date": 1634327291,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 66,
+              "offset": 139
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1904563128
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "New York Mayoral Candidate Eric Adams Met With Chinese Communist Party Influence Group Seeking To 'Malignly Influence' American Officials.\nhttps://thenationalpulse.com/exclusive/eric-adams-met-with-cpaffc/",
+          "peerid": {
+            "channel_id": 1342606189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 48810
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5202185657316819004",
+        "_score": 11.489,
+        "_source": {
+          "archivedon": "1679053467",
+          "channelabout": "Join America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. \n\nhttps://foxnews.com \n\n—————————————————— \n\nUnofficial",
+          "channeltitle": "Fox News",
+          "channelusername": "FoxNewsTG",
+          "date": 1634259146,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 83,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 83,
+              "offset": 91,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 176,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 187,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 187,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 16444,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Nate Day",
+              "description": "\"Should've Known Better\" singer Jessie James Decker shared a picture of herself and her husband Eric Decker kissing during a day on the beach.",
+              "display_url": "foxnews.com/entertainment/jessie-james-decker-eric-decker-pda-beach-day",
+              "hash": 1475713615,
+              "id": 7.36282382138768e+18,
+              "photo": {
+                "access_hash": 2.98818177956166e+18,
+                "date": 1634254572,
+                "dc_id": 4,
+                "file_reference": "AGQUUphMNL1eG+jQvJTSDy0YetaI",
+                "has_stickers": false,
+                "id": 6.002571152893e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoimm80fNjPqFxTldfJCltpx2PPWq/SmRyYuEY8gMOK1exKJ5NiyqV5Xg4zmrF3OkkSKr7j3/xqK48o3saBdqkfMM1HKoRyF+7nioT2RTXUmjkQRKGI4+vrRVbNFXYm5NKw+zEBskY5P8An3qjgce9FFSxovWn7+VpZTufIHIqWZUmkKAbXHT3oorPrctdiB5gUEbAcDH3Rn86KKK2Rkw=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 18585,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 74756,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 524,
+                    "w": 931,
+                    "sizes": [8565, 20678, 38314, 54364, 89081]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Fox News",
+              "title": "Jessie James Decker, Eric Decker pack on the PDA during beach day: 'Make out buddy'",
+              "type": "photo",
+              "url": "https://www.foxnews.com/entertainment/jessie-james-decker-eric-decker-pda-beach-day?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fentertainment+%28Internal+-+Entertainment+-+Mixed%29"
+            }
+          },
+          "message": "Jessie James Decker, Eric Decker pack on the PDA during beach day: 'Make out buddy'\n\nREAD: https://www.foxnews.com/entertainment/jessie-james-decker-eric-decker-pda-beach-day\n\nSubscribe: @FoxNewsTG",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1211228235,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 283,
+          "lastseents": "2023-03-17T11:44:27.497076"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141454647",
+        "_score": 11.2744,
+        "_source": {
+          "archivedon": "2021-10-15 19:01:30.945368",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "date": 1634322982,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1344913679
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "My research is just based on Eric dubay vids lol",
+          "peerid": {
+            "channel_id": 1388069785,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 703284,
+            "reply_to_top_id": 703281
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5164939602141659528",
+        "_score": 11.1047,
+        "_source": {
+          "archivedon": "2021-10-15 23:45:08.326808",
+          "channelabout": "Shitposting, meme, nazi, waffen",
+          "channeltitle": "666Chan",
+          "channelusername": "joonigger",
+          "date": 1634340954,
+          "editdate": 1634340928,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Where can I donate some shekels for eric nina cohen plz",
+          "peerid": {
+            "channel_id": 1202556212,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1429897143,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 38307
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 16775
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4947186903423191311",
+        "_score": 11.1047,
+        "_source": {
+          "archivedon": "2021-10-15 02:27:02.044702",
+          "channelabout": "*NZ home for Covid & Govt skeptics, child of https://t.me/JoinTheWhiteRose 🖨\n*Pls stay on topic & remain factual. I will delete duplicates, spam, endless memes, clickbait, tiktok crap 🗑\n*Place to discuss, share stickers, news and plan for a better future",
+          "channeltitle": "The White Rose New Zealand",
+          "channelusername": "thewhiterosenz",
+          "date": 1634262063,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1757147626
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric dubay is on point. I highly recommend all his content.",
+          "peerid": {
+            "channel_id": 1151856711,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 67854,
+            "reply_to_top_id": 67234
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5928439638950695185",
+        "_score": 10.7817,
+        "_source": {
+          "archivedon": "2021-10-15 20:51:34.233374",
+          "channeltitle": "PATRIOTpartyNY",
+          "channelusername": "PATRIOTpartyNY",
+          "date": 1634327638,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 84,
+              "offset": 0
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1354720466
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.fox5ny.com/news/eric-adams-now-open-to-vaccine-mandates-for-nyc-students",
+          "peerid": {
+            "channel_id": 1380322417,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 23267
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5766449673162225464",
+        "_score": 10.7817,
+        "_source": {
+          "archivedon": "2021-10-15 21:44:13.163963",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "date": 1634330614,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 84,
+              "offset": 0
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1597964792
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.fox5ny.com/news/eric-adams-now-open-to-vaccine-mandates-for-nyc-students",
+          "peerid": {
+            "channel_id": 1342606189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 48826
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6347407316354097839",
+        "_score": 10.5853,
+        "_source": {
+          "archivedon": "2022-08-03 06:01:37.108449",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1634331293,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 91,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 170,
+              "offset": 99,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 271,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 282,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 282,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC mayoral hopeful Eric Adams says he will KEEP city's gifted and talented schools program\n\nRead: https://www.dailymail.co.uk/news/article-10097289/NYC-mayoral-hopeful-Eric-Adams-says-citys-gifted-talented-schools-program.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 114
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5995279178436449995",
+        "_score": 10.1938,
+        "_source": {
+          "archivedon": "2022-01-09 20:03:17.683889",
+          "channelabout": "How can we help you today?",
+          "channeltitle": "STLPB Customer Care",
+          "channelusername": "stlpbcustomercare",
+          "date": 1634256057,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1404568683
+          },
+          "fwdfrom": {
+            "channel_post": 2633,
+            "date": 1634256053,
+            "from_id": {
+              "channel_id": 1404568683,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mike Lasater",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2633,
+            "saved_from_peer": {
+              "channel_id": 1404568683,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Jewish philanderer Eric Greitens wouldn’t be my first choice, but I would have much rather kept him.",
+          "peerid": {
+            "channel_id": 1395884710,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 16588
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 162
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6032576558470793801",
+        "_score": 10.1938,
+        "_source": {
+          "archivedon": "2022-01-09 20:05:27.756191",
+          "channelabout": "The official Telegram channel of the St. Louis Proud Boys.",
+          "channeltitle": "St. Louis Proud Boys (Clayne Crawford Fan Club of the Greater South)",
+          "channelusername": "stlpb",
+          "date": 1634256053,
+          "editdate": 1634256047,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Jewish philanderer Eric Greitens wouldn’t be my first choice, but I would have much rather kept him.",
+          "peerid": {
+            "channel_id": 1404568683,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mike Lasater",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1395884710,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 16588
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 162
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6254965403802503158",
+        "_score": 9.9257,
+        "_source": {
+          "archivedon": "1682706263",
+          "channelabout": "",
+          "channeltitle": "CORONA RAF",
+          "channelusername": "CORONARAF",
+          "date": 1634256502,
+          "editdate": 1634256534,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 22941355
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 100342,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "kevin hat seine ausbildung bei eric lander gemacht und es gibt hier einen 2frontenkrieg im hintergrund bei den amerikanern",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1456347621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 100340,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 100336
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -9.16096794017724e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682706263,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Bobby",
+            "id": 22941355,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 9.85323699071673e+16,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIq28iRfOzk5yCO1FFFTYu5w=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "Bobby_Network",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T18:24:23.284063",
+          "collected_by": "crawler",
+          "url": "t.me/CORONARAF/100342"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6300899490622608071",
+        "_score": 9.6727,
+        "_source": {
+          "archivedon": "2022-02-14 01:34:57.188205",
+          "channelabout": "Official Channel  of the Proud Boys New Jersey.  proudboysnewjersey@protonmail.com",
+          "channeltitle": "Proud Boys New Jersey",
+          "channelusername": "NJProudBoys",
+          "date": 1634333839,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 171,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://nypost.com/2021/10/15/eric-adams-would-require-vaccinations-for-students-with-fda-approval/?utm_medium=browser_notifications&utm_source=pushly&utm_campaign=1494209",
+          "peerid": {
+            "channel_id": 1467042484,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 171
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141454201",
+        "_score": 9.4336,
+        "_source": {
+          "archivedon": "2021-10-15 15:39:15.606396",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "date": 1634311939,
+          "edithide": false,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1418608507
+          },
+          "fwdfrom": {
+            "channel_post": 5470,
+            "date": 1634311135,
+            "from_id": {
+              "channel_id": 1260424525,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I guarantee that most \"white\" Hispanics who hang out in wignat circles are mestizos of this variety, including Eric Striker, the Uruguayan retard.",
+          "peerid": {
+            "channel_id": 1388069785,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 702844,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 900634
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 97
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5413482113951339870",
+        "_score": 9.4336,
+        "_source": {
+          "archivedon": "2021-10-15 16:25:54.818132",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123",
+          "date": 1634311135,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I guarantee that most \"white\" Hispanics who hang out in wignat circles are mestizos of this variety, including Eric Striker, the Uruguayan retard.",
+          "peerid": {
+            "channel_id": 1260424525,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 153
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6254965403802503156",
+        "_score": 8.5961,
+        "_source": {
+          "archivedon": "1682706263",
+          "channelabout": "",
+          "channeltitle": "CORONA RAF",
+          "channelusername": "CORONARAF",
+          "date": 1634256465,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 22941355
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 100340,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "dieses paper war ein richtiger game changer, wurde aber dann totgeschwiegen, aber ein paar führende köpfe haben es gelesen, z.b. eric lander, bidens 2. gesundheitsberater - er wird hart von fauci bekämpft.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1456347621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 100336,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -9.16096794017724e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682706263,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Bobby",
+            "id": 22941355,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 9.85323699071673e+16,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIq28iRfOzk5yCO1FFFTYu5w=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "Bobby_Network",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T18:24:23.280641",
+          "collected_by": "crawler",
+          "url": "t.me/CORONARAF/100340"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5312044933564132426",
+        "_score": 8.5961,
+        "_source": {
+          "archivedon": "2021-10-15 17:18:01.315675",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1634316322,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 150,
+              "offset": 44
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 10,
+              "offset": 213,
+              "url": "https://apolut.net/widerstand-macht-schule-von-eric-angerer/"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2165,
+            "date": 1634307341,
+            "from_id": {
+              "channel_id": 1263902075,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Widerstand macht Schule | Von Eric Angerer\n\nHinweis zum Beitrag: Der vorliegende Text erschien zuerst im „Rubikon – Magazin für die kritische Masse“, in dessen Beirat unter anderem Daniele Ganse ..weiterlesen auf apolut.net",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 32
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5259698924427420237",
+        "_score": 8.503,
+        "_source": {
+          "archivedon": "2021-10-15 19:36:33.548764",
+          "channelabout": "We are against those that call themselves ANTIFASCIST as a smoke screen to shut down FREE SPEECH.",
+          "channeltitle": "Antifa Public Watch ( Anti-Antifa )",
+          "channelusername": "AntifaPublicWatch",
+          "date": 1634324245,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 150
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 529,
+            "date": 1634311535,
+            "from_id": {
+              "channel_id": 1341487417,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Cohen has a court date today for the stabbing of a Latino man on Aug. 14, 2021. \n\nI asked Cohen about the incident but I did not get an answer.\n\n@tomasmorales_iv",
+          "peerid": {
+            "channel_id": 1224619086,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 134
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670802139",
+        "_score": 8.0696,
+        "_source": {
+          "archivedon": "2021-10-15 11:46:23.434926",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "date": 1634297508,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 78
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 45,
+              "offset": 186
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "fwdfrom": {
+            "channel_post": 291,
+            "date": 1634297347,
+            "from_id": {
+              "channel_id": 1571176398,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Thanks for standing up, Eric. Takes a lot of courage to do what you’re doing:\nhttps://www.youtube.com/watch?v=dNt4NIQ7FTA\n5G is coronavirus, find out more info to protect yourself here: https://dq271.isrefer.com/go/AultHome/AUL651/",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 23306
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 425
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5498927378748953050",
+        "_score": 8.0696,
+        "_source": {
+          "archivedon": "2021-10-15 12:34:01.287832",
+          "channeltitle": "Free West Virginia",
+          "channelusername": "FreeWestVirginia",
+          "date": 1634298741,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 78
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 45,
+              "offset": 186
+            }
+          ],
+          "forwards": 6,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "fwdfrom": {
+            "channel_post": 291,
+            "date": 1634297347,
+            "from_id": {
+              "channel_id": 1571176398,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Thanks for standing up, Eric. Takes a lot of courage to do what you’re doing:\nhttps://www.youtube.com/watch?v=dNt4NIQ7FTA\n5G is coronavirus, find out more info to protect yourself here: https://dq271.isrefer.com/go/AultHome/AUL651/",
+          "peerid": {
+            "channel_id": 1280318801,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 30424
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1316
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5498927378748953048",
+        "_score": 8.0696,
+        "_source": {
+          "archivedon": "2021-10-15 12:34:01.285912",
+          "channeltitle": "Free West Virginia",
+          "channelusername": "FreeWestVirginia",
+          "date": 1634297519,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 78
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 45,
+              "offset": 186
+            }
+          ],
+          "forwards": 6,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "fwdfrom": {
+            "channel_post": 291,
+            "date": 1634297347,
+            "from_id": {
+              "channel_id": 1571176398,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Thanks for standing up, Eric. Takes a lot of courage to do what you’re doing:\nhttps://www.youtube.com/watch?v=dNt4NIQ7FTA\n5G is coronavirus, find out more info to protect yourself here: https://dq271.isrefer.com/go/AultHome/AUL651/",
+          "peerid": {
+            "channel_id": 1280318801,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 30424
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1316
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670802143",
+        "_score": 8.0696,
+        "_source": {
+          "archivedon": "2021-10-15 12:49:48.967342",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "date": 1634298730,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 78
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 45,
+              "offset": 186
+            }
+          ],
+          "forwards": 6,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "fwdfrom": {
+            "channel_post": 291,
+            "date": 1634297347,
+            "from_id": {
+              "channel_id": 1571176398,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Thanks for standing up, Eric. Takes a lot of courage to do what you’re doing:\nhttps://www.youtube.com/watch?v=dNt4NIQ7FTA\n5G is coronavirus, find out more info to protect yourself here: https://dq271.isrefer.com/go/AultHome/AUL651/",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 23325
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1439
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5413482113951339868",
+        "_score": 7.91,
+        "_source": {
+          "archivedon": "2021-10-15 14:02:23.584909",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123",
+          "date": 1634303674,
+          "edithide": false,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Daily reminder that most \"white\" Hispanics you see are mestizos who ended up looking phenotypically white. \n\nI guarantee that most \"white\" Hispanics who hang out in wignat circles are mestizos of this variety, including Eric Striker, the Uruguayan retard.",
+          "peerid": {
+            "channel_id": 1260424525,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 74
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5431945761745055717",
+        "_score": 7.8328,
+        "_source": {
+          "archivedon": "2021-10-15 21:44:12.970875",
+          "channelabout": "occasional meme maker & daily poster  i don't get paid to do this if you want to support my channel share my content  thank u 4 being here 💓\n🇺🇲 Back up Channell\nhttps://t.me/mythvsrealityreloaded",
+          "channeltitle": "Mythvsreality",
+          "channelusername": "basedrainbowbitch",
+          "date": 1634333943,
+          "editdate": 1634333917,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Today: ANTIFA stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1264723428,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1486989007,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 198207
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 19
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5164939602141659527",
+        "_score": 7.8328,
+        "_source": {
+          "archivedon": "2021-10-15 23:45:08.325428",
+          "channelabout": "Shitposting, meme, nazi, waffen",
+          "channeltitle": "666Chan",
+          "channelusername": "joonigger",
+          "date": 1634340794,
+          "editdate": 1634340761,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 45029,
+            "date": 1634333943,
+            "from_id": {
+              "channel_id": 1264723428,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Today: ANTIFA stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1202556212,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1429897143,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 38307
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6168367494336616172",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2022-03-02 00:18:21.240641",
+          "date": 1634312445,
+          "editdate": 1634557720,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 12,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 260,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "— Breaking: @TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.\n\n@TGNewsU",
+          "peerid": {
+            "channel_id": 1436184974,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 805
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6373406235160478619",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2022-02-14 01:38:07.623934",
+          "channeltitle": "Pittsburgh Proud Boys Chat",
+          "date": 1634313222,
+          "edithide": false,
+          "entities": [],
+          "forwards": 26,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1571382307
+          },
+          "fwdfrom": {
+            "channel_post": 3533,
+            "date": 1634311813,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 758,
+            "saved_from_peer": {
+              "channel_id": 1571382307,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking: @ TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1483924276,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 5358
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 9467
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6749035618078032630",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2022-02-14 01:38:06.298461",
+          "channelabout": "The Official Telegram channel of The Pittsburgh Proud Boys, get your dose of daily red pills.",
+          "channeltitle": "Pittsburgh Proud Boys",
+          "channelusername": "pittsburghproudboys",
+          "date": 1634313219,
+          "editdate": 1634313177,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3533,
+            "date": 1634311813,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking: @ TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1571382307,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1483924276,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 5358
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 44
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6769675512915692184",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2022-02-14 01:38:35.118272",
+          "channeltitle": "Proud Boys Sacramento",
+          "channelusername": "sacproudboys",
+          "date": 1634313068,
+          "editdate": 1634313065,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3533,
+            "date": 1634311813,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking: @ TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1576187907,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 15
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6053850042588990925",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2022-08-05 11:36:48.611348",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "date": 1634311813,
+          "edithide": false,
+          "entities": [],
+          "forwards": 26,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking: @ TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1409521802,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 9523,
+          "mediaref": "849f7d6d00142785b0db64e1f137b9d51afcea85"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5354447101273169820",
+        "_score": 7.6835,
+        "_source": {
+          "archivedon": "2021-10-15 15:54:20.197674",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1634311814,
+          "editdate": 1634311780,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3533,
+            "date": 1634311813,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking: @ TomasMorales_iv films antifa stabbing suspect Eric “Nina” Cohen at her court hearing in Los Angeles. Cohen allegedly lacerated the heart of a Latino man at an antifa direct action while in black bloc. Antifa raised money to quickly bail her out.",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 324234
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 54
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4972466879063940476",
+        "_score": 7.5407,
+        "_source": {
+          "archivedon": "2022-08-04 23:34:38.332266",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1634300912,
+          "editdate": 1634300907,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://img.theepochtimes.com/assets/uploads/2021/07/05/GettyImages-1192795349.jpg"
+            },
+            {
+              "length": 76,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 79,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 161,
+              "offset": 100,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 263,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 22,
+              "offset": 290,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://subscribe.theepochtimes.com/p/?page=checkout-v5-03&plan_id=digitalonly_1usd_4_month_trial&cb_acc=theepochtimes&cf_plan_after_trial_ends=digitalonly_7_99_monthly&utm_medium=organic&utm_term=1for4&utm_source=telegram"
+            },
+            {
+              "length": 22,
+              "offset": 290,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "​UN Climate Change Funding to Feed Corruption Gravy Train of Developing World\n\nBy: Eric Louw\n\nREAD: https://www.theepochtimes.com/un-climate-change-funding-to-feed-corruption-gravy-train-of-developing-world_4050207.html?utm_medium=epochtimes&utm_source=telegram\n\nThis is a premium article.\nSubscribe for $1 Today",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1264301656,
+            "comments": true,
+            "max_id": 726720,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1636180469
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1539017581
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1564194452
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 1959152
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 11784
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6053850042588990927",
+        "_score": 6.5855,
+        "_source": {
+          "archivedon": "2022-08-05 11:36:44.876224",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "date": 1634313621,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 11,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 162,
+              "offset": 237,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.30745089705584e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Long Beach #antifa member Eric “Nina” Cohen changed her appearance after the stabbing. Antifa accounts used @ CashSupport on Twitter to raise money for her to be quickly bailed out once she was identified as suspect, arrested & charged. https://thepostmillennial.com/trantifa-porn-star-raises-money-for-los-angeles-antifa-member-accused-of-nearly-killing-a-latino-man-with-a-knife?utm_campaign=64470",
+          "peerid": {
+            "channel_id": 1409521802,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 8026,
+          "mediaref": "f817dee0c020fe8b7e23d91c395b8f4a803d8467"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5354447101273169839",
+        "_score": 6.5855,
+        "_source": {
+          "archivedon": "2021-10-15 16:58:58.735847",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1634313634,
+          "editdate": 1634313602,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 7,
+              "offset": 11
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 162,
+              "offset": 237
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3535,
+            "date": 1634313621,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.30745090780413e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Long Beach #antifa member Eric “Nina” Cohen changed her appearance after the stabbing. Antifa accounts used @ CashSupport on Twitter to raise money for her to be quickly bailed out once she was identified as suspect, arrested & charged. https://thepostmillennial.com/trantifa-porn-star-raises-money-for-los-angeles-antifa-member-accused-of-nearly-killing-a-latino-man-with-a-knife?utm_campaign=64470",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 324314
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 81
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5740678306018103451",
+        "_score": 6.0341,
+        "_source": {
+          "archivedon": "2021-10-15 18:40:14.088254",
+          "channelabout": "RedPill Videos",
+          "channeltitle": "QVids 🇺🇸",
+          "channelusername": "QVids",
+          "date": 1634320111,
+          "editdate": 1634320082,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 345,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 95,
+              "offset": 360
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 69,
+              "offset": 457
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 30372,
+            "date": 1634319179,
+            "from_id": {
+              "channel_id": 1299867815,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "“Every second, a multitude of pulses travel around the world in this unique, resonant chamber between Earth and the ionosphere, sending colluding signals to all microorganisms. These signals couple us to the Earth’s magnetic field. Named after their discoverer, these Schumann Resonances (SR) drive the harmonizing pulse for life in our world.” Eric Thompson\n\nhttps://lifeshaping.me/blog/category/understanding-the-schumann-resonance-and-its-effect-on-you\n\nhttps://www.learning-mind.com/schumann-resonance-human-consciousness/",
+          "peerid": {
+            "channel_id": 1336605825,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Soraya Nadia",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1282293076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 35732
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 105
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4853774993982490848",
+        "_score": 4.2979,
+        "_source": {
+          "archivedon": "2021-10-15 14:48:54.45729",
+          "channelabout": "Official Michigan Proud Boys Telegram Channel",
+          "channeltitle": "Official Michigan Proud Boys",
+          "channelusername": "officialmichiganproudboys",
+          "date": 1634306909,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 124,
+              "offset": 894
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 935,
+            "date": 1616537311,
+            "from_id": {
+              "channel_id": 1327519844,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ghislaine Maxwell’s secret ‘husband’ is CEO of worldwide SHIPPING [HUMAN TRAFFICKING] company\n\n“Scott Borgerson, the CEO of a tech company called CargoMetrics, has been tied since last year to Jeffrey Epstein’s alleged madam Ghislaine Maxwell, who authorities arrested in early July.”\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial backing from private-equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer, and Maersk Tankers.\n\nThe Pentagon Pedophile Task Force (working under Joint Special Operations Command) discovered actionable evidence  (turned over to the DoD) that showed the coordination of world-wide human trafficking has been expanded to a massive database that includes every conceivable factor of a human life (e.g. bloodline, DNA, genetics) including medical records.\n\nhttps://timothycharlesholmseth.com/ghislaine-maxwells-secret-husband-is-ceo-of-worldwide-shipping-human-trafficking-company/",
+          "peerid": {
+            "channel_id": 1130107556,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 33
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5312044933564132353",
+        "_score": 2.8569,
+        "_source": {
+          "archivedon": "2021-10-15 07:33:48.130699",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1634281333,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 88,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 56,
+              "offset": 2016
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Widerstand macht Schule\nKritische Lehrer in Österreich erheben sich gegen den Impfterror\nvon Eric Angerer\n\nDer Impfdruck, der derzeit auf Schüler ausgeübt wird, trifft auch auf Widerstand. Eine Welle an Schulabmeldungen steht im Visier der Bildungsbürokratie. Die Situation in der Lehrerschaft ist indes widersprüchlich. Kritischen Aktivisten steht eine regimehörige Mehrheit gegenüber. Für erstere ist der Arbeitsalltag eine ständige Gratwanderung. Eine Impfpflicht für Lehrer immerhin hat das Regime bisher nicht gewagt.\n\nIn Österreichs Schulen geht der Impfdruck weiter. Im sozialdemokratisch regierten Wien fährt ein „Impfbus“ die Schulen an, um Jugendliche ohne Einfluss der Eltern die Geninjektion zu verpassen. Eine zumindest verantwortungslose Politik, wenn man bedenkt, dass Kinder von Covid-19 faktisch nicht gefährdet sind, aber selbst laut der impffanatischen Europäischen Arzneimittel-Agentur (EMA) in der EU bereits 7.525 Kinder durch die Genspritzen geschädigt wurden (1).\n\nImpfdruck, Mobbing, Widerstand\nStändig testen lassen müssen sich an den Schulen neuerdings nur noch ungeimpfte Kinder. Je nach Art des Tests bekommen sie einen kleinen grünen, blauen oder roten Aufkleber in ihren — so die lächerliche Bezeichnung — „Ninja-Pass“. Die braven Geimpften hingegen erhalten — wie eine Auszeichnung — ein großes „Pickerl“ in Gold. Aus zahlreichen Klassen hört man inzwischen, dass sich Schüler unbedingt impfen lassen wollen, um diesen Aufkleber zu bekommen. Gegen diese Methoden des Ministeriums und gegen die Impfapartheid haben nun etliche Lehrer einer Mittelschule in der Steiermark einen offenen Brief verfasst und angekündigt, dass sie das Gold-Pickerl nicht verteilen werden (2).\n\nIn zahlreichen Schulen läuft ein mehr oder weniger starkes Mobbing gegen ungeimpfte Kinder oder solche, die eine Maskenbefreiung haben. In manchen Fällen geht das Mobbing von regimeloyalen Lehrern aus, in manchen auch von aufgehetzten Schülern. Eine Schulärztin berichtet, dass das Mobbing von oben gewollt ist.\n\nhttps://www.rubikon.news/artikel/widerstand-macht-schule",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 23
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

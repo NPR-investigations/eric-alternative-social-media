@@ -1,0 +1,2055 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [22],
+      "relation": ["eq"]
+    },
+    "max_score": [11.8676],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6279260599276885728",
+        "_score": 11.8676,
+        "_source": {
+          "archivedon": "2022-01-09 19:26:18.749306",
+          "channeltitle": "Michigan Audit Watch Chat",
+          "channelusername": "MichiganAuditChat",
+          "date": 1641346385,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1566992352
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Is Michigan part of ERIC network?",
+          "peerid": {
+            "channel_id": 1462004287,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 87775,
+            "reply_to_top_id": 87557
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1566992352,
+            "_media_ref": "405f6bbc4fca5d190a0769270032a04e885051c9",
+            "_v": 1,
+            "access_hash": -8.06777577078738e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Allison",
+            "id": 1566992352,
+            "is_self": false,
+            "last_name": "Nickolai",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 430995,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107918309
+              },
+              "photo_id": 5.18372922981939e+18,
+              "photo_small": {
+                "local_id": 430993,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107918309
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "NoRegrets80",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5197635942625608317",
+        "_score": 11.3489,
+        "_source": {
+          "archivedon": "2022-08-02 01:39:17.342223",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "date": 1641392204,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 57,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 134,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams says city will weather omicron surge\nhttps://www.washingtontimes.com/news/2022/jan/5/nyc-mayor-eric-adams-says-city-will-weather-omicro/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "channel_id": 1210168922,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 384,
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5111396602799476140",
+        "_score": 10.6512,
+        "_source": {
+          "archivedon": "1680236424",
+          "channeltitle": "Be Reasonable Podcast info stream (Chris Paul)",
+          "channelusername": "imyourmoderator",
+          "date": 1641409884,
+          "editdate": 1641409887,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 64138,
+            "date": 1641408858,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.wsj.com/articles/new-yorks-trump-inquisition-letitia-james-ivanka-eric-donald-11641336578",
+          "peerid": {
+            "channel_id": 1190089761,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Your Moderator, Chris Paul",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 975,
+          "channelabout": "Information stream via Chris Paul, host of Be Reasonable: with Your Moderator Chris Paul\n\nAll links here:\n\nhttps://linktr.ee/imyourmoderator",
+          "id": 19884,
+          "mediaref": "4eb978c9b8bfa3812b7ddef51a458b7882e9e13a",
+          "noforwards": false,
+          "lastseents": "2023-03-31T04:20:24.879809"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120454",
+        "_score": 9.0976,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:43.659592",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1641409062,
+          "editdate": 1641409223,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 145,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Mayor Eric Adams was scheduled to visit nurses at Woodhull Hospital earlier today, when he injured his finger and was taken there for treatment.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 29490,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 310549823
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 46159
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1265,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6328990694157381321",
+        "_score": 8.5886,
+        "_source": {
+          "archivedon": "1681978747",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "date": 1641397173,
+          "editdate": 1641397176,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 0,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 100,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 110,
+            "date": 1641397109,
+            "from_id": {
+              "channel_id": 1512287350,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Mike Lindell returns to the show with an update on election integrity.",
+              "display_url": "rumble.com/vrycsr-mike-lindell-returns-to-the-show-with-an-update-on-election-integrity.html",
+              "hash": 0,
+              "id": 8.81146488703621e+18,
+              "photo": {
+                "access_hash": -8.21470034475978e+18,
+                "date": 1641397049,
+                "dc_id": 4,
+                "file_reference": "AGRA7oMNVMcg8TqWBbSzIrh4UdAL",
+                "has_stickers": false,
+                "id": 5.95990865433131e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoWLyzEvOaYVjFwmOWyKdaRFYdznO8ZxioJ5SLlyuOD/KjnUtESoWdy6fmmYuCWz8vzYxVSZSSCx5zipbcvInmOQxBJJI6fSq0pZXZGIbJyDU2dzS6sSA4Ow8UU1cOS5G3HaigQsV3EiYMZJpk9xHIvyrgnHb/AD7flRRRGCvcbYschWzkx/eH9KddKkbxueQVDHHpRRVslAJ4MY8g4/3zRRRUXLsj",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 21139,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 80602,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 143562,
+                    "w": 1280
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Rumble",
+              "title": "Mike Lindell Returns to the Show With An Update on Election Integrity",
+              "type": "photo",
+              "url": "https://rumble.com/vrycsr-mike-lindell-returns-to-the-show-with-an-update-on-election-integrity.html"
+            }
+          },
+          "message": "@michaeljlindell joined Eric MeTaxes yesterday for a live interview! You can watch it now here: \n\nhttps://rumble.com/vrycsr-mike-lindell-returns-to-the-show-with-an-update-on-election-integrity.html",
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "13th-GEN_PATRIOT ❤🇺🇸✔",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388383
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 326,
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "id": 61129,
+          "noforwards": false,
+          "lastseents": "2023-04-20T08:19:08.013372"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5686521886562161575",
+        "_score": 8.5886,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:48.150353",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1641397120,
+          "editdate": 1641397306,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 83,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 85,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1358262728
+          },
+          "fwdfrom": {
+            "channel_post": 715,
+            "date": 1641397117,
+            "from_id": {
+              "channel_id": 1358262728,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 715,
+            "saved_from_peer": {
+              "channel_id": 1358262728,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I joined Eric MeTaxas yesterday for a live interview! You can watch it now here: \n\nhttps://rumble.com/vrycsr-mike-lindell-returns-to-the-show-with-an-update-on-election-integrity.html",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 382619,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 107,
+            "replies_pts": 1709117
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 65300,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5833693996135744203",
+        "_score": 8.5886,
+        "_source": {
+          "archivedon": "2022-08-05 11:19:45.920061",
+          "channeltitle": "Mike Lindell",
+          "channelusername": "MichaelJLindell",
+          "date": 1641397117,
+          "editdate": 1641397305,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 83,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 85,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I joined Eric MeTaxas yesterday for a live interview! You can watch it now here: \n\nhttps://rumble.com/vrycsr-mike-lindell-returns-to-the-show-with-an-update-on-election-integrity.html",
+          "peerid": {
+            "channel_id": 1358262728,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1323996551,
+            "comments": true,
+            "max_id": 382619,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1106771606
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1509961339
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1526675688
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 107,
+            "replies_pts": 1722119
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 65328,
+          "channelabout": "Inventor and CEO of MyPillow, Author of \"What Are the Odds? From Crack Addict to CEO,” Executive Producer, Creator of MyStore and Lindell Recovery Network"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5283167231323310314",
+        "_score": 8.4024,
+        "_source": {
+          "archivedon": "2022-01-09 21:46:28.189115",
+          "channeltitle": "Q ANONYMOUS KANAL DEUTSCHLAND",
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "date": 1641344460,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 154,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/85dzkJZ1yEE"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ausschnitt aus dem Gesamtstream aus Berlin Mitte vom 3 Januar 2022 ❤️\nDanke an Eric, alle Organisatoren und an meine wunderbaren Berliner ❤️🙏\n\nQuelle 👉 Gazeta Kronikal YT Danke 🙏 ❤️",
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4447,
+          "channelabout": "Lichtkrieger Modus...\nAnon's Netzwerk-DE/Worldwide \nQ-Anon's kontakt kanal\nVon hier wirst du weitergeleitet.\nEinfach beitreten zum Kanal.\nOder informiere dich hier über unzensierte Meldungen aus der ganzen Welt .\nWWG1WGA\n✌️"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6328990694157381349",
+        "_score": 8.2252,
+        "_source": {
+          "archivedon": "1681978649",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "date": 1641407735,
+          "editdate": 1641407739,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 128,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "ICYMI: \"New York’s Trump Inquisition\"\n\n\"A Witch Hunt in New York at the worst and highest level.\" - President Donald J. Trump \n\nhttps://www.wsj.com/articles/new-yorks-trump-inquisition-letitia-james-ivanka-eric-donald-11641336578",
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "13th-GEN_PATRIOT ❤🇺🇸✔",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "max_id": 111975,
+            "recent_repliers": [
+              {
+                "channel_id": 1327242076,
+                "reformatted_key": "PeerChannel"
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 388383
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1950,
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "id": 61157,
+          "mediaref": "ad2e5be4f496e546e743d7437bce185ba7ac61fe",
+          "noforwards": false,
+          "lastseents": "2023-04-20T08:17:30.363332"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6168367494336619593",
+        "_score": 8.0563,
+        "_source": {
+          "archivedon": "2022-03-02 00:18:40.276135",
+          "date": 1641360088,
+          "editdate": 1641360995,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 211,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "— NYC MAYOR ERIC ADAMS: \"My low-skilled workers: my cooks, my dishwashers, my messengers, my shoeshine people, those who work at Dunkin' Donuts—they don't have the academic skills to sit in the corner office.”\n\n@TGNewsU",
+          "peerid": {
+            "channel_id": 1436184974,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1474
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5990455835673782630",
+        "_score": 8.033,
+        "_source": {
+          "archivedon": "2022-01-09 20:58:02.898871",
+          "channeltitle": "Free Minnesota",
+          "channelusername": "FreeMinnesota",
+          "date": 1641357379,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 533,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 51,
+              "offset": 534,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1583780423
+          },
+          "fwdfrom": {
+            "channel_post": 143,
+            "date": 1630769828,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Kessler is founder, principal, and senior managing director of Arabella Advisors, a Washington, D.C.-based philanthropic consultancy that caters to left-leaning clients. Arabella Advisors also manages a number of center-left funding and fiscal sponsorship organizations, including 501(c)(4) Sixteen Thirty Fund, 501(c)(3) New Venture Fund, 501(c)(3) Hopewell Fund, and 501(c)(3) Windward Fund. Kessler himself is closely involved with these organizations, often serving as the founder, principal officer, or board member in them\nhttps://www.influencewatch.org/person/eric-kessler/",
+          "peerid": {
+            "channel_id": 1394761688,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 32017
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1583780423,
+            "_media_ref": "4790657a3c74df4a64423a4b9eb4e6090232420e",
+            "_v": 1,
+            "access_hash": -2.51549628488565e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "jeff gully",
+            "id": 1583780423,
+            "is_self": false,
+            "last_name": "“Doom scroller”",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 67228,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700952
+              },
+              "photo_id": 4.95174718419014e+18,
+              "photo_small": {
+                "local_id": 67226,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700952
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "jeffgully",
+            "verified": false
+          },
+          "v": 1,
+          "views": 661
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259802737",
+        "_score": 7.4528,
+        "_source": {
+          "archivedon": "2022-01-09 20:01:19.599508",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1641363168,
+          "editdate": 1641363171,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/breaking911/status/1478594096499503104"
+            },
+            {
+              "length": 70,
+              "offset": 233,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Breaking911 (Twitter)\n\nNYC MAYOR ERIC ADAMS: \"My low-skilled workers: my cooks, my dishwashers, my messengers, my shoeshine people, those who work at Dunkin' Donuts—they don't have the academic skills to sit in the corner office.”\n\n https://twitter.com/TPostMillennial/status/1478496380951875591/video/1",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 371829
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 48,
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4312355801810350492",
+        "_score": 6.5103,
+        "_source": {
+          "archivedon": "2022-01-09 20:51:05.281866",
+          "channeltitle": "Israel is a War Criminal",
+          "channelusername": "israelwc",
+          "date": 1641419995,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 406,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 39,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 10,
+              "offset": 409,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 105,
+            "date": 1641411764,
+            "from_id": {
+              "channel_id": 1139617484,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🔴 NYC: Mayor Eric Adams appointed two #Jews to senior positions in his administration — Menashe Shapiro as deputy chief of staff and former NYC mayor Bloomberg’s Jewish liasion Fred Kreizman was appointed as commissioner of Mayor’s Community Affairs Unit.\n\nMayor Adams also appointed real estate attorney Ed Mermelstein, a Ukrainian-born Jew, as commissioner of the Mayor’s Office of International Affairs.\n\n@wc_israel",
+          "peerid": {
+            "channel_id": 1004048577,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 56,
+          "channelabout": "With all the due respect to Moses and those among the Jews who are truly faithful,we consider Israel a war criminal. 🔯🚮\nfacebook.com/israelwc 🚩\nSend ur opinions to @A_Israelwc 📲"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6002809209589079621",
+        "_score": 5.1473,
+        "_source": {
+          "archivedon": "2022-01-09 20:17:08.650945",
+          "channeltitle": "🌍 IKB - Info Welle",
+          "channelusername": "InfoWelle",
+          "date": 1641363068,
+          "editdate": 1641363071,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 25,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 60,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-dienstag-269.html"
+            },
+            {
+              "length": 13,
+              "offset": 145,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tagesspiegel.de/wissen/experten-sehen-keine-grosse-gefahr-offenbar-neue-corona-variante-in-frankreich-aufgetaucht/27943846.html"
+            },
+            {
+              "length": 12,
+              "offset": 705,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2769,
+            "date": 1641363056,
+            "from_id": {
+              "channel_id": 1172392563,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Frankreichs neue Variante \n\nDie Tagesschau vermeldet eifrig 270.000 Neuinfektionen in Frankreich\nDer Tagesspiegel verkündet, dass eben dort eine neue Variante aufgetaucht sei.\nWie die meisten Mutationen geht die neue Variante offensichtlich mit einer höheren Ansteckungsquote aber noch milderem Verlauf einher. Experten können bei der neue Corona Variante B.1.640.2 \"bisher nicht erkennen, dass von der neuen Variante eine große Gefahr ausgeht.\"\nEigentlich eine gute Gelegenheit für eine Durchseuchung.?.\n\nDer US-Epidemiologe Eric Feigl-Ding schrieb auf Twitter: „Ich mache mir wegen B.1.640.2 noch keine großen Sorgen. Ich bezweifle, dass sie sich gegen Omikron oder Delta durchsetzt.“\n\n❌ Folgt uns auf: @WissensGold 🛎",
+          "peerid": {
+            "channel_id": 1397637932,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1498560351,
+            "comments": true,
+            "max_id": 111552,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1158659783
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 399578366
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 160313
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 834,
+          "channelabout": "Kanal der dazu gehört : \n@IKB_Fun\n\nIKB - InfoWelle Chat: @InfoWelleChat\n\nMitwirkende:\n@huerdenflug\n@BKalesnikow\n@berlinmarkbrandenburg\n@videocesar (Inhaber)"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5740678306018104566",
+        "_score": 4.1188,
+        "_source": {
+          "archivedon": "2022-01-09 20:00:35.086317",
+          "channeltitle": "QVids 🇺🇸",
+          "channelusername": "QVids",
+          "date": 1641381050,
+          "editdate": 1641381053,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3186,
+            "date": 1641380618,
+            "from_id": {
+              "channel_id": 1552676093,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "... So she walked to the forest and stood with the trees\nShe heard the wind whisper and danced with the leaves\n\nShe spoke to the willow, \nthe elm and the pine,\nAnd she told them what she'd been told time after time. \n\nShe told them she felt she was never enough\nShe was either too little or far far too much\n\nToo loud or too quiet, \ntoo fierce or too weak. \nToo wise or too foolish, \ntoo bold or too meek. \n\nThen she found a small \nclearing surrounded by firs,\nAnd she stopped... \nAnd she heard \nWhat the trees said to her\n\nAnd she sat there for hours \nnot wanting to leave. \nFor the forest said nothing, \nit just let her breathe. \n\nAuthor: Becky Helmsley \nPhoto: Rob Howarth Photography\n\n❤️🙏🏼❤️\nThanks go out to Eric, who found this 2 piece gem 🥰",
+          "peerid": {
+            "channel_id": 1336605825,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Soraya Nadia",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1282293076,
+            "comments": true,
+            "max_id": 28428,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1365018070
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1411612104
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1580402919
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 41949
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 457,
+          "channelabout": "RedPill Videos"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5408433375599931815",
+        "_score": 3.995,
+        "_source": {
+          "archivedon": "2022-01-09 21:53:26.590449",
+          "channeltitle": "COVID-19 Up",
+          "channelusername": "COVID19Up",
+          "date": 1641409512,
+          "editdate": 1641418273,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 92,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 82,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 113,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.latimes.com/california/story/2022-01-04/l-a-county-suspends-criminal-trials-for-two-weeks-amid-omicron-surge"
+            },
+            {
+              "length": 61,
+              "offset": 383,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 876,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 876,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 919,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 919,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Los Angeles County Suspends Criminal Trials for Two Weeks Amid Omicron Surge\n\n🇺🇸@COVID19Up: Los Angeles County paused all criminal trials for two weeks beginning Wednesday (Jan. 5), as COVID-19 cases continue to surge across the region due to the Omicron variant.\n\nPresiding Judge Eric Taylor said trials will be paused until January 19, a delay that will allow court officials to “balance access to justice with local public safety needs.”\n\nThe news came a day after a panel of judges ordered the suspension of all federal trials in Los Angeles, Riverside and Orange counties. There was no timetable given for a return to normal operations in the federal court system.\n\nThe delays could prove to be a headache for prosecutors and court officials already trying to clear a massive case backlog caused by the first wave of the COVID-19 pandemic.\n\nJoin our 14k member chat:\n🗣@COVID1984Chat\n\nFollow our news channel:\n📡@COVID19Up",
+          "peerid": {
+            "channel_id": 1259249024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6094,
+          "channelabout": "A network of independent researchers from around the world united on providing the latest updates about COVID-19."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4804742260056928350",
+        "_score": 3.2731,
+        "_source": {
+          "archivedon": "2022-01-09 20:52:44.267512",
+          "channeltitle": "Freie Medien",
+          "channelusername": "FreieMedienTV",
+          "date": 1641408485,
+          "editdate": 1641408486,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 190,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 460,
+              "offset": 385,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 460,
+              "offset": 385,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 133,
+              "offset": 1262,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 1468,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/disclosetv/6337"
+            },
+            {
+              "length": 29,
+              "offset": 1530,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 1562,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 288,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇫🇷 Präsident Emmanuel Macron greift verbal ungeimpfte Franzosen an  \"Ich will sie wirklich ärgern. Und das werden wir auch weiterhin tun, bis zum bitteren Ende. Das ist die Strategie.\"‼️\n\nDieser Satz fiel am 4. Januar in einem Interview mit Le Parisien, welches nur mir kostenpflichtigem Abo zugänglich ist. Daraufhin erschien ein Podcast, dessen Beschreibung hier aufgeführt ist: \n\n\"Die Ungeimpften, ich habe große Lust, sie zu nerven\". Dieser Satz, den Emmanuel Macron am 4. Januar in einem langen Interview mit einer Gruppe von sieben Lesern und Leserinnen der Zeitung Le Parisien fallen ließ, sorgte für einen regelrechten Aufschrei, sobald er am frühen Abend bekannt wurde. In der Nationalversammlung empörten sich die Abgeordneten der Opposition darüber und weigerten sich, die Debatten über die Einführung des Impfpasses fortzusetzen.\n\nDie LR-Kandidatin Valérie Pécresse sagte, dass \"ein Präsident so etwas nicht sagen sollte\". Christiane Taubira kritisiert: \"Ein unentschuldbarer Fehler\", während der rechtsextreme Kandidat Eric Zemmour darin eine \"eingestandene, angenommene Grausamkeit\" sieht. Dieser bewusste Ausbruch des Staatschefs ist weit von einem einfachen Ausrutscher entfernt und markiert seinen Eintritt in den Präsidentschaftswahlkampf. \n\nhttps://podcasts.leparisien.fr/le-parisien-code-source/202201051809-emmerder-les-non-vaccines-les-coulisses-de-linterview-choc-d.html\n\nDas Macron, die ungeimpften Franzosen als Nichtbürger anprangerte, wie Disclose.tv berichtet, konnte noch nicht verifiziert werden.\n\nFreie Medien Kanal beitreten\n👉 t.me/FreieMedienTV",
+          "peerid": {
+            "channel_id": 1118691233,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 57959,
+          "channelabout": "Wir bringen die Stimmen, Infos und Meinungen der alternativen Medien auf eine Plattform & setzen Impulse. Prüft & recherchiert bevor ihr glaubt. NUR HIER ZENSURFREI! \n\n\nwww.fb.com/freiemedien2.0\nwww.fb.com/freiemedien3.0\nwww.freie-medien.tv"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5408433375599931801",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "2022-01-09 21:53:26.581166",
+          "channeltitle": "COVID-19 Up",
+          "channelusername": "COVID19Up",
+          "date": 1641364497,
+          "editdate": 1641421076,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 91,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 199,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thelocal.fr/20220104/macron-causes-stir-as-he-vows-to-pss-off-frances-unvaccinated/"
+            },
+            {
+              "length": 176,
+              "offset": 324,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 298,
+              "offset": 576,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 922,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.euronews.com/2022/01/04/france-breaks-another-covid-19-record-with-over-271-000-cases-in-24-hours"
+            },
+            {
+              "length": 25,
+              "offset": 1096,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 50,
+              "offset": 1139,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1245,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 1265,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 1430,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1430,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1473,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1473,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 97,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Macron Causes Stir as He Vows to “Piss Off” France’s Unvaccinated “to the Bitter End”\n\n🇫🇷@COVID19Up: French President Emmanuel Macron raised eyebrows and provoked shock on Tuesday (Jan. 4) when he warned unvaccinated people in France that he would purposely get on their nerves by limiting access to key aspects of life.\n\n“I don’t want to piss the French people off… But as for the non-vaccinated, I really want to piss them off. And we will continue to do this, to the end. This is the strategy,” he told the Le Parisien newspaper. The president added that this would mean “limiting as much as possible their access to activities in social life.\"\n\n\"You have to say to them: from January 15 you can no longer go to a restaurant, you can no longer go for a drink, you can no longer go for a coffee, you can no longer go to the theatre, you can no longer go to the cinema,\" he went on.\n\nMacron's remarks brought immediate condemnation from political rivals, including likely opponents in the upcoming election. Eric Zemmour and Marine Le Pen both criticized the president, Le Pen accusing him of \"persisting in division\" and of seeking to \"make the non-vaccinated second-class citizens.\"\n\nThe French parliament is currently debating turning the \"health pass\" into a \"vaccine pass\" which would prevent unvaccinated people from accessing most public indoor spaces, even with a negative SARS-CoV-2 test.\n\nJoin our 14k member chat:\n🗣@COVID1984Chat\n\nFollow our news channel:\n📡@COVID19Up",
+          "peerid": {
+            "channel_id": 1259249024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 10019,
+          "channelabout": "A network of independent researchers from around the world united on providing the latest updates about COVID-19."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6407494381271521359",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "2022-01-09 21:15:51.518345",
+          "channeltitle": "We Are Change",
+          "channelusername": "News4AChange",
+          "date": 1641389097,
+          "editdate": 1641390407,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 102,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 92,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 200,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thelocal.fr/20220104/macron-causes-stir-as-he-vows-to-pss-off-frances-unvaccinated/"
+            },
+            {
+              "length": 176,
+              "offset": 325,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 298,
+              "offset": 577,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 923,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.euronews.com/2022/01/04/france-breaks-another-covid-19-record-with-over-271-000-cases-in-24-hours"
+            },
+            {
+              "length": 25,
+              "offset": 1097,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 50,
+              "offset": 1140,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1246,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 1266,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 1431,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1431,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1474,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1474,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12697,
+            "date": 1641364497,
+            "from_id": {
+              "channel_id": 1259249024,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Macron Causes Stir as He Vows to “Piss Off” France’s Unvaccinated  “to the Bitter End”\n\n🇫🇷@COVID19Up: French President Emmanuel Macron raised eyebrows and provoked shock on Tuesday (Jan. 4) when he warned unvaccinated people in France that he would purposely get on their nerves by limiting access to key aspects of life.\n\n“I don’t want to piss the French people off… But as for the non-vaccinated, I really want to piss them off. And we will continue to do this, to the end. This is the strategy,” he told the Le Parisien newspaper. The president added that this would mean “limiting as much as possible their access to activities in social life.\"\n\n\"You have to say to them: from January 15 you can no longer go to a restaurant, you can no longer go for a drink, you can no longer go for a coffee, you can no longer go to the theatre, you can no longer go to the cinema,\" he went on.\n\nMacron's remarks brought immediate condemnation from political rivals, including likely opponents in the upcoming election. Eric Zemmour and Marine Le Pen both criticized the president, Le Pen accusing him of \"persisting in division\" and of seeking to \"make the non-vaccinated second-class citizens.\"\n\nThe French parliament is currently debating turning the \"health pass\" into a \"vaccine pass\" which would prevent unvaccinated people from accessing most public indoor spaces, even with a negative SARS-CoV-2 test.\n\nJoin our 14k member chat:\n🗣@COVID1984Chat\n\nFollow our news channel:\n📡@COVID19Up",
+          "peerid": {
+            "channel_id": 1491861041,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1441385526,
+            "comments": true,
+            "max_id": 338127,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1478905768
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1407775376
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1636637006
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 19,
+            "replies_pts": 561742
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2201,
+          "channelabout": "\"News is what somebody somewhere wants to suppress; all the rest is advertising.\"\n\nMerch:\n➔ TheBestPoliticalShirts.com\n➔ WeAreTheShirts.com\n\nMembers-only:\n➔ wearechange.org/donate\n➔ patreon.com/WeAreChange\n\nNewsletter:\n➔ bit.ly/3ijjAop"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5562338894382372010",
+        "_score": 3.0287,
+        "_source": {
+          "archivedon": "2022-03-02 16:57:32.606886",
+          "channeltitle": "G3 News",
+          "channelusername": "g3news",
+          "date": 1641392181,
+          "editdate": 1641392184,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 102,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 92,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 200,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thelocal.fr/20220104/macron-causes-stir-as-he-vows-to-pss-off-frances-unvaccinated/"
+            },
+            {
+              "length": 176,
+              "offset": 325,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 298,
+              "offset": 577,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 923,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.euronews.com/2022/01/04/france-breaks-another-covid-19-record-with-over-271-000-cases-in-24-hours"
+            },
+            {
+              "length": 25,
+              "offset": 1097,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 50,
+              "offset": 1140,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 13,
+              "offset": 1246,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 1266,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 1431,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1431,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1474,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1474,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12697,
+            "date": 1641364497,
+            "from_id": {
+              "channel_id": 1259249024,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Macron Causes Stir as He Vows to “Piss Off” France’s Unvaccinated  “to the Bitter End”\n\n🇫🇷@COVID19Up: French President Emmanuel Macron raised eyebrows and provoked shock on Tuesday (Jan. 4) when he warned unvaccinated people in France that he would purposely get on their nerves by limiting access to key aspects of life.\n\n“I don’t want to piss the French people off… But as for the non-vaccinated, I really want to piss them off. And we will continue to do this, to the end. This is the strategy,” he told the Le Parisien newspaper. The president added that this would mean “limiting as much as possible their access to activities in social life.\"\n\n\"You have to say to them: from January 15 you can no longer go to a restaurant, you can no longer go for a drink, you can no longer go for a coffee, you can no longer go to the theatre, you can no longer go to the cinema,\" he went on.\n\nMacron's remarks brought immediate condemnation from political rivals, including likely opponents in the upcoming election. Eric Zemmour and Marine Le Pen both criticized the president, Le Pen accusing him of \"persisting in division\" and of seeking to \"make the non-vaccinated second-class citizens.\"\n\nThe French parliament is currently debating turning the \"health pass\" into a \"vaccine pass\" which would prevent unvaccinated people from accessing most public indoor spaces, even with a negative SARS-CoV-2 test.\n\nJoin our 14k member chat:\n🗣@COVID1984Chat\n\nFollow our news channel:\n📡@COVID19Up",
+          "peerid": {
+            "channel_id": 1295082945,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 634,
+          "channelabout": "We are comprised of journalists, activists and researchers who wish to unite under the cause of free press and information access within independent media.\n\nG3GroupInc.com"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5686521886562161294",
+        "_score": 2.5338,
+        "_source": {
+          "archivedon": "2022-08-02 04:15:47.851714",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1641356311,
+          "editdate": 1641356657,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1501987455
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "That's a plus now days. We know by now that anyone who is banned, blocked, and deleted, from twitter, YouTube, and  Facebook and considered by the deep state to be conspirators are the only ones telling the truth. \n\nWe know for a fact that the rest have been bribed, demoralized, and brainwashed by the CCP like Joe and Hunter Biden, and well known Democrat politicians such as like Eric Swalwell, Ro Khanna, Tulsi Gabbard, Dianne Feinstein, and Richard Blumenthal ALL have been compromised they the Chicoms. I'd say more than 90% of the Democrats and 50% of the RINOS also have been. It's why they all hated Trump. He wasn't for sale.            \n\nI can't wait until all the facts all come out and All the Quack Doctors and Fauci are locked up together, killer. Then you 'll be happy to admit you were only a fake commie Troll playing Doctor! 😂\n\nGovernors Andrew Quomo, Gretchen Whitmer, Steve Sisolak  and N.J. Senator Murphy will go to prison for refusing the use of hydroxychloroquine early on. Andrew Quomo actually murdered 10s of 1000s of people by forcing COVID-19 patients back onto nursing homes to purposely infect others. There are hundreds of cases all over the country where they did them same.  As early as March 2020 out of 6,000 doctors with 15 options for \"treating\" the virus, and over 40 percent of them rated HCQ as the ‘most effective therapy\n\nSo in case the good patriots in here want to know more of the REAL facts about toll like you and your rotten lowlife left wing indoctrinated fools. Keep asking for it. All you Biden bootlikers know who you are! 😂  \n\nThat's just the tip of the iceberg. I've done 1000s of hours of research, read books and researched. While you've spent 15 hours, 7 days a week for months in here calling REAL Americans all the names and things that YOU actually are.\n\nNow quit wasting everyone's time  Jake and your computerized bots and trolls. The regulars are ALL on to you Quack Fake Jake! 😂😂😂😂",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 365111,
+            "reply_to_top_id": 365107
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1501987455,
+            "_v": 1,
+            "access_hash": -3.54507956935353e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dil52",
+            "id": 1501987455,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FFY75",
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595156524",
+        "_score": 2.0905,
+        "_source": {
+          "archivedon": "2022-01-09 22:04:56.809392",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641343824,
+          "editdate": 1641345143,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 154,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 3761,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 3901,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 20,
+              "offset": 3929,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 26,
+              "offset": 3961,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 3990,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 33,
+              "offset": 4004,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1064,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1403144373
+          },
+          "fwdfrom": {
+            "channel_post": 6298,
+            "date": 1639536998,
+            "from_id": {
+              "channel_id": 1518960967,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🔥🔥RESIGNATIONS🔥🔥\nFOR 2021 ARE OFF THE CHARTS\n\nThey are all going down! Nothing to see here they say – just a lot of coincidences on CEO resignations: https://www.resignation.info/list\n\nDec. 08\n2021Allegra Stratton\nAdviserGovernment of Great\nBritain\nUKafter leaked No 10 party video sparks outrageResignedDec. 07\n2021Doug Parker\nCEOAmerican Airlines\nUSAto be replaced by Robert IsomRetiredDec. 06\n2021George Cacioppo\nSenior VPSony Corp.\nUSAwas allegedly trying to arrange a meeting with a person claiming to be a 15-year-old boy, according to a video posted Dec. 3 by the YouTube channel People v. PredsFiredDec. 06\n2021Devin Nunes\nMemberU.S. Congress\nUSAwill become CEO at Trump Media & Technology GroupRetiredDec. 04\n2021Chris Cuomo\nHostCNN\nUSAamid a continuing inquiry into his efforts to help his brother, Andrew M. Cuomo, then the governor of New York, stave off sexual harassment accusationsFiredDec. 03\n2021Heinz Fassmann\nEducation MinisterGovernment of Austria\nAustriato be replaced by Martin PolaschekResignedDec. 02\n2021Alexander Schallenberg\nChancellorGovernment of Austria\nAustriaResignedDec. 02\n2021Leslie H. Wexner\nChairmanColumbus Partnership\nUSAResignedDec. 02\n2021Gernot Bluemel\nFinance MinisterGovernment of Austria\nAustriaResignedDec. 02\n2021Kenneth Gregor\nCFOAston Martin\nUKResignedDec. 01\n2021Peter DeFazio\nChairmanHouse Committee on Transportation\nand Infrastructure\nUSARetiredNov. 29\n2021Nov. 29\n2021Jack Dorsey\nCEOTwitter, Inc.\nUSAto be replaced by Parag AgrawalResignedNov. 29\n2021Brett Biggs\nCFOWalmart, Inc.\nUSAResignedNov. 29\n2021Barbara Sampson\nChiefNew York City Office\nof the Chief Medical\nExaminer\nUSAoversaw the autopsies of Eric Garner, Joan Rivers and Jeffrey EpsteinResignedNov. 20\n2021Emma Riley\nCommunications Chief of StaffWhite House\nUSAwill move to U.S. Department of LaborResignedNov. 03\n2021Zhang Yiming\nChairmanBytedance\nChinaBytedance owns TikTokResignedNov. 02\n2021Karen Fann\nPresidentArizona Senate\nUSARetiredNov. 01\n2021Jes Staley\nCEOBarclays plc\nUKto be replaced by C.S. VenkatakrishnanResignedOct. 20\n2021Jens Weidmann\nPresidentCentral Bank / Bundesbank\nGermanyResignedOct. 18\n2021Julian Reichelt\nEditor-in-ChiefAxel Springer SE\nGermanyEditor-in-Chief of BILDFiredOct. 11\n2021Terry Glebocki\nCEOOcean Casino Resort\nUSAResignedOct. 09\n2021Sebastian Kurz\nChancellorGovernment of Austria\nAustriato be replaced by Alexander Schallenberg\nafter pressure triggered by a corruption scandalResignedOct. 05\n2021Harold Koh\nU.S. State Department\nUSAAmid Expulsion of Haitian Migrants at Southern BorderResignedOct. 04\n2021Kelly Campbell\nPresidentHulu\nUSAResignedOct. 04\n2021Francis Collins\nDirectorNational Institutes\nof Health\nUSAResignedOct. 04\n2021John Barilaro\nDeputy PremierGovernment of New South\nWales\nAustraliaResignedOct. 03\n2021Andrew Constance\nTransport MinisterGovernment of New South\nWales\nAustraliaResignedOct. 01\n2021Gladys Berejiklian\nPremierGovernment of New South\nWales\nAustraliaResignedSep. 27\n2021Eric Rosengren\nPresidentFederal Reserve Bank\nof Boston\nUSARetiredSep. 27\n2021Robert Kaplan\nPresidentFederal Reserve Bank\nof Dallas\nUSARetiredSep. 23\n2021Daniel Foote\nU.S. special envoy to Haiti\nUSAResignedSep. 22\n2021Mike Schroepfer\nCTOFacebook, Inc.\nUSAto be replaced by Andrew BosworthResignedSep. 14\n2021Stephen Scherr\nCFOGoldman Sachs\nUSAto be replaced by Denis ColemanRetiredSep. 03\n2021Yoshihide Suga\nPrime MinisterGovernment of Japan\nJapanResignedAug. 19\n2021Alex Gorsky\nCEOJohnson & Johnson\nUSAwill become Chairman at Johnson & Johnson / to be replaced by Joaquin DuatoResigned Aug. 10\n2021Andrew Cuomo\nGovernorNew York\nUSAmultiple accusations of sexual harassmentResignedAug. 10\n2021Otoniel Navarrete\nState SenatorArizona\nUSAafter arrest in child sex abuse caseResigned.\n\nAnd many many more...\n\nGUANTANAMO BAY DETENTIONCENTER: \nDEATH PENALITY FOR CRIMES AGAINST HUMANITY\n\n🔥WHERE THEY COME ONE\n🔥THEY COME ALL\n🔥TO GITMO\n\nsupported by\n@GitmoTV\nin friendship with\n@TRIBUNALSforJUSTICE\npowered by\n@ExposeThePEDOSendTheCABAL\n@ #OnQueDailys\n\nhttps://www.resignation.info/list",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 982119,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 1467406
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1403144373,
+            "_media_ref": "bd59f2ba88c9a93d25006d08163a781b9c4165bb",
+            "_v": 1,
+            "access_hash": -3.91256329462423e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Damon",
+            "id": 1403144373,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 256531,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008000715
+              },
+              "photo_id": 5.08463118740578e+18,
+              "photo_small": {
+                "local_id": 256529,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008000715
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 56178,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

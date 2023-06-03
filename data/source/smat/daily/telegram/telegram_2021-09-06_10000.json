@@ -1,0 +1,2967 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [47],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [38],
+      "relation": ["eq"]
+    },
+    "max_score": [11.3587],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357608707",
+        "_score": 11.3587,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630965168,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1109510080
+          },
+          "message": "HT, what do you think about interviewing Eric Striker?",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 329333
+          },
+          "edithide": false,
+          "archivedon": "2021-09-06 22:17:11.371871",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5296533212497973907",
+        "_score": 10.8892,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630895946,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3352,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Real rebels: Eric Clapton, Van Morrison defy COVID-19 groupthink\n\nhttps://justthenews.com/politics-policy/coronavirus/real-rebels-eric-clapton-van-morrison-defy-covid-19-groupthink?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators\n\nSubscribe: @JustTheNewsReports",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1233195237
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 196,
+              "offset": 66,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 264,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 19,
+              "offset": 275,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 275,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 10,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-02 02:24:07.115224",
+          "channelabout": "Unofficial channel for JustTheNews.com - a nonpartisan news media brand based in Washington, D.C. committed to just reporting facts from journalists.",
+          "channeltitle": "Just The News",
+          "channelusername": "JustTheNewsReports",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "4599600813680117522",
+        "_score": 10.6965,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630961039,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 250,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Mayoral candidate Eric Adams wishing the Jewish community a Happy New Year.\n@YidInfo",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1070928018
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1219417644,
+            "replies_pts": 31432,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 76
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630960998,
+          "edithide": true,
+          "archivedon": "2021-09-06 21:24:27.510804",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6282626041160673987",
+        "_score": 10.544,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630889549,
+          "post": true,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "id": 5.12785630119585e+18,
+              "reformatted_key": "WebPageEmpty",
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1318,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Watch \"GOD on COVID: Eric Clapton's \"Disastrous\" Vaccine Experience\" on YouTube\nhttps://youtu.be/NVbt8wIKMEY",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1462787865
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 662789,
+            "replies": 2,
+            "comments": true,
+            "channel_id": 1214146098,
+            "replies_pts": 2381748,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 906882372
+              }
+            ]
+          },
+          "entities": [
+            {
+              "length": 28,
+              "offset": 80,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "date": 1630879663,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1323215510
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630889492,
+          "edithide": true,
+          "postauthor": "🇨🇦Sharon",
+          "archivedon": "1681663242",
+          "channelabout": "Real History, Inspiration, Health, Exposing Evil, The Word of God, Current events, Warriors Prayer 🔥⚔🔥",
+          "channeltitle": "Punisher Briefings",
+          "channelusername": "PunisherBriefings",
+          "id": 10947,
+          "noforwards": false,
+          "lastseents": "2023-04-16T16:40:42.920210",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5261285481051608128",
+        "_score": 10.0756,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630898503,
+          "post": false,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "id": 6.74026428606843e+18,
+              "reformatted_key": "WebPage",
+              "attributes": [],
+              "description": "Last week, I shared the real story of Eric Coomer and the award-winning fictional short story, I mean, opinionated editorial put out by Susan Dominus at the New York Times Magazine. This week, we a…",
+              "display_url": "asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common",
+              "hash": 0,
+              "photo": {
+                "access_hash": 2.83922701793072e+18,
+                "date": 1651129854,
+                "dc_id": 4,
+                "file_reference": "AGQqA5nW1wuFSf0iDwxmyV09Wf73",
+                "has_stickers": false,
+                "id": 6.00492818799537e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQo2cVGZIwSDIAR1Gai3vKxEedo75x+tOjgxuLEksc8MfSgBxljA4lX8xSpIr8Blz6A0eUvq/8A32aimi2/vVJOxTkFjz/nFKwEruc7E5Y/p9aKau9JFVY18s9weRxRTGLajFtFjuoNS0UUCCkIBGCMg0UUAQyxrFEzxqEIGfl4ooopoR8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 157,
+                    "size": 7518,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 314,
+                    "w": 640,
+                    "sizes": [2630, 6306, 9232, 12437, 20355]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "site_name": "Ashe in America",
+              "title": "The Ultimate Gaslight 2: What do Eric, Joe, Vodka Nance; the Kraken All Have in Common?",
+              "type": "photo",
+              "url": "https://asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common/"
+            }
+          },
+          "views": 44076,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1496045867
+          },
+          "message": "A very good writer, @asheinamerica, has put out another piece on Eric Coomer, the hag who wrote a gushing piece abt him, and other matters: \n\nhttps://asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1224988485
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 394732,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 14,
+              "offset": 20,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 120,
+              "offset": 142,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 130,
+          "fwdfrom": {
+            "channel_post": 2532,
+            "date": 1630866615,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1401661571
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1680475034",
+          "channelabout": "Welcome to Utah First Audit Chat. We are American Patriot owned and have joined together to Keep America First. Our mission is to educate Patriots on forensic Audits in America and State Election Integrity. Our home channel is @AmericaFirstAudits",
+          "channeltitle": "Utah First Audit Chat",
+          "channelusername": "UTAuditChat",
+          "id": 21568,
+          "noforwards": false,
+          "lastseents": "2023-04-02T22:37:14.450906",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.47224005673805e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680475034,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Valkyrie Washington",
+            "id": 1496045867,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ValkyrieWashington",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5031147715854190262",
+        "_score": 9.1361,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630960564,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 31921,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1546696549
+          },
+          "message": "💥BQQQQQQQM💥 THIS IS CRAZY - ERIC - B2T SHOW - DS CDC VACCINE INFO UPDATE! - THOUGHTS? 🇺🇸 SHARE WIDE AND FAR💥       👉FOLLOW Q 👈",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1171405361
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 141136,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Q_donaldtrump",
+              "length": 8,
+              "offset": 122
+            }
+          ],
+          "forwards": 981,
+          "fwdfrom": {
+            "channel_post": 571,
+            "date": 1630912216,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1529315593
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 21:31:21.089937",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6187891440706731064",
+        "_score": 9.1361,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630916657,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 4084,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1978214128
+          },
+          "message": "💥BQQQQQQQM💥 THIS IS CRAZY - ERIC - B2T SHOW - DS CDC VACCINE INFO UPDATE! - THOUGHTS? 🇺🇸 SHARE WIDE AND FAR💥       👉FOLLOW Q 👈",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1440730747
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 93308,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Q_donaldtrump",
+              "length": 8,
+              "offset": 122
+            }
+          ],
+          "forwards": 157,
+          "fwdfrom": {
+            "channel_post": 571,
+            "date": 1630912216,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1529315593
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 09:20:17.161545",
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357608119",
+        "_score": 8.7219,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630926658,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 5336,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 679195337
+          },
+          "message": "Feds Fund Satanic Cult\n\nWarren and Emily interview \"National Justice\" Editor-in-Chief Eric Striker on his groundbreaking investigative reporting on corruption within the FBI (Part 1 of 2)",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 372936,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 24,
+              "offset": 0
+            }
+          ],
+          "forwards": 98,
+          "fwdfrom": {
+            "channel_post": 106,
+            "date": 1630332696,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1149136314
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 11:15:55.793574",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357608120",
+        "_score": 8.7219,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630926668,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 4165,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 679195337
+          },
+          "message": "Corruption in the FBI\n\nWarren and Emily interview \"National Justice\" Editor-in-Chief Eric Striker on his groundbreaking investigative reporting on corruption within the FBI (Part 2 of 2).",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 372936,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 23,
+              "offset": 0
+            }
+          ],
+          "forwards": 38,
+          "fwdfrom": {
+            "channel_post": 110,
+            "date": 1630415904,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1149136314
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 11:15:55.795001",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357608565",
+        "_score": 8.7219,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630957151,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 5607,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1268172099
+          },
+          "message": "Feds Fund Satanic Cult\n\nWarren and Emily interview \"National Justice\" Editor-in-Chief Eric Striker on his groundbreaking investigative reporting on corruption within the FBI (Part 1 of 2)",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 373409,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 24,
+              "offset": 0
+            }
+          ],
+          "forwards": 103,
+          "fwdfrom": {
+            "channel_post": 106,
+            "date": 1630332696,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1149136314
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2042,
+            "saved_from_peer": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1268172099
+            }
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 20:18:51.160944",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357608566",
+        "_score": 8.7219,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630957151,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 4440,
+          "pinned": true,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1268172099
+          },
+          "message": "Corruption in the FBI\n\nWarren and Emily interview \"National Justice\" Editor-in-Chief Eric Striker on his groundbreaking investigative reporting on corruption within the FBI (Part 2 of 2).",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 23,
+              "offset": 0
+            }
+          ],
+          "forwards": 42,
+          "fwdfrom": {
+            "channel_post": 110,
+            "date": 1630415904,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1149136314
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2043,
+            "saved_from_peer": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1268172099
+            }
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 20:18:51.162355",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6462698025423732782",
+        "_score": 8.174,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630937770,
+          "post": true,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "id": 6.74026428606843e+18,
+              "reformatted_key": "WebPage",
+              "attributes": [],
+              "description": "Last week, I shared the real story of Eric Coomer and the award-winning fictional short story, I mean, opinionated editorial put out by Susan Dominus at the New York Times Magazine. This week, we a…",
+              "display_url": "asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common",
+              "hash": 0,
+              "photo": {
+                "access_hash": 2.83922701793072e+18,
+                "date": 1651129854,
+                "dc_id": 4,
+                "file_reference": "AGRExupupmXmrqxk3lAO2wqqLEL5",
+                "has_stickers": false,
+                "id": 6.00492818799537e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQo2cVGZIwSDIAR1Gai3vKxEedo75x+tOjgxuLEksc8MfSgBxljA4lX8xSpIr8Blz6A0eUvq/8A32aimi2/vVJOxTkFjz/nFKwEruc7E5Y/p9aKau9JFVY18s9weRxRTGLajFtFjuoNS0UUCCkIBGCMg0UUAQyxrFEzxqEIGfl4ooopoR8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 157,
+                    "size": 7518,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 314,
+                    "w": 640,
+                    "sizes": [2630, 6306, 9232, 12437, 20355]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "site_name": "Ashe in America",
+              "title": "The Ultimate Gaslight 2: What do Eric, Joe, Vodka Nance; the Kraken All Have in Common?",
+              "type": "photo",
+              "url": "https://asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common/"
+            }
+          },
+          "views": 362,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "This is one of the most complete and compelling articles about gaslighting and truth. https://asheinamerica.com/2021/09/04/the-ultimate-gaslight-2-what-do-eric-joe-vodka-nance-the-kraken-all-have-in-common/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1504714141
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1243107861,
+            "replies_pts": 34072,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 120,
+              "offset": 86,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "channel_post": 1199,
+            "date": 1630866157,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1486518721
+            },
+            "imported": false,
+            "post_author": "Joe Oltmann",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630937706,
+          "edithide": true,
+          "postauthor": "Erin Clements",
+          "archivedon": "1682231013",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "id": 46,
+          "noforwards": false,
+          "lastseents": "2023-04-23T06:23:33.639943",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5811551549939500817",
+        "_score": 8.0083,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630932835,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 5,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "https://m.youtube.com/watch?v=Y7G5CKX0je0\n\n- - \n\nQuellen \n\nEric Clapton 4 j Sohn tot\n\nhttps://de.m.wikipedia.org/wiki/Eric_Clapton\n\nUrsula Karven  4 j Sohn tot\n\nhttps://de.m.wikipedia.org/wiki/Ursula_Karven\n\n- - \n\nVideoclip mit Celin Dion Nunu\n\nhttps://m.youtube.com/watch?v=vSdSFKj-hOc",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353107288
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 41,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 86
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 45,
+              "offset": 161
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 41,
+              "offset": 245
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "date": 1630924776,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1161418863
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 13:26:55.009557",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "4972466879063936269",
+        "_score": 7.9282,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630897074,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 19979,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "​Governments Cracking Under the Weight of COVID-19 Bureaucracy\n\nBy: Eric Louw\n\nREAD: https://www.theepochtimes.com/governments-cracking-under-the-weight-of-covid-19-bureaucracy_3981358.html?utm_medium=epochtimes&utm_source=telegram\n\nThis is a premium article.\nSubscribe for $1 Today",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1157742664
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 650897,
+            "replies": 19,
+            "comments": true,
+            "channel_id": 1264301656,
+            "replies_pts": 1958930,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1798259953
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1122541483
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1959362390
+              }
+            ]
+          },
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://img.theepochtimes.com/assets/uploads/2021/09/05/20210809001565708182-original-min-1200x832.jpg"
+            },
+            {
+              "length": 61,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 64,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 146,
+              "offset": 85,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 233,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 22,
+              "offset": 260,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://subscribe.theepochtimes.com/p/?page=checkout-v5-03&plan_id=digitalonly_1usd_4_month_trial&cb_acc=theepochtimes&cf_plan_after_trial_ends=digitalonly_7_99_monthly&utm_medium=organic&utm_term=1for4&utm_source=telegram"
+            },
+            {
+              "length": 22,
+              "offset": 260,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630897063,
+          "edithide": true,
+          "archivedon": "2022-08-04 22:39:35.906367",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6644839097296749112",
+        "_score": 7.85,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630966762,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 73041,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1343874832
+          },
+          "message": "💥BQQQQQQQM💥 THIS IS CRAZY - ERIC - B2T SHOW - DS CDC VACCINE INFO UPDATE! - THOUGHTS? 🇺🇸 SHARE WIDE AND FAR💥       👉FOLLOW Q 👈\n\n⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1547122164
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 14437,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 8,
+              "offset": 122,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Q_donaldtrump"
+            },
+            {
+              "length": 90,
+              "offset": 138,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1813,
+          "fwdfrom": {
+            "channel_post": 571,
+            "date": 1630912216,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1529315593
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-03 09:25:03.093654",
+          "channeltitle": "Adelaide National Review",
+          "channelusername": "adelaidenationalreview",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 2.86456895965955e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Julie",
+            "id": 1343874832,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 444978,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500037500200
+              },
+              "photo_id": 6.09155894107607e+18,
+              "photo_small": {
+                "local_id": 444976,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500037500200
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1343874832,
+            "_media_ref": "2fc4be358d3e69c865425f1e3612c0852b195fee",
+            "restriction_reason": []
+          },
+          "mediaref": "28a6ade0e2ef52a13a8188af23599714a534b510"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6137290442422621974",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630938108,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 213,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Update: Eric Louis “Nina” Cohen, the transsexual antifa member who was charged with attempted murder, had her charge and bail downgraded. She’s now charged with assault with a deadly weapon & her bail is $60,000, not $1 m. Antifa are using @ CashSupport to fundraise for her.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1428949284
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3011,
+            "date": 1630897851,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630938101,
+          "edithide": true,
+          "groupedid": 1.30475048635909e+16,
+          "postauthor": "QHyer17",
+          "archivedon": "1681373980",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "id": 5910,
+          "noforwards": false,
+          "lastseents": "2023-04-13T08:19:40.815702",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "1b62dce156bd27f33a77ecc5c3e7b709a845fa54"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6137290442422621969",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630938108,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 210,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Steven Estrada, a Communist running for city council in Long Beach, calls attempted murder suspect Eric “Nina” Cohen a friend. Antifa groups are fundraising to get the antifa member out of jail. They call for murder & support those who kill or try to kill.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1428949284
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3006,
+            "date": 1630892441,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630938101,
+          "edithide": true,
+          "groupedid": 1.30475048635859e+16,
+          "postauthor": "QHyer17",
+          "archivedon": "1681373982",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "id": 5905,
+          "noforwards": false,
+          "lastseents": "2023-04-13T08:19:42.633075",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "6cf48cdd0838b922e43381495adb26323acf3b66"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6053850042588990398",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630892441,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 11270,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Steven Estrada, a Communist running for city council in Long Beach, calls attempted murder suspect Eric “Nina” Cohen a friend. Antifa groups are fundraising to get the antifa member out of jail. They call for murder & support those who kill or try to kill.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1409521802
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 30,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.3047139527967e+16,
+          "archivedon": "2022-08-05 11:35:52.10725",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "6cf48cdd0838b922e43381495adb26323acf3b66"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6053850042588990403",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630897851,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 24208,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Update: Eric Louis “Nina” Cohen, the transsexual antifa member who was charged with attempted murder, had her charge and bail downgraded. She’s now charged with assault with a deadly weapon & her bail is $60,000, not $1 m. Antifa are using @ CashSupport to fundraise for her.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1409521802
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 78,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30471828098106e+16,
+          "archivedon": "2022-08-05 11:35:51.795458",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "1b62dce156bd27f33a77ecc5c3e7b709a845fa54"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6168367494336614945",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630952461,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1773,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "— New Ngo report: \"Trantifa\" porn star @CashOutChloe1 is among many fundraising for Long Beach antifa member Eric \"Nina\" Cohen, who is jailed on suspicion of stabbing a Latino man & lacerating his heart. Chloe says she'll send videos to those who donate.  thepostmillennial.com/trantifa-porn-…\n\n@TGNewsU",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1436184974
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 777,
+            "replies_pts": 0,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 14,
+              "offset": 39,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 37,
+              "offset": 256,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://thepostmillennial.com/trantifa-porn-star-raises-money-for-los-angeles-antifa-member-accused-of-nearly-killing-a-latino-man-with-a-knife?utm_campaign=64470"
+            },
+            {
+              "length": 8,
+              "offset": 295,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1634557953,
+          "edithide": false,
+          "archivedon": "2022-03-02 00:18:18.682947",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5354447101273151422",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630897870,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 32,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Update: Eric Louis “Nina” Cohen, the transsexual antifa member who was charged with attempted murder, had her charge and bail downgraded. She’s now charged with assault with a deadly weapon & her bail is $60,000, not $1 m. Antifa are using @ CashSupport to fundraise for her.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 279056,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 2,
+          "fwdfrom": {
+            "channel_post": 3011,
+            "date": 1630897851,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630897848,
+          "edithide": true,
+          "groupedid": 1.30471829638262e+16,
+          "archivedon": "2021-09-06 03:36:16.448987",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5731274857375603418",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630898183,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 25,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Update: Eric Louis “Nina” Cohen, the transsexual antifa member who was charged with attempted murder, had her charge and bail downgraded. She’s now charged with assault with a deadly weapon & her bail is $60,000, not $1 m. Antifa are using @ CashSupport to fundraise for her.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1334416414
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3011,
+            "date": 1630897851,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.3047185465901e+16,
+          "archivedon": "2021-09-06 04:06:21.372768",
+          "channelabout": "The official channel of the PROUD BOYS in Spokane WA, North Idaho, And Missoula Montana.",
+          "channeltitle": "PB SPOKANE/CDA/MISSOULA",
+          "channelusername": "pbspokanecda",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5354447101273151385",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630892444,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 94,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Steven Estrada, a Communist running for city council in Long Beach, calls attempted murder suspect Eric “Nina” Cohen a friend. Antifa groups are fundraising to get the antifa member out of jail. They call for murder & support those who kill or try to kill.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 279012,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3006,
+            "date": 1630892441,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630892419,
+          "edithide": true,
+          "groupedid": 1.3047139558269e+16,
+          "archivedon": "2021-09-06 02:36:22.723436",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5383614434633613303",
+        "_score": 7.484,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630894888,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 69,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Steven Estrada, a Communist running for city council in Long Beach, calls attempted murder suspect Eric “Nina” Cohen a friend. Antifa groups are fundraising to get the antifa member out of jail. They call for murder & support those who kill or try to kill.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1253470414
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3006,
+            "date": 1630892441,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30471591097612e+16,
+          "archivedon": "2021-09-06 02:56:08.882717",
+          "channelabout": "$6ME AMC DOGE Melvin Capital NazBol stan account, opinions are my own, shares are not endorsements, everything posted here is based on satire and/or parody",
+          "channeltitle": "Mexizzachet’s Caravan Tours",
+          "channelusername": "mexizzachet2077",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6137290442422621962",
+        "_score": 7.3483,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630938108,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 201,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen, a transsexual antifa member, was arrested & charged w/attempted murder in connection w/the stabbing of a Latino man during a riot. Her sister Rebecca Marie Cohen & mother are speaking out in support of her & says Cohen was misgendered & should be kept w/women.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1428949284
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 2999,
+            "date": 1630888833,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630938101,
+          "edithide": true,
+          "groupedid": 1.30475048635785e+16,
+          "postauthor": "QHyer17",
+          "archivedon": "1681373986",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "id": 5898,
+          "noforwards": false,
+          "lastseents": "2023-04-13T08:19:46.459425",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "fd5b24846c34096d1d9201e432575562fac2c42f"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6053850042588990391",
+        "_score": 7.3483,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630888833,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 9333,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen, a transsexual antifa member, was arrested & charged w/attempted murder in connection w/the stabbing of a Latino man during a riot. Her sister Rebecca Marie Cohen & mother are speaking out in support of her & says Cohen was misgendered & should be kept w/women.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1409521802
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 13,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30471106649872e+16,
+          "archivedon": "2022-08-05 11:35:52.26381",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "fd5b24846c34096d1d9201e432575562fac2c42f"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5354447101273151366",
+        "_score": 7.3483,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630888855,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 132,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen, a transsexual antifa member, was arrested & charged w/attempted murder in connection w/the stabbing of a Latino man during a riot. Her sister Rebecca Marie Cohen & mother are speaking out in support of her & says Cohen was misgendered & should be kept w/women.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 172301,
+            "replies": 2,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 278967,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1535024494
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1477523970
+              }
+            ]
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 2999,
+            "date": 1630888833,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630888819,
+          "edithide": true,
+          "groupedid": 1.30471108415563e+16,
+          "archivedon": "2021-09-06 01:38:01.588894",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6137290442422621966",
+        "_score": 7.2181,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630938108,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 200,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen is accused of stabbing a Hispanic man in the upper chest & lacerating his heart & puncturing his lung. The victim nearly died. Cohen was arrested previously at an antifa riot outside the Wi Spa. After the stabbing, she dyed her hair from blonde to dark purple.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1428949284
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3003,
+            "date": 1630890637,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630938101,
+          "edithide": true,
+          "groupedid": 1.30475048635821e+16,
+          "postauthor": "QHyer17",
+          "archivedon": "1681373984",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "id": 5902,
+          "noforwards": false,
+          "lastseents": "2023-04-13T08:19:44.156670",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "fc3d93ac520b6a8450a9e65cf5a2615a6fc216df"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6053850042588990395",
+        "_score": 7.2181,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630890637,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 9579,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen is accused of stabbing a Hispanic man in the upper chest & lacerating his heart & puncturing his lung. The victim nearly died. Cohen was arrested previously at an antifa riot outside the Wi Spa. After the stabbing, she dyed her hair from blonde to dark purple.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1409521802
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 16,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30471250976514e+16,
+          "archivedon": "2022-08-05 11:35:52.066304",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "mediaref": "fc3d93ac520b6a8450a9e65cf5a2615a6fc216df"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6168367494336614934",
+        "_score": 7.2181,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630888928,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 770,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "— Eric \"Nina\" Cohen, a transsexual antifa member, was arrested & charged w/attempted murder in connection w/the stabbing of a Latino man during a riot. Her sister Rebecca Marie Cohen & mother are speaking out in support of her & says Cohen was misgendered & should be kept w/women.\n\n@TGNewsU",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1436184974
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 777,
+            "replies_pts": 0,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 8,
+              "offset": 283,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 7,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1634557953,
+          "edithide": true,
+          "archivedon": "2022-03-02 00:18:18.667883",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5354447101273151370",
+        "_score": 7.2181,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630890661,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 70,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric \"Nina\" Cohen is accused of stabbing a Hispanic man in the upper chest & lacerating his heart & puncturing his lung. The victim nearly died. Cohen was arrested previously at an antifa riot outside the Wi Spa. After the stabbing, she dyed her hair from blonde to dark purple.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 278967,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 3003,
+            "date": 1630890637,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409521802
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630890615,
+          "edithide": true,
+          "groupedid": 1.30471252885718e+16,
+          "archivedon": "2021-09-06 01:38:01.591924",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6670191361532100929",
+        "_score": 6.7469,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630902349,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 21,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Opinion by Eric Louw\n\nWhat we have seen around the globe over the past year with the advent of #COVID19, is that the “elites” have been presented with the perfect excuse to begin building the real mechanisms of #socialcontrol and management. \n\nhttps://www.theepochtimes.com/governments-cracking-under-the-weight-of-covid-19-bureaucracy_3981358.html?utm_campaign=socialshare_telegram&utm_source=t.me",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1553024948
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 8,
+              "offset": 95,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 14,
+              "offset": 211,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 154,
+              "offset": 244,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630902329,
+          "edithide": true,
+          "archivedon": "2022-08-03 14:45:27.331777",
+          "channelabout": "Australian edition of the Epoch Times. An independent voice in print & online news. Integrity & truthfulness in reporting.\n\nhttps://www.theepochtimes.com/australia",
+          "channeltitle": "Epoch Times Australia",
+          "channelusername": "EpochTimesAU",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5259698924427419583",
+        "_score": 6.7469,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630959974,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 314,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "TRANS ANTIFA PORN SLUT SELLS VIDEOS OF HER MANHOOD TO RAISE MONEY FOR THE BAIL OF A #LosAngeles #FarLeftExtremist CHARGED WITH ATTEMPTED MURDER.\n\nChloe, who boasts about having a \"girl dick\" and has previously been permanently suspended on Twitter, promises to share pornographic content with donors to Eric Cohen's Cash App campaign. Full story https://t.me/AntifaPublicWatch/8085?single",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1224619086
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 134646,
+            "replies": 7,
+            "comments": true,
+            "channel_id": 1296269793,
+            "replies_pts": 288014,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1622549367
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1276940341
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1411341268
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 11,
+              "offset": 84
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 17,
+              "offset": 96
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 42,
+              "offset": 346
+            }
+          ],
+          "forwards": 7,
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630960027,
+          "edithide": false,
+          "groupedid": 1.30476797962818e+16,
+          "archivedon": "2021-09-06 20:47:50.532062",
+          "channelabout": "We are against those that call themselves ANTIFASCIST as a smoke screen to shut down FREE SPEECH.",
+          "channeltitle": "Antifa Public Watch ( Anti-Antifa )",
+          "channelusername": "AntifaPublicWatch",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6230984483969966151",
+        "_score": 6.7469,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630960066,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 50,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "TRANS ANTIFA PORN SLUT SELLS VIDEOS OF HER MANHOOD TO RAISE MONEY FOR THE BAIL OF A #LosAngeles #FarLeftExtremist CHARGED WITH ATTEMPTED MURDER.\n\nChloe, who boasts about having a \"girl dick\" and has previously been permanently suspended on Twitter, promises to share pornographic content with donors to Eric Cohen's Cash App campaign. Full story https://t.me/AntifaPublicWatch/8085?single",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1450764128
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1337854631,
+            "replies_pts": 153158,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 11,
+              "offset": 84
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 17,
+              "offset": 96
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 42,
+              "offset": 346
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 8127,
+            "date": 1630959974,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1224619086
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "editdate": 1630960009,
+          "edithide": true,
+          "groupedid": 1.30476805283796e+16,
+          "postauthor": "Antifa Public Watch ( Anti Antifa )",
+          "archivedon": "2021-09-06 21:15:27.687695",
+          "channelabout": "Sign up on my website \nwww.leegarrett-thetruth.com\n\nDaily uploads on my YouTube also\n\nhttps://youtube.com/channel/UCcaqZBIckXHYudQZwBy6fXA",
+          "channeltitle": "LeeGarrett-TheTruth News",
+          "channelusername": "leegarrettchannel",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5383614434633613328",
+        "_score": 6.5371,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630935210,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 22,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "The mother of Jewish antifa parasite Eric Cohen, is concerned her \"daughter\" is going to be sent to a men's prison.  Cohen was arrested for stabbing a man when the Jewish antifa militia he was with, attacked people at an anti-mask mandate rally in LA.  Now his mom is trying to get her freak son into a women's prison.\n\n@TheWesternChauvinist.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1253470414
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 320
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 12700,
+            "date": 1630881983,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30474816770598e+16,
+          "archivedon": "2021-09-06 13:48:13.726025",
+          "channelabout": "$6ME AMC DOGE Melvin Capital NazBol stan account, opinions are my own, shares are not endorsements, everything posted here is based on satire and/or parody",
+          "channeltitle": "Mexizzachet’s Caravan Tours",
+          "channelusername": "mexizzachet2077",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5261285481051608273",
+        "_score": 4.4095,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630945748,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 10376,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1496045867
+          },
+          "message": "Because you obviously don't have enough on your mind...\n\nThis is a link I hadn’t found on a voter fraud cabal I’ve been researching for a long time. I hadn’t heard of E.R.I.C. before.\nLet’s start by looking at the board of ERIC\nhttps://ericstates.org/who-we-are/\nMany are members of the NASED or National Association of State Election Directors. \nhttps://nased-option3.squarespace.com/board\n\nLet’s start at the top, have a look at the members of the board at Fair Elections Center “a national, non-profit voting rights and -election reform organization-” they represent the cream of the crop of racial identity politics and even a couple from Planned Parenthood, feel free to research these “pillars of racial justice” in more detail on your own, you will not like what you find. \n\nhttps://www.fairelectionscenter.org/board\n\nTrickling down let’s move on to Power The Polls, have a look through their partners notable mentions include at the very top - Fair Elections Center\n-United Way a division of the United Nations\n-NAACP\n-AFL-CIO\n-Twitter\n- Black Lives Matter\nThere are many others, feel free to go through the list, but also notice at the bottom of the page it says “Powered by Work Elections” Work Elections is a project of you guessed it Fair Elections Center.\n\nhttps://www.powerthepolls.org/partners\n\nLet’s have a look at the Work Elections site now, in particular let’s look at the “States” tab. \nPlease note this tab can be a useful tool as it aggregates all of the counties registrars in the entire US\n***An incredibly useful tool for a Conservative digital resistance and the work was done by our opponents for us.\n\nhttps://workelections.com/states/\n\nHow much to get paid to \"volunteer\" as a poll worker...\nUsing this tool let’s just take a little look at a couple Virginia localities:\nFairfax City - $150-$200/day\nAlexandria City - $125-$225/day $25 for training\nGloucester County - $75/day\n\nOK so back to ERIC/NASED here is an internal but not private video from a conference they had August 8th-9th 2021 if you jump to 1:35 you will see their first speaker, guess what it’s a representative from Work Elections.\nhttps://www.youtube.com/watch?v=9WAf3_yrND0\n\nSo in summation the far left organization Fair Elections Center is giving the lectures for the members of ERIC/NASED.\n\nhttps://www.democracy.works/our-funders\n\nNow consider these same groups are rolling out smart phone voting.\nhttps://voatz.com/partners-and-affiliates/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1224988485
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 394732,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 34,
+              "offset": 228,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 347,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 41,
+              "offset": 782,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 1270,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 1629,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 2128,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 39,
+              "offset": 2292,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 42,
+              "offset": 2400,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 165,
+          "fwdfrom": {
+            "date": 1630932551,
+            "from_id": {},
+            "from_name": "nostinkinroads",
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1680475034",
+          "channelabout": "Welcome to Utah First Audit Chat. We are American Patriot owned and have joined together to Keep America First. Our mission is to educate Patriots on forensic Audits in America and State Election Integrity. Our home channel is @AmericaFirstAudits",
+          "channeltitle": "Utah First Audit Chat",
+          "channelusername": "UTAuditChat",
+          "id": 21713,
+          "noforwards": false,
+          "lastseents": "2023-04-02T22:37:14.356389",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.47224005673805e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680475034,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Valkyrie Washington",
+            "id": 1496045867,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ValkyrieWashington",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6853651366322136745",
+        "_score": 4.4095,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630947529,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 10377,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1403237458
+          },
+          "message": "Because you obviously don't have enough on your mind...\n\nThis is a link I hadn’t found on a voter fraud cabal I’ve been researching for a long time. I hadn’t heard of E.R.I.C. before.\nLet’s start by looking at the board of ERIC\nhttps://ericstates.org/who-we-are/\nMany are members of the NASED or National Association of State Election Directors. \nhttps://nased-option3.squarespace.com/board\n\nLet’s start at the top, have a look at the members of the board at Fair Elections Center “a national, non-profit voting rights and -election reform organization-” they represent the cream of the crop of racial identity politics and even a couple from Planned Parenthood, feel free to research these “pillars of racial justice” in more detail on your own, you will not like what you find. \n\nhttps://www.fairelectionscenter.org/board\n\nTrickling down let’s move on to Power The Polls, have a look through their partners notable mentions include at the very top - Fair Elections Center\n-United Way a division of the United Nations\n-NAACP\n-AFL-CIO\n-Twitter\n- Black Lives Matter\nThere are many others, feel free to go through the list, but also notice at the bottom of the page it says “Powered by Work Elections” Work Elections is a project of you guessed it Fair Elections Center.\n\nhttps://www.powerthepolls.org/partners\n\nLet’s have a look at the Work Elections site now, in particular let’s look at the “States” tab. \nPlease note this tab can be a useful tool as it aggregates all of the counties registrars in the entire US\n***An incredibly useful tool for a Conservative digital resistance and the work was done by our opponents for us.\n\nhttps://workelections.com/states/\n\nHow much to get paid to \"volunteer\" as a poll worker...\nUsing this tool let’s just take a little look at a couple Virginia localities:\nFairfax City - $150-$200/day\nAlexandria City - $125-$225/day $25 for training\nGloucester County - $75/day\n\nOK so back to ERIC/NASED here is an internal but not private video from a conference they had August 8th-9th 2021 if you jump to 1:35 you will see their first speaker, guess what it’s a representative from Work Elections.\nhttps://www.youtube.com/watch?v=9WAf3_yrND0\n\nSo in summation the far left organization Fair Elections Center is giving the lectures for the members of ERIC/NASED.\n\nhttps://www.democracy.works/our-funders\n\nNow consider these same groups are rolling out smart phone voting.\nhttps://voatz.com/partners-and-affiliates/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1595740059
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 116309,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 34,
+              "offset": 228,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 347,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 41,
+              "offset": 782,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 1270,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 33,
+              "offset": 1629,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 2128,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 39,
+              "offset": 2292,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 42,
+              "offset": 2400,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 165,
+          "fwdfrom": {
+            "date": 1630932551,
+            "from_id": {},
+            "from_name": "nostinkinroads",
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1682841595",
+          "channelabout": "Welcome to the Tennessee Audit Chat. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite & educate Patriots on forensic audits in Tennessee and State Election Integrity.",
+          "channeltitle": "Tennessee Audit Chat",
+          "channelusername": "TNAuditChat",
+          "id": 26281,
+          "noforwards": false,
+          "lastseents": "2023-04-30T07:59:55.423634",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -1.68677025854728e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682841595,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Alan",
+            "id": 1403237458,
+            "is_self": false,
+            "last_name": "Fanning",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 5.17049681353754e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIT7Qv2cnbzn1ooorT2MOwvay7nw=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Free_by_Design",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "collected_by": "crawler",
+          "url": "t.me/TNAuditChat/26281"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6164523661815522817",
+        "_score": 3.7885,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1630915846,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1402714168
+          },
+          "message": "With the narrative difference between the first two films, the third production can continue with a time jump to merge the characters of the two. Like the ‘Underworld’ and the ‘X-Men’ series, the third film might also continue as the sequel of ‘The Snow White and The Huntsman’. The first film saw Queen Raveena being mortally wounded, which means that that third might not feature the villain unless the film tries to jump timelines or utilize the tool of fantasy to revisit her character. Similarly, with Queen Freya also succumbing to her injuries, there is not much future for her as well.\n\nGiven how the first two have gone forward, it is safe to assume that the third film would delve into the character of Huntsman. While the first was closer to the source material and focused on the relationship between Snow White and the evil queen, the second one dealt with the character arc of the Huntsman. ‘The Huntsman 3’ can also indulge in the adventures of Eric and Sara.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1435290012
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 92061,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-09-06 08:22:01.81029",
+          "channelabout": "News tracker and discussion group on everything Q\n\nUs On Gab:\nhttps://gab.com/groups/17269\n\nQResearch Board:\nhttps://8kun.top/qresearch\nhttps://8kun.top/projectdcomms\n\nTools:\nhttps://qagg.news\nhttps://qanon.pub\n\nResignations:\nhttps://www.resignation.info",
+          "channeltitle": "QAnon Australia/NZ",
+          "channelusername": "qanonausnz",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

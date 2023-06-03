@@ -1,0 +1,1380 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [50],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [16],
+      "relation": ["eq"]
+    },
+    "max_score": [40.9916],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "7480551067793492557",
+        "_score": 40.9916,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1683420482",
+          "channelabout": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government.",
+          "channeltitle": "Judicial Watch",
+          "channelusername": "JudicialWatch",
+          "collected_by": "crawler",
+          "date": 1680882950,
+          "editdate": 1680883480,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 52,
+              "offset": 170,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.judicialwatch.org/whats-wrong-with-eric/"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 2637,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Micah Morrison",
+              "description": "Republican-leaning states are bailing out of the reputedly non-partisan Electronic Registration Information Center (ERIC) and the media are in an uproar. National Public Radio declares that ERIC is a victim of a “far right…disinformation campaign.” The New York Times warns that ERIC is under attack from “election deniers.” The very “backbone of American elections is being upended,” says Politico.",
+              "display_url": "judicialwatch.org/whats-wrong-with-eric",
+              "hash": 0,
+              "id": 6.76751257642761e+18,
+              "photo": {
+                "access_hash": -3.73541952812854e+18,
+                "date": 1680882946,
+                "dc_id": 4,
+                "file_reference": "AGRW9FtYoVb44psiQQVI0mU/gJXR",
+                "has_stickers": false,
+                "id": 5.87427265862603e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUoqFjuPzHqf4j/AIUu44++f++j/hU6Wm/5g+M08WXKgv1OByaAK672bhyc9PnP+Fa0MY+zpkAnHJqsbUc55I9zVi3OyFAuAvP86QFTyibmUPEu3sdg/nRVqRxuxnk0UwMUSuBnJpfPf+8fzoopGiSF86Qchj/n/wDXThczKgCyED0oopDshrXMnlNk5Yn72eRRRRTIZw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 167,
+                    "size": 21139,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 418,
+                    "size": 94302,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 627,
+                    "w": 1200,
+                    "sizes": [11574, 33030, 67838, 99594, 154783]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Judicial Watch",
+              "title": "What’s Wrong with ERIC? Judicial Watch Study Details Left-Leaning Roots, Data Security Concerns, Possible Violations of Federal Law at the Electronic Registration Information Center - Judicial Watch",
+              "type": "photo",
+              "url": "https://www.judicialwatch.org/whats-wrong-with-eric/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "NEW: Republican-leaning states are bailing out of the reputedly non-partisan Electronic Registration Information Center (ERIC) and the media are in an uproar. READ MORE: https://www.judicialwatch.org/whats-wrong-with-eric/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1741701520,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 41,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 6,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "url": "t.me/JudicialWatch/2637",
+          "v": 1,
+          "views": 1368,
+          "lastseents": "2023-05-07T00:48:02.867250",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5666652568986707317",
+        "_score": 13.0273,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-04-12 04:42:59.542018",
+          "channelabout": "Bewusstwerdung \nImagozellenandockstelle\n\nPartnerkanäle:\n🍃💫🍃 Geheimnis der Gesundheit \nt.me/Geheimnis_Gesundheit\n \nOH!TV \nt.me/OHTVnews\n\nZuversicht\nt.me/dieZuversicht",
+          "channeltitle": "PLATT FORM",
+          "channelusername": "join_PLATT_FORM_now",
+          "collected_by": "io2es",
+          "date": 1680893256,
+          "editdate": 1680953626,
+          "edithide": true,
+          "entities": [],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3018,
+            "date": 1645639143,
+            "from_id": {
+              "channel_id": 1493517302,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 5.66665256898671e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Flache Erde Eric Dubay zu Donald Trump",
+          "peerid": {
+            "channel_id": 1319370365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "url": "t.me/join_PLATT_FORM_now/124277",
+          "v": 1,
+          "views": 245,
+          "lastseents": "2023-05-08T23:13:09.711997",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6094192163596101071",
+        "_score": 12.5755,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-04-12 03:49:37.332614",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "collected_by": "io2es",
+          "date": 1680835587,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1594193543
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6.0941921635961e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "You already did Eric Holder treason gets you a tribunal!",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1918150
+          },
+          "silent": false,
+          "url": "t.me/QStorm1111/1926607",
+          "v": 1,
+          "lastseents": "2023-05-08T23:04:46.141206",
+          "userinfo": {
+            "_id": 1594193543,
+            "_v": 1,
+            "access_hash": 6.87533833136398e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Valerie",
+            "id": 1594193543,
+            "is_self": false,
+            "last_name": "Donovan",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5666652568986707291",
+        "_score": 11.7665,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-04-12 04:42:59.658144",
+          "channelabout": "Bewusstwerdung \nImagozellenandockstelle\n\nPartnerkanäle:\n🍃💫🍃 Geheimnis der Gesundheit \nt.me/Geheimnis_Gesundheit\n \nOH!TV \nt.me/OHTVnews\n\nZuversicht\nt.me/dieZuversicht",
+          "channeltitle": "PLATT FORM",
+          "channelusername": "join_PLATT_FORM_now",
+          "collected_by": "io2es",
+          "date": 1680870017,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 35,
+              "offset": 62,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 26039,
+            "date": 1586634994,
+            "from_id": {
+              "channel_id": 1319370365,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 5.66665256898671e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Idle - \"Always Look On The Bright Side Of Life\" \n\n🎥 YT: www.youtube.com/watch?v=SJUhlRoBL8M",
+          "peerid": {
+            "channel_id": 1319370365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "url": "t.me/join_PLATT_FORM_now/124251",
+          "v": 1,
+          "views": 226,
+          "lastseents": "2023-05-08T23:13:09.704037",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6086674381688673892",
+        "_score": 8.4632,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-04-12 06:03:40.213597",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "collected_by": "io2es",
+          "date": 1680844671,
+          "editdate": 1680844677,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 240,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 90,
+              "offset": 245,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 42758,
+            "date": 1680814883,
+            "from_id": {
+              "channel_id": 1559440810,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 6.08667438168867e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "⚫️ NYC Mayor Eric Adams reveals just TEN criminals make up nearly FIVE HUNDRED arrests since bail reform and SIX are still roaming the streets (but he won't tell you who they are)\n\nScroll down to see the crimes and unbelievable release-record:\n\nhttps://www.dailymail.co.uk/news/article-11078153/10-NYC-criminals-nearly-500-arrests.html",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1434445
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/AzazelNews/398948",
+          "v": 1,
+          "views": 377,
+          "lastseents": "2023-05-08T23:12:06.326801",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6053850042588992659",
+        "_score": 8.1184,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-04-13 10:54:37.033763",
+          "channelabout": "Editor-at-large at The Post Millennial. Unmask antifa in my new book: https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059561/\n\nandy-ngo.com",
+          "channeltitle": "Andy Ngô",
+          "channelusername": "Andy_Ngo",
+          "collected_by": "io2es",
+          "date": 1680891136,
+          "editdate": 1680891155,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 132,
+              "offset": 268,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6.05385004258899e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "On April 5, 2023, I spoke at a Paris conference about Antifa organized by the conservative French party, RECONQUÊTE, led by Eric Zemmour. The party's campaign events and attendees have been repeatedly violently attacked by Antifa extremists across France. Watch full: https://ngo.locals.com/post/3812572/andy-ngo-speaks-at-paris-conference-about-antifa-andy-ngo-prend-la-parole-la-conf-rence-sur-anti",
+          "peerid": {
+            "channel_id": 1409521802,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Andy_Ngo/5267",
+          "v": 1,
+          "views": 5515,
+          "lastseents": "2023-05-08T23:13:04.230093",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "07cbaaa7bfabe49c800482dfa3e6c0c40976f95e"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5354447101273420437",
+        "_score": 8.1184,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1684005351",
+          "channelabout": "Patriot News & Current Events #MAGA 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideo: youtube.com/pookzta\nMap: http://bit.ly/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "collected_by": "crawler",
+          "date": 1680891137,
+          "editdate": 1680891141,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 132,
+              "offset": 268,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5267,
+            "date": 1680891136,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 373397,
+          "media": {
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "access_hash": 9.15917225649127e+18,
+              "attributes": [
+                {
+                  "duration": 78,
+                  "h": 720,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": false,
+                  "w": 1280
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "preview clip.mp4"
+                }
+              ],
+              "date": 1680891136,
+              "dc_id": 1,
+              "file_reference": "AkpO0UUABbKVZF/h4w+5mmhQk54byx65QK3w+uk=",
+              "id": 5.00833082664813e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 68007849,
+              "thumbs": [
+                {
+                  "bytes": "ARYopiVDyDTicKT1wKqxPtzVlTlcgZFIYqJKI/N8wH/YxUr/AHTS27kITjHHSmSZCH6UhkHaim56UUhkYCxN+8XeD2BxVqKRMbRHgdfvUUVZApnVZQnl9x/F60+V1CnKZHpuoooYIqllLDauPbOaKKKkow==",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 7203,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false
+          },
+          "message": "On April 5, 2023, I spoke at a Paris conference about Antifa organized by the conservative French party, RECONQUÊTE, led by Eric Zemmour. The party's campaign events and attendees have been repeatedly violently attacked by Antifa extremists across France. Watch full: https://ngo.locals.com/post/3812572/andy-ngo-speaks-at-paris-conference-about-antifa-andy-ngo-prend-la-parole-la-conf-rence-sur-anti",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1221222
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/PatriotArmy/373397",
+          "v": 1,
+          "views": 50,
+          "lastseents": "2023-05-13T19:15:51.131449",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5986031576977249344",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681244427",
+          "channelabout": "❗Donald Trump channel",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1680870795,
+          "editdate": 1680902347,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 5184,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 52,
+          "lastseents": "2023-04-11T20:20:28.470305",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5764665659711563904",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1680903172",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1680871118,
+          "editdate": 1680871123,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10368,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27913
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 76,
+          "lastseents": "2023-04-07T21:43:49.773711",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6180757598812249755",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681543849",
+          "channelabout": "",
+          "channeltitle": "Jim Jordan",
+          "channelusername": "Jordan_Jim",
+          "date": 1680870994,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 7835,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1439069770,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 76,
+          "lastseents": "2023-04-15T07:30:49.715694",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "4902471006767032908",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683717889",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "collected_by": "crawler",
+          "date": 1680871131,
+          "editdate": 1680911789,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10828,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Ivanka_Trump1/10828",
+          "v": 1,
+          "views": 30,
+          "lastseents": "2023-05-10T11:24:49.926344",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "4680014906542531931",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683739684",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Paul Gosar",
+          "channelusername": "Paul_Gosar",
+          "collected_by": "crawler",
+          "date": 1680871035,
+          "editdate": 1680871038,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 9563,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1089650883,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1160314312,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 30107
+          },
+          "replyto": {},
+          "silent": true,
+          "url": "t.me/Paul_Gosar/9563",
+          "v": 1,
+          "views": 6,
+          "lastseents": "2023-05-10T17:28:04.387484",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "4589158519822886990",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683746658",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "collected_by": "crawler",
+          "date": 1680871092,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10318,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Yeadon_Michael/10318",
+          "v": 1,
+          "views": 38,
+          "lastseents": "2023-05-10T19:24:18.558839",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "4585130905651128362",
+        "_score": 6.5733,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683753912",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "collected_by": "crawler",
+          "date": 1680871093,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 30,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10282,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "#_godspeed\n\nTrump will be headlining the NRA Conference in Indianapolis April 14.\n\nTrump and Pence will be joined by a number of other Republicans as speakers at the event. The list of confirmed speakers. New Hampshire Gov. Chris Sununu, Sen. Mike Braun, South Dakota Gov. Kristi Noem, Former Arkansas Gov. Asa Hutchinson, Gov Eric Holcomb, Con Jim Jordan, Vivek Ramaswamy. Florida Gov. Ron DeSantis and former South Carolina Gov. Nikki Haley will also make an appearance through recorded video messages at the NRA convention in Indianapolis.\n\n🔸 Make America Great Again...MAGA!\n\nMore: ⬇️⬇️⬇️⬇️⬇️\n\nhttps://t.me/+6wDSllrk1ikzMTNk (Truth social)",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/Ezra_Ghost/10282",
+          "v": 1,
+          "views": 89,
+          "lastseents": "2023-05-10T21:25:13.385271",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "80dd88468dc4e56a936d512e0d4ef2d69f8646d8"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5090199899812367038",
+        "_score": 6.444,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-04-12 18:59:26.216162",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "collected_by": "io2es",
+          "date": 1680906656,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 34,
+              "offset": 1316,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 681985,
+            "date": 1680906653,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 681985,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "id": 5.09019989981237e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "TRANSLATION :\nThieves Cut Through Wall to Steal $500k of iPhones\n  \nA Seattle Apple Store is 436 devices lighter after burglars penetrated the bathroom of the shop through a neighbouring coffee outlet, bypassing the security system.   \n  \nThe manager of Seattle Coffee Gear was surprised to learn of the method because the mall layout is unclear; “I would have never suspected we were adjacent to the ‌Apple Store‌, how it wraps around,\" Eric Marks told King 5 News. \"Someone really had to think it out and have access to the mall layout.\"  \n  \nPolice have launched an investigation, and the Apple company has not yet commented on the incident.\n\n=======\nORIGINAL :\nThieves Cut Through Wall to Steal $500k of iPhones   \n  \nA Seattle Apple Store is 436 devices lighter after burglars penetrated the bathroom of the shop through a neighbouring coffee outlet, bypassing the security system.   \n  \nThe manager of Seattle Coffee Gear was surprised to learn of the method because the mall layout is unclear; “I would have never suspected we were adjacent to the ‌Apple Store‌, how it wraps around,\" Eric Marks told King 5 News. \"Someone really had to think it out and have access to the mall layout.\"  \n  \nPolice have launched an investigation, and the Apple company has not yet commented on the incident.\n=======\nSOURCE :\nhttps://t.me/DonbassDevushka/53404\nDonbass Devushka",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1183235
+          },
+          "replyto": {},
+          "silent": false,
+          "url": "t.me/telehunt_watch/756414",
+          "v": 1,
+          "views": 2,
+          "lastseents": "2023-05-08T23:09:54.720245",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5811551549939876752",
+        "_score": 2.6108,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683988825",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "collected_by": "crawler",
+          "date": 1680878397,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1680867992,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 5096629083
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 623504,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Als am 29. März neun Militärangehörige an Bord von zwei Blackhawk-Hubschraubern bei einem „Trainingsunfall“ ums Leben kamen, machte das Sprachrohr des kriminellen Regimes, Lloyd Austin, einen nächtlichen Zusammenstoß westlich von Fort Campbell, Kentucky, für die verlorenen Flugzeugzellen und Todesopfer verantwortlich. Eine Woche später veröffentlichte er Namen und Ränge der neun Soldaten, die angeblich bei dem „Unfall“ ums Leben kamen, und gab bekannt, dass Such- und Rettungsteams die Flugdatenschreiber aus den Trümmern geborgen hatten, obwohl er keine Einzelheiten darüber mitteilte, was die Blackboxen zuvor aufgezeichnet hatten zu den Abstürzen.\n\nEine Untersuchung von Real Raw News zu dem Vorfall widerlegt nachweislich die offizielle Erzählung als völlig fiktiv.\n\nQuellen im Büro von General Eric M. Smith teilten RRN mit, dass neun Soldaten in der Nacht des 31. März starben und Mitglieder der 101. Airborne Division und des 160. Special Operations Aviation Regiment waren, aber nicht diejenigen, die vom korrupten Verteidigungsministerium des Regimes benannt wurden.\n\nDie eigentlichen Soldaten, sagte er, waren White Hats, die im Einsatz getötet wurden, als die Blackhawks „im Flug explodierten“, während sie auf einer Mission waren, einen Deep Stater festzunehmen, der verdächtigt wurde, minderjährige Kinder in seiner Residenz im Süden von Illinois zu beherbergen. Das Büro von General Smith hält die Identität der Verstorbenen und den Namen des Deep Stater aus Gründen der Betriebssicherheit zurück.\n\nUnmittelbar nach dem Vorfall rasten White Hats gegen die Uhr, um Wrackteile zu bergen, bevor Soldaten, die dem kriminellen Biden-Regime – oder Black Hats – treu ergeben waren, die Absturzstelle erreichten und abriegelten.\n\nUnsere Quelle erklärte, dass Fort Campbell derzeit die Heimat von White Hats und Soldaten ist, die dem Verteidigungsminister Lloyd Austin die Treue geschworen haben, wobei Garnisonskommandant Col. Andrew Jordon für die White Hats und Oberbefehlshaber General Joseph Mcgee die Biden-Loyalisten vertritt. Die Führungsspaltung und der Status der Streitkräfte in Fort Campbell würden den Rahmen dieses Artikels sprengen, aber die schwache Spaltung wird in Zukunft behandelt. Die Befehlskette ist unterbrochen.\n\nInnerhalb einer Stunde nach dem Absturz traf ein Bergungsteam von White Hat am „Unfall“-Ort ein – einem offenen Feld gegenüber einem Wohngebiet – und löschte brennende Trümmerteile. Alles, was von den Hubschraubern, die in einer Höhe von nur 250 Fuß über dem Boden geflogen waren, übrig blieb, war ein verdrehtes Gewirr aus zerfetztem Metall. Die zerschmetterten und verbrannten Leichen von neun heldenhaften White Hats lagen inmitten der Trümmer. Ein gliedloser Körper mit verkohltem Fleisch war aus dem Wrack geworfen worden. Ein anderer hatte ein Aluminiumrohr, ein Stück eines Sitzrahmens, das durch seine Brust ragte. Die Schäden und Zerstückelungen, sagte unsere Quelle, waren nicht mit einer Hubschrauberkollision in geringer Höhe vereinbar.\n\nDas Bergungsteam befreite, was übrig blieb, und platzierte sie zusammen mit einigen Hubschraubertrümmern auf M35 2½-Tonnen-Frachtlastwagen, die die Umgebung verließen und die lange Fahrt nach Fort Bragg begannen, Minuten bevor Regimekräfte und örtliche Strafverfolgungsbehörden auftauchten Gelände absperren.\n\nIn Bragg führte ein beim Army Corps of Engineers angestellter Metallurge chemische Spot- und Infrarot-Spektroskopietests an einer Instrumententafel, einem zerschmetterten Pilotenhelm, anderen Komponenten und Strukturfragmenten durch. Er folgerte, dass die erheblichen Schäden an beiden Hubschraubern mit einem Sprengsatz vereinbar waren, der entweder im Cockpit oder in der Mannschaftskabine explodierte, und er fand winzige Partikel von C-4, einer verbreiteten Sorte von Plastiksprengstoff.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "url": "t.me/Wahrheit2020/623504",
+          "v": 1,
+          "views": 8,
+          "lastseents": "2023-05-13T14:40:25.602017",
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          }
+        }
+      }
+    ]
+  }
+}

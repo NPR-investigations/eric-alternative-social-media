@@ -1,0 +1,117 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [29],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [9.3106],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "581204c8-a7a3-4352-ba41-397262f4ee0f",
+        "_score": 9.3106,
+        "_source": {
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "Thank you Dr. Jake Bleacher for taking on sponsorship of Midshipman Eric Tingle, USNA!!",
+          "bodywithurls": "Thank you Dr. Jake Bleacher for taking on sponsorship of Midshipman Eric Tingle, USNA!!",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-07T12:38:34.841593+00:00",
+          "createdAtformatted": "2021-09-07T12:38:34.841593+00:00",
+          "creator": "997869b1572849fd934a685ec74e02af",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "id": "581204c8-a7a3-4352-ba41-397262f4ee0f",
+          "imagensfw": false,
+          "lastseents": "2022-07-04T12:38:34.841607+00:00",
+          "name": "Scott Tingle",
+          "numid": 32765628,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/581204c8-a7a3-4352-ba41-397262f4ee0f",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "997869b1572849fd934a685ec74e02af",
+          "useridraw": "997869b1-5728-49fd-934a-685ec74e02af",
+          "username": "Sdtingle",
+          "verified": true
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "parler-data-000012",
+        "_id": "daee1b3e-c952-4325-9400-f5561f200442",
+        "_score": 3.7708,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "At least one way of measuring the freedom of any society is the amount of comedy that is permitted, and clearly a healthy society permits more satirical comment than a repressive, so that if comedy is to function in some way as a safety release then it must obviously deal with these taboo areas. This is part of the responsibility we accord our licensed jesters, that nothing be excused the searching light of comedy. If anything can survive the probe of humour it is clearly of value, and conversely all groups who claim immunity from laughter are claiming special privileges which should not be granted. \n-Eric Idle, comedian, actor, and author (b. 29 Mar 1943)\n#totd",
+          "bodywithurls": "At least one way of measuring the freedom of any society is the amount of comedy that is permitted, and clearly a healthy society permits more satirical comment than a repressive, so that if comedy is to function in some way as a safety release then it must obviously deal with these taboo areas. This is part of the responsibility we accord our licensed jesters, that nothing be excused the searching light of comedy. If anything can survive the probe of humour it is clearly of value, and conversely all groups who claim immunity from laughter are claiming special privileges which should not be granted. \n-Eric Idle, comedian, actor, and author (b. 29 Mar 1943)\n#totd",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-07T06:02:18.995944+00:00",
+          "createdAtformatted": "2021-09-07T06:02:18.995944+00:00",
+          "creator": "35e742017a84476b8d97da44cf34fef2",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": false,
+          "hasvideo": false,
+          "id": "daee1b3e-c952-4325-9400-f5561f200442",
+          "imagensfw": false,
+          "lastseents": "2022-09-07T06:02:18.995963+00:00",
+          "name": "Parler",
+          "numid": 13798707,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/daee1b3e-c952-4325-9400-f5561f200442",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "35e742017a84476b8d97da44cf34fef2",
+          "useridraw": "35e74201-7a84-476b-8d97-da44cf34fef2",
+          "username": "NJSailRacer",
+          "verified": false
+        },
+        "_ignored": ["body.keyword", "bodywithurls.keyword"]
+      }
+    ]
+  }
+}

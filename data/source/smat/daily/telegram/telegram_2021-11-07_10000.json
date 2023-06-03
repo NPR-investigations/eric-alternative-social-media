@@ -1,0 +1,1415 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [69],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [21],
+      "relation": ["eq"]
+    },
+    "max_score": [12.6467],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6094192163594931148",
+        "_score": 12.6467,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636287196,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1529080186
+          },
+          "message": "Enjoy the show Eric... 🍿",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1418914684
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 756682,
+            "reply_to_top_id": 756190
+          },
+          "edithide": false,
+          "archivedon": "2021-11-07 12:42:26.504792",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4599600813680118816",
+        "_score": 10.498,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636248379,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 216,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "On Friday, Mayor-elect Eric Adams was surrounded by Anti-vax protesters chanting \"Go back to Jersey\"\n@YidInfo",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1070928018
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1219417644,
+            "replies_pts": 37198,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 101
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1636248349,
+          "edithide": true,
+          "archivedon": "2021-11-07 01:42:41.865764",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4599600813680118843",
+        "_score": 9.6397,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636312923,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 127,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "When Mayor-elect Eric Adams enters office on Jan. 1, he plans to abolish mask regulations in the schools, he said in a statement.\n@YidInfo",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1070928018
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 24142,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1219417644,
+            "replies_pts": 37312,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 391123856
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 130
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1636312861,
+          "edithide": true,
+          "archivedon": "2021-11-07 19:29:03.785661",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6086674381688444655",
+        "_score": 9.3175,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636322945,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 48,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Spracklen🇺🇸 - “Our efforts were the stuff of responsible, ethical journalism and we are in no doubt that Project Veritas acted properly at each and every step.”",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1431409795,
+            "replies_pts": 701981,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/ericspracklen/status/1456699249178075141?s=28",
+              "length": 167,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636170797,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1314508040
+            },
+            "post_author": "Mezlim",
+            "channel_post": 26023
+          },
+          "replyto": {},
+          "editdate": 1636322888,
+          "edithide": true,
+          "postauthor": "Aries",
+          "archivedon": "2021-11-07 22:24:32.277387",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6211165305842959961",
+        "_score": 8.7451,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636310986,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 2966,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Interview mit Eric Clapton – Was ihn seine Impfung gelehrt hat\n\n✓ https://www.kla.tv/20462\n\nEric Clapton, bekannter Musiker, schildert in diesem Interview, wie er auf das Impfangebot der britischen Regierung einging, erfasst wurde von heftigen Impfnebenwirkungen – und welchen Prozess das in ihm auslöste. Er hinterfragt nicht nur die Politik seiner Regierung. Vielmehr versucht er die Menschen zusammenzubringen, die jemanden brauchen, der mit ihnen spricht, ohne sie zu verurteilen\n\n#Coronavirus #Impfen #Interviews\n\n👉 @KlagemauerTV - Folge uns auf Telegram\n➡️ www.kla.tv/abo - Abonniere das Original!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1446149616
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 114092,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1171239413,
+            "replies_pts": 183225,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 195270950
+              }
+            ]
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 64,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 24,
+              "offset": 66
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 485,
+              "url": "https://www.kla.tv/Coronavirus"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 7,
+              "offset": 498,
+              "url": "http://www.kla.tv/impfen"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 1,
+              "offset": 505,
+              "url": "https://www.kla.tv/GesundheitMedizin"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 13,
+              "offset": 506,
+              "url": "https://www.kla.tv/Interviews"
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 522
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 14,
+              "offset": 564
+            }
+          ],
+          "forwards": 51,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1636310932,
+          "edithide": true,
+          "archivedon": "2021-11-07 19:19:11.971024",
+          "channelabout": "Klagemauer TV entlarvt Verderben bringende Medienlügen und Lügenmedien! Die Lüge der Hauptmedien beginnt bei der Vortäuschung ihrer Vielfalt, obgleich sie sich doch bald weltweit in nur noch einer Hand befinden.\n\nhttps://www.kla.tv\n\n @KlagemauerWand",
+          "channeltitle": "kla.TV - Die anderen Nachrichten!",
+          "channelusername": "KlagemauerTV",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5766449673162231282",
+        "_score": 7.5317,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636295635,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1819752405
+          },
+          "message": "I just added this white rose sticker above because I think it would be a useful clip from the FDA meeting to show Eric Adams.  Everyone really needs to see that there are scientists not towing the line that the Corporatocracy is putting out.  So much suppression of information and debate.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1342606189
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 58069,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 14:35:51.56679",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6137290442422642973",
+        "_score": 7.1703,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636268018,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 175,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "1. New Idea Magazine \nNovember (8'th) - \n[\"QUEEN\"] Steps Down! \nEMS - EMERGENCY\nBROADCAST SYSTEM\n(MIDNIGHT) Summit \n\n2. Kayleigh Mcenany - \nEric Trump - GAS PRICE... \nRepost - Level (23.59)\n\nThat (Would) Mean.. \n7.11 - 11.7\nSUNDAY TO MONDAY\nOVERNIGHT - MiDNIGHT!!! \n💥💥💥💥💥💥💥💥💥💥\n\nThat's Definitely HOT🔥\nIn My Opinion..\nWe Will See! 🐸😎",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1428949284
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 4,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636262912,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1423822876
+            },
+            "channel_post": 39416,
+            "imported": false
+          },
+          "replyto": {},
+          "editdate": 1636268011,
+          "edithide": true,
+          "groupedid": 1.30901441462004e+16,
+          "postauthor": "QHyer19+++ TST 747🇺🇸👑🐸🤩🎭⚔🎭🤩🐸👑🇺🇸",
+          "archivedon": "1681396319",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "id": 26909,
+          "mediaref": "1932c42d5b46a915f187fcc03ebb6824268ad04a",
+          "noforwards": false,
+          "lastseents": "2023-04-13T14:32:00.378991",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6030413569990873393",
+        "_score": 6.652,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636323908,
+          "post": false,
+          "media": {
+            "document": {
+              "access_hash": -3.56219728951075e+18,
+              "attributes": [
+                {
+                  "duration": 1483,
+                  "h": 360,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 640
+                }
+              ],
+              "date": 1636323498,
+              "dc_id": 4,
+              "file_reference": "AlOwVTEAAFExZEuw9X4F7BIQB/mwTNP5pIda4xw=",
+              "id": 5.78517938129496e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 73727770,
+              "thumbs": [
+                {
+                  "bytes": "ARYox6KKKACiiigAooooAKKKKACiiigAooooAw==",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 645,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument"
+          },
+          "views": 9495,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1824051675
+          },
+          "message": "📯🔔📯WOODSTOCK legend and best guitarist in the world \"ERIC CLAPTON\"📯🔔📯 regrets having taken the vaccination in an eye-opening full interview. He had unfortunately naively followed the advice of doctors and the media. - AFTER THE BOOSTER VACCINATION IT HAPPENED. - since then he can no longer move his hand properly, is in great pain and will probably never be able to play a concert again (thanks to the lethal injection).\n\n📯🔔📯WOODSTOCK Legende und bester Gitarrist der Welt \"ERIC CLAPTON\" 📯🔔📯 bereut in einem augenöffnendem kompletten Interview die Impfung genommen zu haben. Er habe sich leider naiverweise an den Ratschlag der Ärzte und der Medien gehalten.\n - NACH DER AUFFRISCHUNGSIMPFUNG PASSIERTE ES. \n- ER KANN SEITDEM DIE HAND NICHT ht MEHR RICHTIG BEWEGEN, HAT GROßE SCHMERZEN und wird vermutlich NIE MEHR WIEDER EIN KONZERT ert SPIELEN KÖNNEN (dank der Giftspritze).",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1404065073
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 115268,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 115,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636323879,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1502581999
+            },
+            "channel_post": 2118,
+            "imported": false
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1682682120",
+          "channelabout": "Q, Vitamine, freie Energie, Politik, Wirtschaft, fuck Maske, Abstand, Lockdown",
+          "channeltitle": "FightTheDeepstate",
+          "channelusername": "Fight_the_Deepstate_Chat",
+          "id": 20785,
+          "noforwards": false,
+          "lastseents": "2023-04-28T11:42:01.000901",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -5.51602622230081e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682682120,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Michael A.",
+            "id": 1824051675,
+            "is_self": false,
+            "last_name": "Fuchs",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 5.85707021079896e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIPtC7d2PlIyTnp9KKKKAP"
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "HeilerGeist",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4971447163633790258",
+        "_score": 6.5557,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636262681,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2134094464
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n   🦅  IMPORTANT    🦅\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @TherealEricFTrump ✅\n✅ @TherealEricFTrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1157505243
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 357
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 380
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 257111
+          },
+          "edithide": false,
+          "archivedon": "2021-11-07 05:28:20.965925",
+          "channelabout": "SEE SOMETHING SAY SOMETHING! \nHelp Arizona watch the live feeds of the largest election audit in our country's history! Join the Arizona Audit Watch Group now to get started! @AZAuditWatch \n\n        ⭐️  ALL EYES ON ARIZONA! ⭐️",
+          "channeltitle": "Arizona Audit Watch Chat",
+          "channelusername": "AZAuditChat",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5766449673162231253",
+        "_score": 5.5711,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636290475,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1779983458
+          },
+          "message": "Jo has every right to express exactly the way she did, she’s been out before the crowds. She’s been walking through blocks with her bullhorn and just 2 people the most last winter with snow on the ground. She was warning us before she lost her job Oct 1. She was right the whole time when she said “they coming for the kids” Eric said he will mandate it when it gets approved for children during his debate. That would make anyone who cares for children as furious as Jo was. Jo has been on point with her tone and she had every right too. I stand with Jo 1000% We’ll die on the hill for this for sure. Anyone who thinks otherwise in this chat may have just walked into this fight- WAKE UP- God has Jo’s back and put her into this very position whether Jo’s screaming PUPPET, House Ni…. Or what- that got the devils attention 💪🏽and now whether meeting or not- WE RISE and KEEP RISING 🦁🦁🦁 to protect the children and fight for our future. Anyone honestly think Eric was 🇵🇷 with the whole crew rubbing elbows thinking about meeting and negotiating with WE THE PEOPLE? Keep thinking- They don’t give a FUCK about US!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1342606189
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 36215
+          },
+          "edithide": false,
+          "archivedon": "2021-11-07 13:32:49.276245",
+          "channelabout": "@worldwidedemonstration NYC",
+          "channeltitle": "New York Freedom Rally",
+          "channelusername": "newyorkfreedomrally",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5729645067610642715",
+        "_score": 5.5079,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636262463,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 56226,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1637413805
+          },
+          "message": "Attorneys general in 11 states have filed a lawsuit challenging OSHA’s vaccine mandate for workers in company’s with more than 100 employees. The suit filed with the Eighth U.S. Circuit Court of Appeals on Thursday, argued the mandate is unconstitutional.\n\nThe attorneys general contended the authority to compel vaccinations rests with the states and not the federal government.\n\nMissouri Attorney General Eric Schmitt spoke out calling the mandate “unconstitutional, unlawful, and unwise.” He contended he sued “to protect personal freedoms, preserve Missouri businesses, and push back on bureaucratic tyrants who simply want power and control.”\n\n@RedPillPharmacist\nhttps://bit.ly/3ESF2uX",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1334036949
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 35488,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 18,
+              "offset": 649
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 668
+            }
+          ],
+          "forwards": 449,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636136159,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1167535778
+            },
+            "channel_post": 14938
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30900997094261e+16,
+          "archivedon": "2021-11-07 06:18:26.220517",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5088703597630203617",
+        "_score": 5.0693,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636315609,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 1178,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "I suspected that U.S. Attorney's John Huber of Utah, John Bash of Texas, and Jeffrey Jensen of Missouri were working under Durham.  All have finished the investigations they were part of and departed the DOJ before this year.  Whoever was running the grand jury that was spying on Adam Schiff and Eric Swalwell's electronic communications is still there and still running that grand jury.  How do I know that? Because the subpoenas to surveil the communications from Apple were renewed 3 years in a row, from early 2018 to early 2021.  We only found out about this when the subpoena and the correlating gag order from the court were not renewed for a fourth year.  It expired this March.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1184806134
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 15,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636314740,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1264643776
+            },
+            "post_author": "Brian Cates",
+            "channel_post": 18267,
+            "imported": false
+          },
+          "replyto": {},
+          "editdate": 1636315582,
+          "edithide": true,
+          "postauthor": "SSGQ",
+          "archivedon": "1679933557",
+          "channelabout": "",
+          "channeltitle": "SSGQ Channel",
+          "channelusername": "SSG_Cue",
+          "id": 9953,
+          "noforwards": false,
+          "lastseents": "2023-03-27T16:12:37.757509",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4989848298178255605",
+        "_score": 5.0693,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636315037,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 7547,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "I suspected that U.S. Attorney's John Huber of Utah, John Bash of Texas, and Jeffrey Jensen of Missouri were working under Durham.  All have finished the investigations they were part of and departed the DOJ before this year.  Whoever was running the grand jury that was spying on Adam Schiff and Eric Swalwell's electronic communications is still there and still running that grand jury.  How do I know that? Because the subpoenas to surveil the communications from Apple were renewed 3 years in a row, from early 2018 to early 2021.  We only found out about this when the subpoena and the correlating gag order from the court were not renewed for a fourth year.  It expired this March.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1161789591
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 3316636,
+            "replies": 8,
+            "comments": true,
+            "channel_id": 1476547740,
+            "replies_pts": 3904239,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1488726778
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1502686058
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1402197793
+              }
+            ]
+          },
+          "entities": [],
+          "forwards": 30,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636314740,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1264643776
+            },
+            "post_author": "Brian Cates",
+            "channel_post": 18267
+          },
+          "replyto": {},
+          "editdate": 1636314984,
+          "edithide": true,
+          "postauthor": "Red.Pill.Pharmacist",
+          "archivedon": "2021-11-07 20:37:01.894592",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5525220386851387674",
+        "_score": 5.0693,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636315651,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 18692,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 651570634
+          },
+          "message": "I suspected that U.S. Attorney's John Huber of Utah, John Bash of Texas, and Jeffrey Jensen of Missouri were working under Durham.  All have finished the investigations they were part of and departed the DOJ before this year.  Whoever was running the grand jury that was spying on Adam Schiff and Eric Swalwell's electronic communications is still there and still running that grand jury.  How do I know that? Because the subpoenas to surveil the communications from Apple were renewed 3 years in a row, from early 2018 to early 2021.  We only found out about this when the subpoena and the correlating gag order from the court were not renewed for a fourth year.  It expired this March.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1286440619
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 534188,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 103,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636314740,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1264643776
+            },
+            "post_author": "Brian Cates",
+            "channel_post": 18267
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 21:02:54.098804",
+          "channelabout": "Please see pinned message.\nChristian: @christianencouragement\nBackup: @QAnons2\n🇺🇸WWG1WGA🇺🇸\n• Safe place for all things Q and Trump related.\n• Use common sense.\n• Invite your friends!\nQuestions and concerns? Message an admin!",
+          "channeltitle": "The Great Awakening - Research",
+          "channelusername": "q_anons",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5857826609918121318",
+        "_score": 3.6509,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636301882,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 260,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "💉 'Kinder sollten nicht geimpft werden, um Erwachsene zu schützen❗\n++++++++++++++++++++++++\nSechs Stunden nach Beginn der Konferenz äußerte sich Dr. Eric Rubin, Chefredakteur des New England Journal of Medicine, zu der Frage, wie weit verbreitet die Einführung des Impfstoffs gegen das Coronavirus sein sollte.\n\nRubin räumte ein, dass es trotz der Behauptung von Big Pharma, die Coronavirus-Impfstoffe seien sicher und der Schlüssel zur Beendigung der Pandemie, unmöglich ist, herauszufinden, wie sicher die Impfstoffe sind, wenn sie nicht vorher verabreicht werden. Er fügte hinzu, dass dies in der Regel bei Impfstoffen und ihren zahlreichen Nebenwirkungen und seltenen Komplikationen der Fall ist.\n\nDr. James Hildreth äußerte sich auch besorgt über die Zahl der Kinder, die sich bereits mit dem Coronavirus infiziert haben. Schätzungen zufolge sind fast 40 Prozent der Kinder bereits in irgendeiner Form immun gegen diese Krankheit.\n\nHildreth wies auf die Ironie hin, Kinder zu impfen, um die Erwachsenen zu schützen, obwohl das Gegenteil die klügere Lösung wäre. Wenn 30 Millionen Kinder bereits in irgendeiner Form immun sind, haben sie bereits ihren Teil dazu beigetragen, die Herdenimmunität im Land zu erreichen.'\n\nhttps://uncutnews.ch/dr-naomi-wolf-arzt-macht-schockierendes-eingestaendnis-zur-sicherheit-von-covid-impfungen-fuer-kleinkinder/\n\nDa ist er, der agenda-feindliche Begriff der natürlichen Immunität.. 😎",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1363881540
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 128,
+              "offset": 1224
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636301139,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1322690452
+            },
+            "channel_post": 8239
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 17:04:08.592757",
+          "channelabout": "Wahrheit setzt sich immer durch !!! / Truth always prevails !!!",
+          "channeltitle": "ALLES KOMMT ANS LICHT / EVERYTHING COMES TO THE LIGHT",
+          "channelusername": "ALLES_KOMMT_ANS_LICHT",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5031147715854220630",
+        "_score": 3.2274,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636257301,
+          "post": false,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 9326,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1511684658
+          },
+          "message": "NEWS/QUICK READS\n\n_Canada: Police officers, firefighters and paramedics have gathered at Queen's Park, Toronto for a silent protest against mandatory COVID-19 vaccinations.\n_Israeli Minister of Health recorded saying to the Minister of Interior \"there is no medical or epidemiological justification for the Covid passport, it is only intended to pressure the unvaccinated to vaccinate\".\n_Czech Republic to destroy 45,000 doses of DNA changing experimental COVID vaccines \n_Capitol Fence Going Back Up Ahead of Rally in Support of January 6 Political Prisoners on September 18: Capitol Police Chief \n_Trump is running a Shadow Government hits world wide news\n_California residents are having issues with their ballots for the Recall Election against Gov. Newsom\n_ Over 360,000 without power in the Houston area after Hurricane Nicholas made landfall along the Texas coast this morning.\n_TRUE CONSPIRACY: More than 96% of Lancet “scientists” who denied covid lab origin theory have direct ties to Wuhan\n_Locked down Australians now having their alcohol purchases monitored and limited due to “COVID”\n_Texans can now sue Big Tech platforms like Facebook and Twitter for censorship\n_Daughter of British royal DIES with “severe headache” months after covid vaccine… family in denial over spike proteins building up over time\n_Hot mic catches Israeli Health Minister admitting vaccine passports are really about coercion\n______________________________________\nDr. Eric Nepute in D C. Is warming. Hospitals are filling up in the children's unit due to neurological system damage due to GUILLIAN-BARRE syndrome created by Spike Proteins \n________________________\nInside the STORM\n🔥 🔥 🔥 🔥\n\nWe must fight for the children and continue this battle!!!!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1171405361
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 178777,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 38,
+              "offset": 1415
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 24,
+              "offset": 1630
+            }
+          ],
+          "forwards": 49,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1631632554,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1266621279
+            },
+            "post_author": "HQ Q",
+            "channel_post": 17500
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 03:55:51.298068",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5216667943441546002",
+        "_score": 2.6881,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636263626,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 79,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Trump kritisiert New Yorker Politiker und schlägt Rückkehr nach New York City vor\n\nDer ehemalige Präsident Donald Trump hat in einem Interview angedeutet, dass er nach dem Ende der Amtszeit von Bürgermeister Bill de Blasio und dem Rücktritt des ehemaligen Gouverneurs Andrew Cuomo möglicherweise nach New York City zurückkehren wird.\n\nTrump, der in New York geboren und aufgewachsen ist, kündigte 2019 laut Fox News an, dass er seinen ständigen Wohnsitz nach Palm Springs, Florida, verlegen werde. Trump spielt darauf an, dass der Umzug auf die damalige politische Lage in New York zurückzuführen ist.\n\nDa Cuomo nun aber nicht mehr im Amt ist und die Amtszeit von de Blasio Ende des Jahres endet, deutete Trump an, dass eine Rückkehr in seine Heimatstadt möglich sein könnte.\n\n\"Es war schockierend, was mit Cuomo passiert ist\", sagte Trump auf die Frage, ob eine Rückkehr nach New York City in Aussicht stehe. \"Er war ein starker Gouverneur - stark bedeutet, dass er eine ziemlich gute Kontrolle hatte.\"\n\nAber \"das war ein schockierendes Ereignis\", fügte er hinzu.\n\n\"Und de Blasio geht als der wahrscheinlich schlechteste Bürgermeister in der Geschichte unseres Landes in die Geschichte ein, und das will etwas heißen, denn im Moment gibt es ein paar wirklich schlechte Bürgermeister\", so Trump gegenüber Fox. \"Aber er geht als der schlechteste Bürgermeister in die Geschichte unseres Landes ein ... Was er New York angetan hat, ist unvorstellbar.\"\n\n\"Ich habe so viele Leute, die zu mir kommen und sagen, dass sie von New York nach Florida, Texas, Tennessee, nach North Carolina, South Carolina gezogen sind\", sagte Trump. \"Er hat dieses Land und New York ganz furchtbar repräsentiert.\"\n\nIn Bezug auf den künftigen demokratischen Bürgermeister von New York City, Eric Adams, sagte Trump: \"Ich hoffe, er wird seine Sache gut machen.\"\n\nAuf die Frage, ob der ehemalige Präsident nach Big Apple zurückkehren würde, antwortete Trump: \"Ich weiß es nicht. Sehen Sie, ich habe ein gutes Verhältnis zu New York. Ich liebe New York, es ist ein großartiger Ort.\"\n\nIm Moment sind die Geschäfte des ehemaligen Präsidenten jedoch Gegenstand einer strafrechtlichen Untersuchung, die von der Staatsanwaltschaft in Manhattan geleitet wird. Im vergangenen Monat wurde ein neues Geschworenengericht eingesetzt, das Anklage wegen Steuerbetrugs gegen Trumps Unternehmen und dessen Finanzchef Allen Weisselberg erhoben hat.\n\n🔵  Englisch",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1214600155
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1440741914,
+            "replies_pts": 183139,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 2403,
+              "url": "https://www.newsmax.com/us/donaldtrump-newyork-billdeblasio-cuomo/2021/11/06/id/1043590/"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1636263606,
+          "edithide": true,
+          "archivedon": "2021-11-07 06:20:54.195152",
+          "channelabout": "Übersetzungen für Qlobal Change + vieles mehr. WWG1WGA \nhttp://t.me/Qanons_Channel_Memes\nhttp://t.me/QAnons_InstaFEED\n\nKontakt : @QAnon_Kontakt_bot",
+          "channeltitle": "QAnons Channel 🇩🇪",
+          "channelusername": "QAnons_Channel_Germany",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5519724344835593837",
+        "_score": 2.6881,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636263659,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 5257,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Trump kritisiert New Yorker Politiker und schlägt Rückkehr nach New York City vor\n\nDer ehemalige Präsident Donald Trump hat in einem Interview angedeutet, dass er nach dem Ende der Amtszeit von Bürgermeister Bill de Blasio und dem Rücktritt des ehemaligen Gouverneurs Andrew Cuomo möglicherweise nach New York City zurückkehren wird.\n\nTrump, der in New York geboren und aufgewachsen ist, kündigte 2019 laut Fox News an, dass er seinen ständigen Wohnsitz nach Palm Springs, Florida, verlegen werde. Trump spielt darauf an, dass der Umzug auf die damalige politische Lage in New York zurückzuführen ist.\n\nDa Cuomo nun aber nicht mehr im Amt ist und die Amtszeit von de Blasio Ende des Jahres endet, deutete Trump an, dass eine Rückkehr in seine Heimatstadt möglich sein könnte.\n\n\"Es war schockierend, was mit Cuomo passiert ist\", sagte Trump auf die Frage, ob eine Rückkehr nach New York City in Aussicht stehe. \"Er war ein starker Gouverneur - stark bedeutet, dass er eine ziemlich gute Kontrolle hatte.\"\n\nAber \"das war ein schockierendes Ereignis\", fügte er hinzu.\n\n\"Und de Blasio geht als der wahrscheinlich schlechteste Bürgermeister in der Geschichte unseres Landes in die Geschichte ein, und das will etwas heißen, denn im Moment gibt es ein paar wirklich schlechte Bürgermeister\", so Trump gegenüber Fox. \"Aber er geht als der schlechteste Bürgermeister in die Geschichte unseres Landes ein ... Was er New York angetan hat, ist unvorstellbar.\"\n\n\"Ich habe so viele Leute, die zu mir kommen und sagen, dass sie von New York nach Florida, Texas, Tennessee, nach North Carolina, South Carolina gezogen sind\", sagte Trump. \"Er hat dieses Land und New York ganz furchtbar repräsentiert.\"\n\nIn Bezug auf den künftigen demokratischen Bürgermeister von New York City, Eric Adams, sagte Trump: \"Ich hoffe, er wird seine Sache gut machen.\"\n\nAuf die Frage, ob der ehemalige Präsident nach Big Apple zurückkehren würde, antwortete Trump: \"Ich weiß es nicht. Sehen Sie, ich habe ein gutes Verhältnis zu New York. Ich liebe New York, es ist ein großartiger Ort.\"\n\nIm Moment sind die Geschäfte des ehemaligen Präsidenten jedoch Gegenstand einer strafrechtlichen Untersuchung, die von der Staatsanwaltschaft in Manhattan geleitet wird. Im vergangenen Monat wurde ein neues Geschworenengericht eingesetzt, das Anklage wegen Steuerbetrugs gegen Trumps Unternehmen und dessen Finanzchef Allen Weisselberg erhoben hat.\n\n🔵  Englisch",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1285160972
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 2403,
+              "url": "https://www.newsmax.com/us/donaldtrump-newyork-billdeblasio-cuomo/2021/11/06/id/1043590/"
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 06:32:46.111611",
+          "channelabout": "https://odysee.com/@Qlobal-Change:6\n\n✉️ @QC_Kontakt_Bot\n\n🇺🇸 @QlobalChangeUSA\n🇮🇹 @QlobalChangeItalia\n🇪🇸 @QlobalChangeEspana\n🇵🇹 @QlobalChangePortugal\n🏴‍☠️ @QCr_MEME_WARFARE\n📺 @X22_Report_Deutsch\n\nhttps://qlobal-change.blogspot.com",
+          "channeltitle": "Qlobal-Change 🇩🇪🇦🇹🇨🇭🇱🇮",
+          "channelusername": "QlobalChange",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6142794060760404390",
+        "_score": 2.6881,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636270701,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 121,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Trump kritisiert New Yorker Politiker und schlägt Rückkehr nach New York City vor\n\nDer ehemalige Präsident Donald Trump hat in einem Interview angedeutet, dass er nach dem Ende der Amtszeit von Bürgermeister Bill de Blasio und dem Rücktritt des ehemaligen Gouverneurs Andrew Cuomo möglicherweise nach New York City zurückkehren wird.\n\nTrump, der in New York geboren und aufgewachsen ist, kündigte 2019 laut Fox News an, dass er seinen ständigen Wohnsitz nach Palm Springs, Florida, verlegen werde. Trump spielt darauf an, dass der Umzug auf die damalige politische Lage in New York zurückzuführen ist.\n\nDa Cuomo nun aber nicht mehr im Amt ist und die Amtszeit von de Blasio Ende des Jahres endet, deutete Trump an, dass eine Rückkehr in seine Heimatstadt möglich sein könnte.\n\n\"Es war schockierend, was mit Cuomo passiert ist\", sagte Trump auf die Frage, ob eine Rückkehr nach New York City in Aussicht stehe. \"Er war ein starker Gouverneur - stark bedeutet, dass er eine ziemlich gute Kontrolle hatte.\"\n\nAber \"das war ein schockierendes Ereignis\", fügte er hinzu.\n\n\"Und de Blasio geht als der wahrscheinlich schlechteste Bürgermeister in der Geschichte unseres Landes in die Geschichte ein, und das will etwas heißen, denn im Moment gibt es ein paar wirklich schlechte Bürgermeister\", so Trump gegenüber Fox. \"Aber er geht als der schlechteste Bürgermeister in die Geschichte unseres Landes ein ... Was er New York angetan hat, ist unvorstellbar.\"\n\n\"Ich habe so viele Leute, die zu mir kommen und sagen, dass sie von New York nach Florida, Texas, Tennessee, nach North Carolina, South Carolina gezogen sind\", sagte Trump. \"Er hat dieses Land und New York ganz furchtbar repräsentiert.\"\n\nIn Bezug auf den künftigen demokratischen Bürgermeister von New York City, Eric Adams, sagte Trump: \"Ich hoffe, er wird seine Sache gut machen.\"\n\nAuf die Frage, ob der ehemalige Präsident nach Big Apple zurückkehren würde, antwortete Trump: \"Ich weiß es nicht. Sehen Sie, ich habe ein gutes Verhältnis zu New York. Ich liebe New York, es ist ein großartiger Ort.\"\n\nIm Moment sind die Geschäfte des ehemaligen Präsidenten jedoch Gegenstand einer strafrechtlichen Untersuchung, die von der Staatsanwaltschaft in Manhattan geleitet wird. Im vergangenen Monat wurde ein neues Geschworenengericht eingesetzt, das Anklage wegen Steuerbetrugs gegen Trumps Unternehmen und dessen Finanzchef Allen Weisselberg erhoben hat.\n\n🔗 zum Artikel",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1430230695
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 14,
+              "offset": 2403,
+              "url": "https://www.newsmax.com/us/donaldtrump-newyork-billdeblasio-cuomo/2021/11/06/id/1043590/"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 07:50:34.803057",
+          "channelabout": "Wir sind ohne Netz und doppelten Boden unterwegs.\n\nWir machen Fehler und sind keine Profis.\n\nWir sind nur am Puls der Zeit.",
+          "channeltitle": "Mut zur Analyse, Mut zur Befreiung",
+          "channelusername": "Mutflash",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5893679841558949831",
+        "_score": 2.6881,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636267670,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 197,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Trump kritisiert New Yorker Politiker und schlägt Rückkehr nach New York City vor\n\nDer ehemalige Präsident Donald Trump hat in einem Interview angedeutet, dass er nach dem Ende der Amtszeit von Bürgermeister Bill de Blasio und dem Rücktritt des ehemaligen Gouverneurs Andrew Cuomo möglicherweise nach New York City zurückkehren wird.\n\nTrump, der in New York geboren und aufgewachsen ist, kündigte 2019 laut Fox News an, dass er seinen ständigen Wohnsitz nach Palm Springs, Florida, verlegen werde. Trump spielt darauf an, dass der Umzug auf die damalige politische Lage in New York zurückzuführen ist.\n\nDa Cuomo nun aber nicht mehr im Amt ist und die Amtszeit von de Blasio Ende des Jahres endet, deutete Trump an, dass eine Rückkehr in seine Heimatstadt möglich sein könnte.\n\n\"Es war schockierend, was mit Cuomo passiert ist\", sagte Trump auf die Frage, ob eine Rückkehr nach New York City in Aussicht stehe. \"Er war ein starker Gouverneur - stark bedeutet, dass er eine ziemlich gute Kontrolle hatte.\"\n\nAber \"das war ein schockierendes Ereignis\", fügte er hinzu.\n\n\"Und de Blasio geht als der wahrscheinlich schlechteste Bürgermeister in der Geschichte unseres Landes in die Geschichte ein, und das will etwas heißen, denn im Moment gibt es ein paar wirklich schlechte Bürgermeister\", so Trump gegenüber Fox. \"Aber er geht als der schlechteste Bürgermeister in die Geschichte unseres Landes ein ... Was er New York angetan hat, ist unvorstellbar.\"\n\n\"Ich habe so viele Leute, die zu mir kommen und sagen, dass sie von New York nach Florida, Texas, Tennessee, nach North Carolina, South Carolina gezogen sind\", sagte Trump. \"Er hat dieses Land und New York ganz furchtbar repräsentiert.\"\n\nIn Bezug auf den künftigen demokratischen Bürgermeister von New York City, Eric Adams, sagte Trump: \"Ich hoffe, er wird seine Sache gut machen.\"\n\nAuf die Frage, ob der ehemalige Präsident nach Big Apple zurückkehren würde, antwortete Trump: \"Ich weiß es nicht. Sehen Sie, ich habe ein gutes Verhältnis zu New York. Ich liebe New York, es ist ein großartiger Ort.\"\n\nIm Moment sind die Geschäfte des ehemaligen Präsidenten jedoch Gegenstand einer strafrechtlichen Untersuchung, die von der Staatsanwaltschaft in Manhattan geleitet wird. Im vergangenen Monat wurde ein neues Geschworenengericht eingesetzt, das Anklage wegen Steuerbetrugs gegen Trumps Unternehmen und dessen Finanzchef Allen Weisselberg erhoben hat.\n\n🔵  Englisch",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1372229271
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 2403,
+              "url": "https://www.newsmax.com/us/donaldtrump-newyork-billdeblasio-cuomo/2021/11/06/id/1043590/"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636263659,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285160972
+            },
+            "channel_post": 22125
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 07:06:23.312347",
+          "channelabout": "🇦🇹🇦🇹  Qanon Austria  🇦🇹🇦🇹\n\nVon Mensch zu Mensch ✊\n\nE-Mail: Kiki.Qanon.Wien@gmx.at \n\nUnterstützung via PayPal:\npaypal.me/QanonAustria\n\nEure Unterstützung zählt, DANKE ♥️🙏\n\n#WhereWeGo1WeGoAll #WWG1WGA",
+          "channeltitle": "Qanon Austria 🇦🇹",
+          "channelusername": "QanonAustria",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5839152843734397751",
+        "_score": 2.6881,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1636280293,
+          "post": true,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "views": 895,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Trump kritisiert New Yorker Politiker und schlägt Rückkehr nach New York City vor\n\nDer ehemalige Präsident Donald Trump hat in einem Interview angedeutet, dass er nach dem Ende der Amtszeit von Bürgermeister Bill de Blasio und dem Rücktritt des ehemaligen Gouverneurs Andrew Cuomo möglicherweise nach New York City zurückkehren wird.\n\nTrump, der in New York geboren und aufgewachsen ist, kündigte 2019 laut Fox News an, dass er seinen ständigen Wohnsitz nach Palm Springs, Florida, verlegen werde. Trump spielt darauf an, dass der Umzug auf die damalige politische Lage in New York zurückzuführen ist.\n\nDa Cuomo nun aber nicht mehr im Amt ist und die Amtszeit von de Blasio Ende des Jahres endet, deutete Trump an, dass eine Rückkehr in seine Heimatstadt möglich sein könnte.\n\n\"Es war schockierend, was mit Cuomo passiert ist\", sagte Trump auf die Frage, ob eine Rückkehr nach New York City in Aussicht stehe. \"Er war ein starker Gouverneur - stark bedeutet, dass er eine ziemlich gute Kontrolle hatte.\"\n\nAber \"das war ein schockierendes Ereignis\", fügte er hinzu.\n\n\"Und de Blasio geht als der wahrscheinlich schlechteste Bürgermeister in der Geschichte unseres Landes in die Geschichte ein, und das will etwas heißen, denn im Moment gibt es ein paar wirklich schlechte Bürgermeister\", so Trump gegenüber Fox. \"Aber er geht als der schlechteste Bürgermeister in die Geschichte unseres Landes ein ... Was er New York angetan hat, ist unvorstellbar.\"\n\n\"Ich habe so viele Leute, die zu mir kommen und sagen, dass sie von New York nach Florida, Texas, Tennessee, nach North Carolina, South Carolina gezogen sind\", sagte Trump. \"Er hat dieses Land und New York ganz furchtbar repräsentiert.\"\n\nIn Bezug auf den künftigen demokratischen Bürgermeister von New York City, Eric Adams, sagte Trump: \"Ich hoffe, er wird seine Sache gut machen.\"\n\nAuf die Frage, ob der ehemalige Präsident nach Big Apple zurückkehren würde, antwortete Trump: \"Ich weiß es nicht. Sehen Sie, ich habe ein gutes Verhältnis zu New York. Ich liebe New York, es ist ein großartiger Ort.\"\n\nIm Moment sind die Geschäfte des ehemaligen Präsidenten jedoch Gegenstand einer strafrechtlichen Untersuchung, die von der Staatsanwaltschaft in Manhattan geleitet wird. Im vergangenen Monat wurde ein neues Geschworenengericht eingesetzt, das Anklage wegen Steuerbetrugs gegen Trumps Unternehmen und dessen Finanzchef Allen Weisselberg erhoben hat.\n\n🔵  Englisch",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1359533715
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 83,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 12,
+              "offset": 2403,
+              "url": "https://www.newsmax.com/us/donaldtrump-newyork-billdeblasio-cuomo/2021/11/06/id/1043590/"
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1636263659,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285160972
+            },
+            "channel_post": 22125
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-07 10:48:36.579401",
+          "channelabout": "Indem viele die englische Sprache nicht perfekt beherrschen findet ihr hier viele Videos ins deutsche sprachlich oder mit einem Untertitel übersetzt, ist ja sehr frustrierend wenn man nicht Bescheid weiß um was es bei den Videos geht :)",
+          "channeltitle": "Translated Videos/Wahlbetrug",
+          "channelusername": "TranslatedVideos",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2025 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [63],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [30],
+      "relation": ["eq"]
+    },
+    "max_score": [10.1938],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6695573175142485329",
+        "_score": 10.1938,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633662503,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1213373690
+          },
+          "message": "Look up Oscar DeLaHoya or Eric Clapton, they have had some choice times thanks to the vax",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1558934612
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 36132
+          },
+          "edithide": false,
+          "archivedon": "2021-10-08 05:24:14.114508",
+          "channelabout": "NZDAAR Discussion Group",
+          "channeltitle": "New Zealand Deaths And Adverse Reactions",
+          "channelusername": "NZDeathAndAdverseReactions",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5630636802898407991",
+        "_score": 9.7973,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633684572,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 817,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷 Businessman Charles Gave lends 300,000 euros to French far right candidate Eric Zemmour for his probable presidential campaign. (BFMTV)",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1310984791
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 15,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 09:44:48.343661",
+          "channelabout": "International security and conflict research \n\n❗Fast and accurate coverage of relevant events",
+          "channeltitle": "Intel Slava | Osint research",
+          "channelusername": "intelslava",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6374536013422803308",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633728605,
+          "post": false,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug. Donate to the Front Line Covid-19 Critical Care Alliance, Inc To educate medical professionals and the pub",
+              "display_url": "rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html",
+              "hash": 0,
+              "id": 8.81146488829513e+18,
+              "photo": {
+                "access_hash": -6.56056144694098e+18,
+                "date": 1635412743,
+                "dc_id": 4,
+                "file_reference": "AGRC+L0BCoIeSFwwZv6VZ0jb/f5e",
+                "has_stickers": false,
+                "id": 6.04299777737973e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcotIpjUJkg4ycetQtcXCT7QQVDAYPU1HqV08UirGQGYdaiw/2D7T5h8wHnPc5/wpvawt22zWfdvUqeO4zVeaUlyoLBunBOKpJqTi25A3g4Bqq11I+cn5vWkxx8zWQSbgScjnvRVCzuTvYMcgAmimkxMt3FustwjshIAweae9uskXlmN9hOQMj/ABoopLcp7EK2MOwjyWwff/69NNlbj/lm/wCf/wBeiiqsSRyx28MbbFYORxk0UUVcdiHufw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 19609,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 76456,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 65222,
+                    "w": 1280
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Rumble",
+              "title": "FLCCC - Ivermectin vs Merck's new early treatment drug",
+              "type": "photo",
+              "url": "https://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html"
+            }
+          },
+          "views": 8355,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2032583259
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1484187323
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 156563
+          },
+          "entities": [
+            {
+              "length": 82,
+              "offset": 94,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 39,
+              "offset": 203,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 43,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "1682110679",
+          "channelabout": "Proudly serving the 13th district of North Carolina. Instagram: reptedbudd",
+          "channeltitle": "Congressman Ted Budd",
+          "channelusername": "reptedbudd",
+          "id": 14700,
+          "noforwards": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -6.95960651097681e+18,
+            "apply_min_photo": false,
+            "archivedon": 1682110679,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "fake": false,
+            "id": 2032583259,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "support": false,
+            "verified": false
+          },
+          "lastseents": "2023-04-21T20:57:59.252230"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670800598",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633720473,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 146,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1406963956
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21412
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 19:15:20.291085",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5317283758578089731",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633728621,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 2754,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2032583259
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1238026600
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 20377
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 21,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 22:31:21.362892",
+          "channeltitle": "Patriot Party Alabama",
+          "channelusername": "PatriotPartyAlabama",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5498927378748951892",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633720486,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1144,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1280318801
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28934
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 13,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 20:00:45.359963",
+          "channeltitle": "Free West Virginia",
+          "channelusername": "FreeWestVirginia",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670800633",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633728609,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 2762,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2032583259
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1406963956
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21466
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 21,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 22:31:29.413464",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5498927378748951912",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633734103,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3448,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1280318801
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28955
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 26,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 23:17:04.053974",
+          "channeltitle": "Free West Virginia",
+          "channelusername": "FreeWestVirginia",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5498927378748951913",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633734815,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3448,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1280318801
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28955
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 26,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 23:17:04.055462",
+          "channeltitle": "Free West Virginia",
+          "channelusername": "FreeWestVirginia",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670800661",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633734805,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3793,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1406963956
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21483
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 28,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 23:36:33.939674",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6042864177670800655",
+        "_score": 8.503,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633733640,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3793,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1562318762
+          },
+          "message": "Newsmax's Host Eric Bolling interviews Dr. Pierre Kory about Ivermectin and Merck's new drug.\nhttps://rumble.com/vnhi17-flccc-ivermectin-vs-mercks-new-early-treatment-drug.html\nBuy Ivermectin from here: https://t.me/ivermectinforsaleworldwide",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1406963956
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21483
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 82,
+              "offset": 94
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 203
+            }
+          ],
+          "forwards": 28,
+          "fwdfrom": {
+            "channel_post": 2478,
+            "date": 1633720289,
+            "from_id": {
+              "channel_id": 1553495800,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 23:36:33.942382",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6086674381688433301",
+        "_score": 8.4121,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633704379,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 96,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Zemmour the french far right candidate, second in the polls, says that \"LGBT militants should be expelled from schools \"and he dismisses them as a \"criminal ideology imported from the United States.\"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 664724
+          },
+          "entities": [],
+          "forwards": 2,
+          "fwdfrom": {
+            "date": 1633671423,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 90650685
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1633704370,
+          "edithide": true,
+          "postauthor": "Aries",
+          "archivedon": "2021-10-08 15:20:57.734081",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5397614048038665569",
+        "_score": 8.2368,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633677082,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 491,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷🏳️‍🌈 Eric Zemmour, der französische rechtsextreme Kandidat, Zweiter in den Umfragen, sagt, dass \"LGBT-Militante von Schulen verwiesen werden sollten\" und er tut sie als \"aus den USA importierte kriminelle Ideologie\" ab.‌‌\n\nt.me/Q_D_R_A",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1256729953
+          },
+          "replies": {
+            "channel_id": 1451671597,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 871374
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 12,
+              "offset": 229
+            }
+          ],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1633677056,
+          "edithide": true,
+          "archivedon": "2021-10-08 07:32:59.464366",
+          "channelabout": "Wir erforschen die Fakten basierend auf Wahrheit, nur auf der Grundlage von Logik, Vernunft und Empirismus!\n\nWerbefrei.\nKostenfrei.\nNur die Nachrichten.\nDenn wir sind die News.",
+          "channeltitle": "Q Digital Research Area",
+          "channelusername": "Q_D_R_A",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141444389",
+        "_score": 8.2368,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633680623,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3516,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1622258451
+          },
+          "message": "🇫🇷🏳️‍🌈 Eric Zemmour the french far right candidate, second in the polls, says that \"LGBT militants should be expelled from schools \"and he dismisses them as a\" criminal ideology imported from the United States. \"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 871962
+          },
+          "entities": [],
+          "forwards": 93,
+          "fwdfrom": {
+            "channel_post": 12848,
+            "date": 1633670388,
+            "from_id": {
+              "channel_id": 1310984791,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 08:57:37.971698",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141444391",
+        "_score": 8.2368,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633680693,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3516,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1622258451
+          },
+          "message": "🇫🇷🏳️‍🌈 Eric Zemmour the french far right candidate, second in the polls, says that \"LGBT militants should be expelled from schools \"and he dismisses them as a\" criminal ideology imported from the United States. \"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 871962
+          },
+          "entities": [],
+          "forwards": 93,
+          "fwdfrom": {
+            "channel_post": 12848,
+            "date": 1633670388,
+            "from_id": {
+              "channel_id": 1310984791,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 08:57:37.974586",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5630636802898407984",
+        "_score": 8.2368,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633670388,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 137,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷🏳️‍🌈 Eric Zemmour the french far right candidate, second in the polls, says that \"LGBT militants should be expelled from schools \"and he dismisses them as a\" criminal ideology imported from the United States. \"",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1310984791
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 4,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 05:24:11.499707",
+          "channelabout": "International security and conflict research \n\n❗Fast and accurate coverage of relevant events",
+          "channeltitle": "Intel Slava | Osint research",
+          "channelusername": "intelslava",
+          "userinfo": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4802935766747455588",
+        "_score": 7.0255,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633667540,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 533,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🟥 Eric Zemmour spricht es aus: was wir erleben ist eine Invasion und Kolonisation! Worte sind ebenso wichtig wie Wahlen.\nWas Zemmour sagbar macht - die Wahrheit - wird Frankreich verändern, egal wie er bei den Wahlen abschneidet. \n\nNächste Woche interviewe ich Thais, eine junge französische Patriotin zu den Vorgängen.\n\nhttps://t.me/martinsellnerIB/8282",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1118270626
+          },
+          "replies": {
+            "channel_id": 1485366783,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 55810
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 56,
+              "offset": 27
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 87,
+              "offset": 233
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 33,
+              "offset": 322
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1633667570,
+          "edithide": false,
+          "archivedon": "2021-10-08 05:24:12.523782",
+          "channelabout": "✉️ mein Rundbrief: https://martin-sellner.at/rundbrief/\n✅ unterstützen: http://martin-sellner.at/unterstuetzen-2/",
+          "channeltitle": "Martin Sellner [TELEGRAMELITE]",
+          "channelusername": "martinsellnerIB",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5903952213625013284",
+        "_score": 6.7971,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633703366,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1139,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "“Sen Lindsey Graham continued demands Joe Biden be impeached. He told Newsmax host Eric Bolling, \"I think the guy deserves to be impeached for this,\" citing an \"invasion\" by migrants and immigrants from Latin America and Haiti.”\n\n#AGREE\n@ LindseyGrahamSC\n\nhttps://www.salon.com/2021/10/08/will-really-try-to-impeach-biden-sure--hes-wounded-and-they-smell-blood/\n\nSubscribe: @Eric_Bolling",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1374620994
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 6,
+              "offset": 230,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 105,
+              "offset": 256,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 374,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-02 22:27:10.905551",
+          "channelabout": "Host: “America This Week W/ Eric Bolling” (ABC, NBC, CBS, FOX); “BOLLING With FAVRE”; 2 NYT Bestsellers; 2020 Emmy nominee \n\nericbolling.com",
+          "channeltitle": "Eric Bolling",
+          "channelusername": "Eric_Bolling",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5553450841815539506",
+        "_score": 6.5855,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633657807,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 160,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 306 replies \n\nMinnesota Supreme Court Denies Derek Chauvin’s Request For A Public Defender\n\nFUCKING BASED!!!!\nHahaha no defense for you white boy! This is just too funny! The police union abandoned him, Eric Nelson has abandoned him. Now Minnesota won’t even let him have a public defender. The age of white people is over!\n\nhttp://boards.4chan.org/pol/thread/342536380",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1633648623566.jpg",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 76,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 328
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 05:24:15.571664",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4971447163633773923",
+        "_score": 6.2054,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633712095,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2004854041
+          },
+          "message": "⚠️ BREAKING NEWS ⚠️\n⚠️     IMPORTANT      ⚠️\n\n🇺🇸 ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his tellegram channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news.\n\nJOIN 👇👇👇👇👇👇\n\n✅ @realEricFTrump ✅\n✅ @realEricFTrump ✅",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1157505243
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 359
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 15,
+              "offset": 379
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 240810
+          },
+          "edithide": false,
+          "archivedon": "2021-10-08 17:14:36.585863",
+          "channelabout": "SEE SOMETHING SAY SOMETHING! \nHelp Arizona watch the live feeds of the largest election audit in our country's history! Join the Arizona Audit Watch Group now to get started! @AZAuditWatch \n\n        ⭐️  ALL EYES ON ARIZONA! ⭐️",
+          "channeltitle": "Arizona Audit Watch Chat",
+          "channelusername": "AZAuditChat",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5811551549939529302",
+        "_score": 4.609,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633666458,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "🎬 Der große Crash - Margin Call 👀\n\nDownload  (420 MB) 📀\n\nVeröffentlicht: 2011\nSpielzeit: 107 min\n(3) Kommentare \nKategorien, Genre\n\nDrama Krimi\nFilmhandlung – Der große Crash - Margin Call\n\nWie viele andere Kollegen wird auch Eric Dale kurzfristig entlassen. Doch sein Vermächtnis, eine Analyse über die Finanzen seines Ex-Arbeitgebers, zwingt das Führungspersonal einer New Yorker Investfirma zu einer Blitzkonferenz. Die Firma ist pleite, weil in der Vergangenheit Warnungen ignoriert wurden. Um den Schaden zu begrenzen, will Firmenchef Tuld alle Handelspositionen, die jetzt eigentlich wertlos sind, sofort abstoßen. Ungeachtet der katastrophalen Auswirkungen, die dieser Betrug auf den Markt hätte. Starke Schauspieler und Dialoge sind die wichtigsten Werte von J.C. Chandors Finanzdrama, \n\n🍿🍿🍿🍿🍿🍿🍿🍿🍿🍿",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353107288
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "channel_post": 3523,
+            "date": 1633641755,
+            "from_id": {
+              "channel_id": 1309500406,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "KRAKEN KREW",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.30693316603653e+16,
+          "archivedon": "2021-10-08 05:24:12.24805",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5630636802898407985",
+        "_score": 3.6201,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633673251,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 561,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷🇷🇺 Éric Zemmour the french far right candidate pleads for a geostrategic rapprochement between France and Russia.\n\nHe calls for an end to economic sanctions, \"instilled by the Americans\" since the Crimea affair, finding the process counterproductive in the process. \"They have enabled Russian agriculture to revive to the detriment of our French exporting farmers,\" he underlines.\n\n\"We must collaborate with the Russians, we have common interests\" , he declared, recalling our common positions on Libya, Mali and the fight against Islamism. \n\nHe said he supported a Gaullian vision of Europe, “from Brest to Vladivostok” , in which Russia could be a major partner. \n\nEurope from the Atlantic to the Urals has never been so necessary and urgent for the safeguard of France and its European partners, if the latter hope to count between the United States and China. The subject remains inconceivable for our leaders, however, stuck in an ideological vision of human rights and a moral magisterium far from Putin's realpolitik. \n\nAs a result, the world's new power relations are taking hold, and Europe remains passive. This unthought will remain a major strategic fault. \n\nhttps://www.generation-zemmour.fr/2021/04/27/international-eric-zemmour/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1310984791
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 1177
+            }
+          ],
+          "forwards": 11,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 06:30:38.120726",
+          "channelabout": "International security and conflict research \n\n❗Fast and accurate coverage of relevant events",
+          "channeltitle": "Intel Slava | Osint research",
+          "channelusername": "intelslava",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141444392",
+        "_score": 3.6201,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633680693,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 2249,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1622258451
+          },
+          "message": "🇫🇷🇷🇺 Éric Zemmour the french far right candidate pleads for a geostrategic rapprochement between France and Russia.\n\nHe calls for an end to economic sanctions, \"instilled by the Americans\" since the Crimea affair, finding the process counterproductive in the process. \"They have enabled Russian agriculture to revive to the detriment of our French exporting farmers,\" he underlines.\n\n\"We must collaborate with the Russians, we have common interests\" , he declared, recalling our common positions on Libya, Mali and the fight against Islamism. \n\nHe said he supported a Gaullian vision of Europe, “from Brest to Vladivostok” , in which Russia could be a major partner. \n\nEurope from the Atlantic to the Urals has never been so necessary and urgent for the safeguard of France and its European partners, if the latter hope to count between the United States and China. The subject remains inconceivable for our leaders, however, stuck in an ideological vision of human rights and a moral magisterium far from Putin's realpolitik. \n\nAs a result, the world's new power relations are taking hold, and Europe remains passive. This unthought will remain a major strategic fault. \n\nhttps://www.generation-zemmour.fr/2021/04/27/international-eric-zemmour/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 871962
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 1177
+            }
+          ],
+          "forwards": 40,
+          "fwdfrom": {
+            "channel_post": 12849,
+            "date": 1633673251,
+            "from_id": {
+              "channel_id": 1310984791,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 08:57:37.974647",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141444652",
+        "_score": 3.6201,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633707898,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 4333,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 988868280
+          },
+          "message": "🇫🇷🇷🇺 Éric Zemmour the french far right candidate pleads for a geostrategic rapprochement between France and Russia.\n\nHe calls for an end to economic sanctions, \"instilled by the Americans\" since the Crimea affair, finding the process counterproductive in the process. \"They have enabled Russian agriculture to revive to the detriment of our French exporting farmers,\" he underlines.\n\n\"We must collaborate with the Russians, we have common interests\" , he declared, recalling our common positions on Libya, Mali and the fight against Islamism. \n\nHe said he supported a Gaullian vision of Europe, “from Brest to Vladivostok” , in which Russia could be a major partner. \n\nEurope from the Atlantic to the Urals has never been so necessary and urgent for the safeguard of France and its European partners, if the latter hope to count between the United States and China. The subject remains inconceivable for our leaders, however, stuck in an ideological vision of human rights and a moral magisterium far from Putin's realpolitik. \n\nAs a result, the world's new power relations are taking hold, and Europe remains passive. This unthought will remain a major strategic fault. \n\nhttps://www.generation-zemmour.fr/2021/04/27/international-eric-zemmour/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "comments": false,
+            "max_id": 693315,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 15,
+            "replies_pts": 872359
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 1177
+            }
+          ],
+          "forwards": 60,
+          "fwdfrom": {
+            "channel_post": 12849,
+            "date": 1633673251,
+            "from_id": {
+              "channel_id": 1310984791,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 16:33:53.503281",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6086674381688433302",
+        "_score": 3.6201,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633704379,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 123,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Éric Zemmour the french far right candidate pleads for a geostrategic rapprochement between France and Russia.\n\nHe calls for an end to economic sanctions, \"instilled by the Americans\" since the Crimea affair, finding the process counterproductive in the process. \"They have enabled Russian agriculture to revive to the detriment of our French exporting farmers,\" he underlines.\n\n\"We must collaborate with the Russians, we have common interests\" , he declared, recalling our common positions on Libya, Mali and the fight against Islamism. \n\nHe said he supported a Gaullian vision of Europe, “from Brest to Vladivostok” , in which Russia could be a major partner. \n\nEurope from the Atlantic to the Urals has never been so necessary and urgent for the safeguard of France and its European partners, if the latter hope to count between the United States and China. The subject remains inconceivable for our leaders, however, stuck in an ideological vision of human rights and a moral magisterium far from Putin's realpolitik. \n\nAs a result, the world's new power relations are taking hold, and Europe remains passive. This unthought will remain a major strategic fault. \n\nhttps://www.generation-zemmour.fr/2021/04/27/international-eric-zemmour/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1417164314
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 1168
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "date": 1633673326,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 90650685
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1633704370,
+          "edithide": true,
+          "postauthor": "Aries",
+          "archivedon": "2021-10-08 15:20:57.712142",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5811551549939529298",
+        "_score": 3.1868,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633666458,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 3,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "US Inc. Skandale:\n\nBidens Wahl für den Rechnungsprüfer zur Regulierung der Nationalbanken erhielt 1989 den Lenin-Preis an der Moskauer Universität unter der Herrschaft der UdSSR, lobte die Sowjetunion und Karl Marx.\n\nJUST IN – Die US-Bundesregierung befiehlt Google und anderen Suchmaschinen heimlich, Daten über jeden zu verfolgen und bereitzustellen, der nach bestimmten Begriffen durch 'Keyword Warrants' sucht.\n\nBeenden Sie die FED: Im letzten Monat haben wir erlebt, dass beim Federal Reserve System (der „Fed“) grobe Interessenkonflikte ans Licht kamen. Hochrangige Beamte wie Jerome Powell, Rich Clarida, Rob Kaplan und Eric Rosengren wurden beim Handel mit Wertpapieren erwischt, während sie den Hauptzweck der Fed erfüllten, der Nation ein sichereres, flexibleres und stabileres Geld- und Finanzsystem zu bieten War Zeuge der vorzeitigen Pensionierung von Eric Rosengren, Präsident der Federal Reserve Bank of Boston. Er wurde beim Handel mit REITs erwischt, als er vor Immobilien warnte. Diese Woche wird auch Rob Kaplan, Präsident der Federal Reserve Bank von Dallas, vorzeitig in den Ruhestand gehen. Er wurde erwischt, wie er das ganze Jahr 2020 über Millionen in Dutzenden von Unternehmen handelte. Und gerade über das Wochenende fanden wir heraus, dass der Vizevorsitzende Rich Clarida am Tag bevor Powell dies warnte, Millionen von Anleihen (PIMIX) verkaufte und Millionen von Aktienindizes (PSTKX, USMV) kaufte Das Coronavirus könnte Risiken für die Wirtschaft darstellen. Https://unusualwhales.com/blog#2021_fed\n\nFBI überfällt NYPD-Gewerkschaftsbüros: https://www.dailymail.co.uk/news/article-10061713/FBI-raids-office-NYPD-union-connection-ongoing-corruption-investigation.html?adobe_mc=TS%3D1633467047% 7CMCAID%3D2EE90B1085159BB5-4000083DF9A24380\n\nDie US-Regierung weist Google heimlich an, jeden zu verfolgen, der nach bestimmten Namen, Adressen und Telefonnummern sucht. Die US-Regierung erlässt Berichten zufolge heimlich Haftbefehle für Google, um Benutzerdaten über jeden, der bestimmte Suchbegriffe eingibt, bereitzustellen, was Befürchtungen aufkommen lässt, dass unschuldige Online-Benutzer häufiger als bisher angenommen in Ermittlungen schwerer Straftaten verwickelt werden könnten. Um Kriminelle aufzuspüren, haben Bundesermittler begonnen, neue „Schlüsselwort-Haftbefehle“ zu verwenden und sie zu verwenden, um Google aufzufordern, ihnen Informationen über jeden bereitzustellen, der den Namen oder die Adresse eines Opfers in einem bestimmten Jahr durchsucht hat, ein versehentlich entsiegeltes Gerichtsdokument, das Forbes Gefundene Sendungen. Https://news.yahoo.com/government-secretly-orders-google-track-151000879.html\n\nChina und der Iran nutzen die Social-Media-Plattform, um Informationen über Feinde, darunter US-Politiker, zu sammeln. Die Unterbesetzung des Spionageabwehrteams der FB stellt eine Bedrohung für die nationale Sicherheit der USA dar – sagt ein FB-Whistleblower.\n\nH. Wahlbetrug 2020:\n\nMike Lindell erklärt den Fall des Coming Landmark Supreme Court und die Sammelklage Dominion: „Wir müssen 2020 FIRST FIXIEREN“: https://www.thegatewaypundit.com/2021/10/mike-lindell-explains-coming-landmark-supreme -gerichtsfall-sammelklage-dominion-klage-behoben-2020-zuerst/\n\nFirst Amendment-Sammelklage gegen Dominion schreitet voran, Dershowitz-Beratung. Eine Klage, die [letzte Woche] von gekränkten Wahlbeobachtern des Jahres 2020, vertreten durch Kurt Olsen, Dershowitz und andere, eingereicht wurde, behauptet, dass Dominion Voting Systems eine Regierungsbehörde ist und auch viel RICO durch das Versenden von Unterlassungsschreiben getan hat. Https://twitter.com/bradheath/status/1444050467697446914?s=12",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353107288
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 1490
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 152,
+              "offset": 1570
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 77,
+              "offset": 2578
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 86,
+              "offset": 3068
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 61,
+              "offset": 3592
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 65820,
+            "date": 1633625070,
+            "from_id": {
+              "channel_id": 1278043942,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Chef Boss @CUEKANAL FRIEDE",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 05:24:12.243584",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "4802935766747455589",
+        "_score": 2.6925,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633681899,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1877,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🇫🇷 Radikal für die Wende - Von Zemmour lernen?\n\n🟥 Derzeit verbreiten sich Videoclips und Zitate von Eric Zemmour tausendfach im rechten Lager. Der Senkrechtstarter überholt Marine LePen und könnte tatsächlich die französischen Wahlen gewinnen. Viel wichtiger ist aber was er, bereits jetzt, metapolitisch leistet. Ich werde seinen Wahlkampf in nächster Zeit intensiv verfolgen und will bereits jetzt 3 Lektionen festhalten, die man schon aus seinem Anfangserfolg ziehen kann:\n\n1️⃣ Großer Austausch über allem\nZemour larviert nicht mit Randthemen herum und kaschiert die entscheidenden Fragen nicht hinter den ökonomischen und kriminologischen Auswirkungen des Bevölkerungsaustausch. Der Austausch selbst wird direkt angesprochen und als \"Invasion und Kolonisation\" entlarvt. LePen setzte, Kritikern zufolge die letzten Jahre massiv auf eine \"soziale Agenda\" um mehrheitsfähig zu werden und verlor den Bevölkerungsaustausch und die Ersetzungsmigration aus den Augen. In Scharen laufen die echten Rechten, darunter auch viele Bekannte von mir, zu Zemmour über.\n\n2️⃣ Radikale Wende\nZemmour tut nicht so als wäre alles in Ordnung und es bräuchte nur eine \"Reform\". Er vertritt keinen Routine-Parlamentspatriotismus der \"mitregieren\" will. Die Stimmung die zB ein Haimbuchner und Hofer, bei allem sachpolitischen Erfolg verbreiten, ist nicht die der Dringlichkeit und letzten Chance. Tatsächlich ist es aber so. Frankreich steht kurz vor dem Untergang und Westeuropa wird ihm folgen. Zemmour macht das in aller Deutlichkeit klar. Die Nichtwähler werden es ihm danken!\n\n3️⃣ Keine Distanzierung\nZemmour ist auf Angriff gebürstet. Ähnlich wie damals Trump geht er nie in die Defensive. Er erweitert in wenigen Monaten den Rahmen des Sagbaren mehr als FPÖ, AfD und FN Politiker in ganzen Jahren. Natürlich hat er ehemaliger Linker mit jüdisch-algerischen Wurzeln das \"nichtweiße Privileg\", ähnlich wie zB Henryk Broder. Doch das allein ist nicht der Grund für seinen Erfolg. Auch vertritt er sicherlich keine 100% identitären Positionen. Aber er eröffnet endlich eine Debatte über das Thema.\n\n👉🏻 Gewinnt Zemmour wäre das ein Paukenschlag. Aber auch wenn er nicht siegt, könnte er den politischen Diskurs in Frankreich und Europa radikal verändern! Ich werde mein Möglichstes tun um seine Tabubrüche auch in unseren Sprachraum zu tragen!\n\n🔵 Telegramelite",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1118270626
+          },
+          "replies": {
+            "channel_id": 1485366783,
+            "comments": true,
+            "max_id": 42720,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 989820353
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 630875764
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1690644941
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 9,
+            "replies_pts": 55879
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 50,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 50,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 101,
+              "offset": 146
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 32,
+              "offset": 480
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 32,
+              "offset": 480
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 127,
+              "offset": 558
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 78,
+              "offset": 889
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 19,
+              "offset": 1063
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 19,
+              "offset": 1063
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 72,
+              "offset": 1164
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 52,
+              "offset": 1330
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 24,
+              "offset": 1567
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 24,
+              "offset": 1567
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 108,
+              "offset": 1681
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 110,
+              "offset": 2134
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 16,
+              "offset": 2334,
+              "url": "https://t.me/martinsellnerIB"
+            }
+          ],
+          "forwards": 25,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1633682008,
+          "edithide": false,
+          "archivedon": "2021-10-08 09:04:18.137195",
+          "channelabout": "✉️ mein Rundbrief: https://martin-sellner.at/rundbrief/\n✅ unterstützen: http://martin-sellner.at/unterstuetzen-2/",
+          "channeltitle": "Martin Sellner [TELEGRAMELITE]",
+          "channelusername": "martinsellnerIB",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5098060544661786334",
+        "_score": 2.0451,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633708437,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 254,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "🔰What's going on? \n\n▪️Fake Facebook whistleblower Frances Haugen was part of an anti-Trump election meddling group that banned content from Hunter Biden's laptop.\n\n▪️On Wednesday night, Facebook began banning, censoring, and deleting any groups and accounts that raised money for political prisoners on January 6 after \"storming\" the Capitol.\n\n▪️President Trump warns that the U.S. could find itself at war with China because China no longer respects the U.S.\n\n▪️American Airlines has told employees that they must be fully vaccinated against Covid by Nov. 24 or face termination.\nAccording to the U.S. Pilots Union, 30 percent or 4,200 airline pilots still have not been vaccinated against Covid.\n\n▪️A judge appointed by Obama has ordered Texas to suspend the new heartbeat law banning most abortions.\n\n▪️Sports news anchor Sage Steele is not airing on ESPN after she called the vaccination regulations \"sick\" and \"scary\" and asked why former President Barack Obama identifies as black even though he was raised by a white mother?\n\n▪️Psackie again refused to answer questions about a new scheme to spread Hunter Biden's influence under the guise of selling his garbage works.\nLast week, nearly 200 people attended a Hunter Biden art exhibit in Hollywood.\n\n▪️The Los Angeles City Council approved a Covid vaccination mandate for restaurants, bars, gyms, malls and theaters.\n\n▪️Democrat Rashida Tlaib admits to wearing a mask only in front of journalists. \n\n▪️Former Missouri Governor Eric Greitens: \"Joe Biden is now the biggest baby monger in the world.\"\n\n▪️The U.S. has seen the highest increase in homicides in the country in 100 years.\n\n▪️Afghanis are selling American weapons seized by the Taliban.\n\n▪️British scientist Peter Daschak, funded by Fauci, has applied for a grant to create a new coronavirus in 2018, a group of critical scientists called Drastic told the Telegraph.\n\n▪️Many Chinese manufacturers work only 1 day a week as China faces an economic crisis, with 20 of 31 provinces imposing electricity rationing.\n\n▪️A Facebook account of a U.S. Navy warship is hacked to broadcast an Age of Empires game.\n\n▪️Iranian state television reports that speedboats belonging to the paramilitary Revolutionary Guard intercepted a U.S. vessel in the Persian Gulf.\n\n▪️The U.S. deputy attorney general announced the creation of an \"Anti-Cryptocurrency Task Force,\" which aims to strengthen \"the authorities' capacity to combat these financial markets that allow criminals to flourish.\"\n\n▪️The U.S. Special Operations Unit and the Marine Corps contingent operated covertly in Taiwan to train the army for at least a year.\n\n▪️India will reopen to tourists beginning Oct. 15 after being closed for more than a year due to the COVID pandemic.\n\n▪️Russia invites the Taliban to talks in Moscow on October 20.\n\n▪️Biden and Xi Jinping will hold a virtual summit later this year.\n\n▪️Austrian Chancellor Kurtz is being investigated for corruption.\n\n▪️Financial stress in China's real public sector is spreading beyond the Evergrande. Chan Hoi Wan, Hong Kong's richest woman, is suffering huge losses because of Evergrande's solvency problems as a result of the real estate crisis in China.\n\n▪️Tensions between China and Taiwan could lead to World War III, says a senior analyst at the Australian Strategic Policy Institute.\n\n@TheDailyHint",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1186984718
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 17,
+              "offset": 2
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 3319
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 16:56:54.954064",
+          "channelabout": "FOLLOW US IF YOU WANT TO TAKE UR FREE SPEECH BACK ! Maxx1News\nFor any enquiries please DM @Daniel_US_TX\n.\n.\n.\nbit.ly/PatriotMap",
+          "channeltitle": "QAnon | FreeSpeech 🐸 MaxX1",
+          "channelusername": "Maxx1News",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6276503578165222513",
+        "_score": 2.0451,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633706547,
+          "post": false,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 1756,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2028340369
+          },
+          "message": "What's going on? \n\n▪️Fake Facebook whistleblower Frances Haugen was part of an anti-Trump election meddling group that banned content from Hunter Biden's laptop.\n\n▪️On Wednesday night, Facebook began banning, censoring, and deleting any groups and accounts that raised money for political prisoners on January 6 after \"storming\" the Capitol.\n\n▪️President Trump warns that the U.S. could find itself at war with China because China no longer respects the U.S.\n\n▪️American Airlines has told employees that they must be fully vaccinated against Covid by Nov. 24 or face termination.\nAccording to the U.S. Pilots Union, 30 percent or 4,200 airline pilots still have not been vaccinated against Covid.\n\n▪️A judge appointed by Obama has ordered Texas to suspend the new heartbeat law banning most abortions.\n\n▪️Sports news anchor Sage Steele is not airing on ESPN after she called the vaccination regulations \"sick\" and \"scary\" and asked why former President Barack Obama identifies as black even though he was raised by a white mother?\n\n▪️Psackie again refused to answer questions about a new scheme to spread Hunter Biden's influence under the guise of selling his garbage works.\nLast week, nearly 200 people attended a Hunter Biden art exhibit in Hollywood.\n\n▪️The Los Angeles City Council approved a Covid vaccination mandate for restaurants, bars, gyms, malls and theaters.\n\n▪️Democrat Rashida Tlaib admits to wearing a mask only in front of journalists. \n\n▪️Former Missouri Governor Eric Greitens: \"Joe Biden is now the biggest baby monger in the world.\"\n\n▪️The U.S. has seen the highest increase in homicides in the country in 100 years.\n\n▪️Afghanis are selling American weapons seized by the Taliban.\n\n▪️British scientist Peter Daschak, funded by Fauci, has applied for a grant to create a new coronavirus in 2018, a group of critical scientists called Drastic told the Telegraph.\n\n▪️Many Chinese manufacturers work only 1 day a week as China faces an economic crisis, with 20 of 31 provinces imposing electricity rationing.\n\n▪️A Facebook account of a U.S. Navy warship is hacked to broadcast an Age of Empires game.\n\n▪️Iranian state television reports that speedboats belonging to the paramilitary Revolutionary Guard intercepted a U.S. vessel in the Persian Gulf.\n\n▪️The U.S. deputy attorney general announced the creation of an \"Anti-Cryptocurrency Task Force,\" which aims to strengthen \"the authorities' capacity to combat these financial markets that allow criminals to flourish.\"\n\n▪️The U.S. Special Operations Unit and the Marine Corps contingent operated covertly in Taiwan to train the army for at least a year.\n\n▪️India will reopen to tourists beginning Oct. 15 after being closed for more than a year due to the COVID pandemic.\n\n▪️Russia invites the Taliban to talks in Moscow on October 20.\n\n▪️Biden and Xi Jinping will hold a virtual summit later this year.\n\n▪️Austrian Chancellor Kurtz is being investigated for corruption.\n\n▪️Financial stress in China's real public sector is spreading beyond the Evergrande. Chan Hoi Wan, Hong Kong's richest woman, is suffering huge losses because of Evergrande's solvency problems as a result of the real estate crisis in China.\n\n▪️Tensions between China and Taiwan could lead to World War III, says a senior analyst at the Australian Strategic Policy Institute.\n\n🇺🇸@TrumpNewsLive",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1461362368
+          },
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 154049
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 17,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 18,
+              "offset": 3317
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 14,
+              "offset": 3321
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "channel_post": 5540,
+            "date": 1633706487,
+            "from_id": {
+              "channel_id": 1373150338,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 15:44:02.446314",
+          "channelabout": "https://linktr.ee/PatriotMap\n\nPatriot intelligence group.",
+          "channeltitle": "🇺🇸 Freedom Force News 🇺🇸",
+          "channelusername": "FreedomForceNews",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5533563034405983647",
+        "_score": 2.0451,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1633673808,
+          "post": true,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "views": 772,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Die falsche Facebook-Informantin Frances Haugen gehörte zu einer Gruppe, die gegen Trumps Einmischung in die Wahl kämpfte und Inhalte von Hunter Bidens Laptop sperrte.\n\nAm Mittwochabend begann Facebook damit, alle Gruppen und Konten zu sperren, zu zensieren und zu löschen, die am 6. Januar nach der \"Erstürmung\" des Kapitols Geld für politische Gefangene gesammelt hatten.\n\nPräsident Trump warnt, dass sich die Vereinigten Staaten im Krieg mit China befinden könnten, weil China die Vereinigten Staaten nicht mehr respektiert.\n\n▪️American Airlines hat seine Mitarbeiter darüber informiert, dass sie bis zum 24. November vollständig gegen Covid geimpft sein müssen, ansonsten droht ihnen die Entlassung.\nNach Angaben der US-Pilotengewerkschaft sind 30 % oder 4 200 Piloten der Fluggesellschaften noch immer nicht gegen Covid geimpft.\n\nEin von Obama ernannter Richter hat Texas angewiesen, ein neues Gesetz zum Schutz des Herzschlags auszusetzen, das die meisten Abtreibungen verbietet.\n\n▪️Sportnachrichtenmoderatorin Sage Steele wird nicht mehr auf ESPN gesendet, nachdem sie Impfvorschriften als \"krank\" und \"beängstigend\" bezeichnet und gefragt hatte, warum der ehemalige Präsident Barack Obama sich als schwarz identifiziert, obwohl er von einer weißen Mutter großgezogen wurde?\n\n▪️Psaki weigerte sich erneut, Fragen zu dem neuen Vorhaben zu beantworten, den Einfluss von Hunter Biden unter dem Deckmantel des Verkaufs seiner Müllwerke zu verbreiten.\nLetzte Woche besuchten fast 200 Menschen Hunter Bidens Kunstausstellung in Hollywood.\n\nDer Stadtrat von Los Angeles hat eine Covid-Impfpflicht für Restaurants, Bars, Fitnessstudios, Einkaufszentren und Theater beschlossen.\n\n▪️Die Demokratin Rashida Tlaib gibt zu, dass sie nur vor Journalisten eine Maske trägt. \n\n▪️Früherer Gouverneur von Missouri Eric Greitens: \"Joe Biden ist jetzt der größte Kinderhändler der Welt.\"\n\n▪️Die Vereinigten Staaten haben in den letzten 100 Jahren den höchsten Anstieg der Zahl der Morde im Land verzeichnet.\n\n▪️Die Afghanen verkaufen amerikanische Waffen, die von den Taliban erbeutet wurden.\n\n▪️Der britische Wissenschaftler Peter Dashak, der von Fauci finanziert wird, beantragte 2018 einen Zuschuss für die Entwicklung eines neuen Coronavirus, wie eine Gruppe kritischer Wissenschaftler namens Drastic dem Telegraph berichtete.\n\n▪️Viele chinesische Hersteller arbeiten nur einen Tag pro Woche, da China mit einer Wirtschaftskrise konfrontiert ist - 20 von 31 Provinzen führen Stromrationierungen ein.\n\n▪️Das Facebook-Konto eines Kriegsschiffs der US-Marine wurde gehackt, um das Spiel Age of Empires zu übertragen.\n\nDas iranische Staatsfernsehen berichtet, dass Schnellboote der paramilitärischen Revolutionsgarde ein amerikanisches Schiff im Persischen Golf abgefangen haben.\n\n▪️Der stellvertretende Generalstaatsanwalt der Vereinigten Staaten kündigt die Gründung einer \"Gruppe zur Bekämpfung von Kryptowährungen\" an, die \"die Kapazitäten der Behörden zur Bekämpfung dieser Finanzmärkte, die Kriminellen das Gedeihen ermöglichen, stärken soll.\"\n\n▪️IN Kasachstan wird man damit beginnen, die Impfung der Mitarbeiter zu überprüfen. Der Algorithmus für die Razzien zur Überprüfung von Impfpässen und medizinischen Unterlagen wurde am 8. September genehmigt.\n\nEine US-Spezialeinheit und ein Kontingent von Marines operieren seit mindestens einem Jahr heimlich in Taiwan, um die Armee zu trainieren.\n\n▪️Indien wird ab dem 15. Oktober wieder für Touristen geöffnet, nachdem es wegen der COVID-Pandemie mehr als ein Jahr lang geschlossen war.\n\n▪️Russland lädt die Taliban für den 20. Oktober zu Gesprächen nach Moskau ein.\n\n▪️Biden und Xi Jinping werden Ende des Jahres einen virtuellen Gipfel abhalten.\n\n▪️Eine Korruptionsuntersuchung wurde gegen den österreichischen Bundeskanzler Kurz eingeleitet.\n\n▪️Der finanzielle Stress im realen öffentlichen Sektor Chinas geht über Evergrande hinaus. Chan Hoi Wan, die reichste Frau Hongkongs, erleidet aufgrund von Problemen mit der Zahlungsfähigkeit von Evergrande, die durch die Immobilienkrise in China entstanden sind, große Verluste.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1288383043
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 3,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-08 06:28:18.118742",
+          "channelabout": "Herzlich willkommen auf Q-Faktor Germany. Hier findet ihr alle von mir zusammen getragenen Realtime-Infos zu Q und zum derzeitigen Geschehen. Dies ist keine populistische oder extremistische Seite, sondern eine Aufklärungsseite der momentanen Ereignisse.",
+          "channeltitle": "Q-Faktor Germany Die Echtzeit Analyse",
+          "channelusername": "Q_Faktor_Germany",
+          "userinfo": {}
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

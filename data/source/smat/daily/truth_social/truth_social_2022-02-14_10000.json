@@ -1,0 +1,209 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [19],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [4],
+      "relation": ["eq"]
+    },
+    "max_score": [7.1518],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107794691061803198",
+        "_score": 7.1518,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "TheSun",
+            "display_name": "SJVSun",
+            "id": "107788340004008079",
+            "username": "TheSun"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "The San Joaquin Valley Sun",
+            "author_url": "https://sjvsun.com/author/sjvsun/",
+            "blurhash": "UEEx|wV[%ct3-iRi~WxaI-v}ScV?tRV?ROj=",
+            "description": "Despite masks being handed out at the Super Bowl, celebrities, the Mayor of Los Angeles, and few fans appeared to actually wear facial coverings during the big event.",
+            "embed_url": "",
+            "height": 209,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/000/000/879/original/3f63527363ef2cb2.png",
+            "provider_name": "The San Joaquin Valley Sun",
+            "provider_url": "https://sjvsun.com",
+            "title": "Fans, celebs, LA Mayor ignore Super Bowl mask rules",
+            "type": "link",
+            "url": "https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/",
+            "width": 400
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.<\/p><p><a href=\"https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">sjvsun.com/sports/fans-celebs-<\/span><span class=\"invisible\">la-mayor-ignore-super-bowl-mask-rules/<\/span><\/a><\/p>",
+          "content_cleaned": "Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/",
+          "created_at": "2022-02-14T05:27:33.001+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 17,
+          "id": "107794691061803198",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblogged": false,
+          "reblogs_count": 7,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@TheSun/107794691061803198",
+          "url": "https://truthsocial.com/@TheSun/107794691061803198",
+          "visibility": "public",
+          "lastseents": "2023-05-15T03:03:30.628247",
+          "reblog": {}
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107794695525349111",
+        "_score": 7.039,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "tavlian",
+            "display_name": "Alex Tavlian",
+            "id": "107788326918563478",
+            "username": "tavlian"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@TheSun\" class=\"u-url mention\">@<span>TheSun<\/span><\/a><\/span>Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.<\/p><p><a href=\"https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">sjvsun.com/sports/fans-celebs-<\/span><span class=\"invisible\">la-mayor-ignore-super-bowl-mask-rules/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @TheSunEllen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/",
+          "created_at": "2022-02-14T05:28:41.087+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107794695525349111",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@tavlian/107794695525349111",
+          "url": "https://truthsocial.com/@tavlian/107794695525349111",
+          "visibility": "public",
+          "lastseents": "2023-05-15T03:05:04.133597",
+          "reblog": {
+            "id": "107794691061803198",
+            "uri": "https://truthsocial.com/@TheSun/107794691061803198",
+            "url": "https://truthsocial.com/@TheSun/107794691061803198"
+          }
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107795480662667229",
+        "_score": 6.9303,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "stoic",
+            "display_name": "Memento Mori",
+            "id": "107771821208239052",
+            "username": "stoic"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@TheSun\" class=\"u-url mention\">@<span>TheSun<\/span><\/a><\/span> Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.<\/p><p><a href=\"https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">sjvsun.com/sports/fans-celebs-<\/span><span class=\"invisible\">la-mayor-ignore-super-bowl-mask-rules/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @TheSun Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/",
+          "created_at": "2022-02-14T08:48:21.333+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107795480662667229",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/stoic/statuses/107795480662667229/activity",
+          "url": "https://truthsocial.com/users/stoic/statuses/107795480662667229/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "107794691061803198",
+            "uri": "https://truthsocial.com/users/TheSun/statuses/107794691061803198",
+            "url": "https://truthsocial.com/@TheSun/107794691061803198"
+          },
+          "last_seen_ts": "2022-11-13T03:54:17.247741+00:00"
+        }
+      },
+      {
+        "_index": "smat-truthsocial-data-202202",
+        "_id": "107797594886099740",
+        "_score": 6.9303,
+        "_ignored": ["content.keyword"],
+        "_source": {
+          "account": {
+            "acct": "thechrislewis",
+            "display_name": "Chris Lewis",
+            "id": "107793641293964852",
+            "username": "thechrislewis"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@TheSun\" class=\"u-url mention\">@<span>TheSun<\/span><\/a><\/span> Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.<\/p><p><a href=\"https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">sjvsun.com/sports/fans-celebs-<\/span><span class=\"invisible\">la-mayor-ignore-super-bowl-mask-rules/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @TheSun Ellen, LeBron – even L.A. Mayor Eric Garcetti outright ignored mask mandates during the Super Bowl.https://sjvsun.com/sports/fans-celebs-la-mayor-ignore-super-bowl-mask-rules/",
+          "created_at": "2022-02-14T17:46:01.821+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107797594886099740",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/thechrislewis/statuses/107797594886099740/activity",
+          "url": "https://truthsocial.com/users/thechrislewis/statuses/107797594886099740/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "107794691061803198",
+            "uri": "https://truthsocial.com/users/TheSun/statuses/107794691061803198",
+            "url": "https://truthsocial.com/@TheSun/107794691061803198"
+          },
+          "last_seen_ts": "2022-05-31T00:05:03.839420+00:00"
+        }
+      }
+    ]
+  }
+}

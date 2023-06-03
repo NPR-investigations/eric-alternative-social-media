@@ -1,0 +1,1568 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [12.5124],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5846913321358093188",
+        "_score": 12.5124,
+        "_source": {
+          "archivedon": "2023-02-11 02:44:14.994234",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1675188242,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "mya Rudolph, Eric andre, Lenny Kravitz",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1008685
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "4986307041808140262",
+        "_score": 12.3431,
+        "_source": {
+          "archivedon": "1679426215",
+          "channelabout": "Nothing Can Stop Me From Posting\n\nOh, dear friends, you know what an imagination I have, especially when I get worked up over something.  You must take what I say with a grain of salt and childlike confidence. ~ The Baron Trump Collection",
+          "channeltitle": "youdontknowjaQ",
+          "channelusername": "youdontknowjaqchannel",
+          "date": 1675176008,
+          "editdate": 1675180556,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Mayor Mike Eric Adams playing ping pong.",
+          "peerid": {
+            "channel_id": 1160965078,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1853602208,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 63269
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 248,
+          "id": 51174,
+          "mediaref": "b069fe8896cc5b631339ae82424dd45c64b17b5f",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-21T19:16:55.927445"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6347407316354158428",
+        "_score": 11.5713,
+        "_source": {
+          "archivedon": "2023-02-05 11:33:06.372298",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1675177384,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 156,
+              "offset": 90,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 248,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 259,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 259,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Mayor Eric Adams insists shelter that migrants refuse to move to is not a 'prison'\n\nRead: https://www.dailymail.co.uk/news/article-11696691/Mayor-Eric-Adams-insists-shelter-migrants-refuse-not-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 53,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6347407316354158469",
+        "_score": 11.4283,
+        "_source": {
+          "archivedon": "2023-02-05 11:33:04.089354",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1675186282,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 94,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 180,
+              "offset": 102,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 284,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 295,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 295,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Trump 2024 campaign gains SUPPORT from Republican Senators J.D. Vance and Eric Schmitt: Report\n\nRead: https://www.dailymail.co.uk/news/article-11696633/Trump-2024-campaign-gains-SUPPORT-Republican-Senators-J-D-Vance-Eric-Schmitt-Report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 40,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5558787308615899657",
+        "_score": 10.8885,
+        "_source": {
+          "archivedon": "2023-01-31 03:10:14.770113",
+          "channelabout": "My book BLACKOUT is available on Amazon, Barnes & Noble, Kindle and more!\n\nblexit.com",
+          "channeltitle": "Candace Owens",
+          "channelusername": "CandaceOwens",
+          "date": 1675131651,
+          "editdate": 1675132818,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://conservativebrief.com/wp-content/uploads/2023/01/Swalwell-1.jpg"
+            },
+            {
+              "length": 82,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 91,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "​Eric Swalwell's Chinse Spy Scandal Gets Even Worse After He's Kicked Off Committee\n\nREAD: https://fearless.report/TKTQFc",
+          "peerid": {
+            "channel_id": 1294256027,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1694,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5354447101273392417",
+        "_score": 10.8885,
+        "_source": {
+          "archivedon": "2023-01-31 05:04:10.337787",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1675131651,
+          "editdate": 1675131652,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://conservativebrief.com/wp-content/uploads/2023/01/Swalwell-1.jpg"
+            },
+            {
+              "length": 82,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 91,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6665,
+            "date": 1675131651,
+            "from_id": {
+              "channel_id": 1294256027,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "​Eric Swalwell's Chinse Spy Scandal Gets Even Worse After He's Kicked Off Committee\n\nREAD: https://fearless.report/TKTQFc",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1086260
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 23,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "7480551067793492138",
+        "_score": 10.182,
+        "_source": {
+          "archivedon": "1683421157",
+          "channelabout": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government.",
+          "channeltitle": "Judicial Watch",
+          "channelusername": "JudicialWatch",
+          "date": 1675182762,
+          "editdate": 1675183483,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 114,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 28,
+              "offset": 133,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/O1qDBS5vdC4"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "“America is a bit safer today because Adam Schiff and Eric Swalwell were kicked off the Intelligence Committee,”  @TomFitton. WATCH: https://youtu.be/O1qDBS5vdC4",
+          "peerid": {
+            "channel_id": 1741701520,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1322,
+          "id": 2218,
+          "mediaref": "b5d74dc8f344ed3745d1c51611de019ab73e3b52",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 71,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 10,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🎉",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🙏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-05-07T00:59:17.547691",
+          "collected_by": "crawler",
+          "url": "t.me/JudicialWatch/2218"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "4585130905651126854",
+        "_score": 9.7646,
+        "_source": {
+          "archivedon": "1679112461",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "date": 1675183762,
+          "editdate": 1675209935,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 168,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Swalwell on being booted from the House Intel Committee. This is some Bakersfield BS. It’s Kevin McCarthy weaponizing his ability to commit this political abuse.\n\n#TopStories",
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 126,
+          "id": 8774,
+          "mediaref": "41b6a90c1a890f024e2702b08e30dbda5b355f66",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-18T04:20:43.141055"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "4589158519822885485",
+        "_score": 9.7646,
+        "_source": {
+          "archivedon": "1679139097",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "date": 1675183760,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 168,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Swalwell on being booted from the House Intel Committee. This is some Bakersfield BS. It’s Kevin McCarthy weaponizing his ability to commit this political abuse.\n\n#TopStories",
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 44,
+          "id": 8813,
+          "mediaref": "41b6a90c1a890f024e2702b08e30dbda5b355f66",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-18T11:31:37.722272"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5764665659711562421",
+        "_score": 9.7646,
+        "_source": {
+          "archivedon": "1680898188",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1675183820,
+          "editdate": 1675183826,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 168,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Swalwell on being booted from the House Intel Committee. This is some Bakersfield BS. It’s Kevin McCarthy weaponizing his ability to commit this political abuse.\n\n#TopStories",
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27906
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 151,
+          "id": 8885,
+          "mediaref": "41b6a90c1a890f024e2702b08e30dbda5b355f66",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-07T20:09:48.550228"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "4902471006767031425",
+        "_score": 9.7646,
+        "_source": {
+          "archivedon": "1683716332",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "date": 1675183838,
+          "editdate": 1675183842,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 168,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Swalwell on being booted from the House Intel Committee. This is some Bakersfield BS. It’s Kevin McCarthy weaponizing his ability to commit this political abuse.\n\n#TopStories",
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 43,
+          "id": 9345,
+          "mediaref": "41b6a90c1a890f024e2702b08e30dbda5b355f66",
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-05-10T11:10:00.670693",
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/9345"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "7242217620232790794",
+        "_score": 8.6363,
+        "_source": {
+          "archivedon": "1678847747",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1675189050,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 78,
+              "offset": 180,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 92,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1409912520
+          },
+          "fwdfrom": {
+            "channel_post": 4873,
+            "date": 1675134517,
+            "from_id": {
+              "channel_id": 1399177000,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Eric Moutsos",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "message": "How to get off the beast system.... Loved this interview. It's also available on all podcast platforms under The American Moutsos Show 🇺🇸 Thank you Carrie Madej for your time. \n\nhttps://rumble.com/v27skde-live-independent-carrie-madej-and-eric-moutsos.html",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1444994
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -8.55567762933283e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "NerdLvr",
+            "id": 1409912520,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.17253965460234e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIrpsMIAGGz6dqKKKVyrE=",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Nerdlvr",
+            "verified": false,
+            "archivedon": 1678847747,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "views": 2225,
+          "id": 844554,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-15T02:35:47.287307"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5525220386851443379",
+        "_score": 8.6363,
+        "_source": {
+          "archivedon": "2023-01-31 12:18:42.456079",
+          "channelabout": "Please see pinned message.\nChristian: @christianencouragement\nBackup: @QAnons2\n🇺🇸WWG1WGA🇺🇸\n• Safe place for all things Q and Trump related.\n• Use common sense.\n• Invite your friends!\nQuestions and concerns? Message an admin!",
+          "channeltitle": "The Great Awakening - Research",
+          "channelusername": "q_anons",
+          "date": 1675166099,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 127,
+              "offset": 153,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 651570634
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "New York City mayor Eric Adams has ordered all staff working for City Hall to undergo equality training inspired by controversial Critical Race Theory.\n\nhttps://www.dailymail.co.uk/news/article-11692203/NYC-mayor-require-city-staff-CRT-style-training-address-unconscious-bias.html",
+          "peerid": {
+            "channel_id": 1286440619,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 610159
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 651570634,
+            "_v": 1,
+            "access_hash": -7.86677235380047e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Norwegian",
+            "id": 651570634,
+            "is_self": false,
+            "last_name": "Squirrel",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 2.79847456452022e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 288327,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              },
+              "photo_small": {
+                "local_id": 288325,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "NorSquirrel",
+            "verified": false,
+            "_media_ref": "17a7ec4611b0c075547ffefd2b64c1153232cb26"
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6395918709969431796",
+        "_score": 8.3453,
+        "_source": {
+          "archivedon": "2023-02-05 13:10:45.830796",
+          "channelabout": "An unofficial channel of the Epoch Times, an independent, award-winning voice in print & online integrity & truthfulness in reporting.",
+          "channeltitle": "Epoch Times",
+          "channelusername": "EpochTimesChannel",
+          "date": 1675183583,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 80,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 23,
+              "offset": 247,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "“What we do know is that we feel like we were set up,” Jones said. Democrats in #Brooklyn added peoples’ names to petitions they didn’t sign and demanded bribes, according to news reports. Now District Attorney Eric Gonzalez plans to investigate. https://t.co/XvWGo7sAeP",
+          "peerid": {
+            "channel_id": 1489165870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 76,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6139125346940752650",
+        "_score": 7.9482,
+        "_source": {
+          "archivedon": "2023-02-06 22:27:47.7682",
+          "channelabout": "The official channel of Roger Stone - https://StoneColdTruth.com • Get a personal, up-to-date briefing from #RogerStone : https://cameo.com/rogerstone",
+          "channeltitle": "Roger Stone",
+          "channelusername": "RogerStoneJr",
+          "date": 1675195110,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 188,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "At 5PM EST today retired NYPD Lieutenant Eric Dym and unjustly fired NYPD veteran Sal Greco join me in the StoneZONE to talk about the crime problem plaguing New York City. \n\nWATCH LIVE:\n\nhttps://rumble.com/v27vnoc-nycs-crime-crisis-nypd-veterans-join-roger-stone-in-the-stonezone.html?mref=mselh&mc=33mqt",
+          "peerid": {
+            "channel_id": 1429376506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1557,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5701205048307093085",
+        "_score": 7.3739,
+        "_source": {
+          "archivedon": "2023-02-06 20:17:25.011433",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1675179754,
+          "editdate": 1675179757,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 107,
+              "offset": 315,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 54624,
+            "date": 1675142069,
+            "from_id": {
+              "channel_id": 1347724292,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Maik Pittel",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Spezialeinheiten beschlagnahmen Deep State Cloning Lab in Alaska\n\nUnited States Special Forces haben am Donnerstag ein feindliches Klonlabor in der Nähe von Fort Yukon, Alaska, beschlagnahmt, das Dutzende von Deep State-Klonen enthielt, sagte eine Quelle im Büro von General Eric M. Smith gegenüber Real Raw News.\n\nhttps://nebadonia.wordpress.com/2023/01/30/spezialeinheiten-beschlagnahmen-deep-state-cloning-lab-in-alaska",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "R D G",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331917603,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 329269
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 196,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "5811551549939835727",
+        "_score": 7.1699,
+        "_source": {
+          "archivedon": "2023-01-31 09:17:06.567679",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1675152371,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 64,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 251,
+              "offset": 66,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 107,
+              "offset": 317,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 107,
+              "offset": 317,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 424,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 433,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 433,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 19253,
+            "date": 1675143403,
+            "from_id": {
+              "channel_id": 1544447057,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Spezialeinheiten beschlagnahmen Deep State Cloning Lab in Alaska. \n\nUnited States Special Forces haben am Donnerstag ein feindliches Klonlabor in der Nähe von Fort Yukon, Alaska, beschlagnahmt, das Dutzende von Deep State-Klonen enthielt, sagte eine Quelle im Büro von General Eric M. Smith gegenüber Real Raw News.\n\nhttps://nebadonia.wordpress.com/2023/01/30/spezialeinheiten-beschlagnahmen-deep-state-cloning-lab-in-alaska\n\n🔵⚪️🔴 https://t.me/GHZFriedrichMaik",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "7696064228830044842",
+        "_score": 6.176,
+        "_source": {
+          "archivedon": "2023-01-31 07:31:46.076108",
+          "channeltitle": "ErVolksRunde",
+          "date": 1675137168,
+          "editdate": 1675137534,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 663605558
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "\"Schöne neue Welt\" von Aldous Huxley.\nIch glaube er und auch George Orwell mit \"1984\" haben Blaupausen für ihren Club geschrieben. Ich denke, es waren Auftragsarbeiten. Folgendes habe ich dazu gefunden:\nNochmal zur Erinnerung:\nHuxley schrieb die folgenden Zeilen an Eric Blair, alias George Orwell. Aldous Huxley arbeitete, ebenso wie sein Bruder Julian, für das Londoner Tavistock Institute of Human Relations, dem wohl bedeutendsten, dem Royal Institute for National Affairs unterstellten Think Tank für Social Engineering und Mind Kontrol. Er war, ebenso wie Blair, Mitglied der Fabian Gesellschaft .....\n\n\nDaher auch Antwort 2. Alles war geplant.",
+          "peerid": {
+            "channel_id": 1791879588,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 90638,
+            "reply_to_top_id": 90527
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 663605558,
+            "_v": 1,
+            "access_hash": -2.81110356444466e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bonnie",
+            "id": 663605558,
+            "is_self": false,
+            "last_name": "-53332",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Bonnie17",
+            "verified": false
+          },
+          "v": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "7242217620232790613",
+        "_score": 2.6443,
+        "_source": {
+          "archivedon": "1678847755",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1675135292,
+          "editdate": 1675135407,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 124,
+              "offset": 1565,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 49,
+              "offset": 1756,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://nopalantir.org.uk/"
+            },
+            {
+              "length": 49,
+              "offset": 1756,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 40,
+              "offset": 1838,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir"
+            },
+            {
+              "length": 40,
+              "offset": 1838,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 13,
+              "offset": 2017,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.computerweekly.com/news/252498617/Privacy-campaigners-hail-legal-victory-over-Hancock-and-Palantir"
+            },
+            {
+              "length": 13,
+              "offset": 2017,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 9,
+              "offset": 2258,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.ft.com/content/8ea36422-2f65-4a14-93be-b7b4d38362e3"
+            },
+            {
+              "length": 9,
+              "offset": 2258,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 21,
+              "offset": 2599,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.cnbc.com/video/2019/01/23/watch-cnbcs-full-interview-with-palantir-ceo-alex-karp.html"
+            },
+            {
+              "length": 21,
+              "offset": 2599,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1392131727
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "And who is behind the ‘solution’ they are giving us now they are allowing the scam in scamdemic out in the mainstream? \n\nGreat awakening crew aka Peter Thiel, Trump, Musk, Bannon, etc… all behind the Palantir takeover of the health care system. Yes the cia in-q-Tel funded surveillance company. \n\nDon’t trust big pharma, we need ai to take over healthcare. Don’t trust deep state twitter, trust the thiel/musk twitter. The one that they said they are going to turn it into the western world’s version of wechat. \n\nLikely to come soon-a cyber attack taking out internet service, then sign up for Starlink-internet won’t ever go out. Oh ignore the fact that it’s complete funded by huge government contracts and it’s vc’s are alphabet and Thiel who owns Palantir who tracks everyone’s ever single move. \n\nDon’t trust Biden and the libs. The right are the ones that will fight the nwo. Oh ignore Blackstone, Thiel, Google’s Eric Scmidt and all the wef technocrats who are building the wef Orwellian dystopian tyranny. \n\nBut musk makes fun of schwab, wef, ESG, gates, population control so he must be against them. He would never lie to people. No way he is aware of the global sentiment towards the oligarchs. I mean the guy who owns twitter, and is partnered with the guy that has all of our communcations databases and licenses it to every Intel agency and western government, and who is partnered with Tencent the Chinese government corporation. And who got busted through Cambridge analytica stealing all of our data… how would he know global sentiment? Never 😂\n\nhttps://www.computerweekly.com/news/252529075/NHS-data-platform-costing-480m-to-supersede-Covid-19-data-store-underway?amp=1\n\nThe involvement of Palantir in NHS data projects always attracts controversy from UK civil liberties organisations, such as Privacy International, OpenDemocracy, and the law firm Foxglove. This is largely because its chairman and co-founder is Peter Thiel, reputed to be a right-wing libertarian and a Donald Trump supporter. OpenDemocracy has, in the past, cited Palantir’s “support for US Immigration and Customs Enforcement’s brutal regime of deportations” as a reason why it should be excluded from NHS contracts.\nNevertheless, the data analytics provider’s CEO, Alex Karp, describes himself as a socialist and a progressive, and has a PhD in social theory from Goethe University Frankfurt – well known as the home of the Institute for Social Research, the so-called “Frankfurt School” of Marxism. Karp trained in that tradition, and described himself as “an academic by proclivity” in an interview with CNBC at Davos in 2019.",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 844350,
+            "reply_to_top_id": 844172,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.51584720469574e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Whoonose",
+            "id": 1392131727,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.06009960981631e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIgUsbtuuOR07UUUVSIkc=",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "whoonose",
+            "verified": false,
+            "archivedon": 1678847755,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "id": 844373,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-15T02:35:55.798753"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202301",
+        "_id": "6334189859443340564",
+        "_score": 2.5392,
+        "_source": {
+          "archivedon": "2023-02-11 02:51:11.33867",
+          "channelabout": "Kontakt: team@kulturstudio.info\n\nUNTERSTÜTZE DEIN KULTURSTUDIO\n▶ PAYPAL\nhttp://paypal.me/kulturstudio\noder\nhttps://t.me/suporterKS/4",
+          "channeltitle": "Kulturstudio.tv",
+          "channelusername": "Kulturstudio",
+          "date": 1675184641,
+          "editdate": 1675184743,
+          "edithide": true,
+          "entities": [
+            {
+              "language": "",
+              "length": 57,
+              "offset": 0,
+              "reformatted_key": "MessageEntityPre"
+            },
+            {
+              "length": 24,
+              "offset": 3188,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 24,
+              "offset": 3214,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 3241,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 20,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "´´´KONTAKTSCHULD ! Kulturmarxisten in Reinkultur.  ´´´ \n\nEmotionaler Appell ukrainischer Künstler\nEin Brief aus Charkiw lässt den Streit um den geplanten Auftritt der russischen Opernsängerin Anna Netrebko bei den Maifestspielen in Wiesbaden in neuem Licht erscheinen. Und die Antwort des Intendanten irritiert. \n\nIn der Debatte über den geplanten Auftritt der russischen Opernsängerin Anna Netrebko bei den Internationalen Maifestspielen in Wiesbaden haben sich jetzt auch die Künstler des Taras-Schewtschenko-Theaters aus Charkiw in der Ukraine zu Wort gemeldet. In einem emotionalen Appell bitten sie den Leiter des Festivals, Uwe Eric Laufenberg, sich zwischen ihnen und Netrebko zu entscheiden.\n„Jetzt ist es an Ihnen, zu wählen, wessen Kultur Sie mit Ihrem Festival eine große Bühne bieten werden: der Kultur des Aggressors und terroristischen Staates oder der Kultur des demokratischen Staats, der verzweifelt für die Werte der ganzen zivilisierten Welt kämpft“, heißt es in dem Schreiben aus der Ukraine, das der F.A.Z ebenso vorliegt wie Laufenbergs Antwort.\nWie berichtet, hatte bereits der ukrainische Generalkonsul Vadym Kostiuk erklärt, dass die ukrainischen Künstler nicht in Wiesbaden auftreten wollten, wenn auch Netrebko komme. Er hatte hinzugefügt, dass ihnen dies auch gar nicht erlaubt sei, weil Netrebko auf einer ukrainischen Sanktionsliste stehe.\nDieser zusätzliche Hinweis war in der öffentlichen Debatte teilweise so ausgelegt worden, als sei den Ukrainern die Reise nach Wiesbaden verboten worden. Laufenberg hatte der F.A.Z. gesagt, dass die Künstler aus Charkiw „dringend und unbedingt kommen“ wollten. Diese Auskunft wird durch das Schreiben widerlegt.\nDaraus geht außerdem hervor, dass Laufenbergs Pläne mit Netrebko unerwähnt geblieben seien, als die ukrainischen Künstler engagiert wurden. So groß die Freude über die Einladung gewesen sei, so groß sei auch die Enttäuschung gewesen, als man erfahren habe, dass auch die Teilnahme Netrebkos an demselben Programm geplant sei, heißt es in dem Brief „from the Team of Kharkiv State Academic Ukrainian Drama Theatre“.\nEr geht nur relativ kurz auf die Sanktionsliste mit Netrebkos Namen ein. Dies bedeute, dass ihre Tätigkeiten und öffentlichen Stellungnahmen dem nationalen Interesse des Landes widersprächen. „Dementsprechend ist unsere Teilnahme als Angehörige des staatlichen ukrainischen Theaters an einem gemeinsamen Festival mit Anna Netrebko ausgeschlossen und unmöglich.“\nEindringlich wird das Grauen beschrieben, das die russischen Angriffe in der Ukraine auslösten. Vielleicht sei es das Ziel der Maifestspiele, einen Dialog zwischen Kulturen anzuregen, heißt es in dem Schreiben weiter. Aber dieser Dialog erscheine angesichts der brutalen russischen Aggression als „absolut unmöglich für uns“. Jedenfalls sei das Theater dazu nicht bereit.\nDann kommen die Künstler auf ihr Stück „Caligula“ zu sprechen, mit dem sie zu den Maifestspielen eingeladen worden waren. Darin gehe es um die Tyrannei und ihre Folgen. Würde das Ensemble das Stück aufführen, wäre dies aus seiner Sicht eine verlogene und heuchlerische Fiktion, „und wir wären verlogene und heuchlerische Künstler“, heißt es in dem Brief.\n\n\nhttps://archive.fo/tkg1m\n\nUnterstützen Sie uns ! \n➡️ www.kulturstudio.tv",
+          "peerid": {
+            "channel_id": 1474793502,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6562,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4598 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [50],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [40],
+      "relation": ["eq"]
+    },
+    "max_score": [45.6377],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5658366997252109561",
+        "_score": 45.6377,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1680802619",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1677253573,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 1117,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 420,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1916758036
+          },
+          "fwdfrom": {
+            "channel_post": 1230,
+            "date": 1677243631,
+            "from_id": {
+              "channel_id": 1587700090,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 95481,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Yaffee",
+              "description": "Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC).",
+              "display_url": "yellowhammernews.com/secretary-of-state-eric-address-is-vacant",
+              "hash": 0,
+              "id": 1.75427939672344e+18,
+              "photo": {
+                "access_hash": -3.61970285222743e+18,
+                "date": 1677188916,
+                "dc_id": 4,
+                "file_reference": "AGQvAsWu1QHYc20zDx8oy6xoFplH",
+                "has_stickers": false,
+                "id": 6.03635100195656e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQoqx2oc8kgdTUogtc4y/1PSiyulinOSMlSMHpn61ZW5lD48mTI67pOKLXGrdSMpHbcAlc85zmpY3SRygkO4DJGf/rVDetHKzSrznADZ4P4VTi2iXOTk0gtoXfOTG/LbCcdaKrlkCBQBjOcZophYqxIGdQc4PWrcXBUc4HYk4oooEVHAEjAAYBpoPNFFIroKecfSiiimSc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 160,
+                    "size": 17551,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 400,
+                    "size": 70474,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1200,
+                    "sizes": [11735, 33652, 47867, 70526, 110478]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Yellowhammer News",
+              "title": "Secretary of State: ERIC address is vacant - Yellowhammer News",
+              "type": "photo",
+              "url": "https://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨Alabama SOS Finds ERIC's DC Office EMPTY!🚨\n\nAlabama Secretary of State Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC) this month, but found no ERIC headquarters at the location.\n\n\"As his first official act in office, Allen withdrew the state from the voting registration system, keeping a promise he made on the campaign trail.\n\n“I was in D.C. for a meeting of the National Association of Secretaries of States and, since I was in town, I went to see the ERIC Headquarters,” Allen said. “What I found was that there was no ERIC headquarters at that address. There were no employees. There were no servers. There was no ERIC presence of any kind.\n\n“Instead, I found a virtual office that is rentable by the day. What it was missing was people, servers and any sign of the ERIC team.”\n\nERIC’s published address is 1201 Connecticut Ave NW Ste 600 in Washington, DC., but Allen found that the location is actually operated by Expansive, a company that offers virtual workspaces across the country and rents space by the day.\"\n\nhttps://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 164146
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.27270476473594e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680802619,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "MossandBark",
+            "id": 1916758036,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.09182691118899e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIt712980UUVic92c=",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MossandBark",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 25766,
+          "lastseents": "2023-04-06T17:36:59.093533"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6462698025423737453",
+        "_score": 45.6377,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682243292",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1677268595,
+          "editdate": 1677307429,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 1117,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1230,
+            "date": 1677243631,
+            "from_id": {
+              "channel_id": 1587700090,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 4717,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Yaffee",
+              "description": "Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC).",
+              "display_url": "yellowhammernews.com/secretary-of-state-eric-address-is-vacant",
+              "hash": 0,
+              "id": 1.75427939672344e+18,
+              "photo": {
+                "access_hash": -3.61970285222743e+18,
+                "date": 1677188916,
+                "dc_id": 4,
+                "file_reference": "AGRE/rL7mYSzoxvdmPSzG5ZD2usG",
+                "has_stickers": false,
+                "id": 6.03635100195656e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQoqx2oc8kgdTUogtc4y/1PSiyulinOSMlSMHpn61ZW5lD48mTI67pOKLXGrdSMpHbcAlc85zmpY3SRygkO4DJGf/rVDetHKzSrznADZ4P4VTi2iXOTk0gtoXfOTG/LbCcdaKrlkCBQBjOcZophYqxIGdQc4PWrcXBUc4HYk4oooEVHAEjAAYBpoPNFFIroKecfSiiimSc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 160,
+                    "size": 17551,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 400,
+                    "size": 70474,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1200,
+                    "sizes": [11735, 33652, 47867, 70526, 110478]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Yellowhammer News",
+              "title": "Secretary of State: ERIC address is vacant - Yellowhammer News",
+              "type": "photo",
+              "url": "https://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨Alabama SOS Finds ERIC's DC Office EMPTY!🚨\n\nAlabama Secretary of State Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC) this month, but found no ERIC headquarters at the location.\n\n\"As his first official act in office, Allen withdrew the state from the voting registration system, keeping a promise he made on the campaign trail.\n\n“I was in D.C. for a meeting of the National Association of Secretaries of States and, since I was in town, I went to see the ERIC Headquarters,” Allen said. “What I found was that there was no ERIC headquarters at that address. There were no employees. There were no servers. There was no ERIC presence of any kind.\n\n“Instead, I found a virtual office that is rentable by the day. What it was missing was people, servers and any sign of the ERIC team.”\n\nERIC’s published address is 1201 Connecticut Ave NW Ste 600 in Washington, DC., but Allen found that the location is actually operated by Expansive, a company that offers virtual workspaces across the country and rents space by the day.\"\n\nhttps://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "max_id": 19066,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1572305642
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 34072
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 140,
+          "lastseents": "2023-04-23T09:48:12.645193"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6053871710699099116",
+        "_score": 44.706,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1678813999",
+          "channelabout": "We the people of Wisconsin are building a conservative political movement within the Republican party of Wisconsin",
+          "channeltitle": "Patriot Party of Wisconsin 🧀",
+          "channelusername": "PatriotPartyWisconsin",
+          "date": 1677247040,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 547,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 71,
+              "offset": 1291,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 15,
+              "offset": 1366,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/PeterBernegger"
+            },
+            {
+              "length": 15,
+              "offset": 1366,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 36,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1570724425
+          },
+          "fwdfrom": {
+            "channel_post": 287,
+            "date": 1677240596,
+            "from_id": {
+              "channel_id": 1886380628,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 103404,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Yaffee",
+              "description": "Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC).",
+              "display_url": "yellowhammernews.com/secretary-of-state-eric-address-is-vacant",
+              "hash": 0,
+              "id": 1.75427939672344e+18,
+              "photo": {
+                "access_hash": -3.61970285222743e+18,
+                "date": 1677188916,
+                "dc_id": 4,
+                "file_reference": "AGQQqva2ESkKnu1YGBbP73YwHpxu",
+                "has_stickers": false,
+                "id": 6.03635100195656e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARQoqx2oc8kgdTUogtc4y/1PSiyulinOSMlSMHpn61ZW5lD48mTI67pOKLXGrdSMpHbcAlc85zmpY3SRygkO4DJGf/rVDetHKzSrznADZ4P4VTi2iXOTk0gtoXfOTG/LbCcdaKrlkCBQBjOcZophYqxIGdQc4PWrcXBUc4HYk4oooEVHAEjAAYBpoPNFFIroKecfSiiimSc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 160,
+                    "size": 17551,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 400,
+                    "size": 70474,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1200,
+                    "sizes": [11735, 33652, 47867, 70526, 110478]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Yellowhammer News",
+              "title": "Secretary of State: ERIC address is vacant - Yellowhammer News",
+              "type": "photo",
+              "url": "https://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "AL Secretary of State finds address of ERIC in Washington DC is vacant. No real office. No employees. No servers. Yet we are sending this private company our most personal information - without any us citizens permission. \n\nThey have YOUR social security number. They have your driver's license number, your birthdate, a social media profile of you, your voting history (of when and what method you used to vote), your address, your phone number and email address. And at least for Wisconsin you know who set this all up?  \"Republican\" Robin Vos. @RobinVos\n\n\nIt is mandatory our state is a member of ERIC.\nHere is the statute:\n6.36(1)(ae)1.1. The chief election officer shall enter into a membership agreement with Electronic Registration Information Center, Inc., for the purpose of maintaining the official registration list under this section. Prior to entering into an agreement under this subdivision, the chief election officer shall ensure that the agreement satisfies all of the following conditions:...\". \n\nVos passed a law our state must use a particular vendor, who is ERIC. Guess who wrote the membership agreement Wisconsin must obey: ERIC, not the state. Vos gave ERIC your social security number, driver's license number, birthdate, contact info, address and voting history.\n\nhttps://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/\n\n~ Peter Bernegger",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1409526847,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 103405,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 147399
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 2.77647667784515e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678813999,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "✝️Blondie55🇱🇷",
+            "id": 1570724425,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1411,
+          "lastseents": "2023-03-14T17:13:19.780079"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6094192163596084727",
+        "_score": 22.5101,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:51:27.275349",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1677254373,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 1117,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 407,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1521316170
+          },
+          "fwdfrom": {
+            "channel_post": 1230,
+            "date": 1677243631,
+            "from_id": {
+              "channel_id": 1587700090,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨Alabama SOS Finds ERIC's DC Office EMPTY!🚨\n\nAlabama Secretary of State Wes Allen made an unannounced visit to the published address of the headquarters of the Electronic Registration Information Center (ERIC) this month, but found no ERIC headquarters at the location.\n\n\"As his first official act in office, Allen withdrew the state from the voting registration system, keeping a promise he made on the campaign trail.\n\n“I was in D.C. for a meeting of the National Association of Secretaries of States and, since I was in town, I went to see the ERIC Headquarters,” Allen said. “What I found was that there was no ERIC headquarters at that address. There were no employees. There were no servers. There was no ERIC presence of any kind.\n\n“Instead, I found a virtual office that is rentable by the day. What it was missing was people, servers and any sign of the ERIC team.”\n\nERIC’s published address is 1201 Connecticut Ave NW Ste 600 in Washington, DC., but Allen found that the location is actually operated by Expansive, a company that offers virtual workspaces across the country and rents space by the day.\"\n\nhttps://yellowhammernews.com/secretary-of-state-eric-address-is-vacant/",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 3109371
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 7.08179358043737e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Les",
+            "id": 1521316170,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "TXRed14",
+            "verified": false,
+            "_id": 1521316170,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 23477,
+          "lastseents": "2023-03-17T05:14:38.348831"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5958665514245980424",
+        "_score": 14.4379,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 16:05:53.19339",
+          "channelabout": "Reden, Berichterstattung von Demos und (politischen) Versammlungen, Corona-Recht.",
+          "channeltitle": "KANAL Markus Haintz, Rechtsanwalt & Bürgerrechtler",
+          "channelusername": "Haintz",
+          "date": 1677253481,
+          "editdate": 1677257518,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 32,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 32,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://vm.tiktok.com/ZMYhbCUbF"
+            },
+            {
+              "length": 6,
+              "offset": 32,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 38,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 56,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Haintz/33031"
+            },
+            {
+              "length": 4,
+              "offset": 56,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 60,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 22,
+              "offset": 73,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Haintz/30803"
+            },
+            {
+              "length": 22,
+              "offset": 73,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 95,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 41,
+              "offset": 99,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 26,
+              "offset": 140,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 32,
+              "offset": 169,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.tiktok.com/@fit_health_eric?_t=8a9JPssetrq&_r=1"
+            },
+            {
+              "length": 24,
+              "offset": 201,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 34,
+              "offset": 229,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://linktr.ee/fit_health_eric?utm_source=linktree_profile_share&ltsid=f290d6e7-a175-4304-8c18-7a17b7cc4963"
+            },
+            {
+              "length": 34,
+              "offset": 263,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 317,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Bundeswehrsoldat Eric Mühle auf TikTok, siehe dazu auch hier sowie hier, Eric Mühle bei Bild TV. \n\nHier die Kanäle von Eric, gerne folgen: \nhttps://t.me/fithealtheric  \nwww.tiktok.com/@fit_health_eric\nhttps://tr.ee/4CgGAvBfD4   \nhttps://linktr.ee/fit_health_eric\nwww.instagram.com/fit_health_eric/\n\nStandhaft bleiben Eric, wir stehen hinter dir!",
+          "peerid": {
+            "channel_id": 1387359927,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Markus Haintz",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1700249078,
+            "comments": true,
+            "max_id": 375857,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1310925629
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 905955327
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1150758782
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 10,
+            "replies_pts": 605732
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 33031,
+            "reply_to_top_id": 33022
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 26333,
+          "lastseents": "2023-03-17T05:18:24.635783"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5264730951061094157",
+        "_score": 12.5023,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-03-01 09:40:24.450267",
+          "channelabout": "Founder of The Red Elephants, Father, Catholic, Paleoconservative, and family man",
+          "channeltitle": "Vincent James",
+          "channelusername": "RealVincentJames",
+          "date": 1677197718,
+          "editdate": 1677197828,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 24,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/RZFApIBGQAg"
+            }
+          ],
+          "forwards": 43,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3768,
+            "date": 1677108245,
+            "from_id": {
+              "channel_id": 1440826143,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Weinstein mentions Leather Apron Club on Joe Rogan's podcast",
+          "peerid": {
+            "channel_id": 1225790696,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 7147,
+          "lastseents": "2023-03-17T05:04:13.393299"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5958665514245980423",
+        "_score": 11.8941,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 16:05:53.203155",
+          "channelabout": "Reden, Berichterstattung von Demos und (politischen) Versammlungen, Corona-Recht.",
+          "channeltitle": "KANAL Markus Haintz, Rechtsanwalt & Bürgerrechtler",
+          "channelusername": "Haintz",
+          "date": 1677253242,
+          "editdate": 1677253262,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/ernst_klaus/status/1629142352110428160?s=46&t=sp8Fb87O7eZgJ1tZiHXVRA"
+            }
+          ],
+          "forwards": 61,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Klaus Ernst auf Twitter\n\nKlaus Ernst hat sich im übrigen auch vorbildlich für den Bundeswehrsoldaten Eric Mühle eingesetzt, der sich geweigert hat, dem COVID Impfbefehl nachzukommen. \n\nWie der Stand bei Eric Mühle ist? Siehe hierzu den nächsten Beitrag den er vor einigen Tagen veröffentlicht hat.",
+          "peerid": {
+            "channel_id": 1387359927,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Markus Haintz",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1700249078,
+            "comments": true,
+            "max_id": 375302,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1495838828
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 130318959
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1981594302
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 605732
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 33022
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 22635,
+          "lastseents": "2023-03-17T05:18:24.629908"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5769609480601872289",
+        "_score": 11.7994,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-03-04 15:21:31.404948",
+          "channelabout": "Official telegram channel for Nick Fuentes.",
+          "channeltitle": "Nicholas J. Fuentes",
+          "channelusername": "nickjfuentes",
+          "date": 1677198403,
+          "editdate": 1677198412,
+          "edithide": true,
+          "entities": [],
+          "forwards": 78,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1796,
+            "date": 1677177001,
+            "from_id": {
+              "channel_id": 1156542176,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Weinstein complained about Ye and Nick Fuentes on the most recent Joe Rogan episode",
+          "peerid": {
+            "channel_id": 1343341889,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 26634,
+          "lastseents": "2023-03-17T05:17:17.860149"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4756930709887743779",
+        "_score": 11.6691,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-27 02:58:23.317807",
+          "channeltitle": "Sven Liebich Kanal",
+          "channelusername": "InSvensWelt",
+          "date": 1677260449,
+          "editdate": 1677261333,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 116,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 129,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22116,
+            "date": 1677241870,
+            "from_id": {
+              "channel_id": 1792310949,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://telegra.ph/Unprovozierter-Angriffskrieg-Russlands-Journalist-Eric-Bonse-kritisiert-westliches-Narrativ-02-24\n\nPflegt die @deutschrussischeFreundschaft",
+          "peerid": {
+            "channel_id": 1107559239,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1138,
+          "lastseents": "2023-03-17T04:40:42.166398"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5312044933564193021",
+        "_score": 11.6691,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1679077385",
+          "channelabout": "",
+          "channeltitle": "RBK - Ceterum censeo NATO esse delendam! Raus aus der NATO!",
+          "channelusername": "rbk_2020",
+          "date": 1677260474,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 116,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 129,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22116,
+            "date": 1677241870,
+            "from_id": {
+              "channel_id": 1792310949,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 121085,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "gegenzensur.rtde.life",
+              "description": "Der Journalist Eric Bonse stellt das westliche Narrativ infrage. Man müsse wichtige Informationen ausklammern, um von einem \"unprovozierten Angriffskrieg Russlands\" sprechen zu können, ist seine These. Drei Punkte hebt Bonse besonders hervor. Glaubt man westlichen Medien und westlicher Politik, dann begann der Ukraine-Konflikt am 24. Februar 2022 mit dem unprovozierten Angriff Russlands. Der Konflikt hat keine Vorgeschichte, weder die Ukraine noch die EU oder Deutschland trifft eine Mitschuld. Alleiniger Aggressor…",
+              "display_url": "telegra.ph/Unprovozierter-Angriffskrieg-Russlands-Journalist-Eric-Bonse-kritisiert-westliches-Narrativ-02-24",
+              "hash": 593447419,
+              "id": 5.08122115223014e+18,
+              "photo": {
+                "access_hash": 3.04643721911731e+18,
+                "date": 1677241852,
+                "dc_id": 4,
+                "file_reference": "AGQUr+kaRzieX8x2YVqkuC3y+UhZ",
+                "has_stickers": false,
+                "id": 6.0387412285662e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoq+nHbpU8cWT0yTUAJUj07VZik5HpTAlEApkkHHtVgMDSMR0oAznQg0VJMAc9qKAK8JzGy+lSbsDHaiigB6SECgTHtmiigRG75HNFFFAz",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 19639,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 451,
+                    "size": 113868,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 622,
+                    "w": 1104,
+                    "sizes": [9499, 33240, 65131, 113109, 202504]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegraph",
+              "title": "\"Unprovozierter Angriffskrieg Russlands\"? Journalist Eric Bonse kritisiert westliches Narrativ",
+              "type": "article",
+              "url": "https://telegra.ph/Unprovozierter-Angriffskrieg-Russlands-Journalist-Eric-Bonse-kritisiert-westliches-Narrativ-02-24"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://telegra.ph/Unprovozierter-Angriffskrieg-Russlands-Journalist-Eric-Bonse-kritisiert-westliches-Narrativ-02-24\n\nPflegt die @deutschrussischeFreundschaft",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 253,
+          "lastseents": "2023-03-17T18:23:05.646521"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6281073659591324320",
+        "_score": 11.5418,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-26 22:43:52.655423",
+          "channelabout": "Nachrichten und Fakten für das große Erwachen!",
+          "channeltitle": "Q-Qanal Germany 🖤🤍❤️",
+          "channelusername": "Qanalwwg1wga",
+          "date": 1677267535,
+          "editdate": 1677267571,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 112,
+              "offset": 2,
+              "reformatted_key": "MessageEntityCode"
+            },
+            {
+              "length": 8,
+              "offset": 116,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 62739,
+            "date": 1677267517,
+            "from_id": {
+              "channel_id": 1341687817,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🔥Eric Schwerin, hochrangiger Hunter Biden-Mitarbeiter, kooperiert jetzt mit dem Kongress gegen die Biden-Familie.\n\n@ANONS17",
+          "peerid": {
+            "channel_id": 1462426423,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3440,
+          "lastseents": "2023-03-17T04:38:55.166563"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5090199899812316961",
+        "_score": 9.43,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-27 13:22:08.580751",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1677237161,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 29,
+              "offset": 225,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 631912,
+            "date": 1677237159,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 631912,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "TRANSLATION :\nThe same Eric Aleksanyan. Armenia's most hated lawyer, and me. Let's go into battle.\n\n=======\nORIGINAL :\nТот самый Эрик Алексанян. Самый ненавистный власти адвокат Армении, ну и Я. Рвёмся в бой\n=======\nSOURCE :\nhttps://t.me/mikayelbad/22166\nMika Badalyan",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1103948
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1,
+          "lastseents": "2023-03-17T04:43:32.993449"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6307251128778461525",
+        "_score": 9.2499,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682750379",
+          "channelabout": "",
+          "channeltitle": "Thüringen steht auf! (Öffentlicher Talk)",
+          "channelusername": "thueringer_widerstand_chat",
+          "date": 1677235578,
+          "edithide": false,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 784923570
+          },
+          "fwdfrom": {
+            "channel_post": 92067,
+            "date": 1677235495,
+            "from_id": {
+              "channel_id": 1338603068,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 364885,
+          "media": {
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "access_hash": -7.34957409090183e+18,
+              "attributes": [
+                {
+                  "duration": 94,
+                  "h": 688,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1280
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "IMG_2236.MOV"
+                }
+              ],
+              "date": 1677235495,
+              "dc_id": 2,
+              "file_reference": "AleH23wABZFVZEy7OVSxix2CruyxiZAB/iYLLzE=",
+              "id": 5.46115211488344e+18,
+              "mime_type": "video/quicktime",
+              "reformatted_key": "Document",
+              "size": 30249150,
+              "thumbs": [
+                {
+                  "bytes": "ARUopRgEgHpingfMy4GB3qJSQynBpSW3MRkZFXfUOhaeOMRZHX1pq712lZXQMRkKcU1sf2cpyd+7FSW4BiVnzu9TUJuxT3JrXcbsBpnYZIwzZ7UU20yt2zdQcmigTKkcu1AMAjNOMy4/1S/nRRVtki+coHMQOPenCRWQgJtzxnNFFK4ySzJSXHXcMf1/pRRRSYw=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 172,
+                  "size": 14996,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false
+          },
+          "message": "Der Abgeordnete James Comer gab heute Abend bekannt, dass viele an der Untersuchung zusammenarbeiten, die der Kongress zur Biden Crime Family durchführt, darunter Eric Sherwin, einer der engsten Mitarbeiter von Hunter und eine Schlüsselfigur im gesamten Laptop und in der gesamten Korrespondenz der Biden-Familie 🍿\n\nDie Vögel beginnen zu singen!‌‌\n\nCongressman James Comer announced tonight that many are cooperating in the investigation Congress is conducting into the Biden Crime Family, including Eric Sherwin, one of Hunter's closest aides and a key figure in all of the Biden Family's laptop and correspondence 🍿\n\nThe birds are starting to sing!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1468521340,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 525504
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -1.86472556627512e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682750379,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Rainer",
+            "id": 784923570,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_id": 3.37122106346581e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIqrKvllWXJzwR1oooqAZ/",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1682721817
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1436,
+          "lastseents": "2023-04-29T06:39:39.535031",
+          "collected_by": "crawler",
+          "url": "t.me/thueringer_widerstand_chat/364885"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6180757598812248804",
+        "_score": 8.9736,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681539029",
+          "channelabout": "",
+          "channeltitle": "Jim Jordan",
+          "channelusername": "Jordan_Jim",
+          "date": 1677244151,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 279,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 290,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 26,
+              "offset": 303,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 6884,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Hunter Biden’s top financial lieutenant Eric Schwerin is expected to soon provide documents to the House Oversight Committee’s investigation of the Biden family for nine violations including money laundering and wire fraud, a spokesperson for the committee told Breitbart News.\n\n#_godspeed\n#topStories\n\nhttps://t.me/Truth_social3",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1439069770,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 56,
+          "lastseents": "2023-04-15T06:22:50.545461",
+          "mediaref": "4212117c4adcecd5bfc70f6213cc72446c2d86fb"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5966960951520546825",
+        "_score": 8.824,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:52:28.487464",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1677269691,
+          "editdate": 1677270683,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 2576,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 2746,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 3435,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 45,
+              "offset": 3461,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1252412179
+          },
+          "fwdfrom": {
+            "channel_post": 2161,
+            "date": 1677269688,
+            "from_id": {
+              "channel_id": 1252412179,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2161,
+            "saved_from_peer": {
+              "channel_id": 1252412179,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "BIG WIN for Election Integrity  - Kenosha School Board Reinstates Member Eric Meadows\n\nI want to thank Brian Thomas of Kenosha who is an ongoing supporting member of the WVA.  Brian notified us of a school board member Eric Meadows who was arbitrarily ousted from the school board in the Kenosha Unified School District (KUSD). \n \nEric Meadows had been elected for a three year term and now was being ousted after a year.  The reason KUSD made this decision was because of a \"clerical\" error.  The board seat Meadows ran for was a three year term. However, after the fact KUSD said it was supposed to be for one year.  \n\nThis appeared to WVA to be an election issue and the WVA immediately brought this to the attention of Erick Kaardal, the Thomas More Society (TMS) lawyer we’ve worked with from our beginning.\n\nAfter a few calls, it was determined that, indeed, without any legal stance whatsoever, KUSD had made the decision to oust Eric Meadows from the board where he had been elected to fill a 3 year term.  So, a cease-and-desist letter was sent to the school board.\n\nFollowing their receipt of the letter, the school board had an open school board meeting at which time they announced that indeed Eric Meadows was being ousted from the board.  It should be noted Mr. Meadows is one of two conservatives on a board of seven.  At that meeting a number of supporters of Meadows were carrying signs that bore the name of Eric Meadows.  The school board walked out and shut down the meeting because, in their eyes, the signs of Eric Meadows were “advertising/promotion”, and it is not allowed in accordance with their rule 1510 Advertising/Promotion (attached).\n\nThis is really interesting because at the same time these signs with Eric’s name on them is being considered as advertising/promotion, this same school board is allowing LGBTQA+ and BLM flags to be flown and they are not advertising/promotion, also, at most board meetings, teachers’ union members show up wearing T-shirts with the big red fist.  Methinks this is way odd!\n\nAt that Monday, Feb 20th meeting after the rhubarb concerning the advertising/promotion topic, the board decided to hold a virtual meeting to take up this subject.  Talk about weak, this board leadership doesn't have the backbone of a jellyfish. On Thursday evening Feb 23rd, the board decided to keep Eric Meadows on for another year.  This occurred only after Erick Meadows and TMS lawyer had appeared on Fox and Friends that morning to let the world know how the KUSD was acting outside of the law.   Morning Feb 23 Fox News   --   https://www.foxnews.com/video/6321027107112  Fox news had them on again after the board decided it was in their interest to keep Meadows on the board.  Here is that clip\nhttps://www.foxnews.com/video/6321120331112\n\nI opened this update thanking Brian Thomas, a WVA member and supporter.  It was because Brian was involved and called WVA with the problem initially that TMS was able to intervene and get justice for Eric Meadows.  I extend to every member, if you have any kinds of issues similar to this going on in your community, let us know ASAP.  The WVA is proud to have assisted in this case.\n\nBTW the KUSD is not off the hook yet, there are lingering issues to be taken care of like the LGBTQIA+ and BLM flags displayed at the schools and union T-shirts being worn in board meetings.  And, should Eric Meadows get the 3 year term he was elected for?\n \nRon Heuer \nPresident, WVA\nwww.wisconsinvoteralliance.comteralliance.com",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 255364
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 792,
+          "lastseents": "2023-03-17T05:14:51.222504"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5525220386851447813",
+        "_score": 8.5641,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:50:53.06612",
+          "channelabout": "Please see pinned message.\nChristian: @christianencouragement\nBackup: @QAnons2\n🇺🇸WWG1WGA🇺🇸\n• Safe place for all things Q and Trump related.\n• Use common sense.\n• Invite your friends!\nQuestions and concerns? Message an admin!",
+          "channeltitle": "The Great Awakening - Research",
+          "channelusername": "q_anons",
+          "date": 1677197581,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1202,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 651570634
+          },
+          "fwdfrom": {
+            "channel_post": 12672,
+            "date": 1677197546,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer announced tonight that many are cooperating with the investigation that Congress is conducting into the Biden Crime Family, including Eric Sherwin, who was one of Hunter’s closest associates and a key figure throughout the laptop and all the Biden family correspondence 🍿 \n\nThe birds are starting to sing!",
+          "peerid": {
+            "channel_id": 1286440619,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 616386
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.86677235380047e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Norwegian",
+            "id": 651570634,
+            "is_self": false,
+            "last_name": "Squirrel",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 2.79847456452022e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 288327,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              },
+              "photo_small": {
+                "local_id": 288325,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400084400110
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "NorSquirrel",
+            "verified": false,
+            "_id": 651570634,
+            "restriction_reason": [],
+            "_media_ref": "17a7ec4611b0c075547ffefd2b64c1153232cb26"
+          },
+          "v": 1,
+          "views": 125003,
+          "lastseents": "2023-03-17T05:14:36.103265"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6057077057676915072",
+        "_score": 8.5641,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:54:46.828774",
+          "channelabout": "Fighting for POTUS 🇺🇸",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1677197546,
+          "editdate": 1677197567,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1202,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer announced tonight that many are cooperating with the investigation that Congress is conducting into the Biden Crime Family, including Eric Sherwin, who was one of Hunter’s closest associates and a key figure throughout the laptop and all the Biden family correspondence 🍿 \n\nThe birds are starting to sing!",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 125006,
+          "lastseents": "2023-03-17T05:14:47.717479"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5217371158436936349",
+        "_score": 8.5641,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679016749",
+          "channelabout": "🇩🇪 @QlobalChange\n🇪🇸 @QlobalChangeEspana\n🇮🇹 @QlobalChangeItalia\n🇵🇹 @QlobalChangePortugal\n🇫🇷 @QlobalChangeFrance\n🇧🇷 @QlobalChangeBrasil\n🇳🇱 @QlobalChangeNL\n🤖 @QlobalChangeUS -Newsfeed",
+          "channeltitle": "Qlobal-Change USA 🇺🇸🤝 🇳🇱",
+          "channelusername": "QlobalChangeUSA",
+          "date": 1677199390,
+          "editdate": 1677222843,
+          "edithide": true,
+          "entities": [],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12672,
+            "date": 1677197546,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 31389,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer announced tonight that many are cooperating with the investigation that Congress is conducting into the Biden Crime Family, including Eric Sherwin, who was one of Hunter’s closest associates and a key figure throughout the laptop and all the Biden family correspondence 🍿 \n\nThe birds are starting to sing!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1214763885,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 859,
+          "lastseents": "2023-03-17T01:54:24.350511",
+          "mediaref": "b84cab76b342463e16738747fe5c8d8cb0206574"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4989848298178300134",
+        "_score": 8.5641,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 07:27:37.01258",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1677197975,
+          "editdate": 1677198034,
+          "edithide": true,
+          "entities": [],
+          "forwards": 299,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12672,
+            "date": 1677197546,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer announced tonight that many are cooperating with the investigation that Congress is conducting into the Biden Crime Family, including Eric Sherwin, who was one of Hunter’s closest associates and a key figure throughout the laptop and all the Biden family correspondence 🍿 \n\nThe birds are starting to sing!",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 6741872,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1635423274
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1536582938
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1287662060
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 53,
+            "replies_pts": 9513672
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 29698,
+          "lastseents": "2023-03-17T04:58:32.589464"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6729827970279568727",
+        "_score": 8.5641,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682484458",
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "channeltitle": "Blazen Herb",
+          "channelusername": "Blazenherb",
+          "date": 1677200147,
+          "editdate": 1677200419,
+          "edithide": true,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12672,
+            "date": 1677197546,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 30039,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer announced tonight that many are cooperating with the investigation that Congress is conducting into the Biden Crime Family, including Eric Sherwin, who was one of Hunter’s closest associates and a key figure throughout the laptop and all the Biden family correspondence 🍿 \n\nThe birds are starting to sing!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 11,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "max_id": 83679,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1515317152
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1514707845
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1303227313
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 155668
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 291,
+          "lastseents": "2023-04-26T04:47:38.479667",
+          "mediaref": "b84cab76b342463e16738747fe5c8d8cb0206574"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5278666174316565402",
+        "_score": 8.4368,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 09:43:54.736372",
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1677213567,
+          "editdate": 1677219111,
+          "edithide": true,
+          "entities": [],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Rep. James Comer gab heute Abend bekannt, dass viele mit den Ermittlungen zusammenarbeiten, die der Kongress gegen die Biden-Verbrecherfamilie durchführt, einschließlich Eric Sherwin, der einer der engsten Mitarbeiter von Hunter und eine Schlüsselfigur im gesamten Laptop und in der gesamten Korrespondenz der Biden-Familie war 🍿 \n\nDie Vögel fangen an zu singen!",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 640,
+          "lastseents": "2023-03-17T05:04:12.045899"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6281073659591324309",
+        "_score": 8.3137,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-26 22:43:52.721918",
+          "channelabout": "Nachrichten und Fakten für das große Erwachen!",
+          "channeltitle": "Q-Qanal Germany 🖤🤍❤️",
+          "channelusername": "Qanalwwg1wga",
+          "date": 1677232502,
+          "editdate": 1677232535,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 357,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 62729,
+            "date": 1677232499,
+            "from_id": {
+              "channel_id": 1341687817,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "👀🚨🍿\nDer Abgeordnete James Comer gab heute Abend bekannt, dass viele an der Untersuchung zusammenarbeiten, die der Kongress zur Biden Crime Family durchführt, darunter Eric Sherwin, einer der engsten Mitarbeiter von Hunter und eine Schlüsselfigur im gesamten Laptop und in der gesamten Korrespondenz der Biden-Familie 🍿\n\nDie Vögel beginnen zu singen!‌‌\n\n@ANONS17",
+          "peerid": {
+            "channel_id": 1462426423,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3415,
+          "lastseents": "2023-03-17T04:38:55.164189"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5811551549939849645",
+        "_score": 8.3137,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 07:32:44.181398",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1677269037,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 307,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 42,
+              "offset": 309,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 351,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 351,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 20496,
+            "date": 1677268398,
+            "from_id": {
+              "channel_id": 1544447057,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Der Abgeordnete James Comer gab heute Abend bekannt, dass viele an der Untersuchung zusammenarbeiten.\n\nDie der Kongress zur Biden Family durchführt.Darunter Eric Schwerin, einer der engsten Mitarbeiter von Hunter und eine Schlüsselfigur im gesamten Laptop und in der gesamten Korrespondenz der Biden-Familie. \n\nDie Vögel beginnen zu singen!‌‌\n\n🔵⚪️🔴 https://t.me/GHZFriedrichMaik",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 7,
+          "lastseents": "2023-03-17T04:58:39.191262"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4539800227376835455",
+        "_score": 6.8961,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682654907",
+          "channelabout": "",
+          "channeltitle": "Impfkritik",
+          "channelusername": "impfkritisch",
+          "date": 1677198601,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 137,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 369,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 204,
+              "offset": 1189,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 117,
+              "offset": 1757,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 12,
+              "offset": 1876,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 1918,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 311,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 192342208
+          },
+          "fwdfrom": {
+            "channel_post": 39802,
+            "date": 1676416452,
+            "from_id": {
+              "channel_id": 1476600874,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 568191,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en",
+              "hash": 0,
+              "id": 4.39849236387231e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGRLRq2CXYmpRHeMa67NeQxopIev",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "makismd-substack-com.translate.goog",
+              "title": "Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "💉 Eric Clapton: \"Ich kann wegen der Schmerzen nicht schlafen...der Impfstoff hat mein Immunsystem genommen und es einfach durchgeschüttelt\"‼️\n\nVin Dr. med. William Makis\n\nWarum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des Impfstoffs COVID-19 von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein \"AstraZeneca-Problem\".\n\n👉 Es handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\n\n\"Im Oktober desselben Jahres (2021) erhielt ich meine erste Impfung (Moderna). Innerhalb weniger Tage begann ich, schwere und unerträgliche stechende Schmerzen und Lähmungen in meinen Händen und Füßen zu spüren.\n\n\"Mit der Zeit verschlimmerte sich mein Zustand; ich fragte die Ärzte im Krankenhaus, ob ich jemals wieder 'richtig' laufen würde, und sie gaben mir keine Antwort.\n\n\"Kurz nach dem zweiten Schuss verschlimmerten sich meine Verletzungen weiter und ich konnte mich nicht mehr bewegen, meine Hände fühlten sich an, als würden sie brennen... Ich wurde erneut ins Krankenhaus gebracht und dachte, mein Leben sei vorbei.\n\n\"Ich leide weiterhin unter starken Schmerzen aufgrund von Neuropathie und neurologischen Nervenschäden durch das Moderna Spike Vax....Neuropathie war in keiner meiner Einverständniserklärungen aufgeführt.\n\n\"In Australien werden Ärzte untersucht und disziplinarisch belangt, wenn sie schriftlich bestätigen, dass ein COVID-Impfstoff bei einem Patienten eine Verletzung verursacht hat. Ich habe mir von 5 verschiedenen Ärzten bestätigen lassen, dass mein Zustand durch den Impfstoff verursacht wurde, und sie alle sagten, dass sie das nicht zu Protokoll geben können.\"\n\nhttps://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en\n\nFreieMedien \n\nWahrheit ist unzerstörbar ❕\nhttps://t.me/+PcEcUv4wOTRiMDYx",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1057004609,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 714272
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 2.87767381928631e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682654907,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "jürgen",
+            "id": 192342208,
+            "is_self": false,
+            "last_name": "schult -D-",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_id": 8.26103493456669e+17,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIdZRQM5k25AOF570UUUAf",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "MrLucky2011",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 13336,
+          "lastseents": "2023-04-28T04:08:28.037509"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6418839919636009415",
+        "_score": 6.7077,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:46:34.223031",
+          "channelabout": "Truth-seeking junkie, unapologetic pure-bred American PATRIOT!",
+          "channeltitle": "RealStewPeters",
+          "channelusername": "stewpeters",
+          "date": 1677198087,
+          "editdate": 1677198148,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 145,
+              "offset": 413,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 573,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "DIOXIN: The DEADLY Chemical No One Is Talking About! \n\nPeople Will DIE: East Palestine MUST BE EVACUATED NOW!\n\nDioxins are deadly and everyone in East Palestine needs to evacuate immediately!\n Eric Coppolino is here to expose the truth behind the dangerous toxins contaminating East Palestine!\n The chemicals from the train are so poisonous, residents need hazmat suits in order to safely reside in their homes!\n\nhttps://www.stewpeters.com/video/2023/02/dioxin-the-deadly-chemical-no-one-is-talking-about-people-will-die-east-palestine-must-be-evacuated-now/",
+          "peerid": {
+            "channel_id": 1494502630,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225987388,
+            "comments": true,
+            "max_id": 1661920,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1558251399
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1168674799
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1580597011
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 25,
+            "replies_pts": 2395704
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 71245,
+          "lastseents": "2023-03-17T05:14:32.248850"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5533970515133333884",
+        "_score": 6.7077,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 08:00:24.168009",
+          "channelabout": "We are patriot truth seekers. http://bit.ly/PatriotMap",
+          "channeltitle": "Infamy2021",
+          "channelusername": "infamy2021",
+          "date": 1677218726,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 145,
+              "offset": 413,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 20935,
+            "date": 1677198087,
+            "from_id": {
+              "channel_id": 1494502630,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "DIOXIN: The DEADLY Chemical No One Is Talking About! \n\nPeople Will DIE: East Palestine MUST BE EVACUATED NOW!\n\nDioxins are deadly and everyone in East Palestine needs to evacuate immediately!\n Eric Coppolino is here to expose the truth behind the dangerous toxins contaminating East Palestine!\n The chemicals from the train are so poisonous, residents need hazmat suits in order to safely reside in their homes!\n\nhttps://www.stewpeters.com/video/2023/02/dioxin-the-deadly-chemical-no-one-is-talking-about-people-will-die-east-palestine-must-be-evacuated-now/",
+          "peerid": {
+            "channel_id": 1288477917,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3,
+          "lastseents": "2023-03-17T05:01:14.100661"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5534671479565718037",
+        "_score": 6.4272,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 15:04:07.243051",
+          "channelabout": "Articles: https://thuletide.wordpress.com/ - Twitter: https://twitter.com/thuletide",
+          "channeltitle": "Thuletide",
+          "channelusername": "thuletide",
+          "date": 1677199402,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 50,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.imgur.com/MYoi4HQ.jpg"
+            },
+            {
+              "length": 115,
+              "offset": 97,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 20,
+              "offset": 266,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 75,
+              "offset": 356,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 217,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34175952170443e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Weinstein on Joe Rogan is a great example of pilpul, also known as Talmudic argumentation:\n\n\"I don't want to regulate speech, I just want people who say things that I don't like to be culturally punished.\"\n\nAt the end of this clip, he claims that Kanye West is \"destroying himself\" by hanging out with Nick Fuentes.\n\nHe then reveals his true motives: \"The issue is that I don't want a rift between Jews and Blacks in America.\" \n\nWeinstein's implication here is pretty obvious but in case you didn't get it, Jon \"Stewart\" (Leibowitz) spells it out in the second clip.",
+          "peerid": {
+            "channel_id": 1288641123,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 9542,
+          "lastseents": "2023-03-17T05:17:05.826272"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4957894673503882210",
+        "_score": 6.4272,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 07:25:46.386998",
+          "channelabout": "Official Health Ranger breaking news, links, podcasts and videos.\n\nOur emergency IP address, to enter into your browser, to access emergency alerts, audio alerts, etc., in case of global domain takedowns. WRITE THIS DOWN:  http://45.89.97.6/",
+          "channeltitle": "Health Ranger",
+          "channelusername": "RealHealthRanger",
+          "date": 1677218143,
+          "editdate": 1677218229,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 56,
+              "offset": 582,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 468,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "READ AND DISTRIBUTE THIS - The \"Poison Papers\" document revealing Monsanto, Dow, Bayer and BASF all knew about the extreme toxicity of dioxins back in the 1950s.\n\nThis shows that dioxin exposure at just 5 ppb (parts per billion) KILLS RABBITS. They knew it.\n\nInstead of warning the world, they commercialized the poison and created Agent Orange.\n\nEric Coppolino got me this document. I will be interviewing him against next Tuesday on the Alex Jones Show.\n\nMy podcast for Friday - and a Natural News article this weekend - will cover all this in more detail. CRITICAL information:\n\nhttps://www.naturalnews.com/files/Poison-Papers-0404.pdf",
+          "peerid": {
+            "channel_id": 1154349808,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 26880,
+          "lastseents": "2023-03-17T04:58:23.310240"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6390947817900215108",
+        "_score": 6.4272,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 08:40:36.584411",
+          "channelabout": "The admins of this channel are NOT the initiators of this PEACEFUL MARCH. Rules:\n\n1. NO MESSAGES INCITING VIOLENCE\n2. NO HATE SLURS OR SYMBOLS\n3. NO DOXXING OR SHARING OF PERSONAL INFORMATION\n\n@whitelivesmatterofficial",
+          "channeltitle": "WLM_USA_ILLINOIS",
+          "channelusername": "WLM_USA_ILLINOIS",
+          "date": 1677206378,
+          "editdate": 1677206381,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 50,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.imgur.com/MYoi4HQ.jpg"
+            },
+            {
+              "length": 115,
+              "offset": 97,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 20,
+              "offset": 266,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 75,
+              "offset": 356,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4629,
+            "date": 1677199402,
+            "from_id": {
+              "channel_id": 1288641123,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34176510285742e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Weinstein on Joe Rogan is a great example of pilpul, also known as Talmudic argumentation:\n\n\"I don't want to regulate speech, I just want people who say things that I don't like to be culturally punished.\"\n\nAt the end of this clip, he claims that Kanye West is \"destroying himself\" by hanging out with Nick Fuentes.\n\nHe then reveals his true motives: \"The issue is that I don't want a rift between Jews and Blacks in America.\" \n\nWeinstein's implication here is pretty obvious but in case you didn't get it, Jon \"Stewart\" (Leibowitz) spells it out in the second clip.",
+          "peerid": {
+            "channel_id": 1488008494,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1191779835,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18926
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 24,
+          "lastseents": "2023-03-17T05:01:01.154496"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5141137305704078819",
+        "_score": 6.4272,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 08:22:51.553679",
+          "channelabout": "The admins of this channel are NOT the initiators of this PEACEFUL MARCH. This is a grassroot movement & we are helping it get traction. \n \nOfficial chat: @WhiteLivesMatterOfficialChat",
+          "channeltitle": "White Lives Matter Official",
+          "channelusername": "WhiteLivesMatterOfficial",
+          "date": 1677202221,
+          "editdate": 1677202667,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 50,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.imgur.com/MYoi4HQ.jpg"
+            },
+            {
+              "length": 115,
+              "offset": 97,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 20,
+              "offset": 266,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 75,
+              "offset": 356,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 27,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4629,
+            "date": 1677199402,
+            "from_id": {
+              "channel_id": 1288641123,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34176172697969e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Weinstein on Joe Rogan is a great example of pilpul, also known as Talmudic argumentation:\n\n\"I don't want to regulate speech, I just want people who say things that I don't like to be culturally punished.\"\n\nAt the end of this clip, he claims that Kanye West is \"destroying himself\" by hanging out with Nick Fuentes.\n\nHe then reveals his true motives: \"The issue is that I don't want a rift between Jews and Blacks in America.\" \n\nWeinstein's implication here is pretty obvious but in case you didn't get it, Jon \"Stewart\" (Leibowitz) spells it out in the second clip.",
+          "peerid": {
+            "channel_id": 1197014308,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1287076691,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 229697
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1793,
+          "lastseents": "2023-03-17T05:01:00.992679"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5722961299634136519",
+        "_score": 6.1731,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 15:19:34.290762",
+          "channelabout": "Welcome to my uncensored Telegram channel!\n\n\n\nSubscribe at www.jamesgoddard.org",
+          "channeltitle": "James Goddard",
+          "channelusername": "James_Goddard",
+          "date": 1677245267,
+          "editdate": 1677431643,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 107,
+              "offset": 505,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 106,
+              "offset": 614,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34179621377995e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A Plague has descended upon our nation!\n\nMan charged in connection with 3 SEXUAL ASSAULTS in Chadderton!\n\nOn Monday 3 separate women reported to the Police that they had been sexually assaulted that day!\n\nEric Mwangi, 32, of no fixed adress, was charged on Wednesday with three offences in connection with the assaults.\n\nMwangi has been remanded in custody and will appear at Tameside Magistrates' Court today, Thursday.\n\nPolice have urged the public not to speculate on social media about the incident.\n\nhttps://www.manchestereveningnews.co.uk/news/greater-manchester-news/police-issue-appeal-after-two-26288142\n\nhttps://www.theoldhamtimes.co.uk/news/23340871.man-charged-connection-3-sexual-assaults-chadderton/?ref=wa",
+          "peerid": {
+            "channel_id": 1332480763,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1643552417,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 96560
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 891,
+          "lastseents": "2023-03-17T05:17:41.668124"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6052282035928569360",
+        "_score": 5.8587,
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"],
+        "_source": {
+          "archivedon": "1681310667",
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1677205436,
+          "editdate": 1677209783,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 80,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 343,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            },
+            {
+              "length": 13,
+              "offset": 358,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helprachelpowell"
+            },
+            {
+              "length": 17,
+              "offset": 373,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26BA"
+            },
+            {
+              "length": 15,
+              "offset": 392,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/Cookiepuss1776"
+            },
+            {
+              "length": 14,
+              "offset": 409,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G29H3"
+            },
+            {
+              "length": 60,
+              "offset": 425,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Stephen?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Stephen"
+            },
+            {
+              "length": 23,
+              "offset": 487,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BP"
+            },
+            {
+              "length": 8,
+              "offset": 512,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25RS"
+            },
+            {
+              "length": 14,
+              "offset": 522,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26A1"
+            },
+            {
+              "length": 22,
+              "offset": 539,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G22ZH"
+            },
+            {
+              "length": 14,
+              "offset": 564,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/j6patriotrelief"
+            },
+            {
+              "length": 12,
+              "offset": 581,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/CouyGriffin"
+            },
+            {
+              "length": 14,
+              "offset": 596,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Derekkinnison"
+            },
+            {
+              "length": 11,
+              "offset": 612,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25QN"
+            },
+            {
+              "length": 15,
+              "offset": 625,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25MM"
+            },
+            {
+              "length": 12,
+              "offset": 642,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://fundly.com/stand-4-paul#gallery/3"
+            },
+            {
+              "length": 35,
+              "offset": 657,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/freejake"
+            },
+            {
+              "length": 10,
+              "offset": 696,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Freekyle"
+            },
+            {
+              "length": 19,
+              "offset": 709,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/FLOTILLA"
+            },
+            {
+              "length": 19,
+              "offset": 731,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helpjackwhitton"
+            },
+            {
+              "length": 11,
+              "offset": 753,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25YQ"
+            },
+            {
+              "length": 15,
+              "offset": 767,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G253Q"
+            },
+            {
+              "length": 12,
+              "offset": 784,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G26SJ"
+            },
+            {
+              "length": 11,
+              "offset": 799,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23DE"
+            },
+            {
+              "length": 19,
+              "offset": 813,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PY"
+            },
+            {
+              "length": 14,
+              "offset": 835,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26FY"
+            },
+            {
+              "length": 12,
+              "offset": 852,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PX"
+            },
+            {
+              "length": 13,
+              "offset": 867,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/savejuliankhater"
+            },
+            {
+              "length": 12,
+              "offset": 882,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26NF"
+            },
+            {
+              "length": 13,
+              "offset": 896,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/GeorgeTanios?utm_source=sharelink&utm_medium=copy_link&utm_campaign=GeorgeTanios"
+            },
+            {
+              "length": 13,
+              "offset": 912,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/ShaneJanuary6th"
+            },
+            {
+              "length": 14,
+              "offset": 928,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://donorbox.org/daniel-in-the-lions-den"
+            },
+            {
+              "length": 13,
+              "offset": 945,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PatriotPaul"
+            },
+            {
+              "length": 15,
+              "offset": 960,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Pezzola"
+            },
+            {
+              "length": 8,
+              "offset": 977,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G268D"
+            },
+            {
+              "length": 15,
+              "offset": 1003,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26UT"
+            },
+            {
+              "length": 10,
+              "offset": 1029,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2494"
+            },
+            {
+              "length": 11,
+              "offset": 1041,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/freecoffee"
+            },
+            {
+              "length": 14,
+              "offset": 1054,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/defendingwilliam"
+            },
+            {
+              "length": 9,
+              "offset": 1122,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/joebiggs"
+            },
+            {
+              "length": 14,
+              "offset": 1133,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23RK"
+            },
+            {
+              "length": 15,
+              "offset": 1149,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/StoptheSmear"
+            },
+            {
+              "length": 11,
+              "offset": 1166,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/dresch"
+            },
+            {
+              "length": 11,
+              "offset": 1179,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2783"
+            },
+            {
+              "length": 15,
+              "offset": 1192,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/witzemannfamilyfund"
+            },
+            {
+              "length": 13,
+              "offset": 1209,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G272Y"
+            },
+            {
+              "length": 15,
+              "offset": 1224,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/bigobarnett"
+            },
+            {
+              "length": 14,
+              "offset": 1241,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FeliciaK"
+            },
+            {
+              "length": 11,
+              "offset": 1257,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://citizensapp.us/products/cory-konold-fundraiser"
+            },
+            {
+              "length": 17,
+              "offset": 1287,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G282V"
+            },
+            {
+              "length": 26,
+              "offset": 1306,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/pianonlegalfees"
+            },
+            {
+              "length": 10,
+              "offset": 1334,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Kevintuck"
+            },
+            {
+              "length": 14,
+              "offset": 1346,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2BVN"
+            },
+            {
+              "length": 23,
+              "offset": 1362,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justiceforj6jonny.com/"
+            },
+            {
+              "length": 15,
+              "offset": 1387,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G28YK"
+            },
+            {
+              "length": 16,
+              "offset": 1420,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26WP"
+            },
+            {
+              "length": 16,
+              "offset": 1438,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/KristinaMalimon"
+            },
+            {
+              "length": 26,
+              "offset": 1456,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24BK"
+            },
+            {
+              "length": 14,
+              "offset": 1484,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2AZY"
+            },
+            {
+              "length": 14,
+              "offset": 1500,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2939"
+            },
+            {
+              "length": 13,
+              "offset": 1516,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/hopeforahero"
+            },
+            {
+              "length": 12,
+              "offset": 1531,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G262A"
+            },
+            {
+              "length": 14,
+              "offset": 1545,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/BlessLonnie"
+            },
+            {
+              "length": 13,
+              "offset": 1561,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24F5"
+            },
+            {
+              "length": 14,
+              "offset": 1576,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Justice4Alex?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Justice4Alex"
+            },
+            {
+              "length": 10,
+              "offset": 1592,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeBrianMock"
+            },
+            {
+              "length": 12,
+              "offset": 1604,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/LegoMan"
+            },
+            {
+              "length": 10,
+              "offset": 1618,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/KandE"
+            },
+            {
+              "length": 14,
+              "offset": 1630,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FGS"
+            },
+            {
+              "length": 10,
+              "offset": 1658,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/J6TRUTH"
+            },
+            {
+              "length": 13,
+              "offset": 1670,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G29WR"
+            },
+            {
+              "length": 14,
+              "offset": 1685,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.givesendgo.com/G2B8N"
+            },
+            {
+              "length": 13,
+              "offset": 1701,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/mcabee"
+            },
+            {
+              "length": 11,
+              "offset": 1716,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/SandyWeyerJan6Patriot"
+            },
+            {
+              "length": 14,
+              "offset": 1729,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/lisaeisenhart"
+            },
+            {
+              "length": 17,
+              "offset": 1803,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FJH"
+            },
+            {
+              "length": 14,
+              "offset": 1823,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/supportj6family"
+            },
+            {
+              "length": 10,
+              "offset": 1839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/friendsofbenmartin"
+            },
+            {
+              "length": 12,
+              "offset": 1851,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/HelpDefendAJFischer"
+            },
+            {
+              "length": 14,
+              "offset": 1865,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/jkleinlegalfund"
+            },
+            {
+              "length": 11,
+              "offset": 1881,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G27CR"
+            },
+            {
+              "length": 13,
+              "offset": 1894,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23YQ"
+            },
+            {
+              "length": 8,
+              "offset": 1909,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PaulFSF"
+            },
+            {
+              "length": 14,
+              "offset": 2044,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/CPTGabrielGarcia?sharemsg=display"
+            },
+            {
+              "length": 12,
+              "offset": 2060,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2XCS"
+            },
+            {
+              "length": 12,
+              "offset": 2074,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.chriskuehne.com/"
+            },
+            {
+              "length": 12,
+              "offset": 2101,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Patriotpurge?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Patriotpurge"
+            },
+            {
+              "length": 11,
+              "offset": 2175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/barryramey"
+            },
+            {
+              "length": 12,
+              "offset": 2546,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/g2923"
+            },
+            {
+              "length": 12,
+              "offset": 2560,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/patriotrelief"
+            },
+            {
+              "length": 15,
+              "offset": 2587,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeKirstyn"
+            },
+            {
+              "length": 11,
+              "offset": 2604,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G9SB4?utm_source=sharelink&utm_medium=copy_link&utm_campaign=G9SB4"
+            },
+            {
+              "length": 11,
+              "offset": 2617,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Defense4LeslieGray"
+            },
+            {
+              "length": 23,
+              "offset": 2648,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2B6Y"
+            },
+            {
+              "length": 9,
+              "offset": 2673,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/RyanZink"
+            },
+            {
+              "length": 16,
+              "offset": 2684,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeKirstyn"
+            },
+            {
+              "length": 28,
+              "offset": 2702,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G9UJG"
+            },
+            {
+              "length": 15,
+              "offset": 2753,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G3PGS"
+            },
+            {
+              "length": 31,
+              "offset": 2789,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 42,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 5648,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+              "display_url": "t.me/ThePrisonersRecord?livestream",
+              "hash": 0,
+              "id": 9.17079312155079e+18,
+              "photo": {
+                "access_hash": -4.34728843336488e+18,
+                "date": 1630940750,
+                "dc_id": 1,
+                "file_reference": "AGQ2wOiycyMJuW8TKAUodapKJO/v",
+                "has_stickers": false,
+                "id": 5.02172664971196e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 12097,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 39128,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 130813,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo1Z5kgjLyHAH61RDXl58wbyYj0x1P+P6UlwftN0/8SQ/LtHcn/P6UJeGJSXDSZ6c9KAHf2bzn7Q+7PXn/ABoJvLP5i/nxDrnqP6/zqxHPvYDZgE4zn2zU1ACQTJPGHjPH8jRVNQLO/QLxHPxj0P8An+dFAEFrcx232kzEgmcjpmnLNbTyvskfLAsRt6VV1eFoblm/5Zynd9D3o06NdrSZ+Y5XHtQBagvbSAtiR2zjqtWJtQhhbZISDjPSsgRRfbmjx8o6L746VLqEYZfNP3hgUAT3N1Hcm38rJKzLRVfSIGmug5/1cfzH69qKANyeBLiIxyDI/kay/sU1nKzxqZEIIIX/AAoooAzvs84b7rbvxzWkbOa8nDyIY0AAAY8flRRQBpwQR28QjjGFH60UUUAf"
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "The Prisoner's Record",
+              "type": "telegram_livestream",
+              "url": "https://t.me/ThePrisonersRecord?livestream"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Prayer & Donation List\n2023.02.22\n\nPrayers at 9:00 PM ET  on Live Voice Chat: 🔗https://t.me/ThePrisonersRecord?livestream\n\nWe pray for all J6 families every night, nearly 1,000. Links are posted below for the families that we have come to know. \n\nJ6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture: 🔗🎤Play Link\n\nRachel Powell\n\nJoseph Hutchinson\n\nMatthew Council\n\nJessica Watkin\n\nAaron James\n\nJonah Westbury\n\nIsaac Westbury\n\nRobert Westbury\n\nChris and Cynthia Price\n\nRon Mele\n\nJoseph Hackett \n\nSgt. Kenneth Harrelson \n\nScott Fairlamb \n\nCouy Griffin \n\nDerek Kinnison\n\nErik Warner\n\nFelipe Martinez\n\nPaul Johnson \n\nJake Angeli (Jacob Anthony Chansley) \n\nKyle Young \n\nChristopher Worrell \n\nJack (Wade) Whitton \n\nMichael Foy \n\nRobert Gieswein\n\nJames McGrew \n\nGuy Reffitt \n\nJoseph Lino Padilla \n\nDouglas Jensen \n\nPeter Stager \n\nJulian Khater\n\nRyan Nichols\n\nGeorge Tanios \n\nShane Jenkins \n\nDaniel Goodwyn \n\nPaul Hodgkins\n\nDominic Pezzola\n\nTim Hale\n\nJennifer Heinl\n\nJon Mott\n\nTraci Sunstrum\n\nDavid Judd\n\nLuke Coffee\n\nWilliam Isaacs\n\nSteve Quick\n\nMike Quick\n\nZac Martin\n\nDaniel Warmus\n\nJoe Biggs\n\nVictoria White\n\nKyle Fitzsimons\n\nKarl Dresch\n\nIsaac Yoder\n\nShawn Witzemann\n\nThomas Sibick\n\nRichard Barnett\n\nFelicia Konold\n\nCory Konold\n\nCharles Donohoe\n\nRasha Abualragheb\n\nKenneth Joseph Owen Thomas\n\nKevin Tuck\n\nEnrique Tarrio\n\nJonathan Gennaro Mellis\n\nAndrew C. Taake  \n\nJustin Stoll\n\nAlbuquerque Head\n\nKristina Malimon\n\nChristopher Joseph Quaglin\n\nThomas Ballard\n\nJeff McKellops\n\nChris Alberts\n\nTimothy Hart\n\nLonnie Coffman\n\nSteve Rosatti\n\nAlex Harkrider\n\nBrian Mock\n\nRobert Morss\n\nKash Kelly\n\nSara Carpenter\n\nJenna Ryan\n\nJacob Lang\n\nJeffrey Brown\n\nGina Bisignano\n\nRonald McAbee\n\nSandy Weyer\n\nLisa Eisenhart\n\nEric Munchel\n\nEthan Nordean\n\nPauline Bauer\n\nLucas Denney\n\nEric D. Clark (KY)\n\nMarshall Neefe\n\nBen Martin\n\nAlan Fischer\n\nJonathan Klein\n\nTroy Smocks\n\nTreniss Evans\n\nPaul Rae\n\nAurthur Jackman \n\nNathan Tuck \n\nEdward George III\n\nThe Family of the first J6 Hostage who has taken his life, Matthew Perna\n\nGabriel Garcia\n\nMatthew Krol\n\nChris Kuehne\n\nJody Wilson\n\nThomas Smith\n\nMason Courson\n\nDevin Steiner\n\nAdam Miller\n\nThe Munn family\n\nBarry Ramey\n\nPhilip Anderson\n\nPamela Hemphill\n\nChristian Manley\n\nDonald Hazard\n\nJodi Wilson\n\nCole Temple\n\nZachary Alam\n\nDavid Dempsey\n\nBrian Jackson\n\nAdam Jackson\n\nBart Shiveley\n\nAudrey Ann\n\nStewart Rhodes\n\nMatthew Bledsoe\n\nJoshua Calvin Hughes\n\nDuke Edward Wilson \n\nScott Miller\n\nAiden Dillard\n\nJonathan Munafo\n\nBrandon Fellows\n\nTommy Allen\n\nJorge Riley\n\nEric Christie\n\nSamuel Lazar\n\nTrevor Brown\n\nRyan Samsel\n\nKirstyn Niemela\n\nJosh Doolin\n\nLeslie Gray\n\nAndrew Hernandez\n\nMark & Jalise Middleton\n\nRyan Zink\n\nKirstyn Niemiela\n\nBrittany and Michael Perkins\n\nMichelle McFarland \n\nAndrew Griswold\n\nOlivia Pollock\n\n🆘 https://t.me/ThePrisonersRecord",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "EOJ Always",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 18,
+                "reaction": "🙏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "☃",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1538114437,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 182523
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 13678,
+          "lastseents": "2023-04-12T14:44:27.335980"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5431945761745073124",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:49:55.977478",
+          "channelabout": "occasional meme maker & daily poster  i don't get paid to do this if you want to support my channel share my content  thank u 4 being here 💓\n🇺🇲 Back up Channell\nhttps://t.me/mythvsrealityreloaded",
+          "channeltitle": "Mythvsreality",
+          "channelusername": "basedrainbowbitch",
+          "date": 1677226274,
+          "editdate": 1677226277,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7779,
+            "date": 1677221707,
+            "from_id": {
+              "channel_id": 1150849367,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNow all of the above-mentioned people and groups wouldn’t agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1264723428,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1486989007,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1205007
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 182,
+          "lastseents": "2023-03-17T05:14:36.428696"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5976639389739003867",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 16:06:58.802651",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88",
+          "date": 1677249371,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7779,
+            "date": 1677221707,
+            "from_id": {
+              "channel_id": 1150849367,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\nThe Nordic Resistance and all associated accounts\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNone of the above-mentioned people and groups would agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1391544796,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 255,
+          "lastseents": "2023-03-17T05:18:27.096669"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5973042573671927120",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 16:06:44.143689",
+          "channelabout": "The Official Video Archive of Emily Youcis",
+          "channeltitle": "Emily Youcis",
+          "channelusername": "EmilyYoucis",
+          "date": 1677257885,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7779,
+            "date": 1677221707,
+            "from_id": {
+              "channel_id": 1150849367,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\nThe Nordic Resistance and all associated accounts\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNone of the above-mentioned people and groups would agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1390707347,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 442,
+          "lastseents": "2023-03-17T05:18:29.098883"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4942860393887309411",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 08:19:02.339461",
+          "channeltitle": "Mark Collett",
+          "channelusername": "markacollett",
+          "date": 1677221707,
+          "editdate": 1677245656,
+          "edithide": false,
+          "entities": [],
+          "forwards": 81,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\nThe Nordic Resistance and all associated accounts\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNone of the above-mentioned people and groups would agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1150849367,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1543026140,
+            "comments": true,
+            "max_id": 10306,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 991785356
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 647615657
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 27,
+            "replies_pts": 18181
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 11777,
+          "lastseents": "2023-03-17T05:01:00.198180"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5014943427016524973",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 10:34:02.552786",
+          "channelabout": "A Podcast. Now including memes.\n\nAdmin: @EuroPeon\n\nJoin our chat",
+          "channeltitle": "The Absolute State Of Britain",
+          "channelusername": "AbsoluteBritain",
+          "date": 1677235088,
+          "editdate": 1677235091,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7779,
+            "date": 1677221707,
+            "from_id": {
+              "channel_id": 1150849367,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNone of the above-mentioned people and groups would agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1167632506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1415951914,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 399227
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 119,
+          "lastseents": "2023-03-17T05:03:55.086960"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5180325824263362568",
+        "_score": 3.6712,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 09:26:17.632424",
+          "channelabout": "My links - https://linktr.ee/WarmasterHorus\n\n@ChannelCollection",
+          "channeltitle": "Horus",
+          "channelusername": "WarmasterHorus",
+          "date": 1677234205,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7779,
+            "date": 1677221707,
+            "from_id": {
+              "channel_id": 1150849367,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "A few words on the new Twitter ban that is currently in place for myself, Patriotic Alternative and several other groups.\n\nTwitter - despite Musk's take over is not really a hub for free speech, and since Musk's take over the following groups/people have remained banned or have been banned after being reinstated:\n\nMyself, Laura Towler and Patriotic Alternative (plus associated accounts)\nMike Enoch, Eric Striker and the National Justice Party (plus associated accounts)\nNick Fuentes and America First (plus associated accounts)\nJared Taylor and American Renaissance\nPaul Golding and Britain First (plus associated accounts)\nTommy Robinson\n\nThere are probably others too that I have missed – and if I have missed you off this list, send me a message and I will add you.\n\nBut what do all these people and organisations have in common? Well, the common thread between them all is that they all are active in the real world, and they all arrange real life events, take part in real life protests and call for people to something more than simply watch content online that they agree with. They are not simply talking heads or people looking to make the next hot take - they take action.\n\nNow all of the above-mentioned people and groups wouldn’t agree with each other on everything. But they would all agree on trying to get people out doing political activity in real life. And that is the one thing the system fears the most – real people, organising in the real world to create real change in order to take back power from the anti-white establishment.",
+          "peerid": {
+            "channel_id": 1206138596,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 416,
+          "lastseents": "2023-03-17T05:04:17.289006"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6420918653742520057",
+        "_score": 2.9956,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-27 02:01:30.236752",
+          "channelabout": "Write @PeterBoykin\nVisit GoRightNews.com\n\n#GoRight with Peter Boykin Podcast                                                       \nSUBSCRIBE: YouTube.com/PeterBoykin\n\nSUPPORT:\npaypal.me/magafirstnews\npatreon.com/peterboykin",
+          "channeltitle": "Peter Boykin Patriot Party President GoRightNews.com",
+          "channelusername": "RealPeterBoykin",
+          "date": 1677218518,
+          "editdate": 1677218522,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🏳️‍🌈 19.7% of U.S. Gen Z identify as LGBTQ\n📰 NPR is cutting 10% of its workforce\n🚻 63% of men under 30 are single, 34% of women\n✈️ 1,500 U.S. flights canceled amid winter storm\n💵 80% of employers plan to raise workers' base pay in 2023\n\nSources: Gallup, Hollywood Reporter, Pew, Breitbart, Payscale\n\n✅ Hunter Biden’s top financial lieutenant Eric Schwerin is expected to “soon” provide documents to the House Oversight Committee’s investigation of the Biden family for nine violations, including money laundering and wire fraud. [Breitbart]\n\n🥫 Goya Foods is shipping ready-to-serve meals and beverages to East Palestine so those affected by the Ohio train derailment don’t have to worry about ingesting contaminated meals. [NY Post]\n\n🔥 A fire \"involving uranium\" broke out Wednesday morning at the Y-12 National Security Complex in Oak Ridge, Tennessee, prompting an emergency response. The fire was contained and there were no reports of injury or contamination. [Fox News]\n\n🚸 The Department of Homeland Security estimates that up to 390,000 migrants will arrive at the United States-Mexico border every month if the administration ends the Title 42 public health authority on May 11. [Breitbart]\n\n📦 The US embassy in London was locked down after a suspicious package was found outside the building yesterday. Those inside were told to duck and move away from windows. It was later confirmed that the alert was a false alarm. [Daily Mail]\n\n🤔 President Joe Biden’s delayed decision whether to launch a 2024 campaign is reportedly causing “doubt,” and an “awkward deep-freeze across the party,” as the establishment media has taken an increasingly negative stance on Biden’s potential reelection bid. [Breitbart]\n\n⚠️ The Biden Department of Education announced a proposal rescinding a Trump-era policy that prohibited universities from receiving federal funding if they restricted religious student group activities. [Daily Caller]\n\n💬 Speaker Kevin McCarthy on giving Tucker Carlson the J6 tapes: “I promised. I was asked in the press about these tapes, and I said they do belong to the American public. I think sunshine lets everybody make their own judgment.”\n\n🚰 Regional supermarket chain Giant Eagle pulled bottled water sourced from a facility near East Palestine, Ohio, the location of a train derailment and subsequent chemical fallout. [Daily Wire]",
+          "peerid": {
+            "channel_id": 1494986623,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Peter Boykin For 2024 Constitutionalist For Liberty",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1453009822,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 153190
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 6,
+          "lastseents": "2023-03-17T04:40:33.989750"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5966960951520546812",
+        "_score": 2.3252,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-04 13:52:27.28796",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1677208826,
+          "editdate": 1677255429,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 70,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 85,
+              "offset": 152,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 626,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 4,
+              "offset": 764,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 5,
+              "offset": 1092,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1499893007
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "My evening research project: \n\nFeel free to add to the list from 2022.\n_____\nPACs and individuals associated with the rail industry donated $3,190,763 (https://www.opensecrets.org/political-action-committees-pacs/industry-detail/M04/2022) in total to political candidates in 2021-22. This data comes from OpenSecrets, a non-profit organization that tracks the impact of money on American politics. Of this tota\nl, $1,764,695 was given to Republican candidates, $1,408,068 to their Democratic rivals. Rep Sam Graves - MO, Sen Jerry Moran (R-KS), Sen Eric Schmitt (R - MO), Sen John Thune (R-SD), and Rep Earl Blumenauer (D-OR).\n__\nMedia tries to normalize the quantities of train derailments. These costs passed onto consumers. Where is congress on infrastructure? \n__\nChecking derailment dates, location, causes, action remedy; any patterns? Many derailments this year are \"still under investigation.\" Department of Transportation’s Bureau of Transportation Statistics’ show thousands more of trucks carry twice as much hazardous material than trains. Anyone care to do the timeline research?\n___\n1/9/2023 - Lake City, SC. Struck a vehicle on tracks. Derailment caused a water main break and advisory issued to citizens to boil their water. Train cars removed.\n\n1/11/2023 - Feather River Canyon, CA. Load grain. Plumas County District 2 Supervisor, Kevin Goss, stated a landslide caused derailment. Unknown when derailed cars will be removed. \n\n1/17/2023 - Girdwood, AK Caused by avalanche. Load, freight, 6,091 tons. Alaska Department of Transportation and Public Facilities, told the Anchorage Daily News that the debris spread about 300 feet across the tracks and was about 30 feet deep.\n\n1/19/2023 - Between Trinway & Adam's Mill, Ohio. Load, empty. Train cars removed. \n\n1/21/2023 - Loris, SC. Load rocks & gravel. Cars uprighted. \n\n1/27/2023 - Keatchie, LA. Load corrosive acid. Union Pacific, said two rail cars spilled propinoic acid, which is used as a preservative, fungicide, and antimicrobial agent, and acetic anhydride, which is used in making plastics, drugs, dyes, perfumes, explosives and aspirin. Officials say 10,000 gallons of Acetic Anhydride and less than 1,000 gallons of Propionic spilled. Citizens evacuated with 1.5 miles; returned home on 1/29/2023. The Caddo Parish Sheriff’s Office (CPSO) noted on Facebook that the derailment also caused the closure of the southbound lane of Louisiana Highway 789 at Keithville-Keatchie Road.\n\n2/1/2023 - Detroit, MI & Talladega County, AL. According to the Talladega County Emergency Management Agency, one of the cars was leaking limestone slurry. \n\n2/3/2023 - E. Palestine, OH. Load contained including vinyl chloride, butyl acrylate, ethylene \nglycol monobutyl ether, ethylhexyl acrylate and isobutylene – all materials that are widely considered to be toxic. The 141-car derailed train was also carrying several other hazardous and flammable substances such as isobutylene, butyl acrylate, ethylhexyl acrylate and ethylene glycol monobutyl ether. 2/17/2023 Early next week, the state plans to open a medical clinic in the village to evaluate those who are worried and analyze their symptoms, Ohio Gov. Mike DeWine announced. The clinic will include a team of experts in chemical exposures that is being deployed to eastern Ohio. 2/21/2023 Crews are still working to respond to the freight disaster. NTSB reported 2/23/2023 that cause was overheated wheel bearing and defected detector [AKA hot boxes] in rail.\n\n2/4/2023 - Philadelphia, PA - passenger cars. Officials said the incident happened as a result of a broken piece of track. Broken track repaired. \n\n2/10/2023 - Toledo, OR. Load diesel. Absorbent boom, contaminated soil 16,000 tons hauled away to local landfill & fresh landfill put in place. Tracks repaired. \n\n2/13/2023 - Enoree, SC; Montgomery, TX; Splendora, TX [these 2 different towns appeared in news but sounds like the same incident]. In Montgomery, the train hit a truck. Load some hazardous materials - Union Pacific monitors air quality at the site.",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 255364
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.56705319370293e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marie",
+            "id": 1499893007,
+            "is_self": false,
+            "last_name": "R",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1499893007,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "lastseents": "2023-03-17T05:14:51.439421"
+        }
+      }
+    ]
+  }
+}

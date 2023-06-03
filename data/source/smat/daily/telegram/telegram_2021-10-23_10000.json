@@ -1,0 +1,801 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [29],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [13.5291],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141462673",
+        "_score": 13.5291,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634988970,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 210944655
+          },
+          "message": "Eric P Eric Pena has been banned! Reason: CAS ban.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 917176,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMentionName",
+              "length": 16,
+              "offset": 0,
+              "user_id": 2026392003
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 7,
+              "offset": 42,
+              "url": "https://cas.chat/query?u=2026392003"
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-23 12:07:29.699178",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5961714331141462674",
+        "_score": 11.4498,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634988970,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 259643624
+          },
+          "message": "Eric P was banned because Join Lock is enabled.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMentionName",
+              "length": 6,
+              "offset": 0,
+              "user_id": 2026392003
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 40,
+              "offset": 7
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 711312
+          },
+          "edithide": false,
+          "archivedon": "2021-10-23 12:07:29.700625",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5686521886562108109",
+        "_score": 11.1047,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635022253,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2066118623
+          },
+          "message": "Is this another eric haberman account😂🤣🤡🤡🤡",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 312012
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 04:09:21.518033",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 2066118623,
+            "_v": 1,
+            "access_hash": 1.51540939711721e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2066118623,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "6427630059833639252",
+        "_score": 11.1047,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635021620,
+          "post": true,
+          "views": 44,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Even Eric Trump is getting on the end of the harvest.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1496549244
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1368195920,
+            "replies_pts": 361115,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634862780,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1542824858
+            },
+            "channel_post": 4177
+          },
+          "replyto": {},
+          "editdate": 1635021581,
+          "edithide": true,
+          "postauthor": "Jenny B",
+          "archivedon": "2021-10-23 21:32:05.814122",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5686521886562107853",
+        "_score": 10.3341,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635003755,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2066118623
+          },
+          "message": "LOL...you aways can tell when Eric Haberman is triggered🤡🤡🤡🤡🤣😂",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 311754
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 04:09:21.238462",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 2066118623,
+            "_v": 1,
+            "access_hash": 1.51540939711721e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2066118623,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5354447101273173338",
+        "_score": 10.0202,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634948989,
+          "post": true,
+          "views": 52,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "New York Democratic Mayoral Candidate Eric Adams Ties to pro-Beijing Groups\n\nhttps://www.theepochtimes.com/new-york-democratic-mayoral-candidate-eric-adams-ties-to-pro-beijing-groups_4064292.html\nSource: The Epoch Times \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1246679365
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 335951,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 118,
+              "offset": 77
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 4,
+              "offset": 244
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 265
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 280
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 300
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 19,
+              "offset": 319
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1634948963,
+          "edithide": true,
+          "archivedon": "2021-10-23 01:00:00.190684",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5686521886562106964",
+        "_score": 9.5515,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634949849,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2066118623
+          },
+          "message": "LOL...The left has been calling Eric and Jr. Beavis and Butthead since 2018. Republicans always steal the Democrats ideas😂🤣",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 310863
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 04:09:19.692799",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 2066118623,
+            "_v": 1,
+            "access_hash": 1.51540939711721e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2066118623,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5846913321357687500",
+        "_score": 9.0988,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634991073,
+          "post": false,
+          "views": 413,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1939113459
+          },
+          "message": "Eric Striker here.\n\nWheatfields are trad and will bring us close to the Eurasian ideal in which we are fighting for with each and every day.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 408289,
+            "replies": 9,
+            "comments": false,
+            "replies_pts": 459354,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 4,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634760796,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285332338
+            },
+            "channel_post": 373
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.3079928587517e+16,
+          "archivedon": "2021-10-23 13:08:48.03659",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5839098190275571468",
+        "_score": 8.2988,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635001633,
+          "post": true,
+          "views": 1792,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Zemmour gilt als französischer Donald Trump. Der Präsidentschaftskandidat stellt sich gegen die linke Ideologie in Medien, Schulen, Universitäten und in der Kultur.\n\nSeitdem Emmanuel Macron 2017 als französischer Präsident gewählt wurde, haben mediale und politische Beobachter vorausgesagt, dass er bei der nächsten Wahl gegen die rechtsnationale Marine Le Pen besteht muss. Doch nun ist ein neuer Kandidat auf der politischen Bühne erschienen und sorgt für Furore: Eric Zemmour.\n\nhttps://www.epochtimes.de/politik/ausland/frankreich-wahl-2022-frankreichs-trump-auf-der-ueberholspur-a3626608.html",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1359520990
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 115,
+              "offset": 487
+            }
+          ],
+          "forwards": 16,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-23 16:01:10.210175",
+          "channelabout": "Willkommen auf unserem Epoch Times Kanal auf Telegram! Hier bekommen Sie regelmäßige Updates zu den wichtigsten Themen des Tages.",
+          "channeltitle": "Epoch Times Deutschland",
+          "channelusername": "epochtimesde",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5413482113951339960",
+        "_score": 8.0696,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635008957,
+          "post": true,
+          "views": 62,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Striker here. \n\nI want to remind everyone that Argentina is a white country, just like the US! \n\nAlso, these are my cousins. As you can see, they are mostly German and Italian. They're just like you.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1260424525
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1635008924,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285332338
+            },
+            "channel_post": 401
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-23 17:53:12.454789",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5686521886562107040",
+        "_score": 6.9091,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634958402,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2066118623
+          },
+          "message": "Hey Eric..you and Jeff have a lot in common. You both are both weak, flaccid little losers that are unemployed and still living with your mommy's and still sucking off her titty😂 You should form a little club.\n I'm sure there are plenty of other maga losers exactly like you😂🤣",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 310935,
+            "reply_to_top_id": 309571
+          },
+          "editdate": 1634958425,
+          "edithide": false,
+          "archivedon": "2022-08-02 04:09:19.796318",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 2066118623,
+            "_v": 1,
+            "access_hash": 1.51540939711721e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 2066118623,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5553450841815541215",
+        "_score": 5.7233,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635033005,
+          "post": true,
+          "views": 222,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "📝 304 replies \n\nFrench Donald Trump\n\nThe French Donald Trump, Eric Zemmour. Is this guy really the hero of the West? He’s better than Le Pen? What’s the difference?\n\nI swear on my mother that I’m not a Zog shill, but this guy, despite being Jewish, seems to truly love France, I’m honestly shocked. It would make sense since France saved his family, and if he doesn’t have dual loyalty would his Jewish heritage matter?\n\nhttp://boards.4chan.org/pol/thread/344559237",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1293013534
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.4cdn.org/pol/1635024107543.jpg",
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 11,
+              "offset": 3
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 19,
+              "offset": 17
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 44,
+              "offset": 422
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-24 00:12:27.225319",
+          "channelabout": "All threads reaching 300 replies",
+          "channeltitle": "/pol/ 4chan",
+          "channelusername": "pol4chan",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5976639389738997534",
+        "_score": 4.2979,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1634957287,
+          "post": true,
+          "views": 167,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Jew NY Times reporter Elisabeth Zerofsky has published an objective piece on Yoram Hazony's \"post-liberals\" — a movement that is intending to be a non-racial, pro-Jewish, and pro-Israel replacement to the alt-right. They article is intended to mainstream them, despite being ostensibly far-right. \n\nZerofsky did the same with the Jew Eric Zemmour in 2019, publishing a multi-page profile/advertisement of him to help catapult his political career. \n\nZionist neocon Zemmour is totally astroturfed. He is a disruptive force in French politics. He may well destroy the Le Pen dynasty and take over the French gentile right. \n\nIf the New York Times is saying good things or even being neutral towards your right-wing group, they know something the rest of us don't. \n\nhttps://www.nytimes.com/2021/10/19/magazine/viktor-orban-rod-dreher.html",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1391544796
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 72,
+              "offset": 764
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1634939760,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1464667483
+            },
+            "channel_post": 11234
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-10-23 03:42:29.304836",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202110",
+        "_id": "5487843884929181957",
+        "_score": 3.0566,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1635024959,
+          "post": true,
+          "views": 4,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Ein sehr guter Freund von mir ist Scintologe/Kriminologe in Oxford.\nEr hat sich mit den Covid Impfstoffen viele Jahre beruflich auseinander gesetzt. \nDiese Nachricht hat er mir zukommen lassen.\nExtra für dich Eric habe ich diese Nachricht nochmal rausgesucht. \n\nMensch,wie konnte das nur passieren Christin? \nHabt Ihr nicht nach Großbritannien oder in die U.S.A geguckt,was dort an Horror passiert und ueber die MHRA und CDC gelistet wird? \nOder ueber das Paul-Ehrlich-Institut oder die EMA. \nDiese Menschen sind gesundheitlich und genetisch wirklich fuer immer verloren. \nIch traue mir nicht das dir im Detail zu schreiben. \nEs ist einfach nicht zu ertragen und du wuerdest mich verfluchen. \nWie du weist setze ich mich mit diesen Dingen beruflich auseinander. \nDiese experimentiellen \"Impfstoffe\" sind eine Gentherapie,die bei allen Vorabstudien der letzten ca. 10 Jahren immer zu einem grausamen Verenden genetisch den Menschen sehr aehnlichen Tieren gefuehrt haben. \nUnd der qualvolle seelenlose Tod dieser Patienten,was ich zur Beweisaufnahme direkt bei Menschen gesehen und erlebt habe ist mit das Schrecklichste,was man jemals erleben kann. \nMan geht nicht hin und ueberschreibt die DNA seiner eigenen Koerperzellen mit einem fremden Code wie man das bei Genfoodpflanzen macht. \nWenn man es dennoch tut ist es lediglich die Frage,wieviele Zellen in welchem Zeitraum und welche Zellen in welcher Koerperregionen die neue DNA-Sequenz erhalten. \nEs ist NUR eine Frage der Zeit. \nDie Hersteller machen da unterschiedliche Angaben. \nNIEMAND der sich einer solchen Therapie unterwirft wird jemals gesunde Kinder zeugen,bzw. austragen koennen. \nDas ist amtlich und wird bei uns VORHER expliziet abgefragt.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1277738224
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 777,
+            "replies_pts": 0,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1635019710,
+            "from_id": {},
+            "from_name": "LittleCookie"
+          },
+          "replyto": {},
+          "editdate": 1635029468,
+          "edithide": true,
+          "postauthor": "Mike",
+          "archivedon": "2022-12-01 23:37:56.031984",
+          "channelabout": "Unsere Freiheit ist in Gefahr, wir werden belogen! \nDieser Kanal ist eine Ergänzung zur Playlist \"WACH AUF!\" auf YouTube: https://t1p.de/k9s0 Zum Chat: https://t.me/aufwachphase",
+          "channeltitle": "Erwachen",
+          "channelusername": "luca_you_tube",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

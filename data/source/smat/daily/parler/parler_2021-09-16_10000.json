@@ -1,0 +1,184 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [3],
+      "relation": ["eq"]
+    },
+    "max_score": [11.4406],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "84d1bfb0-2ac4-45f4-bb56-3484e66d8bd6",
+        "_score": 11.4406,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "❤️ Eric Church ????????????☺️",
+          "bodywithurls": "❤️ Eric Church ????????????☺️",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-16T02:09:10.079630+00:00",
+          "createdAtformatted": "2021-09-16T02:09:10.079630+00:00",
+          "creator": "f25c484321344b07badb3660a7499407",
+          "datatype": "posts",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": false,
+          "hasvideo": false,
+          "id": "84d1bfb0-2ac4-45f4-bb56-3484e66d8bd6",
+          "imagensfw": false,
+          "lastseents": "2022-09-16T02:09:10.079660+00:00",
+          "name": "Heyk",
+          "numid": 16455921,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/84d1bfb0-2ac4-45f4-bb56-3484e66d8bd6",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "f25c484321344b07badb3660a7499407",
+          "useridraw": "f25c4843-2134-4b07-badb-3660a7499407",
+          "username": "Heyk1967",
+          "verified": false,
+          "urls": {
+            "metadata": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "parler-data-000011",
+        "_id": "dcca9bf2-9dc8-4003-86b5-d2b0f0870b37",
+        "_score": 5.0709,
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Beautiful Bertram!\n\n2022 Bertram 28 Center Console, White Twin 300 Mercury JPO (Joystick), Dual Garmin 12\" Touch Screens, Radar 4' Open Array, JL Audio, Sirius, XM, Sunshade, Tow Eye, LED Package, 120v Power, SeaKeeper, Underwater LED, Aft Kitchen, Grill, Bait Station, Sink, Extra Battery Power, Inverter, Bow Seating, Filler Cushion, Cockpit Coaming, Strataglass Package, Head, 200 gallon, 9'-9\" beam, 10,000 lbs. On-Order... Eric ericm@DenisonYachting.com #WWY",
+          "bodywithurls": "Beautiful Bertram!\n\n2022 Bertram 28 Center Console, White Twin 300 Mercury JPO (Joystick), Dual Garmin 12\" Touch Screens, Radar 4' Open Array, JL Audio, Sirius, XM, Sunshade, Tow Eye, LED Package, 120v Power, SeaKeeper, Underwater LED, Aft Kitchen, Grill, Bait Station, Sink, Extra Battery Power, Inverter, Bow Seating, Filler Cushion, Cockpit Coaming, Strataglass Package, Head, 200 gallon, 9'-9\" beam, 10,000 lbs. On-Order... Eric ericm@DenisonYachting.com #WWY https://www.worldwideyachtsman.com/yachtlisting/YachtDetailPage?BoatID=695",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-16T10:12:53.866935+00:00",
+          "createdAtformatted": "2021-09-16T10:12:53.866935+00:00",
+          "creator": "dc5882d79e214aa4a48ffbd9a2701197",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "id": "dcca9bf2-9dc8-4003-86b5-d2b0f0870b37",
+          "imagensfw": false,
+          "lastseents": "2022-02-13T10:12:53.866961+00:00",
+          "name": "JR",
+          "numid": 34516911,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/dcca9bf2-9dc8-4003-86b5-d2b0f0870b37",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "dc5882d79e214aa4a48ffbd9a2701197",
+          "useridraw": "dc5882d7-9e21-4aa4-a48f-fbd9a2701197",
+          "username": "YachtMarketing",
+          "verified": false,
+          "ad": false,
+          "urls": {
+            "long": "https://www.worldwideyachtsman.com/yachtlisting/YachtDetailPage?BoatID=695",
+            "metadata": {
+              "title": "Worldwide Yachtsman |  Best Broker Boats For Sale..."
+            }
+          }
+        },
+        "_ignored": ["body.keyword", "bodywithurls.keyword"]
+      },
+      {
+        "_index": "parler-data-000012",
+        "_id": "68e20e2d-bfce-4143-802d-ba44f37598d1",
+        "_score": 2.7333,
+        "_source": {
+          "badges": [0],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 1
+          },
+          "body": "@southernsuperman you've been gone a full month now.. I miss you dude! Eric misses you. Bo is having trouble with your passing. Even Hellbent finally got my message, your passing messed him up as well. You were the glue that held us all together and damn it hurts so bad that you're no longer around. I keep waiting to hear your Rushin'/Russian joke. \"Take your time, there's no rush.... I'm not rushin' you because that's make me a Russian HAHHAHAHHAHAH!\" such a goober joke but still totally you. \n\nYour shithead friend (you know the one who called you a brown shirt nearly every day) yeah he blames you for your death. All you needed was the lethal jab and you'd still be alive. Let's not look at the hospital that didn't help you, all they did was make you comfortable by putting you in a coma, until your mother pulled your plug. There's another 40k to the hospital from the state, they never cared. \n\nYour Unicorn misses you greatly. She's not coping well with your passing, please come down and giver her one last hug, Lord knows she needs it. She's looking for someone to crochet a unicorn poncho for her. ",
+          "bodywithurls": "@southernsuperman you've been gone a full month now.. I miss you dude! Eric misses you. Bo is having trouble with your passing. Even Hellbent finally got my message, your passing messed him up as well. You were the glue that held us all together and damn it hurts so bad that you're no longer around. I keep waiting to hear your Rushin'/Russian joke. \"Take your time, there's no rush.... I'm not rushin' you because that's make me a Russian HAHHAHAHHAHAH!\" such a goober joke but still totally you. \n\nYour shithead friend (you know the one who called you a brown shirt nearly every day) yeah he blames you for your death. All you needed was the lethal jab and you'd still be alive. Let's not look at the hospital that didn't help you, all they did was make you comfortable by putting you in a coma, until your mother pulled your plug. There's another 40k to the hospital from the state, they never cared. \n\nYour Unicorn misses you greatly. She's not coping well with your passing, please come down and giver her one last hug, Lord knows she needs it. She's looking for someone to crochet a unicorn poncho for her. ",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 1,
+          "createdAt": "2021-09-16T11:10:43.000000Z",
+          "createdAtformatted": "2021-09-16T11:10:43.000000Z",
+          "creator": "dcad7e9aee3a489b9ef99c0b2a5cba90",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "id": "68e20e2d-bfce-4143-802d-ba44f37598d1",
+          "isecho": 0,
+          "lastseents": "2022-11-21T15:28:02.708944+00:00",
+          "name": "Laurie",
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/68e20e2d-bfce-4143-802d-ba44f37598d1",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "dcad7e9aee3a489b9ef99c0b2a5cba90",
+          "useridraw": "dcad7e9a-ee3a-489b-9ef9-9c0b2a5cba90",
+          "username": "Birdmomma",
+          "verified": true,
+          "ad": false,
+          "urls": {
+            "metadata": {}
+          },
+          "discovered": false,
+          "image": "https://bl-images.parler.com/images/d355705d-278f-419a-bc79-84b9aa58011e.jpg",
+          "iscomment": false,
+          "isechocomment": false,
+          "replied": false,
+          "state": 0,
+          "suggested": false,
+          "totalcomments": 1,
+          "updatedAt": "2021-12-07T18:00:52.000000Z",
+          "views": 0
+        },
+        "_ignored": ["body.keyword", "bodywithurls.keyword"]
+      }
+    ]
+  }
+}

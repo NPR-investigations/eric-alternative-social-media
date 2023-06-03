@@ -1,0 +1,75 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [24],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [8.6916],
+    "hits": [
+      {
+        "_index": "parler-data-000011",
+        "_id": "b902fbe3-47b4-42a1-b549-36c193f33907",
+        "_score": 8.6916,
+        "_ignored": ["bodywithurls.keyword"],
+        "_source": {
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Eric Holder: ‘Citizens Need To Be In Streets’ Getting Arrested To Preserve The DNC’s Right To Steal Future Elections",
+          "bodywithurls": "Eric Holder: ‘Citizens Need To Be In Streets’ Getting Arrested To Preserve The DNC’s Right To Steal Future Elections\n\nhttps://www.republicaninsider.org/scumbag-eric-holder-thinks-citizens-should-be-in-the-streets-getting-arrested-in-order-to-help-preserve-democratic-partys-right-to-steal-future-elections/",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-11T03:10:21.280826+00:00",
+          "createdAtformatted": "2021-09-11T03:10:21.280826+00:00",
+          "creator": "4fa88b1b04ae426db8f73bd3e45a1dc2",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": true,
+          "hasvideo": false,
+          "id": "b902fbe3-47b4-42a1-b549-36c193f33907",
+          "imagensfw": false,
+          "lastseents": "2022-05-09T03:10:21.280849+00:00",
+          "name": "Tea Party",
+          "numid": 33999642,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/b902fbe3-47b4-42a1-b549-36c193f33907",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "urls": {
+            "long": "https://www.republicaninsider.org/scumbag-eric-holder-thinks-citizens-should-be-in-the-streets-getting-arrested-in-order-to-help-preserve-democratic-partys-right-to-steal-future-elections/",
+            "metadata": {
+              "title": "Eric Holder: ‘Citizens Need To Be In Streets’ Getting Arrested To Preserve The DNC’s Right To Steal Future Elections | Republican Insider..."
+            }
+          },
+          "userid": "4fa88b1b04ae426db8f73bd3e45a1dc2",
+          "useridraw": "4fa88b1b-04ae-426d-b8f7-3bd3e45a1dc2",
+          "username": "Teapartyorg",
+          "verified": false
+        }
+      }
+    ]
+  }
+}

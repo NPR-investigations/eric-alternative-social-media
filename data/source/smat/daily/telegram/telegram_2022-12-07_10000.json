@@ -1,0 +1,1555 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [41],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [15],
+      "relation": ["eq"]
+    },
+    "max_score": [13.842],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7242217620232735497",
+        "_score": 13.842,
+        "_source": {
+          "archivedon": "1678845690",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1670418413,
+          "editdate": 1670427429,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 5766962518
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 789257,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Thank you Eric Swalwell 😠",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1024066365
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 5974673517
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1917916027
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 789241,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -2.53135930213262e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678845690,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "🌎",
+            "id": 5766962518,
+            "is_self": false,
+            "last_name": "David",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "theboxoutside",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-03-15T02:01:30.124060"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6086674381688610774",
+        "_score": 12.5067,
+        "_source": {
+          "archivedon": "2022-12-07 08:08:46.792254",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1670388564,
+          "editdate": 1670388567,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 107,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73885,
+            "date": 1670388074,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.politico.eu/article/destination-africa-scramble-sell-cyberweapons-dictators-qwant-eric-leandri/",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mezlim",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 106
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5817906636953494469",
+        "_score": 10.5257,
+        "_source": {
+          "archivedon": "2022-12-07 02:31:50.179941",
+          "channelabout": "Source of uncensored news, information, and discussion\n\nAlso check out our sister channels\n\n@conservativeunderground_privacy\n@conservativeunderground_books\nhttps://t.me/conservativeunderground_Jewish",
+          "channeltitle": "Conservative Underground News",
+          "channelusername": "conservativeunderground",
+          "date": 1670378027,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 59,
+              "offset": 133,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 10,
+              "offset": 194,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6363,
+            "date": 1670349539,
+            "from_id": {
+              "channel_id": 1601053024,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Missouri AG Eric Schmitt calls out the FBI for intentionally hiding information from the public under the guise of “disinformation”\n\nhttps://twitter.com/eric_schmitt/status/1600185074208546818\n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1354586947,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Heracletus",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5701205048307083164",
+        "_score": 10.1868,
+        "_source": {
+          "archivedon": "2022-12-08 01:14:23.394179",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1670451492,
+          "editdate": 1670451495,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 152,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 152,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 152,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1670431777,
+            "from_id": {
+              "channel_id": 1442788359,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ivanka Trump ist ein Junge, Don Jr. st ein Mädchen und Eric ist auch ein Mädchen! Melanie ist ein Mann ... Transenfamilie Trump!\n\nWer ist Donald Trump?\n@trumpinfo 👈I",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "𝔚𝔥𝔦𝔱𝔢 𝔅𝔦𝔯𝔡 💖🕊",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331917603,
+            "comments": true,
+            "max_id": 174049,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 209933051
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 185756499
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 892655043
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 299334
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 158
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7696064228830027941",
+        "_score": 9.335,
+        "_source": {
+          "archivedon": "2022-12-07 04:36:55.215184",
+          "channeltitle": "ErVolksRunde",
+          "date": 1670374834,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1778830069
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Ja. Natürlich. \nKanye kommt aus dem Umfeld von Jared Kushner, Mercer-Familie, Eric Prince. Eric Prince ist Blackwater oder wie die jetzt heissen. Seine Schwester war Bundes Schuldirektorin unter Trump. Er ist Templer. D.h. die heutige gegenwärtige Version der Templer. Die Templer begehen das Morden an den Musel im nahen Osten, mit Söldnern, mit SAS, mit U.S. Special Forces, im Dienste Zions. \nAlso wäre es schon möglich, oder man sollte es in Betracht ziehen, dass es ein zionistisches Symbol ist. \nWeniger wahrscheinlich, dass West das kapiert oder vielleicht doch. 🤷",
+          "peerid": {
+            "channel_id": 1791879588,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 73892,
+            "reply_to_top_id": 73611
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.87988174213524e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "AnimoSaurus",
+            "id": 1778830069,
+            "is_self": false,
+            "last_name": "Rex",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 299094,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033300432
+              },
+              "photo_id": 5.161670294967e+18,
+              "photo_small": {
+                "local_id": 299092,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033300432
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "animosaurus",
+            "verified": false,
+            "_id": 1778830069,
+            "_media_ref": "17cc48b1708c3e2c198a21c9c72cef3db94d62b1",
+            "restriction_reason": []
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5576245186738077096",
+        "_score": 9.2128,
+        "_source": {
+          "archivedon": "2022-12-07 04:03:49.665361",
+          "channelabout": "🎙Uncensored News 😷 Corona Updates, 📲EMF Pollution Alerts🥑 Fresh☀️Foods, 🌴Superfoods🍈, Superherbs🍄, Living💦Water, Health💫Technology, and✨#TheBestDayEver!✨ ⬇️MyWorld🌳 & 📲Favorite Links and Memes⬇️",
+          "channeltitle": "David Avocado Wolfe",
+          "channelusername": "davidavocadowolfe",
+          "date": 1670373091,
+          "edithide": false,
+          "entities": [],
+          "forwards": 43,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Update from Attorney General Eric Schmitt of Missouri and his ongoing lawsuit investigating Big Tech colluding with the Feds to censor Americans. When you think of the scale of the criminality, it is truly monumental, maybe beyond Soviet levels.",
+          "peerid": {
+            "channel_id": 1298320756,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 5359
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7660007729271952687",
+        "_score": 8.6454,
+        "_source": {
+          "archivedon": "2022-12-07 18:29:18.75047",
+          "channelabout": "Anton Gerashchenko is an official advisor and a former deputy minister at the Ministry of Internal Affairs of Ukraine, ex-member of the Ukrainian parliament.",
+          "channeltitle": "Pravda_Gerashchenko_en",
+          "channelusername": "pravdaGerashchenko_en",
+          "date": 1670436128,
+          "editdate": 1670436262,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 244,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 250,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric, a German from Cuxhaven\nTown, went to war to liberate his grandpa, grandma and aunt from Russian occupation in Kherson.\n\nHe's crying because he was finally able to hug them. He's happy they made it through occupation.\n\nGlory to Hero!\n\n📹: @BILD https://t.co/f48yWwxFP0",
+          "peerid": {
+            "channel_id": 1783484530,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1750520019,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 105618
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 300,
+          "mediaref": "d059275b43f4c5de0e2a9cbd3157d4a2d5e6126a"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5449284918381146567",
+        "_score": 6.4049,
+        "_source": {
+          "archivedon": "2022-12-07 03:52:43.48046",
+          "channelabout": "😇Ich bin @AngelOfTruth und unterstütze Menschen gesünder, unabhängiger und glücklicher zu leben.\nMöchtest du selbst dein Leben in diesen Themen verändern, dann schreib mir gerne hier: https://api.whatsapp.com/send?phone=4915254283843&text=Ich%20bin....",
+          "channeltitle": "🍃🌺 GᕮᕼᕮIᗰᑎIS 💫 ᗪᕮᖇ GᕮSᑌᑎᗪᕼᕮIT 🌺🍃",
+          "channelusername": "Geheimnis_Gesundheit",
+          "date": 1670372965,
+          "editdate": 1670374203,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 35,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 603,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 70,
+              "offset": 616,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24317,
+            "date": 1670354099,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Die Abschrift der FAUCI-Vernehmung\nWidersprüche, Lügen und \"Ich erinnere mich nicht\" vom bösartigsten Doktor der Nation\n\nHeute veröffentlichte der Generalstaatsanwalt von Missouri, Eric Schmitt, die Niederschrift der Aussage von Dr. Anthony Fauci. Wie Sie sich vielleicht erinnern, wurde Fauci im Rahmen eines laufenden Bundesverfahrens befragt, in dem es um die Verletzung des Ersten Verfassungszusatzes durch die Biden-Administration bei der gezielten Unterdrückung der Äußerungen von Amerikanern geht, die die Darstellung der Regierung zu COVID-19 in Frage stellen.\n\nUnd hier sind die Highlights...\n\nWeiterlesen:\nhttps://qlobalchange.substack.com/p/die-abschrift-der-fauci-vernehmung",
+          "peerid": {
+            "channel_id": 1268760515,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "🇷🇺 Angel of Truth ✨😇✨",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 143
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6233253502307613442",
+        "_score": 6.4049,
+        "_source": {
+          "archivedon": "2022-12-07 04:35:06.683713",
+          "channelabout": "Vernetzung ist für uns das höchste Gut!\n\nKontakt: @QNET17ChannelContact_bot\n\nNetzwerk: https://QNET17.cc\n\nhttps://twitter.qnet17.cc\nhttps://facebook.qnet17.cc\nhttps://parler.com/profile/BennyChange\nhttps://lbry.tv/@QNET17:1\nhttps://gab.com/BennyChange",
+          "channeltitle": "QNET17 〉Wir sind die News 🇩🇪",
+          "channelusername": "qpluswatnn",
+          "date": 1670386292,
+          "editdate": 1670386295,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 35,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 603,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 70,
+              "offset": 616,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24317,
+            "date": 1670354099,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Die Abschrift der FAUCI-Vernehmung\nWidersprüche, Lügen und \"Ich erinnere mich nicht\" vom bösartigsten Doktor der Nation\n\nHeute veröffentlichte der Generalstaatsanwalt von Missouri, Eric Schmitt, die Niederschrift der Aussage von Dr. Anthony Fauci. Wie Sie sich vielleicht erinnern, wurde Fauci im Rahmen eines laufenden Bundesverfahrens befragt, in dem es um die Verletzung des Ersten Verfassungszusatzes durch die Biden-Administration bei der gezielten Unterdrückung der Äußerungen von Amerikanern geht, die die Darstellung der Regierung zu COVID-19 in Frage stellen.\n\nUnd hier sind die Highlights...\n\nWeiterlesen:\nhttps://qlobalchange.substack.com/p/die-abschrift-der-fauci-vernehmung",
+          "peerid": {
+            "channel_id": 1451292425,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1744540316,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28002
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 28
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5686521886563167291",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "1670372981",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1670372852,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1584115614
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 1371195,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Weisselberg testified that he pulled off the scheme with the help of his underling, Trump Organization controller Jeffrey McConney. McConney, who received immunity for testifying before the grand jury, admitted to some of the illegal conduct in his testimony.\n\nAfter Trump was elected president, Weisselberg testified, there was a \"clean up\" and many of the illegal practices stopped.\n\nHe revealed conversations he had with Trump, Eric Trump and Donald Trump Jr., but told the jury when questioned by the Trump attorneys that he did not scheme or conspire with anybody in the Trump family.\n\nWeisselberg became emotional at times, telling the jury he was \"embarrassed\" by his conduct and that he \"betrayed\" the Trump family, who has been his employer for 49 years.\nFacts matter ☝️🤷‍♂",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1371080,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.85308425268065e+18,
+            "apply_min_photo": true,
+            "archivedon": 1670372981,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Buck",
+            "id": 1584115614,
+            "is_self": false,
+            "last_name": "Quickie",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6626382308565862071",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "1682397506",
+          "channelabout": "Study Patterns\nConnects Dots\nLFG",
+          "channeltitle": "SQvQge Dawg",
+          "channelusername": "NewSavageDawg",
+          "date": 1670404106,
+          "editdate": 1670407602,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 211,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 48,
+              "offset": 213,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.ibtimes.sg/who-james-baker-fbi-lawyer-who-helped-censor-hunter-story-spied-trump-campaign-68006"
+            },
+            {
+              "length": 7,
+              "offset": 326,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 333,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 3,
+              "offset": 347,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 516,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 5,
+              "offset": 516,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 143,
+              "offset": 521,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 24,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2538,
+            "date": 1670265222,
+            "from_id": {
+              "channel_id": 1316415645,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Lisa B 4 Baadasssss",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 18103,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.ibtimes.sg/reporters/nandika-vinal-chand",
+              "description": "James Baker, former federal prosecutor, reportedly helped bury the Hunter laptop story during the Biden campaign for US Presidential Election.",
+              "display_url": "ibtimes.sg/who-james-baker-fbi-lawyer-who-helped-censor-hunter-story-spied-trump-campaign-68006",
+              "hash": 0,
+              "id": 1.98386512612914e+18,
+              "photo": {
+                "access_hash": 1.76453628093934e+18,
+                "date": 1670264538,
+                "dc_id": 4,
+                "file_reference": "AGRHWTSTq8CAKX3iAeE4aWVAZOce",
+                "has_stickers": false,
+                "id": 5.79770296951542e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ASgbSN1IcxJtHGB+FTRxSMMl+faq9qoEWQ3zHqPSrkbsCBs49c0mxpAFdGwxyD0pc0u525Zdv40U4u6FJWZUKLbyZ6KUyc1Md2doOMVlTSyTHLuTWlZzCazcSAM8Q4yccUrDuTjPQmnYqjeSOscE0fybgQcHioRfzgfwn3xVR0Qpasq0+KRkJIPUYNFFAIkkcmDZngPkflUFFFJDluc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 320,
+                    "size": 14132,
+                    "w": 213,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 368,
+                    "w": 245,
+                    "sizes": [1898, 4421, 6774, 10527, 15458]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "International Business Times, Singapore Edition",
+              "title": "Who is James Baker? FBI Lawyer Who Helped Censor Hunter Story Spied on Trump Campaign",
+              "type": "photo",
+              "url": "https://www.ibtimes.sg/who-james-baker-fbi-lawyer-who-helped-censor-hunter-story-spied-trump-campaign-68006"
+            }
+          },
+          "message": "💥James Baker: Still Dep. Gen Counsel At Twitter (?)\n💥WHY? When Twitter Are Putting Out Files\n💥FBI Lawyer Helped Censor Hunter Story\n💥Spied On Trump Campaign\n\nVideo of Trump calling out the Bidens (Link below)\nJames Baker FBI Twitter Counsel Supressed laptop 🔗\n\nIs this the James Baker the JB mentioned in Q Post below?:\n\nQP 571\n@Jack, MZ, ES, JB, EM, SH, MSM, etc.\nDo you know that we know?\nDo you know that we see all?\nDo you know that we hear all?\nFEAR the STORM.\nNOBODY PLAYING THE GAME GETS A FREE PASS.\nQ\n\n@Jack = Jack Dorsey\nMZ= Mark Zuckerberg\nES = Eric Schmidt\nJB = James Baker (?)\nEM = Elon Musk\nSH = Sean Hannity (?)\nMSM = Mainstream Media\nNOBODY.\nQ",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1542824858,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 52,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 11,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1535418383,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1200672
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 7332,
+          "lastseents": "2023-04-25T04:38:26.463518"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6729827970279565711",
+        "_score": 4.7364,
+        "_source": {
+          "archivedon": "1682472015",
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "channeltitle": "Blazen Herb",
+          "channelusername": "Blazenherb",
+          "date": 1670416140,
+          "editdate": 1670429786,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 4,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/DavidLaufmanLaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+            },
+            {
+              "length": 9,
+              "offset": 276,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://mobile.twitter.com/DavidLaufmanLaw/status/1560317965345644544"
+            },
+            {
+              "length": 7,
+              "offset": 293,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 12,
+              "offset": 567,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.cnn.com/2022/08/08/politics/mar-a-lago-search-warrant-fbi-donald-trump/index.html"
+            },
+            {
+              "length": 10,
+              "offset": 635,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.wiggin.com/news/partner-david-laufman-quoted-in-nbc-news-the-washington-post-and-newsweek-regarding-comments-from-fox-news-host-about-u-s-capital-police-officer/"
+            },
+            {
+              "length": 17,
+              "offset": 745,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://whistlebloweraid.org/team/"
+            },
+            {
+              "length": 15,
+              "offset": 879,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/markszaidesq/status/826262311560216578?lang=en"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 646,
+            "date": 1666062545,
+            "from_id": {
+              "channel_id": 1189398247,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "groupedid": 1.3363329121266e+16,
+          "id": 27023,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "This is David Laufman, who began his career at CIA in 1980. He was the head of DOJ Counter Intelligence at the outset of various target operations against President Trump in 2016. Before that, he managed investigations into Hillary Clinton and David Petraeus, to name a few.\n\nJay Bratt is the current DOJ Chief of Counterintelligence. Bratt is Laufman’s former colleague and immediate successor, who Laufman speaks highly of. Bratt is now leading the government’s case against Trump’s “mishandling” of classified documents. Bratt was among the four investigators who paid a visit to Mar a Lago in June re the case.\n\nDavid Laufman also represents Harry Dunn (the crybaby J6 Capitol Police thug) alongside Mark Zaid. \n\nMark Zaid founded nonprofit Whistleblower Aid (funded by billionaire Pierre Omidyar) where he represented CIA agent Eric Ciaramella while openly tweeting about a coup against 45. \n\nCoincidentally, Ciaramella worked as NSC Director for Ukraine at the same time that the quid pro Joe fiasco occurred.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "max_id": 75651,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1516132336
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 155665
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 340,
+          "lastseents": "2023-04-26T01:20:16.307462",
+          "mediaref": "0d28adc77343536ab7728f6889b54bce35b2082a"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5090199899812231803",
+        "_score": 3.4259,
+        "_source": {
+          "archivedon": "2022-12-07 09:05:07.364012",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1670398471,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 852,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 1680,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 28,
+              "offset": 1700,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 546737,
+            "date": 1670398468,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 546737,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nAbout the downed Ukrainian airman. The call sign Karaia displayed on his helmet was that of the Nazi ace pilot Erich Hartmann.  \n  \nHowever, Valim Voroshilov (that is the name of the character on the photo) did not hide who his idol was.  \n  \n\"This is the call sign of the most successful fighter pilot of World War II and in general in the history of aviation - Eric Hartman. The word itself has no direct meaning. If the literal translation is from German, it is 'beloved,' but it was not used in that sense.\"  \n  \nVoroshilov explained that Hartmann's story inspired him and that the fact that he fought on the side of Nazi Germany did not play such a big role, since \"in all interviews he described himself as young and apolitical.  \n  \nVoroshilov himself is presented in the Ukrainian media as a pilot destroying Iranian drones.  \n  \n@sashakots\n=======\nORIGINAL :\nПо поводу сбитого украинского летуна. Позывной Карайя, выведенный на шлеме, был у фашистского летчика-аса Эриха Хартмана.  \n  \nВпрочем, Валим Ворошилов (так зовут персонажа на фото) и не скрывал, кто его кумир.  \n  \n«Это позывной самого результативного летчика-истребителя Второй мировой войны и вообще за всю историю авиации – Эрика Хартмана. Само слово прямого толкования не имеет. Если дословный перевод с немецкого, то это – \"любимая\", но оно не использовалось в этом значении».  \n  \nВорошилов объяснил, что история Хартмана вдохновила его, а то, что он воевал на стороне нацистской Германии не играет такой уж большой роли, так как \"во всех интервью он называл себя молодым и аполитичным\".  \n  \nСам Ворошилов представляется в украинских СМИ как пилот, уничтожающий иранские беспилотники.  \n  \n@sashakots\nSOURCE :\nhttps://t.me/sashakots/37524\nKotsnews",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 969712
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6333509979005265326",
+        "_score": 3.3101,
+        "_source": {
+          "archivedon": "2022-12-07 23:16:18.221985",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1670447343,
+          "editdate": 1670447485,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 70,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 116,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 66,
+              "offset": 278,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 91,
+              "offset": 552,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 2,
+              "offset": 645,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 144,
+              "offset": 895,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 70,
+              "offset": 1041,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 129,
+              "offset": 1277,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 57,
+              "offset": 1408,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 1656,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 74,
+              "offset": 1736,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 1810,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 1896,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(1/4)                                        \n07 Dec 2022       U.S.\n\n▫️HSI Albuquerque, APD rescue 69 undocumented noncitizens in stash house, arrest smuggler\nhttps://www.ice.gov/news/releases/hsi-albuquerque-apd-rescue-69-undocumented-noncitizens-stash-house-arrest-smuggler\n\n▫️Sixth child sexual predator arrested in Washington County sting\nWASHINGTON COUNTY, Ore. — Another man has been arrested in relation to an ongoing child predator sting arranged by the Washington County Sheriff's Office, bringing the total apprehended child predators to 6.\nhttps://katu.com/news/local/sixth-child-sexual-predator-arrested-in-washington-county-sting\n\n▫️More victims come forward against Naples doctor accused of rape\nAn attorney for one victim of Dr. Eric Salata has revealed that eleven women have come forward to the Naples Police with reports accusing the doctor of some type of sexual misconduct.\nhttps://nbc-2.com/news/local/collier-county/2022/12/06/attorney-for-woman-allegedly-raped-by-naples-doctor-expects-more-victims-to-come-forward/\n\n▫️Uber ride turns into sexual assault; Fort Myers driver, 37, charged\nLee County Sheriff Carmine Marceno said the victim was walking to her door when Felix Manuel Torres, 37, of Fort Myers attacked. Torres faces sexual battery charges.\nhttps://www.news-press.com/story/news/crime/2022/12/06/fort-myers-uber-driver-arrested-charged-sex-assault-passenger/10843420002/\n\n▫️Wylie woman accused of sexually trafficking 8-year-old\nA North Texas mother is charged with human trafficking and is now tied to a man who is accused of taking sexual pictures of children all over the country and selling them using social media.\nhttps://news.yahoo.com/wylie-woman-accused-sexually-trafficking-031238526.html\n\n▫️Police looking for suspect in attempted kidnapping of child in Brooklyn\nhttps://news.yahoo.com/police-looking-suspect-attempted-kidnapping-044518968.html\n\n   @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "max_id": 487280,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 803373
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 493
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5533970515133317291",
+        "_score": 3.3101,
+        "_source": {
+          "archivedon": "2022-12-08 02:35:30.408659",
+          "channelabout": "We are patriot truth seekers. http://bit.ly/PatriotMap",
+          "channeltitle": "Infamy2021",
+          "channelusername": "infamy2021",
+          "date": 1670456383,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 70,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 116,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 66,
+              "offset": 278,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 91,
+              "offset": 552,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 2,
+              "offset": 645,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 144,
+              "offset": 895,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 70,
+              "offset": 1041,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 129,
+              "offset": 1277,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 57,
+              "offset": 1408,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 1656,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 74,
+              "offset": 1736,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 1810,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 1896,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 9646,
+            "date": 1670447343,
+            "from_id": {
+              "channel_id": 1474635205,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "DJBoddhi",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(1/4)                                        \n07 Dec 2022       U.S.\n\n▫️HSI Albuquerque, APD rescue 69 undocumented noncitizens in stash house, arrest smuggler\nhttps://www.ice.gov/news/releases/hsi-albuquerque-apd-rescue-69-undocumented-noncitizens-stash-house-arrest-smuggler\n\n▫️Sixth child sexual predator arrested in Washington County sting\nWASHINGTON COUNTY, Ore. — Another man has been arrested in relation to an ongoing child predator sting arranged by the Washington County Sheriff's Office, bringing the total apprehended child predators to 6.\nhttps://katu.com/news/local/sixth-child-sexual-predator-arrested-in-washington-county-sting\n\n▫️More victims come forward against Naples doctor accused of rape\nAn attorney for one victim of Dr. Eric Salata has revealed that eleven women have come forward to the Naples Police with reports accusing the doctor of some type of sexual misconduct.\nhttps://nbc-2.com/news/local/collier-county/2022/12/06/attorney-for-woman-allegedly-raped-by-naples-doctor-expects-more-victims-to-come-forward/\n\n▫️Uber ride turns into sexual assault; Fort Myers driver, 37, charged\nLee County Sheriff Carmine Marceno said the victim was walking to her door when Felix Manuel Torres, 37, of Fort Myers attacked. Torres faces sexual battery charges.\nhttps://www.news-press.com/story/news/crime/2022/12/06/fort-myers-uber-driver-arrested-charged-sex-assault-passenger/10843420002/\n\n▫️Wylie woman accused of sexually trafficking 8-year-old\nA North Texas mother is charged with human trafficking and is now tied to a man who is accused of taking sexual pictures of children all over the country and selling them using social media.\nhttps://news.yahoo.com/wylie-woman-accused-sexually-trafficking-031238526.html\n\n▫️Police looking for suspect in attempted kidnapping of child in Brooklyn\nhttps://news.yahoo.com/police-looking-suspect-attempted-kidnapping-044518968.html\n\n   @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1288477917,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

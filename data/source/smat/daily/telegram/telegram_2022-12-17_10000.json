@@ -1,0 +1,778 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [37],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [7],
+      "relation": ["eq"]
+    },
+    "max_score": [13.0433],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5218245175694742345",
+        "_score": 13.0433,
+        "_source": {
+          "archivedon": "1678117621",
+          "channelabout": "",
+          "channeltitle": "Donald Trump Jr Chat",
+          "channelusername": "TrumpJrChat",
+          "date": 1671252905,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1038591102
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 3035977,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "Eric would be a more likely candidate for president",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1214967383,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 3035319,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 3032152
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.12923313042574e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678117621,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Jessica",
+            "id": 1038591102,
+            "is_self": false,
+            "last_name": "Lovell",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 4.46071481746284e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIqz20cDOgbcRH3HfNFFFAzw=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1678072619
+            },
+            "support": false,
+            "username": "Jesca_EPT",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-03-06T15:47:01.047153"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5373286120618528750",
+        "_score": 6.1191,
+        "_source": {
+          "archivedon": "1678398063",
+          "channelabout": "Informations- und Vernetzungsgruppe im Saarland",
+          "channeltitle": "Patrioten im Saarland",
+          "channelusername": "patriotensaarland",
+          "date": 1671268061,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 631,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 634,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4425,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 677696140
+          },
+          "fwdfrom": {
+            "channel_post": 504,
+            "date": 1671265707,
+            "from_id": {
+              "channel_id": 1273097115,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Michael",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 69614,
+          "media": {
+            "document": {
+              "access_hash": -4.31445302321349e+18,
+              "attributes": [
+                {
+                  "duration": 1866,
+                  "h": 720,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 1280
+                }
+              ],
+              "date": 1671265707,
+              "dc_id": 2,
+              "file_reference": "AkqRv0IAAQ/uZApSPz8Kdg6kwGErEGE/Vk9yxXY=",
+              "id": 5.25348139233078e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 157331542,
+              "thumbs": [
+                {
+                  "bytes": "ARYos2yqE471aUjHFVbc4jA9qsKalDH4opM0tMBkhwh+lFJN9xvpRSYFKCddgO01ZjlB7GiigB5kA7UGYAZwaKKAILmf92SBziiiikM/",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 11769,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false,
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "‼️🚨 Die Manipulation von Kalender und Zeit\n\n🔥Ist der Gregorianische Kalender ein diabolische Machwerk? Das Wort diabolisch bedeutet \"etwas durcheinander bringen, die Dinge in Unordnung bringen, was auch teuflisch sein kann“. Wer sich näher mit dem Gregorianischen Kalender auseinander setzt, wird schnell feststellen, das damit etwas nicht stimmen kann!\n\n⚠️ Eric Dubay stellt in diesem Video seine Recherchen bezüglich dem Kalender und der Zeit vor, die uns heute oftmals in ein Korsett und einen Zwang setzt, denn Pünktlichkeit ist eine vom System erfundene \"Tugend\".\n\n☝️„Wenn wir die Zeit nicht verstehen, werden wir ihr Opfer!“\n\n@wahreatlantis",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1251065666,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 135358
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -5.21954628463341e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678398063,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "C",
+            "id": 677696140,
+            "is_self": false,
+            "last_name": "B",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1678394604
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 74544,
+          "lastseents": "2023-03-09T21:41:03.809596"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5756752521771163067",
+        "_score": 6.1191,
+        "_source": {
+          "archivedon": "2022-12-20 02:58:15.971572",
+          "channelabout": "📌 #News über #Politik #Wirtschaft #Gesundheit #NWO #GlobalPolitik #5G #AxelBurkart #Spiritualität und mehr...\n🎙Euer Radio: #OKiTALK\n 🖍Systemkritik: @RubikonNews @AntiSpiegel \n😳PODCAST-Kanal\nt.me/b_info_audio\n🖍 Seid dabei im Chat:\nt.me/buergerinfochat",
+          "channeltitle": "BÜRGERINFORMATIVE - News",
+          "channelusername": "buergerinformative",
+          "date": 1671283848,
+          "editdate": 1671284593,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 631,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 634,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 76,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 504,
+            "date": 1671265707,
+            "from_id": {
+              "channel_id": 1273097115,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Michael",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "‼️🚨 Die Manipulation von Kalender und Zeit\n\n🔥Ist der Gregorianische Kalender ein diabolische Machwerk? Das Wort diabolisch bedeutet \"etwas durcheinander bringen, die Dinge in Unordnung bringen, was auch teuflisch sein kann“. Wer sich näher mit dem Gregorianischen Kalender auseinander setzt, wird schnell feststellen, das damit etwas nicht stimmen kann!\n\n⚠️ Eric Dubay stellt in diesem Video seine Recherchen bezüglich dem Kalender und der Zeit vor, die uns heute oftmals in ein Korsett und einen Zwang setzt, denn Pünktlichkeit ist eine vom System erfundene \"Tugend\".\n\n☝️„Wenn wir die Zeit nicht verstehen, werden wir ihr Opfer!“\n\n@wahreatlantis",
+          "peerid": {
+            "channel_id": 1340348395,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1034
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4660517825192923841",
+        "_score": 5.8621,
+        "_source": {
+          "archivedon": "2022-12-20 20:58:18.179824",
+          "channelabout": "THE UNSUSPECTET ENEMY (der unverdächtigte Feind)",
+          "channeltitle": "Paolo Simone Kanal",
+          "channelusername": "themask_diemaske",
+          "date": 1671284008,
+          "editdate": 1671286209,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 23,
+              "offset": 636,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 22,
+              "offset": 699,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 162,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 27637,
+            "date": 1671265451,
+            "from_id": {
+              "channel_id": 1510701731,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Sandy",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "‼️🚨 Die Manipulation von Kalender und Zeit\n\n🔥Ist der Gregorianische Kalender ein diabolische Machwerk? Das Wort diabolisch bedeutet \"etwas durcheinander bringen, die Dinge in Unordnung bringen, was auch teuflisch sein kann“. Wer sich näher mit dem Gregorianischen Kalender auseinander setzt, wird schnell feststellen, das damit etwas nicht stimmen kann!\n\n⚠️ Eric Dubay stellt in diesem Video seine Recherchen bezüglich dem Kalender und der Zeit vor, die uns heute oftmals in ein Korsett und einen Zwang setzt, denn Pünktlichkeit ist eine vom System erfundene \"Tugend\".\n\n☝️„Wenn wir die Zeit nicht verstehen, werden wir ihr Opfer!“\n\n✅ @erwachenwissenschaffen\n\nOstschweizer Schnüffler\nDaily News 🙏\nhttps://t.me/red_3_6_9",
+          "peerid": {
+            "channel_id": 1085111365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Chris Chris",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1152565685,
+            "comments": true,
+            "max_id": 50586,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 842100509
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 74177
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2177
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6086674381688615931",
+        "_score": 4.2368,
+        "_source": {
+          "archivedon": "2022-12-20 03:29:51.977655",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1671248558,
+          "editdate": 1671248562,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 76433,
+            "date": 1671248265,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "“The rats may be listening,” warns Mayor Eric Adams, in one of the at least EIGHTY times he’s mentioned the word “rat” or “rats” since mid-October alone. This includes multiple press conferences (some of which were entirely focused on rodents) and interviews, per his office’s transcript.  Two months ago, in front of a garbage truck by City Hall, Adams laid out the three major planks to improve quality of life: “Fighting crime, fighting inequality, and fighting rats.”  In 2019, as Brooklyn Borough President, Adams famously held a news conference to tout a type of trap that drowned rodents in an alcohol solution, leaving behind what, at the time, Gothamist called a “revolting dead rat soup.” Since then, his hatred of rats has not abated.  In the last month, he’s announced the hiring of a “rat czar” (salary: $120K-170K ! ) and signed four rat-focused bills into law.  This begs the question: Do rats live rent-free in Mayor Adams’ head? And, perhaps more importantly: are the mayor’s tactics effective?  We have answers and analysis at the link in our bio.  Story and video by Jon Campbell, with video editing by Daniel Shapiro.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mezlim",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1288104
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 288
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6333509979005265407",
+        "_score": 3.696,
+        "_source": {
+          "archivedon": "2022-12-20 20:54:20.234292",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1671311830,
+          "editdate": 1671317594,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 70,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 83,
+              "offset": 616,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 77,
+              "offset": 701,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 102,
+              "offset": 778,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 107,
+              "offset": 882,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 73,
+              "offset": 1325,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 128,
+              "offset": 1401,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 1533,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              }
+            }
+          },
+          "message": "(2/3)                                        \n17 Dec 2022       U.S.\n\n▫️Federal agents raid Florida Keys house, by land in armed SUVS and by water in a raft\nHeavily armed FBI agents raided a Florida Keys house Friday morning, according to neighbors. Agents dressed in body armor and carrying semiautomatic rifles came to the Mars Lane house on Geiger Key by SUVs with mounted turrets and by raft in a canal. Law enforcement sources said the raid was connected to a human trafficking investigation. Several people were taken into custody, but it was not immediately clear if there were any formal arrests or charges.\nhttps://www.miamiherald.com/news/local/community/florida-keys/article270099962.html\n\n▫️Virginia-DC task force convicts 18 men for soliciting sex acts from minors\nhttps://www.fox5dc.com/news/virginia-dc-task-force-convicts-18-men-for-soliciting-sex-acts-from-minors\n\n▫️Two indicted with sex trafficking after allegedly forcing 16-year-old into prostitution in East New York\nA man and woman are charged with sex trafficking a 16-year-old girl in Brooklyn, the local district attorney announced Thursday. Kaelin Alexander, aka Chantz, 23, of Staten Island, was charged Thursday in connection with the charges he faces. However, his co-defendant remains uncaught, said Brooklyn District Attorney Eric Gonzalez.\n» https://www.brooklynpaper.com/two-indicted-sex-trafficking-east-new-york/\n» https://www.nbcnewyork.com/news/local/crime-and-courts/duo-faces-charges-for-sex-trafficking-16-year-old-girl-in-nyc-da/3999879/\n\n  @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 805346
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1950
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6254965403802686694",
+        "_score": 3.5538,
+        "_source": {
+          "archivedon": "1682714888",
+          "channelabout": "",
+          "channeltitle": "CORONA RAF",
+          "channelusername": "CORONARAF",
+          "date": 1671311589,
+          "editdate": 1671322503,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 391,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1110534354
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 283878,
+          "media": {
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            },
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "display_url": "nscai.wpenginepowered.com/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf",
+              "document": {
+                "access_hash": -1.51353554737536e+18,
+                "attributes": [
+                  {
+                    "file_name": "Full-Report-Digital-1.pdf",
+                    "reformatted_key": "DocumentAttributeFilename"
+                  }
+                ],
+                "date": 1671311084,
+                "dc_id": 4,
+                "file_reference": "AGRMMQAsEV9OyveQ4RzmErNmbbOy",
+                "id": 5.83346535784671e+18,
+                "mime_type": "application/pdf",
+                "reformatted_key": "Document",
+                "size": 14580478,
+                "thumbs": [],
+                "video_thumbs": []
+              },
+              "hash": 0,
+              "id": 7.04966301513714e+18,
+              "reformatted_key": "WebPage",
+              "type": "document",
+              "url": "https://nscai.wpenginepowered.com/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf"
+            }
+          },
+          "message": "Das WEF setzt ja schon Maßstäbe (Inhalte finden sich u.a. in Smart City Docs wieder und werden auch von Polit-Marionetten nahezu im  O-Ton wiedergegeben; Schwab ist stolz, seine YGL wie Trudeau platziert zu haben usw.). Wer aber liefert den ganzen Content, z.B. für die ganzen Ziele, die YGL-Ausbildung ...? (Eigene) Think-Tanks (z.B. aus den USA)?\n\nDen NSCAI-Berichten ( Eric Schmidt! Z.B. https://nscai.wpenginepowered.com/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf ) ist zu entnehmen, dass China, was ja auch deren Ziel bis 2049/50 ist, mit Riesenschritten und u.a. mittels Überwachung und wenig (Datenschutz-)Rechten die USA mittelfristig übertrumpfen könnte, daher auch die zunehmende Überwachung (u.a. HERA auf EU-Ebene; überhaupt reißt die EU-Kommission widerrechtlich und im Hintergrund immer mehr Macht an sich!) und der sukzessive Abbau von Rechten in unseren Breitengraden. Dazu noch die Interessen des Valley, der Foundations, Big Tech, Big Pharma...\n\nIch denke, es ist eher eine Melange als ein dedizierter Plan. Und ich denke immer noch, dass er eines Tages gelingen wird, zumindest die Menschenkontrolle auf Individualebene, wenn deren Strukturen - mindestens aber die Medienstruktur als massivstes Manipulationsinstrument - nicht zerstört wird! Zudem stehen wir an der Schwelle zum Posthumanismus, welche bei nicht ausgereifter KI / AI nicht mehr kontrollierbare Folgen haben wird. Die Menschen sind zu dumm, als dass sie das ex ante berücksichtigen. Wir taumeln ins Zeitalter von Narrativen, Framings und Ideologien, angeführt von narzisstischen Psychopathen. 🙁 Es fehlen Leute, die das erkennen UND adäquaten Widerstand leisten, solange dieser noch möglich ist! Wenn er noch möglich ist ...🥶🫣 Quasselforen bringen auf Dauer - NICHTS!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1456347621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1341761048
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 953389105
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1052859966
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 283866,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 283727
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 6.54448299753491e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682714888,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "ABS",
+            "id": 1110534354,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Sportlich1971NRW",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T20:48:08.460630",
+          "collected_by": "crawler",
+          "url": "t.me/CORONARAF/283878"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

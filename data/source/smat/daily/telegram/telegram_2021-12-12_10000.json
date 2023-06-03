@@ -1,0 +1,1998 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [40],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [30],
+      "relation": ["eq"]
+    },
+    "max_score": [11.3191],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6011374937745401374",
+        "_score": 11.3191,
+        "_source": {
+          "archivedon": "2022-01-09 20:58:02.247471",
+          "channeltitle": "Free Ohio",
+          "channelusername": "FreeOhio",
+          "date": 1639311695,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 69,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 141,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1575475117
+          },
+          "fwdfrom": {
+            "channel_post": 12681,
+            "date": 1639248719,
+            "from_id": {
+              "channel_id": 1202315764,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "\"Slowhand & Van - This Has Gotta Stop (Eric Clapton, Van Morrison)\" \nhttps://youtu.be/VrlPQIdA2js",
+          "peerid": {
+            "channel_id": 1399632296,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 13348
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1575475117,
+            "_v": 1,
+            "access_hash": -5.44816945584419e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Heartsthoughts",
+            "id": 1575475117,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 91565,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100699
+              },
+              "photo_id": 4.9136575501934e+18,
+              "photo_small": {
+                "local_id": 91563,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100035100699
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Heartsthoughts",
+            "verified": false
+          },
+          "v": 1,
+          "views": 21075
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6312045175568860755",
+        "_score": 10.862,
+        "_source": {
+          "archivedon": "1680097432",
+          "channeltitle": "💉Muertes por vacunas Covid19💉",
+          "channelusername": "muertesxvacunascovid19",
+          "date": 1639282283,
+          "editdate": 1639282286,
+          "edithide": true,
+          "entities": [],
+          "forwards": 64,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Cantante y compositor Eric Clapton nos cuenta como la vacuna fue el final de su carrera.",
+          "peerid": {
+            "channel_id": 1469637541,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Javier Lobo",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1463937433,
+            "comments": true,
+            "max_id": 3307,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 838080721
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1708936739
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 854212507
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 19251
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2361,
+          "channelabout": "Canal colaborativo de Noticias sobre muertes por las “vacunas” del Covid",
+          "id": 1619,
+          "mediaref": "ecf25b9c2ffb6681d8332e7ec7fbc731115f0205",
+          "noforwards": false,
+          "lastseents": "2023-03-29T13:43:52.671012"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6057077057676909295",
+        "_score": 10.862,
+        "_source": {
+          "archivedon": "2022-01-09 19:27:53.901363",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1639340416,
+          "editdate": 1639340419,
+          "edithide": true,
+          "entities": [],
+          "forwards": 85,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 19253,
+            "date": 1639340049,
+            "from_id": {
+              "channel_id": 1302871845,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump and General Flynn spent a lot of time talking at the event yesterday. 💥",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1286165912,
+            "comments": true,
+            "max_id": 753489,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1368384203
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 700750620
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1554142832
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 55,
+            "replies_pts": 961223
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 33487,
+          "channelabout": "Fighting for POTUS 🇺🇸"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5595791965154200373",
+        "_score": 10.862,
+        "_source": {
+          "archivedon": "2022-03-05 19:48:30.188153",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1639340049,
+          "editdate": 1639340052,
+          "edithide": true,
+          "entities": [],
+          "forwards": 133,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump and General Flynn spent a lot of time talking at the event yesterday. 💥",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1470844,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1435768880
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1523408302
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1549662666
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 15,
+            "replies_pts": 2388187
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 46335,
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5912140521530242208",
+        "_score": 10.862,
+        "_source": {
+          "archivedon": "2022-01-09 20:12:47.622207",
+          "channeltitle": "「Ä͈ͭ M̸ͨ̾ R̰̎͘」",
+          "channelusername": "animemerepo",
+          "date": 1639299255,
+          "editdate": 1639299303,
+          "edithide": false,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric's sins are taking form. You can not escape Eric. You'll have to answer one day",
+          "peerid": {
+            "channel_id": 1376527483,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Kindest",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1380005547,
+            "comments": true,
+            "max_id": 654645,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 268188807
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 106267410
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1121871518
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 881674
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 797,
+          "channelabout": "Your daily dose of anime meme and weeb degradation.\n\nSend your memes/feedback or ask for posting perms at @animemerepobot \n\n\n\n\nFor more channels visit:\n@kindestchans"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5767153021301557188",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "1680906441",
+          "channeltitle": "The Authority",
+          "channelusername": "AlexanderQPatriot",
+          "date": 1639341498,
+          "editdate": 1639341501,
+          "edithide": true,
+          "entities": [],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6896,
+            "date": 1639341086,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1342769950,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Authority ⭐️⭐️⭐️",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1016,
+          "channelabout": "",
+          "id": 1988,
+          "mediaref": "67d92027ab696775244c4835056d1b3b38bdf4ac",
+          "noforwards": false,
+          "lastseents": "2023-04-07T22:27:21.916930"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "4969910523119307142",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "2022-01-09 19:27:10.180032",
+          "channeltitle": "הערוץ של צחי דניאל בטלגרם Q anon jewish",
+          "channelusername": "Qanonjewish17",
+          "date": 1639341128,
+          "editdate": 1639341131,
+          "edithide": true,
+          "entities": [],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6896,
+            "date": 1639341086,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1157147466,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "צחי דניאל",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1189587267,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 149184
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 662,
+          "channelabout": "💥מלחמת הנשיא טראמפ בגלובליסטים באנשי הסדר העולמי החדש..."
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6057077057676909296",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "2022-01-09 19:27:53.902369",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1639341086,
+          "editdate": 1639341090,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3327,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1286165912,
+            "comments": true,
+            "max_id": 755085,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1378717518
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1564393966
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1549034941
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 225,
+            "replies_pts": 961223
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 180733,
+          "channelabout": "Fighting for POTUS 🇺🇸"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5595791965154200377",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "2022-03-05 19:48:30.194696",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1639348443,
+          "editdate": 1639348446,
+          "edithide": true,
+          "entities": [],
+          "forwards": 56,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6896,
+            "date": 1639341086,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1481516,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1465331153
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1599993811
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1105303214
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 14,
+            "replies_pts": 2388187
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1989,
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6427630059833661319",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "2022-01-09 20:46:01.793779",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1639349738,
+          "editdate": 1639349741,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6896,
+            "date": 1639341086,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jenny B",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 207,
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5990455835673781588",
+        "_score": 8.5276,
+        "_source": {
+          "archivedon": "2022-01-09 20:58:03.906133",
+          "channeltitle": "Free Minnesota",
+          "channelusername": "FreeMinnesota",
+          "date": 1639351352,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3327,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1583780423
+          },
+          "fwdfrom": {
+            "channel_post": 6896,
+            "date": 1639341086,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸",
+          "peerid": {
+            "channel_id": 1394761688,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 32017
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1583780423,
+            "_v": 1,
+            "access_hash": -2.51549628488565e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "jeff gully",
+            "id": 1583780423,
+            "is_self": false,
+            "last_name": "“Doom scroller”",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 67228,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700952
+              },
+              "photo_id": 4.95174718419014e+18,
+              "photo_small": {
+                "local_id": 67226,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700952
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "jeffgully",
+            "verified": false,
+            "_media_ref": "4790657a3c74df4a64423a4b9eb4e6090232420e"
+          },
+          "v": 1,
+          "views": 180767
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6296095591176888222",
+        "_score": 8.3617,
+        "_source": {
+          "archivedon": "2022-01-09 19:24:49.548792",
+          "channeltitle": "Q STORM RIDER NEWS",
+          "channelusername": "QStormRiderNews",
+          "date": 1639350823,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 188,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1315,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1290353671
+          },
+          "fwdfrom": {
+            "channel_post": 12084,
+            "date": 1639341180,
+            "from_id": {
+              "channel_id": 1195956199,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸\n\nJoin @CBKNEWS",
+          "peerid": {
+            "channel_id": 1465923989,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 41049
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1290353671,
+            "_v": 1,
+            "access_hash": 4.23552438553465e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Willow",
+            "id": 1290353671,
+            "is_self": false,
+            "last_name": "Waters",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 234330,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806528860
+              },
+              "photo_id": 4.96302261150847e+18,
+              "photo_small": {
+                "local_id": 234328,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806528860
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "WillowWaters",
+            "verified": false,
+            "_media_ref": "f9e63b6e4bea1bdae53aebefc9f1ff02d604e46d"
+          },
+          "v": 1,
+          "views": 113598,
+          "channelabout": "☆☆CURRENT STORM NEWS ONLY☆☆"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6011374937745401381",
+        "_score": 8.3617,
+        "_source": {
+          "archivedon": "2022-01-09 20:58:02.251905",
+          "channeltitle": "Free Ohio",
+          "channelusername": "FreeOhio",
+          "date": 1639345944,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 188,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1315,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1403345402
+          },
+          "fwdfrom": {
+            "channel_post": 12084,
+            "date": 1639341180,
+            "from_id": {
+              "channel_id": 1195956199,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: “Help is on the way and I promise we will never ever let you down. My father will never let you down.  We will never let you down. Let’s go take this country back.” 🇺🇸\n\nJoin @CBKNEWS",
+          "peerid": {
+            "channel_id": 1399632296,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 13348
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1403345402,
+            "_v": 1,
+            "access_hash": 5.28328291532932e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Matt",
+            "id": 1403345402,
+            "is_self": false,
+            "last_name": "Stoner",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 31128,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500653
+              },
+              "photo_id": 5.17479592977194e+18,
+              "photo_small": {
+                "local_id": 31126,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500653
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "67243fc231085ac3a0954e43b0f19a329b3aa5bb"
+          },
+          "v": 1,
+          "views": 113598
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5839152843734401004",
+        "_score": 8.2814,
+        "_source": {
+          "archivedon": "2022-01-09 20:08:54.73133",
+          "channeltitle": "Translated Videos/Wahlbetrug",
+          "channelusername": "TranslatedVideos",
+          "date": 1639345362,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 213,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 168,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12344,
+            "date": 1639341540,
+            "from_id": {
+              "channel_id": 1220715723,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: \"Hilfe ist auf dem Weg, und ich verspreche, dass wir Sie nie im Stich lassen werden. Mein Vater wird Sie nie im Stich lassen.  Wir werden Sie nie im Stich lassen. Let's go take this country back.\" 🇺🇸",
+          "peerid": {
+            "channel_id": 1359533715,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7462,
+          "channelabout": "Indem viele die englische Sprache nicht perfekt beherrschen findet ihr hier viele Videos ins deutsche sprachlich oder mit einem Untertitel übersetzt, ist ja sehr frustrierend wenn man nicht Bescheid weiß um was es bei den Videos geht :)"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5242934107998007352",
+        "_score": 8.2814,
+        "_source": {
+          "archivedon": "2022-01-09 21:44:02.922013",
+          "channeltitle": "Wahrheitsträumer",
+          "channelusername": "wahrheitstraeumer",
+          "date": 1639341540,
+          "editdate": 1639341548,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 213,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 1506,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Trump: \"Hilfe ist auf dem Weg, und ich verspreche, dass wir Sie nie im Stich lassen werden. Mein Vater wird Sie nie im Stich lassen.  Wir werden Sie nie im Stich lassen. Let's go take this country back.\" 🇺🇸",
+          "peerid": {
+            "channel_id": 1220715723,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 113144
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5533563034405985203",
+        "_score": 7.1999,
+        "_source": {
+          "archivedon": "2022-01-09 19:51:32.458371",
+          "channeltitle": "Q-Faktor Germany Die Echtzeit Analyse",
+          "channelusername": "Q_Faktor_Germany",
+          "date": 1639298788,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 343,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 61,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12340,
+            "date": 1639284921,
+            "from_id": {
+              "channel_id": 1220715723,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31143903098296e+16,
+          "message": "Eric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?",
+          "peerid": {
+            "channel_id": 1288383043,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 11187,
+          "channelabout": "Herzlich willkommen auf Q-Faktor Germany. Hier findet ihr alle von mir zusammen getragenen Realtime-Infos zu Q und zum derzeitigen Geschehen. Dies ist keine populistische oder extremistische Seite, sondern eine Aufklärungsseite der momentanen Ereignisse."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6125474132692830172",
+        "_score": 7.1999,
+        "_source": {
+          "archivedon": "2022-01-09 20:24:00.728718",
+          "channeltitle": "American Krogan",
+          "channelusername": "OfficialAmericanKrogan",
+          "date": 1639287025,
+          "editdate": 1639287070,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 35,
+              "offset": 307,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I haven't listened to the whole stream, and I probably won't, but I saw Academic Agent comment that he agreed with Eric Striker's take on Zemmour on this stream, and after listening to it, I agree as well, on almost all points. \n\nEDIT: The link is timestamped to when Striker starts talking about Zemmour.\n\nhttps://youtu.be/j5_Ynkw1RzM?t=4711",
+          "peerid": {
+            "channel_id": 1426198085,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1740639193,
+            "comments": true,
+            "max_id": 4224,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 189054763
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 800812525
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 539888094
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 37,
+            "replies_pts": 7191
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1631,
+          "channelabout": "BitChute: https://www.bitchute.com/americankrogan/                                                 DLive: https://dlive.tv/AmericanKrogan                                        Odysee: https://odysee.com/@americankrogan:3"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5242934107998007348",
+        "_score": 7.1999,
+        "_source": {
+          "archivedon": "2022-01-09 21:44:02.91903",
+          "channeltitle": "Wahrheitsträumer",
+          "channelusername": "wahrheitstraeumer",
+          "date": 1639284921,
+          "editdate": 1639284933,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 343,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 144,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31142793733265e+16,
+          "message": "Eric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?",
+          "peerid": {
+            "channel_id": 1220715723,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21726
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6281073659591300404",
+        "_score": 7.0851,
+        "_source": {
+          "archivedon": "2022-01-09 20:31:57.557428",
+          "channeltitle": "Q-Qanal Germany 🖤🤍❤️",
+          "channelusername": "Qanalwwg1wga",
+          "date": 1639300563,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 321,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 18,
+              "offset": 338,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 21,
+              "offset": 713,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 741,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 40784,
+            "date": 1639300540,
+            "from_id": {
+              "channel_id": 1341687817,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.3114404508962e+16,
+          "message": "👀🚨📢Eric Trump just spoke at an event TODAY and said that his father always wondered who runs our government when he read the newspaper. \n\nThen he said to someone in the crowd, \"Oh, that's right, Soros is it... and a lot of corrupt people.\" \n\nNow take a look at the exact 4-year delta above. \n\nIs this a coincidence? \n\n@Qanalwwg1wga 🦁\n@Digitalersoldat17 🌏\n\n👀🚨📢\nEric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?\n\n@CNconspiracynewsroom 🧞‍♂️\n@ANONS17 🐸",
+          "peerid": {
+            "channel_id": 1462426423,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1261,
+          "channelabout": "Nachrichten und Fakten für das große Erwachen!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6142794060760407082",
+        "_score": 7.0851,
+        "_source": {
+          "archivedon": "2022-01-09 20:25:40.316829",
+          "channeltitle": "Mut zur Analyse, Mut zur Befreiung",
+          "channelusername": "Mutflash",
+          "date": 1639300919,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 321,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 18,
+              "offset": 338,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 21,
+              "offset": 713,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 741,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 40784,
+            "date": 1639300540,
+            "from_id": {
+              "channel_id": 1341687817,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31144073586649e+16,
+          "message": "👀🚨📢Eric Trump just spoke at an event TODAY and said that his father always wondered who runs our government when he read the newspaper. \n\nThen he said to someone in the crowd, \"Oh, that's right, Soros is it... and a lot of corrupt people.\" \n\nNow take a look at the exact 4-year delta above. \n\nIs this a coincidence? \n\n@Qanalwwg1wga 🦁\n@Digitalersoldat17 🌏\n\n👀🚨📢\nEric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?\n\n@CNconspiracynewsroom 🧞‍♂️\n@ANONS17 🐸",
+          "peerid": {
+            "channel_id": 1430230695,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 981,
+          "channelabout": "Wir sind ohne Netz und doppelten Boden unterwegs.\n\nWir machen Fehler und sind keine Profis.\n\nWir sind nur am Puls der Zeit."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5811551549939583281",
+        "_score": 7.0851,
+        "_source": {
+          "archivedon": "2022-01-09 21:09:14.275027",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1639325253,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 321,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 18,
+              "offset": 338,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 21,
+              "offset": 713,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 741,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 40784,
+            "date": 1639300540,
+            "from_id": {
+              "channel_id": 1341687817,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31146020230311e+16,
+          "message": "👀🚨📢Eric Trump just spoke at an event TODAY and said that his father always wondered who runs our government when he read the newspaper. \n\nThen he said to someone in the crowd, \"Oh, that's right, Soros is it... and a lot of corrupt people.\" \n\nNow take a look at the exact 4-year delta above. \n\nIs this a coincidence? \n\n@Qanalwwg1wga 🦁\n@Digitalersoldat17 🌏\n\n👀🚨📢\nEric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?\n\n@CNconspiracynewsroom 🧞‍♂️\n@ANONS17 🐸",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6,
+          "channelabout": "❤WWG1WGA❤"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5767153021301557178",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "1680906497",
+          "channeltitle": "The Authority",
+          "channelusername": "AlexanderQPatriot",
+          "date": 1639268711,
+          "editdate": 1639268714,
+          "edithide": true,
+          "entities": [],
+          "forwards": 10,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "groupedid": 1.31141496948755e+16,
+          "message": "Eric Trump was just speaking at an event and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1342769950,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Authority ⭐️⭐️⭐️",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 934,
+          "channelabout": "",
+          "id": 1978,
+          "mediaref": "8436a24b271ed3d221012540dd9de1c82fcbbe0c",
+          "noforwards": false,
+          "lastseents": "2023-04-07T22:28:17.955655"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6057077057676909281",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 19:27:53.87435",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1639268375,
+          "editdate": 1639268897,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1824,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31141470060961e+16,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1286165912,
+            "comments": true,
+            "max_id": 750997,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 974019654
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1440597128
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1430078470
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 110,
+            "replies_pts": 961223
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 265120,
+          "channelabout": "Fighting for POTUS 🇺🇸"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6094192163595035315",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 22:01:51.669261",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1639318584,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1824,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1577983242
+          },
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31145486736135e+16,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1467355
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1577983242,
+            "_v": 1,
+            "access_hash": -1.65206425330091e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Sheilarose",
+            "id": 1577983242,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Sheilarose",
+            "verified": false
+          },
+          "v": 1,
+          "views": 265163,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6427630059833661262",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 20:46:01.739899",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1639342062,
+          "editdate": 1639342065,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31147365029261e+16,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Lawless Lailapolooza",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 214,
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6187891440706783944",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 20:42:17.879327",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "date": 1639347625,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1824,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1534933023
+          },
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 9774,
+            "saved_from_peer": {
+              "channel_id": 1534933023,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "groupedid": -5.45853891068003e+18,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1440730747,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 237077
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 265159,
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5278666174316504632",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 21:45:44.129508",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1639287878,
+          "edithide": false,
+          "entities": [],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31143030246476e+16,
+          "message": "Eric Trump sprach gerade auf einer Veranstaltung HEUTE ABEND und sprach darüber, wie sein Vater sich immer fragen würde, wer für unsere Regierung verantwortlich ist, wenn er die Zeitung lesen würde. \n\nDann sagte er als Antwort auf jemanden in der Menge: “Oh, das ist wahr, Soros ist... und viele korrupte Leute.” \n\nSchauen Sie sich nun das genaue 4-Jahres-Delta oben an. \n\nZufall?",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1175,
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "5811551549939583076",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 21:09:15.085237",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1639317045,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31145363566154e+16,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 12,
+          "channelabout": "❤WWG1WGA❤"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "4983987381511164676",
+        "_score": 6.9779,
+        "_source": {
+          "archivedon": "2022-01-09 21:05:17.939284",
+          "channeltitle": "QAge2020/21",
+          "channelusername": "Qage2020",
+          "date": 1639299132,
+          "editdate": 1639299135,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6881,
+            "date": 1639268375,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31143930623832e+16,
+          "message": "Eric Trump was just speaking at an event TONIGHT and was talking about how his dad would always wonder who is in charge of our government when he would read the newspaper. \n\nThen he said in reply to someone in the crowd, “oh that’s true, Soros is... and a lot of corrupt people.” \n\nNow look at the exact 4 year delta above. \n\nCoincidence?",
+          "peerid": {
+            "channel_id": 1160424990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Pete",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 70470
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 33,
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202112",
+        "_id": "6281073659591300362",
+        "_score": 6.7713,
+        "_source": {
+          "archivedon": "2022-01-09 20:31:57.518461",
+          "channeltitle": "Q-Qanal Germany 🖤🤍❤️",
+          "channelusername": "Qanalwwg1wga",
+          "date": 1639289301,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 343,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 45,
+              "offset": 345,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 392,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 11,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31143144088353e+16,
+          "message": "Eric Trump sprach gerade HEUTE bei einer Veranstaltung und erzählte, dass sein Vater sich immer fragte, wer unsere Regierung leitet, wenn er die Zeitung las. \n\nDann sagte er zu jemandem in der Menge: \"Oh, das stimmt, Soros ist es... und eine Menge korrupter Leute.\" \n\nSchauen Sie sich jetzt das exakte 4-Jahres-Delta oben an. \n\nIst das Zufall?\n\nhttps://t.me/TheStormHasArrived17/6882?single\n\n@Qanalwwg1wga 🦁",
+          "peerid": {
+            "channel_id": 1462426423,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1705,
+          "channelabout": "Nachrichten und Fakten für das große Erwachen!"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

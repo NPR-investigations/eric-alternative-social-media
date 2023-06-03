@@ -1,0 +1,4033 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [299],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [34],
+      "relation": ["eq"]
+    },
+    "max_score": [14.3443],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6202437180678234767",
+        "_score": 14.3443,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 20:12:21.982474",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1648825261,
+          "editdate": 1648825276,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 72,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 174,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 9,
+              "offset": 268,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 Présidentielle 2022 : Une semaine, un.e candidat.e : Eric Zemmour\n\nEric Zemmour, candidat Reconquête! à l’élection présidentielle de 2022.\n\n👉 Retrouvez notre article : https://www.nashiranews.com/presidentielle-2022-une-semaine-un-e-candidat-e-eric-zemmour/\n\n✍️ @DylanTcz",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 310015,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1253140383
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1150655514
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 989757991
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 33,
+            "replies_pts": 462998
+          },
+          "silent": true,
+          "v": 1,
+          "views": 1687,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6617507450138423332",
+        "_score": 12.5296,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-03 06:54:24.149072",
+          "channeltitle": "Kayleigh McEnany Chat",
+          "date": 1648808641,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hey there Eric Hunter, and welcome to Kayleigh McEnany Chat! How are you?",
+          "peerid": {
+            "channel_id": 1540758519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 70087
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6347407316354109753",
+        "_score": 12.4197,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-03 06:03:10.419315",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1648786192,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 158,
+              "offset": 81,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 241,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 252,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 252,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams DEFENDS Will Smith slapping Chris Rock at the Oscars\n\nRead: https://www.dailymail.co.uk/news/article-10670619/NYC-Mayor-Eric-Adams-DEFENDS-Smith-slapping-Chris-Rock-Oscars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 132,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6008661385997875946",
+        "_score": 12.3273,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-08-02 22:52:36.647327",
+          "channelabout": "The Official @TrumpRepublicans Discussion Group Chat",
+          "channeltitle": "The Trump Republicans Chat",
+          "date": 1648808635,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 609517172
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hey there Eric Hunter, and welcome to The Trump Republicans Chat! How are you?",
+          "peerid": {
+            "channel_id": 1399000498,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 341234
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 609517172,
+            "_v": 1,
+            "access_hash": 6.31306635372207e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 8,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Rose",
+            "id": 609517172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 550261,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "photo_id": 2.61785632054665e+18,
+              "photo_small": {
+                "local_id": 550259,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 464822453
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "MissRose_bot",
+            "verified": false
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6352958097727718870",
+        "_score": 12.3273,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 08:37:03.28476",
+          "channelabout": "You can support Tommy Robinson news at www.tr.news/support-us",
+          "channeltitle": "Tommy Robinson News",
+          "channelusername": "TommyRobinsonNews",
+          "date": 1648848647,
+          "editdate": 1648848685,
+          "edithide": true,
+          "entities": [],
+          "forwards": 75,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Thankfully a judge has overruled mayor Eric Adams, he's trying to appeal it though!",
+          "peerid": {
+            "channel_id": 1479163323,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1299528948,
+            "comments": true,
+            "max_id": 2709893,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 824971700
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2045468096
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 15,
+            "replies_pts": 4401613
+          },
+          "silent": false,
+          "v": 1,
+          "views": 23668,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6699560700089467315",
+        "_score": 11.7609,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-08 01:57:55.266025",
+          "channelabout": "En attendant que Tass mette en place un canal en Anglais - Français officiel - Idem pour RT Fr en RSS car le site n'est pas configuré pour - Pour la \"pluralité de l'information\" et la liberté d'expression.\nIl y a aussi : https://t.me/rt_france_alt",
+          "channeltitle": "RSS RT France - Tass News Agency English / Non-Official Channel",
+          "channelusername": "Rss_Tass_en_RT_fr_not_offical",
+          "date": 1648794560,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://telegra.ph/Nouvelle-plainte-dun-syndicat-de-magistrats-contre-Eric-Dup-04-01"
+            },
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1949336244
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Nouvelle plainte d'un syndicat de magistrats contre Eric Dupond-Moretti pour «conflit d'intérêts»\n\nvia RT en français",
+          "peerid": {
+            "channel_id": 1559863030,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1639
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 1949336244,
+            "_v": 1,
+            "access_hash": -7.19318275139462e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 15,
+            "bot_inline_geo": false,
+            "bot_inline_placeholder": "Please input a command to continue...",
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "RSS to Telegram Bot",
+            "id": 1949336244,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 38708,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "photo_id": 6.18618019734314e+18,
+              "photo_small": {
+                "local_id": 38706,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500178700559
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "RSStT_Bot",
+            "verified": false,
+            "_media_ref": "bd6093aaf24280bdfc2419b15952e261a6bea07f"
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6347407316354109754",
+        "_score": 11.7539,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-03 06:03:10.420543",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1648788890,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 95,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 174,
+              "offset": 103,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 279,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 290,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 290,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC has cleared 239 homeless camps in Eric Adams's sweep but just 5 people moved into shelters \n\nRead: https://www.dailymail.co.uk/news/article-10674771/NYC-cleared-239-homeless-camps-Eric-Adamss-sweep-just-5-people-moved-shelters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 129,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6347407316354109853",
+        "_score": 11.5777,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-08-03 06:03:10.664011",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1648844385,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 168,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 277,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams will NOT lift mask mandate for kids under 5 as promised due to uptick in Covid\n\nRead: https://www.dailymail.co.uk/news/article-10677483/NYC-Mayor-Eric-Adams-NOT-lift-mask-mandate-kids-5-promised-uptick-Covid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 113,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6595925699037516683",
+        "_score": 11.2485,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-01 01:06:20.926188",
+          "channeltitle": "Freedom España [chat]",
+          "date": 1648774780,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            },
+            {
+              "length": 10,
+              "offset": 13,
+              "reformatted_key": "MessageEntityCode"
+            },
+            {
+              "length": 7,
+              "offset": 54,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2087556277
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Howard [5171665513] ha enviado un mensaje spam. \nAcción: Advertido (1/3) ❕ hasta el 01/04/2022 05:59",
+          "peerid": {
+            "channel_id": 1535733626,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 31438
+          },
+          "silent": true,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 2087556277,
+            "_v": 1,
+            "access_hash": -6.80755156032324e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 2,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "SecurityBotFreedom",
+            "id": 2087556277,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 397071,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400251000686
+              },
+              "photo_id": 5.76702201237037e+18,
+              "photo_small": {
+                "local_id": 397069,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400251000686
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "FreedomSecBot",
+            "verified": false,
+            "_media_ref": "044a1201be523d515ffd852bf8297d7cc344c3a0"
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6086674381688501844",
+        "_score": 10.7826,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 07:24:16.106886",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1648837503,
+          "editdate": 1648837506,
+          "edithide": true,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 226699,
+            "date": 1648781323,
+            "from_id": {
+              "channel_id": 1417164314,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Aries",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Mayor Eric Adams unveiled on Thursday the NYFD's newest tool in fighting fires and rescuing people: a robot dog produced by Boston Dynamics.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 885364
+          },
+          "silent": false,
+          "v": 1,
+          "views": 182,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4960868414370376382",
+        "_score": 10.7826,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-03 00:09:08.057021",
+          "channelabout": "Welcome to the Freedom Warriors! You are part of the new generation of Freedom Fighters. We are on a mission – to stop the tyranny from taking over our great nations.",
+          "channeltitle": "Freedom Warriors",
+          "channelusername": "Freedom_Warriors",
+          "date": 1648848616,
+          "editdate": 1648848761,
+          "edithide": true,
+          "entities": [],
+          "forwards": 32,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1155042186,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1367843574,
+            "comments": true,
+            "max_id": 584828,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1440468769
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1799952944
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1497786668
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 12,
+            "replies_pts": 892457
+          },
+          "silent": false,
+          "v": 1,
+          "views": 4726,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6086674381688501643",
+        "_score": 10.7826,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-01 03:28:35.237057",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1648781323,
+          "editdate": 1648781327,
+          "edithide": true,
+          "entities": [],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Mayor Eric Adams unveiled on Thursday the NYFD's newest tool in fighting fires and rescuing people: a robot dog produced by Boston Dynamics.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Aries",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "max_id": 594552,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 883853
+          },
+          "silent": false,
+          "v": 1,
+          "views": 149,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6352958097727718869",
+        "_score": 10.6366,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 08:37:03.283265",
+          "channelabout": "You can support Tommy Robinson news at www.tr.news/support-us",
+          "channeltitle": "Tommy Robinson News",
+          "channelusername": "TommyRobinsonNews",
+          "date": 1648847820,
+          "editdate": 1648847874,
+          "edithide": true,
+          "entities": [],
+          "forwards": 205,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that the they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1479163323,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1299528948,
+            "comments": true,
+            "max_id": 2709994,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1538239646
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1546561567
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1990387066
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 139,
+            "replies_pts": 4401614
+          },
+          "silent": false,
+          "v": 1,
+          "views": 28950,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6108530044328514220",
+        "_score": 10.6366,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 07:28:48.611917",
+          "channelabout": "Freiheit für Wirtschaft Information Meinung - \"Aus dem Wahrungsgebot folgt insbesondere die verfassungsrechtliche Pflicht, die Identität des deutschen Staatsvolkes zu erhalten.\" Bundesverfassungsgericht, 21. Oktober 1987.\n\nW.I.M. 📈🏛📣\n\nwww.t.me/wim4u",
+          "channeltitle": "WIM 📈🏛📣 Wirtschaft Information Meinung",
+          "channelusername": "wim4u",
+          "date": 1648856994,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 34261,
+            "date": 1648847820,
+            "from_id": {
+              "channel_id": 1479163323,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that the they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1422252982,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 631,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4599600813680123103",
+        "_score": 10.6366,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-01 05:23:44.237355",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1648781054,
+          "editdate": 1648781134,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 141,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Mayor Eric Adams unveiled on Thursday the NYFD's newest tool in fighting fires and rescuing people: a robot dog produced by Boston Dynamics.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 63904
+          },
+          "silent": true,
+          "v": 1,
+          "views": 525,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5312044933564156020",
+        "_score": 10.6366,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-03 02:06:22.115726",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1648857061,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 34261,
+            "date": 1648847820,
+            "from_id": {
+              "channel_id": 1479163323,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that the they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 237,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5527471813002543354",
+        "_score": 10.6366,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 05:30:35.305344",
+          "channelabout": "Ungeschminkt - Ungeschönt - Unabhängig",
+          "channeltitle": "LUTZiges Lutz Bachmann",
+          "channelusername": "lutzbachmann",
+          "date": 1648847928,
+          "editdate": 1648849124,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 34261,
+            "date": 1648847820,
+            "from_id": {
+              "channel_id": 1479163323,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that the they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1286964820,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1149502137,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 117163
+          },
+          "silent": true,
+          "v": 1,
+          "views": 993,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5647992486568665629",
+        "_score": 10.4948,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 04:41:23.289835",
+          "channelabout": "✅ John F. Kennedy Jr. Fan Page ⭐️",
+          "channeltitle": "John F. Kennedy Jr.",
+          "channelusername": "JFKJ_QAnon",
+          "date": 1648856003,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 132,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 27,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams announced today that the they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.\n\n@JFK_TV",
+          "peerid": {
+            "channel_id": 1315025726,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 5219,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6590225693320168766",
+        "_score": 9.6086,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-04-02 05:08:00.819582",
+          "channelabout": "Acest grup este pentru noi in prim plan. \nPrin unitate aducem caravana peste aceste tinuturi dragi.\nThis group is for Romanians but we welcome all of your support, others are welcome here as well.",
+          "channeltitle": "Truckers Pentru Romania - O singura iubire",
+          "channelusername": "TruckersPentruRomania",
+          "date": 1648850164,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1854952502
+          },
+          "fwdfrom": {
+            "date": 1648850092,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1854952502
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "An another PO💩💩💩💩💩Crook. NYC Mayor Eric Adams announced today that they'd be postponing dropping the mask mandate for under 5s.\n\nHere he is 3 days ago.",
+          "peerid": {
+            "channel_id": 1534406490,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27169
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 1854952502,
+            "_v": 1,
+            "access_hash": 6.71250456179263e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Just Fight Back!",
+            "id": 1854952502,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6549819053316244349",
+        "_score": 7.656,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682377359",
+          "channelabout": "",
+          "channeltitle": "Thomas Massie",
+          "channelusername": "RepThomasMassie",
+          "date": 1648854604,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 93,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 16,
+              "offset": 330,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 10,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "When I found myself in an elevator with Eric Schmidt in Congress, he was visibly annoyed that I recognized him. \n\nHe bought Biden’s technology office at the White House. He also bought the patent office under Obama.\n\nWake up America!\n\nhttps://www.politico.com/news/2022/03/28/google-billionaire-joe-biden-science-office-00020712\n\n@RepThomasMassie",
+          "peerid": {
+            "channel_id": 1524998586,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 649,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Eric Schmidt has long sought influence over U.S. science policy. Under Biden’s former science chief, Eric Lander, Schmidt’s foundation helped cover officials’ salaries, even as the office’s general counsel raised ethical flags.",
+              "display_url": "politico.com/news/2022/03/28/google-billionaire-joe-biden-science-office-00020712",
+              "hash": 0,
+              "id": 3.49378459248933e+18,
+              "photo": {
+                "access_hash": 5.75967359027804e+18,
+                "date": 1648459827,
+                "dc_id": 4,
+                "file_reference": "AGRHCnZjiG9iA7/3klSFVUGlMCv+",
+                "has_stickers": false,
+                "id": 5.91259148496258e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoogUmPepNvtTSPatBDfxqXyD5HmbvwqNsAZNSq+bRiDz0A/Ef41MroasQUUgINFO4i3TCKKKYEM+Ao+tLHdCKMAKDnlsiiiolqNEe5WlYqMAnIFFFFNCZ",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 184,
+                    "size": 9770,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 459,
+                    "size": 46225,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 689,
+                    "w": 1200,
+                    "sizes": [10363, 20030, 26934, 41198, 108592]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "POLITICO",
+              "title": "A Google billionaire's fingerprints are all over Biden's science office",
+              "type": "photo",
+              "url": "https://www.politico.com/news/2022/03/28/google-billionaire-joe-biden-science-office-00020712"
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 893,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-24T23:02:39.226003"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6944441348552398772",
+        "_score": 7.1164,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682988441",
+          "channelabout": "America is the only place on earth founded and dedicated on the principles laid out by God. We are under attack because of it. We will win. We must put on the armor of God every day and fight his battles.",
+          "channeltitle": "The Colonel’s Corner🦅🦅🦅",
+          "channelusername": "ColonelWatkins",
+          "date": 1648775295,
+          "editdate": 1648775298,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 59,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 61,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twpundit.com/2022/01/08/new-evidence-emerges-of-eric-holders-role-in-flynn-setup/"
+            },
+            {
+              "length": 13,
+              "offset": 63,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://parler.com/AdamCarter"
+            },
+            {
+              "length": 12,
+              "offset": 128,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://uncoverdc.com/2021/10/27/dark-to-light-welcomes-ekim-alptekin/"
+            },
+            {
+              "length": 19,
+              "offset": 144,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 193,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 1147,
+              "offset": 539,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 89,
+              "offset": 1686,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 1779,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/TheWashingtonPundit/10916"
+            },
+            {
+              "length": 20,
+              "offset": 1816,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 20,
+              "offset": 1816,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 23,
+              "offset": 1836,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 10919,
+            "date": 1648296104,
+            "from_id": {
+              "channel_id": 1382201191,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Adam Carter ⭐️⭐️⭐️",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "New Evidence Emerges Of Eric Holder’s Role In Flynn Setup\n\nBy: Adam Carter\n\nTWP's reporting seemingly was later corroborated in an interview by @TracybeanzOfficial of Bijan Kian's co-defendant @EkimAlptekin. Revealed for the first time in the interview, Alptekin detailed how Jim Biden and wife Sara traveled to Istanbul after repeated requests by the Biden camp for a meeting, and offered to have former Obama Attorney General Eric Holder represent him in his criminal trial related to FARA charges brought by the Mueller Investigation.\n\n\"Alptekin reveals associates of Joe Biden had been reaching out, through his attorneys, requesting a meeting with him. Having been railroaded for the better part of two years, Ekim explained he was unwilling to meet with attorneys or intermediaries, and would only agree to meet with a member of the Biden family directly. After a period of time, he received word that Jim and Sara Biden were requesting an invitation to meet with him in Turkey. The trip would need to be a arranged through a “proper organization”, presumably Alptekin’s own Turkey-U.S. Business Council.\n\nAlptekin proceeds to drop a new bombshell that wasn’t mentioned even in his Turkish language interview with Cüneyt Özdemir. He revealed Jim and Sara Biden recommended he hire former Obama Attorney General and self-described Obama “wingman” Eric Holder, who by that time had left public office and returned to his position as a partner with Covington in the Washington D.C. office. The same Covington that had prepared the FARA filings that were at the heart of the indictments related to Flynn Intel Group and were currently representing Gen. Flynn in his criminal trial.\"\n\nhttps://twpundit.com/2022/01/08/new-evidence-emerges-of-eric-holders-role-in-flynn-setup/\n\n🧵BIJAN KIAN GRANTED NEW TRIAL THREAD\n\n@TheWashingtonPundit | Speak Truth To Power",
+          "peerid": {
+            "channel_id": 1616878749,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Colonel Roxane ⭐️⭐️⭐️ Towner-Watkins The Colonel’s Corner",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1512196517,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 112339
+          },
+          "silent": false,
+          "v": 1,
+          "views": 130,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Adam Carter",
+              "description": "Recently, K. Ekim Alptekin was interviewed on the Dark to Light Podcast (D2L) with Tracy Beanz. Alptekin addressed the current status of the case of his",
+              "display_url": "twpundit.com/2022/01/08/new-evidence-emerges-of-eric-holders-role-in-flynn-setup",
+              "hash": 0,
+              "id": 8.2464228776472e+18,
+              "photo": {
+                "access_hash": -5.64317861070226e+17,
+                "date": 1642045296,
+                "dc_id": 4,
+                "file_reference": "AGRQWxy/p4rtxOSwAMwnUfyeGlz2",
+                "has_stickers": false,
+                "id": 5.98236482211897e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcozbbht2ASBxmrVwwa0bI5GCDVSMYbb6+tPm3lMAYA6gU2NbEmnlcOHOBkc1dIticGbP41TsIiwbI+XI696smKNX3FORjFQxxRGqKSwByAeKKuQosrkkdeMUVL1BqxjD+VW5pGTGQO1FFasSEinKySbRjOKlKERRu7Es3J/OiiqsrCT1JJy8BiePjqM0UUU7Im5w==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 16856,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 451,
+                    "size": 75635,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 676,
+                    "w": 1200,
+                    "sizes": [11186, 15426, 45162, 70468, 127961]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Washington Pundit",
+              "title": "New Evidence Emerges Of Eric Holder's Role In Flynn Setup - The Washington Pundit",
+              "type": "photo",
+              "url": "https://twpundit.com/2022/01/08/new-evidence-emerges-of-eric-holders-role-in-flynn-setup/"
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 6068,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-05-02T00:47:21.253761",
+          "collected_by": "crawler",
+          "url": "t.me/ColonelWatkins/6068"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5327183967433019025",
+        "_score": 6.4255,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 22:33:49.692072",
+          "channeltitle": "PBFCKS",
+          "channelusername": "pbfcks",
+          "date": 1648818909,
+          "editdate": 1648819293,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bariweiss.substack.com/p/why-does-tucker-carlson-sound-like?s=r"
+            },
+            {
+              "length": 13,
+              "offset": 15,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://unherd.com/2022/03/populists-are-losing-this-war/"
+            },
+            {
+              "length": 39,
+              "offset": 439,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 14896,
+            "date": 1648649701,
+            "from_id": {
+              "channel_id": 1464667483,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Bari Weiss and Eric Kaufmann are running a more high brow version of this campaign against Tucker Carlson and JD Vance, characterizing them as \"oikophobes,\" Kremlin agents and even communists.  \n\nThe purpose appears to be to convince white people in the West that the real enemy is China, Russia and Iran rather than our corrupt elites here at home. \n\nThese people aren't schizos. If you apply occam's razor, their agenda is very clear. \n\nhttps://t.me/ImperiumPressOfficial/1083",
+          "peerid": {
+            "channel_id": 1240331672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1572370599,
+            "comments": true,
+            "max_id": 10637,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1603068690
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1323967621
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 847370534
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 16672
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1082,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6753280299896940829",
+        "_score": 6.4255,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 22:33:49.477257",
+          "channeltitle": "Hitler Was A Rothschild",
+          "date": 1648818912,
+          "editdate": 1648819294,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bariweiss.substack.com/p/why-does-tucker-carlson-sound-like?s=r"
+            },
+            {
+              "length": 13,
+              "offset": 15,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://unherd.com/2022/03/populists-are-losing-this-war/"
+            },
+            {
+              "length": 39,
+              "offset": 439,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 56,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1240331672
+          },
+          "fwdfrom": {
+            "channel_post": 14896,
+            "date": 1648649701,
+            "from_id": {
+              "channel_id": 1464667483,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 20113,
+            "saved_from_peer": {
+              "channel_id": 1240331672,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Bari Weiss and Eric Kaufmann are running a more high brow version of this campaign against Tucker Carlson and JD Vance, characterizing them as \"oikophobes,\" Kremlin agents and even communists.  \n\nThe purpose appears to be to convince white people in the West that the real enemy is China, Russia and Iran rather than our corrupt elites here at home. \n\nThese people aren't schizos. If you apply occam's razor, their agenda is very clear. \n\nhttps://t.me/ImperiumPressOfficial/1083",
+          "peerid": {
+            "channel_id": 1572370599,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 10637,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 16672
+          },
+          "silent": false,
+          "v": 1,
+          "views": 16889,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5090199899811630039",
+        "_score": 5.9285,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-27 14:18:45.37563",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1648815111,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 551,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 559,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 572,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 582,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 28,
+              "offset": 596,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 2290,
+            "date": 1648815108,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2290,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "We shared the news about the resignation of the head of French military intelligence, Eric Vido. Interestingly, a source in a commentary to the French publication France24 noted that the intelligence service \"conducts military intelligence on operations, not on intentions. Earlier, according to the source, Vido reported that Russia has the military potential to launch an operation. Thus the source reports that there was no mistake or oversight. It is probably a question of Macron wanting to blame his failures in \"peacekeeping\" on someone.  \n  \n #France #geopolitics #election\n@dplatonova - https://t.me/dplatonova/8908 - source : PLATONOVA | Z",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 159475
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6188301163406821855",
+        "_score": 5.392,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 03:43:40.998169",
+          "channelabout": "https://keithwoods.carrd.co/",
+          "channeltitle": "Keith Woods",
+          "channelusername": "keith_woods",
+          "date": 1648777870,
+          "editdate": 1648778065,
+          "edithide": false,
+          "entities": [],
+          "forwards": 22,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.3190222964287e+16,
+          "message": "If you watched the video I put out today you'll know I've decided to wade into the academic debate around Nationalism. The school of thought around Nationalism that has been dominant in academia is Modernism, which says that Nationalism was created after the industrial revolution as a top down false consciousness by elites. Needless to say it rests on bad arguments and a bad, often willfull misreading of history.\n\nThese are the two men that popularised Modernism - Ernest Gellner and Eric Hobbsbawn. Both \"British\" academics, Gellner was of Austrian Jewish descent and Hobbsbawn (a Marxist) was the son of Austrian and Polish Jewish merchants in London.",
+          "peerid": {
+            "channel_id": 1440826143,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1980,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5180325824263360620",
+        "_score": 5.392,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 22:09:43.191038",
+          "channelabout": "My links - https://linktr.ee/WarmasterHorus\n\n@ChannelCollection",
+          "channeltitle": "Horus",
+          "channelusername": "WarmasterHorus",
+          "date": 1648821060,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2527,
+            "date": 1648777870,
+            "from_id": {
+              "channel_id": 1440826143,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31905684826444e+16,
+          "message": "If you watched the video I put out today you'll know I've decided to wade into the academic debate around Nationalism. The school of thought around Nationalism that has been dominant in academia is Modernism, which says that Nationalism was created after the industrial revolution as a top down false consciousness by elites. Needless to say it rests on bad arguments and a bad, often willfull misreading of history.\n\nThese are the two men that popularised Modernism - Ernest Gellner and Eric Hobbsbawn. Both \"British\" academics, Gellner was of Austrian Jewish descent and Hobbsbawn (a Marxist) was the son of Austrian and Polish Jewish merchants in London.",
+          "peerid": {
+            "channel_id": 1206138596,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 179,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5846913321357877554",
+        "_score": 5.392,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 18:23:39.78162",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1648822458,
+          "edithide": false,
+          "entities": [],
+          "forwards": 60,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2113870636
+          },
+          "fwdfrom": {
+            "channel_post": 2527,
+            "date": 1648777870,
+            "from_id": {
+              "channel_id": 1440826143,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31905796679774e+16,
+          "message": "If you watched the video I put out today you'll know I've decided to wade into the academic debate around Nationalism. The school of thought around Nationalism that has been dominant in academia is Modernism, which says that Nationalism was created after the industrial revolution as a top down false consciousness by elites. Needless to say it rests on bad arguments and a bad, often willfull misreading of history.\n\nThese are the two men that popularised Modernism - Ernest Gellner and Eric Hobbsbawn. Both \"British\" academics, Gellner was of Austrian Jewish descent and Hobbsbawn (a Marxist) was the son of Austrian and Polish Jewish merchants in London.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 686248
+          },
+          "silent": false,
+          "v": 1,
+          "views": 6368,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 2113870636,
+            "_v": 1,
+            "access_hash": 2.99923188317228e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bob",
+            "id": 2113870636,
+            "is_self": false,
+            "last_name": "Smith",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 2377,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100177500354
+              },
+              "photo_id": 4.94973863414423e+18,
+              "photo_small": {
+                "local_id": 2375,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100177500354
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "BobSmith7",
+            "verified": false,
+            "_media_ref": "7ed9416781f9c7ad8c4996c17efcfc4c03865f08"
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5764665659711556146",
+        "_score": 5.1653,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1680888763",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1648773961,
+          "editdate": 1648773965,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 722,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 735,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French military intelligence chief FIRED for not predicting Russian special operation\n\nGen Eric Vidaud is set to lose his job after being blamed for “inadequate briefings” that concluded it was unlikely Russia forces would begin their special operation in Ukraine.\n\nThis comes despite his job description being to provide intelligence on “operations, not premeditation” according to one military source quoted by AFP - but it appears his head is rolling for more.\n\nEmmanuel Macron was apparently left embarrassed after regular contact with Putin days before Russian troops entered Ukraine and Vidaud’s department oversaw a humiliating loss of a major submarine contract with Australia after the controversial AUKUS deal.\n\nSubscribe to https://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27897
+          },
+          "silent": true,
+          "v": 1,
+          "views": 21523,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 2610,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-04-07T17:32:43.558308",
+          "mediaref": "73b7ccee25923171171a47d321ba18aa5012c214"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4589158519822879214",
+        "_score": 5.1653,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679125791",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "date": 1648773961,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 722,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 735,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French military intelligence chief FIRED for not predicting Russian special operation\n\nGen Eric Vidaud is set to lose his job after being blamed for “inadequate briefings” that concluded it was unlikely Russia forces would begin their special operation in Ukraine.\n\nThis comes despite his job description being to provide intelligence on “operations, not premeditation” according to one military source quoted by AFP - but it appears his head is rolling for more.\n\nEmmanuel Macron was apparently left embarrassed after regular contact with Putin days before Russian troops entered Ukraine and Vidaud’s department oversaw a humiliating loss of a major submarine contract with Australia after the controversial AUKUS deal.\n\nSubscribe to https://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 20884,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 2542,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-18T08:04:18.402813",
+          "mediaref": "73b7ccee25923171171a47d321ba18aa5012c214"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4585130905651120590",
+        "_score": 5.1653,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679098282",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "date": 1648773961,
+          "editdate": 1648894862,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 722,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 735,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French military intelligence chief FIRED for not predicting Russian special operation\n\nGen Eric Vidaud is set to lose his job after being blamed for “inadequate briefings” that concluded it was unlikely Russia forces would begin their special operation in Ukraine.\n\nThis comes despite his job description being to provide intelligence on “operations, not premeditation” according to one military source quoted by AFP - but it appears his head is rolling for more.\n\nEmmanuel Macron was apparently left embarrassed after regular contact with Putin days before Russian troops entered Ukraine and Vidaud’s department oversaw a humiliating loss of a major submarine contract with Australia after the controversial AUKUS deal.\n\nSubscribe to https://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 22084,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 2510,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-18T00:33:18.083219",
+          "mediaref": "73b7ccee25923171171a47d321ba18aa5012c214"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4902471006767025155",
+        "_score": 5.1653,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1683702001",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "date": 1648773961,
+          "editdate": 1648783246,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 722,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 735,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French military intelligence chief FIRED for not predicting Russian special operation\n\nGen Eric Vidaud is set to lose his job after being blamed for “inadequate briefings” that concluded it was unlikely Russia forces would begin their special operation in Ukraine.\n\nThis comes despite his job description being to provide intelligence on “operations, not premeditation” according to one military source quoted by AFP - but it appears his head is rolling for more.\n\nEmmanuel Macron was apparently left embarrassed after regular contact with Putin days before Russian troops entered Ukraine and Vidaud’s department oversaw a humiliating loss of a major submarine contract with Australia after the controversial AUKUS deal.\n\nSubscribe to https://t.me/Channel_Trump",
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "silent": false,
+          "v": 1,
+          "views": 20968,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 3075,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤮",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-05-10T07:00:01.007839",
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/3075",
+          "mediaref": "73b7ccee25923171171a47d321ba18aa5012c214"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5317283758578094704",
+        "_score": 4.7756,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 21:56:44.485958",
+          "channeltitle": "Patriot Party Alabama",
+          "channelusername": "PatriotPartyAlabama",
+          "date": 1648836823,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 459323414
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Welcome Eric\nPatriot Party National Chat Guidelines\n\nWe the people are building a political party within each state to push for actual representation. This is the main national chat, please view the pin for your state's chat room (where you live and vote). Let's stick to communicating about the party and organizing at the local level. Spread the word!\n\nPlease do not use this as an echo chamber of news/forwards/link spamming. Five links spammed will result in a ban.  \n\nEveryone is from a different background and has different knowledge, skills and perspective, so be kind, courteous and DO NOT incite or encourage violence of any kind (you will be banned)\n\nThank you for your interested and dedication patriot. Let’s be the change we want to see.",
+          "peerid": {
+            "channel_id": 1238026600,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 26519
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "_id": 459323414,
+            "_v": 1,
+            "access_hash": -3.84538455848182e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 14,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Group Guardian",
+            "id": 459323414,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 128859,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 804725969
+              },
+              "photo_id": 1.97277904187331e+18,
+              "photo_small": {
+                "local_id": 128857,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 804725969
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "GroupGuardianBot",
+            "verified": false,
+            "_media_ref": "308668d0ad58270dc26476db5d6a09696a58597c"
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6570927700884593686",
+        "_score": 4.6263,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-04-01 16:13:08.116295",
+          "channelabout": "Middle Tennessee Proud Boys",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1648821707,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 54,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 15,
+              "offset": 315,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            },
+            {
+              "length": 15,
+              "offset": 330,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helprachelpowell"
+            },
+            {
+              "length": 19,
+              "offset": 345,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26BA"
+            },
+            {
+              "length": 17,
+              "offset": 364,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/Cookiepuss1776"
+            },
+            {
+              "length": 16,
+              "offset": 381,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G29H3"
+            },
+            {
+              "length": 62,
+              "offset": 397,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Stephen?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Stephen"
+            },
+            {
+              "length": 25,
+              "offset": 459,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BP"
+            },
+            {
+              "length": 10,
+              "offset": 484,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25RS"
+            },
+            {
+              "length": 14,
+              "offset": 494,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26A1"
+            },
+            {
+              "length": 22,
+              "offset": 511,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G22ZH"
+            },
+            {
+              "length": 14,
+              "offset": 536,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/j6patriotrelief"
+            },
+            {
+              "length": 12,
+              "offset": 553,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/CouyGriffin"
+            },
+            {
+              "length": 16,
+              "offset": 568,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Derekkinnison"
+            },
+            {
+              "length": 13,
+              "offset": 584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25QN"
+            },
+            {
+              "length": 17,
+              "offset": 597,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25MM"
+            },
+            {
+              "length": 12,
+              "offset": 614,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://fundly.com/stand-4-paul#gallery/3"
+            },
+            {
+              "length": 36,
+              "offset": 629,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/freejake"
+            },
+            {
+              "length": 10,
+              "offset": 668,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Freekyle"
+            },
+            {
+              "length": 19,
+              "offset": 681,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PQ"
+            },
+            {
+              "length": 19,
+              "offset": 703,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helpjackwhitton"
+            },
+            {
+              "length": 11,
+              "offset": 725,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25YQ"
+            },
+            {
+              "length": 17,
+              "offset": 739,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G253Q"
+            },
+            {
+              "length": 12,
+              "offset": 756,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G26SJ"
+            },
+            {
+              "length": 11,
+              "offset": 771,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23DE"
+            },
+            {
+              "length": 19,
+              "offset": 785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PY"
+            },
+            {
+              "length": 14,
+              "offset": 807,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26FY"
+            },
+            {
+              "length": 12,
+              "offset": 824,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PX"
+            },
+            {
+              "length": 15,
+              "offset": 839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/savejuliankhater"
+            },
+            {
+              "length": 14,
+              "offset": 854,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26NF"
+            },
+            {
+              "length": 13,
+              "offset": 868,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/GeorgeTanios?utm_source=sharelink&utm_medium=copy_link&utm_campaign=GeorgeTanios"
+            },
+            {
+              "length": 13,
+              "offset": 884,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/ShaneJanuary6th"
+            },
+            {
+              "length": 14,
+              "offset": 900,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://donorbox.org/daniel-in-the-lions-den"
+            },
+            {
+              "length": 15,
+              "offset": 917,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PatriotPaul"
+            },
+            {
+              "length": 17,
+              "offset": 932,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Pezzola"
+            },
+            {
+              "length": 10,
+              "offset": 949,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G268D"
+            },
+            {
+              "length": 15,
+              "offset": 975,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26UT"
+            },
+            {
+              "length": 12,
+              "offset": 1001,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2494"
+            },
+            {
+              "length": 16,
+              "offset": 1026,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/defendingwilliam"
+            },
+            {
+              "length": 11,
+              "offset": 1079,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/joebiggs"
+            },
+            {
+              "length": 16,
+              "offset": 1090,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23RK"
+            },
+            {
+              "length": 15,
+              "offset": 1106,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BV"
+            },
+            {
+              "length": 17,
+              "offset": 1121,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/StoptheSmear"
+            },
+            {
+              "length": 13,
+              "offset": 1138,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/dresch"
+            },
+            {
+              "length": 13,
+              "offset": 1151,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2783"
+            },
+            {
+              "length": 17,
+              "offset": 1164,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/witzemannfamilyfund"
+            },
+            {
+              "length": 15,
+              "offset": 1181,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G272Y"
+            },
+            {
+              "length": 17,
+              "offset": 1196,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/bigobarnett"
+            },
+            {
+              "length": 16,
+              "offset": 1213,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FeliciaK"
+            },
+            {
+              "length": 13,
+              "offset": 1229,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://citizensapp.us/products/cory-konold-fundraiser"
+            },
+            {
+              "length": 19,
+              "offset": 1259,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G282V"
+            },
+            {
+              "length": 28,
+              "offset": 1278,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/pianonlegalfees"
+            },
+            {
+              "length": 12,
+              "offset": 1306,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Kevintuck"
+            },
+            {
+              "length": 16,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2BVN"
+            },
+            {
+              "length": 25,
+              "offset": 1334,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justiceforj6jonny.com/"
+            },
+            {
+              "length": 15,
+              "offset": 1359,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G28YK"
+            },
+            {
+              "length": 18,
+              "offset": 1392,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26WP"
+            },
+            {
+              "length": 18,
+              "offset": 1410,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/KristinaMalimon"
+            },
+            {
+              "length": 28,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24BK"
+            },
+            {
+              "length": 16,
+              "offset": 1456,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2AZY"
+            },
+            {
+              "length": 16,
+              "offset": 1472,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2939"
+            },
+            {
+              "length": 15,
+              "offset": 1488,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/hopeforahero"
+            },
+            {
+              "length": 14,
+              "offset": 1503,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G262A"
+            },
+            {
+              "length": 16,
+              "offset": 1517,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/BlessLonnie"
+            },
+            {
+              "length": 15,
+              "offset": 1533,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24F5"
+            },
+            {
+              "length": 16,
+              "offset": 1548,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Justice4Alex?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Justice4Alex"
+            },
+            {
+              "length": 12,
+              "offset": 1564,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeBrianMock"
+            },
+            {
+              "length": 14,
+              "offset": 1576,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/LegoMan"
+            },
+            {
+              "length": 12,
+              "offset": 1590,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/KandE"
+            },
+            {
+              "length": 16,
+              "offset": 1602,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FGS"
+            },
+            {
+              "length": 12,
+              "offset": 1630,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/J6TRUTH"
+            },
+            {
+              "length": 15,
+              "offset": 1642,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G29WR"
+            },
+            {
+              "length": 16,
+              "offset": 1657,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.givesendgo.com/G2B8N"
+            },
+            {
+              "length": 15,
+              "offset": 1673,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/mcabee"
+            },
+            {
+              "length": 13,
+              "offset": 1688,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/SandyWeyerJan6Patriot"
+            },
+            {
+              "length": 16,
+              "offset": 1701,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/lisaeisenhart"
+            },
+            {
+              "length": 20,
+              "offset": 1775,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FJH"
+            },
+            {
+              "length": 16,
+              "offset": 1795,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/supportj6family"
+            },
+            {
+              "length": 12,
+              "offset": 1811,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/friendsofbenmartin"
+            },
+            {
+              "length": 14,
+              "offset": 1823,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/HelpDefendAJFischer"
+            },
+            {
+              "length": 16,
+              "offset": 1837,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/jkleinlegalfund"
+            },
+            {
+              "length": 13,
+              "offset": 1853,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G27CR"
+            },
+            {
+              "length": 15,
+              "offset": 1866,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23YQ"
+            },
+            {
+              "length": 10,
+              "offset": 1881,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PaulFSF"
+            },
+            {
+              "length": 16,
+              "offset": 2017,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/CPTGabrielGarcia?sharemsg=display"
+            },
+            {
+              "length": 14,
+              "offset": 2033,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2XCS"
+            },
+            {
+              "length": 31,
+              "offset": 2053,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2132,
+            "date": 1648775989,
+            "from_id": {
+              "channel_id": 1409156722,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "3.31.2022\n\nPrayers at 8:50PM ET on Live Voice Chat: 🔗https://t.me/ThePrisonersRecord?livestream\n\nWe pray for all J6 families every night, nearly 800. Links are posted below for the families that we have come to know. \n\nJ6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture: 🔗🎤Play Link\n\nRachel Powell\n\nJoseph Hutchinson\n\nMatthew Council\n\nJessica Watkin\n\nAaron James\n\nJonah Westbury\n\nIsaac Westbury\n\nRobert Westbury\n\nChris and Cynthia Price\n\nRon Mele\n\nJoseph Hackett \n\nSgt. Kenneth Harrelson \n\nScott Fairlamb \n\nCouy Griffin \n\nDerek Kinnison\n\nErik Warner\n\nFelipe Martinez\n\nPaul Johnson \n\nJake Angeli (Jacob Anthony Chansley) \n\nKyle Young \n\nChristopher Worrell \n\nJack (Wade) Whitton \n\nMichael Foy \n\nRobert Gieswein\n\nJames McGrew \n\nGuy Reffitt \n\nJoseph Lino Padilla \n\nDouglas Jensen \n\nPeter Stager \n\nJulian Khater\n\nRyan Nichols\n\nGeorge Tanios \n\nShane Jenkins \n\nDaniel Goodwyn \n\nPaul Hodgkins\n\nDominic Pezzola\n\nTim Hale\n\nJennifer Heinl\n\nJon Mott\n\nTraci Sunstrum\n\nDavid Judd\n\nLuke Coffee\n\nWilliam Isaacs\n\nSteve Quick\n\nMike Quick\n\nZac Martin\n\nJoe Biggs\n\nVictoria White\n\nDaniel Warmus\n\nKyle Fitzsimons\n\nKarl Dresch\n\nIsaac Yoder\n\nShawn Witzemann\n\nThomas Sibick\n\nRichard Barnett\n\nFelicia Konold\n\nCory Konold\n\nCharles Donohoe\n\nRasha Abualragheb\n\nKenneth Joseph Owen Thomas\n\nKevin Tuck\n\nEnrique Tarrio\n\nJonathan Gennaro Mellis\n\nAndrew C. Taake  \n\nJustin Stoll\n\nAlbuquerque Head\n\nKristina Malimon\n\nChristopher Joseph Quaglin\n\nThomas Ballard\n\nJeff McKellops\n\nChris Alberts\n\nTimothy Hart\n\nLonnie Coffman\n\nSteve Rosatti\n\nAlex Harkrider\n\nBrian Mock\n\nRobert Morss\n\nKash Kelly\n\nSara Carpenter\n\nJenna Ryan\n\nJacob Lang\n\nJeffrey Brown\n\nGina Bisignano\n\nRonald McAbee\n\nSandy Weyer\n\nLisa Eisenhart\n\nEric Munchel\n\nEthan Nordean\n\nPauline Bauer\n\nLucas Denney\n\nEric D. Clark (KY)\n\nMarshall Neefe\n\nBen Martin\n\nAlan Fischer\n\nJonathan Klein\n\nTroy Smocks\n\nTreniss Evans\n\nPaul Rae\n\nAurthur Jackman \n\nNathan Tuck \n \nEdward George III\n\nThe Family of the first J6 Hostage who has taken his life, Matthew Perna\n\nGabriel Garcia\n\nMatthew Krol\n\n--\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "v": 1,
+          "views": 8,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6052282035928565844",
+        "_score": 4.6263,
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"],
+        "_source": {
+          "archivedon": "1681302495",
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1648775989,
+          "editdate": 1666201785,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 54,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 15,
+              "offset": 315,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            },
+            {
+              "length": 15,
+              "offset": 330,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helprachelpowell"
+            },
+            {
+              "length": 19,
+              "offset": 345,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26BA"
+            },
+            {
+              "length": 17,
+              "offset": 364,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/Cookiepuss1776"
+            },
+            {
+              "length": 16,
+              "offset": 381,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G29H3"
+            },
+            {
+              "length": 62,
+              "offset": 397,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Stephen?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Stephen"
+            },
+            {
+              "length": 25,
+              "offset": 459,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BP"
+            },
+            {
+              "length": 10,
+              "offset": 484,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25RS"
+            },
+            {
+              "length": 14,
+              "offset": 494,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26A1"
+            },
+            {
+              "length": 22,
+              "offset": 511,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G22ZH"
+            },
+            {
+              "length": 14,
+              "offset": 536,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/j6patriotrelief"
+            },
+            {
+              "length": 12,
+              "offset": 553,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/CouyGriffin"
+            },
+            {
+              "length": 16,
+              "offset": 568,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Derekkinnison"
+            },
+            {
+              "length": 13,
+              "offset": 584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25QN"
+            },
+            {
+              "length": 17,
+              "offset": 597,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25MM"
+            },
+            {
+              "length": 12,
+              "offset": 614,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://fundly.com/stand-4-paul#gallery/3"
+            },
+            {
+              "length": 36,
+              "offset": 629,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/freejake"
+            },
+            {
+              "length": 10,
+              "offset": 668,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Freekyle"
+            },
+            {
+              "length": 19,
+              "offset": 681,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PQ"
+            },
+            {
+              "length": 19,
+              "offset": 703,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helpjackwhitton"
+            },
+            {
+              "length": 11,
+              "offset": 725,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25YQ"
+            },
+            {
+              "length": 17,
+              "offset": 739,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G253Q"
+            },
+            {
+              "length": 12,
+              "offset": 756,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G26SJ"
+            },
+            {
+              "length": 11,
+              "offset": 771,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23DE"
+            },
+            {
+              "length": 19,
+              "offset": 785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PY"
+            },
+            {
+              "length": 14,
+              "offset": 807,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26FY"
+            },
+            {
+              "length": 12,
+              "offset": 824,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PX"
+            },
+            {
+              "length": 15,
+              "offset": 839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/savejuliankhater"
+            },
+            {
+              "length": 14,
+              "offset": 854,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26NF"
+            },
+            {
+              "length": 13,
+              "offset": 868,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/GeorgeTanios?utm_source=sharelink&utm_medium=copy_link&utm_campaign=GeorgeTanios"
+            },
+            {
+              "length": 13,
+              "offset": 884,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/ShaneJanuary6th"
+            },
+            {
+              "length": 14,
+              "offset": 900,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://donorbox.org/daniel-in-the-lions-den"
+            },
+            {
+              "length": 15,
+              "offset": 917,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PatriotPaul"
+            },
+            {
+              "length": 17,
+              "offset": 932,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Pezzola"
+            },
+            {
+              "length": 10,
+              "offset": 949,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G268D"
+            },
+            {
+              "length": 15,
+              "offset": 975,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26UT"
+            },
+            {
+              "length": 12,
+              "offset": 1001,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2494"
+            },
+            {
+              "length": 16,
+              "offset": 1026,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/defendingwilliam"
+            },
+            {
+              "length": 11,
+              "offset": 1079,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/joebiggs"
+            },
+            {
+              "length": 16,
+              "offset": 1090,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23RK"
+            },
+            {
+              "length": 15,
+              "offset": 1106,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BV"
+            },
+            {
+              "length": 17,
+              "offset": 1121,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/StoptheSmear"
+            },
+            {
+              "length": 13,
+              "offset": 1138,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/dresch"
+            },
+            {
+              "length": 13,
+              "offset": 1151,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2783"
+            },
+            {
+              "length": 17,
+              "offset": 1164,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/witzemannfamilyfund"
+            },
+            {
+              "length": 15,
+              "offset": 1181,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G272Y"
+            },
+            {
+              "length": 17,
+              "offset": 1196,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/bigobarnett"
+            },
+            {
+              "length": 16,
+              "offset": 1213,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FeliciaK"
+            },
+            {
+              "length": 13,
+              "offset": 1229,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://citizensapp.us/products/cory-konold-fundraiser"
+            },
+            {
+              "length": 19,
+              "offset": 1259,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G282V"
+            },
+            {
+              "length": 28,
+              "offset": 1278,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/pianonlegalfees"
+            },
+            {
+              "length": 12,
+              "offset": 1306,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Kevintuck"
+            },
+            {
+              "length": 16,
+              "offset": 1318,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2BVN"
+            },
+            {
+              "length": 25,
+              "offset": 1334,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justiceforj6jonny.com/"
+            },
+            {
+              "length": 15,
+              "offset": 1359,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G28YK"
+            },
+            {
+              "length": 18,
+              "offset": 1392,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26WP"
+            },
+            {
+              "length": 18,
+              "offset": 1410,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/KristinaMalimon"
+            },
+            {
+              "length": 28,
+              "offset": 1428,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24BK"
+            },
+            {
+              "length": 16,
+              "offset": 1456,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2AZY"
+            },
+            {
+              "length": 16,
+              "offset": 1472,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2939"
+            },
+            {
+              "length": 15,
+              "offset": 1488,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/hopeforahero"
+            },
+            {
+              "length": 14,
+              "offset": 1503,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G262A"
+            },
+            {
+              "length": 16,
+              "offset": 1517,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/BlessLonnie"
+            },
+            {
+              "length": 15,
+              "offset": 1533,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24F5"
+            },
+            {
+              "length": 16,
+              "offset": 1548,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Justice4Alex?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Justice4Alex"
+            },
+            {
+              "length": 12,
+              "offset": 1564,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeBrianMock"
+            },
+            {
+              "length": 14,
+              "offset": 1576,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/LegoMan"
+            },
+            {
+              "length": 12,
+              "offset": 1590,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/KandE"
+            },
+            {
+              "length": 16,
+              "offset": 1602,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FGS"
+            },
+            {
+              "length": 12,
+              "offset": 1630,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/J6TRUTH"
+            },
+            {
+              "length": 15,
+              "offset": 1642,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G29WR"
+            },
+            {
+              "length": 16,
+              "offset": 1657,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.givesendgo.com/G2B8N"
+            },
+            {
+              "length": 15,
+              "offset": 1673,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/mcabee"
+            },
+            {
+              "length": 13,
+              "offset": 1688,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/SandyWeyerJan6Patriot"
+            },
+            {
+              "length": 16,
+              "offset": 1701,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/lisaeisenhart"
+            },
+            {
+              "length": 20,
+              "offset": 1775,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FJH"
+            },
+            {
+              "length": 16,
+              "offset": 1795,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/supportj6family"
+            },
+            {
+              "length": 12,
+              "offset": 1811,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/friendsofbenmartin"
+            },
+            {
+              "length": 14,
+              "offset": 1823,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/HelpDefendAJFischer"
+            },
+            {
+              "length": 16,
+              "offset": 1837,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/jkleinlegalfund"
+            },
+            {
+              "length": 13,
+              "offset": 1853,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G27CR"
+            },
+            {
+              "length": 15,
+              "offset": 1866,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23YQ"
+            },
+            {
+              "length": 10,
+              "offset": 1881,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PaulFSF"
+            },
+            {
+              "length": 16,
+              "offset": 2017,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/CPTGabrielGarcia?sharemsg=display"
+            },
+            {
+              "length": 14,
+              "offset": 2033,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2XCS"
+            },
+            {
+              "length": 31,
+              "offset": 2053,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "3.31.2022\n\nPrayers at 8:50PM ET on Live Voice Chat: 🔗https://t.me/ThePrisonersRecord?livestream\n\nWe pray for all J6 families every night, nearly 800. Links are posted below for the families that we have come to know. \n\nJ6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture: 🔗🎤Play Link\n\nRachel Powell\n\nJoseph Hutchinson\n\nMatthew Council\n\nJessica Watkin\n\nAaron James\n\nJonah Westbury\n\nIsaac Westbury\n\nRobert Westbury\n\nChris and Cynthia Price\n\nRon Mele\n\nJoseph Hackett \n\nSgt. Kenneth Harrelson \n\nScott Fairlamb \n\nCouy Griffin \n\nDerek Kinnison\n\nErik Warner\n\nFelipe Martinez\n\nPaul Johnson \n\nJake Angeli (Jacob Anthony Chansley) \n\nKyle Young \n\nChristopher Worrell \n\nJack (Wade) Whitton \n\nMichael Foy \n\nRobert Gieswein\n\nJames McGrew \n\nGuy Reffitt \n\nJoseph Lino Padilla \n\nDouglas Jensen \n\nPeter Stager \n\nJulian Khater\n\nRyan Nichols\n\nGeorge Tanios \n\nShane Jenkins \n\nDaniel Goodwyn \n\nPaul Hodgkins\n\nDominic Pezzola\n\nTim Hale\n\nJennifer Heinl\n\nJon Mott\n\nTraci Sunstrum\n\nDavid Judd\n\nLuke Coffee\n\nWilliam Isaacs\n\nSteve Quick\n\nMike Quick\n\nZac Martin\n\nJoe Biggs\n\nVictoria White\n\nDaniel Warmus\n\nKyle Fitzsimons\n\nKarl Dresch\n\nIsaac Yoder\n\nShawn Witzemann\n\nThomas Sibick\n\nRichard Barnett\n\nFelicia Konold\n\nCory Konold\n\nCharles Donohoe\n\nRasha Abualragheb\n\nKenneth Joseph Owen Thomas\n\nKevin Tuck\n\nEnrique Tarrio\n\nJonathan Gennaro Mellis\n\nAndrew C. Taake  \n\nJustin Stoll\n\nAlbuquerque Head\n\nKristina Malimon\n\nChristopher Joseph Quaglin\n\nThomas Ballard\n\nJeff McKellops\n\nChris Alberts\n\nTimothy Hart\n\nLonnie Coffman\n\nSteve Rosatti\n\nAlex Harkrider\n\nBrian Mock\n\nRobert Morss\n\nKash Kelly\n\nSara Carpenter\n\nJenna Ryan\n\nJacob Lang\n\nJeffrey Brown\n\nGina Bisignano\n\nRonald McAbee\n\nSandy Weyer\n\nLisa Eisenhart\n\nEric Munchel\n\nEthan Nordean\n\nPauline Bauer\n\nLucas Denney\n\nEric D. Clark (KY)\n\nMarshall Neefe\n\nBen Martin\n\nAlan Fischer\n\nJonathan Klein\n\nTroy Smocks\n\nTreniss Evans\n\nPaul Rae\n\nAurthur Jackman \n\nNathan Tuck \n \nEdward George III\n\nThe Family of the first J6 Hostage who has taken his life, Matthew Perna\n\nGabriel Garcia\n\nMatthew Krol\n\n--\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "silent": true,
+          "v": 1,
+          "views": 2841,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+              "display_url": "t.me/ThePrisonersRecord?livestream",
+              "hash": 0,
+              "id": 9.17079312155079e+18,
+              "photo": {
+                "access_hash": -4.34728843336488e+18,
+                "date": 1630940750,
+                "dc_id": 1,
+                "file_reference": "AGQ2mRhqW5/mKVHbjfKvJ5f3zus0",
+                "has_stickers": false,
+                "id": 5.02172664971196e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 12097,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 39128,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 130813,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo1Z5kgjLyHAH61RDXl58wbyYj0x1P+P6UlwftN0/8SQ/LtHcn/P6UJeGJSXDSZ6c9KAHf2bzn7Q+7PXn/ABoJvLP5i/nxDrnqP6/zqxHPvYDZgE4zn2zU1ACQTJPGHjPH8jRVNQLO/QLxHPxj0P8An+dFAEFrcx232kzEgmcjpmnLNbTyvskfLAsRt6VV1eFoblm/5Zynd9D3o06NdrSZ+Y5XHtQBagvbSAtiR2zjqtWJtQhhbZISDjPSsgRRfbmjx8o6L746VLqEYZfNP3hgUAT3N1Hcm38rJKzLRVfSIGmug5/1cfzH69qKANyeBLiIxyDI/kay/sU1nKzxqZEIIIX/AAoooAzvs84b7rbvxzWkbOa8nDyIY0AAAY8flRRQBpwQR28QjjGFH60UUUAf"
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "The Prisoner's Record",
+              "type": "telegram_livestream",
+              "url": "https://t.me/ThePrisonersRecord?livestream"
+            }
+          },
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 2132,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 30,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-12T12:28:16.067726"
+        }
+      }
+    ]
+  }
+}

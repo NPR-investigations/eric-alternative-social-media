@@ -1,0 +1,1633 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [15],
+      "relation": ["eq"]
+    },
+    "max_score": [12.1876],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5599461387643411991",
+        "_score": 12.1876,
+        "_source": {
+          "archivedon": "2022-10-30 02:34:35.802834",
+          "channeltitle": "Daily Mail UK",
+          "channelusername": "DailyMailUKNews",
+          "date": 1667091783,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 145,
+              "offset": 55,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 202,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 213,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 16,
+              "offset": 213,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Simon Cowell says son Eric helped save his life\n\nREAD: https://www.dailymail.co.uk/tvshowbiz/article-11369207/Simon-Cowell-says-son-Eric-helped-save-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMailUKNews",
+          "peerid": {
+            "channel_id": 1303726199,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 14,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5086185737477427947",
+        "_score": 11.9131,
+        "_source": {
+          "archivedon": "2022-10-30 19:55:39.016728",
+          "channeltitle": "The First",
+          "channelusername": "TheFirst0nTV",
+          "date": 1667138680,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 37,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 70,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "NPA Report: Ep113 - Eric Dym\n\nWATCH: https://youtu.be/6dsG59uEEpY\n\n👉 @TheFirst0nTV",
+          "peerid": {
+            "channel_id": 1184219899,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 24,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5223207954567710049",
+        "_score": 11.7537,
+        "_source": {
+          "archivedon": "1680436629",
+          "channeltitle": "DoctorQ's Boom Box!",
+          "channelusername": "DoctorQsBoomBox",
+          "date": 1667149157,
+          "editdate": 1667224143,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 20121,
+            "date": 1667138907,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Rep. Eric Swalwell Is Campaigning For Democrat With Ties to Org That Produced His Chinese Spy 'Friend' Christine Fang\n\n https://www.thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang/",
+          "peerid": {
+            "channel_id": 1216122870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1493446725,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 505617
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 833,
+          "channelabout": "Just Hanging Out and Exposing the TRUTH!",
+          "id": 50529,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "cassandra.rules.1",
+              "description": "Rep. Eric Swalwell is set to campaign for a Democrat with ties to an organization that produced his Chinese spy “friend” Christine Fang. Jay Chen, a candidate for California’s 45th congressional district, has refused to denounce his long-standing support for the Confucius Institutes — where Fang got her start. Rep. Swalwell will be campaigning for…",
+              "display_url": "thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang",
+              "hash": 0,
+              "id": 7.00594959855783e+18,
+              "photo": {
+                "access_hash": 8.36494328700181e+18,
+                "date": 1638308077,
+                "dc_id": 4,
+                "file_reference": "AGQpbASQiOSfxtaqI5ufN+byhBNk",
+                "has_stickers": false,
+                "id": 5.85360653871806e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARgotMbeMtHHCGZRyAvSqywA/vS+H7rjj6YqR3S1mlEuQsh3K3r6ipE+ZkYHKt0NZtM0ViqAPt8ygY+UcVUu8CXGRmrYUrqMu/J/2j+FOFussMi7hl2OT9DxTkrO4LY0LD/jyi/3aKr6OW8iRCchHwDRVmbMF3Zzl2LH1Jq5ZS7zHC/QEgfjRRQNblmxuGkRkl5KdGPWkiTC3G7OCSaKKzmzSK0HaWZI7diDnOSqnpRRRUObTDlR",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 189,
+                    "size": 16030,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 444,
+                    "w": 750,
+                    "sizes": [6066, 15862, 21417, 29578, 50666]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "Rep. Eric Swalwell Is Campaigning For Democrat With Ties to Org That Produced His Chinese Spy 'Friend' Christine Fang",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang/"
+            }
+          },
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-02T11:57:09.634239",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6729827970279563850",
+        "_score": 11.7537,
+        "_source": {
+          "archivedon": "1682466700",
+          "channeltitle": "Blazen Herb",
+          "channelusername": "Blazenherb",
+          "date": 1667143583,
+          "editdate": 1667145544,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 20121,
+            "date": 1667138907,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Rep. Eric Swalwell Is Campaigning For Democrat With Ties to Org That Produced His Chinese Spy 'Friend' Christine Fang\n\n https://www.thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang/",
+          "peerid": {
+            "channel_id": 1566910178,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1569470796,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 155652
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 375,
+          "channelabout": "Just a person that loves \nGod and America 🙏🇺🇲🙏",
+          "id": 25162,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "cassandra.rules.1",
+              "description": "Rep. Eric Swalwell is set to campaign for a Democrat with ties to an organization that produced his Chinese spy “friend” Christine Fang. Jay Chen, a candidate for California’s 45th congressional district, has refused to denounce his long-standing support for the Confucius Institutes — where Fang got her start. Rep. Swalwell will be campaigning for…",
+              "display_url": "thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang",
+              "hash": 0,
+              "id": 7.00594959855783e+18,
+              "photo": {
+                "access_hash": 8.36494328700181e+18,
+                "date": 1638308077,
+                "dc_id": 4,
+                "file_reference": "AGRIYB00j0RxslnJxUpzxvhhfYEn",
+                "has_stickers": false,
+                "id": 5.85360653871806e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARgotMbeMtHHCGZRyAvSqywA/vS+H7rjj6YqR3S1mlEuQsh3K3r6ipE+ZkYHKt0NZtM0ViqAPt8ygY+UcVUu8CXGRmrYUrqMu/J/2j+FOFussMi7hl2OT9DxTkrO4LY0LD/jyi/3aKr6OW8iRCchHwDRVmbMF3Zzl2LH1Jq5ZS7zHC/QEgfjRRQNblmxuGkRkl5KdGPWkiTC3G7OCSaKKzmzSK0HaWZI7diDnOSqnpRRRUObTDlR",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 189,
+                    "size": 16030,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 444,
+                    "w": 750,
+                    "sizes": [6066, 15862, 21417, 29578, 50666]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "Rep. Eric Swalwell Is Campaigning For Democrat With Ties to Org That Produced His Chinese Spy 'Friend' Christine Fang",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang/"
+            }
+          },
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🤮",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-25T23:51:40.673986",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5354447101273346987",
+        "_score": 10.9794,
+        "_source": {
+          "archivedon": "2022-10-31 00:53:48.554963",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1667167034,
+          "editdate": 1667167038,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 96,
+              "offset": 75,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 216,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 237,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 252,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 272,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 291,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Man Pleads Guilty To Threatening To Kill Rep. Eric Swalwell And Staffers - https://breaking911.com/man-pleads-guilty-to-threatening-to-kill-rep-eric-swalwell-and-staffers/\nSource: Breaking911 \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 909288
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 36,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5701205048307075770",
+        "_score": 10.8296,
+        "_source": {
+          "archivedon": "2022-10-30 23:03:41.667497",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1667167822,
+          "editdate": 1667167825,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3498,
+            "date": 1667167089,
+            "from_id": {
+              "channel_id": 1533573613,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Real Powers behind Ferguson Police Murders Antonio Martin, Michael Brown & Eric Garner in Swiss Belt (Dr.Sean Hross 2014)",
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "sven",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331917603,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 282113
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 43,
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5354447101273346826",
+        "_score": 10.3092,
+        "_source": {
+          "archivedon": "2022-10-30 14:30:45.156418",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1667138915,
+          "editdate": 1667138918,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 132,
+              "offset": 120,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 300,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 321,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 336,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 356,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 375,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Rep. Eric Swalwell Is Campaigning For Democrat With Ties to Org That Produced His Chinese Spy 'Friend' Christine Fang\n\n https://www.thegatewaypundit.com/2022/10/rep-eric-swalwell-campaigning-democrat-ties-org-produced-chinese-spy-friend-christine-fang/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 908490
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 11,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "4599600813680128093",
+        "_score": 10.3019,
+        "_source": {
+          "archivedon": "2022-10-30 19:38:10.183887",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1667143550,
+          "editdate": 1667144257,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 125,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Jean Baptiste, a former presidential candidate and leader of a political party in Haiti, has been killed in a shooting.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 102759
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 758,
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6753280299896960843",
+        "_score": 9.4,
+        "_source": {
+          "archivedon": "2022-10-30 06:49:37.340714",
+          "channeltitle": "Hitler Was A Rothschild",
+          "date": 1667107103,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I’ve had two LAPD SGT’s tell me about Eric Garcetti in West Hollywood and his DV disputes with his fag lover and the fact that LAPD buries the 911 response",
+          "peerid": {
+            "channel_id": 1572370599,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 30485
+          },
+          "silent": false,
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "4496833426086811053",
+        "_score": 8.92,
+        "_source": {
+          "archivedon": "2022-10-30 05:49:54.606574",
+          "channeltitle": "zerohedge",
+          "channelusername": "zerohedge",
+          "date": 1667099336,
+          "editdate": 1667100282,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 88,
+              "offset": 63,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 90,
+              "offset": 156,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "World Series Errors: Watch As Eric Burton Flubs Anthem Lyrics\n\nhttps://www.zerohedge.com/political/world-series-errors-watch-singer-flubs-anthem-lyrics\n\n⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "peerid": {
+            "channel_id": 1047000621,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1716348266,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 65943
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1188,
+          "channelabout": "Admin: itsmykraken@gmail.com\n\nShould you like to support our channel, please donate with:\n\nBTC: 1ELy2nVxA5CXcNxrNZWT5FtA4q6Q1PdKYE\n\nBCH: qzl87nt0umemgljvz5tjg4fupcn62tm05v2hvsztmp\n\nETH: 0x9d25Fc795300217E66298963a0c5A32F644CC8dc",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5811551549939779562",
+        "_score": 8.743,
+        "_source": {
+          "archivedon": "2022-10-30 20:25:01.829403",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1667156282,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 47,
+              "offset": 91,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 140,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 226,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 255,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 289,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3376,
+            "date": 1667151886,
+            "from_id": {
+              "channel_id": 1375147150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "T.G",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "https://youtu.be/zK1K-cQGnQs\nFrom Psychoanalysis to Vegetotherapy Part 3\n(E)D Untertitel\n\n\nVon der Psychoanalyse zur Vegetotherapie Teil 3\n\ndrsimonianisch\n\nMit Rednern: Dr. Phillip Bennett, Dr. Eric Weitzner, Dr. Harry Lewis. www.psychorgone.com\n\n\n\nKanal:t.me/TeslaSchaubergerReich\nGruppe:t.me/pzumkaiserreichtesla",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 6,
+          "channelabout": "❤WWG1WGA❤",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5354447101273346722",
+        "_score": 8.4919,
+        "_source": {
+          "archivedon": "2022-10-30 06:21:35.060924",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1667099337,
+          "editdate": 1667099340,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 88,
+              "offset": 63,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 194,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 215,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 230,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 250,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 269,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "World Series Errors: Watch As Eric Burton Flubs Anthem Lyrics\n\nhttps://www.zerohedge.com/political/world-series-errors-watch-singer-flubs-anthem-lyrics\nSource: ZeroHedge \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 908041
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 27,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5090199899812179032",
+        "_score": 7.3872,
+        "_source": {
+          "archivedon": "2022-10-30 09:18:29.266407",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1667112431,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 5,
+              "offset": 328,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 341,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 493979,
+            "date": 1667112430,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 493979,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\nThe leader of one of Haiti's parties, Eric Jean-Baptiste, died in hospital after an assassination attempt in the Laboulaye district of the capital, Port-au-Prince.  \n  \nThe media reported that unknown assailants fired on his car. He managed to get to the hospital, where he died of his injuries.  \n  \nSubscribe to IZ.RU\nLink : https://t.me/izvestia/109948",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 888527
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3,
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6683182508026242969",
+        "_score": 5.4283,
+        "_source": {
+          "archivedon": "2022-10-30 05:52:47.433929",
+          "channeltitle": "Video Posts Only",
+          "channelusername": "video_posts",
+          "date": 1667106620,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 20,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 58,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 58,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 5,
+              "offset": 382,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 717,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "t.me/izvestia/109948 ↩\n\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nIZ.RU\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n\n[ORIGINAL MESSAGE]\nЛидер одной из партий Гаити Эрик Жан-Батист скончался в больнице после покушения в столичном районе Лабуле в Порт-о-Пренсе.\n\nСМИ сообщают, что неизвестные обстреляли его автомобиль. Он смог добраться до больницы, где скончался от полученных травм.\n\nПодписаться на IZ.RU\n\n[TRANSLATED MESSAGE]\nThe leader of one of the parties of Haiti, Eric Jean-Baptiste, died in hospital after an assassination attempt in the Laboulaye metropolitan area in Port-au-Prince.\n\nMedia reports that unidentified persons fired at his car. He was able to get to the hospital, where he died from his injuries.\n\nSubscribe to IZ.RU",
+          "peerid": {
+            "channel_id": 1556049685,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3,
+          "channelabout": "Automated aggregation and translation of a selection of 85 Russian Telegram channels.\n \nUtilizes Google Translate.",
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "mediaref": "68f257ddd9b206e41fe81eeacd3791e17150401c"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5986031576977245204",
+        "_score": 4.5269,
+        "_source": {
+          "archivedon": "1681229345",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1667131618,
+          "editdate": 1667132723,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 46,
+              "offset": 36,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 83,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 11,
+              "offset": 103,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 121,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 136,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wnlL5MibZ9Y1Yjgy"
+            },
+            {
+              "length": 22,
+              "offset": 150,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+YSwehk-ZtfMxYzYy"
+            },
+            {
+              "length": 19,
+              "offset": 224,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 246,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+KRHHGIvx091jZDcy"
+            },
+            {
+              "length": 14,
+              "offset": 262,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 279,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+PmC9MeTUHCE2MDk6"
+            },
+            {
+              "length": 12,
+              "offset": 298,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 313,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+hh0uXUYzBw01YjVi"
+            },
+            {
+              "length": 21,
+              "offset": 328,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 351,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+O-qcfSyzeG9iMTYy"
+            },
+            {
+              "length": 9,
+              "offset": 374,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 386,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+9Vbg1gtxL6RlNzZi"
+            },
+            {
+              "length": 17,
+              "offset": 395,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 415,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+uS_iD6IWq4IyMTUy"
+            },
+            {
+              "length": 5,
+              "offset": 434,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 442,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+D_9LCuuyyP04ZTMx"
+            },
+            {
+              "length": 15,
+              "offset": 449,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 467,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+pl2K5Freu8hkM2Q0"
+            },
+            {
+              "length": 15,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 501,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Y1z5_ORUcUpjY2Ni"
+            },
+            {
+              "length": 22,
+              "offset": 517,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 542,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ej-OU77FSA1jN2Qy"
+            },
+            {
+              "length": 13,
+              "offset": 561,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 577,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+z2EX4bPqfeI3OGNi"
+            },
+            {
+              "length": 19,
+              "offset": 591,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 613,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+kwWkRCFZgihjYjNi"
+            },
+            {
+              "length": 12,
+              "offset": 637,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 652,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+n6eEyg6GW9I0OGMy"
+            },
+            {
+              "length": 13,
+              "offset": 670,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 686,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ESFBNKlZiTE0ZGEy"
+            },
+            {
+              "length": 19,
+              "offset": 706,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 727,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+qWDLMSQtiwowZjBi"
+            },
+            {
+              "length": 16,
+              "offset": 750,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 769,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+aWfzVLU2N1o5ODYy"
+            },
+            {
+              "length": 12,
+              "offset": 791,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 806,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+RSk2WWmC0OI1NTIy"
+            },
+            {
+              "length": 1,
+              "offset": 823,
+              "reformatted_key": "MessageEntitySpoiler"
+            },
+            {
+              "length": 14,
+              "offset": 824,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 841,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+lOAVSVhYfsM4ODJi"
+            },
+            {
+              "length": 14,
+              "offset": 862,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 879,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wWsv3boIYD1mNjQ6"
+            },
+            {
+              "length": 5,
+              "offset": 900,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 908,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+JYBv1jw6f281ZmZi"
+            },
+            {
+              "length": 18,
+              "offset": 920,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 941,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+A8LVv2ANkoliMTZi"
+            },
+            {
+              "length": 12,
+              "offset": 964,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 979,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+faAMh7DfYwg2ZTUy"
+            },
+            {
+              "length": 14,
+              "offset": 997,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1014,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+d-sfNIL_UjkzMGJi"
+            },
+            {
+              "length": 16,
+              "offset": 1034,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 1053,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Xzufy6umap8wZjJi"
+            },
+            {
+              "length": 9,
+              "offset": 1070,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 1080,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+f_pfhObH7xQ4OTM6"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49,
+            "date": 1661702742,
+            "from_id": {
+              "channel_id": 1274719254,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "‼️🇺🇸‼️SHARE‼️🇺🇸‼️SHARE‼️🇺🇸‼️\n\nBIG TECH WON’T SILENCE US - Join These Popular Conservative Voices on Telegram\n\n🇺🇸 Donald Trump — @Donald_Trump\n🇺🇸 Nesara (official) — @Nesara\n🇺🇸 Melania Trump — @Melania_Trump\n🇺🇸 White Hats (secret) — @White_Hats\n🇺🇸 General Flynn — @General_Flynn\n🇺🇸 Qanon (Q17) — @Qanon_Q17\n🇺🇸 Donald Trump (2024) — @Donald_Trump_2024\n🇺🇸 Mr. Pool — @Mr_Pool\n🇺🇸 Ivanka Trump — @Ivanka_Trump\n🇺🇸 Qanon — @Qanon\n🇺🇸 Eric Trump — @Eric_Trump\n🇺🇸 Trump War Room — @Trump_War_Room\n🇺🇸 TAKE BACK AMERICA — @TAKE_BACK_AMERICA\n🇺🇸 Lin Wood — @Lin_Wood\n🇺🇸 The anti-globalist — @The_anti_globalist\n🇺🇸 Dan Scavino — @Dan_Scavino\n🇺🇸 Nesara Gesara — @Nesara_Gesara\n🇺🇸 Donald Trump (Q17) — @Donald_Trump_Q17\n🇺🇸 American Patriot — @American_Patriot\n🇺🇸 John Durham — @John_Durham\n🇺🇸 Michael Pompeo — @Michael_Pompeo\n🇺🇸 Michael Yeadon — @Michael_Yeadon\n🇺🇸 Q-Tip - @Q_Tip\n🇺🇸 Ivanka Trump (Fan) - @Ivanka_Trump_Fan\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Pepe the Frog - @Pepe_the_Frog\n🇺🇸 White Hats (Q17) - @White_Hats_Q17\n\nSee More: http://t.me/ConservativesOnTelegram/183",
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 87,
+          "channelabout": "❗Donald Trump channel",
+          "id": 1044,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-11T16:28:13.838397",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [36],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [12.4725],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107912174187026246",
+        "_score": 12.4725,
+        "_source": {
+          "account": {
+            "acct": "TheOak",
+            "display_name": "",
+            "id": "107836136052656449",
+            "username": "TheOak"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span>🤣<\/p>",
+          "content_cleaned": "RT @eric🤣",
+          "created_at": "2022-03-06T23:25:03.199+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107912174187026246",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblog": {
+            "id": "107912083775756045",
+            "uri": "https://truthsocial.com/@eric/107912083775756045",
+            "url": "https://truthsocial.com/@eric/107912083775756045"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@TheOak/107912174187026246",
+          "url": "https://truthsocial.com/@TheOak/107912174187026246",
+          "visibility": "public",
+          "lastseents": "2023-05-09T23:51:54.121845"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107907433331301157",
+        "_score": 6.815,
+        "_source": {
+          "account": {
+            "acct": "paddyaces",
+            "display_name": "Paddy McAces",
+            "id": "107835317335582315",
+            "username": "paddyaces"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jmccoy0821\" class=\"u-url mention\">@<span>jmccoy0821<\/span><\/a><\/span> Eric Coomer (Dominion) arrested.<br />He lies to police bc that’s what leftist liars do-lie, lie, lie.<\/p><p>Even when presented w/facts that there were witnesses &amp; photos (ain’t technology great, Eric?), he stills denies it.  Bc that’s what leftist liars do-deny, deny, deny.  <\/p><p>Then, when he finally comes clean, he blames it on being under a lot of “stress”.  Bc that&apos;s what leftist liars do-blame, blame, blame.<\/p><p>Wonder why he’s under a lot of stress?Bc he’s involved in the election fraud of the century!<\/p>",
+          "content_cleaned": "RT @jmccoy0821 Eric Coomer (Dominion) arrested.He lies to police bc that’s what leftist liars do-lie, lie, lie.Even when presented w/facts that there were witnesses &amp; photos (ain’t technology great, Eric?), he stills denies it.  Bc that’s what leftist liars do-deny, deny, deny.  Then, when he finally comes clean, he blames it on being under a lot of “stress”.  Bc that&apos;s what leftist liars do-blame, blame, blame.Wonder why he’s under a lot of stress?Bc he’s involved in the election fraud of the century!",
+          "created_at": "2022-03-06T03:19:23.482+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107907433331301157",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107907402112480518",
+            "uri": "https://truthsocial.com/users/jmccoy0821/statuses/107907402112480518",
+            "url": "https://truthsocial.com/@jmccoy0821/107907402112480518"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/paddyaces/statuses/107907433331301157/activity",
+          "url": "https://truthsocial.com/users/paddyaces/statuses/107907433331301157/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-11T03:39:52.952412+00:00"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

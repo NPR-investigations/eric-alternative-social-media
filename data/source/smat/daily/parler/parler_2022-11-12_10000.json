@@ -1,0 +1,77 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [23],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [8.1446],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "67564f4e-493c-4726-b683-2b53e4ff1faf",
+        "_score": 8.1446,
+        "_source": {
+          "ad": false,
+          "badges": [1],
+          "badges_v2": {
+            "early": 0,
+            "gold": 1,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "\"Those superiors who somehow missed their destinies in writing instructions for plastic ice cube trays now work in public health.\"\n~ Eric Hussey",
+          "bodywithurls": "\"Those superiors who somehow missed their destinies in writing instructions for plastic ice cube trays now work in public health.\"\n~ Eric Hussey https://brownstone.org/articles/only-experts-can-fill-ice-cube-trays/",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2022-11-12T15:37:23.000000Z",
+          "createdAtformatted": "2022-11-12T15:37:23.000000Z",
+          "creator": "b72bf2676ef248d6bdf31347878fcc62",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": true,
+          "edited": false,
+          "id": "67564f4e-493c-4726-b683-2b53e4ff1faf",
+          "image": "https://bl-images.parler.com/images/e3/f3/e3f3e3c8-c34e-4d2b-ad16-91ca1156ad5a.jpg",
+          "iscomment": false,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-12-13T13:25:32.796029+00:00",
+          "link": "https://brownstone.org/articles/only-experts-can-fill-ice-cube-trays/",
+          "name": "Brownstone Institute",
+          "replied": false,
+          "reposts": 1,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/67564f4e-493c-4726-b683-2b53e4ff1faf",
+          "state": 0,
+          "suggested": false,
+          "title": "Only Experts Can Fill Ice Cube Trays  ⋆ Brownstone Institute",
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2022-11-12T15:47:22.000000Z",
+          "upvoted": false,
+          "upvotes": 3,
+          "userid": "b72bf2676ef248d6bdf31347878fcc62",
+          "useridraw": "b72bf267-6ef2-48d6-bdf3-1347878fcc62",
+          "username": "brownstoneinst",
+          "verified": false,
+          "views": 58
+        }
+      }
+    ]
+  }
+}

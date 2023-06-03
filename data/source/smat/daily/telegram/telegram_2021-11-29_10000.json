@@ -1,0 +1,824 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [35],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [12],
+      "relation": ["eq"]
+    },
+    "max_score": [11.7236],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5782522656259784580",
+        "_score": 11.7236,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638230175,
+          "post": true,
+          "views": 11,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": " Fox News (Twitter)\n\nNYC Mayor-elect Eric Adams promotes 'stop and frisk' after latest shooting that wounded 2 officers\nhttps://www.foxnews.com/politics/nyc-mayor-elect-eric-adams-stop-and-frisk-officers-shooting",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1346348472
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 339243,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.foxnews.com/politics/nyc-mayor-elect-eric-adams-stop-and-frisk-officers-shooting",
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FoxNews/status/1465447984355856392",
+              "length": 18,
+              "offset": 1
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 92,
+              "offset": 120
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1638230177,
+          "edithide": true,
+          "archivedon": "2021-11-30 00:22:39.89902",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5583450097456259471",
+        "_score": 11.3106,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638210981,
+          "post": true,
+          "views": 1587,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "MO Atty Gen Eric Schmitt Announces Court Stay on the Vaccine Mandate Affecting Healthcare Workers\nhttps://redstate.com/jenniferoo/2021/11/29/mo-atty-gen-eric-schmitt-announces-court-stay-on-the-vaccine-mandate-affecting-healthcare-workers-n483677",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1299998280
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 148,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 02:52:36.336624",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5378609393279454610",
+        "_score": 9.9877,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638172556,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1474206384
+          },
+          "message": "The first of the Eric Clapton worldwide freedom Jam concerts... Was a stunning success. Location somewhere in NZ!\nhttps://youtu.be/W-2GPQuDxjg",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1252305087
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 80305,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 28,
+              "offset": 114,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-03-16 06:15:33.35902",
+          "channeltitle": "Damien De Ment Chat",
+          "channelusername": "damien_dement_chat",
+          "userinfo": {
+            "_id": 1474206384,
+            "_media_ref": "b45a72766a760a2703ed42c636fa41756d2caf0f",
+            "_v": 1,
+            "access_hash": 1.42215668528573e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bridget",
+            "id": 1474206384,
+            "is_self": false,
+            "last_name": "Biss",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 280564,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008000767
+              },
+              "photo_id": 5.13215702346561e+18,
+              "photo_small": {
+                "local_id": 280562,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008000767
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5041642507096563252",
+        "_score": 9.2154,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638158861,
+          "post": true,
+          "views": 219,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": ">Eric Striker is a crisis actor\n>Kyle Rittenhouse is a grown-up Sandy Hook kid\n>Striker wears glasses so hes a fed\n\nGab is one hell of a drug",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1173848870
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 45454,
+            "replies": 56,
+            "comments": true,
+            "channel_id": 1166816813,
+            "replies_pts": 58694,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 615623497
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2046593737
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 984701073
+              }
+            ]
+          },
+          "entities": [],
+          "forwards": 6,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1638158865,
+          "edithide": true,
+          "archivedon": "2021-11-29 04:50:59.499324",
+          "channelabout": "You are not immune to propaganda\n\nhttps://linktr.ee/shadowman311",
+          "channeltitle": "Shadowman311's Schizophrenic Ramblings",
+          "channelusername": "shadowman_311",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5036934943767286958",
+        "_score": 9.1211,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638227428,
+          "post": false,
+          "views": 225,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1912580608
+          },
+          "message": "𝑰 will  𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒑𝒐𝒔𝒕𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 sir Eric Britt 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒎𝒚 𝒉𝒂𝒑𝒑𝒊𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒋𝒐𝒚 𝒘𝒂𝒔 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒈𝒐𝒐𝒅 𝒘𝒐𝒓𝒌𝒔 𝒕𝒐𝒘𝒂𝒓𝒅 𝒎𝒚 𝒍𝒊𝒇𝒆 𝒂𝒏𝒅 𝒇𝒂𝒎𝒊𝒍𝒚, 𝒃𝒖𝒕 𝒔𝒊𝒏𝒄𝒆 𝑰 𝒅𝒐𝒏'𝒕 𝒉𝒂𝒗𝒆 𝒂𝒏𝒚 𝒎𝒆𝒂𝒏𝒔 𝒕𝒐 𝒔𝒉𝒐𝒘 𝒂𝒑𝒑𝒓𝒆𝒄𝒊𝒂𝒕𝒊𝒐𝒏 𝑰 𝒘𝒊𝒍𝒍 𝒕𝒆𝒍𝒍 𝒕𝒉𝒆 𝒘𝒉𝒐𝒍𝒆 𝒘𝒐𝒓𝒍𝒅 𝒕𝒉𝒂𝒕 sir Eric Britt 𝒊𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒐𝒇 𝒂𝒍𝒍 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒘𝒉𝒆𝒏 𝒊𝒕 𝒄𝒐𝒎𝒆𝒔 𝒕𝒐 𝑪𝑹𝒀𝑷𝑻𝑶 𝑻𝑹𝑨𝑫𝑰𝑵𝑮. \n👇👇👇👇👇\n@Trader_Britt\n@Trader_Britt\nhttps://t.me/joinchat/tLMWleQAZkE2MzQ8\nhttps://t.me/joinchat/tLMWleQAZkE2MzQ8",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1172752805
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 26219,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 518
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 13,
+              "offset": 532
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 38,
+              "offset": 546
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 38,
+              "offset": 585
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638227263,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1764523149
+            },
+            "channel_post": 2
+          },
+          "edithide": false,
+          "archivedon": "2021-11-30 00:01:04.674448",
+          "channelabout": "Organisation du Worldwide rally for Freedom France",
+          "channeltitle": "World Wide Rally for Freedom France",
+          "channelusername": "RallyforFreedom",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6347407316354103747",
+        "_score": 8.7404,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638221354,
+          "post": true,
+          "views": 129,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "NYC mayor-elect Eric Adams is flying to Ghana despite warnings over Omicron variant\n\nRead: https://www.dailymail.co.uk/news/article-10254771/Escape-South-Africa-Airlines-accused-profiteering.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1477870931
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 83,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 146,
+              "offset": 91,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 239,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 250,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 250,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-08-03 06:02:24.28654",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4599600813680119384",
+        "_score": 8.6519,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638214152,
+          "post": true,
+          "views": 1,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "NYC Mayor-Elect Eric Adams has narrowed his picks for Police Commissioner and DOE chancellor down to top 3 candidates and will announce his final decisions after he returns from Ghana on Dec 8.\n@YidInfo",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1070928018
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1219417644,
+            "replies_pts": 39960,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 194
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1638214156,
+          "edithide": true,
+          "archivedon": "2021-11-29 19:30:08.043975",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6260560565073095973",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638204499,
+          "post": true,
+          "views": 120,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "AGBU Congratulates Central Board Member Eric Esrailian on Receiving Medal from Pope Francis\n\nThe pontifical award recognizes Dr. Esrailian for his humanitarian work and service to the Christian faith locally and around the world.\nThis rare distinction as the first Armenian to receive such an honor from the Roman Catholic Church reflects Dr. Esrailian’s extraordinary service not only to Armenians around the world but also his leadership in raising awareness about human rights abuses and working to secure U.S. government recognition of the Armenian Genocide. The Promise Institute for Human Rights and The Promise Armenian Institute at UCLA were founded by Dr. Esrailian after the release of the feature film, “The Promise”, which he produced. \n\nThe medal was awarded to him for his charitable activities to inform about the Armenian Genocide.\n\n@Artsakheng #Armenia #Artsakh",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1457650346
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1475128291,
+            "replies_pts": 76489,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 92,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 11,
+              "offset": 849
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 8,
+              "offset": 861
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 8,
+              "offset": 870
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1638204502,
+          "edithide": true,
+          "archivedon": "2021-11-29 17:29:04.811753",
+          "channelabout": "News from #Artsakh/#Armenia/#Diaspora\n🇪🇸 Spanish @reartsajesp\n🇫🇷 French   @republicfr\n📇 Contact @republichelp\n🐦 Twitter.com/publicofartsakh \n💵 Financial support\nhttps://www.buymeacoffee.com/artsakhrepublic\nhttps://www.patreon.com/artsakhrepub",
+          "channeltitle": "Re:public of Artsakh",
+          "channelusername": "reartsakheng",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6427630059833656598",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638228929,
+          "post": true,
+          "views": 12,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Ghislaine Maxwell's secret \"husband\" is CEO of the worldwide company SHIPPING [HUMAN TRAFFIC].\n\n\"Scott BORGERSON, the CEO of a technology company called CargoMetrics, has been linked since last year to Jeffrey Epstein's alleged mistress, Ghislaine MAXWELL, who the authorities arrested in early July.\"\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial support from private equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer and Maersk Tankers .\n\nThe Pentagon's Pedophile Task Force (working under the JOINT SPECIAL OPERATIONS COMMAND) has uncovered actionable evidence (delivered to the DoD) that has shown that the coordination of HUMAN TRAFFIC AROUND THE WORLD has been expanded to a huge database that includes every conceivable factor of a human life (blood lineage, DNA, genetics.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1496549244
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1368195920,
+            "replies_pts": 406772,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 893,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1638221893,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1554804771
+            },
+            "channel_post": 3214
+          },
+          "editdate": 1638228935,
+          "edithide": true,
+          "postauthor": "Jenny B",
+          "archivedon": "2021-11-29 23:39:14.365129",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5993668827693463465",
+        "_score": 4.4065,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638216298,
+          "post": true,
+          "views": 6444,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Il \"marito\" segreto di Ghislaine Maxwell è CEO della società mondiale SHIPPING [TRAFFICO UMANO].\n\n\"Scott BORGERSON, l'Amministratore Delegato di una società tecnologica chiamata CargoMetrics, è stato legato dallo scorso anno alla presunta signora di Jeffrey Epstein, Ghislaine MAXWELL, che le autorità hanno arrestato all'inizio di luglio\".\n\nCargoMetrics Technologies, un hedge fund quantitativo con sede a Boston che si è assicurato il sostegno finanziario del colosso del private equity Blackstone, dell'investitore Paul Tudor Jones, del fondatore di Google Eric Schmidt, del magnate delle spedizioni israeliane Idan Ofer e di Maersk Tankers.\n\nLa Task Force Pedophile del Pentagono (che lavora sotto il JOINT SPECIAL OPERATIONS COMMAND) ha scoperto prove attuabili (consegnate al DoD) che hanno mostrato che il coordinamento del TRAFFICO DI ESSERI UMANI IN TUTTO IL MONDO è stato ampliato a un enorme database che include ogni fattore concepibile di una vita umana ( linea di sangue, DNA, genetica..).",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1395509771
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 106,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "postauthor": "Daniela Cecamore",
+          "archivedon": "2021-11-29 21:05:48.871534",
+          "channelabout": "🔴 Canale di sola lettura.\n\n👉Curiosita' informazioni, spunti e riflessioni. \n\nNON SEI QUI PER CREDERE...\nMA PER GUARDARE OLTRE LA MATRIX....\n\n\nLink di invito:\n\nhttps://t.me/joinchat/AAAAAFMtygtUv2AgKZ6W3Q",
+          "channeltitle": "THE STORM-Q17🇮🇹",
+          "channelusername": "TheStormQ17",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6084068217007903366",
+        "_score": 2.562,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638202688,
+          "post": false,
+          "pinned": false,
+          "silent": true,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 162726413
+          },
+          "message": "Herzlich Willkommen \nEric\nin der Gruppe der Freiheitsboten vom Saarpfalz-Kreis . 🤗\n\nEs freut mich sehr, dass du den Weg hierher gefunden hast. Wenn du magst, stell dich doch kurz vor oder erzähle zumindest von wo du kommst. Das macht es einfacher Leute aus der direkten Umgebung zu finden. \n\nUrsprünglich war die Gruppe der Freiheitsboten gegründet worden, um durch das Verteilen von Flyern wichtige Aufklärungsarbeit zu leisten. Daneben gab es immer wieder andere Aktionen (Schilder- und Plakataktionen, Straße mit Kreide beschriften, Demos, etc) und um nicht zu vergessen unsere Gruppentreffen - die Stammtische. Je nach Status des Lockdowns und der Maßnahmen unserer ach so tollen Regierung, fielen die Treffen total unterschiedlich aus. Von entspannten Treffen im Hinterzimmer eines Restaurants oder einer Kneipe, Spaziergängen, Picknick und Grillen, bis hin zu Treffen abseits im Dunkeln (Sauwetter war natürlich auch inklusive!^^). \n\n😅 Wie du siehst, wir sind tatsächlich mit allen Wassern gewaschen und lassen es uns nicht nehmen, füreinander da zu sein. 💚 Eine Gemeinschaft unter Gleichgesinnten ist in diesen Tagen umso wichtiger denn je. \n\nDeswegen geht es bei uns darum, sich auszutauschen, kennenzulernen und sich zu vernetzen. \n\nAls Neuling, oder jemand der uns noch nicht von den Stammis bekannt ist, kommst du zuerst hier in die Startgruppe, das ist eine Art offenes „Vorzimmer“. Im Anschluss daran, wenn wir uns kennengelernt haben, wirst du gerne in unserer Saarpfalz-Kreis Hauptgruppe aufgenommen und freigeschaltet. \n\nIn der internen Hauptgruppe sind alle Mitglieder bekannt. Das macht die Vernetzung untereinander um einiges leichter. Die Hauptgruppe ist eine private Gruppe und von außen nicht zugänglich. Dort kommt niemand von außen herein! Was eine reine Sicherheitsmaßnahme ist. Nichts ist ärgerlicher, als ständig Störenfriede aus einer stabilen und funktionierenden Gruppe zu kehren. \n\nIn der großen Chatgruppe der Freiheitsboten Saarland könnt ihr querbeet Beiträge posten. Hier bitte ich, dies auf ein Minimum zu beschränken. Bitte keine 20 Beiträge von Trump oder Attila hintereinander^^ Der Hauptaugenmerk soll hier auf der Kommunikation und den Treffen liegen. \n\nDiskussionen sind erwünscht. Bleibt aber bitte fair und oberhalb der Gürtellinie. 🙏 Jeder kann mal ne schlechte Phase haben. \n\nBei Anregungen, Ideen, Fragen und Problemen sind wir gerne da und helfen wo wir können. Schreibt uns einfach an. \n\nLasst uns das Beste aus allem machen! 😁👍\n\n\nViele Grüße von deinen 3 Saarpfalz-Kreis Admins \n\nChristiane 📬 @naegelchen\nAndreas 📬 @andiHOM\nAlly 📬 @krambambully",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1416557519
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 11926,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 144,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 90,
+              "offset": 1153,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 75,
+              "offset": 2121,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 2550,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 2573,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 2590,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2022-02-11 03:11:22.603884",
+          "channeltitle": "🔓 HOM / Freiheitsboten Saarpfalzkreis - Homburg und Umgebung / offene Startgruppe",
+          "channelusername": "Freiheitsboten_Saarpfalzkreis",
+          "userinfo": {
+            "_id": 162726413,
+            "_media_ref": "94f614160513bbedba9eaca46fb2b2be0f26eb2d",
+            "_v": 1,
+            "access_hash": -8.38615011459897e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": true,
+            "bot_info_version": 37,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Group Help",
+            "id": 162726413,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 250904,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400094800389
+              },
+              "photo_id": 6.98904622486628e+17,
+              "photo_small": {
+                "local_id": 250902,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 400094800389
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "GroupHelpBot",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5961714331141495982",
+        "_score": 2.4534,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1638160753,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1128431046
+          },
+          "message": "All aspects of the COVID-19 hoax and the COVID vaccines are\ncreated, managed and approved of by Talmudic Jews/Khazarian Mafioso.\n\nVACCINE APPROVALS:\nCDC Director, Rochelle Walensky, Talmudic Jew/Khazarian Mafia\nFormer CDC Director, Robert Redfield, Talmudic Jew/Khazarian Mafia\nCDC Deputy Director, Ann Schucat, Talmudic Jew/Khazarian Mafia\nCDC Chief of Staff, Sherri Berger, Talmudic Jew/Khazarian Mafia\nCDC Chief Medical Officer, Mitchell Wolfe, Talmudic Jew/Khazarian Mafia\nCDC Director, Washington Office, Jeff Reczek, Talmudic Jew/Khazarian Mafia\nFDA Vaccines, Dr. Eric Rubin, Talmudic Jew/Khazarian Mafia\nFDA Vaccines, Dr. Arno Monto, Talmudic Jew/Khazarian Mafia\nDr.Eric Rubin, during an FDA hearing on the safety of the vaccine for children said to Dr. Arno Monto, -->\n\"We're never gonna learn about how safe the vaccine is unless you start giving it.\"\nFormer FDA Commisioner, Stephen Hahn, Talmudic Jew/Khazarian Mafia\nFormer FDA Commisioner, Scott Gottlieb, Talmudic Jew/Khazarian Mafia\nFormer FDA Commisioner, David Kessler, Talmudic Jew/Khazarian Mafia\nFormer FDA Commisioner, Andrew Eschenbach, Talmudic Jew/Khazarian Mafia\nCOVID Czar, Jeff Zients, Talmudic Jew/Khazarian Mafia\nHHS Secretary, Xavier Becerra, Talmudic Jew/Khazarian Mafia\nHHS Ass.Secretary, Rachel Levine, Trans-gender, Talmudic Jew/Khazarian Mafia\n\nVACCINE MAKERS:\nPfizer CEO: Albert Bourla , Talmudic Jew/Khazarian Mafia\nAlbert Bourla was recently awarded the \"Honorary Jew\" award from Israel for the\nVaccine partnership between the State of Israel and Pfizer.\nThis means that Israel is implicated in the ongoing genocide ( over 2 million killed in US)\nof humanity using the bioweapon known as the COVID vaccine.\nJohnson & Johnson CEO: Alex Gorsky , Talmudic Jew/Khazarian Mafia\nAstrazeneca CEO: Pascal Soriot , Talmudic Jew/Khazarian Mafia\nModerna's Vaccine Creator: Tal Zaks , Talmudic Jew/Khazarian Mafia\n\nVACCINE PASSPORT:\nVaccine Passport System (Currently in use around the world)\nUS Patent # 11,107,588 B2 , August 31, 2021\nInventors:\nGal Ehrlich, Talmudic Jew/Khazarian Mafia\nRamat-Gan, Talmudic Jew/Khazarian Mafia\nMaier Fenster, Talmudic Jew/Khazarian Mafia\nPetach-Tikva, Talmudic Jew/Khazarian Mafia\nMade in ISRAEL\n\nVaccine Approvals --> Talmudic Jew/Khazarian Mafia\nVaccine Maker -- > Talmudic Jew/Khazarian Mafia\nVaccine Passport --> Talmudic Jew/Khazarian Mafia\n\nThe COVID-19 hoax and the Quack-cines are a Jewish/Khazarian Mafia operation.\nDon't believe for a second that Israel is poisoning it's own citizens with their own poisonous jab.\nThey are lying as they always do.\nLies, lies and more lies, all the time to cover their own tracks.\nJust like the Wall Street Banker bailout of 2008. Just like the 9/11 attacks.\nJust like the assassination of JFK, RFK.\nOpen your eyes.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1388069785
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 959577,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-29 05:33:43.20473",
+          "channelabout": "The official Telegram group chat of all those who came before Adam.\n\nRules:\n\n1.) Absolutely no descendents of Adam and Eve allowed\n2.) When you enter the chat, please say something only a Pre-Adamite would say\n3.) Respect the Rabbis at all times",
+          "channeltitle": "🕍Pre-Adamite Supremacist Chat 🕍",
+          "channelusername": "TheFascifistChat",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [28],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [8.0214],
+    "hits": [
+      {
+        "_index": "parler-data-000012",
+        "_id": "9b3d547fc42e4b6587ee6c8397841644",
+        "_score": 8.0214,
+        "_source": {
+          "ad": false,
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "Eric Adams just became  the President Pro-Tempore of Airheads Anonymous International- New York chapter. No one can be that stupid on purpose.",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "commentpath": ["d74bea7e-06de-4198-8f17-7f473d1edf8a", "9b3d547f-c42e-4b65-87ee-6c8397841644"],
+          "comments": 0,
+          "createdAt": "2022-10-03T19:13:24.000000Z",
+          "createdAtformatted": "2022-10-03T19:13:24.000000Z",
+          "creator": "ad92110d6d5848cf84a324cf06f3f5da",
+          "datatype": "comments",
+          "detectedlanguage": "en-US",
+          "discovered": false,
+          "echoed": false,
+          "edited": false,
+          "id": "9b3d547fc42e4b6587ee6c8397841644",
+          "iscomment": true,
+          "isecho": 0,
+          "isechocomment": false,
+          "lastseents": "2022-10-05T10:48:57.792455+00:00",
+          "name": "Delfinpachi",
+          "post": "d74bea7e-06de-4198-8f17-7f473d1edf8a",
+          "replied": false,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/9b3d547f-c42e-4b65-87ee-6c8397841644",
+          "state": 0,
+          "suggested": false,
+          "totalcomments": 0,
+          "trolling": false,
+          "updatedAt": "2022-10-03T19:13:31.000000Z",
+          "upvoted": false,
+          "upvotes": 0,
+          "userid": "ad92110d6d5848cf84a324cf06f3f5da",
+          "useridraw": "ad92110d-6d58-48cf-84a3-24cf06f3f5da",
+          "username": "Delfinpachi",
+          "uuidraw": "9b3d547f-c42e-4b65-87ee-6c8397841644",
+          "verified": false,
+          "views": 0
+        }
+      }
+    ]
+  }
+}

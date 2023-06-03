@@ -1,0 +1,3373 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [47],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [27],
+      "relation": ["eq"]
+    },
+    "max_score": [13.6459],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5190566482290951629",
+        "_score": 13.6459,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679089429",
+          "channelabout": "Kontakt 👉 deraktivistmann@gmail.com \n\nVideos: Odysee.com/@AktivistMann\n\nAlternative Nachrichten & mehr. #CoronaKrise #Weltverschwörung #Demonstrationen #AllLivesMatter #GonzoJournalismus\nALLES SATIRE!\n©AktivistMann\n\nZENSIERT auf YouTube.com/AktivistMann",
+          "channeltitle": "🇩🇪 Aktivist Mann #FreeJanich",
+          "channelusername": "aktivistmann",
+          "date": 1676401159,
+          "editdate": 1676401224,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 224,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 68,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 43708,
+            "date": 1676313974,
+            "from_id": {
+              "channel_id": 1221245253,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 17869,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Regardez maintenant (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+              "hash": 0,
+              "id": 1.32894087897438e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGQU3wiw/LBUkZDZ5r3F6VoR3QNK",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Substack",
+              "title": "Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton: „Ich kann vor Schmerzen nicht schlafen … der \"Impfstoff\" hat mein Immunsystem zerstört und es einfach durcheinander gewirbelt“\n\nEric Clapton spricht mutig über seine neurologischen COVID-19-\"Impf\"verletzungen\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1208522935,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 101,
+                "reaction": "😢",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 15,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 13,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "⚡",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "😐",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 6571,
+          "lastseents": "2023-03-17T21:43:49.048681",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6108530044328519034",
+        "_score": 13.0861,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-19 02:22:08.010185",
+          "channelabout": "Freiheit für Wirtschaft Information Meinung - \"Aus dem Wahrungsgebot folgt insbesondere die verfassungsrechtliche Pflicht, die Identität des deutschen Staatsvolkes zu erhalten.\" Bundesverfassungsgericht, 21. Oktober 1987.\n\nW.I.M. 📈🏛📣\n\nwww.t.me/wim4u",
+          "channeltitle": "WIM 📈🏛📣 Wirtschaft Information Meinung",
+          "channelusername": "wim4u",
+          "date": 1676392531,
+          "editdate": 1676397443,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 140,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 64,
+              "offset": 140,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 23,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 124042,
+            "date": 1676392437,
+            "from_id": {
+              "channel_id": 1277880892,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Sylvia Nickel",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton: „Ich kann vor Schmerzen nicht schlafen … der Impfstoff hat mein Immunsystem zerstört und es einfach durcheinander gewirbelt“\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+          "peerid": {
+            "channel_id": 1422252982,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 1238,
+          "lastseents": "2023-02-19T03:05:28.011078",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4539800227376834663",
+        "_score": 12.6539,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1682655005",
+          "channelabout": "",
+          "channeltitle": "Impfkritik",
+          "channelusername": "impfkritisch",
+          "date": 1676370537,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 64,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 845950606
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 567399,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+              "hash": 0,
+              "id": 1.32894087897438e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGRLRrTCPQx0rqfJ9CCmO6uojEGX",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Substack",
+              "title": "Musicians Injured - Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1057004609,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 714272
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-04-28T04:10:05.787555",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 7.2830025705661e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682655005,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Just",
+            "id": 845950606,
+            "is_self": false,
+            "last_name": "D.",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 3.63333018725762e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIQH86KKKaZB8=",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FriedrichNietzsche2020",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6550295171915910972",
+        "_score": 12.3854,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1682755326",
+          "channelabout": "",
+          "channeltitle": "Dr. Lockdown Viehler - Sprechstunde",
+          "channelusername": "LockdownViehlers_Sprechstunde",
+          "date": 1676364810,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 758,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2071212159
+          },
+          "fwdfrom": {
+            "channel_post": 44899,
+            "date": 1676340598,
+            "from_id": {
+              "channel_id": 1479163323,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 69436,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+              "hash": 0,
+              "id": 1.32894087897438e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGRMzvMnmJA9wz0Jm1tf6ucMRifS",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Substack",
+              "title": "Musicians Injured - Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton bravely discusses his neurological jab injuries: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1525109441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 101379
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 42708,
+          "lastseents": "2023-04-29T08:02:06.653917",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -6.21911711924802e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682755326,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Re̐̃ine̐̃r͑ Die̐̃h̽͋p̽̓stäit ༺ ༻ 🍺🍻 ꧁꧂",
+            "id": 2071212159,
+            "is_self": false,
+            "last_name": "(̅_̅_̅_̅(̅_̅_̅_̅_̅_̅_̅_̅_̅̅_̅(ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_id": 5.474514484447e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIsSSuUKhQOPSiiipLPw==",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Reiner_Diehpstaeit",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "collected_by": "crawler",
+          "url": "t.me/LockdownViehlers_Sprechstunde/69436"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6086674381688645294",
+        "_score": 12.3854,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-19 02:20:28.362177",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1676387472,
+          "editdate": 1676387475,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton bravely discusses his neurological jab injuries: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Remi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1365214
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1185,
+          "lastseents": "2023-02-19T03:05:30.524503",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6352958097727729507",
+        "_score": 12.3854,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-27 01:55:25.171232",
+          "channelabout": "You can support Tommy Robinson news at www.tr.news/support-us",
+          "channeltitle": "Tommy Robinson News",
+          "channelusername": "TommyRobinsonNews",
+          "date": 1676340598,
+          "editdate": 1676340621,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 747,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton bravely discusses his neurological jab injuries: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "peerid": {
+            "channel_id": 1479163323,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1299528948,
+            "comments": true,
+            "max_id": 3798852,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 823070519
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1498856493
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1564609779
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 81,
+            "replies_pts": 6196746
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 41320,
+          "lastseents": "2023-03-17T04:39:42.724528",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5201084341802814361",
+        "_score": 12.3854,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-03-01 09:30:42.516484",
+          "channelabout": "THE DUTCH PATRIOT",
+          "channeltitle": "DUTCH DIGGER NEWS",
+          "channelusername": "maddogholland",
+          "date": 1676364264,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 154,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton bravely discusses his neurological jab injuries: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "peerid": {
+            "channel_id": 1210971815,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "wim visscher",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 10051,
+          "lastseents": "2023-03-17T05:04:17.053599",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6271086683807035867",
+        "_score": 12.3854,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-03-01 09:21:16.026508",
+          "channelabout": "News updates",
+          "channeltitle": "Freedom Gibraltar Channel",
+          "channelusername": "freedomgibraltar",
+          "date": 1676365818,
+          "editdate": 1676365821,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 160,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 44899,
+            "date": 1676340598,
+            "from_id": {
+              "channel_id": 1479163323,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Clapton bravely discusses his neurological jab injuries: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because?utm_campaign=post",
+          "peerid": {
+            "channel_id": 1460101149,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jj P",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1474057897,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 41593
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 67,
+          "lastseents": "2023-03-17T05:04:19.015164",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5811551549939844520",
+        "_score": 12.2587,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 07:32:00.812587",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1676402146,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1372,
+            "date": 1676362097,
+            "from_id": {
+              "channel_id": 1532769559,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Den Covid 19 Betrügern auf den Leim gegangen!\n\nEric Clapton spricht mutig über seine neurologischen COVID-19-Impfstoffverletzungen\n\nEric Clapton: „Ich kann wegen der Schmerzen nicht schlafen, der Impfstoff hat mein Immunsystem geschwächt und es einfach durcheinander gebracht.\n\n\nDr. med. William Makis\n11. Februar\n\n\"Warum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des COVID-19-Impfstoffs von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein „AstraZeneca-Problem“.\n\nEs handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\" \n\nEric Clapton ‘Cocaine’ – from Eric Clapton: Live at the Royal Albert Hall Concert Film\nschmutziges Covid-19:",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 11,
+          "lastseents": "2023-03-17T04:58:34.869633",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6347407316354161070",
+        "_score": 12.2405,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-28 20:52:25.255282",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1676396983,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 175,
+              "offset": 95,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 272,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 283,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 283,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Emily Ratajkowski and fling Eric Andre both pose NAKED in raunchy Valentine's Day post \n\nRead: https://www.dailymail.co.uk/tvshowbiz/article-11750197/Emily-Ratajkowski-fling-Eric-Andre-pose-NAKED-raunchy-Valentines-Day-post.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 54,
+          "lastseents": "2023-03-17T04:45:59.541870",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5354447101273399535",
+        "_score": 11.8941,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-03-01 07:58:01.261715",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1676344764,
+          "editdate": 1676344768,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 107,
+              "offset": 74,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 229,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 251,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 266,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 287,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Canada Tells NYC Mayor Eric Adams To Stop Sending Them Illegal Immigrants\nhttps://www.thegatewaypundit.com/2023/02/canada-tells-nyc-mayor-eric-adams-stop-sending-illegal-immigrants/\nSource: Gateway Pundit \n\nHelp us spread truth! #MAGA ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1122690
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 66,
+          "lastseents": "2023-03-17T05:00:49.661298",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6828976594522998729",
+        "_score": 11.5418,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1678324394",
+          "channelabout": "Live M-F\n10-11 AM MT\n4-5 PM MT\n\nhttps://dlive.tv/ConservativeDaily\n\nhttps://conservative-daily.com/\n\nFollow On:\n\nhttps://podcasts.apple.com/us/podcast/conservative-daily-podcast/id1475796905\n\nhttps://conservative.podbean.com/",
+          "channeltitle": "ConservativeDaily",
+          "channelusername": "ConservativeDaily",
+          "date": 1676389029,
+          "editdate": 1676389033,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 122,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1993,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Jen Snow",
+              "description": "Less than a week after it was reported that New York City Mayor, Eric Adams, was using taxpayer dollars to buy bus tickets to Canada and using the National Guard to hand them out to illegal migrants, Canada has had enough and is asking the Mayor to stop shipping his migrant crisis to its border.",
+              "display_url": "themanhattan.press/2023/02/14/canada-unhappy-with-mayor-eric-adams-sending-them-illegal-migrants-stop-immediately",
+              "hash": 0,
+              "id": 8.76921926336285e+18,
+              "photo": {
+                "access_hash": 3.63215416039168e+18,
+                "date": 1676388996,
+                "dc_id": 4,
+                "file_reference": "AGQJMOBPbT+bikexY/PPa6FDW6zT",
+                "has_stickers": false,
+                "id": 6.00941133069351e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ASgbtysIoy56CqQuZWPAGPSrN+cWxGDkkYqhGWwCBn3qWyoosMoI8xep+8PSkSMlAaRC+cYGCOadngcHpWsJNxsDiky5crvgYcZPT61lKxjYqRg9xS3N1JOeThRyAKmhMd4mJTiVRww7is2riTsMjfGcDGf9rNSpIu0ZHNQgIMBCc5Oc/pSYI4xWkIrl1E5akHUUqMUYMvDDmiioAuyOkuyVAMsNrD3phaZTgR7gO/rRRTA/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 320,
+                    "size": 17690,
+                    "w": 214
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 800,
+                    "size": 100245,
+                    "w": 534
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 1024,
+                    "size": 135575,
+                    "w": 683
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Manhattan",
+              "title": "Canada Unhappy With Mayor Eric Adams Sending Them Illegal Migrants - 'Stop Immediately' - The Manhattan",
+              "type": "photo",
+              "url": "https://themanhattan.press/2023/02/14/canada-unhappy-with-mayor-eric-adams-sending-them-illegal-migrants-stop-immediately/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://themanhattan.press/2023/02/14/canada-unhappy-with-mayor-eric-adams-sending-them-illegal-migrants-stop-immediately/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1589995016,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1180296073,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 8291
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 48,
+          "lastseents": "2023-03-09T01:13:14.287807",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6094192163596081911",
+        "_score": 11.1776,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2023-02-18 23:34:24.485546",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1676339559,
+          "editdate": 1676339602,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 195423657
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "That explains the resistance against any kind of audit, the continued use of electronic equipment and the “blindness” re: ERIC…",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1906480
+          },
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-02-19T00:02:16.106584",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 1.82257687836007e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Francesco",
+            "id": 195423657,
+            "is_self": false,
+            "last_name": "DePopolo",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 8.39338216135961e+17,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 430755,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919971
+              },
+              "photo_small": {
+                "local_id": 430753,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919971
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FrankVoelker",
+            "verified": false,
+            "_id": 195423657,
+            "_media_ref": "500e0dd6091f5ad8d9f3f17bbb953ccf84358ac8",
+            "restriction_reason": []
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5137937043967587268",
+        "_score": 10.7294,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1682668688",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1676359482,
+          "editdate": 1676398488,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/p4rEUdCPtas"
+            },
+            {
+              "length": 33,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 33,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 22,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 487207172
+          },
+          "fwdfrom": {
+            "channel_post": 13210,
+            "date": 1676324771,
+            "from_id": {
+              "channel_id": 1542215405,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "36.5°Celsius",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 144324,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Interview on Vaccination\n\nDa sitzt ein schwer gezeichneter älterer Herr, der wie Dein Nachbar aussieht, in seiner Strickjacke da, und redet über seine zwei missglückten Flüssigkeitsverabreichungen, die ihm nun jeden Tag peinvolle Schmerzen bereiten. -Es ist Mr. Slowhand Eric Clapton, einer der größten Gitarristen, die die Welt kennt. Seine traurige Geschichte treibt mir die Tränen in die Augen...\n\nIm letzten Jahr gab Eric Clapton bei OracleTV ein Interview über seinen derzeitigen Gesundheitszustand. Eric kann kaum noch arbeiten, die Schmerzen verhindern sein Gitarrenspiel. Mr. Slowhand spürt nach zwei Schuss Oxforder Brühe ein nicht mehr aufhörendes Brennen in den Händen.\n\nSein Schicksal teilen inzwischen sehr viele Menschen. Für seine ablehnende Haltung wird und wurde er viel kritisiert, -von allen \"Lagern\", wie er es beschreibt.\n\nWir haben das sehr ergreifende Interview mit deutschen Untertiteln versehen, um auch denen einen Eindruck geben zu können, die des Englischen nicht mächtig sind.",
+              "display_url": "youtube.com/watch?v=p4rEUdCPtas",
+              "embed_height": 720,
+              "embed_type": "iframe",
+              "embed_url": "https://www.youtube.com/embed/p4rEUdCPtas",
+              "embed_width": 1280,
+              "hash": 0,
+              "id": 5.12785630166593e+18,
+              "photo": {
+                "access_hash": -5.47240201907717e+18,
+                "date": 1676324637,
+                "dc_id": 4,
+                "file_reference": "AGRLfGEx/qKKbukFI1fDUbHweQCV",
+                "has_stickers": false,
+                "id": 6.00444442864895e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoysVpadFA8EhmRDtYctx1rOFWrXJguU9UDfkaANDy9PJxiH/v4KqX9tbLEJLYqcHDYbNVY8lto/i96fF83mRLyHQ/pz/SgZWooNFAh6eVtO9mB7YFXLHyjcbFZjvUqcjtiiigCwbKGP7yscepqPz7OFsqgyO/NFFAGfIIusbMeehFFFFAHw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 13409,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51569,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 87437,
+                    "w": 1280
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "YouTube",
+              "title": "Mr. Slowhand Eric Clapton - \"Can't sleep because of the pain\"",
+              "type": "video",
+              "url": "https://youtu.be/p4rEUdCPtas"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "“Can’t sleep because of the pain”\n\nWie Mr. Slowhand Eric Clapton heutzutage unter Schmerzen leidet, nachdem er zwei shots AstraZeneca erhalten hat.\n😥\n🦉",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1173559972
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 198091
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1872,
+          "lastseents": "2023-04-28T07:58:08.844088",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 7.42308186285035e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682668688,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "36.5°Celsius",
+            "id": 487207172,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_id": 2.09253887057289e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIiuWhyZIcbc8EZFFFFFhn",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "BrandenburgTV",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5190566482290951630",
+        "_score": 9.9157,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679089429",
+          "channelabout": "Kontakt 👉 deraktivistmann@gmail.com \n\nVideos: Odysee.com/@AktivistMann\n\nAlternative Nachrichten & mehr. #CoronaKrise #Weltverschwörung #Demonstrationen #AllLivesMatter #GonzoJournalismus\nALLES SATIRE!\n©AktivistMann\n\nZENSIERT auf YouTube.com/AktivistMann",
+          "channeltitle": "🇩🇪 Aktivist Mann #FreeJanich",
+          "channelusername": "aktivistmann",
+          "date": 1676403495,
+          "editdate": 1676403531,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 64,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 24,
+              "offset": 66,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 12,
+              "offset": 485,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.kla.tv/Coronavirus"
+            },
+            {
+              "length": 7,
+              "offset": 498,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.kla.tv/impfen"
+            },
+            {
+              "length": 1,
+              "offset": 505,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.kla.tv/GesundheitMedizin"
+            },
+            {
+              "length": 13,
+              "offset": 506,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.kla.tv/Interviews"
+            },
+            {
+              "length": 13,
+              "offset": 522,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 14,
+              "offset": 564,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 151,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1625,
+            "date": 1636310986,
+            "from_id": {
+              "channel_id": 1446149616,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 17870,
+          "media": {
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "access_hash": -5.37917973624956e+18,
+              "attributes": [
+                {
+                  "duration": 1509,
+                  "h": 480,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 854
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "2021-11-07b_InterviewMitEricClaptonNWasIhn_klaTV-20462_480p.mp4"
+                }
+              ],
+              "date": 1636546544,
+              "dc_id": 2,
+              "file_reference": "AkgImLcAAEXOZBTfCJCTMBam2BnWeobdGTFRyz0=",
+              "id": 5.21568585192466e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 218431792,
+              "thumbs": [
+                {
+                  "bytes": "ARYoggUBe2anB46L+dV4Wyo9asAZ7/pQAnBHbP1oZUCDLYb0prskf32H5U15VKp79qBoYwFFKGBZh3FFAiorsvQ1ILmQd/0oopgRs5diW5NKHI4oooEIWJfdk7j3ooooGQ==",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 180,
+                  "size": 10487,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false
+          },
+          "message": "Interview mit Eric Clapton – Was ihn seine Impfung gelehrt hat\n\n✓ https://www.kla.tv/20462\n\nEric Clapton, bekannter Musiker, schildert in diesem Interview, wie er auf das Impfangebot der britischen Regierung einging, erfasst wurde von heftigen Impfnebenwirkungen – und welchen Prozess das in ihm auslöste. Er hinterfragt nicht nur die Politik seiner Regierung. Vielmehr versucht er die Menschen zusammenzubringen, die jemanden brauchen, der mit ihnen spricht, ohne sie zu verurteilen\n\n#Coronavirus #Impfen #Interviews\n\n👉 @KlagemauerTV - Folge uns auf Telegram\n➡️ www.kla.tv/abo - Abonniere das Original!",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1208522935,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 84,
+                "reaction": "😢",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 17,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 8,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🙏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 6680,
+          "lastseents": "2023-03-17T21:43:49.042712",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6137290442422738129",
+        "_score": 9.3503,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1681489235",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1676413541,
+          "editdate": 1676413545,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 122065,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "NOT EVEN RELATED TO BARRON TRUMP OR TIFFANY TRUMP.....\n\nWAS FATHERED BY ROBERT TRUMPS SPERM EGGS...\nIVANA WAS AND STILL WILL BE DON JR, ERIC TRUMP AND IVANKA PARENTS....\n\nDON'T BELIEVE A WORD FROM THE PRESS, NEWS MEDIA ETC...",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243306
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 54,
+          "lastseents": "2023-04-14T16:20:35.282445",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6137290442422738127",
+        "_score": 9.3503,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1681489235",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1676413498,
+          "editdate": 1676413501,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 122063,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "NOT EVEN RELATED TO BARRON TRUMP OR TIFFANY TRUMP.....\n\nWAS FATHERED BY ROBERT TRUMPS SPERM EGGS...\nIVANA WAS AND STILL WILL BE DON JR, ERIC TRUMP AND IVANKA PARENTS....\n\nDON'T BELIEVE A WORD FROM THE PRESS, NEWS MEDIA ETC...",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243306
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 51,
+          "lastseents": "2023-04-14T16:20:35.340082",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6137290442422738126",
+        "_score": 8.3137,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1681489235",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1676413498,
+          "editdate": 1676413525,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 118,
+              "offset": 229,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 122062,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Samantha Hagio, Humane Society of the United States & Iris Ho, Humane Society International",
+              "description": "Trump Jr. is an avid trophy hunter who uses his wealth to travel across the globe to kill rare animals and has been in hot water over his escapades.",
+              "display_url": "onegreenplanet.org/animalsandnature/list-of-donald-trump-jr-s-shameful-hunting-escapades-around-the-world",
+              "hash": 1141469219,
+              "id": 8.38838027297029e+18,
+              "photo": {
+                "access_hash": 2.63749218782959e+18,
+                "date": 1676413497,
+                "dc_id": 4,
+                "file_reference": "AGQ5fKBOrvGFx4tgR0QhkXv1gwRD",
+                "has_stickers": false,
+                "id": 6.00944251215608e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsozVG4ZxS8IcDrTmY7AFH40tsP9IXeucg9aRTJYoDIhIbBp8EJaZUx81WFRVjIFUJ3kS63Rkjpgik0CYXKtHctHyCKKfPIHJkcgyGihbAyruJGKt2JRJNsnfofSqsfSpK0SIbL1yxgBxzmqDy5U54NTzEsqE8kqM1Tk605RSCLuJmikHWioGc=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 214,
+                    "size": 11608,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 534,
+                    "size": 53084,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 854,
+                    "size": 128079,
+                    "w": 1280
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "w",
+                    "h": 1709,
+                    "size": 399677,
+                    "w": 2560
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "One Green Planet",
+              "title": "List of Donald Trump Jr.’s Shameful Hunting Escapades Around the World",
+              "type": "photo",
+              "url": "https://www.onegreenplanet.org/animalsandnature/list-of-donald-trump-jr-s-shameful-hunting-escapades-around-the-world/"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "NOT EVEN RELATED TO BARRON TRUMP OR TIFFANY TRUMP.....\n\nWAS FATHERED BY ROBERT TRUMPS SPERM EGGS...\nIVANA WAS AND STILL WILL BE DON JR, ERIC TRUMP AND IVANKA PARENTS....\n\nDON'T BELIEVE A WORD FROM THE PRESS, NEWS MEDIA ETC...\n\n\n\nhttps://www.onegreenplanet.org/animalsandnature/list-of-donald-trump-jr-s-shameful-hunting-escapades-around-the-world/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243306
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 52,
+          "lastseents": "2023-04-14T16:20:35.337568",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6313898299338296592",
+        "_score": 8.1946,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-27 01:39:14.517639",
+          "channelabout": "Kanal von Antiilluminaten TV. \nHintergründe & Enthüllungen zu Politik, Corona, NWO, Deep State & Bewusstseinswandel\n\nUnterstützung gerne erwünscht:\nhttps://www.paypal.me/alex081",
+          "channeltitle": "Antiilluminaten TV",
+          "channelusername": "antiilluminaten",
+          "date": 1676378122,
+          "editdate": 1676378174,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 98,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/george_orwell3/status/1625210849139822624?t=zNviwsA3K0q4X3GjZBE-xA&s=19"
+            },
+            {
+              "length": 40,
+              "offset": 148,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 236,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 305,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 372,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 457,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 181,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🇺🇲 Eric Clapton beschreibt die Qualen, nachdem er zwei Impfungen erhalten hat....\n\nQuelle:\n👉🏻 George Orwell3 via Twitter \n\nKrisenvorsorge:\n👉🏻 https://telegra.ph/KRIESENVORSORGE-11-14\n\nMehr kostenfreie Infos und Enthüllungen:\n👉🏻 https://t.me/antiilluminaten\n\nAbonniere hier meinen Notfallkanal:\n🆘 https://t.me/antiillumimaten2\n\nKommentare bitte hier im Chat:\n👉🏻 https://t.me/joinchat/u18uQ0y517A1N2Zi\n\nBÜCHER + KRISENVORSORGE + NATURPRODUKTE\n👉🏻 https://t.me/derbuechershop",
+          "peerid": {
+            "channel_id": 1470069005,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 19312,
+          "lastseents": "2023-03-17T04:39:52.709059",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5712857208682214500",
+        "_score": 7.3655,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1676405622",
+          "channelabout": "",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1676405621,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 298,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 5522547918
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 554084,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "NOT EVERYONE WILL BE APPROVED.\nWe see everything.\nWe know everything.\nQ‼️🇺🇸",
+              "display_url": "t.me/+SKwiuKpXg4xmNmY0",
+              "hash": 0,
+              "id": 3.46374942568451e+18,
+              "photo": {
+                "access_hash": 6.89726228599392e+18,
+                "date": 1674829772,
+                "dc_id": 4,
+                "file_reference": "AGPr63VBQM2LuTyGkSn5Ku6bUxLN",
+                "has_stickers": false,
+                "id": 5.9538660605476e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 6986,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 18565,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 39337,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgooYFGKKdwoBIBJ6D/ABqwBAu75ulS7YfemJI+7nDfVQasZ8xGYQxoUHIB6/QVDLWxFth96KduH/POikMj8h6fJbvhT8uCOx6Uu0f89KUFY0YbVfPfOGFO5PKNiiZX5A54BJwAanEcis29Ym2ju38qr4Xb/rk+mTn8sU9WRownlRp6OW5H1pFJWD977UUm0f8APSigBu6H0NG6H0NFFBVg3w+9G6H0NFFAWDdD6GiiigLH"
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "Private Q Evidence 🇺🇸",
+              "type": "telegram_channel_request",
+              "url": "https://t.me/+SKwiuKpXg4xmNmY0"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨🚨🚨 SHOCK NEWS 🚨🚨🚨\n\nIt is SCARY! You don't want to miss this. 😱😱\n\nThe full video of the brutal beating of Eric TRUMP by American police officers has been released..😱😱\n\nWhat is the reason????\nYou can watch the whole video below in the channel until it is deleted..⤵️⤵️\n\nWATCH HERE!!! 👇👇\nhttps://t.me/+SKwiuKpXg4xmNmY0\n\n🆘 This channel is private for safety\nreasons.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 554082,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-02-14T20:25:30.962154",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.64306568043509e+18,
+            "apply_min_photo": true,
+            "archivedon": 1676405622,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Marsek",
+            "id": 5522547918,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOnline",
+              "expires": 1676405819
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4539800227376834661",
+        "_score": 7.1136,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1682655005",
+          "channelabout": "",
+          "channeltitle": "Impfkritik",
+          "channelusername": "impfkritisch",
+          "date": 1676368116,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 137,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 193,
+              "offset": 369,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 206,
+              "offset": 1189,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 64,
+              "offset": 1757,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 165,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1695672351
+          },
+          "fwdfrom": {
+            "channel_post": 20778,
+            "date": 1676366262,
+            "from_id": {
+              "channel_id": 1208938166,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 567397,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+              "hash": 0,
+              "id": 1.32894087897438e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGRLRrTCPQx0rqfJ9CCmO6uojEGX",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Substack",
+              "title": "Musicians Injured - Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "💉 Eric Clapton: \"Ich kann wegen der Schmerzen nicht schlafen...der Impfstoff hat mein Immunsystem genommen und es einfach durchgeschüttelt\"‼️\n\nVin Dr. med. William Makis\n\nWarum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des Impfstoffs COVID-19 von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein \"AstraZeneca-Problem\".\n\n👉 Es handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\n\n\"Im Oktober desselben Jahres (2021) erhielt ich meine erste Impfung (Moderna). Innerhalb weniger Tage begann ich, schwere und unerträgliche stechende Schmerzen und Lähmungen in meinen Händen und Füßen zu spüren.\n\n\"Mit der Zeit verschlimmerte sich mein Zustand; ich fragte die Ärzte im Krankenhaus, ob ich jemals wieder 'richtig' laufen würde, und sie gaben mir keine Antwort.\n\n\"Kurz nach dem zweiten Schuss verschlimmerten sich meine Verletzungen weiter und ich konnte mich nicht mehr bewegen, meine Hände fühlten sich an, als würden sie brennen... Ich wurde erneut ins Krankenhaus gebracht und dachte, mein Leben sei vorbei.\n\n\"Ich leide weiterhin unter starken Schmerzen aufgrund von Neuropathie und neurologischen Nervenschäden durch das Moderna Spike Vax....Neuropathie war in keiner meiner Einverständniserklärungen aufgeführt.\n\n\"In Australien werden Ärzte untersucht und disziplinarisch belangt, wenn sie schriftlich bestätigen, dass ein COVID-Impfstoff bei einem Patienten eine Verletzung verursacht hat. Ich habe mir von 5 verschiedenen Ärzten bestätigen lassen, dass mein Zustand durch den Impfstoff verursacht wurde, und sie alle sagten, dass sie das nicht zu Protokoll geben können.\"\n\nhttps://makismd.substack.com/p/eric-clapton-i-cant-sleep-because",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1057004609,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 714272
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 8571,
+          "lastseents": "2023-04-28T04:10:05.989171",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.99936037361003e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682655005,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Astrid",
+            "id": 1695672351,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6215429366554378429",
+        "_score": 5.9417,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-02-27 01:56:52.25835",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "channelusername": "Nelsonpeopleawake",
+          "date": 1676403073,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 13,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 48,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 68,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 445,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 474,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1074,
+            "date": 1676307016,
+            "from_id": {
+              "channel_id": 1540895952,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨🚨🚨🚨🚨🚨\nFCB D3CODE\nTRUTH NEWS\n🚨🚨🚨🚨🚨🚨\n📣📣📣📣📣📣\nSEEKERS: JOHN\nSEEKING TRUTH\n🎥🎥🎥🎥🎥🎥\n\nNEW YORK MAYOR DOUBLES DOWN ON PHARMACIDE!!\n \nIN THE WAKE OF THE GROWING MOUNTAIN OF REPORTS CONFIRMING DEATHS AND INJURIES RESULTING FROM THE POISON JAB, NEW YORK MAYOR ERIC ADAMS IS CALLING FOR MORE VAX MANDATES.\n  \nSOMETHING TELLS ME NEW YORKERS WON’T SIT STILL FOR THIS OBVIOUS ATTACK ON THEIR CITY.  I PRAY THAT I'M RIGHT.\n\n🎥🎥🎥🎥🎥🎥\nTRUTH FOR LIFE\n📣📣📣📣📣📣\n\nhttps://trendingpoliticsnews.com/top-democrat-calls-for-bringing-back-vax-mandates-wiley/",
+          "peerid": {
+            "channel_id": 1447142420,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 36,
+          "lastseents": "2023-03-17T04:39:50.759865",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5063559007948747975",
+        "_score": 5.7301,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679881243",
+          "channelabout": "Grupo de difusión variada de información.\n\nLos integrantes pueden debatir  respetando a los demás.\n\n🔴Enlace de invitación🔴 👇\n\nt.me/Bretpanther\n\n🔴Canal del grupo🔴👇\n\nhttps://t.me/LaCuevadelLoboRojo",
+          "channeltitle": "Noticias Ocultas Patriot 🚫💉🚫",
+          "channelusername": "Bretpanther",
+          "date": 1676401617,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 89,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 90,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 104,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 70,
+              "offset": 727,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 804,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 982169978
+          },
+          "fwdfrom": {
+            "channel_post": 29546,
+            "date": 1676401257,
+            "from_id": {
+              "channel_id": 1159747669,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 242887,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "👮🏻‍♂️ Detenido en prisión el líder de los Latin Kings por continuar dirigiendo la banda #GuardiaCivil #Inmigración \n\n◾️ La Guardia Civil ha golpeado el corazón de la banda latina Latin Kings con la detención de su fundador -en prisión desde 2003 por violar a punta de pistola a mujer- y de otras 15 personas en un dispositivo desarrollado en Madrid y Galicia que continúa abierto.\n\n◾️ Eric Velastegui continuaba dirigiendo la organización desde la prisión de Teijeiro (La Coruña), donde se le ha comunicado su arresto. \n\n◾️ Todos los arrestados están acusados de pertenencia a organización criminal y tráfico de drogas, entre otros delitos. El operativo ha sido desarrollado por la Jefatura de Información de la Benemérita.\n\nhttps://www.elmundo.es/espana/2023/02/14/63eb984cfdddfff1598b459e.html\n\n🇪🇸 t.me/info288_nacional",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1178951703,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 390304
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1889,
+          "lastseents": "2023-03-27T01:40:43.793637",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.52916301001845e+17,
+            "apply_min_photo": true,
+            "archivedon": 1679881243,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Roberto",
+            "id": 982169978,
+            "is_self": false,
+            "last_name": "Sanchez",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 4,
+              "has_video": false,
+              "photo_id": 4.21838793507928e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIYYkDY3Aj6UUUVXtGLkR/",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1679873953
+            },
+            "support": false,
+            "username": "Robertosama",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5701205048307095754",
+        "_score": 5.6239,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1678945566",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\nMitstreiter sind es zZ ca 40 Menschen \ndie jeweils ihre Interessen posten. \nVllt ist für den Einen oder Anderen etwas dabei.\nViel Spaß & gemütliches Chatten \n\nhttps://t.me/+35Bgo-R3OfM3MWZi",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "date": 1676358527,
+          "editdate": 1676388050,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 137,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 369,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 204,
+              "offset": 1189,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 1757,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            {
+              "length": 13,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            {
+              "length": 30,
+              "offset": 1800,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1830,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreieMedienTV"
+            },
+            {
+              "length": 7,
+              "offset": 1839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FreieMedienTV"
+            },
+            {
+              "length": 10,
+              "offset": 1847,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freiemedien.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1858,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/freiemedien"
+            },
+            {
+              "length": 7,
+              "offset": 1864,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bastyon.com/freiemedien?ref=P8sSu2qFnVPGEtnSTKYRMUzuG3xBHsj3ms"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18036,
+            "date": 1676316509,
+            "from_id": {
+              "channel_id": 1118691233,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 137418,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en",
+              "hash": 0,
+              "id": 4.39849236387231e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGQSrPP6yXc8paNVxMnu/ECFrygz",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "makismd-substack-com.translate.goog",
+              "title": "Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "💉 Eric Clapton: \"Ich kann wegen der Schmerzen nicht schlafen...der Impfstoff hat mein Immunsystem genommen und es einfach durchgeschüttelt\"‼️\n\nVin Dr. med. William Makis\n\nWarum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des Impfstoffs COVID-19 von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein \"AstraZeneca-Problem\".\n\n👉 Es handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\n\n\"Im Oktober desselben Jahres (2021) erhielt ich meine erste Impfung (Moderna). Innerhalb weniger Tage begann ich, schwere und unerträgliche stechende Schmerzen und Lähmungen in meinen Händen und Füßen zu spüren.\n\n\"Mit der Zeit verschlimmerte sich mein Zustand; ich fragte die Ärzte im Krankenhaus, ob ich jemals wieder 'richtig' laufen würde, und sie gaben mir keine Antwort.\n\n\"Kurz nach dem zweiten Schuss verschlimmerten sich meine Verletzungen weiter und ich konnte mich nicht mehr bewegen, meine Hände fühlten sich an, als würden sie brennen... Ich wurde erneut ins Krankenhaus gebracht und dachte, mein Leben sei vorbei.\n\n\"Ich leide weiterhin unter starken Schmerzen aufgrund von Neuropathie und neurologischen Nervenschäden durch das Moderna Spike Vax....Neuropathie war in keiner meiner Einverständniserklärungen aufgeführt.\n\n\"In Australien werden Ärzte untersucht und disziplinarisch belangt, wenn sie schriftlich bestätigen, dass ein COVID-Impfstoff bei einem Patienten eine Verletzung verursacht hat. Ich habe mir von 5 verschiedenen Ärzten bestätigen lassen, dass mein Zustand durch den Impfstoff verursacht wurde, und sie alle sagten, dass sie das nicht zu Protokoll geben können.\"\n\nZum Artikel auf deutsch 🔗\n\nOriginal Link\n\nFreieMedien Kanäle abonnieren\nTelegram|Twitter|Newsletter|Gettr|Bastyon",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1327415241,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Andreas",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": []
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 193,
+          "lastseents": "2023-03-16T05:46:06.352220",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5756752521771167889",
+        "_score": 5.6239,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1678942716",
+          "channelabout": "📌 #News über #Politik #Wirtschaft #Gesundheit #NWO #GlobalPolitik #5G #AxelBurkart #Spiritualität und mehr...\n🎙Euer Radio: #OKiTALK\n 🖍Systemkritik: @RubikonNews @AntiSpiegel \n😳PODCAST-Kanal\nt.me/b_info_audio\n🖍 Seid dabei im Chat:\nt.me/buergerinfochat",
+          "channeltitle": "BÜRGER 📯 INFORMATIVE - 🗞 News",
+          "channelusername": "buergerinformative",
+          "date": 1676403879,
+          "editdate": 1676404968,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 137,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 369,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 204,
+              "offset": 1189,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 1757,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            {
+              "length": 13,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            {
+              "length": 30,
+              "offset": 1800,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1830,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreieMedienTV"
+            },
+            {
+              "length": 7,
+              "offset": 1839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FreieMedienTV"
+            },
+            {
+              "length": 10,
+              "offset": 1847,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freiemedien.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1858,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/freiemedien"
+            },
+            {
+              "length": 7,
+              "offset": 1864,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bastyon.com/freiemedien?ref=P8sSu2qFnVPGEtnSTKYRMUzuG3xBHsj3ms"
+            }
+          ],
+          "forwards": 30,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 63581,
+            "date": 1676399511,
+            "from_id": {
+              "channel_id": 1204275498,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 77969,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en",
+              "hash": 0,
+              "id": 4.39849236387231e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGQSocqCdovJQoufspmcPVy4es0S",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "makismd-substack-com.translate.goog",
+              "title": "Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "💉 Eric Clapton: \"Ich kann wegen der Schmerzen nicht schlafen...der Impfstoff hat mein Immunsystem genommen und es einfach durchgeschüttelt\"‼️\n\nVin Dr. med. William Makis\n\nWarum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des Impfstoffs COVID-19 von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein \"AstraZeneca-Problem\".\n\n👉 Es handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\n\n\"Im Oktober desselben Jahres (2021) erhielt ich meine erste Impfung (Moderna). Innerhalb weniger Tage begann ich, schwere und unerträgliche stechende Schmerzen und Lähmungen in meinen Händen und Füßen zu spüren.\n\n\"Mit der Zeit verschlimmerte sich mein Zustand; ich fragte die Ärzte im Krankenhaus, ob ich jemals wieder 'richtig' laufen würde, und sie gaben mir keine Antwort.\n\n\"Kurz nach dem zweiten Schuss verschlimmerten sich meine Verletzungen weiter und ich konnte mich nicht mehr bewegen, meine Hände fühlten sich an, als würden sie brennen... Ich wurde erneut ins Krankenhaus gebracht und dachte, mein Leben sei vorbei.\n\n\"Ich leide weiterhin unter starken Schmerzen aufgrund von Neuropathie und neurologischen Nervenschäden durch das Moderna Spike Vax....Neuropathie war in keiner meiner Einverständniserklärungen aufgeführt.\n\n\"In Australien werden Ärzte untersucht und disziplinarisch belangt, wenn sie schriftlich bestätigen, dass ein COVID-Impfstoff bei einem Patienten eine Verletzung verursacht hat. Ich habe mir von 5 verschiedenen Ärzten bestätigen lassen, dass mein Zustand durch den Impfstoff verursacht wurde, und sie alle sagten, dass sie das nicht zu Protokoll geben können.\"\n\nZum Artikel auf deutsch 🔗\n\nOriginal Link\n\nFreieMedien Kanäle abonnieren\nTelegram|Twitter|Newsletter|Gettr|Bastyon",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1340348395,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "chris huber",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 10,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "😢",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1244,
+          "lastseents": "2023-03-16T04:58:36.811502",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5283167231323397784",
+        "_score": 5.6239,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679071157",
+          "channelabout": "Digitale Army\nhttps://t.me/georgenews\nWahrheit Freiheit Liebe\nAnon's Netzwerk-DE/Worldwide \nUnzensierte Meldungen aus der ganzen Welt.\ngermanyqanon@gmail.com\nWir sind viele... \nWir lieben die Menschen ❤\nAlle Macht zurück zum Volk.\nWWG1WGA🕊\nLICHT U. LIEBE",
+          "channeltitle": "🕊QANONYMOUS KANAL DEUTSCHLAND️ 🌍 USA Patriots United",
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "date": 1676414658,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 137,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 369,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 204,
+              "offset": 1189,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 1757,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            {
+              "length": 13,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://makismd.substack.com/p/eric-clapton-i-cant-sleep-because"
+            },
+            {
+              "length": 30,
+              "offset": 1800,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1830,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreieMedienTV"
+            },
+            {
+              "length": 7,
+              "offset": 1839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/FreieMedienTV"
+            },
+            {
+              "length": 10,
+              "offset": 1847,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://freiemedien.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1858,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/freiemedien"
+            },
+            {
+              "length": 7,
+              "offset": 1864,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://bastyon.com/freiemedien?ref=P8sSu2qFnVPGEtnSTKYRMUzuG3xBHsj3ms"
+            }
+          ],
+          "forwards": 23,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 63581,
+            "date": 1676399511,
+            "from_id": {
+              "channel_id": 1204275498,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 253592,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Dr. William Makis MD",
+              "description": "Watch now (7 min) | Eric Clapton bravely discusses his neurological COVID-19 vaccine injuries",
+              "display_url": "makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en",
+              "hash": 0,
+              "id": 4.39849236387231e+18,
+              "photo": {
+                "access_hash": 5.48067731521021e+18,
+                "date": 1676094535,
+                "dc_id": 4,
+                "file_reference": "AGQUl7N/u3f9Xo8wG91HgGYuaqmh",
+                "has_stickers": false,
+                "id": 5.99782885186822e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcomUZIyKeQPSoYcDGKnPSgBj/KuePyojYOvQZ+lRT3CIfL6sf0qD7U0DAMMg9RQBdIHpRSK4kQOvQ0UAVoJAcVZLjbRRSAzywe/JPQGm3mMoKKKsXUs2pUWqc+vb3oooqRnw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 12226,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 51974,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 600,
+                    "w": 1067,
+                    "sizes": [7407, 14795, 19545, 30448, 57629]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "makismd-substack-com.translate.goog",
+              "title": "Eric Clapton: \"I can't sleep because of the pain...the vaccine took my immune system and just shook it around\"",
+              "type": "photo",
+              "url": "https://makismd-substack-com.translate.goog/p/eric-clapton-i-cant-sleep-because?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "💉 Eric Clapton: \"Ich kann wegen der Schmerzen nicht schlafen...der Impfstoff hat mein Immunsystem genommen und es einfach durchgeschüttelt\"‼️\n\nVin Dr. med. William Makis\n\nWarum ist die Geschichte von Eric Clapton so wichtig? Er mag durch zwei Dosen des Impfstoffs COVID-19 von AstraZeneca geschädigt worden sein, aber dies ist nicht nur ein \"AstraZeneca-Problem\".\n\n👉 Es handelt sich um ein Spike-Protein-Problem - unabhängig von der Plattform, die das Spike-Protein in Ihren Körper einbringt (Pfizer, Moderna, J&J, AstraZeneca, Novavax, Sputnik, Covishield).\n\n\"Im Oktober desselben Jahres (2021) erhielt ich meine erste Impfung (Moderna). Innerhalb weniger Tage begann ich, schwere und unerträgliche stechende Schmerzen und Lähmungen in meinen Händen und Füßen zu spüren.\n\n\"Mit der Zeit verschlimmerte sich mein Zustand; ich fragte die Ärzte im Krankenhaus, ob ich jemals wieder 'richtig' laufen würde, und sie gaben mir keine Antwort.\n\n\"Kurz nach dem zweiten Schuss verschlimmerten sich meine Verletzungen weiter und ich konnte mich nicht mehr bewegen, meine Hände fühlten sich an, als würden sie brennen... Ich wurde erneut ins Krankenhaus gebracht und dachte, mein Leben sei vorbei.\n\n\"Ich leide weiterhin unter starken Schmerzen aufgrund von Neuropathie und neurologischen Nervenschäden durch das Moderna Spike Vax....Neuropathie war in keiner meiner Einverständniserklärungen aufgeführt.\n\n\"In Australien werden Ärzte untersucht und disziplinarisch belangt, wenn sie schriftlich bestätigen, dass ein COVID-Impfstoff bei einem Patienten eine Verletzung verursacht hat. Ich habe mir von 5 verschiedenen Ärzten bestätigen lassen, dass mein Zustand durch den Impfstoff verursacht wurde, und sie alle sagten, dass sie das nicht zu Protokoll geben können.\"\n\nZum Artikel auf deutsch 🔗\n\nOriginal Link\n\nFreieMedien Kanäle abonnieren\nTelegram|Twitter|Newsletter|Gettr|Bastyon",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1512,
+          "lastseents": "2023-03-17T16:39:17.291798",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5317283758578142649",
+        "_score": 5.5358,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1679058712",
+          "channelabout": "",
+          "channeltitle": "Patriot Party Alabama",
+          "channelusername": "PatriotPartyAlabama",
+          "date": 1676356214,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 459323414
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 69049,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Welcome Eric Hawkins\nPatriot Party National Chat Guidelines\n\nWe the people are building a political party within each state to push for actual representation. This is the main national chat, please view the pin for your state's chat room (where you live and vote). Let's stick to communicating about the party and organizing at the local level. Spread the word!\n\nPlease do not use this as an echo chamber of news/forwards/link spamming. Five links spammed will result in a ban.  \n\nEveryone is from a different background and has different knowledge, skills and perspective, so be kind, courteous and DO NOT incite or encourage violence of any kind (you will be banned)\n\nThank you for your interested and dedication patriot. Let’s be the change we want to see.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1238026600,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 81995
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-03-17T13:11:52.485708",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 6.21741765979474e+18,
+            "apply_min_photo": true,
+            "archivedon": 1679058712,
+            "attach_menu_enabled": false,
+            "bot": true,
+            "bot_attach_menu": false,
+            "bot_chat_history": true,
+            "bot_info_version": 14,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Group Guardian",
+            "id": 459323414,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 1.97277904187331e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgInR5nvsOiqVOOhBI9c+lFFFAH",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "GroupGuardianBot",
+            "verified": false,
+            "restriction_reason": {}
+          }
+        }
+      }
+    ]
+  }
+}

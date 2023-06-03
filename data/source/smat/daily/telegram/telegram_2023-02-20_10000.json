@@ -1,0 +1,591 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [42],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [9],
+      "relation": ["eq"]
+    },
+    "max_score": [13.6553],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5361172414468395381",
+        "_score": 13.6553,
+        "_source": {
+          "archivedon": "2023-02-28 20:49:13.592047",
+          "channelabout": "The Official @PearFEED Discussion Group Chat",
+          "channeltitle": "PearFEED Chat",
+          "date": 1676929224,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2077061755
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric prince ally",
+          "peerid": {
+            "channel_id": 1248245224,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 201032
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 2077061755,
+            "_v": 1,
+            "access_hash": -5.32391374577441e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Randy",
+            "id": 2077061755,
+            "is_self": false,
+            "last_name": "Algo",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-03-17T04:45:59.282379"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5218245175694876770",
+        "_score": 13.4766,
+        "_source": {
+          "archivedon": "1684032158",
+          "channelabout": "",
+          "channeltitle": "Donald Trump Jr Chat",
+          "date": 1676864657,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 5684893210
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Lol who is Eric",
+          "peerid": {
+            "channel_id": 1214967383,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 3170396,
+            "reply_to_top_id": 3163803,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 7.37933793631629e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 5684893210,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1684032158,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-14T02:42:38.707403",
+          "channelusername": "TrumpJrChat",
+          "collected_by": "crawler",
+          "id": 3170402,
+          "noforwards": false,
+          "url": "t.me/TrumpJrChat/3170402"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6215429366554378910",
+        "_score": 11.933,
+        "_source": {
+          "archivedon": "2023-02-27 01:56:56.15452",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "date": 1676928466,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 9566,
+            "date": 1676928253,
+            "from_id": {
+              "channel_id": 1631581136,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "https://www.si.com/nfl/2023/02/19/former-nfl-db-eric-johnson-charged-human-trafficking",
+          "peerid": {
+            "channel_id": 1447142420,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 32,
+          "lastseents": "2023-03-17T04:39:50.412285",
+          "channelusername": "Nelsonpeopleawake"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5218245175694876792",
+        "_score": 11.4175,
+        "_source": {
+          "archivedon": "1684032158",
+          "channelabout": "",
+          "channeltitle": "Donald Trump Jr Chat",
+          "date": 1676864911,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1381906937
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "So either Eric has 2 devices🤔\n\nOr I have 2 of em triggered 😂😁😂😁",
+          "peerid": {
+            "channel_id": 1214967383,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 3170422,
+            "reply_to_top_id": 3163803,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.5782366199541e+16,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Jupiter",
+            "id": 1381906937,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_id": 6.08033104186584e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIrs4K4c/Xmiiik7dh3uc="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "GLUECKJUPlTER",
+            "verified": false,
+            "archivedon": 1684032158,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-14T02:42:38.714182",
+          "channelusername": "TrumpJrChat",
+          "collected_by": "crawler",
+          "id": 3170424,
+          "noforwards": false,
+          "url": "t.me/TrumpJrChat/3170424"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6395918709969434439",
+        "_score": 8.9736,
+        "_source": {
+          "archivedon": "2023-03-01 02:33:03.133286",
+          "channelabout": "An unofficial channel of the Epoch Times, an independent, award-winning voice in print & online integrity & truthfulness in reporting.",
+          "channeltitle": "Epoch Times",
+          "date": 1676932993,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 3,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 87,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 23,
+              "offset": 268,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "RT @EpochOpinion: Opinion💭by Eric Abetz The “Biloela family” was allowed to remain in #Australia despite every review of their status determining they were not refugees. In doing so, another family languishing in a refugee camp was denied entry. Hardly humanitarian. https://t.co/hf55Ihrchz",
+          "peerid": {
+            "channel_id": 1489165870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 100,
+          "lastseents": "2023-03-17T04:46:59.759258",
+          "channelusername": "EpochTimesChannel"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6539863881764847920",
+        "_score": 8.4368,
+        "_source": {
+          "archivedon": "2023-02-28 21:26:47.277201",
+          "channeltitle": "Chat AU Epoch Times",
+          "date": 1676857901,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 116,
+              "offset": 264,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1553024948
+          },
+          "fwdfrom": {
+            "channel_post": 8815,
+            "date": 1676857898,
+            "from_id": {
+              "channel_id": 1553024948,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 8815,
+            "saved_from_peer": {
+              "channel_id": 1553024948,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Opinion by 💭Eric Abetz\n\nWhen the government’s ministerial portfolios and departments are allocated and the distribution of responsibilities occurs, there is the posturing, the elbowing, and chest-puffing as the players try to increase their sphere of influence.\n\nhttps://www.theepochtimes.com/turf-warfare-within-government-ranks-does-not-serve-the-nations-interests_5064565.html",
+          "peerid": {
+            "channel_id": 1522680717,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 16689,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 27516
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 111,
+          "lastseents": "2023-03-17T04:46:15.282966"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6670191361532109423",
+        "_score": 8.4368,
+        "_source": {
+          "archivedon": "2023-02-28 21:26:31.019926",
+          "channelabout": "Australian edition of the Epoch Times. An independent voice in print & online news. Integrity & truthfulness in reporting.\n\nhttps://www.theepochtimes.com/australia",
+          "channeltitle": "Epoch Times Australia",
+          "date": 1676857898,
+          "editdate": 1676857901,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 116,
+              "offset": 264,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Opinion by 💭Eric Abetz\n\nWhen the government’s ministerial portfolios and departments are allocated and the distribution of responsibilities occurs, there is the posturing, the elbowing, and chest-puffing as the players try to increase their sphere of influence.\n\nhttps://www.theepochtimes.com/turf-warfare-within-government-ranks-does-not-serve-the-nations-interests_5064565.html",
+          "peerid": {
+            "channel_id": 1553024948,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1522680717,
+            "comments": true,
+            "max_id": 16689,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1905631916
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 27516
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 111,
+          "lastseents": "2023-03-17T04:46:15.637557",
+          "channelusername": "EpochTimesAU"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "4599600813680131089",
+        "_score": 8.4368,
+        "_source": {
+          "archivedon": "2023-02-27 02:59:02.992596",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "date": 1676934853,
+          "editdate": 1676934856,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 317,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "This morning, New York City Mayor Eric Adams greeted Florida Gov. Ron DeSantis with a snarky tweet prior to the Republican star's visit to Staten Island. Adams, a Democrat, has often clashed with Florida's governor over DeSantis's decision to deport migrants to the Northeast and the state's \"Don't Say Gay\" statute.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 119738
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1149,
+          "lastseents": "2023-03-17T04:40:41.881859",
+          "channelusername": "YidInfo"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "7126222850058370274",
+        "_score": 5.0384,
+        "_source": {
+          "archivedon": "2023-02-27 11:49:53.142338",
+          "channelabout": "Top-notch English-language journalism in Ukraine.\nBecome our patron here: http://patreon.com/kyivindependent\n\nThe only official channel of Kyiv Independent.",
+          "channeltitle": "The Kyiv Independent",
+          "date": 1676909860,
+          "editdate": 1676909885,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 36,
+              "offset": 853,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://kyivindependent.com/explaining-ukraine/euro-maidan-revolution"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34152788861015e+16,
+          "message": "Exactly 9 years ago on Feb. 20, 2014, Ukraine was going through the bloodiest day in the 3-month-long EuroMaidan Revolution.\n\nIt started when the government of pro-Kremlin President Viktor Yanukovych halted preparations for the signing of the Ukraine-EU association agreement on Nov. 21, 2013. In protest with the move, hundreds of people gathered for a peaceful demonstration on Kyiv's Independence Square. On Nov. 30, the protesters were brutally beaten by police, sparking a nationwide uprising against Yanukovych's rule. After 3 months of the authorities’ failed attempts to clear out the streets, the revolution culminated on Feb. 18-20, with law enforcement firing at unarmed protesters and killing about 100 of them.\n\nOn Feb. 20, the parliament, including Yanukovych’s party members, voted to condemn the violence. Yanukovych soon fled Ukraine.\n\nRead about the EuroMaidan Revolution\n\nPhotos: Eric Bouvet/Gamma-Rapho, Jeff J Mitchell, NurPhoto/Corbis, Alexander Koerner, Bulent Kilic, Piero Quaranta/AFP/Getty Images.",
+          "peerid": {
+            "channel_id": 1659203053,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6649,
+          "lastseents": "2023-03-17T04:41:39.501744",
+          "channelusername": "KyivIndependent_official",
+          "mediaref": "eb6ef838ddb4e34c62b0c45e4c4ffee55f9baef7"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

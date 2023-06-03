@@ -1,0 +1,1856 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [51],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [12.6802],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6074182254559517706",
+        "_score": 12.6802,
+        "_source": {
+          "archivedon": "2022-12-29 04:24:23.429551",
+          "channeltitle": "MurderTheMedia",
+          "channelusername": "ThunderdomeTV",
+          "date": 1672282815,
+          "editdate": 1672283407,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric is running late (lol)\n\nShow will start when he arrives",
+          "peerid": {
+            "channel_id": 1414255764,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1741791127,
+            "comments": true,
+            "max_id": 3174,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1392081259
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1233235078
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 860056893
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 5216
+          },
+          "silent": false,
+          "v": 1,
+          "views": 345,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5712857208682203583",
+        "_score": 11.2009,
+        "_source": {
+          "archivedon": "1673559379",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1672332513,
+          "editdate": 1672336567,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 73,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 166,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 74,
+              "offset": 259,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "channel_id": 1343572701,
+            "reformatted_key": "PeerChannel"
+          },
+          "fwdfrom": {
+            "channel_post": 62708,
+            "date": 1672332510,
+            "from_id": {
+              "channel_id": 1343572701,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 62708,
+            "saved_from_peer": {
+              "channel_id": 1343572701,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "<p>NTD spoke with author Eric Metaxas, who has written a number of books on religion, and his latest is called “Letter to the American Church.” Metaxas talks about the culture war taking place in America right now and his stance on where the Church stands.<\/p>",
+              "display_url": "ntd.com/eric-metaxas-letter-to-the-american-church_891539.html",
+              "hash": 0,
+              "id": 8.69208004364106e+17,
+              "photo": {
+                "access_hash": -4.4542796484051e+18,
+                "date": 1672332491,
+                "dc_id": 4,
+                "file_reference": "AGPAfVJ/zPgb6nQp8aNEqcBpuB21",
+                "has_stickers": false,
+                "id": 5.86984374847994e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUopnIJU8UEnf8AeGQOtLKcztxnmmEgZ+Xj+VbEFi1znduAI6U/zyYpIsHjvVaOZAMECkaXDEdPpWX2i9LFnfiRDsO1BRVcOzHgk5oq7EkYJL5zg80x8lsE0UUSBDpYzGFIbn6U+BFlJDjJPOc0UVmWNtwWJGcUUUVaJZ8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 11376,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 420,
+                    "size": 39511,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 630,
+                    "w": 1200,
+                    "sizes": [10245, 22051, 27355, 37330, 63490]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "https://www.ntd.com",
+              "title": "Eric Metaxas: ‘Letter to the American Church’",
+              "type": "photo",
+              "url": "https://www.ntd.com/eric-metaxas-letter-to-the-american-church_891539.html"
+            }
+          },
+          "message": "NTD spoke with author Eric Metaxas, who has written a number of books on #religion, and his latest is called “Letter to the American Church.” Metaxas talks about the #CultureWar taking place in America right now and his stance on where the Church stands.  \n \nhttps://www.ntd.com/eric-metaxas-letter-to-the-american-church_891539.html",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 928284
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1018,
+          "channelabout": "",
+          "id": 543167,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5770600810593449204",
+        "_score": 11.2009,
+        "_source": {
+          "archivedon": "2022-12-29 17:50:17.795672",
+          "channeltitle": "NTD",
+          "channelusername": "NTDNews",
+          "date": 1672332510,
+          "editdate": 1672332513,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 73,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 166,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 74,
+              "offset": 259,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NTD spoke with author Eric Metaxas, who has written a number of books on #religion, and his latest is called “Letter to the American Church.” Metaxas talks about the #CultureWar taking place in America right now and his stance on where the Church stands.  \n \nhttps://www.ntd.com/eric-metaxas-letter-to-the-american-church_891539.html",
+          "peerid": {
+            "channel_id": 1343572701,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1330128221,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 919674
+          },
+          "silent": false,
+          "v": 1,
+          "views": 342,
+          "channelabout": "Your independent voice in TV news—bringing back reliable, honest news reporting.\nWebsite: http://ntd.com \nNewsletter sign up: http://newsletter.ntd.com \nWatch NTD on cable: http://NTDAmerica.com \nSupport us: http://ntd.com/support-us.html",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5354447101273377072",
+        "_score": 10.34,
+        "_source": {
+          "archivedon": "2022-12-29 18:17:17.612641",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1672332511,
+          "editdate": 1672332516,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 73,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 166,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 74,
+              "offset": 259,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 370,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 392,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 407,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 428,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NTD spoke with author Eric Metaxas, who has written a number of books on #religion, and his latest is called “Letter to the American Church.” Metaxas talks about the #CultureWar taking place in America right now and his stance on where the Church stands.  \n \nhttps://www.ntd.com/eric-metaxas-letter-to-the-american-church_891539.html\nSource: NTD \n\nHelp us spread truth! #MAGA ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1054526
+          },
+          "silent": false,
+          "v": 1,
+          "views": 18,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5737762787728330171",
+        "_score": 8.7993,
+        "_source": {
+          "archivedon": "2022-12-29 15:10:52.495393",
+          "channeltitle": "The Conspiracy Hole",
+          "channelusername": "TheConspiracyHole",
+          "date": 1672322162,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 39,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 40,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/cAr7yWnTBDY"
+            },
+            {
+              "length": 252,
+              "offset": 51,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 33,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Astronomical Violations of Perspective \nEric Dubay\nAstronomical Violations of Perspective was an essay published in The Earth Review magazine October, 1893 by flat earther Albert Smith detailing the law of perspective and debunking the popular globe-Earth proof of ships disappearing beyond the horizon.",
+          "peerid": {
+            "channel_id": 1335927003,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "mingming the merciful",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2034,
+          "channelabout": "‘Those who are able to see beyond the shadows and lies of their culture will never be understood, let alone believed, by the masses.’",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5592478299101093460",
+        "_score": 8.6454,
+        "_source": {
+          "archivedon": "2022-12-29 04:01:03.236975",
+          "channeltitle": "East Coast News & Discussion",
+          "channelusername": "eastcoast_intel",
+          "date": 1672283700,
+          "editdate": 1672283703,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 9216,
+            "date": 1672254706,
+            "from_id": {
+              "channel_id": 1392160803,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "NYC Mayor Eric Adams defends Virgin Islands trip as city prepared for winter storm: \n\n\"I deserve private time. [...] Nowhere in the city charter does it state I have to report to the New York City press where my whereabouts are, and I'm not going to do that.\"",
+          "peerid": {
+            "channel_id": 1302100322,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1252147944,
+            "comments": true,
+            "max_id": 44472,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1503696312
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 79122
+          },
+          "silent": false,
+          "v": 1,
+          "views": 25,
+          "channelabout": "Welcome to East Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@midwest_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6345320211356322216",
+        "_score": 8.355,
+        "_source": {
+          "archivedon": "2022-12-29 18:21:54.904516",
+          "channeltitle": "Covid Vaccine Injuries",
+          "channelusername": "covidvaxinjury",
+          "date": 1672335376,
+          "editdate": 1672335430,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 270,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "A natural health protocol for myocarditis by Eric Berg\n\nHe mentions high dose Vitamin D, but doesn’t mention magnesium. Vitamin D uses up your magnesium and they should always be taken together. Vitamin K2 is also recommended with Vitamin D.\n\nFOLLOW US FOR MORE INFO ON @covidvaxinjury 💉💉💉💉",
+          "peerid": {
+            "channel_id": 1477384989,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1217981867,
+            "comments": true,
+            "max_id": 45872,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 162726413
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 82885
+          },
+          "silent": false,
+          "v": 1,
+          "views": 308,
+          "channelabout": "A collection of Covid vaccine injuries",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6310884795664577779",
+        "_score": 8.2179,
+        "_source": {
+          "archivedon": "1678570036",
+          "channeltitle": "Ben Shapiro Gang",
+          "channelusername": "BenShapiroGang",
+          "date": 1672326393,
+          "editdate": 1672326468,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 281,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 15,
+              "offset": 281,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 14,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Remember that time Ted Cruz was the worst person in the world for being in Cancun with his family during a giant freeze in Texas, while Joe Biden just took off for St. Croix and Eric Adams to the Virgin Islands during the worst freezing weather event in decades, to media shrugs?\n\n@BenShapiroGang",
+          "peerid": {
+            "channel_id": 1469367369,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 14794,
+          "channelabout": "‘Ben Shapiro Gang’ is a fan channel dedicated to conservative political commentator and media host Ben Shapiro - not associated with or managed by Ben",
+          "id": 13555,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 184,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 81,
+                "reaction": "🤡",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 39,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🆒",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-11T21:27:16.967451"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5303795628533400892",
+        "_score": 7.9586,
+        "_source": {
+          "archivedon": "1679075098",
+          "channeltitle": "WWG1WGA",
+          "channelusername": "WWG1WGAWORLDWIDE",
+          "date": 1672295473,
+          "editdate": 1672305763,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 386,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/WWG1WGAWORLDWIDE"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Der Übereifer von Eric Adams, des Bürgermeisters von New York City, und die ihm dafür zur Verfügung stehenden Ressourcen könnten New York Stück für Stück in einen Polizeistaat verwandeln. Denn als Politiker der Demokratischen Partei setzt er auf die Ausweitung diverser Überwachungspraktiken durch das New Yorker Police Department. Bei den New Yorkern stößt das auf gemischte Gefühle.\n\nTelegram WWG1WGA",
+          "peerid": {
+            "channel_id": 1234886150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1517940011,
+            "comments": true,
+            "max_id": 95823,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 734365021
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 697148386
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 208943
+          },
+          "silent": false,
+          "v": 1,
+          "views": 3273,
+          "channelabout": "WWG1WGA steht für den Satz »Where we go one we go all«. Sinngemäß übersetzt meint dies »Einer für alle, alle für einen«. \n\nGlaube wenig, hinterfrage alles, denke selbst \n\n\nKontakt Bot - @WWG1WGA_WORLDWIDE_BOT",
+          "id": 50492,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 20,
+                "reaction": "💩",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-03-17T17:44:58.019407",
+          "mediaref": "c7ea77717547fa4af7e1a295b721042ad5c02970"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5090199899812255941",
+        "_score": 6.5601,
+        "_source": {
+          "archivedon": "2022-12-29 17:21:01.618491",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1672323216,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 30,
+              "offset": 600,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "channel_id": 1751856920,
+            "reformatted_key": "PeerChannel"
+          },
+          "fwdfrom": {
+            "channel_post": 570912,
+            "date": 1672323214,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 570912,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "TRANSLATION :\nThe Netherlands will no longer automatically grant asylum to Russian citizens who evade mobilization\n  \nThis was reported by the Dutch Broadcasting Corporation with reference to the State Secretary of the Ministry of Security and Justice of the Kingdom, Eric van der Burgh.\n\n=======\nORIGINAL :\n❗️Нидерланды перестанут автоматически предоставлять убежище гражданам РФ, которые уклоняются от мобилизации  \n  \nОб этом сообщила Нидерландская телерадиовещательная корпорация со ссылкой на статс-секретаря министерства безопасности и юстиции королевства Эрика ван дер Бурга.\n=======\nSOURCE :\nhttps://t.me/bbbreaking/144746\nРаньше всех. Ну почти.",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1006123
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2,
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6998167034328736748",
+        "_score": 6.5274,
+        "_source": {
+          "archivedon": "1678290230",
+          "channeltitle": "2022 Official Convoy to Revoking Consent Terra Australis",
+          "channelusername": "OzTrucksToCanberra",
+          "date": 1672287665,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 105,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 153,
+              "offset": 105,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 39,
+              "offset": 1574,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 1613,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 9452,
+            "date": 1672257632,
+            "from_id": {
+              "channel_id": 1240512314,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "How his aspirations play out in a city where fears of increasing crime followed wide-scale protests against police violence in 2020 remains to be seen.",
+              "display_url": "politico.com/news/2022/12/24/eric-adams-policing-technology-new-york-00075359",
+              "hash": 0,
+              "id": 3.49378459220467e+18,
+              "photo": {
+                "access_hash": 2.72740147693092e+18,
+                "date": 1671884927,
+                "dc_id": 4,
+                "file_reference": "AGQIrRrDyc2J+EikIoAiU70V7NWL",
+                "has_stickers": false,
+                "id": 5.8540935923044e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsoyKVQCwBOBSUo4IOM47UwHzQmLBzkHoaj71PO4ZFA69TUHehDe4hooNFDEPT1qeLYJFLg7e+Krj7tPjPFMB80ZGDnJxUHerL/AOrU1XPU0wGnrRQetFSwPw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 213,
+                    "size": 9148,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 533,
+                    "size": 38262,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 799,
+                    "w": 1200,
+                    "sizes": [11064, 17618, 23267, 34977, 79268]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "POLITICO",
+              "title": "‘Big Brother is protecting you’: Eric Adams pledges stronger policing, more technology in 2023",
+              "type": "photo",
+              "url": "https://www.politico.com/news/2022/12/24/eric-adams-policing-technology-new-york-00075359"
+            }
+          },
+          "message": "Big Brother is protecting you’: NYC Mayor Eric Adams pledges stronger policing, more technology in 2023\n\nHow his aspirations play out in a city where fears of increasing crime followed wide-scale protests against police violence in 2020 remains to be seen.\n\nNYC Mayor Eric Adams blames the rise in crime on problems he inherited from his predecessor, Bill de Blasio, who had a famously fraught relationship with the NYPD.\n\nThe new mayor has walked a line between police ally and critic — passionately defending the force while also calling cop culture to task. He often harkens back to his own abuse at the hands of police officers in the 1970s and years spent calling for change during his 22 years inside the department. As mayor, he admonished officers he feels are wasting time on their phones .\n\nProgressive Democrats had warned last year Adams would turn the city into a police state, but concerns about crime overpowered them. And Adams believes he has a mandate to make change.\n\nHow his aspirations play out in a city where fears of increasing crime followed wide-scale protests against police violence in 2020 remains to be seen.\n\nIn an interview with POLITICO, Adams promised an expansion of technology-assisted policing to detect weapons. Over the past year, he has promoted the use of cameras and lauded divisive facial recognition devices .\n\n“It blows my mind how much we have not embraced technology, and part of that is because many of our electeds are afraid. Anything technology they think, ‘Oh it’s a boogeyman. It’s Big Brother watching you,’” Adams said. “No, Big Brother is protecting you.”\n\nhttps://www.politico.com/news/2022/12/24/eric-adams-policing-technology-new-york-00075359",
+          "peerid": {
+            "channel_id": 1629387735,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 436332
+          },
+          "silent": false,
+          "v": 1,
+          "views": 4912,
+          "channelabout": "All official notifications of events will be on our radio station:\n📻 www.convoytocanberraradio.com/\nFB: https://www.facebook.com/groups/668840997572090/?ref=share",
+          "id": 222188,
+          "noforwards": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "lastseents": "2023-03-08T15:43:50.463114"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5564567003156470338",
+        "_score": 5.4184,
+        "_source": {
+          "archivedon": "2022-12-29 10:49:36.457596",
+          "channeltitle": "Eurasia & Multipolarity",
+          "channelusername": "Dragonandbear",
+          "date": 1672307769,
+          "editdate": 1672308133,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 5,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.geopolitika.ru/en/article/american-people-vs-american-congress"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 528,
+            "date": 1672307491,
+            "from_id": {
+              "channel_id": 1531095566,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇬🇧 The American People vs. The American Congress\n\nOn December 13th, Gallup listed, in order of Americans’ polled ratings of issues as being the nation’s “Most Important Problem”, all 14 issues that more than 2% of Americans thought to be that; and here they were, in order from the top-most to the bottom-most, of all issues that the thousands of Americans who were sampled volunteered to be that: (1) Government, (2) Inflation, (3) The economy, (4) Immigration, (5) Unifying the country, (6) Covid-19, (7) Race relations, (8) Crime, (9) Gasoline prices, (10) The courts, (11) Poverty, (12) Abortion, (13) Morals), (14) Environment. (All other issues were below 3% — Gallup’s cut-off-point for inclusion on their published list.)\n\nBy Eric Zuesse",
+          "peerid": {
+            "channel_id": 1295601717,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1458395831,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 368576
+          },
+          "silent": false,
+          "v": 1,
+          "views": 786,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6052282035928568625",
+        "_score": 4.5061,
+        "_source": {
+          "archivedon": "1681306970",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1672282845,
+          "editdate": 1672282861,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 80,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 15,
+              "offset": 341,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/ThePrisonersRecord/1268"
+            },
+            {
+              "length": 15,
+              "offset": 356,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helprachelpowell"
+            },
+            {
+              "length": 19,
+              "offset": 371,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26BA"
+            },
+            {
+              "length": 17,
+              "offset": 390,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/Cookiepuss1776"
+            },
+            {
+              "length": 16,
+              "offset": 407,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G29H3"
+            },
+            {
+              "length": 62,
+              "offset": 423,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Stephen?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Stephen"
+            },
+            {
+              "length": 25,
+              "offset": 485,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BP"
+            },
+            {
+              "length": 10,
+              "offset": 510,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25RS"
+            },
+            {
+              "length": 14,
+              "offset": 520,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26A1"
+            },
+            {
+              "length": 22,
+              "offset": 537,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G22ZH"
+            },
+            {
+              "length": 14,
+              "offset": 562,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/j6patriotrelief"
+            },
+            {
+              "length": 12,
+              "offset": 579,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/CouyGriffin"
+            },
+            {
+              "length": 16,
+              "offset": 594,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Derekkinnison"
+            },
+            {
+              "length": 13,
+              "offset": 610,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25QN"
+            },
+            {
+              "length": 17,
+              "offset": 623,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25MM"
+            },
+            {
+              "length": 12,
+              "offset": 640,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://fundly.com/stand-4-paul#gallery/3"
+            },
+            {
+              "length": 36,
+              "offset": 655,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/freejake"
+            },
+            {
+              "length": 10,
+              "offset": 694,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Freekyle"
+            },
+            {
+              "length": 19,
+              "offset": 707,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/FLOTILLA"
+            },
+            {
+              "length": 19,
+              "offset": 729,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/helpjackwhitton"
+            },
+            {
+              "length": 11,
+              "offset": 751,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G25YQ"
+            },
+            {
+              "length": 17,
+              "offset": 765,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G253Q"
+            },
+            {
+              "length": 12,
+              "offset": 782,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G26SJ"
+            },
+            {
+              "length": 11,
+              "offset": 797,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23DE"
+            },
+            {
+              "length": 19,
+              "offset": 811,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PY"
+            },
+            {
+              "length": 14,
+              "offset": 833,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26FY"
+            },
+            {
+              "length": 12,
+              "offset": 850,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26PX"
+            },
+            {
+              "length": 15,
+              "offset": 865,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/savejuliankhater"
+            },
+            {
+              "length": 14,
+              "offset": 880,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26NF"
+            },
+            {
+              "length": 13,
+              "offset": 894,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/GeorgeTanios?utm_source=sharelink&utm_medium=copy_link&utm_campaign=GeorgeTanios"
+            },
+            {
+              "length": 13,
+              "offset": 910,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/ShaneJanuary6th"
+            },
+            {
+              "length": 14,
+              "offset": 926,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://donorbox.org/daniel-in-the-lions-den"
+            },
+            {
+              "length": 15,
+              "offset": 943,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PatriotPaul"
+            },
+            {
+              "length": 17,
+              "offset": 958,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/Pezzola"
+            },
+            {
+              "length": 10,
+              "offset": 975,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G268D"
+            },
+            {
+              "length": 15,
+              "offset": 1001,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26UT"
+            },
+            {
+              "length": 12,
+              "offset": 1027,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2494"
+            },
+            {
+              "length": 13,
+              "offset": 1039,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/freecoffee"
+            },
+            {
+              "length": 16,
+              "offset": 1052,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/defendingwilliam"
+            },
+            {
+              "length": 11,
+              "offset": 1105,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/joebiggs"
+            },
+            {
+              "length": 16,
+              "offset": 1116,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23RK"
+            },
+            {
+              "length": 15,
+              "offset": 1132,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G27BV"
+            },
+            {
+              "length": 17,
+              "offset": 1147,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/StoptheSmear"
+            },
+            {
+              "length": 13,
+              "offset": 1164,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/dresch"
+            },
+            {
+              "length": 13,
+              "offset": 1177,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2783"
+            },
+            {
+              "length": 17,
+              "offset": 1190,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/witzemannfamilyfund"
+            },
+            {
+              "length": 15,
+              "offset": 1207,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G272Y"
+            },
+            {
+              "length": 17,
+              "offset": 1222,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/bigobarnett"
+            },
+            {
+              "length": 16,
+              "offset": 1239,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FeliciaK"
+            },
+            {
+              "length": 13,
+              "offset": 1255,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://citizensapp.us/products/cory-konold-fundraiser"
+            },
+            {
+              "length": 19,
+              "offset": 1285,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G282V"
+            },
+            {
+              "length": 28,
+              "offset": 1304,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/pianonlegalfees"
+            },
+            {
+              "length": 12,
+              "offset": 1332,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Kevintuck"
+            },
+            {
+              "length": 16,
+              "offset": 1344,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2BVN"
+            },
+            {
+              "length": 25,
+              "offset": 1360,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.justiceforj6jonny.com/"
+            },
+            {
+              "length": 15,
+              "offset": 1385,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G28YK"
+            },
+            {
+              "length": 18,
+              "offset": 1418,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G26WP"
+            },
+            {
+              "length": 18,
+              "offset": 1436,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/KristinaMalimon"
+            },
+            {
+              "length": 28,
+              "offset": 1454,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24BK"
+            },
+            {
+              "length": 16,
+              "offset": 1482,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2AZY"
+            },
+            {
+              "length": 16,
+              "offset": 1498,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2939"
+            },
+            {
+              "length": 15,
+              "offset": 1514,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/hopeforahero"
+            },
+            {
+              "length": 14,
+              "offset": 1529,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G262A"
+            },
+            {
+              "length": 16,
+              "offset": 1543,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/BlessLonnie"
+            },
+            {
+              "length": 15,
+              "offset": 1559,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G24F5"
+            },
+            {
+              "length": 16,
+              "offset": 1574,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Justice4Alex?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Justice4Alex"
+            },
+            {
+              "length": 12,
+              "offset": 1590,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/FreeBrianMock"
+            },
+            {
+              "length": 14,
+              "offset": 1602,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/LegoMan"
+            },
+            {
+              "length": 12,
+              "offset": 1616,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/KandE"
+            },
+            {
+              "length": 16,
+              "offset": 1628,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FGS"
+            },
+            {
+              "length": 12,
+              "offset": 1656,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/J6TRUTH"
+            },
+            {
+              "length": 15,
+              "offset": 1668,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G29WR"
+            },
+            {
+              "length": 16,
+              "offset": 1683,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://www.givesendgo.com/G2B8N"
+            },
+            {
+              "length": 15,
+              "offset": 1699,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/mcabee"
+            },
+            {
+              "length": 13,
+              "offset": 1714,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/SandyWeyerJan6Patriot"
+            },
+            {
+              "length": 16,
+              "offset": 1727,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/lisaeisenhart"
+            },
+            {
+              "length": 20,
+              "offset": 1801,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G2FJH"
+            },
+            {
+              "length": 16,
+              "offset": 1821,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/supportj6family"
+            },
+            {
+              "length": 12,
+              "offset": 1837,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://givesendgo.com/friendsofbenmartin"
+            },
+            {
+              "length": 14,
+              "offset": 1849,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/HelpDefendAJFischer"
+            },
+            {
+              "length": 16,
+              "offset": 1863,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/jkleinlegalfund"
+            },
+            {
+              "length": 13,
+              "offset": 1879,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G27CR"
+            },
+            {
+              "length": 15,
+              "offset": 1892,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/G23YQ"
+            },
+            {
+              "length": 10,
+              "offset": 1907,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/PaulFSF"
+            },
+            {
+              "length": 16,
+              "offset": 2042,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/CPTGabrielGarcia?sharemsg=display"
+            },
+            {
+              "length": 14,
+              "offset": 2058,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/G2XCS"
+            },
+            {
+              "length": 14,
+              "offset": 2072,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.chriskuehne.com/"
+            },
+            {
+              "length": 14,
+              "offset": 2099,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://givesendgo.com/Patriotpurge?utm_source=sharelink&utm_medium=copy_link&utm_campaign=Patriotpurge"
+            },
+            {
+              "length": 13,
+              "offset": 2173,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.givesendgo.com/barryramey"
+            },
+            {
+              "length": 31,
+              "offset": 2531,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 199,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+              "display_url": "t.me/ThePrisonersRecord?livestream",
+              "hash": 0,
+              "id": 9.17079312155079e+18,
+              "photo": {
+                "access_hash": -4.34728843336488e+18,
+                "date": 1630940750,
+                "dc_id": 1,
+                "file_reference": "AGQ2tUmjF3BhdDRGsO8DYfbxa9SD",
+                "has_stickers": false,
+                "id": 5.02172664971196e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 12097,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 39128,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 130813,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgo1Z5kgjLyHAH61RDXl58wbyYj0x1P+P6UlwftN0/8SQ/LtHcn/P6UJeGJSXDSZ6c9KAHf2bzn7Q+7PXn/ABoJvLP5i/nxDrnqP6/zqxHPvYDZgE4zn2zU1ACQTJPGHjPH8jRVNQLO/QLxHPxj0P8An+dFAEFrcx232kzEgmcjpmnLNbTyvskfLAsRt6VV1eFoblm/5Zynd9D3o06NdrSZ+Y5XHtQBagvbSAtiR2zjqtWJtQhhbZISDjPSsgRRfbmjx8o6L746VLqEYZfNP3hgUAT3N1Hcm38rJKzLRVfSIGmug5/1cfzH69qKANyeBLiIxyDI/kay/sU1nKzxqZEIIIX/AAoooAzvs84b7rbvxzWkbOa8nDyIY0AAAY8flRRQBpwQR28QjjGFH60UUUAf"
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "The Prisoner's Record",
+              "type": "telegram_livestream",
+              "url": "https://t.me/ThePrisonersRecord?livestream"
+            }
+          },
+          "message": "12.28.2022 Prayer & Donation List\n\nPrayers at 9:00 PM ET  on Live Voice Chat: 🔗https://t.me/ThePrisonersRecord?livestream\n\nWe pray for all J6 families every night, nearly 900. Links are posted below for the families that we have come to know. \n\nJ6 Hostages in Washington D.C. sing the National Anthem in defiance of oppression and torture: 🔗🎤Play Link\n\nRachel Powell\n\nJoseph Hutchinson\n\nMatthew Council\n\nJessica Watkin\n\nAaron James\n\nJonah Westbury\n\nIsaac Westbury\n\nRobert Westbury\n\nChris and Cynthia Price\n\nRon Mele\n\nJoseph Hackett \n\nSgt. Kenneth Harrelson \n\nScott Fairlamb \n\nCouy Griffin \n\nDerek Kinnison\n\nErik Warner\n\nFelipe Martinez\n\nPaul Johnson \n\nJake Angeli (Jacob Anthony Chansley) \n\nKyle Young \n\nChristopher Worrell \n\nJack (Wade) Whitton \n\nMichael Foy \n\nRobert Gieswein\n\nJames McGrew \n\nGuy Reffitt \n\nJoseph Lino Padilla \n\nDouglas Jensen \n\nPeter Stager \n\nJulian Khater\n\nRyan Nichols\n\nGeorge Tanios \n\nShane Jenkins \n\nDaniel Goodwyn \n\nPaul Hodgkins\n\nDominic Pezzola\n\nTim Hale\n\nJennifer Heinl\n\nJon Mott\n\nTraci Sunstrum\n\nDavid Judd\n\nLuke Coffee\n\nWilliam Isaacs\n\nSteve Quick\n\nMike Quick\n\nZac Martin\n\nJoe Biggs\n\nVictoria White\n\nDaniel Warmus\n\nKyle Fitzsimons\n\nKarl Dresch\n\nIsaac Yoder\n\nShawn Witzemann\n\nThomas Sibick\n\nRichard Barnett\n\nFelicia Konold\n\nCory Konold\n\nCharles Donohoe\n\nRasha Abualragheb\n\nKenneth Joseph Owen Thomas\n\nKevin Tuck\n\nEnrique Tarrio\n\nJonathan Gennaro Mellis\n\nAndrew C. Taake  \n\nJustin Stoll\n\nAlbuquerque Head\n\nKristina Malimon\n\nChristopher Joseph Quaglin\n\nThomas Ballard\n\nJeff McKellops\n\nChris Alberts\n\nTimothy Hart\n\nLonnie Coffman\n\nSteve Rosatti\n\nAlex Harkrider\n\nBrian Mock\n\nRobert Morss\n\nKash Kelly\n\nSara Carpenter\n\nJenna Ryan\n\nJacob Lang\n\nJeffrey Brown\n\nGina Bisignano\n\nRonald McAbee\n\nSandy Weyer\n\nLisa Eisenhart\n\nEric Munchel\n\nEthan Nordean\n\nPauline Bauer\n\nLucas Denney\n\nEric D. Clark (KY)\n\nMarshall Neefe\n\nBen Martin\n\nAlan Fischer\n\nJonathan Klein\n\nTroy Smocks\n\nTreniss Evans\n\nPaul Rae\n\nAurthur Jackman \n\nNathan Tuck \n\nEdward George III\n\nThe Family of the first J6 Hostage who has taken his life, Matthew Perna\n\nGabriel Garcia\n\nMatthew Krol\n\nChris Kuehne\n\nJody Wilson\n\nThomas Smith\n\nMason Courson\n\nDevin Steiner\n\nAdam Miller\n\nThe Munn family\n\nBarry Ramey\n\nPhilip Anderson\n\nPamela Hemphill\n\nChristian Manley\n\nDonald Hazard\n\nJodi Wilson\n\nCole Temple\n\nZachary Alam\n\nDavid Dempsey\n\nBrian Jackson\n\nAdam Jackson\n\nBart Shiveley\n\nAudrey Ann\n\nStuart Rhodes\n\nMatthew Bledsoe\n\nJoshua Calvin Hughes\n\nDuke Edward Wilson \n\nNew to Alexandria, VA:\n\nScott Miller\n\nAiden Dillard\n\nJonathan Munafo\n\nBrandon Fellows\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "EOJ Always",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1538114437,
+            "comments": true,
+            "max_id": 79697,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1398969138
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1655534815
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 182500
+          },
+          "silent": true,
+          "v": 1,
+          "views": 35330,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 4913,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 24,
+                "reaction": "🙏",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 6,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤡",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-12T13:42:50.649273"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5223207954567714562",
+        "_score": 3.1089,
+        "_source": {
+          "archivedon": "1680442822",
+          "channeltitle": "DoctorQ's Boom Box!",
+          "channelusername": "DoctorQsBoomBox",
+          "date": 1672329591,
+          "editdate": 1672330676,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 1959,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 81,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 1878,
+              "offset": 81,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 28,
+              "offset": 1971,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Just Hanging Out and Exposing the TRUTH!",
+              "display_url": "t.me/DoctorQsBoomBox",
+              "hash": 0,
+              "id": 9.17079312025806e+18,
+              "photo": {
+                "access_hash": -6.59816646726224e+18,
+                "date": 1613177160,
+                "dc_id": 1,
+                "file_reference": "AGQpgm6W1586xMi01LogKlOX4H9Z",
+                "has_stickers": false,
+                "id": 4.98804032356127e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "h": 160,
+                    "reformatted_key": "PhotoSize",
+                    "size": 16002,
+                    "type": "a",
+                    "w": 160
+                  },
+                  {
+                    "h": 320,
+                    "reformatted_key": "PhotoSize",
+                    "size": 50685,
+                    "type": "b",
+                    "w": 320
+                  },
+                  {
+                    "h": 640,
+                    "reformatted_key": "PhotoSize",
+                    "size": 137022,
+                    "type": "c",
+                    "w": 640
+                  },
+                  {
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "ASgoGIQ7QcCoZSQeBnHpQ6NLyG/CmEOMZB/KojsHUkWQOuCOo5oyodTtHH5VDyud1OSRWOMHP860bLbuh08pY8nOaKhwS3OSaKRmSwse446UjMTL8pBHseaeTzjJwOMmmEoBnaCT3ArNblELs5kIwQ3pSpBITxhfqafGu+4LJ0x3qbJ4GM/0q7gRxyc7ZBhv50U+RVZeRnHTHWilZMTIcljknJPrUobarZwMdaKKQyFSdxIPGanVvmAP8qKKGIeisThVye+KKKKcXoUm0Q=="
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "DoctorQ's Boom Box!",
+              "type": "telegram_channel",
+              "url": "https://t.me/DoctorQsBoomBox"
+            }
+          },
+          "message": "THE \"NEW NORMAL\" OR THE \"SOCIETAL NORMS\" OF THE WORLD ARE IN OPPOSITION TO GOD!\n\nHave you noticed that the \"New Normal\" has to be \"normalized\" AWAY from the \"Old Normal\" that might have been better or worse ... if you consider how that \"normal\" lines up with the Laws of God! \n\nWhen the \"normal\" for Sodom was absolutely degenerate and decrepit ... IF they had gone towards the \"NEW NORMAL\" for them towards God's Righteousness ...then they would have been \"spared\" like the people of Ninevah, Assyria did during the time of Jonah! BUT ... since they REJECTED the \"new normal\" proposed by God ... they were burned to the ground as a result! \n\nThat said, since the \"NORMAL\" in D.C. is to LIE TO THEIR ADVANTAGE ... like Faucohauntis Warren, Eric \"fang fang\" Swalwell, Nasty Paloosey, and the Liar in Chief Joey BuyDumb ... the \"NEW NORMAL\" must be compelled by We The People to be a \"normal\" of TRUTH-TELLING and TRANSPARENCY in government! BUT ... that ain't the \"normal\" now!\n\nAND ... lastly ... when the serpents tell us that we are going to have to \"accept the 'new normal' that is following the pandemic\" ... you can be assured that what they are really saying is ... \"ACCEPT THE 'COMPROMISED and ILLEGAL/UNLAWFUL' things we do and say and CALL THEM the \"New Normal!\" (They call evil \"good\" and good \"evil!\")\n\nGROOMING, SEXUALLY ABUSING, SACRIFICING, HARVESTING OF ADRENOCHROME FROM, AND EATING CHILDREN IS THE \"NEW NORMAL\" THAT THE CABAL IS PROMOTING!\" (And it has been going on like this for CENTURIES or longer)!\n\nSO ... are we REALLY wanting to \"get back to 'normal' OR even to \"accept the \"new normal\"\" that's being PROMOTED by the Deep State that we should DO! \n\nWhy don't we all just DO something that is \"TOTALLY ABNORMAL\" for us right now and STAND UP AND KICK OUT THESE POSING SATANISTS?\n\nWe as God's children and CALLED by God \"a peculiar\" and Extraordinary TREASURE to Him! We are NOT SUPPOSED TO BE \"NORMAL\" nor to accept \"SOCIETAL NORMS!\" \n\nSelah! D. \n\nhttps://t.me/DoctorQsBoomBox",
+          "peerid": {
+            "channel_id": 1216122870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1493446725,
+            "comments": true,
+            "max_id": 215676,
+            "recent_repliers": [
+              {
+                "channel_id": 1493446725,
+                "reformatted_key": "PeerChannel"
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 505625
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1156,
+          "channelabout": "Just Hanging Out and Exposing the TRUTH!",
+          "id": 55042,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-02T13:40:22.969375"
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      }
+    ]
+  }
+}

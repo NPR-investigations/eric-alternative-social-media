@@ -1,0 +1,989 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [11.9232],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6347407316354140604",
+        "_score": 11.9232,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 22:10:44.10359",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1666646566,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 173,
+              "offset": 94,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 269,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 280,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 280,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Former Louisville Cardinals cheerleader Eric Ortiz died unexpectedly over the weekend \n\nRead: https://www.dailymail.co.uk/news/article-11349763/Former-Louisville-Cardinals-cheerleader-Eric-Ortiz-died-unexpectedly-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 30,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5664207495644595573",
+        "_score": 10.9711,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-10-24 22:21:10.537066",
+          "channelabout": "News, analysis, and opinion from Canada, US and the world. Among North America’s Most-Read News Publishers \nThePostMillennial.com",
+          "channeltitle": "The Post Millennial",
+          "channelusername": "ThePostMillennial",
+          "date": 1666649346,
+          "editdate": 1666649587,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://structurecms-production-psyclone.netdna-ssl.com/client_assets/thepostmillennial_com/media/picture/6356/ed24/032c/b70e/1875/c192/original_adams.jpg?1666641188"
+            },
+            {
+              "length": 73,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 76,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "​As crime surges, Eric Adams tells New Yorkers subway safety is up to them\n\nhttps://postmillennialnews.com/B1vymp",
+          "peerid": {
+            "channel_id": 1318801077,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 194,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5354447101273343594",
+        "_score": 10.8296,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-10-24 22:52:26.392754",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1666651092,
+          "editdate": 1666651096,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://conservativebrief.com/wp-content/uploads/2022/10/Eric-Adams.jpg"
+            },
+            {
+              "length": 89,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5464,
+            "date": 1666651092,
+            "from_id": {
+              "channel_id": 1294256027,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "​'I Believe They Have Hijacked This Country,' NYC Mayor Eric Adams Gives Brutal Assessment\n\nREAD: https://fearless.report/bbhuYm",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 900080
+          },
+          "silent": false,
+          "v": 1,
+          "views": 11,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5558787308615898456",
+        "_score": 10.8296,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-10-25 02:02:32.092565",
+          "channelabout": "My book BLACKOUT is available on Amazon, Barnes & Noble, Kindle and more!\n\nblexit.com",
+          "channeltitle": "Candace Owens",
+          "channelusername": "CandaceOwens",
+          "date": 1666651092,
+          "editdate": 1666651232,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://conservativebrief.com/wp-content/uploads/2022/10/Eric-Adams.jpg"
+            },
+            {
+              "length": 89,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "​'I Believe They Have Hijacked This Country,' NYC Mayor Eric Adams Gives Brutal Assessment\n\nREAD: https://fearless.report/bbhuYm",
+          "peerid": {
+            "channel_id": 1294256027,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 5386,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6419617235702125105",
+        "_score": 10.5585,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "2022-10-24 22:11:30.324592",
+          "channelabout": "Real. Fearless. Journalism.",
+          "channeltitle": "Taking Back America 🇺🇸",
+          "channelusername": "TakingBackAmerica",
+          "date": 1666643523,
+          "editdate": 1666643798,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 89,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 24,
+              "offset": 97,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 18,
+              "offset": 123,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "'I Believe They Have Hijacked This Country,' NYC Mayor Eric Adams Gives Brutal Assessment\n\nREAD: https://saferead.org/KCY\n\n@TakingBackAmerica 🇺🇸",
+          "peerid": {
+            "channel_id": 1494683613,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 452,
+          "mediaref": "baa0a3f7c5d6175ca424777b163fecff9b3a6abe",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5647992486568669201",
+        "_score": 7.5071,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 19:41:54.888551",
+          "channelabout": "✅ John F. Kennedy Jr. Fan Page ⭐️",
+          "channeltitle": "John F. Kennedy Jr.",
+          "channelusername": "JFKJ_QAnon",
+          "date": 1666630552,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 343,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 343,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 46,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Dominion CEO Caught in Major Lie on '60 Minutes' on Vote Switching\n\nDominon Voting Systems CEO John Poulos went on '60 minutes to discuss the controversial voting systems company. Poulos told Anderson Cooper that Dominion machines cannot switch votes. But that is not true according to top Dominion executive Eric Coomer on video...\n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1315025726,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 6441,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5146429555816290089",
+        "_score": 7.5071,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1680334289",
+          "channelabout": "Digital Soldiers fighting against the mainstream media so the truth will prevail!",
+          "channeltitle": "Q+Anon Map 🍊🇺🇸",
+          "channelusername": "QAnonMap",
+          "date": 1666630560,
+          "editdate": 1666631154,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 66,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 343,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 343,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12305,
+            "date": 1666630552,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "message": "Dominion CEO Caught in Major Lie on '60 Minutes' on Vote Switching\n\nDominon Voting Systems CEO John Poulos went on '60 minutes to discuss the controversial voting systems company. Poulos told Anderson Cooper that Dominion machines cannot switch votes. But that is not true according to top Dominion executive Eric Coomer on video...\n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1198246506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1697,
+          "mediaref": "b848713441a55a64973207906a90568dcc822c05",
+          "id": 22313,
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 19,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 18,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👎",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-01T07:31:29.530369",
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5729645067610708132",
+        "_score": 6.7512,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 08:46:34.847623",
+          "channeltitle": "Patriot Party New Hampshire",
+          "channelusername": "PatriotPartyNewHampshire",
+          "date": 1666588377,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 37,
+              "offset": 318,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 318,
+              "reformatted_key": "MessageEntityStrike"
+            },
+            {
+              "length": 37,
+              "offset": 356,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 37,
+              "offset": 356,
+              "reformatted_key": "MessageEntityStrike"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "channel_post": 5,
+            "date": 1666588002,
+            "from_id": {
+              "channel_id": 1871729111,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "The Joy in my heart is so strong, self confidence is what brought me this far, been successful you must be confidence enough to always keep trying until you are there, today my life is full of joy and happiness, all thanks to Mr Eric Haywood for my successful withdrawals\nReach out to him via the link below\n 📩📩📩📩\ntelegram.me/joinchat/18_vJXqRmV82OTA8\ntelegram.me/joinchat/18_vJXqRmV82OTA8",
+          "peerid": {
+            "channel_id": 1334036949,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 120607
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2437,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6086674381688586196",
+        "_score": 5.6668,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-25 02:53:21.563223",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1666643668,
+          "editdate": 1666643671,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "SUBWAY SAFETY PLANS: New York Gov. Kathy Hochul and New York City Mayor Eric Adams have announced expanded initiatives for city subway stations and public safety. These changes will include heightened police presence, mental health crisis intervention training, and more.  On the subway, the NYPD and MTA will increase officer presence on platforms by 1,200 additional overtime officer shifts per day, for a total of 10,000 extra overtime patrol hours per day, according to the mayor’s office.  Additionally, there will be a significant increase in the number of officers at turnstiles who will enforce the law and discourage fare evasion.",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tee",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1431409795,
+            "comments": true,
+            "max_id": 763918,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1371089707
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 1214216
+          },
+          "silent": false,
+          "v": 1,
+          "views": 434,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6360458837203376267",
+        "_score": 4.5269,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 07:02:46.633089",
+          "channelabout": "Welcome to Mid-West Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@eastcoast_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "Mid West News & Discussion",
+          "channelusername": "midwest_intel",
+          "date": 1666582856,
+          "editdate": 1666582860,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 139,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 679,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/t-eric-schmitt"
+            },
+            {
+              "length": 7,
+              "offset": 986,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/19-states-to-investigate-banks-for-esg-style-commitment-to-united-nations-alliance_4807984.html"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 28542,
+            "date": 1666582790,
+            "from_id": {
+              "channel_id": 1493064098,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "19 STATE ATTORNEYS GENERAL LAUNCH INVESTIGATIONS OF MAJOR FINANCIAL INSTITUTIONS’ COMMITMENT TO THE U.N.-CONVENED NET-ZERO BANKING ALLIANCE\n\nThe alliance’s website states that its members control roughly 40% of the world’s banking assets and are “committed to aligning their lending and investment portfolios with net-zero emissions by 2050.”\n\n“We are leading a coalition investigating banks for ceding authority to the U.N., which will only result in the killing of American companies that don’t subscribe to the woke climate agenda. These banks are accountable to American laws–we don’t let international bodies set the standards for our businesses,” Missouri Attorney General Eric Schmitt said in a statement regarding the investigations. Arizona, Arkansas, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Montana, Nebraska, Oklahoma, Tennessee, Texas, and Virginia are among the states now investigating the banks through a powerful tool known as a civil investigative demand. [ Article ]",
+          "peerid": {
+            "channel_id": 1480909725,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1160472707,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 77841
+          },
+          "silent": false,
+          "v": 1,
+          "views": 28,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6412661471741767550",
+        "_score": 4.5269,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 07:08:05.815002",
+          "channelabout": "Welcome to West Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@rockymountain_intel\n@midwest_intel\n@eastcoast_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "West Coast News & Discussion",
+          "channelusername": "westcoastintel",
+          "date": 1666582790,
+          "editdate": 1666582934,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 139,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 679,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/t-eric-schmitt"
+            },
+            {
+              "length": 7,
+              "offset": 986,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/19-states-to-investigate-banks-for-esg-style-commitment-to-united-nations-alliance_4807984.html"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "19 STATE ATTORNEYS GENERAL LAUNCH INVESTIGATIONS OF MAJOR FINANCIAL INSTITUTIONS’ COMMITMENT TO THE U.N.-CONVENED NET-ZERO BANKING ALLIANCE\n\nThe alliance’s website states that its members control roughly 40% of the world’s banking assets and are “committed to aligning their lending and investment portfolios with net-zero emissions by 2050.”\n\n“We are leading a coalition investigating banks for ceding authority to the U.N., which will only result in the killing of American companies that don’t subscribe to the woke climate agenda. These banks are accountable to American laws–we don’t let international bodies set the standards for our businesses,” Missouri Attorney General Eric Schmitt said in a statement regarding the investigations. Arizona, Arkansas, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Montana, Nebraska, Oklahoma, Tennessee, Texas, and Virginia are among the states now investigating the banks through a powerful tool known as a civil investigative demand. [ Article ]",
+          "peerid": {
+            "channel_id": 1493064098,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425371904,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 339339
+          },
+          "silent": false,
+          "v": 1,
+          "views": 671,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "6117742860847579801",
+        "_score": 4.5269,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 06:02:18.601075",
+          "channelabout": "This is a Dedicated-Curated Archive of Savage_Marxist_Election_Fraud_Criminality\n\nPresented to both the audience, and Archived for the Public, Legal and Historic Record.\n\nDrop voter fraud info in the linked groupchat channel https://t.me/usvoterfraudchat",
+          "channeltitle": "US Voter Fraud & Coup-Ops Intel 2020 & 2021",
+          "channelusername": "usvoterfraud",
+          "date": 1666582856,
+          "editdate": 1666582860,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 139,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 679,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/t-eric-schmitt"
+            },
+            {
+              "length": 7,
+              "offset": 986,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/19-states-to-investigate-banks-for-esg-style-commitment-to-united-nations-alliance_4807984.html"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 28542,
+            "date": 1666582790,
+            "from_id": {
+              "channel_id": 1493064098,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "19 STATE ATTORNEYS GENERAL LAUNCH INVESTIGATIONS OF MAJOR FINANCIAL INSTITUTIONS’ COMMITMENT TO THE U.N.-CONVENED NET-ZERO BANKING ALLIANCE\n\nThe alliance’s website states that its members control roughly 40% of the world’s banking assets and are “committed to aligning their lending and investment portfolios with net-zero emissions by 2050.”\n\n“We are leading a coalition investigating banks for ceding authority to the U.N., which will only result in the killing of American companies that don’t subscribe to the woke climate agenda. These banks are accountable to American laws–we don’t let international bodies set the standards for our businesses,” Missouri Attorney General Eric Schmitt said in a statement regarding the investigations. Arizona, Arkansas, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Montana, Nebraska, Oklahoma, Tennessee, Texas, and Virginia are among the states now investigating the banks through a powerful tool known as a civil investigative demand. [ Article ]",
+          "peerid": {
+            "channel_id": 1424398008,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1304909613,
+            "comments": true,
+            "max_id": 155137,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 239029
+          },
+          "silent": false,
+          "v": 1,
+          "views": 55,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5592478299101090775",
+        "_score": 4.5269,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 05:14:47.353184",
+          "channelabout": "Welcome to East Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@midwest_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "East Coast News & Discussion",
+          "channelusername": "eastcoast_intel",
+          "date": 1666582856,
+          "editdate": 1666582859,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 139,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 679,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/t-eric-schmitt"
+            },
+            {
+              "length": 7,
+              "offset": 986,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/19-states-to-investigate-banks-for-esg-style-commitment-to-united-nations-alliance_4807984.html"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 28542,
+            "date": 1666582790,
+            "from_id": {
+              "channel_id": 1493064098,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "19 STATE ATTORNEYS GENERAL LAUNCH INVESTIGATIONS OF MAJOR FINANCIAL INSTITUTIONS’ COMMITMENT TO THE U.N.-CONVENED NET-ZERO BANKING ALLIANCE\n\nThe alliance’s website states that its members control roughly 40% of the world’s banking assets and are “committed to aligning their lending and investment portfolios with net-zero emissions by 2050.”\n\n“We are leading a coalition investigating banks for ceding authority to the U.N., which will only result in the killing of American companies that don’t subscribe to the woke climate agenda. These banks are accountable to American laws–we don’t let international bodies set the standards for our businesses,” Missouri Attorney General Eric Schmitt said in a statement regarding the investigations. Arizona, Arkansas, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Montana, Nebraska, Oklahoma, Tennessee, Texas, and Virginia are among the states now investigating the banks through a powerful tool known as a civil investigative demand. [ Article ]",
+          "peerid": {
+            "channel_id": 1302100322,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1252147944,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 70645
+          },
+          "silent": false,
+          "v": 1,
+          "views": 39,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202210",
+        "_id": "5312044933564179318",
+        "_score": 3.7447,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-10-24 09:01:27.273203",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1666592340,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 1472,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.theepochtimes.com/judge-orders-fauci-psaki-top-officials-be-deposed-in-big-tech-censorship-case_4813336.html"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 48267,
+            "date": 1666531117,
+            "from_id": {
+              "channel_id": 1244077735,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "⚡️Richter ordnet Befragung von Fauci, Psaki und anderen Spitzenbeamten im Fall der Big-Tech-Zensur an\n\nEin Bundesgericht ordnete am Freitag an, dass Dr. Anthony Fauci und andere hochrangige Beamte in einem Fall unter Eid aussagen müssen, in dem Beweise für angebliche Absprachen der Bundesregierung mit großen Tech-Unternehmen zur Zensur von Nutzern aufgedeckt wurden.\n\nDie Generalstaatsanwälte von Louisiana und Missouri und andere Kläger behaupten, dass Fauci, Direktor des NIAID und leitender medizinischer Berater von Präsident Joe Biden, und andere Angeklagte Social-Media-Unternehmen gezwungen haben, missliebige Redner, Standpunkte und Inhalte\" in Bezug auf COVID-19 zu unterdrücken.\n\nDer US-Bezirksrichter Terry Doughty ging noch einen Schritt weiter als in einem früheren Urteil, das schriftliche Aussagen erzwang, und ordnete an, dass Fauci und andere Angeklagte unter Eid aussagen müssen.\n\n\"Nachdem wir Unterlagen über eine geheime Beziehung zwischen der Biden-Administration und Social-Media-Unternehmen gefunden hatten, um die freie Meinungsäußerung zu zensieren, haben wir sofort einen Antrag gestellt, um diese Beamten unter Eid zu bekommen\", sagte der Generalstaatsanwalt von Missouri, Eric Schmitt, in einer Erklärung.\n\n\"Es ist höchste Zeit, dieses Zensurunternehmen aufzuklären und diese Beamten zu zwingen, dem amerikanischen Volk reinen Wein einzuschenken, und dieses Urteil wird uns genau das ermöglichen. Wir werden weiter auf die Wahrheit drängen.\" Quelle",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 68,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "userinfo": {
+            "restriction_reason": {}
+          }
+        }
+      }
+    ]
+  }
+}

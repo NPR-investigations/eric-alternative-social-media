@@ -1,0 +1,4620 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [49],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [49],
+      "relation": ["eq"]
+    },
+    "max_score": [12.711],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5775198452824676487",
+        "_score": 12.711,
+        "_source": {
+          "archivedon": "2022-01-18 21:23:42.692379",
+          "channelabout": "A Montana-centric group, established for discussion of local issues",
+          "channeltitle": "Free Montana",
+          "channelusername": "Free_Montana",
+          "date": 1642539976,
+          "edithide": false,
+          "entities": [],
+          "forwards": 473,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1188849466
+          },
+          "fwdfrom": {
+            "channel_post": 4843,
+            "date": 1642084202,
+            "from_id": {
+              "channel_id": 1459279278,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Zemmour.",
+          "peerid": {
+            "channel_id": 1344643173,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 7533
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1188849466,
+            "_v": 1,
+            "access_hash": -4.99430135935349e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mlke",
+            "id": 1188849466,
+            "is_self": false,
+            "last_name": "Xtrakt",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "views": 37653,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6397984739562619716",
+        "_score": 12.2141,
+        "_source": {
+          "archivedon": "2022-08-03 06:38:50.225001",
+          "channelabout": "America's premier journal of Main Street conservatism, promoting community, liberty, faith, family, and peace. \nhttps://www.theamericanconservative.com/",
+          "channeltitle": "The American Conservative",
+          "channelusername": "amconmag",
+          "date": 1642513723,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 34,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 82,
+              "offset": 42,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 9,
+              "offset": 132,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "No, Eric Adams Won’t Save New York\n\nREAD: https://www.theamericanconservative.com/articles/no-eric-adams-wont-save-new-york/\n\nJOIN: @amconmag",
+          "peerid": {
+            "channel_id": 1489646905,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 287,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5916495987735546254",
+        "_score": 11.8676,
+        "_source": {
+          "archivedon": "2022-01-18 21:48:42.332513",
+          "channeltitle": "PatriotPartyMissouri",
+          "channelusername": "PatriotPartyMissouri",
+          "date": 1642538456,
+          "edithide": false,
+          "entities": [],
+          "forwards": 116,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1599345957
+          },
+          "fwdfrom": {
+            "channel_post": 2156,
+            "date": 1642528849,
+            "from_id": {
+              "channel_id": 1450985011,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "NYC Mayor Eric Adams with Transexuals.",
+          "peerid": {
+            "channel_id": 1377541569,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21401
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1599345957,
+            "_v": 1,
+            "access_hash": 5.11326706911161e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "D",
+            "id": 1599345957,
+            "is_self": false,
+            "last_name": "Cooley",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 292610,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100770
+              },
+              "photo_id": 5.18144775607666e+18,
+              "photo_small": {
+                "local_id": 292608,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100770
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "afeaab591a45ac93160500d5b36fd004dcea6b21"
+          },
+          "v": 1,
+          "views": 24120,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595245853",
+        "_score": 11.6754,
+        "_source": {
+          "archivedon": "2022-01-18 07:53:41.495338",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642490630,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1379371427
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Damn whys Eric trump connected\nWith them?",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1545849
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1379371427,
+            "_v": 1,
+            "access_hash": 5.4691657555226e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Al",
+            "id": 1379371427,
+            "is_self": false,
+            "last_name": "Adams",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595243095",
+        "_score": 11.3107,
+        "_source": {
+          "archivedon": "2022-01-18 04:45:17.796537",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642477855,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1512838464
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Is Eric trump being with Flynn just a show",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1543133
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1512838464,
+            "_v": 1,
+            "access_hash": -3.7868999321337e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michelle",
+            "id": 1512838464,
+            "is_self": false,
+            "last_name": "D",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 58896,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100057500651
+              },
+              "photo_id": 5.11621798321833e+18,
+              "photo_small": {
+                "local_id": 58894,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100057500651
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Michld9496",
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595247604",
+        "_score": 10.2095,
+        "_source": {
+          "archivedon": "2022-01-18 15:44:43.116821",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642517687,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1549677152
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric trump is on that tour. There’s has to be white hats on that tour also",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1549193
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1549677152,
+            "_v": 1,
+            "access_hash": -3.51198557910014e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Mallory",
+            "id": 1549677152,
+            "is_self": false,
+            "last_name": "Martinat",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4675715330747706856",
+        "_score": 9.9368,
+        "_source": {
+          "archivedon": "2022-01-18 03:58:59.265669",
+          "channeltitle": "4Chan YLYL",
+          "channelusername": "YLYL4chan",
+          "date": 1642478119,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 96,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "1418 - Eric Zemmour says child migrants tend to become criminals as he hits back at hate spe_ - www.telegraph.co.uk",
+          "peerid": {
+            "channel_id": 1088649810,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5846913321357828900",
+        "_score": 9.9368,
+        "_source": {
+          "archivedon": "2022-01-18 03:51:05.392423",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1642475568,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Why is Eric kiker such a communism apologist? \"Soviet union was anti Israel\" \"this isn't some communist conspiracy\"",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 549632
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5811551549939609677",
+        "_score": 9.9368,
+        "_source": {
+          "archivedon": "2022-01-18 18:14:39.257686",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1642526818,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 84,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 107,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 118,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/melgibson_channel"
+            },
+            {
+              "length": 10,
+              "offset": 118,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 793,
+            "date": 1641921567,
+            "from_id": {
+              "channel_id": 1177722682,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Twitter has suspended Project Veritas Chief of Staff Eric Spracklen after the viral #ExposeFauci story\n___\nSubscribe: Mel Gibson",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5354447101273213284",
+        "_score": 9.8994,
+        "_source": {
+          "archivedon": "2022-01-18 02:40:11.201112",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1642468342,
+          "editdate": 1642468345,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 119,
+              "offset": 90,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 258,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 279,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 294,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 314,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 333,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the COVID-19 Pandemic to Advance a Radical Agenda: Eric Eggers\n\nhttps://www.theepochtimes.com/teachers-unions-exploited-the-pandemic-to-advance-radical-agenda-eric-eggers_4219036.html\nSource: The Epoch Times \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 433728
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 66,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6328990694157384046",
+        "_score": 9.6798,
+        "_source": {
+          "archivedon": "1681980140",
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "date": 1642550357,
+          "editdate": 1642550362,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 104,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.co/SzyGGMcA2N"
+            },
+            {
+              "length": 15,
+              "offset": 112,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.co/SzyGGMcA2N"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 2726,
+            "date": 1642549484,
+            "from_id": {
+              "channel_id": 1582909819,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "message": "January 6 committee subpoenas the phone records of Eric Trump and Don Jr.'s fiancée Kimberley Guilfoyle https://trib.al/SvpcdEd",
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "13th-GEN_PATRIOT ❤🇺🇸✔",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388383
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 351,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Rob Crilly, Senior U.S. Political Reporter For Dailymail.Com",
+              "description": "The House probe into the Jan. 6 attack has reportedly obtained records of phone numbers associated with Eric Trump, and Kimberly Guilfoyle, who is engaged to Donald Trump Jr.",
+              "display_url": "dailymail.co.uk/news/article-10416209/US-Capitol-attack-committee-subpoenas-Rudy-Giuliani-Trump-lawyers.html?ito=social-twitter_dailymailus",
+              "document": {
+                "access_hash": 2.24135129339539e+18,
+                "attributes": [
+                  {
+                    "duration": 89,
+                    "h": 576,
+                    "reformatted_key": "DocumentAttributeVideo",
+                    "round_message": false,
+                    "supports_streaming": true,
+                    "w": 1024
+                  },
+                  {
+                    "reformatted_key": "DocumentAttributeFilename",
+                    "file_name": "1024x576_MP4_443345238683634000.mp4"
+                  }
+                ],
+                "date": 1605886250,
+                "dc_id": 4,
+                "file_reference": "AGRA+uOsshbSyOOTjL6Vu7MaGH/x",
+                "id": 5.89205588006457e+18,
+                "mime_type": "video/mp4",
+                "reformatted_key": "Document",
+                "size": 13155486,
+                "thumbs": [
+                  {
+                    "bytes": "ARYoxaKKKACiiigAooooAKKKKACiiigAooooAw==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 677,
+                    "w": 320
+                  }
+                ],
+                "video_thumbs": []
+              },
+              "hash": 494559917,
+              "id": 7.68158096901657e+18,
+              "photo": {
+                "access_hash": -8.70985064537951e+18,
+                "date": 1642549311,
+                "dc_id": 4,
+                "file_reference": "AGRA+uN/i1aOeY7IjK0cyIegOn2S",
+                "has_stickers": false,
+                "id": 5.99803650924201e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARgothORzTynPWgU2eYQJuIzk4ApAQyqQHOQT2FU7xP3LH6fzqWS5Roy2cSE8LUE9wstuw6Nx/OnZgUypHJJopXzjGOBRSGb4Jz2qhqM/wC9VP7vJooprcRQDfnSNnGccUUVTYhGIxt4470UUVAz",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 192,
+                    "size": 13993,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 382,
+                    "w": 636,
+                    "sizes": [7175, 13025, 19109, 27231, 41651]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Mail Online",
+              "title": "January 6 committee subpoenas the phone records of Eric Trump and Don Jr.'s fiancée Kimberley Guilfoyle: The first time the investigation has targeted a Trump family member",
+              "type": "video",
+              "url": "https://t.co/SzyGGMcA2N"
+            }
+          },
+          "id": 63854,
+          "noforwards": false,
+          "lastseents": "2023-04-20T08:42:20.571645"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6427630059833673310",
+        "_score": 9.6798,
+        "_source": {
+          "archivedon": "2022-01-18 21:19:46.255992",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1642538815,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "This is false.  That is not JKF Jr.\n\nIt is Eric Prince in the suit in the photo with soldiers",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "OneOfSevenBillionOnEarth",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 149079
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 40,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6427630059833673069",
+        "_score": 9.4371,
+        "_source": {
+          "archivedon": "2022-01-18 13:20:50.893723",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1642509954,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 8512,
+            "date": 1642009131,
+            "from_id": {
+              "channel_id": 1344050581,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Gill pedo statue on the BBC building in London is currently being smashed up by a member of the public 🔥",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jenny B",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 11,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595248453",
+        "_score": 9.4371,
+        "_source": {
+          "archivedon": "2022-01-18 18:51:18.742834",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642529518,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2099029241
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric there are two governments on American soil right now bickering between each other you do understand that right? 🪖❤️😉",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1073981,
+            "reply_to_top_id": 1073873
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 2099029241,
+            "_v": 1,
+            "access_hash": -8.34802449376273e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lauren AKA \"Welder General Patton\" Michigan",
+            "id": 2099029241,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 214509,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100053900297
+              },
+              "photo_id": 5.13457247441818e+18,
+              "photo_small": {
+                "local_id": 214507,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100053900297
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "LoLoA1986",
+            "verified": false,
+            "_media_ref": "0cbdc09cf5e946fad1f73118a1cc88ece63351b1"
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6805392310625394638",
+        "_score": 9.2077,
+        "_source": {
+          "archivedon": "1682795006",
+          "channelabout": "Zu viele Menschen lassen sich von Medien und anderen Einflüssen ihren Verstand rauben 🤡😷\n\nMit unserem Kanal sorgen wir dafür, dass damit für alle hier ansiedelnden Mitglieder Schluss damit ist 🤜",
+          "channeltitle": "Gesunder Verstand",
+          "channelusername": "gesunder_verstand",
+          "date": 1642482265,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 38,
+              "offset": 3,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/gesundohnemedikamente"
+            },
+            {
+              "length": 38,
+              "offset": 3,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 91,
+              "offset": 41,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1538718369
+          },
+          "fwdfrom": {
+            "channel_post": 7009,
+            "date": 1642482261,
+            "from_id": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 7009,
+            "saved_from_peer": {
+              "channel_id": 1538718369,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false
+          },
+          "message": "👉 Folge hier deinem Weg der Gesundheit\n\nDer Mann ist auf das BBC-Gebäude geklettert und hat die Eric Gill Pedo-Statue zertrümmert🤮",
+          "peerid": {
+            "channel_id": 1584503872,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 115301
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 226,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 24526,
+          "noforwards": false,
+          "lastseents": "2023-04-29T19:03:26.751589",
+          "collected_by": "crawler",
+          "mediaref": "a3b5dcb2678ddc086bfbea99be03a7edb4c43741",
+          "url": "t.me/gesunder_verstand/24526"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4599600813680120790",
+        "_score": 9.2077,
+        "_source": {
+          "archivedon": "2022-01-18 21:21:33.272644",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1642540105,
+          "editdate": 1642540108,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 137,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "New York City Mayor Eric Adams today insisted that the district's schools will remain open despite the spread of omicron COVID-19 cases.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 47954
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 136,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551862",
+        "_score": 8.886,
+        "_source": {
+          "archivedon": "1682664399",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642516833,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1059528298
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Aso noch was, recherchiere mal die ganzen Lügen in der Presse \n\nOder habe A in der Hose und befrage Eric persönlich dazu, aber dass traust Dich nicht",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108916,
+            "reply_to_top_id": 108895,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.8555444713315e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bonnie&Clyde ⚔",
+            "id": 1059528298,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.55063938955278e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIjjLRFy5wT0z6UUUU0I8="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "BonnieandClydeBerlin",
+            "verified": false,
+            "archivedon": 1682664399,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108918,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:39.919729"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4972466879063950457",
+        "_score": 8.886,
+        "_source": {
+          "archivedon": "2022-08-05 01:30:50.82006",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1642482105,
+          "editdate": 1642482383,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 52,
+              "offset": 82,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 142,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 148,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ept.ms/UnionsBehindWokeWave"
+            }
+          ],
+          "forwards": 45,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1963,
+            "date": 1642464488,
+            "from_id": {
+              "channel_id": 1207994469,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the Pandemic to Advance a Radical Agenda: Eric Eggers\n🔵Watch in-depth videos based on Truth & Tradition at @EpochTV 👇  \nhttps://ept.ms/UnionsBehindWokeWave",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1264301656,
+            "comments": true,
+            "max_id": 868630,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1554784835
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1527532174
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1402431781
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 16,
+            "replies_pts": 1959862
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 15206,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5770600810593415924",
+        "_score": 8.886,
+        "_source": {
+          "archivedon": "2022-08-04 11:18:35.696645",
+          "channelabout": "Your independent voice in TV news—bringing back reliable, honest news reporting.\nWebsite: http://ntd.com \nNewsletter sign up: http://newsletter.ntd.com \nWatch NTD on cable: http://NTDAmerica.com \nSupport us: http://ntd.com/support-us.html",
+          "channeltitle": "NTD",
+          "channelusername": "NTDNews",
+          "date": 1642516311,
+          "editdate": 1642516349,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 52,
+              "offset": 82,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 142,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 148,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ept.ms/UnionsBehindWokeWave"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1963,
+            "date": 1642464488,
+            "from_id": {
+              "channel_id": 1207994469,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the Pandemic to Advance a Radical Agenda: Eric Eggers\n🔵Watch in-depth videos based on Truth & Tradition at @EpochTV 👇  \nhttps://ept.ms/UnionsBehindWokeWave",
+          "peerid": {
+            "channel_id": 1343572701,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1330128221,
+            "comments": true,
+            "max_id": 296161,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1681007525
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 694653
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3197,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5712857208681956547",
+        "_score": 8.886,
+        "_source": {
+          "archivedon": "2022-08-02 13:22:09.172388",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1642516314,
+          "editdate": 1642516349,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 52,
+              "offset": 82,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 142,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 148,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ept.ms/UnionsBehindWokeWave"
+            }
+          ],
+          "forwards": 69,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1343572701
+          },
+          "fwdfrom": {
+            "channel_post": 1963,
+            "date": 1642464488,
+            "from_id": {
+              "channel_id": 1207994469,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 29428,
+            "saved_from_peer": {
+              "channel_id": 1343572701,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Teachers Unions Exploited the Pandemic to Advance a Radical Agenda: Eric Eggers\n🔵Watch in-depth videos based on Truth & Tradition at @EpochTV 👇  \nhttps://ept.ms/UnionsBehindWokeWave",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 296161,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 691610
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 20564,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5443604798362378023",
+        "_score": 8.886,
+        "_source": {
+          "archivedon": "2022-01-18 01:25:16.155004",
+          "channeltitle": "Patriot Party Oregon",
+          "channelusername": "PatriotPartyOregon",
+          "date": 1642465986,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 61,
+              "offset": 82,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 35,
+              "offset": 148,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ept.ms/UnionsBehindWokeWave"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 802224645
+          },
+          "fwdfrom": {
+            "channel_post": 1963,
+            "date": 1642464488,
+            "from_id": {
+              "channel_id": 1207994469,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the Pandemic to Advance a Radical Agenda: Eric Eggers\n🔵Watch in-depth videos based on Truth & Tradition at @EpochTV 👇  \nhttps://ept.ms/UnionsBehindWokeWave",
+          "peerid": {
+            "channel_id": 1267438009,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 29999
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 802224645,
+            "_v": 1,
+            "access_hash": 6.31342460916299e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michael",
+            "id": 802224645,
+            "is_self": false,
+            "last_name": "Burton",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 413363,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 853506384
+              },
+              "photo_id": 3.44552861477645e+18,
+              "photo_small": {
+                "local_id": 413361,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 853506384
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "b876d07ff61263f6a0b625419fed22d16da3084f"
+          },
+          "v": 1,
+          "views": 179,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551811",
+        "_score": 8.8814,
+        "_source": {
+          "archivedon": "1682664401",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642513604,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1059528298
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Was verbreitest Du hier bitte? \nHockst bei uns in der Gruppe, um aiszuspionieren und zb hier auf einmal über Eric hetzt\n\nMal zur Info, der Spaziergang ist nicht von Eric angemeldet, sondern von Benny Krieger und M. Knapp und nicht wie behauptet von Eric und POE \n\nDu spaltest doch in dem Du die Leute gerade aufwiegelst nicht zum Alex zu gehen \n\n\nWir hatten beim vorletzten Spaziergang am Alex, mit Captain Future ein echt kurzes gutes Gespräch \n\nUnd du kommst hier an, hängst als Spitzel in unserer Gruppe und verbreitest Hetze\n\nGeh freiwillig aus unserer Gruppe oder ich helfe nach \n\n\n\nSorry Leute, aber solche Leute regen mich ungemein auf",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108846,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.8555444713315e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bonnie&Clyde ⚔",
+            "id": 1059528298,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.55063938955278e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIjjLRFy5wT0z6UUUU0I8="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "BonnieandClydeBerlin",
+            "verified": false,
+            "archivedon": 1682664401,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108867,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:41.445397"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595243071",
+        "_score": 8.7843,
+        "_source": {
+          "archivedon": "2022-01-18 04:45:17.780394",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642477811,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1379371427
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I agree joe seems like a mafia thug for sure in his words and demeanor. It always bothered me. \nWhy’s Eric trump w him at these events tho???",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 1068681,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 1543120
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1379371427,
+            "_v": 1,
+            "access_hash": 5.4691657555226e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Al",
+            "id": 1379371427,
+            "is_self": false,
+            "last_name": "Adams",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259808437",
+        "_score": 8.5886,
+        "_source": {
+          "archivedon": "2022-01-18 23:50:26.553831",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1642549023,
+          "editdate": 1642549026,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://cnn.it/3FJtBWe"
+            },
+            {
+              "length": 27,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/cnnbrk/status/1483576264552292359"
+            },
+            {
+              "length": 22,
+              "offset": 182,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": " CNN Breaking News (Twitter)\n\nThe House January 6 committee has subpoenaed and obtained phone records for numbers associated with Eric Trump and Kimberly Guilfoyle, sources tell CNN https://cnn.it/3FJtBWe",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "max_id": 223785,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1374871449
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 378114
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 21,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595242348",
+        "_score": 8.3127,
+        "_source": {
+          "archivedon": "2022-01-18 03:13:58.596608",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642474686,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1577094429
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "I just went on to hear Mel k, Simon and Charlie. I don't usually listen. They were laughing at the fact people are questioning Flynn. They said Eric Trump is friendly with him.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 1068010,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 5,
+            "replies_pts": 1540347
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1577094429,
+            "_v": 1,
+            "access_hash": -4.364029564969e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Susan",
+            "id": 1577094429,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusLastMonth"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6188489699586233096",
+        "_score": 8.1398,
+        "_source": {
+          "archivedon": "2022-01-18 11:31:55.287545",
+          "channelabout": "The official Telegram channel of Britain First",
+          "channeltitle": "Britain First",
+          "channelusername": "BritainFirst",
+          "date": 1642500055,
+          "editdate": 1642500058,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 209,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "🇫🇷 A Paris court fined French “far right” presidential candidate Eric Zemmour 10,000 euros ($11,400) over remarks made in 2020 in which he called young migrants killers, thieves and rapists….👎😡\n\n👍 Follow @BritainFirst",
+          "peerid": {
+            "channel_id": 1440870040,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1294516390,
+            "comments": true,
+            "max_id": 200994,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2050496983
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 2136890628
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 821887620
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 12,
+            "replies_pts": 354137
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 579,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5595791965154201771",
+        "_score": 7.8172,
+        "_source": {
+          "archivedon": "2022-03-05 19:48:25.341989",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1642468279,
+          "editdate": 1642469972,
+          "edithide": true,
+          "entities": [],
+          "forwards": 10,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 7567,
+            "date": 1642468209,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17 ⭐️ ⭐️ ⭐️",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Eric Swalwell says that Thomas Massie is braver than his hero, John Lewis, because he is willing to dine in Virginia restaurants, where they don’t require proof of vaccination. \n\nUnJoy Reid then proceeds to call Virginia residents “little spores”.",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1554523,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1529011748
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1492079749
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1520329259
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 17,
+            "replies_pts": 2388187
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2805,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6057077057676909967",
+        "_score": 7.8172,
+        "_source": {
+          "archivedon": "2022-01-18 01:44:25.999135",
+          "channelabout": "Fighting for POTUS 🇺🇸",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1642468209,
+          "editdate": 1642468212,
+          "edithide": true,
+          "entities": [],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Swalwell says that Thomas Massie is braver than his hero, John Lewis, because he is willing to dine in Virginia restaurants, where they don’t require proof of vaccination. \n\nUnJoy Reid then proceeds to call Virginia residents “little spores”.",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17 ⭐️ ⭐️ ⭐️",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1286165912,
+            "comments": true,
+            "max_id": 837562,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1520340629
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1518475931
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 36,
+            "replies_pts": 990407
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5711,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4972466879063950523",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-08-05 01:30:19.373436",
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1642542338,
+          "editdate": 1642543149,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 92,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 129,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 52,
+              "offset": 169,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 22,
+              "offset": 232,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 700,
+            "date": 1642530682,
+            "from_id": {
+              "channel_id": 1316260134,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the COVID-19 Pandemic to Advance a Radical Agenda: Eric Eggers\n\n⭕️Tune in here for the full episode 👇\nhttps://ept.ms/UnionsBehindWokeWave\n\n🔵 Watch in-depth videos based on Truth & Tradition at @EpochTV👇\nhttps://ept.ms/37ckRcx",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1264301656,
+            "comments": true,
+            "max_id": 871089,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1617610359
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1464023960
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1591259070
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 1959862
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 8078,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5712857208681956814",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-08-02 13:23:45.264892",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1642537685,
+          "editdate": 1642539423,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 92,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 129,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 52,
+              "offset": 169,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 22,
+              "offset": 232,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 20,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1343572701
+          },
+          "fwdfrom": {
+            "channel_post": 700,
+            "date": 1642530682,
+            "from_id": {
+              "channel_id": 1316260134,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 29464,
+            "saved_from_peer": {
+              "channel_id": 1343572701,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "Teachers Unions Exploited the COVID-19 Pandemic to Advance a Radical Agenda: Eric Eggers\n\n⭕️Tune in here for the full episode 👇\nhttps://ept.ms/UnionsBehindWokeWave\n\n🔵 Watch in-depth videos based on Truth & Tradition at @EpochTV👇\nhttps://ept.ms/37ckRcx",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 296429,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 691616
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 14000,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5770600810593415960",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-08-04 11:18:17.377884",
+          "channelabout": "Your independent voice in TV news—bringing back reliable, honest news reporting.\nWebsite: http://ntd.com \nNewsletter sign up: http://newsletter.ntd.com \nWatch NTD on cable: http://NTDAmerica.com \nSupport us: http://ntd.com/support-us.html",
+          "channeltitle": "NTD",
+          "channelusername": "NTDNews",
+          "date": 1642537682,
+          "editdate": 1642539423,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 92,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 129,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 52,
+              "offset": 169,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 22,
+              "offset": 232,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 700,
+            "date": 1642530682,
+            "from_id": {
+              "channel_id": 1316260134,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the COVID-19 Pandemic to Advance a Radical Agenda: Eric Eggers\n\n⭕️Tune in here for the full episode 👇\nhttps://ept.ms/UnionsBehindWokeWave\n\n🔵 Watch in-depth videos based on Truth & Tradition at @EpochTV👇\nhttps://ept.ms/37ckRcx",
+          "peerid": {
+            "channel_id": 1343572701,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1330128221,
+            "comments": true,
+            "max_id": 296429,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1617610359
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1535686363
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1528945278
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 694653
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3249,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595243145",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-18 04:45:17.825691",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1642477962,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1493087006
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Already spoken about brother. Flynn and co were doing a rally for themselves and Eric Trump went to market for Trump to remind the good people at the event who don’t understand Flynn and co are trying to steal their support from Trump",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1068607
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1493087006,
+            "_v": 1,
+            "access_hash": -4.42682174325357e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Tom",
+            "id": 1493087006,
+            "is_self": false,
+            "last_name": "W",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 170810,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500047400024
+              },
+              "photo_id": 6.06689437841422e+18,
+              "photo_small": {
+                "local_id": 170808,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 500047400024
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "83a9eb432db8df339719c59c55260f3cf2a2fbca"
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551854",
+        "_score": 7.5734,
+        "_source": {
+          "archivedon": "1682664400",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642516327,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 366778398
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Doch alle Menschen die dort hingehen. Und du wirst sehen, viele werden zu Eric Graziani nicht mehr hingehen, nachdem die Recherche öffentlich ist. \n\nRealitätsfremd bist du in dem Fall, weil du die Außenwirkung missachtest und die Leute ins offene Messer laufen lässt, wo man die Demos medial framen kann, weil Eric ein Vergangenheit hat, welche er verschweigt. \n\nAnalyse macht es möglich. aber die Erfahrung hast du eben nicht. Wenn du willst, dass die Demos wie 2014 scheitern, dann mach weiter so. Mährholz hat auch nicht hören wollen 2014 als ich ihm sagte, was er falsch machen würde und die Demos medial zerrissen werden.",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108908,
+            "reply_to_top_id": 108895,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.20496322408339e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 366778398,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682664400,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108910,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:40.011104"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5354447101273213440",
+        "_score": 7.3177,
+        "_source": {
+          "archivedon": "2022-01-18 15:08:19.595355",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1642516327,
+          "editdate": 1642516330,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 61,
+              "offset": 82,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 134,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 35,
+              "offset": 148,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://ept.ms/UnionsBehindWokeWave"
+            },
+            {
+              "length": 4,
+              "offset": 220,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 241,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 256,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 276,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 295,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the Pandemic to Advance a Radical Agenda: Eric Eggers\n🔵Watch in-depth videos based on Truth & Tradition at @EpochTV 👇  \nhttps://ept.ms/UnionsBehindWokeWave\nSource: NTD \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 434060
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 48,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6024709471169686469",
+        "_score": 7.3177,
+        "_source": {
+          "archivedon": "2022-01-19 00:24:01.24975",
+          "channeltitle": "FreeAlberta",
+          "channelusername": "FreeAlberta",
+          "date": 1642550132,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 129,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 276,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 276,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 276,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 56,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1569108249
+          },
+          "fwdfrom": {
+            "channel_post": 18384,
+            "date": 1642526139,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "🇺🇸 New York City Mayor Eric Adams Enjoyed Himself with Thousands of Other Maskless Fans at A New York Knicks Game Yesterday. \n\nCurrently, His City Requires Kindergarteners to Wear Masks, Including Outdoors at Recess, And Adams’ Covid Plan Recommended They Wear N95 Masks.\n\n\nhttps://t.me/JustDudeChannel",
+          "peerid": {
+            "channel_id": 1402736984,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 14617
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1569108249,
+            "_v": 1,
+            "access_hash": -3.94356118195027e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Little Quantum Gampy",
+            "id": 1569108249,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 168838,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500343
+              },
+              "photo_id": 4.93412819325483e+18,
+              "photo_small": {
+                "local_id": 168836,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500343
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_media_ref": "dc0f5efdc9168780015a83c2a351ca6544d4baa9"
+          },
+          "v": 1,
+          "views": 7408,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6142794060760409381",
+        "_score": 7.0639,
+        "_source": {
+          "archivedon": "2022-01-18 11:30:41.703996",
+          "channelabout": "Wir sind ohne Netz und doppelten Boden unterwegs.\n\nWir machen Fehler und sind keine Profis.\n\nWir sind nur am Puls der Zeit.",
+          "channeltitle": "Mut zur Analyse, Mut zur Befreiung",
+          "channelusername": "Mutflash",
+          "date": 1642503428,
+          "editdate": 1642504500,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 288,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31400274242806e+16,
+          "message": "\"Da ist ein Typ Namenes Eric Topol, ein \"Die Welt endet\"-Apokalypticer, der behauptete, der Grund, warum Japan die Pandemie so gut meisterte: Nur weil die Regierung so harte Maßnahmen durchzog, wie Masken.\" Witz komm raus: Japan bestellte Kindergröße, so dass niemand die tragen konnte.\n\nhttps://www.youtube.com/watch?v=Xy3tP-BW5do",
+          "peerid": {
+            "channel_id": 1430230695,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 253,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551885",
+        "_score": 7.0466,
+        "_source": {
+          "archivedon": "1682664399",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642519013,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 366778398
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Du hast das mit der Spaltung nicht verstanden. Der spaltet der die Menschen bewusst in Unkenntnis lässt und sie fremdsteuert, was offensichtlich auf Eric Graziani zutrifft. Meine Solidarität gebe ich Captain Future und brauche mir keine Gedanken machen, weil er offen und ehrlich ist. \nWas machst du, wenn du feststellst, dass du jemanden nachgelaufen bist der tatsächlich ein V-Mann ist und du andere Leute zu ihm hingebracht hast? Was machst du dann? \nWoher möchtest du zu dem wissen, was Eric wirklich vor hat? Ich analysiere und komme klar und deutlich zum Resultat, dass er nicht sauber ist. Und so einem renne ich nicht nach und habe auch keine Gemeinsamkeiten mit ihm, sondern mit anderen Menschen wie Captain.",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108938,
+            "reply_to_top_id": 108895,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.20496322408339e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 366778398,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682664399,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108941,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:39.813057"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551820",
+        "_score": 6.5103,
+        "_source": {
+          "archivedon": "1682664401",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642513913,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1059528298
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Das entscheidest schon mal nicht Du, ob wir in Berlin einen zentralen Ort brauchen oder nicht \nKannst dir mal an deine Laterne schreiben \n\nUnd wir werben auch Niemanden ab, wer gerne zum Alex kommen möchte, ist herzlich willkommen \n\nAlso was soll deine Spaltung und dein links rechts Gehetzte\n\nDafür haben wir keine Zeit mehr, wir sind alles Menschen\nAuch Eric ist ein Mensch",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108873,
+            "reply_to_top_id": 108846,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -4.8555444713315e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bonnie&Clyde ⚔",
+            "id": 1059528298,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.55063938955278e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIjjLRFy5wT0z6UUUU0I8="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "BonnieandClydeBerlin",
+            "verified": false,
+            "archivedon": 1682664401,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108876,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:41.391454"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5354447101273213599",
+        "_score": 6.5103,
+        "_source": {
+          "archivedon": "2022-01-18 21:32:16.047476",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1642537701,
+          "editdate": 1642537704,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 92,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 35,
+              "offset": 129,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 60,
+              "offset": 169,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 22,
+              "offset": 232,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 291,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 312,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 327,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 347,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 366,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Teachers Unions Exploited the COVID-19 Pandemic to Advance a Radical Agenda: Eric Eggers\n\n⭕️Tune in here for the full episode 👇\nhttps://ept.ms/UnionsBehindWokeWave\n\n🔵 Watch in-depth videos based on Truth & Tradition at @EpochTV👇\nhttps://ept.ms/37ckRcx\nSource: NTD \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 434466
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 52,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551909",
+        "_score": 5.808,
+        "_source": {
+          "archivedon": "1682664395",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642521740,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 366778398
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hetze nur weiter rum, hier gibt es viele Aktivisten in der Gruppe die mich seit Jahren kennen und wissen, dass ich bereits am 16 Januar 1990 eine Demo als Kind inszenierte die ich auch vorgeschlagen habe, wo über 30.000 Menschen waren.\n\nWenn solche Leute wie Eric deine Freunde sind, die mit ihm befreundet sind und in der Ukraine beteiligt waren an Ermordungen, dann bemitleide ich dich nicht einmal, weil du weißt mit wem du dich eingelassen hast.",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108963,
+            "reply_to_top_id": 108895,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.20496322408339e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 366778398,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682664395,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108965,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:36.409109"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551823",
+        "_score": 5.808,
+        "_source": {
+          "archivedon": "1682664401",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642514004,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 366778398
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric unpolitisch? Alter analysiere mal das. \nWer solche Freunde hat die Menschen abschlachten ist nicht unpolitisch. \n\nWahrheit kann keine Hetze sein zudem. \nHirn einschalten und genau nachdenken.\nNochmal, woher willst du wissen, ob der nicht vom VS ist wie alle Führungskader von der NPD und 3. Weg.\nHier stinkt was gewaltig und das alles hat nichts mit rechts oder links zu tun, sondern mit klaren Fakten über ihn, welche jeder selbst nachprüfen kann und auch muss.",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108871,
+            "reply_to_top_id": 108846,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.20496322408339e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 366778398,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682664401,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108879,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:41.392696"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5065755913785196892",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-01-18 08:45:56.838505",
+          "channelabout": "Yuri Bezmenov Warned Us",
+          "channeltitle": "Yuri Bezmenov Warned Us",
+          "channelusername": "yuribezmenovwarnedamerica",
+          "date": 1642494717,
+          "editdate": 1642494720,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 75,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 535,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://t.me/rtnews"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18553,
+            "date": 1642494631,
+            "from_id": {
+              "channel_id": 1387645188,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "French presidential candidate Eric Zemmour convicted for racist hate speech\n\nZemmour was found guilty Monday for a racist hate speech tirade against unaccompanied child migrants in September 2020. (NYT)\n\nThe media pundit told CNews channel that migrants were \"thieves, killers, they're rapists. That's all they are. We should send them back.”\n\nThe court fined him $11,400 which is to be paid in daily instalments, he could face prison time if he fails to pay the sum. Zemmour’s lawyers say he will appeal the verdict.\n\nSubscribe to RT t.me/rtnews",
+          "peerid": {
+            "channel_id": 1179463210,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1454366248,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 83816
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 29,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5283167231323314969",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-01-18 13:59:22.095575",
+          "channelabout": "Lichtkrieger Modus...\nAnon's Netzwerk-DE/Worldwide \nQ-Anon's kontakt kanal\nVon hier wirst du weitergeleitet.\nEinfach beitreten zum Kanal.\nOder informiere dich hier über unzensierte Meldungen aus der ganzen Welt .\nWWG1WGA\n✌️",
+          "channeltitle": "Q ANONYMOUS KANAL DEUTSCHLAND",
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "date": 1642510936,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 75,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 535,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://t.me/rtnews"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18553,
+            "date": 1642494631,
+            "from_id": {
+              "channel_id": 1387645188,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "French presidential candidate Eric Zemmour convicted for racist hate speech\n\nZemmour was found guilty Monday for a racist hate speech tirade against unaccompanied child migrants in September 2020. (NYT)\n\nThe media pundit told CNews channel that migrants were \"thieves, killers, they're rapists. That's all they are. We should send them back.”\n\nThe court fined him $11,400 which is to be paid in daily instalments, he could face prison time if he fails to pay the sum. Zemmour’s lawyers say he will appeal the verdict.\n\nSubscribe to RT t.me/rtnews",
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 814,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5846913321357829178",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-01-18 17:55:22.827629",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1642527214,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 75,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 535,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://t.me/rtnews"
+            }
+          ],
+          "forwards": 112,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1489341465
+          },
+          "fwdfrom": {
+            "channel_post": 18553,
+            "date": 1642494631,
+            "from_id": {
+              "channel_id": 1387645188,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "French presidential candidate Eric Zemmour convicted for racist hate speech\n\nZemmour was found guilty Monday for a racist hate speech tirade against unaccompanied child migrants in September 2020. (NYT)\n\nThe media pundit told CNews channel that migrants were \"thieves, killers, they're rapists. That's all they are. We should send them back.”\n\nThe court fined him $11,400 which is to be paid in daily instalments, he could face prison time if he fails to pay the sum. Zemmour’s lawyers say he will appeal the verdict.\n\nSubscribe to RT t.me/rtnews",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 549950,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 629027
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1489341465,
+            "_v": 1,
+            "access_hash": 3.02193595205673e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Boomie",
+            "id": 1489341465,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 60485,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100057900438
+              },
+              "photo_id": 5.11649682967506e+18,
+              "photo_small": {
+                "local_id": 60483,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100057900438
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Boomie789",
+            "verified": false,
+            "_media_ref": "f1b777245fba0766b7288c89a016a6b7633201f4"
+          },
+          "v": 1,
+          "views": 30070,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5860435123945605224",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-01-18 17:37:34.365227",
+          "channelabout": "Trolling the Videos and Streams of the Alt Lite, Bernouts, Trumplets, etc. with Woke Takes/Trvths",
+          "channeltitle": "Pilling and Trolling Normie Comments",
+          "channelusername": "JewTubeNazis",
+          "date": 1642524368,
+          "editdate": 1642524371,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 75,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 535,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://t.me/rtnews"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 18553,
+            "date": 1642494631,
+            "from_id": {
+              "channel_id": 1387645188,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "French presidential candidate Eric Zemmour convicted for racist hate speech\n\nZemmour was found guilty Monday for a racist hate speech tirade against unaccompanied child migrants in September 2020. (NYT)\n\nThe media pundit told CNews channel that migrants were \"thieves, killers, they're rapists. That's all they are. We should send them back.”\n\nThe court fined him $11,400 which is to be paid in daily instalments, he could face prison time if he fails to pay the sum. Zemmour’s lawyers say he will appeal the verdict.\n\nSubscribe to RT t.me/rtnews",
+          "peerid": {
+            "channel_id": 1364488882,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1319743778,
+            "comments": true,
+            "max_id": 83473,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 807184421
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 98621
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5137937043967551863",
+        "_score": 4.3998,
+        "_source": {
+          "archivedon": "1682664399",
+          "channelabout": "",
+          "channeltitle": "Freedom Parade",
+          "channelusername": "freedomParadeGruppe",
+          "date": 1642517067,
+          "editdate": 1642517164,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 402,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 366778398
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Wer eine Demo macht, der sollte die Menschen nicht im unklaren lassen über seine Vergangenheit und Fakt ist auch, dass was Uwe gepostet hat Realität ist und für jeden stichhaltig nachvollziehbar ist. \nIch analysiere nur und dort ist der Punkt, wo unsere Demos angreifbar sind. Hat im übrigen nichts mit einer Krone zu tun und Leute die mich kennen, wissen, dass ich ganz und gar nicht hochnäsig bin. \n\n@BonnieandClydeBerlin ich habe genügend Lügen aufgedeckt und wurde auch verhaftet und meine Wohnung durchsucht deshalb. Habe seit 2011 dazu Berufsverbot. \nKriege und Putsche habe ich seit 2011 vorsagen können, teilweise um Jahre, weil ich recherchieren kann.\nUnd, ich brauche Eric nicht befragen, da ich alles auf vk vor meinen Augen habe und seine Freundesliste ist öffentlich einsehbar für alle. Jedes Wort stimmt, was Uwe da gepostet hat.",
+          "peerid": {
+            "channel_id": 1196269189,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 108917,
+            "reply_to_top_id": 108895,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.20496322408339e+18,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 366778398,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false,
+            "archivedon": 1682664399,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "id": 108919,
+          "noforwards": false,
+          "lastseents": "2023-04-28T06:46:39.916207"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7457796751966079401",
+        "_score": 3.995,
+        "_source": {
+          "archivedon": "2022-02-20 01:27:31.957101",
+          "channelabout": "Einladungslink\nhttps://t.me/+6EJk9fUYEjw4YmMy",
+          "channeltitle": "Marburg - GemEINSam stark",
+          "channelusername": "Marburg_GemEINSam_stark",
+          "date": 1642512815,
+          "editdate": 1642513112,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1963874995
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Hallo zusammen!\n\nIch wollte mich noch mal für eure prompte Hilfe zu meinem Notruf gestern Abend bedanken und euch mitteilen dass ich inzwischen Hilfe gefunden habe was eine Unterkunft für mich und mein Klavier angeht.\n\nAn dieser Stelle auch einen ganz herzlichen Dank an Christiane und Marie die mir aus dieser misslichen Lage heraus geholfen haben werden.\n\nMarie hat mich zu einer Gemeinschaft eingeladen bei der ich erst einmal ein paar Tage unterkommen kann. \n\nDie finanzielle Unterstützung die mir hier angeboten wurde werde ich eventuell doch annehmen allerdings nicht um mich daran zu bereichern, sondern um etwas zu essen zu kaufen und diese Gemeinschaft im Sinne der Unterhaltskosten zu unterstützen, denn ich möchte eigentlich niemanden auf der Tasche liegen der mir auf direkte Weise so sehr hilft.\n\nDiese indirekte Unterstützung via Geld wäre also eher eine Gemeinschaftsunterstützug zur Lösung meiner Situation.\n\nVielen Dank, ihr seid eine wirklich tolle Gruppe und ich bin nach wie vor sprachlos über diese Nächstenliebe!\n\nLG\nEric",
+          "peerid": {
+            "channel_id": 1736403618,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 5145
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1963874995,
+            "_v": 1,
+            "access_hash": -8.73458418704787e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Eric",
+            "id": 1963874995,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 75140,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200612800938
+              },
+              "photo_id": 5.41818405562468e+18,
+              "photo_small": {
+                "local_id": 75138,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200612800938
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232036920",
+        "_score": 3.995,
+        "_source": {
+          "archivedon": "2022-03-05 19:38:48.329476",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1642537983,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1440324448
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "It looks like they ran into each other in an airport. Maybe Foxx listened to Joe Rogan podcast, & said thanks. Eric Clapton made the effort to contact McCollough when he went to Tx to play. I think it's a good thing Foxx agreed to a photo. It's a statement.  \n\nDr McCullough did a black radio show the other day...and the two co-hosts , while not always perfectly articulating the pinpoint science were asking all the right questions...they were engaged and awake...and per usual Dr McCullough patiently answered ... but he did alter his usual method. Usually Dr McCullough answers with citation to one paper after another. (Wise usually because it's not his opinion, he's just reporting/citing others.  That's to f the \"fact checker\" bs). On the black radio show, he didn't gum up the answers with the citations...for that forum, it would have robbed time and glazed eyes/ears. \n\nMaybe Foxx saw that .",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 87866
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1440324448,
+            "_v": 1,
+            "access_hash": -4.4496970790517e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dan",
+            "id": 1440324448,
+            "is_self": false,
+            "last_name": "S",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6260560565073096570",
+        "_score": 3.995,
+        "_source": {
+          "archivedon": "2022-01-18 21:26:55.39793",
+          "channelabout": "News from #Artsakh/#Armenia/#Diaspora\n🇪🇸 Spanish @reartsajesp\n🇫🇷 French   @republicfr\n📇 Contact @republichelp\n🐦 Twitter.com/publicofartsakh \n💵 Financial support\nhttps://www.buymeacoffee.com/artsakhrepublic\nhttps://www.patreon.com/artsakhrepub",
+          "channeltitle": "Re:public of Artsakh",
+          "channelusername": "reartsakheng",
+          "date": 1642539052,
+          "editdate": 1642539055,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 580,
+              "offset": 250,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "French Foreign Ministry considered unacceptable the statements of Azerbaijan about French presidential candidate Valérie Pécresse after her trip to Nagorno Karabakh, Jean-Yves Le Drian said, answering the questions of MPs in the National Assembly. \n\n\"Aliyev's statements are unacceptable in both form and substance, which I informed the Azerbaijani ambassador in France. \n\nIf I may make a point, I regret that the authorities of the [French] republic hadn’t received any official information about this visit. This is neither appropriate nor superfluous because it is more suitable, in the event of a trip to Stepanakert, to notify the authorities of the republic, who remain at the service of all elected officials.\n\nThat said, beyond this incident, it is important that France be in solidarity with Armenia, and we have been...\"\n\nIn response, Eric Ciotti, the deputy of the Republicans who asked the question, said that candidate Valérie Pécresse is not going to ask Macron's candidate for permission to travel.",
+          "peerid": {
+            "channel_id": 1457650346,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1475128291,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 78801
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 94,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "document": {
+                "attributes": {},
+                "thumbs": {},
+                "video_thumbs": {}
+              },
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

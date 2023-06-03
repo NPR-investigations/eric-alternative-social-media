@@ -1,0 +1,1036 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [40],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [12],
+      "relation": ["eq"]
+    },
+    "max_score": [13.5226],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5223938648764041175",
+        "_score": 13.5226,
+        "_source": {
+          "archivedon": "2022-09-05 10:08:45.313033",
+          "channelabout": "Forum: https://kiwifarms.net/\nChannel: @KiwiFarms\nDiscord (Unofficial): https://discord.gg/Tjgfw9RT\n\nNO FBI AGENTS ALLOWED\n\nEverything you say is recorded. You should make your profile private.",
+          "channeltitle": "Kiwi Farms Chat",
+          "channelusername": "kiwifarmschat",
+          "date": 1662372522,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 0,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            },
+            {
+              "length": 5,
+              "offset": 23,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            },
+            {
+              "length": 9,
+              "offset": 29,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1926801217
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1918137459
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "@The Ultimate Niggler  @Eric @Shambler",
+          "peerid": {
+            "channel_id": 1216292998,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 247745
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1918137459,
+            "_media_ref": "dfb3355e144494a109a68c9a968552b01c1cdd82",
+            "_v": 1,
+            "access_hash": -3.56428528145235e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Error",
+            "id": 1918137459,
+            "is_self": false,
+            "last_name": "Macro",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 227570,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200875100532
+              },
+              "photo_id": 5.23119509095591e+18,
+              "photo_small": {
+                "local_id": 227568,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200875100532
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Err0rMacro",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5223938648764049457",
+        "_score": 13.1182,
+        "_source": {
+          "archivedon": "2022-09-05 16:49:14.667319",
+          "channelabout": "Forum: https://kiwifarms.net/\nChannel: @KiwiFarms\nDiscord (Unofficial): https://discord.gg/Tjgfw9RT\n\nNO FBI AGENTS ALLOWED\n\nEverything you say is recorded. You should make your profile private.",
+          "channeltitle": "Kiwi Farms Chat",
+          "channelusername": "kiwifarmschat",
+          "date": 1662395239,
+          "editdate": 1662395282,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Bs, Eric Raymond used it in 1997",
+          "peerid": {
+            "channel_id": 1216292998,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 256001,
+            "reply_to_top_id": 247758
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939747350",
+        "_score": 9.8366,
+        "_source": {
+          "archivedon": "2022-09-05 18:56:32.943867",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1662393767,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5390,
+            "date": 1662387639,
+            "from_id": {
+              "channel_id": 1571297155,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Bürgermeister Eric Garcetti zwingt Kinder, die in Freizeiteinrichtungen in Los Angeles Hallensport betreiben, immer noch, während einer Hitzewelle nutzlose Masken zu tragen. Während er selbst bei NFL-Spielen maskenlos erscheint.",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 7
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5647992486568668157",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-05 22:32:40.654414",
+          "channelabout": "✅ John F. Kennedy Jr. Fan Page ⭐️",
+          "channeltitle": "John F. Kennedy Jr.",
+          "channelusername": "JFKJ_QAnon",
+          "date": 1662386941,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 143,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Mayor Eric Garcetti is still forcing children playing indoor sports in Los Angeles recreation facilities to wear useless masks during a heat wave. While she will appear maskless at NFL games. \n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1315025726,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 27260
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939747346",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-05 18:56:32.938027",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1662393767,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 11261,
+            "date": 1662386941,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Mayor Eric Garcetti is still forcing children playing indoor sports in Los Angeles recreation facilities to wear useless masks during a heat wave. While she will appear maskless at NFL games. \n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 5
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939747349",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-05 18:56:32.942413",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1662393767,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 11261,
+            "date": 1662386941,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Mayor Eric Garcetti is still forcing children playing indoor sports in Los Angeles recreation facilities to wear useless masks during a heat wave. While she will appear maskless at NFL games. \n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 2
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "4983146010303041135",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-05 18:54:31.871775",
+          "channelabout": "It's not over until we say it's over!",
+          "channeltitle": "BLACKLIST of CABALS",
+          "channelusername": "the_fall_of_the_Cabal",
+          "date": 1662398681,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 115,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1123109037
+          },
+          "fwdfrom": {
+            "channel_post": 11261,
+            "date": 1662386941,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Mayor Eric Garcetti is still forcing children playing indoor sports in Los Angeles recreation facilities to wear useless masks during a heat wave. While she will appear maskless at NFL games. \n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1160229093,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 439243
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_id": 1123109037,
+            "_media_ref": "cb665b02f3e827c387e075b463f67b4413795a54",
+            "_v": 1,
+            "access_hash": -7.81797161230108e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "TRYC17",
+            "id": 1123109037,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 414767,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200095700438
+              },
+              "photo_id": 5.46295758215195e+18,
+              "photo_small": {
+                "local_id": 414765,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200095700438
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "TRYC17",
+            "verified": false
+          },
+          "v": 1,
+          "views": 19339
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939747385",
+        "_score": 9.5351,
+        "_source": {
+          "archivedon": "2022-09-05 18:56:32.995327",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1662395829,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 7,
+              "offset": 203,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 11261,
+            "date": 1662386941,
+            "from_id": {
+              "channel_id": 1315025726,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Mayor Eric Garcetti is still forcing children playing indoor sports in Los Angeles recreation facilities to wear useless masks during a heat wave. While she will appear maskless at NFL games. \n\nChannel: @JFK_TV",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "6094192163595973856",
+        "_score": 8.9899,
+        "_source": {
+          "archivedon": "2022-09-05 06:56:58.832169",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1662354669,
+          "editdate": 1662354717,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 195423657
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Feeding illusions. These 52 thousand potential votes will easily be overturned by cheating. Using ERIC to cleanup voter rolls is political suicide. Using electronic equipment is after all these examples from other states pure stupidity. We can only pray.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1797627
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 195423657,
+            "_media_ref": "500e0dd6091f5ad8d9f3f17bbb953ccf84358ac8",
+            "_v": 1,
+            "access_hash": 1.82257687836007e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Francesco",
+            "id": 195423657,
+            "is_self": false,
+            "last_name": "DePopolo",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 430755,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919971
+              },
+              "photo_id": 8.39338216135961e+17,
+              "photo_small": {
+                "local_id": 430753,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 107919971
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FrankVoelker",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "4499882234391578450",
+        "_score": 7.3104,
+        "_source": {
+          "archivedon": "2022-09-05 17:25:31.712397",
+          "channelabout": "Analysis and Commentary on Current Events —  4GW and Economic Collapse with a dash of Freedoms and Civil Rights. Chat: @ActionableTruth or @wokeintelchat",
+          "channeltitle": "Truth: Harder to Find",
+          "channelusername": "exposingthelies",
+          "date": 1662387454,
+          "editdate": 1662387457,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 3,
+              "offset": 36,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 88,
+              "offset": 178,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 25,
+              "offset": 305,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 24,
+              "offset": 356,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 32,
+              "offset": 412,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6142,
+            "date": 1661657107,
+            "from_id": {
+              "channel_id": 1302086965,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "𝐣Ⓞαnᑌℙ (not \"Joan\")",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "JoanUp hears 3 different stories of #J6 defendants who share passion for GOD and country as well as arrests for being at the Capitol on January 6.\n\nCatch the whole podcast here:\nhttps://rumble.com/v1hn30b-sovereign-souls-ep.-30-compelled-by-god-three-j6-stories.html\n\nMunn Family (sentencing travel fund)\nwww.givesendgo.com/QUIVER\n\nEric Clark (legal fund)\nwww.givesendgo.com/G2FJH\n\nDerrick Kinnison (legal fund)\nwww.givesendgo.com/derekkinnison",
+          "peerid": {
+            "channel_id": 1047710477,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1458450017,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 150857
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 47
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5811551549939747116",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "2022-09-05 09:58:52.463302",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1662361665,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 35,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=Ka4zx4wuvUc&list=PL7KGMCG9oA4ub47fu-wWue-3h8j5hpZlx&index=7"
+            },
+            {
+              "length": 6,
+              "offset": 35,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 3,
+              "offset": 41,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 48,
+              "offset": 44,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 27,
+              "offset": 567,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=Ka4zx4wuvUc&list=PL7KGMCG9oA4ub47fu-wWue-3h8j5hpZlx&index=7"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 2,
+              "offset": 732,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 2,
+              "offset": 732,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/lifehackpower/1308"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/HolistischeGesundheitHeilung/3281"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 46,
+              "offset": 901,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4483,
+            "date": 1662320110,
+            "from_id": {
+              "channel_id": 1168834606,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "🌎Pranayama und Qigong Atemübungen(Quelle)\n\n🌴Holistische Gesundheit Heilung und Aufklärung\nIn dem Video wird erklärt warum eine richtige Atmung uns Gesund hält. Wir entgiften, wir steigern unser Lebensgefühl und werden in jeglicher Hinsicht umsichtiger. Sehr empfehlenswert.\n\n\"Pranayama ist die altertümliche vedische Wissenschaft der Atmung, wie sie über mehrere Tausend Jahre von indischen Yogis praktiziert und perfektioniert wurde. \n\nShaolin Mönche und Taoisten entwickelten und praktizieren eine ähnliche Kunst, als Qigong (Chigong) bekannt.\n\nOriginal-Artikel: www.atlanteanconspiracy.com. Text: Eric Dubay, Übersetzung: Paul Breuer. Der Sprecher hat noch keine optimale Luftversorgung, wie man hören kann :)\"\n\n🏞YouTube-Link\n🌇Wissensbewahrung/Absicherung\n\n👒Hier erhalten Sie weitere Informationen über das Themenfeld WIM HOF/Atmung/Gesundheit\n\n🌴Holistische Gesundheit Heilung und Aufklärung\nhttps://t.me/HolistischeGesundheitHeilung/4483",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 4
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202209",
+        "_id": "5283167231323365946",
+        "_score": 5.2903,
+        "_source": {
+          "archivedon": "2022-09-05 10:38:54.651975",
+          "channelabout": "Lichtkrieger Modus...\nAnon's Netzwerk-DE/Worldwide \nQ-Anon's kontakt kanal\nVon hier wirst du weitergeleitet.\nEinfach beitreten zum Kanal.\nOder informiere dich hier über unzensierte Meldungen aus der ganzen Welt .\nWWG1WGA\n✌️",
+          "channeltitle": "Q ANONYMOUS KANAL DEUTSCHLAND",
+          "channelusername": "q_anonymous_kanal_deutschland",
+          "date": 1662369935,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 33,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 35,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=Ka4zx4wuvUc&list=PL7KGMCG9oA4ub47fu-wWue-3h8j5hpZlx&index=7"
+            },
+            {
+              "length": 6,
+              "offset": 35,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 3,
+              "offset": 41,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 48,
+              "offset": 44,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 27,
+              "offset": 567,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.youtube.com/watch?v=Ka4zx4wuvUc&list=PL7KGMCG9oA4ub47fu-wWue-3h8j5hpZlx&index=7"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 719,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 2,
+              "offset": 732,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 2,
+              "offset": 732,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/lifehackpower/1308"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 30,
+              "offset": 734,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/HolistischeGesundheitHeilung/3281"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 764,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 46,
+              "offset": 901,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4483,
+            "date": 1662320110,
+            "from_id": {
+              "channel_id": 1168834606,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "🌎Pranayama und Qigong Atemübungen(Quelle)\n\n🌴Holistische Gesundheit Heilung und Aufklärung\nIn dem Video wird erklärt warum eine richtige Atmung uns Gesund hält. Wir entgiften, wir steigern unser Lebensgefühl und werden in jeglicher Hinsicht umsichtiger. Sehr empfehlenswert.\n\n\"Pranayama ist die altertümliche vedische Wissenschaft der Atmung, wie sie über mehrere Tausend Jahre von indischen Yogis praktiziert und perfektioniert wurde. \n\nShaolin Mönche und Taoisten entwickelten und praktizieren eine ähnliche Kunst, als Qigong (Chigong) bekannt.\n\nOriginal-Artikel: www.atlanteanconspiracy.com. Text: Eric Dubay, Übersetzung: Paul Breuer. Der Sprecher hat noch keine optimale Luftversorgung, wie man hören kann :)\"\n\n🏞YouTube-Link\n🌇Wissensbewahrung/Absicherung\n\n👒Hier erhalten Sie weitere Informationen über das Themenfeld WIM HOF/Atmung/Gesundheit\n\n🌴Holistische Gesundheit Heilung und Aufklärung\nhttps://t.me/HolistischeGesundheitHeilung/4483",
+          "peerid": {
+            "channel_id": 1230083227,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 248
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

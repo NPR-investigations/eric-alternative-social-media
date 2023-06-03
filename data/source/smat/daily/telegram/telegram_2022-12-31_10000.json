@@ -1,0 +1,881 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [37],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [12],
+      "relation": ["eq"]
+    },
+    "max_score": [11.8613],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5658366997252109070",
+        "_score": 11.8613,
+        "_source": {
+          "archivedon": "1680801707",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1672498038,
+          "editdate": 1672508666,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1435349508
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 94990,
+          "message": "Well, put me in the cast of local electoral board members that want out of ERIC.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1597175304
+                },
+                "reaction": "❤",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1582436156
+                },
+                "reaction": "❤",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 164146
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -9.16239234843612e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680801707,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "MAGA Randall",
+            "id": 1435349508,
+            "is_self": false,
+            "last_name": "Wengair",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.12322094457433e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgItZPm4x369sUUUUDP"
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1680751663
+            },
+            "support": false,
+            "username": "wengair",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-06T17:21:47.788311"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5658366997252109068",
+        "_score": 11.4229,
+        "_source": {
+          "archivedon": "1680801707",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "date": 1672492570,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1609480961
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 94988,
+          "message": "Great news! Need to disconnect from ERIC statewide. Who is responsible for keeping that contract and connection in place?",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 94987,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.78388350121188e+18,
+            "apply_min_photo": true,
+            "archivedon": 1680801707,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Rob",
+            "id": 1609480961,
+            "is_self": false,
+            "last_name": "B",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1680801638
+            },
+            "support": false,
+            "username": "Federalist51",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-06T17:21:47.826349"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5782522656259946521",
+        "_score": 9.3008,
+        "_source": {
+          "archivedon": "2022-12-31 07:02:53.945451",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1672464089,
+          "editdate": 1672464092,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1609049332396720129"
+            },
+            {
+              "length": 23,
+              "offset": 215,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Reuters (Twitter)\n\nEric Xu, Chinese tech giant Huawei’s rotating chairman, struck an upbeat tone in the company's annual New Year's letter, suggesting that its sales decline due to U.S. sanctions had come to a halt https://reut.rs/3IlZUPU",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 606887
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 9
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5782522656259946782",
+        "_score": 9.1266,
+        "_source": {
+          "archivedon": "2022-12-31 21:49:14.829506",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1672522605,
+          "editdate": 1672522605,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1609288282101137408"
+            },
+            {
+              "length": 23,
+              "offset": 238,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Reuters (Twitter)\n\nICYMI: Chinese tech giant Huawei sees 'business as usual' as U.S. sanctions impact wanes. Despite sales increasing a mere 0.02%, rotating chairman Eric Xu struck an upbeat tone in the company's annual New Year's letter https://reut.rs/3IlZUPU",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 607319
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 2
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4980640914792798900",
+        "_score": 8.7993,
+        "_source": {
+          "archivedon": "2023-01-01 01:00:07.09553",
+          "channelabout": "Who You Obey Is Who You Serve\nSo Let It Be LOGOS",
+          "channeltitle": "This Channel Didnt Kill Itself🐻",
+          "channelusername": "LogosIsRising",
+          "date": 1672522176,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 39,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 40,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://youtu.be/cAr7yWnTBDY"
+            },
+            {
+              "length": 252,
+              "offset": 51,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 36283,
+            "date": 1672322162,
+            "from_id": {
+              "channel_id": 1335927003,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "mingming the merciful",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Astronomical Violations of Perspective \nEric Dubay\nAstronomical Violations of Perspective was an essay published in The Earth Review magazine October, 1893 by flat earther Albert Smith detailing the law of perspective and debunking the popular globe-Earth proof of ships disappearing beyond the horizon.",
+          "peerid": {
+            "channel_id": 1159645830,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "M1Bear🐻",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 14
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7181873497227017728",
+        "_score": 8.4974,
+        "_source": {
+          "archivedon": "2022-12-31 17:03:06.873908",
+          "channeltitle": "S.N.Q gp",
+          "date": 1672502869,
+          "editdate": 1672502934,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 10,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 3,
+              "offset": 81,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/newsofmyanmar"
+            },
+            {
+              "length": 19,
+              "offset": 553,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/newsofmyanmar"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1773792795
+          },
+          "fwdfrom": {
+            "channel_post": 1033,
+            "date": 1672474639,
+            "from_id": {
+              "channel_id": 1735593372,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "🇺🇸❌🇨🇳 အမေရိကန်ရဲ့ ပိတ်ဆို့မှုက သူတို့ကိုထိခိုက်မှုမရှိဘူးလို့ Huawei ပြောဆို NOM\n\nတရုတ်နည်းပညာ ကုမ္ပဏီကြီးတခုဖြစ်တဲ့ Huawei ရဲ့ ဥက္ကဋ္ဌ Eric Xu က အမေရိကန်ရဲ့ ပိတ်ဆို့မှုတွေကြောင့် သူတို့လုပ်ငန်းမှာ ကျဆင်းမှုတွေရှိခဲ့ပေမယ့်လည်း ၂၀၂၂ မှာ ဝင်ငွေတိုးပွားခဲ့တယ်လို့ ပြောဆိုလိုက်ပါတယ်။ \n\n\"အမေရိကန်ရဲ့ကန့်သတ်ချုပ်ချယ်မှုတွေက ကျနော်တို့အတွက်တော့ ပုံမှန်အသစ် တခုဖြစ်လာခဲ့ပါပြီ၊ ပုံမှန်အတိုင်း လုပ်ငန်းတွေ ပြန်လည်ပတ်နေပါပြီ\" လို့ ကုမ္ပဏီရဲ့ နှစ်သစ်စာတစောင်မှာ ရေးသားပြောခဲ့ပါတယ်။ ၂၀၂၂ မှာ Huawei က ဝင်ငွေဒေါ်လာ ၉၁.၅၃ ဘီလီယံအထိရရှိမယ်လို့ ခန့်မှန်းထားပါတယ်။ \n\nNews Of Myanmar NOM",
+          "peerid": {
+            "channel_id": 1672160229,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 261899
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.3079815519338e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Jackson",
+            "id": 1773792795,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1773792795,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 55
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5963627275214653191",
+        "_score": 7.7172,
+        "_source": {
+          "archivedon": "2022-12-31 15:36:19.333382",
+          "channelabout": "These lives mattered.",
+          "channeltitle": "Every Day",
+          "channelusername": "everyday1350",
+          "date": 1672488095,
+          "editdate": 1672488207,
+          "edithide": true,
+          "entities": [],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 228,
+            "date": 1609423207,
+            "from_id": {
+              "channel_id": 1388515177,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "On December 31, 2013, John Kohler along with his son David Carpenter-Kohler and stepdaughter Ashley Carpenter were killed in their home. Eric Hendon and his brother Michael Hendon broke into the house and forced John to open a safe. Once that was done, they shot John, 14-year-old David, and 18-year-old Ashley each in the head.",
+          "peerid": {
+            "channel_id": 1388515177,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 401
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4585130905651126181",
+        "_score": 5.6296,
+        "_source": {
+          "archivedon": "1679111600",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "date": 1672491341,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 8101,
+          "message": "#TopStories\n\nHuawei says unaffected by US sanctions. Huawei chairman Eric Xu claimed on Friday the Chinese Big Tech giant had actually increased revenues this year after reporting its 2022 revenues had remained flat despite US sanctions clamping down. U.S. restrictions are now our new normal and we're back to business as usual Xu wrote in the company’s annual New Year letter citing a forecasted revenue of $91.53 billion. Sales have dropped 30% year on year though partly down to the restrictions on access to semiconductor chips.\n\n🦅If you're trying to talk about public issues and politics and showcase it in a positive different way. I think people like the idea.🇺🇸",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 147,
+          "lastseents": "2023-03-18T03:53:20.970894",
+          "mediaref": "2026390e66377ac095017a1fd757b7f86d2ccb87"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4589158519822884811",
+        "_score": 5.6296,
+        "_source": {
+          "archivedon": "1679138188",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "date": 1672491340,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 8139,
+          "message": "#TopStories\n\nHuawei says unaffected by US sanctions. Huawei chairman Eric Xu claimed on Friday the Chinese Big Tech giant had actually increased revenues this year after reporting its 2022 revenues had remained flat despite US sanctions clamping down. U.S. restrictions are now our new normal and we're back to business as usual Xu wrote in the company’s annual New Year letter citing a forecasted revenue of $91.53 billion. Sales have dropped 30% year on year though partly down to the restrictions on access to semiconductor chips.\n\n🦅If you're trying to talk about public issues and politics and showcase it in a positive different way. I think people like the idea.🇺🇸",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 56,
+          "lastseents": "2023-03-18T11:29:31.634269",
+          "mediaref": "2026390e66377ac095017a1fd757b7f86d2ccb87"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5764665659711561755",
+        "_score": 5.6296,
+        "_source": {
+          "archivedon": "1680899107",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1672491398,
+          "editdate": 1672491403,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 8219,
+          "message": "#TopStories\n\nHuawei says unaffected by US sanctions. Huawei chairman Eric Xu claimed on Friday the Chinese Big Tech giant had actually increased revenues this year after reporting its 2022 revenues had remained flat despite US sanctions clamping down. U.S. restrictions are now our new normal and we're back to business as usual Xu wrote in the company’s annual New Year letter citing a forecasted revenue of $91.53 billion. Sales have dropped 30% year on year though partly down to the restrictions on access to semiconductor chips.\n\n🦅If you're trying to talk about public issues and politics and showcase it in a positive different way. I think people like the idea.🇺🇸",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27906
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 181,
+          "lastseents": "2023-04-07T20:25:07.790803",
+          "mediaref": "2026390e66377ac095017a1fd757b7f86d2ccb87"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4902471006767030760",
+        "_score": 5.6296,
+        "_source": {
+          "archivedon": "1683712374",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "date": 1672491406,
+          "editdate": 1672491410,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 11,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 8680,
+          "message": "#TopStories\n\nHuawei says unaffected by US sanctions. Huawei chairman Eric Xu claimed on Friday the Chinese Big Tech giant had actually increased revenues this year after reporting its 2022 revenues had remained flat despite US sanctions clamping down. U.S. restrictions are now our new normal and we're back to business as usual Xu wrote in the company’s annual New Year letter citing a forecasted revenue of $91.53 billion. Sales have dropped 30% year on year though partly down to the restrictions on access to semiconductor chips.\n\n🦅If you're trying to talk about public issues and politics and showcase it in a positive different way. I think people like the idea.🇺🇸",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 41,
+          "lastseents": "2023-05-10T09:52:54.648999",
+          "mediaref": "2026390e66377ac095017a1fd757b7f86d2ccb87",
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/8680"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5811551549939817538",
+        "_score": 2.469,
+        "_source": {
+          "archivedon": "2023-01-01 00:45:44.069847",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1672519422,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 80,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 16,
+              "offset": 92,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 438,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://truthsocial.com/users/realDonaldTrump/statuses/109598742277602621"
+            },
+            {
+              "length": 30,
+              "offset": 452,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://truthsocial.com/users/realDonaldTrump/statuses/109598742277602621"
+            },
+            {
+              "length": 36,
+              "offset": 2100,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://truthsocial.com/users/realDonaldTrump/statuses/109598780419590130"
+            },
+            {
+              "length": 40,
+              "offset": 3088,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://truthsocial.com/users/realDonaldTrump/statuses/109597002622029482"
+            },
+            {
+              "length": 89,
+              "offset": 3254,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 20563,
+            "date": 1672491412,
+            "from_id": {
+              "channel_id": 1752665883,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Trump deutete auf Flughafenreiseprobleme hin und beklagt die USA im Niedergang!!\n\n(Newsmax)\nVon Eric Mack | Donnerstag, 29. Dezember 2022 20:56 EST\n\n\n\nAls er auf seinen berühmten \"Nation in Decline\"-Kampagnenschluss aus Sommer und Herbst zurückblickte, beklagte der ehemalige Präsident Donald Trump den Albtraum der Weihnachtsreise, der sich entfaltet hat.\n\"Unsere Flughäfen und vieles andere sind wie die eines Landes der Dritten Welt\", schrieb Trump am Donnerstag auf Truth Social. \"Die USA sind so weit gesunken, so schnell. Sehr traurig zu sehen!\"\nDie Bemerkungen spiegeln Auszüge aus dem Ende seiner Wahlkampf-Rallye-Rede wider, die oft auf die Klänge von Donner und Blitz zusammen mit trauriger Orgelmusik eingestellt war.\n\"Eine Nation, deren einst verehrte Flughäfen schmutzig und ein überfülltes Durcheinander sind\", sagte Trump unzählige Male in Rallye-Reden, die auch in Zwischenkampagnen-Videoanzeigen wiedergegeben wurden. \"Sie sitzen und warten stundenlang und werden dann benachrichtigt, dass das Flugzeug nicht abfahren wird, und sie haben keine Ahnung, wann sie es tun werden.\n\"Wo sich die Ticketpreise verdreifacht haben. Sie haben nicht die Piloten, um die Flugzeuge zu fliegen, und sie suchen keine qualifizierten Fluglotsen mehr, und sie wissen einfach nicht, was sie tun.\n\"Wir sind eine Nation, die ihr Vertrauen, ihre Willenskraft und ihre Stärke verloren hat. Wir sind eine Nation, die sich verirrt hat, aber wir werden nicht zulassen, dass dieser Horror anhält. Vor zwei Jahren waren wir eine große Nation, und wir werden bald wieder eine große Nation sein.\"\nIn einem anderen Truth Social-Post am Donnerstag stellte Trump fest, dass der Gnadenfall nach einer Präsidentschaftswahl 2020 kam, die durch Aufstände der sozialen Ungerechtigkeit und FBI-Zensur - durch ordentliche Beziehungen zu und Einfluss auf Big Tech - von wahren Geschichten manipuliert wurde, die Trumps Wahlkampfgegner trüben könnten.\n\n\n\"Gibt es keine Konsequenzen für den enormen Schaden, der unserem Land durch die manipulierten und korrupten Präsidentschaftswahlen 2020 zugefügt wurde? Streng Dritte Welt!\" Trump hat auf Truth Social gepostet.\nTrumps Erklärung beklagte, dass der FBI-Aufseher der demokratischen Regierung von Michigan Gretchen Whitmer Entführungsplan und die Sonden vom 6. Januar wurden ersetzt, kurz bevor die republikanische Mehrheit das Haus übernehmen und sich mit den möglichen Plänen befassen sollte, um Trump zu entgleisen.\nAnfang Donnerstag sprengte Trump das, was er das Zensurschema des FBI nannte, durch seine Beziehungen zu Twitter, Facebook, Google und anderen Big-Tech-Unternehmen.\n\"Also, wenn das FBI illegal alle wirklich schlechten Informationen über die Biden-Familie unterdrückt (Laptop!) auf einer Ebene, die noch nie zuvor gesehen wurde (\"es war russische Desinformation\", sagten sie), während sie gleichzeitig die vielen positiven Dinge, die von \"Trump\" erreicht wurden, nicht an die Öffentlichkeit gehen ließen, sondern stattdessen \"schlechte Dinge\" herausbringen würden, das wäre die eigentliche Definition der Takelage einer Wahl durch die Regierung\", schrieb Trump in einem Truth Social Post.\n\"Pollster projizierten, dass dieser Betrug einen Unterschied von Millionen von Stimmen machte. Was sind die Konsequenzen?\"\n\nhttps://www.newsmax.com/politics/donald-trump-airlines-third-world/2022/12/29/id/1102392/",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 4
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

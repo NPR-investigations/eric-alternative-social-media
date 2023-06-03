@@ -1,0 +1,511 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [47],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [7],
+      "relation": ["eq"]
+    },
+    "max_score": [13.6308],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5847581214541617082",
+        "_score": 13.6308,
+        "_source": {
+          "archivedon": "2022-06-15 21:54:44.37518",
+          "channelabout": "Newsmax TV, America’s fastest-growing cable news channel in more than 70 million homes, gives you the latest breaking news from Washington, New York, Hollywood and from capitals around the world - with top-rated shows.",
+          "channeltitle": "Newsmax TV",
+          "channelusername": "NewsmaxTV",
+          "date": 1655324153,
+          "editdate": 1655329968,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 44,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 74,
+              "offset": 53,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 10,
+              "offset": 129,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 129,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Bolling: She won't last until Halloween\n\nWATCH: https://rumble.com/v18kotd-eric-bolling-she-wont-last-until-halloween.html\n\n@NewsmaxTV",
+          "peerid": {
+            "channel_id": 1361496098,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2366,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5712857208682066195",
+        "_score": 13.5922,
+        "_source": {
+          "archivedon": "2022-08-02 20:07:14.354462",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1655303106,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1551911019
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Starting with Eric Holder?",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 404508
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1551911019,
+            "_v": 1,
+            "access_hash": -4.80818996082796e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bob",
+            "id": 1551911019,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Bself22",
+            "verified": false
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5583450097456264547",
+        "_score": 13.1707,
+        "_source": {
+          "archivedon": "2022-08-02 02:53:08.702718",
+          "channeltitle": "Red State",
+          "channelusername": "RedStateBlog",
+          "date": 1655327324,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 59,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 108,
+              "offset": 60,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "The Complicated Relationship Between Eric Greitens and Guns\nhttps://redstate.com/smoosieq/2022/06/15/the-complicated-relationship-between-eric-greitens-and-guns-n578420",
+          "peerid": {
+            "channel_id": 1299998280,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 854,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6462698025423734436",
+        "_score": 6.7083,
+        "_source": {
+          "archivedon": "1682233091",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1655327420,
+          "editdate": 1655340408,
+          "edithide": true,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 815,
+            "date": 1655305939,
+            "from_id": {
+              "channel_id": 1415768253,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "groupedid": 1.32426193600481e+16,
+          "message": "You think David Becker, founder of CEIR, the ERIC system, and now the EOLDN will be the first one on the phone with the Otero County commissioners offering them pro bono legal defense against the lawsuits filed against them by the NM SoS & threats by the AG? \n\nI mean, this is exactly why he created it in the first place, is it not? \n\nHere, listen to him explain it himself.",
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34072
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 178,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "id": 1700,
+          "mediaref": "0f22d2f2191ea12310f7a2c5cdc4f559afb532ec",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🤬",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-23T06:58:12.081258"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5157978843134297998",
+        "_score": 6.5197,
+        "_source": {
+          "archivedon": "2022-06-15 16:24:36.419128",
+          "channelabout": "Www.Auditthevotepa.com\n\nThe Audit The Vote Team:\nKaren Taylor\nToni Shuppe\nJamie Sheffield\n\nUpdates on our grassroots movement for election integrity and demands for an audit in Pennsylvania.",
+          "channeltitle": "Audit the Vote PA",
+          "channelusername": "auditthevotepa",
+          "date": 1655307840,
+          "editdate": 1655308129,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 377,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 400,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 1456095244
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 815,
+            "date": 1655305939,
+            "from_id": {
+              "channel_id": 1415768253,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "groupedid": 1.32424627227239e+16,
+          "message": "You think David Becker, founder of CEIR, the ERIC system, and now the EOLDN will be the first one on the phone with the Otero County commissioners offering them pro bono legal defense against the lawsuits filed against them by the NM SoS & threats by the AG? \n\nI mean, this is exactly why he created it in the first place, is it not? \n\nHere, listen to him explain it himself.\n\n@CannabisConservative \nBehizy GEORGE",
+          "peerid": {
+            "channel_id": 1200935534,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Karen Taylor",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202814673,
+            "comments": true,
+            "max_id": 194184,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1696556858
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1886762252
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1710283018
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 339315
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 255,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "4983987381511174984",
+        "_score": 5.8754,
+        "_source": {
+          "archivedon": "2022-06-15 18:33:52.242628",
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch",
+          "channeltitle": "QAge2020/21",
+          "channelusername": "Qage2020",
+          "date": 1655301030,
+          "editdate": 1655301033,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 110,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 50,
+              "offset": 507,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 16,
+              "offset": 524,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FreedomFighterVoices"
+            },
+            {
+              "length": 16,
+              "offset": 524,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 8681,
+            "date": 1655242534,
+            "from_id": {
+              "channel_id": 1236119220,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "The Age of Algorithms: Former Google CEO Explains the Eventuality of A.I. Governing Over Humans\n\nEric Schmidt: \"Humans are not mathematically as precise as we wish that we are. And indeed, human intuition is often wrong.\"\n\n\"Instead of Dr. Fauci, we have an all-knowing computer, which basically pronounces important things for health.\"\n\n\"... the fact that A.I. could discover moves that humans had not discovered in 2,500 years in a well-established game [chess] indicates that it may just be smarter ...\"\n\nShare & Join the Freedom Fighters Telegram channel",
+          "peerid": {
+            "channel_id": 1160424990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Digital Warrior of God WWG1WGA🇫🇷🇺🇸🇩🇪",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 88288
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 10,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5811551549939699481",
+        "_score": 5.149,
+        "_source": {
+          "archivedon": "2022-06-15 18:35:45.580537",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1655312077,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 42,
+              "offset": 507,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 8,
+              "offset": 746,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 20,
+              "offset": 770,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 28,
+              "offset": 802,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 16019,
+            "date": 1655237838,
+            "from_id": {
+              "channel_id": 1518960967,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "The Age of Algorithms: Former Google CEO Explains the Eventuality of A.I. Governing Over Humans\n\nEric Schmidt: \"Humans are not mathematically as precise as we wish that we are. And indeed, human intuition is often wrong.\"\n\n\"Instead of Dr. Fauci, we have an all-knowing computer, which basically pronounces important things for health.\"\n\n\"... the fact that A.I. could discover moves that humans had not discovered in 2,500 years in a well-established game [chess] indicates that it may just be smarter ...\"\n\nhttps://t.me/SpecialQForcesQmmunity/149552\n\nCHANNEL DISCLAIMER:\nDEATH PENALTY FOR\nCRIMES AGAINST HUMANITY\nHIGH CRIMES\n 🔥HUMAN TRAFFICKING\n 🔥HUMAN FARMING\n 🔥CHILD SEX | PEDOPHILIA\n 🔥ADRENOCHROME\nGENOCIDE\nTERRORISM\nTREASON\n\nsupported by\n@GitmoTV\nin cooperation\n@TRIBUNALSforJUSTICE\npowered by\n@ExposeThePEDOSendOfTheCABAL",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

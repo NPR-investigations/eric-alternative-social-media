@@ -1,0 +1,566 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [48],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [6],
+      "relation": ["eq"]
+    },
+    "max_score": [10.1005],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6042864177670896520",
+        "_score": 10.1005,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-03 20:32:13.116539",
+          "channelabout": "Patriot Party of Rhode Island telegram chat.",
+          "channeltitle": "Patriot Party of Rhode Island",
+          "channelusername": "PatriotPartyRI",
+          "date": 1667488801,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 38,
+              "offset": 375,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 415,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "channel_post": 2,
+            "date": 1667485101,
+            "from_id": {
+              "channel_id": 1646602302,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Estaba realmente en contra de Bitcoin al principio hasta que decidí intentarlo con el Sr. Eric. me hizo ver la luz en invertir en bitcoin. Estoy tan contenta de haberlo hecho porque cambia mi vida. El Sr. Eric es un comerciante de bitcoins confiable y genuino y puedo responder por él. Si desea invertir en el comercio de bitcoins, comuníquese con él a través del enlace\n\n\n\n https://t.me/joinchat/18_vJXqRmV82OTA8\n https://t.me/joinchat/18_vJXqRmV82OTA8",
+          "peerid": {
+            "channel_id": 1406963956,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 137928
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          },
+          "v": 1,
+          "views": 2832,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "6404610095983891302",
+        "_score": 9.451,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-03 18:58:48.392201",
+          "channelabout": "Uncensored Telegram channel for Evan Troxel",
+          "channeltitle": "Evan Troxel",
+          "channelusername": "Evan_Troxel",
+          "date": 1667501065,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 20,
+              "offset": 40,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 35,
+              "offset": 224,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Everyone be sure to give Alison Hayden (@RealAlison4Congress), a Republican, a follow on Gab!\n\nAlison is going up against Eric Swalwell, a Democrat, in the General Election in California's 14th U.S. Congressional District.\n\nhttps://gab.com/RealAlison4Congress",
+          "peerid": {
+            "channel_id": 1491189491,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Evan Troxel",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5707634927881685827",
+        "_score": 9.1074,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1680876740",
+          "channelabout": "The official channel for Donna Brandenburg, who is running for the office of Michigan Governor",
+          "channeltitle": "Donna Brandenburg for Michigan Governor",
+          "channelusername": "Brandenburg4MI",
+          "date": 1667465462,
+          "editdate": 1667471018,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 157,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 26,
+              "offset": 174,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 26,
+              "offset": 201,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 229,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 254,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 13,
+              "offset": 265,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 14,
+              "offset": 280,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 9,
+              "offset": 296,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 12,
+              "offset": 307,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 15,
+              "offset": 321,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "For my supporters…. Here is a business card you can download and print! It has a QR code to bring you back to the 6 debate reaction videos that Eric made! \n\n@Brandenburg4Mi\n\nBrandenburgforgovernor.com\nBrandenburgNewsNetwork.com\n\n#BrandenburgForGovernor \n#Donna4Mi \n#AmericaFirst \n#MichiganFirst \n#Michigan \n#ImWithDonna \n#StandWithDonna",
+          "peerid": {
+            "channel_id": 1328912314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1645859084,
+            "comments": true,
+            "max_id": 35849,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 5213993478
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 85999
+          },
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 582,
+          "id": 2883,
+          "mediaref": "7373f8bfb6fdab6c3fe04f7d6c8539e1776f96cf",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 9,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "lastseents": "2023-04-07T14:12:20.534972"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "7501626450840134776",
+        "_score": 7.7377,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-03 22:45:36.578936",
+          "channelabout": "The movement is global, Truckers for Freedom is in many countries. \nFollow us on gettr: https://gettr.com/user/truckers4fredom",
+          "channeltitle": "TruckersForFreedom",
+          "channelusername": "TruckersForFreedomGlobal",
+          "date": 1667515434,
+          "editdate": 1667515439,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 47,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 37,
+              "offset": 344,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "2-time cheerleading world champ Eric Ortiz has #diedsuddenly - cause of death is secret but obituary described it as “abrupt.” One friend Creck Sandy commented: “If only he had said no” 💉\n\nAnd also the very same people that promote the vaccines deleted the Fb group called Died Suddenly News.\nWe moved on telegram forever, join the group now: https://t.me/DiedSuddenlyNewsOriginal",
+          "peerid": {
+            "channel_id": 1746608515,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1416830659,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 3879701
+          },
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 71,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5312044933564180752",
+        "_score": 5.1034,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-03 20:40:56.197953",
+          "channeltitle": "RalphBernhardKutza",
+          "channelusername": "rbk_2020",
+          "date": 1667506695,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 38,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 74,
+              "offset": 111,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.bild.de/sport/fussball/fussball/japanischer-fussballstar-masato-kudo-32-ploetzlich-verstorben-81715216.bild.html"
+            },
+            {
+              "length": 105,
+              "offset": 189,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.infranken.de/bayern/heinz-winkler-ist-tot-beruehmter-bayerischer-sternekoch-ueberraschend-verstorben-art-5574475"
+            },
+            {
+              "length": 50,
+              "offset": 300,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.heute.at/s/football-talent-mit-18-jahren-ploetzlich-verstorben-100234299"
+            },
+            {
+              "length": 81,
+              "offset": 355,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.westfalen-blatt.de/owl/kreis-hoexter/hoexter/ex-bodybuilding-profi-und-unternehmer-andreas-frey-mit-nur-43-jahren-verstorben-2651277?pid=true"
+            },
+            {
+              "length": 48,
+              "offset": 440,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rp-online.de/nrw/staedte/hueckeswagen/hueckeswagen-christoph-messink-58-jaehrig-ploetzlich-verstorben_aid-78690367"
+            },
+            {
+              "length": 43,
+              "offset": 494,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.heute.at/s/tottenham-coach-mit-61-ploetzlich-verstorben-100231681"
+            },
+            {
+              "length": 52,
+              "offset": 543,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.focus.de/panorama/welt/ploetzlich-stoppte-die-musik-radiomoderator-55-stirbt-waehrend-er-auf-sendung-ist_id_169873995.html"
+            },
+            {
+              "length": 42,
+              "offset": 601,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.saechsische.de/doebeln/lokales/doebelner-stadtrat-lothar-schmidt-gestorben-5775181-plus.html"
+            },
+            {
+              "length": 57,
+              "offset": 649,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.lvz.de/lokales/nordsachsen/torgau/torgau-jva-leiter-erico-anselmi-55-ueberraschend-verstorben-7DSQTHAP2QPU7VC6MF2YNXX6AQ.html"
+            },
+            {
+              "length": 41,
+              "offset": 709,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.mt.de/lokales/hille/Sie-kam-aus-Hille-Grundschul-Leiterin-ploetzlich-verstorben-23373624.html"
+            },
+            {
+              "length": 78,
+              "offset": 757,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.merkur.de/lokales/region-miesbach/hausham-ort74880/grosse-trauer-in-hausham-altbuergermeister-hugo-schreiber-unerwartet-verstorben-91844655.html"
+            },
+            {
+              "length": 77,
+              "offset": 844,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.news.de/promis/856555638/dj-mighty-mouse-ist-tot-todesursache-aortenaneurysma-musiker-matthew-ward-in-spanien-gestorben-nach-schlagader-riss/1/"
+            },
+            {
+              "length": 61,
+              "offset": 928,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.promiflash.de/news/2022/10/24/mit-nur-30-jahren-weltklasse-cheerleader-eric-ortiz-ist-tot.html"
+            },
+            {
+              "length": 13,
+              "offset": 995,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1011,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/CheckMateNews"
+            },
+            {
+              "length": 8,
+              "offset": 1024,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://checkmatenews.substack.com/"
+            },
+            {
+              "length": 5,
+              "offset": 1033,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.minds.com/checkmatenews"
+            },
+            {
+              "length": 5,
+              "offset": 1043,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://gettr.com/user/checkmatenews"
+            },
+            {
+              "length": 6,
+              "offset": 1052,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://odysee.com/@CheckMateNews:a"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 42227,
+            "date": 1667386894,
+            "from_id": {
+              "channel_id": 1247534353,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "💉 Plötzlich verstorben - Oktober 2022 - nur eine Handvoll, die mit wenigen Klicks im WWW zu finden sind.\n\n1️⃣ NACH KOPF-ERKRANKUNG Japanischer Fußballstar (✝️︎32) plötzlich verstorben\n2️⃣ \"Unendlich geschätzt\": Berühmter bayerischer Sternekoch überraschend verstorben - Trauer um Küchenlegende \n3️⃣ Football-Talent mit 18 Jahren plötzlich verstorben \n4️⃣ Ex-Bodybuilding-Profi und Unternehmer Andreas Frey mit nur 43 Jahren verstorben\n5️⃣ Christoph Messink 58-jährig plötzlich verstorben \n6️⃣ Tottenham-Coach mit 61 plötzlich verstorben \n7️⃣ Englischer Radiomoderator stirbt während Livesendung \n8️⃣ Döbelner Stadtrat Lothar Schmidt gestorben \n9️⃣ Torgau: JVA-Leiter Erico Anselmi überraschend verstorben\n🔟 Grundschul-Leiterin plötzlich verstorben\n1️⃣1️⃣ Große Trauer in Hausham: Altbürgermeister Hugo Schreiber unerwartet verstorben \n1️⃣2️⃣ DJ Mighty Mouse ist tot: Musikwelt unter Schock! Kult-DJ plötzlich gestorben\n1️⃣3️⃣ Mit nur 30 Jahren: Weltklasse-Cheerleader Eric Ortiz ist tot\n...\n\n♟CheckMateNews ♟\nTelegram  |  Substack\nMinds  |  Gettr  | Odysee",
+          "peerid": {
+            "channel_id": 1236806841,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 36,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202211",
+        "_id": "5823214795624640085",
+        "_score": 4.2908,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2022-11-03 23:04:11.930752",
+          "channelabout": "Täglich aktuelle Meldungen von Bestseller-Autor und Sicherheitsexperte Stefan Schubert",
+          "channeltitle": "Schuberts Lagemeldung - Stefan Schubert Offiziell",
+          "channelusername": "SchubertsLM",
+          "date": 1667500135,
+          "editdate": 1667500192,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 472,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 77,
+              "offset": 1241,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 24,
+              "offset": 1363,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "⚠️STANDORT DEUTSCHLAND\nTeure Energie treibt Deindustrialisierung an⚠️\n\nIn den vergangenen Monaten sind viele gewohnte Grundlagen des Wirtschaftsmodells Deutschland in Frage gestellt worden. Wie geht es weiter mit dem Industriestandort Deutschland?    \n\nTrug 2016 die Industrieproduktion noch 22,8 Prozent zur Bruttowertschöpfung in Deutschland bei, waren es im vergangenen Jahr noch 20,8 Prozent. Und dieser Trend dürfte sich fortsetzen, fürchtet Eric Heymann, Ökonom der Deutsche Bank Research: \n\n‼️‼️\"Wenn wir in zehn Jahren auf die aktuelle Energiekrise zurückblicken werden, können wir diese Zeit als Ausgangspunkt für eine beschleunigte Deindustrialisierung in Deutschland betrachten.\"‼️‼️\n\nUlrich Kater, Chefvolkswirt der Dekabank, sieht das ähnlich: \"Die energieintensiven Unternehmen, die jetzt ihre Produktion zum Teil heruntergefahren haben, werden diese nicht mehr so hochfahren wie vor der Krise.\" Denn produzieren könne man in anderen Teilen der Welt günstiger. \n\nDabei gehe es nicht darum, dies kurzfristig umzubauen. Aber wenn es künftig um Investitionsentscheidungen gehe, dann dürften die wohl häufiger als bisher zugunsten anderer Standorte, etwa Nordamerika, ausfallen. Ein wesentlicher Grund: die günstigere Energie.   \n\nhttps://www.dw.com/de/teure-energie-treibt-deindustrialisierung-an/a-63617488    \n\nBitte abonniert Schuberts Lagemeldung: https://t.me/SchubertsLM",
+          "peerid": {
+            "channel_id": 1355822849,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1512,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        }
+      }
+    ]
+  }
+}

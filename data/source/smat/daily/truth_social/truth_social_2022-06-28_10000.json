@@ -1,0 +1,3586 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [80],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [52],
+      "relation": ["eq"]
+    },
+    "max_score": [12.5571],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556457704563437",
+        "_score": 12.5571,
+        "_source": {
+          "account": {
+            "acct": "trump_lost",
+            "display_name": "you_are_in_a_cult",
+            "id": "107835950303095201",
+            "username": "trump_lost"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Who is Eric?<\/p>",
+          "content_cleaned": "Who is Eric?",
+          "created_at": "2022-06-28T18:14:49.484+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 7,
+          "id": "108556457704563437",
+          "in_reply_to_account_id": "108553802271211722",
+          "in_reply_to_id": "108556456070425353",
+          "language": "en",
+          "last_seen_ts": "2022-09-18T08:22:30.912099+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "BubbaCornflakes",
+              "id": "108409929724515435",
+              "url": "https://truthsocial.com/@BubbaCornflakes",
+              "username": "BubbaCornflakes"
+            },
+            {
+              "acct": "laurenbimboebert",
+              "id": "108478456508008682",
+              "url": "https://truthsocial.com/@laurenbimboebert",
+              "username": "laurenbimboebert"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "samtrumpista12",
+              "id": "108553802271211722",
+              "url": "https://truthsocial.com/@samtrumpista12",
+              "username": "samtrumpista12"
+            },
+            {
+              "acct": "SuperEliteCorgi",
+              "id": "107837288421890429",
+              "url": "https://truthsocial.com/@SuperEliteCorgi",
+              "username": "SuperEliteCorgi"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            },
+            {
+              "acct": "trump_lost",
+              "id": "107835950303095201",
+              "url": "https://truthsocial.com/@trump_lost",
+              "username": "trump_lost"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 3,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/trump_lost/statuses/108556457704563437",
+          "url": "https://truthsocial.com/@trump_lost/108556457704563437",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556439057147727",
+        "_score": 12.269,
+        "_source": {
+          "account": {
+            "acct": "TheOrangeCockwomble",
+            "display_name": "TheOrangeCockwomble",
+            "id": "108398129785574061",
+            "username": "TheOrangeCockwomble"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric is a pussy.<\/p>",
+          "content_cleaned": "Eric is a pussy.",
+          "created_at": "2022-06-28T18:10:04.947+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 10,
+          "id": "108556439057147727",
+          "in_reply_to_account_id": "108553794600167254",
+          "in_reply_to_id": "108556416640273263",
+          "language": "en",
+          "last_seen_ts": "2022-09-18T08:42:13.752002+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "sestminutesMAGA",
+              "id": "108553794600167254",
+              "url": "https://truthsocial.com/@sestminutesMAGA",
+              "username": "sestminutesMAGA"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/TheOrangeCockwomble/statuses/108556439057147727",
+          "url": "https://truthsocial.com/@TheOrangeCockwomble/108556439057147727",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556474771437147",
+        "_score": 11.995,
+        "_source": {
+          "account": {
+            "acct": "JSingle911",
+            "display_name": "JR Truthman",
+            "id": "107927907054243813",
+            "username": "JSingle911"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>“Who is Eric?” -Donald Trump<\/p>",
+          "content_cleaned": "“Who is Eric?” -Donald Trump",
+          "created_at": "2022-06-28T18:19:09.902+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108556474771437147",
+          "in_reply_to_account_id": "107835950303095201",
+          "in_reply_to_id": "108556457704563437",
+          "language": "en",
+          "last_seen_ts": "2022-09-18T08:22:30.931027+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "BubbaCornflakes",
+              "id": "108409929724515435",
+              "url": "https://truthsocial.com/@BubbaCornflakes",
+              "username": "BubbaCornflakes"
+            },
+            {
+              "acct": "laurenbimboebert",
+              "id": "108478456508008682",
+              "url": "https://truthsocial.com/@laurenbimboebert",
+              "username": "laurenbimboebert"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "SuperEliteCorgi",
+              "id": "107837288421890429",
+              "url": "https://truthsocial.com/@SuperEliteCorgi",
+              "username": "SuperEliteCorgi"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            },
+            {
+              "acct": "trump_lost",
+              "id": "107835950303095201",
+              "url": "https://truthsocial.com/@trump_lost",
+              "username": "trump_lost"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JSingle911/statuses/108556474771437147",
+          "url": "https://truthsocial.com/@JSingle911/108556474771437147",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556531040612087",
+        "_score": 11.7339,
+        "_source": {
+          "account": {
+            "acct": "norrinraad",
+            "display_name": "silver surfer",
+            "id": "108182146742442725",
+            "username": "norrinraad"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Just like your hero Eric holder<\/p>",
+          "content_cleaned": "Just like your hero Eric holder",
+          "created_at": "2022-06-28T18:33:28.502+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 29,
+          "id": "108556531040612087",
+          "in_reply_to_account_id": "108460175843471270",
+          "in_reply_to_id": "108556525209134941",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            },
+            {
+              "acct": "rickrahl",
+              "id": "108460175843471270",
+              "url": "https://truthsocial.com/@rickrahl",
+              "username": "rickrahl"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/norrinraad/statuses/108556531040612087",
+          "url": "https://truthsocial.com/@norrinraad/108556531040612087",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-14T04:10:55.550937",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556719674309139",
+        "_score": 11.7059,
+        "_source": {
+          "account": {
+            "acct": "suzost",
+            "display_name": "Suzanne",
+            "id": "107837321702638313",
+            "username": "suzost"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "USG98GenM{RO~ot8RQS2nMo#E5fmNzs:xZad",
+            "description": "Mayor Eric Adams said Tuesday that Rudy Giuliani should be investigated for filing a false police report over an alleged assault at a Staten Island supermarket — prompting the former mayor to tell …",
+            "embed_url": "",
+            "height": 533,
+            "html": "",
+            "image": "https://static-assets.truthsocial.com/tmtg:prime-truth-social-assets/cache/preview_cards/images/003/456/852/original/4d804b3f38a1db86.jpg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "Eric Adams says Rudy Giuliani may have filed a phony report in SI ‘assault’ — ex-mayor responds: ‘go f–k’ yourself",
+            "type": "link",
+            "url": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Adams: Rudy Giuliani filed false report in SI supermarket attack <a href=\"https://truthsocial.com/tags/TrumpTruths\" class=\"mention hashtag\" rel=\"tag\">#<span>TrumpTruths<\/span><\/a> <a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a> Rudy tells Eric to go F-himself.<\/p><p><a href=\"https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/06/28/eric-ada<\/span><span class=\"invisible\">ms-rudy-giuliani-filed-false-report-in-si-supermarket-attack/<\/span><\/a><\/p>",
+          "content_cleaned": "Eric Adams: Rudy Giuliani filed false report in SI supermarket attack #TrumpTruths #Truth Rudy tells Eric to go F-himself.https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/",
+          "created_at": "2022-06-28T19:21:26.834+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556719674309139",
+          "language": "en",
+          "last_seen_ts": "2022-06-29T12:06:13.026513+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "Truth",
+              "url": "https://truthsocial.com/tags/Truth"
+            },
+            {
+              "name": "TrumpTruths",
+              "url": "https://truthsocial.com/tags/TrumpTruths"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/suzost/statuses/108556719674309139",
+          "url": "https://truthsocial.com/@suzost/108556719674309139",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108552247218229821",
+        "_score": 11.485,
+        "_source": {
+          "account": {
+            "acct": "joan22",
+            "display_name": "Joe Blow",
+            "id": "107840051329140511",
+            "username": "joan22"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Who did they poll?  Eric and Jr.?<\/p>",
+          "content_cleaned": "Who did they poll?  Eric and Jr.?",
+          "created_at": "2022-06-28T00:24:02.561+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108552247218229821",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108551508759242368",
+          "language": "en",
+          "last_seen_ts": "2023-03-07T02:44:22.999978+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/joan22/statuses/108552247218229821",
+          "url": "https://truthsocial.com/@joan22/108552247218229821",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-03-07T02:44:23.002611",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108552474242056279",
+        "_score": 11.2473,
+        "_source": {
+          "account": {
+            "acct": "SarasotaRebel",
+            "display_name": "Sarasota Rebel",
+            "id": "108340315845135149",
+            "username": "SarasotaRebel"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Hello Eric.  Lovely to find you again!  🥰<\/p>",
+          "content_cleaned": "Hello Eric.  Lovely to find you again!  🥰",
+          "created_at": "2022-06-28T01:21:46.670+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108552474242056279",
+          "in_reply_to_account_id": "108320789676258007",
+          "in_reply_to_id": "108550504427074150",
+          "language": "en",
+          "last_seen_ts": "2023-01-27T19:11:46.562644+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "jimisnotq",
+              "id": "107859475999125382",
+              "url": "https://truthsocial.com/@jimisnotq",
+              "username": "jimisnotq"
+            },
+            {
+              "acct": "kagdrogo",
+              "id": "107834450197185966",
+              "url": "https://truthsocial.com/@kagdrogo",
+              "username": "kagdrogo"
+            },
+            {
+              "acct": "RevealingDaniel",
+              "id": "108320789676258007",
+              "url": "https://truthsocial.com/@RevealingDaniel",
+              "username": "RevealingDaniel"
+            },
+            {
+              "acct": "Sarthius",
+              "id": "108342380222909346",
+              "url": "https://truthsocial.com/@Sarthius",
+              "username": "Sarthius"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/SarasotaRebel/statuses/108552474242056279",
+          "url": "https://truthsocial.com/@SarasotaRebel/108552474242056279",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556534655070517",
+        "_score": 11.2473,
+        "_source": {
+          "account": {
+            "acct": "rickrahl",
+            "display_name": "Rick Rahl",
+            "id": "108460175843471270",
+            "username": "rickrahl"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Launch Eric holder into the sun!!! Jfc!! Idc!!!<\/p>",
+          "content_cleaned": "Launch Eric holder into the sun!!! Jfc!! Idc!!!",
+          "created_at": "2022-06-28T18:34:23.658+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556534655070517",
+          "in_reply_to_account_id": "108182146742442725",
+          "in_reply_to_id": "108556531040612087",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            },
+            {
+              "acct": "norrinraad",
+              "id": "108182146742442725",
+              "url": "https://truthsocial.com/@norrinraad",
+              "username": "norrinraad"
+            },
+            {
+              "acct": "rickrahl",
+              "id": "108460175843471270",
+              "url": "https://truthsocial.com/@rickrahl",
+              "username": "rickrahl"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/rickrahl/statuses/108556534655070517",
+          "url": "https://truthsocial.com/@rickrahl/108556534655070517",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-14T04:10:57.581072",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556425155364139",
+        "_score": 11.0202,
+        "_source": {
+          "account": {
+            "acct": "BubbaCornflakes",
+            "display_name": "Argue The Facts",
+            "id": "108409929724515435",
+            "username": "BubbaCornflakes"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Bullshit. He doesn&apos;t know who Eric is.<\/p>",
+          "content_cleaned": "Bullshit. He doesn&apos;t know who Eric is.",
+          "created_at": "2022-06-28T18:06:32.825+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 185,
+          "id": "108556425155364139",
+          "in_reply_to_account_id": "108553794600167254",
+          "in_reply_to_id": "108556416640273263",
+          "language": "en",
+          "last_seen_ts": "2022-10-23T00:37:04.609355+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DavidHodges259128",
+              "id": "108556328397489421",
+              "url": "https://truthsocial.com/@DavidHodges259128",
+              "username": "DavidHodges259128"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "sestminutesMAGA",
+              "id": "108553794600167254",
+              "url": "https://truthsocial.com/@sestminutesMAGA",
+              "username": "sestminutesMAGA"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 8,
+          "replies_count": 21,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BubbaCornflakes/statuses/108556425155364139",
+          "url": "https://truthsocial.com/@BubbaCornflakes/108556425155364139",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555557169306260",
+        "_score": 11.0202,
+        "_source": {
+          "account": {
+            "acct": "Kraken3",
+            "display_name": "Kraken3",
+            "id": "108360153266852934",
+            "username": "Kraken3"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I thought that was Eric Swalwell’s dad??? Fart man!<\/p>",
+          "content_cleaned": "I thought that was Eric Swalwell’s dad??? Fart man!",
+          "created_at": "2022-06-28T14:25:48.406+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555557169306260",
+          "in_reply_to_account_id": "107813673407103404",
+          "in_reply_to_id": "108555271830870022",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Kraken3/statuses/108555557169306260",
+          "url": "https://truthsocial.com/@Kraken3/108555557169306260",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-28T00:48:19.607982",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108553326690119773",
+        "_score": 10.8506,
+        "_source": {
+          "account": {
+            "acct": "Fiercekitty",
+            "display_name": "kateTaylor",
+            "id": "107834244180782859",
+            "username": "Fiercekitty"
+          },
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@derek\" class=\"u-url mention\">@<span>derek<\/span><\/a><\/span> BREAKING: Facebook, Instagram and Twitter all deleted Eric Greitens’ campaign video! <\/p><p>From Eric, “We are sick and tired of the Republicans in Name Only surrendering to Joe Biden &amp; the radical left!” <\/p><p>Donate to Eric TODAY: <a href=\"https://secure.winred.com/greitens-for-us-senate/xstrat-jan6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">secure.winred.com/greitens-for<\/span><span class=\"invisible\">-us-senate/xstrat-jan6<\/span><\/a><\/p>",
+          "content_cleaned": "RT @derek BREAKING: Facebook, Instagram and Twitter all deleted Eric Greitens’ campaign video! From Eric, “We are sick and tired of the Republicans in Name Only surrendering to Joe Biden &amp; the radical left!” Donate to Eric TODAY: https://secure.winred.com/greitens-for-us-senate/xstrat-jan6",
+          "created_at": "2022-06-28T04:58:34.000+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 0,
+          "id": "108553326690119773",
+          "last_seen_ts": "2022-10-27T19:04:50.555281+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Fiercekitty/statuses/108553326690119773/activity",
+          "url": "https://truthsocial.com/users/Fiercekitty/statuses/108553326690119773/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108515365542762267",
+            "uri": "https://truthsocial.com/users/derek/statuses/108515365542762267",
+            "url": "https://truthsocial.com/@derek/108515365542762267"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555040393695666",
+        "_score": 10.8029,
+        "_source": {
+          "account": {
+            "acct": "BadBoySr",
+            "display_name": "BadBoySr",
+            "id": "108137269049935914",
+            "username": "BadBoySr"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Maybe Eric should post the “Big Truth” here in TRUTH!<\/p>",
+          "content_cleaned": "Maybe Eric should post the “Big Truth” here in TRUTH!",
+          "created_at": "2022-06-28T12:14:23.043+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555040393695666",
+          "in_reply_to_account_id": "108553775219983899",
+          "language": "en",
+          "last_seen_ts": "2023-03-25T12:43:14.505113+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "17Kelly",
+              "id": "107837189469206836",
+              "url": "https://truthsocial.com/@17Kelly",
+              "username": "17Kelly"
+            },
+            {
+              "acct": "DineshDSouza",
+              "id": "107810096875431988",
+              "url": "https://truthsocial.com/@DineshDSouza",
+              "username": "DineshDSouza"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BadBoySr/statuses/108555040393695666",
+          "url": "https://truthsocial.com/@BadBoySr/108555040393695666",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-03-25T12:43:14.676394",
+          "reblog": {},
+          "pinned": false
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556607054887362",
+        "_score": 10.8029,
+        "_source": {
+          "account": {
+            "acct": "DirtyCopHunter",
+            "display_name": "DirtyCopHunter",
+            "id": "107834245614569448",
+            "username": "DirtyCopHunter"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Is that witness today related to Eric Ciarmella or Vindman??<\/p>",
+          "content_cleaned": "Is that witness today related to Eric Ciarmella or Vindman??",
+          "created_at": "2022-06-28T18:52:48.388+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556607054887362",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556603830423540",
+          "language": "en",
+          "last_seen_ts": "2022-12-17T16:34:16.478233+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/DirtyCopHunter/statuses/108556607054887362",
+          "url": "https://truthsocial.com/@DirtyCopHunter/108556607054887362",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555846643287340",
+        "_score": 10.8029,
+        "_source": {
+          "account": {
+            "acct": "digitalsoilder87",
+            "display_name": "Mid-Atlantic Candle Company",
+            "id": "107835250511741174",
+            "username": "digitalsoilder87"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>May Eric wearing pedo symbols at the Met Gala 😣<\/p>",
+          "content_cleaned": "May Eric wearing pedo symbols at the Met Gala 😣",
+          "created_at": "2022-06-28T15:39:25.434+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555846643287340",
+          "in_reply_to_account_id": "108012870175712304",
+          "in_reply_to_id": "108555840849673735",
+          "language": "jv",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "RealRobinHylton",
+              "id": "108012870175712304",
+              "url": "https://truthsocial.com/@RealRobinHylton",
+              "username": "RealRobinHylton"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/digitalsoilder87/statuses/108555846643287340",
+          "url": "https://truthsocial.com/@digitalsoilder87/108555846643287340",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-05-04T18:15:56.800740",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555092701822129",
+        "_score": 10.5949,
+        "_source": {
+          "account": {
+            "acct": "JamJam007",
+            "display_name": "JamJam",
+            "id": "107844310201607519",
+            "username": "JamJam007"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Google if you’re referring to why did Eric Schmidt leave Google<\/p>",
+          "content_cleaned": "Google if you’re referring to why did Eric Schmidt leave Google",
+          "created_at": "2022-06-28T12:27:41.200+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108555092701822129",
+          "in_reply_to_account_id": "107837649193197364",
+          "in_reply_to_id": "108552574484805784",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Kash",
+              "id": "107826559359582068",
+              "url": "https://truthsocial.com/@Kash",
+              "username": "Kash"
+            },
+            {
+              "acct": "stormypatriotjoe",
+              "id": "107834577792924005",
+              "url": "https://truthsocial.com/@stormypatriotjoe",
+              "username": "stormypatriotjoe"
+            },
+            {
+              "acct": "Surfagogo",
+              "id": "107837649193197364",
+              "url": "https://truthsocial.com/@Surfagogo",
+              "username": "Surfagogo"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JamJam007/statuses/108555092701822129",
+          "url": "https://truthsocial.com/@JamJam007/108555092701822129",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-04T01:17:27.387996",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556506906753164",
+        "_score": 10.3955,
+        "_source": {
+          "account": {
+            "acct": "Trump_Is_A_POS",
+            "display_name": "Trump For Prison",
+            "id": "107838730088320000",
+            "username": "Trump_Is_A_POS"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Not near as bad as Cocaine Don Jr and the retard Eric<\/p>",
+          "content_cleaned": "Not near as bad as Cocaine Don Jr and the retard Eric",
+          "created_at": "2022-06-28T18:27:20.248+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108556506906753164",
+          "in_reply_to_account_id": "107835456461244110",
+          "in_reply_to_id": "108556468508707098",
+          "language": "en",
+          "last_seen_ts": "2022-09-18T07:59:14.581111+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "AYR",
+              "id": "107835456461244110",
+              "url": "https://truthsocial.com/@AYR",
+              "username": "AYR"
+            },
+            {
+              "acct": "BubbaCornflakes",
+              "id": "108409929724515435",
+              "url": "https://truthsocial.com/@BubbaCornflakes",
+              "username": "BubbaCornflakes"
+            },
+            {
+              "acct": "laurenbimboebert",
+              "id": "108478456508008682",
+              "url": "https://truthsocial.com/@laurenbimboebert",
+              "username": "laurenbimboebert"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "SuperEliteCorgi",
+              "id": "107837288421890429",
+              "url": "https://truthsocial.com/@SuperEliteCorgi",
+              "username": "SuperEliteCorgi"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Trump_Is_A_POS/statuses/108556506906753164",
+          "url": "https://truthsocial.com/@Trump_Is_A_POS/108556506906753164",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556656437847514",
+        "_score": 10.0205,
+        "_source": {
+          "account": {
+            "acct": "whatchamean",
+            "display_name": "Maga Trailer Park ⛰️🚮",
+            "id": "107843060974681719",
+            "username": "whatchamean"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>There’s a guy here claiming to be Eric Trump. Do you know him? 🤷‍♂️<\/p>",
+          "content_cleaned": "There’s a guy here claiming to be Eric Trump. Do you know him? 🤷‍♂️",
+          "created_at": "2022-06-28T19:05:21.963+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556656437847514",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556410689094582",
+          "language": "en",
+          "last_seen_ts": "2023-02-12T22:27:08.687361+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/whatchamean/statuses/108556656437847514",
+          "url": "https://truthsocial.com/@whatchamean/108556656437847514",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555540780863377",
+        "_score": 10.0205,
+        "_source": {
+          "account": {
+            "acct": "mgavz",
+            "display_name": "mgavz4trump✝️❤️",
+            "id": "107839191197119445",
+            "username": "mgavz"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>So angry with this we to get Eric machines ripped out of this state !<\/p>",
+          "content_cleaned": "So angry with this we to get Eric machines ripped out of this state !",
+          "created_at": "2022-06-28T14:21:38.342+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108555540780863377",
+          "in_reply_to_account_id": "107904600106838812",
+          "in_reply_to_id": "108555493810752571",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "RealSKeshel",
+              "id": "107904600106838812",
+              "url": "https://truthsocial.com/@RealSKeshel",
+              "username": "RealSKeshel"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/mgavz/statuses/108555540780863377",
+          "url": "https://truthsocial.com/@mgavz/108555540780863377",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-29T04:21:59.929312",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556069099036513",
+        "_score": 9.8441,
+        "_source": {
+          "account": {
+            "acct": "KarenSL",
+            "display_name": "KarenSL",
+            "id": "108345707664613791",
+            "username": "KarenSL"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "UTLp{qELt6%f~p-oo~Rj%MX9Mxa$bcM{V@ad",
+            "description": "Eric Francis, 36, from West Palm Beach, Florida, was found dead off the coast of Guadeloupe during a race in the Caribbean on Saturday, just weeks before the birth of his second daughter.",
+            "embed_url": "",
+            "height": 382,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/453/007/original/95d9b4e76afe6eef.jpeg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "Jet ski world champion found dead after 'disappearing' during a race",
+            "type": "link",
+            "url": "https://www.dailymail.co.uk/news/article-10961365/American-jet-ski-world-champion-Eric-Eagle-dead-disappearing-race.html",
+            "width": 636
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://www.dailymail.co.uk/news/article-10961365/American-jet-ski-world-champion-Eric-Eagle-dead-disappearing-race.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">dailymail.co.uk/news/article-1<\/span><span class=\"invisible\">0961365/American-jet-ski-world-champion-Eric-Eagle-dead-disappearing-race.html<\/span><\/a><\/p>",
+          "content_cleaned": "https://www.dailymail.co.uk/news/article-10961365/American-jet-ski-world-champion-Eric-Eagle-dead-disappearing-race.html",
+          "created_at": "2022-06-28T16:35:59.843+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556069099036513",
+          "last_seen_ts": "2022-10-07T06:27:28.539195+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KarenSL/statuses/108556069099036513",
+          "url": "https://truthsocial.com/@KarenSL/108556069099036513",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108554868752497053",
+        "_score": 9.6744,
+        "_source": {
+          "account": {
+            "acct": "tiffanykidwell1",
+            "display_name": "Star Spangled Truth Seeker",
+            "id": "107835612008656776",
+            "username": "tiffanykidwell1"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@LeoTerrell\" class=\"u-url mention\">@<span>LeoTerrell<\/span><\/a><\/span> Lori Lightfoot is the worst Mayor in America. Eric Adams is a close second!<\/p>",
+          "content_cleaned": "RT @LeoTerrell Lori Lightfoot is the worst Mayor in America. Eric Adams is a close second!",
+          "created_at": "2022-06-28T11:30:44.002+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108554868752497053",
+          "last_seen_ts": "2022-06-28T15:29:15.554594+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/tiffanykidwell1/statuses/108554868752497053/activity",
+          "url": "https://truthsocial.com/users/tiffanykidwell1/statuses/108554868752497053/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108550004414203288",
+            "uri": "https://truthsocial.com/users/LeoTerrell/statuses/108550004414203288",
+            "url": "https://truthsocial.com/@LeoTerrell/108550004414203288"
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556959509783221",
+        "_score": 8.915,
+        "_source": {
+          "account": {
+            "acct": "COUS2024",
+            "display_name": "Bruce Goldstein",
+            "id": "107838127266357238",
+            "username": "COUS2024"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "URG98GenM{RO~ot8RQR+nLo#E5fmNzs:xZad",
+            "description": "Mayor Eric Adams said Tuesday that Rudy Giuliani should be investigated for filing a false police report over an alleged assault at a Staten Island supermarket — prompting the former mayor to tell …",
+            "embed_url": "",
+            "height": 533,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/459/481/original/656d98f40e900801.jpeg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "Eric Adams says Rudy Giuliani may have filed a phony report in SI ‘assault’ — ex-mayor responds: ‘go f–k’ yourself",
+            "type": "link",
+            "url": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&utm_source=com.tmediatech.truthsocial.Poster",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/06/28/eric-ada<\/span><span class=\"invisible\">ms-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster<\/span><\/a><\/p>",
+          "content_cleaned": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster",
+          "created_at": "2022-06-28T20:22:26.433+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108556959509783221",
+          "last_seen_ts": "2023-01-04T00:24:43.936709+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/COUS2024/statuses/108556959509783221",
+          "url": "https://truthsocial.com/@COUS2024/108556959509783221",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {},
+          "pinned": false
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556592472760937",
+        "_score": 8.915,
+        "_source": {
+          "account": {
+            "acct": "CFlatty",
+            "display_name": "Flatty",
+            "id": "108203235769067377",
+            "username": "CFlatty"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>All I’m gonna say is a “Jury of your peers”. Unless it’s a congressional witch hunt I guess. Eric Holder anyone?<\/p>",
+          "content_cleaned": "All I’m gonna say is a “Jury of your peers”. Unless it’s a congressional witch hunt I guess. Eric Holder anyone?",
+          "created_at": "2022-06-28T18:49:05.884+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 6,
+          "id": "108556592472760937",
+          "in_reply_to_account_id": "107834209291874605",
+          "in_reply_to_id": "108556567139045687",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "ArchangelOfJustice",
+              "id": "107834209291874605",
+              "url": "https://truthsocial.com/@ArchangelOfJustice",
+              "username": "ArchangelOfJustice"
+            },
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            },
+            {
+              "acct": "MrGreenJeans",
+              "id": "107837793008833946",
+              "url": "https://truthsocial.com/@MrGreenJeans",
+              "username": "MrGreenJeans"
+            },
+            {
+              "acct": "rickrahl",
+              "id": "108460175843471270",
+              "url": "https://truthsocial.com/@rickrahl",
+              "username": "rickrahl"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CFlatty/statuses/108556592472760937",
+          "url": "https://truthsocial.com/@CFlatty/108556592472760937",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-14T04:10:58.689866",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556889102107253",
+        "_score": 8.6473,
+        "_source": {
+          "account": {
+            "acct": "Doctor2Lawyers",
+            "display_name": "Doctor 2 Lawyers",
+            "id": "108481346670236646",
+            "username": "Doctor2Lawyers"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>You sound like Eric the Midget trying to convince people he didn&apos;t shit his pants at an A&apos;s game.<\/p>",
+          "content_cleaned": "You sound like Eric the Midget trying to convince people he didn&apos;t shit his pants at an A&apos;s game.",
+          "created_at": "2022-06-28T20:04:32.088+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556889102107253",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556737612344607",
+          "language": "en",
+          "last_seen_ts": "2022-11-18T22:22:53.125801+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Doctor2Lawyers/statuses/108556889102107253",
+          "url": "https://truthsocial.com/@Doctor2Lawyers/108556889102107253",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556755177483757",
+        "_score": 8.5201,
+        "_source": {
+          "account": {
+            "acct": "ModernPatriot78",
+            "display_name": "ModernPatriot78",
+            "id": "107894712999014477",
+            "username": "ModernPatriot78"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "URG98GenM{RO~ot8RQR+nLo#E5fmNzs:xZad",
+            "description": "Mayor Eric Adams said Tuesday that Rudy Giuliani should be investigated for filing a false police report over an alleged assault at a Staten Island supermarket — prompting the former mayor to tell …",
+            "embed_url": "",
+            "height": 533,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/459/481/original/656d98f40e900801.jpeg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "Eric Adams says Rudy Giuliani may have filed a phony report in SI ‘assault’ — ex-mayor responds: ‘go f–k’ yourself",
+            "type": "link",
+            "url": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&utm_source=com.tmediatech.truthsocial.Poster",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/06/28/eric-ada<\/span><span class=\"invisible\">ms-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster<\/span><\/a><br />I love Rudy Jules.<\/p>",
+          "content_cleaned": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.PosterI love Rudy Jules.",
+          "created_at": "2022-06-28T19:30:28.570+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556755177483757",
+          "language": "en",
+          "last_seen_ts": "2022-08-24T12:31:41.341894+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ModernPatriot78/statuses/108556755177483757",
+          "url": "https://truthsocial.com/@ModernPatriot78/108556755177483757",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108557258900220635",
+        "_score": 8.1626,
+        "_source": {
+          "account": {
+            "acct": "MAGATV",
+            "display_name": "MAGATV",
+            "id": "107916115100771277",
+            "username": "MAGATV"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@christiantalk\" class=\"u-url mention\">@<span>christiantalk<\/span><\/a><\/span> BREAKING! Huge 1A Victory At The Supreme Court For Free Speech and Religious Liberty! <br /><a href=\"https://finishtherace.com/eric/breaking-supreme-court-tells-football-coach-pray-away/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">finishtherace.com/eric/breakin<\/span><span class=\"invisible\">g-supreme-court-tells-football-coach-pray-away/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @christiantalk BREAKING! Huge 1A Victory At The Supreme Court For Free Speech and Religious Liberty! https://finishtherace.com/eric/breaking-supreme-court-tells-football-coach-pray-away/",
+          "created_at": "2022-06-28T21:38:34.761+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108557258900220635",
+          "last_seen_ts": "2022-07-03T00:55:27.688317+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MAGATV/statuses/108557258900220635/activity",
+          "url": "https://truthsocial.com/users/MAGATV/statuses/108557258900220635/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108557254901061271",
+            "uri": "https://truthsocial.com/users/christiantalk/statuses/108557254901061271",
+            "url": "https://truthsocial.com/@christiantalk/108557254901061271"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108557283338646319",
+        "_score": 8.1626,
+        "_source": {
+          "account": {
+            "acct": "QBelleOfTheBall",
+            "display_name": "TrumpGirl",
+            "id": "107837502540134567",
+            "username": "QBelleOfTheBall"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@christiantalk\" class=\"u-url mention\">@<span>christiantalk<\/span><\/a><\/span> BREAKING! Huge 1A Victory At The Supreme Court For Free Speech and Religious Liberty! <br /><a href=\"https://finishtherace.com/eric/breaking-supreme-court-tells-football-coach-pray-away/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">finishtherace.com/eric/breakin<\/span><span class=\"invisible\">g-supreme-court-tells-football-coach-pray-away/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @christiantalk BREAKING! Huge 1A Victory At The Supreme Court For Free Speech and Religious Liberty! https://finishtherace.com/eric/breaking-supreme-court-tells-football-coach-pray-away/",
+          "created_at": "2022-06-28T21:44:47.663+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108557283338646319",
+          "last_seen_ts": "2022-11-02T12:26:33.847549+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/QBelleOfTheBall/statuses/108557283338646319/activity",
+          "url": "https://truthsocial.com/users/QBelleOfTheBall/statuses/108557283338646319/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108557254901061271",
+            "uri": "https://truthsocial.com/users/christiantalk/statuses/108557254901061271",
+            "url": "https://truthsocial.com/@christiantalk/108557254901061271"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555076554857358",
+        "_score": 8.0509,
+        "_source": {
+          "account": {
+            "acct": "paulac3",
+            "display_name": "PaulaC",
+            "id": "107839249245433739",
+            "username": "paulac3"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>This thread is full of spam and phishing accounts. These Eric Trump and Ivanka screenshots are two of many. Do not click on their links. <a href=\"https://truthsocial.com/tags/REPORT\" class=\"mention hashtag\" rel=\"tag\">#<span>REPORT<\/span><\/a> and <a href=\"https://truthsocial.com/tags/BLOCK\" class=\"mention hashtag\" rel=\"tag\">#<span>BLOCK<\/span><\/a><\/p>",
+          "content_cleaned": "This thread is full of spam and phishing accounts. These Eric Trump and Ivanka screenshots are two of many. Do not click on their links. #REPORT and #BLOCK",
+          "created_at": "2022-06-28T12:23:34.815+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 6,
+          "id": "108555076554857358",
+          "in_reply_to_account_id": "108550791321138186",
+          "in_reply_to_id": "108555013220828517",
+          "language": "en",
+          "last_seen_ts": "2022-11-14T19:35:18.734731+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "petertheMAGApatriot",
+              "id": "108553822004975279",
+              "url": "https://truthsocial.com/@petertheMAGApatriot",
+              "username": "petertheMAGApatriot"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "tednichMAGA",
+              "id": "108550791321138186",
+              "url": "https://truthsocial.com/@tednichMAGA",
+              "username": "tednichMAGA"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "REPORT",
+              "url": "https://truthsocial.com/tags/REPORT"
+            },
+            {
+              "name": "BLOCK",
+              "url": "https://truthsocial.com/tags/BLOCK"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/paulac3/statuses/108555076554857358",
+          "url": "https://truthsocial.com/@paulac3/108555076554857358",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555523138933450",
+        "_score": 7.6369,
+        "_source": {
+          "account": {
+            "acct": "pastavenue",
+            "display_name": "Mr. B",
+            "id": "108473879858077715",
+            "username": "pastavenue"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>No people are actually organizing by phone and Twitter to disrupt. I witnessed Truth take out a 30,000 k account  yesterday. There is a huge structure and Eric was very low level<\/p>",
+          "content_cleaned": "No people are actually organizing by phone and Twitter to disrupt. I witnessed Truth take out a 30,000 k account  yesterday. There is a huge structure and Eric was very low level",
+          "created_at": "2022-06-28T14:17:09.144+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555523138933450",
+          "in_reply_to_account_id": "108498590925424488",
+          "in_reply_to_id": "108555510161542097",
+          "language": "en",
+          "last_seen_ts": "2022-06-30T18:14:46.300537+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "alan_marr",
+              "id": "107853180115668275",
+              "url": "https://truthsocial.com/@alan_marr",
+              "username": "alan_marr"
+            },
+            {
+              "acct": "corycorycory",
+              "id": "108477900069756736",
+              "url": "https://truthsocial.com/@corycorycory",
+              "username": "corycorycory"
+            },
+            {
+              "acct": "dutchmcclure",
+              "id": "107838784575463237",
+              "url": "https://truthsocial.com/@dutchmcclure",
+              "username": "dutchmcclure"
+            },
+            {
+              "acct": "DylanGeorge",
+              "id": "107990097503384039",
+              "url": "https://truthsocial.com/@DylanGeorge",
+              "username": "DylanGeorge"
+            },
+            {
+              "acct": "eedabaggadix",
+              "id": "107835807132356423",
+              "url": "https://truthsocial.com/@eedabaggadix",
+              "username": "eedabaggadix"
+            },
+            {
+              "acct": "lynzie",
+              "id": "107835925822668099",
+              "url": "https://truthsocial.com/@lynzie",
+              "username": "lynzie"
+            },
+            {
+              "acct": "Militarymom17",
+              "id": "108335738080743773",
+              "url": "https://truthsocial.com/@Militarymom17",
+              "username": "Militarymom17"
+            },
+            {
+              "acct": "pastavenue",
+              "id": "108473879858077715",
+              "url": "https://truthsocial.com/@pastavenue",
+              "username": "pastavenue"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "skeptic2022",
+              "id": "108447377738484753",
+              "url": "https://truthsocial.com/@skeptic2022",
+              "username": "skeptic2022"
+            },
+            {
+              "acct": "SonOfLar375",
+              "id": "108319025492928802",
+              "url": "https://truthsocial.com/@SonOfLar375",
+              "username": "SonOfLar375"
+            },
+            {
+              "acct": "TheEntireTRUTH",
+              "id": "108492703196651720",
+              "url": "https://truthsocial.com/@TheEntireTRUTH",
+              "username": "TheEntireTRUTH"
+            },
+            {
+              "acct": "toket",
+              "id": "107839515247976465",
+              "url": "https://truthsocial.com/@toket",
+              "username": "toket"
+            },
+            {
+              "acct": "TONYxTWO",
+              "id": "107837220385490414",
+              "url": "https://truthsocial.com/@TONYxTWO",
+              "username": "TONYxTWO"
+            },
+            {
+              "acct": "Wikweko",
+              "id": "108498590925424488",
+              "url": "https://truthsocial.com/@Wikweko",
+              "username": "Wikweko"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/pastavenue/statuses/108555523138933450",
+          "url": "https://truthsocial.com/@pastavenue/108555523138933450",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556494387690898",
+        "_score": 7.6369,
+        "_source": {
+          "account": {
+            "acct": "FisherMan155",
+            "display_name": "fisherman1",
+            "id": "107856315509147241",
+            "username": "FisherMan155"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ultramagapatriot4trump\" class=\"u-url mention\">@<span>ultramagapatriot4trump<\/span><\/a><\/span> President Trump said that Eric&apos;s Telegram channel will have huge truth sharing coming up! I think that it will be worth to join his channel!  <a href=\"https://t.me/+X1_JT1w2iAc3MmFk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">t.me/+X1_JT1w2iAc3MmFk<\/span><span class=\"invisible\"><\/span><\/a><\/p>",
+          "content_cleaned": "RT @ultramagapatriot4trump President Trump said that Eric&apos;s Telegram channel will have huge truth sharing coming up! I think that it will be worth to join his channel!  https://t.me/+X1_JT1w2iAc3MmFk",
+          "created_at": "2022-06-28T18:24:09.320+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556494387690898",
+          "last_seen_ts": "2022-06-29T10:55:52.712929+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/FisherMan155/statuses/108556494387690898/activity",
+          "url": "https://truthsocial.com/users/FisherMan155/statuses/108556494387690898/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108556480400715128",
+            "uri": "https://truthsocial.com/users/ultramagapatriot4trump/statuses/108556480400715128",
+            "url": "https://truthsocial.com/@ultramagapatriot4trump/108556480400715128"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555108046886214",
+        "_score": 7.6369,
+        "_source": {
+          "account": {
+            "acct": "baa64",
+            "display_name": "TxPatriot",
+            "id": "107838615401270166",
+            "username": "baa64"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>You all know that if this were Donald Jr., Eric, or Barron that this would be top of the MSM stories. The need for justice is imperative to keep a civil society.<\/p>",
+          "content_cleaned": "You all know that if this were Donald Jr., Eric, or Barron that this would be top of the MSM stories. The need for justice is imperative to keep a civil society.",
+          "created_at": "2022-06-28T12:31:35.353+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555108046886214",
+          "language": "en",
+          "last_seen_ts": "2022-12-03T23:24:02.005685+00:00",
+          "media_attachments": [
+            {
+              "blurhash": "UFEf4v^*9GNfH=V?tRNZpcR.RjjF0LR+xuM{",
+              "id": "108555108018949916",
+              "meta": {
+                "aspect": 1.003,
+                "height": 1012,
+                "size": "1015x1012",
+                "width": 1015
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/108/018/949/916/original/5ffab0e523c9c9f0.jpeg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/108/018/949/916/original/5ffab0e523c9c9f0.jpeg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/baa64/statuses/108555108046886214",
+          "url": "https://truthsocial.com/@baa64/108555108046886214",
+          "visibility": "public",
+          "reblog": {},
+          "pinned": false
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556592563834934",
+        "_score": 7.3569,
+        "_source": {
+          "account": {
+            "acct": "vatorboy",
+            "display_name": "I really do care, don’t you ?",
+            "id": "107844324130004688",
+            "username": "vatorboy"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I know, you hardly knew her, Barr, Meadows, Giuliani, Eric, Donny Jr., Ivanka, Epstein, Melania, never met Obama, Michelle Hillary, Stormy or any of the women accusing you of sexual misconduct……. Blah blah blah blah<\/p>",
+          "content_cleaned": "I know, you hardly knew her, Barr, Meadows, Giuliani, Eric, Donny Jr., Ivanka, Epstein, Melania, never met Obama, Michelle Hillary, Stormy or any of the women accusing you of sexual misconduct……. Blah blah blah blah",
+          "created_at": "2022-06-28T18:49:07.279+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108556592563834934",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556410689094582",
+          "language": "en",
+          "last_seen_ts": "2023-02-12T22:25:10.006093+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/vatorboy/statuses/108556592563834934",
+          "url": "https://truthsocial.com/@vatorboy/108556592563834934",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556887552536404",
+        "_score": 6.9393,
+        "_source": {
+          "account": {
+            "acct": "FellAGod",
+            "display_name": "FellAGod",
+            "id": "108319740647196507",
+            "username": "FellAGod"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>No one is taking this commission seriously lol. Their impeachment attempt was the same bullshit phony evidence that never surfaced and Jamie Raskin and Eric Swalwell fabricated evidence and got called out for it but they still have their jobs.<\/p>",
+          "content_cleaned": "No one is taking this commission seriously lol. Their impeachment attempt was the same bullshit phony evidence that never surfaced and Jamie Raskin and Eric Swalwell fabricated evidence and got called out for it but they still have their jobs.",
+          "created_at": "2022-06-28T20:04:08.455+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556887552536404",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556410689094582",
+          "language": "en",
+          "last_seen_ts": "2023-02-12T22:32:38.916020+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/FellAGod/statuses/108556887552536404",
+          "url": "https://truthsocial.com/@FellAGod/108556887552536404",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556787115872069",
+        "_score": 6.9393,
+        "_source": {
+          "account": {
+            "acct": "moosepip",
+            "display_name": "Trump Gal",
+            "id": "107872254712238513",
+            "username": "moosepip"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "",
+            "author_url": "",
+            "blurhash": "URG98GenM{RO~ot8RQR+nLo#E5fmNzs:xZad",
+            "description": "Mayor Eric Adams said Tuesday that Rudy Giuliani should be investigated for filing a false police report over an alleged assault at a Staten Island supermarket — prompting the former mayor to tell …",
+            "embed_url": "",
+            "height": 533,
+            "html": "",
+            "image": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/003/459/481/original/656d98f40e900801.jpeg",
+            "provider_name": "",
+            "provider_url": "",
+            "title": "Eric Adams says Rudy Giuliani may have filed a phony report in SI ‘assault’ — ex-mayor responds: ‘go f–k’ yourself",
+            "type": "link",
+            "url": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&utm_source=com.tmediatech.truthsocial.Poster",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">nypost.com/2022/06/28/eric-ada<\/span><span class=\"invisible\">ms-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.Poster<\/span><\/a><br />The disrespectful actions of Mayor Adam’s is not a surprise at all.  He’s a street thug in an expensive suit.  DISGUSTING<\/p>",
+          "content_cleaned": "https://nypost.com/2022/06/28/eric-adams-rudy-giuliani-filed-false-report-in-si-supermarket-attack/?utm_campaign=iphone_nyp&amp;utm_source=com.tmediatech.truthsocial.PosterThe disrespectful actions of Mayor Adam’s is not a surprise at all.  He’s a street thug in an expensive suit.  DISGUSTING",
+          "created_at": "2022-06-28T19:38:35.908+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108556787115872069",
+          "language": "en",
+          "last_seen_ts": "2022-11-07T23:35:54.418610+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/moosepip/statuses/108556787115872069",
+          "url": "https://truthsocial.com/@moosepip/108556787115872069",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108557388998393855",
+        "_score": 6.7873,
+        "_source": {
+          "account": {
+            "acct": "luishon3",
+            "display_name": "Luishon",
+            "id": "107836034805219402",
+            "username": "luishon3"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "Dan MacGuill",
+            "author_url": "https://www.snopes.com/author/danmacguill/",
+            "blurhash": "UUFYGPxYIVj@~UoKRjayMxWXbIWBIVfkoffR",
+            "description": "Right-wing activists and commentators, including President Trump's sons and lawyers, targeted an elections technology employee in November 2020.",
+            "embed_url": "",
+            "height": 534,
+            "html": "",
+            "image": "https://static-assets.truthsocial.com/tmtg:prime-truth-social-assets/cache/preview_cards/images/003/465/509/original/5a7344e37dd6575e.jpg",
+            "provider_name": "Snopes.com",
+            "provider_url": "https://www.snopes.com",
+            "title": "Did a Dominion Voting Systems Employee Brag About Rigging the Election Against Trump?",
+            "type": "link",
+            "url": "https://www.snopes.com/fact-check/eric-coomer-dominion-trump/",
+            "width": 800
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>A kangaroo court will follow rules contrary to the unselect BOGUS SHAM committee and their LAUGHING WITNESSES and their voting fraud accomplices or cronies<br />81 million votes for a complete cognitive pedo-CREEPY sniffer fool…?<\/p><p><a href=\"https://www.snopes.com/fact-check/eric-coomer-dominion-trump/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">snopes.com/fact-check/eric-coo<\/span><span class=\"invisible\">mer-dominion-trump/<\/span><\/a><\/p>",
+          "content_cleaned": "A kangaroo court will follow rules contrary to the unselect BOGUS SHAM committee and their LAUGHING WITNESSES and their voting fraud accomplices or cronies81 million votes for a complete cognitive pedo-CREEPY sniffer fool…?https://www.snopes.com/fact-check/eric-coomer-dominion-trump/",
+          "created_at": "2022-06-28T22:11:39.905+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108557388998393855",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556788411347843",
+          "language": "en",
+          "last_seen_ts": "2022-07-17T05:02:24.163707+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/luishon3/statuses/108557388998393855",
+          "url": "https://truthsocial.com/@luishon3/108557388998393855",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555705770479578",
+        "_score": 6.7873,
+        "_source": {
+          "account": {
+            "acct": "BorderAnon",
+            "display_name": "BorderAnon",
+            "id": "107853991881029736",
+            "username": "BorderAnon"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>We must get out of the Corrupt ERIC Voter registration system that system needs to be removed. Our personal information needs to to be protected. Go to <span class=\"h-card\"><a href=\"https://truthsocial.com/@RSBN\" class=\"u-url mention\">@<span>RSBN<\/span><\/a><\/span> to see the evidence of voter fraud. That was exposed last night in Arizona.<\/p>",
+          "content_cleaned": "We must get out of the Corrupt ERIC Voter registration system that system needs to be removed. Our personal information needs to to be protected. Go to @RSBN to see the evidence of voter fraud. That was exposed last night in Arizona.",
+          "created_at": "2022-06-28T15:03:35.886+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108555705770479578",
+          "in_reply_to_account_id": "107832890542091577",
+          "in_reply_to_id": "108553780783432293",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "KariLake",
+              "id": "107832890542091577",
+              "url": "https://truthsocial.com/@KariLake",
+              "username": "KariLake"
+            },
+            {
+              "acct": "RSBN",
+              "id": "107804136363140452",
+              "url": "https://truthsocial.com/@RSBN",
+              "username": "RSBN"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/BorderAnon/statuses/108555705770479578",
+          "url": "https://truthsocial.com/@BorderAnon/108555705770479578",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-21T05:11:08.375122",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555361988681659",
+        "_score": 6.7873,
+        "_source": {
+          "account": {
+            "acct": "brooks71",
+            "display_name": "Brooks44",
+            "id": "107867082419065830",
+            "username": "brooks71"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>***ENDORSEMENT ALERT***<\/p><p>Pleased to announce that I have been endorsed by West Virginians for Life for the November 8th General Election.<\/p><p>I am thankful for this important endorsement from West Virginia’s premier pro-life advocacy group.<\/p><p>I am proud to be 100% Pro-Life!<\/p><p>Eric<\/p>",
+          "content_cleaned": "***ENDORSEMENT ALERT***Pleased to announce that I have been endorsed by West Virginians for Life for the November 8th General Election.I am thankful for this important endorsement from West Virginia’s premier pro-life advocacy group.I am proud to be 100% Pro-Life!Eric",
+          "created_at": "2022-06-28T13:36:10.192+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555361988681659",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UFJa[q4:s:az~p%LkCjsRPt7t6ayofWBofj[",
+              "id": "108555361954819846",
+              "meta": {
+                "aspect": 0.7504,
+                "height": 1170,
+                "size": "878x1170",
+                "width": 878
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/361/954/819/846/small/e70217b48d63628f.jpeg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/361/954/819/846/original/e70217b48d63628f.jpeg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/@brooks71/108555361988681659",
+          "url": "https://truthsocial.com/@brooks71/108555361988681659",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-29T14:43:24.336276",
+          "reblog": {},
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555937172087139",
+        "_score": 6.6428,
+        "_source": {
+          "account": {
+            "acct": "lovly2cu",
+            "display_name": "lovly2cu",
+            "id": "108394313861774330",
+            "username": "lovly2cu"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Jovan can tell who watched the videos he sent to Congress &amp; who didnt. Glad Josh asked about the Soros backed ERIC voter registration system, adds fake &amp; duplicated people then removes them after the election. This is what I kept messaging you about<\/p>",
+          "content_cleaned": "Jovan can tell who watched the videos he sent to Congress &amp; who didnt. Glad Josh asked about the Soros backed ERIC voter registration system, adds fake &amp; duplicated people then removes them after the election. This is what I kept messaging you about",
+          "created_at": "2022-06-28T16:02:26.777+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555937172087139",
+          "in_reply_to_account_id": "107833191310223788",
+          "in_reply_to_id": "108552751805860355",
+          "language": "en",
+          "last_seen_ts": "2022-11-11T11:45:47.364707+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "JovanHuttonPulitzer",
+              "id": "108392696907082832",
+              "url": "https://truthsocial.com/@JovanHuttonPulitzer",
+              "username": "JovanHuttonPulitzer"
+            },
+            {
+              "acct": "wendyrogersaz",
+              "id": "107833191310223788",
+              "url": "https://truthsocial.com/@wendyrogersaz",
+              "username": "wendyrogersaz"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/lovly2cu/statuses/108555937172087139",
+          "url": "https://truthsocial.com/@lovly2cu/108555937172087139",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556639320849220",
+        "_score": 6.5054,
+        "_source": {
+          "account": {
+            "acct": "rickrahl",
+            "display_name": "Rick Rahl",
+            "id": "108460175843471270",
+            "username": "rickrahl"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>The J6 committee tried to get Kevin McCarthy to play ball and offered to let him select which Republicans could also be on the committee. He declined. Be mad at Kevin McCarthy. Also, idc about Eric Holder!!!! Launch him into the sun!!! Nobody gives a fuck.<\/p>",
+          "content_cleaned": "The J6 committee tried to get Kevin McCarthy to play ball and offered to let him select which Republicans could also be on the committee. He declined. Be mad at Kevin McCarthy. Also, idc about Eric Holder!!!! Launch him into the sun!!! Nobody gives a fuck.",
+          "created_at": "2022-06-28T19:01:00.727+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108556639320849220",
+          "in_reply_to_account_id": "108203235769067377",
+          "in_reply_to_id": "108556592472760937",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "ArchangelOfJustice",
+              "id": "107834209291874605",
+              "url": "https://truthsocial.com/@ArchangelOfJustice",
+              "username": "ArchangelOfJustice"
+            },
+            {
+              "acct": "catturd2",
+              "id": "107813673407103404",
+              "url": "https://truthsocial.com/@catturd2",
+              "username": "catturd2"
+            },
+            {
+              "acct": "CFlatty",
+              "id": "108203235769067377",
+              "url": "https://truthsocial.com/@CFlatty",
+              "username": "CFlatty"
+            },
+            {
+              "acct": "MrGreenJeans",
+              "id": "107837793008833946",
+              "url": "https://truthsocial.com/@MrGreenJeans",
+              "username": "MrGreenJeans"
+            },
+            {
+              "acct": "rickrahl",
+              "id": "108460175843471270",
+              "url": "https://truthsocial.com/@rickrahl",
+              "username": "rickrahl"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 3,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/rickrahl/statuses/108556639320849220",
+          "url": "https://truthsocial.com/@rickrahl/108556639320849220",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-04-14T04:10:58.617857",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556471453336737",
+        "_score": 6.2497,
+        "_source": {
+          "account": {
+            "acct": "JJ1",
+            "display_name": "JJ1",
+            "id": "107835821594236993",
+            "username": "JJ1"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Like Schiff’s last phony whistleblower Eric Ciaramella, who he claimed he didn’t know and he did, in the fake impeachment, Schiff will again produce a phony witness. Schiff lies about proof, present doctored evidence and, like his phony whistleblower, is now producing a phony witness. Same Schiff dirty tricks, different day.<\/p>",
+          "content_cleaned": "Like Schiff’s last phony whistleblower Eric Ciaramella, who he claimed he didn’t know and he did, in the fake impeachment, Schiff will again produce a phony witness. Schiff lies about proof, present doctored evidence and, like his phony whistleblower, is now producing a phony witness. Same Schiff dirty tricks, different day.",
+          "created_at": "2022-06-28T18:18:19.282+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 4,
+          "id": "108556471453336737",
+          "in_reply_to_account_id": "107780257626128497",
+          "in_reply_to_id": "108556410689094582",
+          "language": "en",
+          "last_seen_ts": "2023-02-12T22:13:06.617675+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 2,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JJ1/statuses/108556471453336737",
+          "url": "https://truthsocial.com/@JJ1/108556471453336737",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108553058981105428",
+        "_score": 5.9077,
+        "_source": {
+          "account": {
+            "acct": "MaverickDissenter",
+            "display_name": "✯𝓜𝓪𝓿𝓮𝓻𝓲𝓬𝓴 𝓓𝓲𝓼𝓼𝓮𝓷𝓽𝓮𝓻✯",
+            "id": "107835651055765665",
+            "username": "MaverickDissenter"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@MaverickDissenter\" class=\"u-url mention\">@<span>MaverickDissenter<\/span><\/a><\/span> Watch one of the best political ads ever! The left are going crazy over it!! 😂😂😂<\/p><p>-Eric Greitens<br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EricGreitens\" class=\"u-url mention\">@<span>EricGreitens<\/span><\/a><\/span> <br />Big Tech is once again meddling in our elections and putting their thumb on the scale. <\/p><p>When I’m U.S. Senator, I will fight against the disgusting tech oligarchs from stealing any more elections.<\/p>",
+          "content_cleaned": "RT @MaverickDissenter Watch one of the best political ads ever! The left are going crazy over it!! 😂😂😂-Eric Greitens@EricGreitens Big Tech is once again meddling in our elections and putting their thumb on the scale. When I’m U.S. Senator, I will fight against the disgusting tech oligarchs from stealing any more elections.",
+          "created_at": "2022-06-28T03:50:29.083+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108553058981105428",
+          "last_seen_ts": "2022-06-28T11:08:47.757121+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MaverickDissenter/statuses/108553058981105428/activity",
+          "url": "https://truthsocial.com/users/MaverickDissenter/statuses/108553058981105428/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108512966497228492",
+            "uri": "https://truthsocial.com/users/MaverickDissenter/statuses/108512966497228492",
+            "url": "https://truthsocial.com/@MaverickDissenter/108512966497228492"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556876297100686",
+        "_score": 5.7035,
+        "_source": {
+          "account": {
+            "acct": "newhavensue",
+            "display_name": "",
+            "id": "108453601807319940",
+            "username": "newhavensue"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>If trump wants to sit under oath and all the other guys who he told not to , we would know both sides.  But they won’t sit under oath because they’d have to tell the truth. Remember when trump said anyone who pleads the fifth is guilty.  His son Eric, the one he really hates, pled the 5th hundreds of time.<\/p>",
+          "content_cleaned": "If trump wants to sit under oath and all the other guys who he told not to , we would know both sides.  But they won’t sit under oath because they’d have to tell the truth. Remember when trump said anyone who pleads the fifth is guilty.  His son Eric, the one he really hates, pled the 5th hundreds of time.",
+          "created_at": "2022-06-28T20:01:16.703+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108556876297100686",
+          "in_reply_to_account_id": "107843267980905672",
+          "in_reply_to_id": "108556791489372042",
+          "language": "en",
+          "last_seen_ts": "2022-11-18T22:05:23.637643+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "honeybadger58",
+              "id": "107843267980905672",
+              "url": "https://truthsocial.com/@honeybadger58",
+              "username": "honeybadger58"
+            },
+            {
+              "acct": "newhavensue",
+              "id": "108453601807319940",
+              "url": "https://truthsocial.com/@newhavensue",
+              "username": "newhavensue"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "TuckFrump69",
+              "id": "107872990972429936",
+              "url": "https://truthsocial.com/@TuckFrump69",
+              "username": "TuckFrump69"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/newhavensue/statuses/108556876297100686",
+          "url": "https://truthsocial.com/@newhavensue/108556876297100686",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555417018827118",
+        "_score": 5.5156,
+        "_source": {
+          "account": {
+            "acct": "drjasondean",
+            "display_name": "Dr. Jason Dean",
+            "id": "107831019822632484",
+            "username": "drjasondean"
+          },
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I am guest hosting for my good friend, Dr. Eric Nepute the rest of the week on Real Talk Radio Network from 10:00AM - 12:00PM EST!<\/p><p>You can listen in at www.realtalk933.com<\/p><p>Or you can download the app Real Talk 93.3 on your phone and listen there.<\/p><p>I will be going from the radio show and then jumping right into BraveTV right after. See you there!<\/p>",
+          "content_cleaned": "I am guest hosting for my good friend, Dr. Eric Nepute the rest of the week on Real Talk Radio Network from 10:00AM - 12:00PM EST!You can listen in at www.realtalk933.comOr you can download the app Real Talk 93.3 on your phone and listen there.I will be going from the radio show and then jumping right into BraveTV right after. See you there!",
+          "created_at": "2022-06-28T13:50:09.885+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 14,
+          "id": "108555417018827118",
+          "language": "en",
+          "last_seen_ts": "2022-10-27T07:04:47.986424+00:00",
+          "media_attachments": [
+            {
+              "blurhash": "UMF$FqE30eo}K4Sg+vniHrROX-g3T0WBsBjF",
+              "id": "108555416994206637",
+              "meta": {
+                "aspect": 1.3279,
+                "height": 610,
+                "size": "810x610",
+                "width": 810
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/416/994/206/637/small/f7afb2ca69092c0d.jpeg",
+              "text_url": "https://truthsocial.com/media/y0xNdVhvpGyhVUzmNYs",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/555/416/994/206/637/original/f7afb2ca69092c0d.jpeg"
+            }
+          ],
+          "mentions": [],
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogs_count": 3,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/drjasondean/statuses/108555417018827118",
+          "url": "https://truthsocial.com/@drjasondean/108555417018827118",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555618881454235",
+        "_score": 5.3421,
+        "_source": {
+          "account": {
+            "acct": "ChristinaW0626",
+            "display_name": "Christina Marie",
+            "id": "107842248120856384",
+            "username": "ChristinaW0626"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@drjasondean\" class=\"u-url mention\">@<span>drjasondean<\/span><\/a><\/span> I am guest hosting for my good friend, Dr. Eric Nepute the rest of the week on Real Talk Radio Network from 10:00AM - 12:00PM EST!<\/p><p>You can listen in at www.realtalk933.com<\/p><p>Or you can download the app Real Talk 93.3 on your phone and listen there.<\/p><p>I will be going from the radio show and then jumping right into BraveTV right after. See you there!<\/p>",
+          "content_cleaned": "RT @drjasondean I am guest hosting for my good friend, Dr. Eric Nepute the rest of the week on Real Talk Radio Network from 10:00AM - 12:00PM EST!You can listen in at www.realtalk933.comOr you can download the app Real Talk 93.3 on your phone and listen there.I will be going from the radio show and then jumping right into BraveTV right after. See you there!",
+          "created_at": "2022-06-28T14:41:30.067+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555618881454235",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ChristinaW0626/statuses/108555618881454235/activity",
+          "url": "https://truthsocial.com/users/ChristinaW0626/statuses/108555618881454235/activity",
+          "visibility": "public",
+          "lastseents": "2023-04-23T10:54:09.798532",
+          "reblog": {
+            "id": "108555417018827118",
+            "uri": "https://truthsocial.com/users/drjasondean/statuses/108555417018827118",
+            "url": "https://truthsocial.com/@drjasondean/108555417018827118"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108553089682806394",
+        "_score": 5.1815,
+        "_source": {
+          "account": {
+            "acct": "Titus_Pullo1",
+            "display_name": "",
+            "id": "108195444776912646",
+            "username": "Titus_Pullo1"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>GBI agent investigating the &quot;crash&quot; died a week later by &quot;suicide.&quot; This &quot;car accident&quot; happened the next day following Brian Kemp&apos;s appearance on Laura Ingraham show promising to look into voting irregularities. The day before, Eric Swallwell tweets out a strange vague tweet about a young friend of his dying in a car crash, but he gave no details. Spooky to say the least.<\/p>",
+          "content_cleaned": "GBI agent investigating the &quot;crash&quot; died a week later by &quot;suicide.&quot; This &quot;car accident&quot; happened the next day following Brian Kemp&apos;s appearance on Laura Ingraham show promising to look into voting irregularities. The day before, Eric Swallwell tweets out a strange vague tweet about a young friend of his dying in a car crash, but he gave no details. Spooky to say the least.",
+          "created_at": "2022-06-28T03:58:17.558+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "108553089682806394",
+          "in_reply_to_account_id": "107843108536889659",
+          "in_reply_to_id": "108552670814037513",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Danger_Close",
+              "id": "107843108536889659",
+              "url": "https://truthsocial.com/@Danger_Close",
+              "username": "Danger_Close"
+            },
+            {
+              "acct": "JuliansRum",
+              "id": "107834508621649493",
+              "url": "https://truthsocial.com/@JuliansRum",
+              "username": "JuliansRum"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Titus_Pullo1/statuses/108553089682806394",
+          "url": "https://truthsocial.com/@Titus_Pullo1/108553089682806394",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-05-01T08:05:56.254421",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108554940777540569",
+        "_score": 4.8934,
+        "_source": {
+          "account": {
+            "acct": "Laurelin",
+            "display_name": "",
+            "id": "107878107710357139",
+            "username": "Laurelin"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>When you compare the death rate from guns in gun-free areas and areas with strict gun control two cops killing unarmed people, it&apos;s not really a contest.￼ Our government is arming criminals all around the world, don&apos;t forget Eric Holder, Or Congress&apos; insistence that Arms sent to Ukraine have zero accountability/follow up￼. It refuses to enforce existing gun laws on home soil with consistency. Fix that problem. Tell criminals to stop Resisting arrest, also.￼<\/p>",
+          "content_cleaned": "When you compare the death rate from guns in gun-free areas and areas with strict gun control two cops killing unarmed people, it&apos;s not really a contest.￼ Our government is arming criminals all around the world, don&apos;t forget Eric Holder, Or Congress&apos; insistence that Arms sent to Ukraine have zero accountability/follow up￼. It refuses to enforce existing gun laws on home soil with consistency. Fix that problem. Tell criminals to stop Resisting arrest, also.￼",
+          "created_at": "2022-06-28T11:49:03.017+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "108554940777540569",
+          "in_reply_to_account_id": "108388582692215055",
+          "in_reply_to_id": "108553212344427364",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DineshDSouza",
+              "id": "107810096875431988",
+              "url": "https://truthsocial.com/@DineshDSouza",
+              "username": "DineshDSouza"
+            },
+            {
+              "acct": "Faceman2",
+              "id": "108388582692215055",
+              "url": "https://truthsocial.com/@Faceman2",
+              "username": "Faceman2"
+            },
+            {
+              "acct": "KMN86",
+              "id": "107839442183256491",
+              "url": "https://truthsocial.com/@KMN86",
+              "username": "KMN86"
+            },
+            {
+              "acct": "Laurelin",
+              "id": "107878107710357139",
+              "url": "https://truthsocial.com/@Laurelin",
+              "username": "Laurelin"
+            },
+            {
+              "acct": "Remdesivir",
+              "id": "108184921624833580",
+              "url": "https://truthsocial.com/@Remdesivir",
+              "username": "Remdesivir"
+            },
+            {
+              "acct": "thehandofmidas",
+              "id": "108328712454986509",
+              "url": "https://truthsocial.com/@thehandofmidas",
+              "username": "thehandofmidas"
+            },
+            {
+              "acct": "TraitorTrumpLostBigIy",
+              "id": "108251251793722503",
+              "url": "https://truthsocial.com/@TraitorTrumpLostBigIy",
+              "username": "TraitorTrumpLostBigIy"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Laurelin/statuses/108554940777540569",
+          "url": "https://truthsocial.com/@Laurelin/108554940777540569",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-05-13T03:12:19.598835",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108554971876637001",
+        "_score": 4.7637,
+        "_source": {
+          "account": {
+            "acct": "sallyfox",
+            "display_name": "Forest Fox",
+            "id": "107834627369857355",
+            "username": "sallyfox"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I recall the day I stumbled upon an unfamiliar name, Joe Oltman when he was disclosing the Eric Coomer story that very day. Although I already had reason to suspect blatant election fraud had occurred, the fact that this Dominion high level employee had been involved upped the scope and magnitude of a vast conspiracy to steal the election. Joe had captured, then posted Coomers social media comments before Coomer removed it. That video convinced me that Dominion was a major player in the fraud.<\/p>",
+          "content_cleaned": "I recall the day I stumbled upon an unfamiliar name, Joe Oltman when he was disclosing the Eric Coomer story that very day. Although I already had reason to suspect blatant election fraud had occurred, the fact that this Dominion high level employee had been involved upped the scope and magnitude of a vast conspiracy to steal the election. Joe had captured, then posted Coomers social media comments before Coomer removed it. That video convinced me that Dominion was a major player in the fraud.",
+          "created_at": "2022-06-28T11:56:57.548+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 6,
+          "id": "108554971876637001",
+          "in_reply_to_account_id": "107834805908592232",
+          "in_reply_to_id": "108553500540370536",
+          "language": "en",
+          "last_seen_ts": "2022-11-19T14:32:02.099119+00:00",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "DaKine17",
+              "id": "107834805908592232",
+              "url": "https://truthsocial.com/@DaKine17",
+              "username": "DaKine17"
+            },
+            {
+              "acct": "dannygrand",
+              "id": "107834266183698148",
+              "url": "https://truthsocial.com/@dannygrand",
+              "username": "dannygrand"
+            },
+            {
+              "acct": "realDonaldTrump",
+              "id": "107780257626128497",
+              "url": "https://truthsocial.com/@realDonaldTrump",
+              "username": "realDonaldTrump"
+            },
+            {
+              "acct": "RighteousJon",
+              "id": "107834199959363745",
+              "url": "https://truthsocial.com/@RighteousJon",
+              "username": "RighteousJon"
+            },
+            {
+              "acct": "TrumpSquad",
+              "id": "108046177356818393",
+              "url": "https://truthsocial.com/@TrumpSquad",
+              "username": "TrumpSquad"
+            },
+            {
+              "acct": "tylerbwebster",
+              "id": "108362997228696320",
+              "url": "https://truthsocial.com/@tylerbwebster",
+              "username": "tylerbwebster"
+            }
+          ],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 2,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/sallyfox/statuses/108554971876637001",
+          "url": "https://truthsocial.com/@sallyfox/108554971876637001",
+          "visibility": "public",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555883310709811",
+        "_score": 4.7637,
+        "_source": {
+          "account": {
+            "acct": "Lukeaw74",
+            "display_name": "Luke Willis",
+            "id": "107835318619888117",
+            "username": "Lukeaw74"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DuaneCates\" class=\"u-url mention\">@<span>DuaneCates<\/span><\/a><\/span>Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it's anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The \"Hidden\" evidence from Epstein's NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.<\/p><p><a href=\"https://twitter.com/innercitypress/with_replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">twitter.com/innercitypress/wit<\/span><span class=\"invisible\">h_replies<\/span><\/a><\/p>",
+          "content_cleaned": "RT @DuaneCatesMaxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it's anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The \"Hidden\" evidence from Epstein's NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.https://twitter.com/innercitypress/with_replies",
+          "created_at": "2022-06-28T15:48:44.931+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555883310709811",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/@Lukeaw74/108555883310709811",
+          "url": "https://truthsocial.com/@Lukeaw74/108555883310709811",
+          "visibility": "public",
+          "sponsored": false,
+          "lastseents": "2023-05-09T23:11:57.396582",
+          "reblog": {
+            "id": "108555698608279903",
+            "uri": "https://truthsocial.com/@DuaneCates/108555698608279903",
+            "url": "https://truthsocial.com/@DuaneCates/108555698608279903"
+          },
+          "pinned": false
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555865363964762",
+        "_score": 4.6424,
+        "_source": {
+          "account": {
+            "acct": "Fletch17",
+            "display_name": "Fletch17",
+            "id": "107837460313066809",
+            "username": "Fletch17"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DuaneCates\" class=\"u-url mention\">@<span>DuaneCates<\/span><\/a><\/span> Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.<\/p><p><a href=\"https://twitter.com/innercitypress/with_replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">twitter.com/innercitypress/wit<\/span><span class=\"invisible\">h_replies<\/span><\/a><\/p>",
+          "content_cleaned": "RT @DuaneCates Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.https://twitter.com/innercitypress/with_replies",
+          "created_at": "2022-06-28T15:44:11.085+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555865363964762",
+          "last_seen_ts": "2022-06-28T21:19:50.388260+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Fletch17/statuses/108555865363964762/activity",
+          "url": "https://truthsocial.com/users/Fletch17/statuses/108555865363964762/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108555698608279903",
+            "uri": "https://truthsocial.com/users/DuaneCates/statuses/108555698608279903",
+            "url": "https://truthsocial.com/@DuaneCates/108555698608279903"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555950814657962",
+        "_score": 4.6424,
+        "_source": {
+          "account": {
+            "acct": "alexandrasimone",
+            "display_name": "Alexandra Simone",
+            "id": "107837775304425387",
+            "username": "alexandrasimone"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DuaneCates\" class=\"u-url mention\">@<span>DuaneCates<\/span><\/a><\/span> Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.<\/p><p><a href=\"https://twitter.com/innercitypress/with_replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">twitter.com/innercitypress/wit<\/span><span class=\"invisible\">h_replies<\/span><\/a><\/p>",
+          "content_cleaned": "RT @DuaneCates Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.https://twitter.com/innercitypress/with_replies",
+          "created_at": "2022-06-28T16:05:54.959+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555950814657962",
+          "last_seen_ts": "2022-10-07T19:41:46.086660+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/alexandrasimone/statuses/108555950814657962/activity",
+          "url": "https://truthsocial.com/users/alexandrasimone/statuses/108555950814657962/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108555698608279903",
+            "uri": "https://truthsocial.com/users/DuaneCates/statuses/108555698608279903",
+            "url": "https://truthsocial.com/@DuaneCates/108555698608279903"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555888900949462",
+        "_score": 4.6424,
+        "_source": {
+          "account": {
+            "acct": "stevenootz",
+            "display_name": "Steven ULTRA M",
+            "id": "107907543165214404",
+            "username": "stevenootz"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DuaneCates\" class=\"u-url mention\">@<span>DuaneCates<\/span><\/a><\/span> Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.<\/p><p><a href=\"https://twitter.com/innercitypress/with_replies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">twitter.com/innercitypress/wit<\/span><span class=\"invisible\">h_replies<\/span><\/a><\/p>",
+          "content_cleaned": "RT @DuaneCates Maxwell is sentenced today. WATCH HOW MUCH TIME SHE GETS. If it&apos;s anything South of 30 years SHE GAVE PEOPLE UP! Decks are now cleared by the SDNY Public CORRUPTION Unit to begin indicting OBAMA ERA DoJ Officials who gave Epstein/Maxwell that illegal Sweetheart deal. Yes, I know, I KNOW, Nothing will happen! Just remember you read this. The &quot;Hidden&quot; evidence from Epstein&apos;s NY Townhome will be used to show HARM by either ERIC HOLDER or LORETTA LYNCH. Or Both.https://twitter.com/innercitypress/with_replies",
+          "created_at": "2022-06-28T15:50:10.304+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108555888900949462",
+          "last_seen_ts": "2022-10-17T06:51:55.438163+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/stevenootz/statuses/108555888900949462/activity",
+          "url": "https://truthsocial.com/users/stevenootz/statuses/108555888900949462/activity",
+          "visibility": "public",
+          "reblog": {
+            "id": "108555698608279903",
+            "uri": "https://truthsocial.com/users/DuaneCates/statuses/108555698608279903",
+            "url": "https://truthsocial.com/@DuaneCates/108555698608279903"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108556844805062168",
+        "_score": 4.6424,
+        "_source": {
+          "account": {
+            "acct": "UnionWorkerHank",
+            "display_name": "Hank",
+            "id": "108556828597905957",
+            "username": "UnionWorkerHank"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@RealJamesBell\" class=\"u-url mention\">@<span>RealJamesBell<\/span><\/a><\/span> Former governor Eric Grietens visits Warsaw, Missouri. I drove three hours to hear Mr. Grietens speak. He took some time to speak with me in regards to farming law concerns I have due to rising oil costs. Mr. Grietens is the only candidate I know of that has stood up for Missouri farmers in the past. Here is his new campaign ad from his visit. I am new on TruthSocial, and I hope we can have healthy conversations here.<br /><a href=\"https://truthsocial.com/tags/SaveAmerica\" class=\"mention hashtag\" rel=\"tag\">#<span>SaveAmerica<\/span><\/a> <a href=\"https://truthsocial.com/tags/nomorerinos\" class=\"mention hashtag\" rel=\"tag\">#<span>nomorerinos<\/span><\/a> <a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a> <span class=\"h-card\"><a href=\"https://truthsocial.com/@EricGreitens\" class=\"u-url mention\">@<span>EricGreitens<\/span><\/a><\/span> <br /><a href=\"https://youtu.be/VHdfZGwcUs4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">youtu.be/VHdfZGwcUs4<\/span><span class=\"invisible\"><\/span><\/a><\/p>",
+          "content_cleaned": "RT @RealJamesBell Former governor Eric Grietens visits Warsaw, Missouri. I drove three hours to hear Mr. Grietens speak. He took some time to speak with me in regards to farming law concerns I have due to rising oil costs. Mr. Grietens is the only candidate I know of that has stood up for Missouri farmers in the past. Here is his new campaign ad from his visit. I am new on TruthSocial, and I hope we can have healthy conversations here.#SaveAmerica #nomorerinos #Truth @EricGreitens https://youtu.be/VHdfZGwcUs4",
+          "created_at": "2022-06-28T19:53:16.172+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "108556844805062168",
+          "last_seen_ts": "2023-01-31T20:07:26.494098+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "quote": {
+            "account": {
+              "emojis": {},
+              "fields": {}
+            },
+            "emojis": {},
+            "media_attachments": {},
+            "mentions": {},
+            "tags": {}
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/UnionWorkerHank/statuses/108556844805062168/activity",
+          "url": "https://truthsocial.com/users/UnionWorkerHank/statuses/108556844805062168/activity",
+          "visibility": "public",
+          "sponsored": false,
+          "reblog": {
+            "id": "108535672901559116",
+            "uri": "https://truthsocial.com/users/RealJamesBell/statuses/108535672901559116",
+            "url": "https://truthsocial.com/@RealJamesBell/108535672901559116"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202206",
+        "_id": "108555511985642055",
+        "_score": 4.6424,
+        "_source": {
+          "account": {
+            "acct": "DougBillings",
+            "display_name": "Doug Billings",
+            "id": "107843865077889282",
+            "username": "DougBillings"
+          },
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>For those of you who are interested: You can NAME YOUR OWN PRICE to attend these events. <br />Go to:  www.TimeToFreeAmerica.com for tickets.<\/p><p>Enter promo code &quot;Right Side&quot; and they will give you FREE access to the VIP meet-n-greet to meet General Flynn, myself, Ann Vandersteel, Mel K, Tom Renz, Leigh Dundas, Karen Kingston, The Flyover Conservatives, Mike Lindel, etc. Donald Trump Jr. and Eric Trump have both joined the tour. Their father will likely make an appearance at a future event.<span class=\"quote-inline\"><br/>RT: <a href=\"https://truthsocial.com/users/DougBillings/statuses/108551921655662325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">truthsocial.com/users/DougBill<\/span><span class=\"invisible\">ings/statuses/108551921655662325<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "For those of you who are interested: You can NAME YOUR OWN PRICE to attend these events. Go to:  www.TimeToFreeAmerica.com for tickets.Enter promo code &quot;Right Side&quot; and they will give you FREE access to the VIP meet-n-greet to meet General Flynn, myself, Ann Vandersteel, Mel K, Tom Renz, Leigh Dundas, Karen Kingston, The Flyover Conservatives, Mike Lindel, etc. Donald Trump Jr. and Eric Trump have both joined the tour. Their father will likely make an appearance at a future event.RT: https://truthsocial.com/users/DougBillings/statuses/108551921655662325",
+          "created_at": "2022-06-28T14:14:19.038+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 41,
+          "id": "108555511985642055",
+          "language": "en",
+          "last_seen_ts": "2022-10-28T04:04:52.379667+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "quote": {
+            "account": {
+              "acct": "DougBillings",
+              "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/843/865/077/889/282/original/eee817bb32c94b90.jpeg",
+              "avatar_static": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/843/865/077/889/282/original/eee817bb32c94b90.jpeg",
+              "bot": false,
+              "created_at": "2022-02-22T21:53:09.321Z",
+              "discoverable": true,
+              "display_name": "Doug Billings",
+              "emojis": [],
+              "fields": [],
+              "followers_count": 25679,
+              "following_count": 101,
+              "group": false,
+              "header": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/headers/107/843/865/077/889/282/original/42c597a2f16a997d.jpeg",
+              "header_static": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/headers/107/843/865/077/889/282/original/42c597a2f16a997d.jpeg",
+              "id": "107843865077889282",
+              "last_status_at": "2022-10-28",
+              "location": "United States",
+              "locked": false,
+              "note": "<p>Host of “The Right Side With Doug Billings.” <br />I point out the intellectual immaturity of liberals.<br />Believe it. For the Republic!<\/p><p>Subscribe at: www.DougBillings.us<\/p>",
+              "statuses_count": 1197,
+              "url": "https://truthsocial.com/@DougBillings",
+              "username": "DougBillings",
+              "verified": true,
+              "website": "www.DougBillings.us"
+            },
+            "content": "<p>It&apos;s an honor to be on stage &amp; become friends with General Mike Flynn, Tom Renz &amp; Clay Clark. They are American Patriots doing exactly what our Founders did: Gathering Patriots together to become motivated, inspired &amp; educated so they can return home to local levels, get involved &amp; have national impact.<br />Go to www.TimeToFreeAmerica.com to get tickets &amp; enter promo code &quot;Right Side&quot; to get free access to Meet-N-Greet<br />Believe it.<br />For the Republic!<br />Cheers,<br />Doug<\/p><p><span class=\"h-card\"><a href=\"https://truthsocial.com/@TrueGenFlynn\" class=\"u-url mention\">@<span>TrueGenFlynn<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@ClayClark\" class=\"u-url mention\">@<span>ClayClark<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@TomRenz\" class=\"u-url mention\">@<span>TomRenz<\/span><\/a><\/span><span class=\"quote-inline\"><br/>RT: <a href=\"https://truthsocial.com/users/TrueGenFlynn/statuses/108551787167142139\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">truthsocial.com/users/TrueGenF<\/span><span class=\"invisible\">lynn/statuses/108551787167142139<\/span><\/a><\/span><\/p>",
+            "created_at": "2022-06-27T23:01:14.950Z",
+            "emojis": [],
+            "favourites_count": 59,
+            "id": "108551921655662325",
+            "language": "en",
+            "media_attachments": [
+              {
+                "blurhash": "UQE{nbIv%2%I~oi]-:t7%fW9ogNHWGIps;Rk",
+                "id": "108551910692600408",
+                "meta": {
+                  "original": {
+                    "aspect": 1.7778,
+                    "height": 360,
+                    "size": "640x360",
+                    "width": 640
+                  },
+                  "small": {
+                    "aspect": 1.7778,
+                    "height": 360,
+                    "size": "640x360",
+                    "width": 640
+                  }
+                },
+                "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/551/910/692/600/408/small/b99c1aaef3ee3344.jpeg",
+                "text_url": "https://truthsocial.com/media/0KjcuY9sO6T-Xim6lL8",
+                "type": "image",
+                "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/108/551/910/692/600/408/original/b99c1aaef3ee3344.jpeg"
+              }
+            ],
+            "mentions": [],
+            "quote_id": "108551787167142139",
+            "reblogs_count": 13,
+            "replies_count": 0,
+            "sensitive": false,
+            "spoiler_text": "",
+            "tags": [],
+            "uri": "https://truthsocial.com/users/DougBillings/statuses/108551921655662325",
+            "url": "https://truthsocial.com/@DougBillings/108551921655662325",
+            "visibility": "public"
+          },
+          "reblogs_count": 12,
+          "replies_count": 2,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/DougBillings/statuses/108555511985642055",
+          "url": "https://truthsocial.com/@DougBillings/108555511985642055",
+          "visibility": "public",
+          "reblog": {},
+          "quote_id": "108551921655662325"
+        },
+        "_ignored": ["content.keyword", "quote.content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

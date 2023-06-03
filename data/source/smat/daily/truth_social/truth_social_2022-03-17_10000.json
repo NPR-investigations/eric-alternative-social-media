@@ -1,0 +1,984 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [38],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [12.4726],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107973014742436941",
+        "_score": 12.4726,
+        "_source": {
+          "account": {
+            "acct": "IamVasili",
+            "display_name": "",
+            "id": "107881836148483390",
+            "username": "IamVasili"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Well said Eric<\/p>",
+          "content_cleaned": "Well said Eric",
+          "created_at": "2022-03-17T17:17:36.401+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107973014742436941",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "ULG8l^0JE4I9DhR*OYs.tPkWIUo#xvWVr=oJ",
+              "id": "107973014717161405",
+              "meta": {
+                "aspect": 0.973,
+                "height": 851,
+                "size": "828x851",
+                "width": 828
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/973/014/717/161/405/small/d3787573bcfbc8c0.jpeg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/973/014/717/161/405/original/d3787573bcfbc8c0.jpeg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "pinned": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/IamVasili/statuses/107973014742436941",
+          "url": "https://truthsocial.com/@IamVasili/107973014742436941",
+          "visibility": "public",
+          "lastseents": "2023-04-11T07:27:41.545238",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972551072362271",
+        "_score": 12.0042,
+        "_source": {
+          "account": {
+            "acct": "CharliesAngel",
+            "display_name": "Tracy",
+            "id": "107837207574472842",
+            "username": "CharliesAngel"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://ifapray.org/blog/eric-membership-organization-is-now-being-used-in-31-states/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">ifapray.org/blog/eric-membersh<\/span><span class=\"invisible\">ip-organization-is-now-being-used-in-31-states/<\/span><\/a><br />What is ERIC and Why You Should Care - Intercessors for America <br />Do you know what Eric is?<\/p>",
+          "content_cleaned": "https://ifapray.org/blog/eric-membership-organization-is-now-being-used-in-31-states/What is ERIC and Why You Should Care - Intercessors for America Do you know what Eric is?",
+          "created_at": "2022-03-17T15:19:41.363+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107972551072362271",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/CharliesAngel/statuses/107972551072362271",
+          "url": "https://truthsocial.com/@CharliesAngel/107972551072362271",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-09T20:42:10.180764+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972558435525721",
+        "_score": 10.6876,
+        "_source": {
+          "account": {
+            "acct": "CharliesAngel",
+            "display_name": "Tracy",
+            "id": "107837207574472842",
+            "username": "CharliesAngel"
+          },
+          "bookmarked": false,
+          "card": {
+            "author_name": "ERIC Inc",
+            "author_url": "https://ericstates.org/author/pwsadmin/",
+            "description": "ERIC is a non-profit organization whose mission is to assist states in improving the accuracy of America’s voter rolls. ERIC is governed and managed by states who choose to join, and was formed in 2012 with assistance from The Pew Charitable Trusts. Feel free to get in touch with us for more info!",
+            "embed_url": "",
+            "height": 0,
+            "html": "",
+            "provider_name": "ERIC Inc",
+            "provider_url": "https://ericstates.org",
+            "title": "Improving Voter Registration For Member States",
+            "type": "link",
+            "url": "https://ericstates.org/",
+            "width": 0
+          },
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://ericstates.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">ericstates.org/<\/span><span class=\"invisible\"><\/span><\/a><br />Improving Voter Registration For Member States<br /><a href=\"https://truthsocial.com/tags/ERIC\" class=\"mention hashtag\" rel=\"tag\">#<span>ERIC<\/span><\/a> <a href=\"https://truthsocial.com/tags/SOROS\" class=\"mention hashtag\" rel=\"tag\">#<span>SOROS<\/span><\/a><\/p>",
+          "content_cleaned": "https://ericstates.org/Improving Voter Registration For Member States#ERIC #SOROS",
+          "created_at": "2022-03-17T15:21:33.713+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107972558435525721",
+          "language": "no",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "eric",
+              "url": "https://truthsocial.com/tags/eric"
+            },
+            {
+              "name": "soros",
+              "url": "https://truthsocial.com/tags/soros"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/CharliesAngel/statuses/107972558435525721",
+          "url": "https://truthsocial.com/@CharliesAngel/107972558435525721",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-09T20:42:10.176848+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "card.description.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107971528241311656",
+        "_score": 9.0727,
+        "_source": {
+          "account": {
+            "acct": "RuralLife57",
+            "display_name": "CountryGirl57",
+            "id": "107842306307865309",
+            "username": "RuralLife57"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>I’ve wondered the same about why Don Jr, Kimberly, Ivanka, Eric &amp; Laura. None of Trump’s family are here.<\/p>",
+          "content_cleaned": "I’ve wondered the same about why Don Jr, Kimberly, Ivanka, Eric &amp; Laura. None of Trump’s family are here.",
+          "created_at": "2022-03-17T10:59:34.187+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107971528241311656",
+          "in_reply_to_account_id": "107839274910797883",
+          "in_reply_to_id": "107971484332903434",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "Swampteam6",
+              "id": "107839274910797883",
+              "url": "https://truthsocial.com/@Swampteam6",
+              "username": "Swampteam6"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/RuralLife57/statuses/107971528241311656",
+          "url": "https://truthsocial.com/@RuralLife57/107971528241311656",
+          "visibility": "public",
+          "lastseents": "2023-04-07T01:48:10.802310",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107974060743991574",
+        "_score": 8.6478,
+        "_source": {
+          "account": {
+            "acct": "Chico5",
+            "display_name": "Chico 🎖🪂🇺🇸",
+            "id": "107835451951011110",
+            "username": "Chico5"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Eric Bolling of NewsMax is a lap dog trying to get more viewers, kiss ass, close friend of Lindsey Graham the RINO.<\/p>",
+          "content_cleaned": "Eric Bolling of NewsMax is a lap dog trying to get more viewers, kiss ass, close friend of Lindsey Graham the RINO.",
+          "created_at": "2022-03-17T21:43:37.121+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107974060743991574",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Chico5/statuses/107974060743991574",
+          "url": "https://truthsocial.com/@Chico5/107974060743991574",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-17T20:29:48.335716+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107969586356923939",
+        "_score": 8.5159,
+        "_source": {
+          "account": {
+            "acct": "kagdrogo",
+            "display_name": "Chad H Vivas ⭐️⭐️⭐️ɄⱠ₮Ɽ₳2QQQ🐴",
+            "id": "107834450197185966",
+            "username": "kagdrogo"
+          },
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>OH DANG - My painting made Yahoo news! 🗞 📰 😂<\/p><p><a href=\"https://www.google.com/amp/s/uk.news.yahoo.com/amphtml/eric-trump-accepts-q-painting-151825830.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">google.com/amp/s/uk.news.yahoo<\/span><span class=\"invisible\">.com/amphtml/eric-trump-accepts-q-painting-151825830.html<\/span><\/a><\/p>",
+          "content_cleaned": "OH DANG - My painting made Yahoo news! 🗞 📰 😂https://www.google.com/amp/s/uk.news.yahoo.com/amphtml/eric-trump-accepts-q-painting-151825830.html",
+          "created_at": "2022-03-17T02:45:43.400+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourites_count": 334,
+          "id": "107969586356923939",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UpM@iuWBaeof_3WBofj[~qWBoMj[4UofWBfk",
+              "id": "107969586296640787",
+              "meta": {
+                "aspect": 0.7358,
+                "height": 1181,
+                "size": "869x1181",
+                "width": 869
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/969/586/296/640/787/small/0860eeb6066a5ec1.jpeg",
+              "text_url": "https://truthsocial.com/media/59ZC5Xqg38hI128W2ds",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/969/586/296/640/787/original/0860eeb6066a5ec1.jpeg"
+            }
+          ],
+          "mentions": [],
+          "reblogs_count": 102,
+          "replies_count": 28,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/kagdrogo/statuses/107969586356923939",
+          "url": "https://truthsocial.com/@kagdrogo/107969586356923939",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-31T12:05:49.456045+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107970129258434050",
+        "_score": 8.3885,
+        "_source": {
+          "account": {
+            "acct": "danvannos",
+            "display_name": "ULTRA MAGA Dan Van",
+            "id": "107834677237625482",
+            "username": "danvannos"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Thanks for he add btw, but your art is so other level. Thank you for creating Trump, with Eric and Don also Gen Flyn’s.<\/p>",
+          "content_cleaned": "Thanks for he add btw, but your art is so other level. Thank you for creating Trump, with Eric and Don also Gen Flyn’s.",
+          "created_at": "2022-03-17T05:03:47.415+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107970129258434050",
+          "in_reply_to_account_id": "107834450197185966",
+          "in_reply_to_id": "107963288032818662",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "kagdrogo",
+              "id": "107834450197185966",
+              "url": "https://truthsocial.com/@kagdrogo",
+              "username": "kagdrogo"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/danvannos/statuses/107970129258434050",
+          "url": "https://truthsocial.com/@danvannos/107970129258434050",
+          "visibility": "public",
+          "lastseents": "2023-05-14T07:08:05.897016",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107973598495957390",
+        "_score": 8.2653,
+        "_source": {
+          "account": {
+            "acct": "indiaforest",
+            "display_name": "India",
+            "id": "107842791617677524",
+            "username": "indiaforest"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kagdrogo\" class=\"u-url mention\">@<span>kagdrogo<\/span><\/a><\/span> OH DANG - My painting made Yahoo news! 🗞 📰 😂<\/p><p><a href=\"https://www.google.com/amp/s/uk.news.yahoo.com/amphtml/eric-trump-accepts-q-painting-151825830.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">google.com/amp/s/uk.news.yahoo<\/span><span class=\"invisible\">.com/amphtml/eric-trump-accepts-q-painting-151825830.html<\/span><\/a><\/p>",
+          "content_cleaned": "RT @kagdrogo OH DANG - My painting made Yahoo news! 🗞 📰 😂https://www.google.com/amp/s/uk.news.yahoo.com/amphtml/eric-trump-accepts-q-painting-151825830.html",
+          "created_at": "2022-03-17T19:46:03.773+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107973598495957390",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/indiaforest/statuses/107973598495957390/activity",
+          "url": "https://truthsocial.com/users/indiaforest/statuses/107973598495957390/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-07-07T12:08:17.773693+00:00",
+          "reblog": {
+            "id": "107969586356923939",
+            "uri": "https://truthsocial.com/users/kagdrogo/statuses/107969586356923939",
+            "url": "https://truthsocial.com/@kagdrogo/107969586356923939"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107970156873086275",
+        "_score": 8.2653,
+        "_source": {
+          "account": {
+            "acct": "Sarita_CaliGirl",
+            "display_name": "Sarita",
+            "id": "107834486763481669",
+            "username": "Sarita_CaliGirl"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p><a href=\"https://twitter.com/alexbruesewitz/status/1504173012605669379?s=12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"ellipsis\">twitter.com/alexbruesewitz/sta<\/span><span class=\"invisible\">tus/1504173012605669379?s=12<\/span><\/a><br />War over the Ukrainian border means body bags… Listen to Eric former Navy seal and candidate for US Senate.￼<\/p>",
+          "content_cleaned": "https://twitter.com/alexbruesewitz/status/1504173012605669379?s=12War over the Ukrainian border means body bags… Listen to Eric former Navy seal and candidate for US Senate.￼",
+          "created_at": "2022-03-17T05:10:48.787+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107970156873086275",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Sarita_CaliGirl/statuses/107970156873086275",
+          "url": "https://truthsocial.com/@Sarita_CaliGirl/107970156873086275",
+          "visibility": "public",
+          "last_seen_ts": "2022-10-04T03:53:57.380583+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972556927720178",
+        "_score": 7.6047,
+        "_source": {
+          "account": {
+            "acct": "ronerd2030",
+            "display_name": "ronerd2030",
+            "id": "107873572617333628",
+            "username": "ronerd2030"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@History\" class=\"u-url mention\">@<span>History<\/span><\/a><\/span> Eric Clapton and B.B. King. Clapton and King released the album Riding with the King in 2000 and it won the 2000 Grammy Award for Best Traditional Blues Album.<\/p>",
+          "content_cleaned": "RT @History Eric Clapton and B.B. King. Clapton and King released the album Riding with the King in 2000 and it won the 2000 Grammy Award for Best Traditional Blues Album.",
+          "created_at": "2022-03-17T15:21:10.701+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107972556927720178",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ronerd2030/statuses/107972556927720178/activity",
+          "url": "https://truthsocial.com/users/ronerd2030/statuses/107972556927720178/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-01T23:15:43.747396+00:00",
+          "reblog": {
+            "id": "107972493772584127",
+            "uri": "https://truthsocial.com/users/History/statuses/107972493772584127",
+            "url": "https://truthsocial.com/@History/107972493772584127"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972501769137114",
+        "_score": 7.6047,
+        "_source": {
+          "account": {
+            "acct": "Midwestman85",
+            "display_name": "Mike Hubbard",
+            "id": "107874067556291581",
+            "username": "Midwestman85"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@History\" class=\"u-url mention\">@<span>History<\/span><\/a><\/span> Eric Clapton and B.B. King. Clapton and King released the album Riding with the King in 2000 and it won the 2000 Grammy Award for Best Traditional Blues Album.<\/p>",
+          "content_cleaned": "RT @History Eric Clapton and B.B. King. Clapton and King released the album Riding with the King in 2000 and it won the 2000 Grammy Award for Best Traditional Blues Album.",
+          "created_at": "2022-03-17T15:07:09.052+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107972501769137114",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Midwestman85/statuses/107972501769137114/activity",
+          "url": "https://truthsocial.com/users/Midwestman85/statuses/107972501769137114/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-01T22:50:51.795098+00:00",
+          "reblog": {
+            "id": "107972493772584127",
+            "uri": "https://truthsocial.com/users/History/statuses/107972493772584127",
+            "url": "https://truthsocial.com/@History/107972493772584127"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107970202491765057",
+        "_score": 7.6047,
+        "_source": {
+          "account": {
+            "acct": "KathyKay",
+            "display_name": "⚖️Ka✝️hyKay🇺🇸🏍🌏✌️",
+            "id": "107834194569154806",
+            "username": "KathyKay"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Congrats‼️ Controversial conference? 😂🤣 Was it Clay Clark’s ReAwaken America Tour?  I went to the Dallas one. Eric Trump and Gen Flynn were both there. I loved it! ❤️<\/p>",
+          "content_cleaned": "Congrats‼️ Controversial conference? 😂🤣 Was it Clay Clark’s ReAwaken America Tour?  I went to the Dallas one. Eric Trump and Gen Flynn were both there. I loved it! ❤️",
+          "created_at": "2022-03-17T05:22:24.855+00:00",
+          "datatype": "comment",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "107970202491765057",
+          "in_reply_to_account_id": "107834450197185966",
+          "in_reply_to_id": "107969586356923939",
+          "language": "en",
+          "media_attachments": [],
+          "mentions": [
+            {
+              "acct": "kagdrogo",
+              "id": "107834450197185966",
+              "url": "https://truthsocial.com/@kagdrogo",
+              "username": "kagdrogo"
+            }
+          ],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/KathyKay/statuses/107970202491765057",
+          "url": "https://truthsocial.com/@KathyKay/107970202491765057",
+          "visibility": "public",
+          "lastseents": "2023-04-21T02:05:34.636826",
+          "group_timeline_visible": false,
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972262381231345",
+        "_score": 7.3175,
+        "_source": {
+          "account": {
+            "acct": "vansdakota",
+            "display_name": "JIMMYJ",
+            "id": "107834001714688704",
+            "username": "vansdakota"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>NYC Mayor Eric Adams credits the mandates for saving the NBA’s season <\/p><p>“The NBA has a season because of mandates”<\/p><p>This guy is batshit crazy. Honestly, there is no one home at his house.<\/p>",
+          "content_cleaned": "NYC Mayor Eric Adams credits the mandates for saving the NBA’s season “The NBA has a season because of mandates”This guy is batshit crazy. Honestly, there is no one home at his house.",
+          "created_at": "2022-03-17T14:06:16.278+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 1,
+          "id": "107972262381231345",
+          "language": "en",
+          "media_attachments": [
+            {
+              "external_video_id": "vv1v38",
+              "id": "107972262276432564",
+              "meta": {
+                "bitrate": 1166689,
+                "duration": 74.615,
+                "frame_rate": "5889/224",
+                "height": 464,
+                "width": 848
+              },
+              "preview_url": "https://truthsocial.com/icons/missing.png",
+              "text_url": "https://truthsocial.com/media/F6LMOkQtxRdfGutHUwE",
+              "type": "video",
+              "url": "https://static-assets.truthsocial.com/tmtg:prime-truth-social-assets/media_attachments/files/107/972/262/276/432/564/original/01b92b7802e61b38.qt"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/vansdakota/statuses/107972262381231345",
+          "url": "https://truthsocial.com/@vansdakota/107972262381231345",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-05T05:49:31.252480+00:00",
+          "reblog": {}
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107968998359960149",
+        "_score": 7.0543,
+        "_source": {
+          "account": {
+            "acct": "captain718",
+            "display_name": "captain K",
+            "id": "107842699430560908",
+            "username": "captain718"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jaclyn62\" class=\"u-url mention\">@<span>jaclyn62<\/span><\/a><\/span> I suspect once the rest realize THE FIRST ONES UP GET THE BEST DEALS THEY’LL START COMING FORWARD REALIZING “I WAS JUST FOLLOWING ORDERS” isn’t a defense. ERIC COOMER IS SCREWED SIX WAYS TO SUNDAY.<\/p>",
+          "content_cleaned": "RT @jaclyn62 I suspect once the rest realize THE FIRST ONES UP GET THE BEST DEALS THEY’LL START COMING FORWARD REALIZING “I WAS JUST FOLLOWING ORDERS” isn’t a defense. ERIC COOMER IS SCREWED SIX WAYS TO SUNDAY.",
+          "created_at": "2022-03-17T00:16:11.269+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107968998359960149",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/captain718/statuses/107968998359960149/activity",
+          "url": "https://truthsocial.com/users/captain718/statuses/107968998359960149/activity",
+          "visibility": "public",
+          "lastseents": "2023-02-19T18:13:42.438424",
+          "last_seen_ts": "2023-02-19T18:13:42.435838+00:00",
+          "reblog": {
+            "id": "107967719104167929",
+            "uri": "https://truthsocial.com/users/jaclyn62/statuses/107967719104167929",
+            "url": "https://truthsocial.com/@jaclyn62/107967719104167929"
+          }
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107972129173460324",
+        "_score": 6.2518,
+        "_source": {
+          "account": {
+            "acct": "deltasix138",
+            "display_name": "deltasix138",
+            "id": "107839665060152563",
+            "username": "deltasix138"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@BigMikeBrownKS\" class=\"u-url mention\">@<span>BigMikeBrownKS<\/span><\/a><\/span> Long Black Train coming through… like and follow!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@ehonhope\" class=\"u-url mention\">@<span>ehonhope<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@efrost\" class=\"u-url mention\">@<span>efrost<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@efrainn\" class=\"u-url mention\">@<span>efrainn<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric9956\" class=\"u-url mention\">@<span>eric9956<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eric\" class=\"u-url mention\">@<span>eric<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EradicateEvil82\" class=\"u-url mention\">@<span>EradicateEvil82<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@eternalape9\" class=\"u-url mention\">@<span>eternalape9<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EWadeSr\" class=\"u-url mention\">@<span>EWadeSr<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Equality1776\" class=\"u-url mention\">@<span>Equality1776<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EQCMCelli\" class=\"u-url mention\">@<span>EQCMCelli<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Equinecop\" class=\"u-url mention\">@<span>Equinecop<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@epdyer\" class=\"u-url mention\">@<span>epdyer<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Ekcaligiuri\" class=\"u-url mention\">@<span>Ekcaligiuri<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EK1\" class=\"u-url mention\">@<span>EK1<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EKDK\" class=\"u-url mention\">@<span>EKDK<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@ElMilford\" class=\"u-url mention\">@<span>ElMilford<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EjQHolls17\" class=\"u-url mention\">@<span>EjQHolls17<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EvanBryan\" class=\"u-url mention\">@<span>EvanBryan<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@edwin4769\" class=\"u-url mention\">@<span>edwin4769<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@ewblanco\" class=\"u-url mention\">@<span>ewblanco<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@echamberlain\" class=\"u-url mention\">@<span>echamberlain<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@EC18\" class=\"u-url mention\">@<span>EC18<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@espritdecorps\" class=\"u-url mention\">@<span>espritdecorps<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@BluePrint\" class=\"u-url mention\">@<span>BluePrint<\/span><\/a><\/span> <br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@roncoleman\" class=\"u-url mention\">@<span>roncoleman<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@RatDog2020\" class=\"u-url mention\">@<span>RatDog2020<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@K9Major\" class=\"u-url mention\">@<span>K9Major<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@MaysPatriot1\" class=\"u-url mention\">@<span>MaysPatriot1<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@TickleTexts\" class=\"u-url mention\">@<span>TickleTexts<\/span><\/a><\/span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@HarleyRader\" class=\"u-url mention\">@<span>HarleyRader<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@KamalamaDingDong\" class=\"u-url mention\">@<span>KamalamaDingDong<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@ChadN\" class=\"u-url mention\">@<span>ChadN<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Blondies\" class=\"u-url mention\">@<span>Blondies<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@jonathanmorris\" class=\"u-url mention\">@<span>jonathanmorris<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@mickelodoole\" class=\"u-url mention\">@<span>mickelodoole<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@mike24\" class=\"u-url mention\">@<span>mike24<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@RickHutch\" class=\"u-url mention\">@<span>RickHutch<\/span><\/a><\/span><br /><span class=\"h-card\"><a href=\"https://truthsocial.com/@Goldielocz\" class=\"u-url mention\">@<span>Goldielocz<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @BigMikeBrownKS Long Black Train coming through… like and follow!! @ehonhope @efrost @efrainn @eric9956 @eric @EradicateEvil82 @eternalape9 @EWadeSr @Equality1776 @EQCMCelli @Equinecop @epdyer @Ekcaligiuri @EK1 @EKDK @ElMilford @EjQHolls17 @EvanBryan @edwin4769 @ewblanco @echamberlain @EC18 @espritdecorps@BluePrint @roncoleman@RatDog2020@K9Major@MaysPatriot1@TickleTexts @HarleyRader@KamalamaDingDong@ChadN@Blondies@jonathanmorris@mickelodoole@mike24@RickHutch@Goldielocz",
+          "created_at": "2022-03-17T13:32:23.691+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107972129173460324",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/deltasix138/statuses/107972129173460324/activity",
+          "url": "https://truthsocial.com/users/deltasix138/statuses/107972129173460324/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-05-31T01:18:25.348709+00:00",
+          "reblog": {
+            "id": "107966622583194812",
+            "uri": "https://truthsocial.com/users/BigMikeBrownKS/statuses/107966622583194812",
+            "url": "https://truthsocial.com/@BigMikeBrownKS/107966622583194812"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107969987289726883",
+        "_score": 6.2518,
+        "_source": {
+          "account": {
+            "acct": "sweetpea1129",
+            "display_name": "Lori Paré",
+            "id": "107834372836747567",
+            "username": "sweetpea1129"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span> How to kill the American right-wing: <\/p><p>Have them define themselves through the lens of Bill Maher, Joe Rogan, Eric Weinstein, e-girls, athletes, Tik Tok and occasional references from Trevor Noah. <\/p><p>Then, you will have shifted the Overton Window where no right-wing actually exists. <\/p><p>— <span class=\"h-card\"><a href=\"https://truthsocial.com/@ali\" class=\"u-url mention\">@<span>ali<\/span><\/a><\/span><\/p>",
+          "content_cleaned": "RT @ali How to kill the American right-wing: Have them define themselves through the lens of Bill Maher, Joe Rogan, Eric Weinstein, e-girls, athletes, Tik Tok and occasional references from Trevor Noah. Then, you will have shifted the Overton Window where no right-wing actually exists. — @ali",
+          "created_at": "2022-03-17T04:27:41.138+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107969987289726883",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/sweetpea1129/statuses/107969987289726883/activity",
+          "url": "https://truthsocial.com/users/sweetpea1129/statuses/107969987289726883/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-17T02:07:39.203205+00:00",
+          "reblog": {
+            "id": "107968063257987115",
+            "uri": "https://truthsocial.com/users/ali/statuses/107968063257987115",
+            "url": "https://truthsocial.com/@ali/107968063257987115"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107973809270581321",
+        "_score": 5.232,
+        "_source": {
+          "account": {
+            "acct": "SunflowerGirl1222",
+            "display_name": "Karen",
+            "id": "107866130534348054",
+            "username": "SunflowerGirl1222"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@BrutallyHonest\" class=\"u-url mention\">@<span>BrutallyHonest<\/span><\/a><\/span> The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”<\/p><p><a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a> <a href=\"https://truthsocial.com/tags/TruthSocial\" class=\"mention hashtag\" rel=\"tag\">#<span>TruthSocial<\/span><\/a> <a href=\"https://truthsocial.com/tags/ReTruth\" class=\"mention hashtag\" rel=\"tag\">#<span>ReTruth<\/span><\/a> <a href=\"https://truthsocial.com/tags/Putin\" class=\"mention hashtag\" rel=\"tag\">#<span>Putin<\/span><\/a> <a href=\"https://truthsocial.com/tags/FakeNews\" class=\"mention hashtag\" rel=\"tag\">#<span>FakeNews<\/span><\/a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump<\/span><\/a> <a href=\"https://truthsocial.com/tags/Fact\" class=\"mention hashtag\" rel=\"tag\">#<span>Fact<\/span><\/a> <a href=\"https://truthsocial.com/tags/Biden\" class=\"mention hashtag\" rel=\"tag\">#<span>Biden<\/span><\/a> <a href=\"https://truthsocial.com/tags/USA\" class=\"mention hashtag\" rel=\"tag\">#<span>USA<\/span><\/a> <a href=\"https://truthsocial.com/tags/Russia\" class=\"mention hashtag\" rel=\"tag\">#<span>Russia<\/span><\/a> <a href=\"https://truthsocial.com/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine<\/span><\/a> <a href=\"https://truthsocial.com/tags/Inflation\" class=\"mention hashtag\" rel=\"tag\">#<span>Inflation<\/span><\/a> <a href=\"https://truthsocial.com/tags/GasPrices\" class=\"mention hashtag\" rel=\"tag\">#<span>GasPrices<\/span><\/a> <a href=\"https://truthsocial.com/tags/Faith\" class=\"mention hashtag\" rel=\"tag\">#<span>Faith<\/span><\/a> <a href=\"https://truthsocial.com/tags/God\" class=\"mention hashtag\" rel=\"tag\">#<span>God<\/span><\/a> <a href=\"https://truthsocial.com/tags/Liberals\" class=\"mention hashtag\" rel=\"tag\">#<span>Liberals<\/span><\/a> <a href=\"https://truthsocial.com/tags/Libtard\" class=\"mention hashtag\" rel=\"tag\">#<span>Libtard<\/span><\/a> <a href=\"https://truthsocial.com/tags/Democrats\" class=\"mention hashtag\" rel=\"tag\">#<span>Democrats<\/span><\/a> <a href=\"https://truthsocial.com/tags/DeepState\" class=\"mention hashtag\" rel=\"tag\">#<span>DeepState<\/span><\/a> <a href=\"https://truthsocial.com/tags/Republicans\" class=\"mention hashtag\" rel=\"tag\">#<span>Republicans<\/span><\/a> <a href=\"https://truthsocial.com/tags/Conservatives\" class=\"mention hashtag\" rel=\"tag\">#<span>Conservatives<\/span><\/a> <a href=\"https://truthsocial.com/tags/Antifa\" class=\"mention hashtag\" rel=\"tag\">#<span>Antifa<\/span><\/a> <a href=\"https://truthsocial.com/tags/BLM\" class=\"mention hashtag\" rel=\"tag\">#<span>BLM<\/span><\/a> <a href=\"https://truthsocial.com/tags/LGBTQ\" class=\"mention hashtag\" rel=\"tag\">#<span>LGBTQ<\/span><\/a> <a href=\"https://truthsocial.com/tags/Patriots\" class=\"mention hashtag\" rel=\"tag\">#<span>Patriots<\/span><\/a> <a href=\"https://truthsocial.com/tags/BrutallyHonest\" class=\"mention hashtag\" rel=\"tag\">#<span>BrutallyHonest<\/span><\/a><\/p>",
+          "content_cleaned": "RT @BrutallyHonest The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”#Truth #TruthSocial #ReTruth #Putin #FakeNews #Trump #Fact #Biden #USA #Russia #Ukraine #Inflation #GasPrices #Faith #God #Liberals #Libtard #Democrats #DeepState #Republicans #Conservatives #Antifa #BLM #LGBTQ #Patriots #BrutallyHonest",
+          "created_at": "2022-03-17T20:39:39.939+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107973809270581321",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/SunflowerGirl1222/statuses/107973809270581321/activity",
+          "url": "https://truthsocial.com/users/SunflowerGirl1222/statuses/107973809270581321/activity",
+          "visibility": "public",
+          "last_seen_ts": "2023-02-04T10:03:30.760322+00:00",
+          "reblog": {
+            "id": "107973541987218322",
+            "uri": "https://truthsocial.com/users/BrutallyHonest/statuses/107973541987218322",
+            "url": "https://truthsocial.com/@BrutallyHonest/107973541987218322"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107973604081334080",
+        "_score": 5.232,
+        "_source": {
+          "account": {
+            "acct": "Modottob",
+            "display_name": "Dr.Botto",
+            "id": "107838253531366806",
+            "username": "Modottob"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@BrutallyHonest\" class=\"u-url mention\">@<span>BrutallyHonest<\/span><\/a><\/span> The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”<\/p><p><a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a> <a href=\"https://truthsocial.com/tags/TruthSocial\" class=\"mention hashtag\" rel=\"tag\">#<span>TruthSocial<\/span><\/a> <a href=\"https://truthsocial.com/tags/ReTruth\" class=\"mention hashtag\" rel=\"tag\">#<span>ReTruth<\/span><\/a> <a href=\"https://truthsocial.com/tags/Putin\" class=\"mention hashtag\" rel=\"tag\">#<span>Putin<\/span><\/a> <a href=\"https://truthsocial.com/tags/FakeNews\" class=\"mention hashtag\" rel=\"tag\">#<span>FakeNews<\/span><\/a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump<\/span><\/a> <a href=\"https://truthsocial.com/tags/Fact\" class=\"mention hashtag\" rel=\"tag\">#<span>Fact<\/span><\/a> <a href=\"https://truthsocial.com/tags/Biden\" class=\"mention hashtag\" rel=\"tag\">#<span>Biden<\/span><\/a> <a href=\"https://truthsocial.com/tags/USA\" class=\"mention hashtag\" rel=\"tag\">#<span>USA<\/span><\/a> <a href=\"https://truthsocial.com/tags/Russia\" class=\"mention hashtag\" rel=\"tag\">#<span>Russia<\/span><\/a> <a href=\"https://truthsocial.com/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine<\/span><\/a> <a href=\"https://truthsocial.com/tags/Inflation\" class=\"mention hashtag\" rel=\"tag\">#<span>Inflation<\/span><\/a> <a href=\"https://truthsocial.com/tags/GasPrices\" class=\"mention hashtag\" rel=\"tag\">#<span>GasPrices<\/span><\/a> <a href=\"https://truthsocial.com/tags/Faith\" class=\"mention hashtag\" rel=\"tag\">#<span>Faith<\/span><\/a> <a href=\"https://truthsocial.com/tags/God\" class=\"mention hashtag\" rel=\"tag\">#<span>God<\/span><\/a> <a href=\"https://truthsocial.com/tags/Liberals\" class=\"mention hashtag\" rel=\"tag\">#<span>Liberals<\/span><\/a> <a href=\"https://truthsocial.com/tags/Libtard\" class=\"mention hashtag\" rel=\"tag\">#<span>Libtard<\/span><\/a> <a href=\"https://truthsocial.com/tags/Democrats\" class=\"mention hashtag\" rel=\"tag\">#<span>Democrats<\/span><\/a> <a href=\"https://truthsocial.com/tags/DeepState\" class=\"mention hashtag\" rel=\"tag\">#<span>DeepState<\/span><\/a> <a href=\"https://truthsocial.com/tags/Republicans\" class=\"mention hashtag\" rel=\"tag\">#<span>Republicans<\/span><\/a> <a href=\"https://truthsocial.com/tags/Conservatives\" class=\"mention hashtag\" rel=\"tag\">#<span>Conservatives<\/span><\/a> <a href=\"https://truthsocial.com/tags/Antifa\" class=\"mention hashtag\" rel=\"tag\">#<span>Antifa<\/span><\/a> <a href=\"https://truthsocial.com/tags/BLM\" class=\"mention hashtag\" rel=\"tag\">#<span>BLM<\/span><\/a> <a href=\"https://truthsocial.com/tags/LGBTQ\" class=\"mention hashtag\" rel=\"tag\">#<span>LGBTQ<\/span><\/a> <a href=\"https://truthsocial.com/tags/Patriots\" class=\"mention hashtag\" rel=\"tag\">#<span>Patriots<\/span><\/a> <a href=\"https://truthsocial.com/tags/BrutallyHonest\" class=\"mention hashtag\" rel=\"tag\">#<span>BrutallyHonest<\/span><\/a><\/p>",
+          "content_cleaned": "RT @BrutallyHonest The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”#Truth #TruthSocial #ReTruth #Putin #FakeNews #Trump #Fact #Biden #USA #Russia #Ukraine #Inflation #GasPrices #Faith #God #Liberals #Libtard #Democrats #DeepState #Republicans #Conservatives #Antifa #BLM #LGBTQ #Patriots #BrutallyHonest",
+          "created_at": "2022-03-17T19:47:28.999+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107973604081334080",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Modottob/statuses/107973604081334080/activity",
+          "url": "https://truthsocial.com/users/Modottob/statuses/107973604081334080/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-05-29T02:22:07.283866+00:00",
+          "reblog": {
+            "id": "107973541987218322",
+            "uri": "https://truthsocial.com/users/BrutallyHonest/statuses/107973541987218322",
+            "url": "https://truthsocial.com/@BrutallyHonest/107973541987218322"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107973615319039746",
+        "_score": 5.232,
+        "_source": {
+          "account": {
+            "acct": "robsprat",
+            "display_name": "MajorCPatriot",
+            "id": "107834392935679892",
+            "username": "robsprat"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@BrutallyHonest\" class=\"u-url mention\">@<span>BrutallyHonest<\/span><\/a><\/span> The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”<\/p><p><a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth<\/span><\/a> <a href=\"https://truthsocial.com/tags/TruthSocial\" class=\"mention hashtag\" rel=\"tag\">#<span>TruthSocial<\/span><\/a> <a href=\"https://truthsocial.com/tags/ReTruth\" class=\"mention hashtag\" rel=\"tag\">#<span>ReTruth<\/span><\/a> <a href=\"https://truthsocial.com/tags/Putin\" class=\"mention hashtag\" rel=\"tag\">#<span>Putin<\/span><\/a> <a href=\"https://truthsocial.com/tags/FakeNews\" class=\"mention hashtag\" rel=\"tag\">#<span>FakeNews<\/span><\/a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump<\/span><\/a> <a href=\"https://truthsocial.com/tags/Fact\" class=\"mention hashtag\" rel=\"tag\">#<span>Fact<\/span><\/a> <a href=\"https://truthsocial.com/tags/Biden\" class=\"mention hashtag\" rel=\"tag\">#<span>Biden<\/span><\/a> <a href=\"https://truthsocial.com/tags/USA\" class=\"mention hashtag\" rel=\"tag\">#<span>USA<\/span><\/a> <a href=\"https://truthsocial.com/tags/Russia\" class=\"mention hashtag\" rel=\"tag\">#<span>Russia<\/span><\/a> <a href=\"https://truthsocial.com/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine<\/span><\/a> <a href=\"https://truthsocial.com/tags/Inflation\" class=\"mention hashtag\" rel=\"tag\">#<span>Inflation<\/span><\/a> <a href=\"https://truthsocial.com/tags/GasPrices\" class=\"mention hashtag\" rel=\"tag\">#<span>GasPrices<\/span><\/a> <a href=\"https://truthsocial.com/tags/Faith\" class=\"mention hashtag\" rel=\"tag\">#<span>Faith<\/span><\/a> <a href=\"https://truthsocial.com/tags/God\" class=\"mention hashtag\" rel=\"tag\">#<span>God<\/span><\/a> <a href=\"https://truthsocial.com/tags/Liberals\" class=\"mention hashtag\" rel=\"tag\">#<span>Liberals<\/span><\/a> <a href=\"https://truthsocial.com/tags/Libtard\" class=\"mention hashtag\" rel=\"tag\">#<span>Libtard<\/span><\/a> <a href=\"https://truthsocial.com/tags/Democrats\" class=\"mention hashtag\" rel=\"tag\">#<span>Democrats<\/span><\/a> <a href=\"https://truthsocial.com/tags/DeepState\" class=\"mention hashtag\" rel=\"tag\">#<span>DeepState<\/span><\/a> <a href=\"https://truthsocial.com/tags/Republicans\" class=\"mention hashtag\" rel=\"tag\">#<span>Republicans<\/span><\/a> <a href=\"https://truthsocial.com/tags/Conservatives\" class=\"mention hashtag\" rel=\"tag\">#<span>Conservatives<\/span><\/a> <a href=\"https://truthsocial.com/tags/Antifa\" class=\"mention hashtag\" rel=\"tag\">#<span>Antifa<\/span><\/a> <a href=\"https://truthsocial.com/tags/BLM\" class=\"mention hashtag\" rel=\"tag\">#<span>BLM<\/span><\/a> <a href=\"https://truthsocial.com/tags/LGBTQ\" class=\"mention hashtag\" rel=\"tag\">#<span>LGBTQ<\/span><\/a> <a href=\"https://truthsocial.com/tags/Patriots\" class=\"mention hashtag\" rel=\"tag\">#<span>Patriots<\/span><\/a> <a href=\"https://truthsocial.com/tags/BrutallyHonest\" class=\"mention hashtag\" rel=\"tag\">#<span>BrutallyHonest<\/span><\/a><\/p>",
+          "content_cleaned": "RT @BrutallyHonest The Ku Klux Klan was founded and employed by the Democratic Party. More specifically, by a certain Nathan Bedford Forrest. Eric Foner, a Democratic, had said, “In effect, the Klan was a military force serving the interests of the Democratic Party.”#Truth #TruthSocial #ReTruth #Putin #FakeNews #Trump #Fact #Biden #USA #Russia #Ukraine #Inflation #GasPrices #Faith #God #Liberals #Libtard #Democrats #DeepState #Republicans #Conservatives #Antifa #BLM #LGBTQ #Patriots #BrutallyHonest",
+          "created_at": "2022-03-17T19:50:20.473+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107973615319039746",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/robsprat/statuses/107973615319039746/activity",
+          "url": "https://truthsocial.com/users/robsprat/statuses/107973615319039746/activity",
+          "visibility": "public",
+          "last_seen_ts": "2022-05-31T09:59:53.922408+00:00",
+          "reblog": {
+            "id": "107973541987218322",
+            "uri": "https://truthsocial.com/users/BrutallyHonest/statuses/107973541987218322",
+            "url": "https://truthsocial.com/@BrutallyHonest/107973541987218322"
+          }
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107969027077015868",
+        "_score": 5.232,
+        "_source": {
+          "account": {
+            "acct": "MattSchilling",
+            "display_name": "Matt Schilling",
+            "id": "107842897127880929",
+            "username": "MattSchilling"
+          },
+          "bookmarked": false,
+          "card": {},
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>(3/16): Baseball is and will always be defined as America’s pastime, and after what, we as fans, have endured during the 2022 MLB lockout, there is no reason why Mayor Eric Adams of NYC is disallowing the unvaxxed to play at both Citi Field and Yankee Stadium. This is an absurd rule that isn’t even a law. This guy needs to go, like yesterday. <a href=\"https://truthsocial.com/tags/Trump2024\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump2024<\/span><\/a> <a href=\"https://truthsocial.com/tags/FireEricAdams\" class=\"mention hashtag\" rel=\"tag\">#<span>FireEricAdams<\/span><\/a> <a href=\"https://truthsocial.com/tags/MLB\" class=\"mention hashtag\" rel=\"tag\">#<span>MLB<\/span><\/a> <a href=\"https://truthsocial.com/tags/Baseball\" class=\"mention hashtag\" rel=\"tag\">#<span>Baseball<\/span><\/a> <a href=\"https://truthsocial.com/tags/Communism\" class=\"mention hashtag\" rel=\"tag\">#<span>Communism<\/span><\/a><\/p>",
+          "content_cleaned": "(3/16): Baseball is and will always be defined as America’s pastime, and after what, we as fans, have endured during the 2022 MLB lockout, there is no reason why Mayor Eric Adams of NYC is disallowing the unvaxxed to play at both Citi Field and Yankee Stadium. This is an absurd rule that isn’t even a law. This guy needs to go, like yesterday. #Trump2024 #FireEricAdams #MLB #Baseball #Communism",
+          "created_at": "2022-03-17T00:23:29.478+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 2,
+          "id": "107969027077015868",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UeP?t4EL~q=|rrNaf+$*Mxt7xuRPt7ofWVRj",
+              "id": "107969027053071065",
+              "meta": {
+                "aspect": 1.7776,
+                "height": 760,
+                "size": "1351x760",
+                "width": 1351
+              },
+              "preview_url": "https://static-assets.truthsocial.com/tmtg:prime-truth-social-assets/media_attachments/files/107/969/027/053/071/065/small/fbbbe3b3974815e7.jpg",
+              "text_url": "https://truthsocial.com/media/UDP2MDcsm-EccG-F_t0",
+              "type": "image",
+              "url": "https://static-assets.truthsocial.com/tmtg:prime-truth-social-assets/media_attachments/files/107/969/027/053/071/065/original/fbbbe3b3974815e7.jpg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [
+            {
+              "name": "FireEricAdams",
+              "url": "https://truthsocial.com/tags/FireEricAdams"
+            },
+            {
+              "name": "mlb",
+              "url": "https://truthsocial.com/tags/mlb"
+            },
+            {
+              "name": "baseball",
+              "url": "https://truthsocial.com/tags/baseball"
+            },
+            {
+              "name": "Trump2024",
+              "url": "https://truthsocial.com/tags/Trump2024"
+            },
+            {
+              "name": "Communism",
+              "url": "https://truthsocial.com/tags/Communism"
+            }
+          ],
+          "uri": "https://truthsocial.com/users/MattSchilling/statuses/107969027077015868",
+          "url": "https://truthsocial.com/@MattSchilling/107969027077015868",
+          "visibility": "public",
+          "last_seen_ts": "2022-06-08T08:08:52.951426+00:00",
+          "reblog": {}
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

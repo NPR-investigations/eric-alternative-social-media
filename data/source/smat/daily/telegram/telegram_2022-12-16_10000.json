@@ -1,0 +1,1054 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [43],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [9],
+      "relation": ["eq"]
+    },
+    "max_score": [14.0585],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7242217620232745029",
+        "_score": 14.0585,
+        "_source": {
+          "archivedon": "1678846057",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1671228128,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1529842984
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 798789,
+          "message": "Who is Eric Schmitt?",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 798778,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 6.59587269035717e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678846057,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Ginger",
+            "id": 1529842984,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.00147491254368e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIs75Pt+7dL9/bs2nGPWiiikB/"
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-03-15T02:07:37.692574"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6183261251213208086",
+        "_score": 12.8378,
+        "_source": {
+          "archivedon": "2022-12-20 16:52:52.629057",
+          "channelabout": "Standing athwart history, yelling Stop. A magazine founded by the late William F. Buckley Jr. \nTo send tips: http://NationalReview.com/tips",
+          "channeltitle": "National Review",
+          "channelusername": "National_Review",
+          "date": 1671190518,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 88,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 122,
+              "offset": 89,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Eric Adams Is Defying Decades of Hands-Off Homeless Policy: ‘The Pendulum Swung Too Far’\nhttps://www.nationalreview.com/news/eric-adams-is-defying-decades-of-hands-off-homeless-policy-the-pendulum-swung-too-far/",
+          "peerid": {
+            "channel_id": 1439652697,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 38
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6347407316354150136",
+        "_score": 12.2368,
+        "_source": {
+          "archivedon": "2022-12-20 17:03:43.486394",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1671221210,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 177,
+              "offset": 95,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 274,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 285,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 285,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Grant Wahl's brother Eric reveals he got divorced the same day the soccer reporter died\n\nRead: https://www.dailymail.co.uk/sport/football/article-11547401/Grant-Wahls-brother-Eric-reveals-got-divorced-day-soccer-reporter-died.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 76
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6086674381688615281",
+        "_score": 12.0158,
+        "_source": {
+          "archivedon": "2022-12-20 03:29:48.262623",
+          "channelabout": "Azazel: appears as a fallen angel responsible for introducing humanity to forbidden knowledge. This channel is dedicated to sharing actionable intelligence/knowledge regarding COVID19/Coronavirus/Protest/Riots. Azazel & Doomsday are Apolitical Org",
+          "channeltitle": "Azazel News",
+          "channelusername": "AzazelNews",
+          "date": 1671163061,
+          "editdate": 1671163069,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 103,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 75924,
+            "date": 1671125353,
+            "from_id": {
+              "channel_id": 1314508040,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Mezlim",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "https://www.foxnews.com/politics/30000-migrants-now-nyc-mayor-eric-adams-phones-biden-admin-cash-report",
+          "peerid": {
+            "channel_id": 1417164314,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tee",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 245
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7242217620232745085",
+        "_score": 11.8613,
+        "_source": {
+          "archivedon": "1678846055",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1671231954,
+          "editdate": 1671234685,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1599540051
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 798845,
+          "message": "Eric is the Missouri AG and  Missouri is suing the Biden administration and Louisiana has joined.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1529842984
+                },
+                "reaction": "⚡",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "⚡",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 798778,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -2.10280372364962e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678846055,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Duhble_Dee",
+            "id": 1599540051,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.00606356970338e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIQRuZA6yARgcjP9KKKKkZ"
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-03-15T02:07:35.835506"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "7242217620232745061",
+        "_score": 11.4229,
+        "_source": {
+          "archivedon": "1678846056",
+          "channelabout": "",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1671230894,
+          "editdate": 1671231970,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1980595188
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 798821,
+          "message": "Eric Schmitt is also the newly elected Republican Senator from Missouri.  He's replacing RINO Roy Blunt who is retiring.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1333473365
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1415318193
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              },
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 1591299307
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 798778,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -2.42658285198168e+18,
+            "apply_min_photo": true,
+            "archivedon": 1678846056,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Digger",
+            "id": 1980595188,
+            "is_self": false,
+            "last_name": "2599",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1678841036
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-03-15T02:07:36.602684"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "6270539376124520033",
+        "_score": 11.2845,
+        "_source": {
+          "archivedon": "2022-12-20 17:01:34.101095",
+          "channelabout": "Think ahead with the latest news, comment, analysis and video. Subscribe here: https://www.telegraph.co.uk/?WT.mc_id=tw \n\nReserved by @ConservativesOnTelegramUK",
+          "channeltitle": "The Telegraph",
+          "channelusername": "TheTelegraphUK",
+          "date": 1671180500,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 95,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 125,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 136,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 15,
+              "offset": 136,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Britain’s future is woke Canada if the Left wins culture war | Eric Kaufmann interview\n\nWATCH: https://youtu.be/4V3Ni8_8Z70\n\nSubscribe: @TheTelegraphUK",
+          "peerid": {
+            "channel_id": 1459973719,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 77
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5090199899812241756",
+        "_score": 7.2002,
+        "_source": {
+          "archivedon": "2022-12-20 12:51:37.547528",
+          "channelabout": "Monitoring Russian Telegram Channels\n- Translations are automatically generated using DeepL\n- All the posts on this channels need to be understood for what they are : Russian Disinformation, propaganda and apologies of war crimes, cognitive dissonance",
+          "channeltitle": "telehunt_watch",
+          "channelusername": "telehunt_watch",
+          "date": 1671177936,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 29,
+              "offset": 960,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 556720,
+            "date": 1671177932,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 556720,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "TRANSLATION :\n❗ Today at 1:30 p.m. the verdict of the court in the case of Eric Aleksanyan will be announced.   \n  \nI would like to remind you that Eric Aleksanyan has been detained for almost 2 months on trumped-up charges. In reality Erik was politically persecuted by the authorities for his honest, open and fearless position.   \n  \nI am absolutely sure that this arrest will not break Erik and he will continue his fight against the traitorous junta, which took power in Armenia.\n\n=======\nORIGINAL :\n❗Сегодня в 13:30 будет оглашён вердикт суда по делу Эрика Алексаняна.   \n  \nНапомню Эрик Алексанян уже почти 2 месяца находится под стражей по выдуманным обвинениям. В действительности же Эрик подвергся политическому преследованию со стороны власти за свою честную, открытую и бесстрашную позицию.   \n  \nЯ абсолютно уверен, что данный арест не сломает Эрика и он продолжит свою борьбу с предательской хунтой захватившей власть в Армении.\n=======\nSOURCE :\nhttps://t.me/mikayelbad/20710\nMika Badalyan",
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 991523
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5986031576977246297",
+        "_score": 4.8864,
+        "_source": {
+          "archivedon": "1681231130",
+          "channelabout": "❗Donald Trump channel",
+          "channeltitle": "Donald Trump (Q17)",
+          "channelusername": "Donald_Trump17",
+          "date": 1671185666,
+          "editdate": 1671195711,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 24,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 46,
+              "offset": 36,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 83,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 11,
+              "offset": 103,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 121,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 136,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wnlL5MibZ9Y1Yjgy"
+            },
+            {
+              "length": 22,
+              "offset": 150,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 175,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+7E6el_9AMdBkNzQy"
+            },
+            {
+              "length": 14,
+              "offset": 187,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 204,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+YSwehk-ZtfMxYzYy"
+            },
+            {
+              "length": 19,
+              "offset": 224,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 246,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+KRHHGIvx091jZDcy"
+            },
+            {
+              "length": 14,
+              "offset": 262,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 279,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+PmC9MeTUHCE2MDk6"
+            },
+            {
+              "length": 12,
+              "offset": 298,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 10,
+              "offset": 313,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+hh0uXUYzBw01YjVi"
+            },
+            {
+              "length": 21,
+              "offset": 328,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 351,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+O-qcfSyzeG9iMTYy"
+            },
+            {
+              "length": 9,
+              "offset": 374,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 386,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+9Vbg1gtxL6RlNzZi"
+            },
+            {
+              "length": 17,
+              "offset": 395,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 415,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+uS_iD6IWq4IyMTUy"
+            },
+            {
+              "length": 5,
+              "offset": 434,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 442,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+D_9LCuuyyP04ZTMx"
+            },
+            {
+              "length": 15,
+              "offset": 449,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 467,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+pl2K5Freu8hkM2Q0"
+            },
+            {
+              "length": 15,
+              "offset": 483,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 501,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Y1z5_ORUcUpjY2Ni"
+            },
+            {
+              "length": 22,
+              "offset": 517,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 542,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ej-OU77FSA1jN2Qy"
+            },
+            {
+              "length": 13,
+              "offset": 561,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 577,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+z2EX4bPqfeI3OGNi"
+            },
+            {
+              "length": 19,
+              "offset": 591,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 613,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+kwWkRCFZgihjYjNi"
+            },
+            {
+              "length": 12,
+              "offset": 637,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 652,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+n6eEyg6GW9I0OGMy"
+            },
+            {
+              "length": 13,
+              "offset": 670,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 686,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+ESFBNKlZiTE0ZGEy"
+            },
+            {
+              "length": 19,
+              "offset": 706,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 727,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+qWDLMSQtiwowZjBi"
+            },
+            {
+              "length": 16,
+              "offset": 750,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 769,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+aWfzVLU2N1o5ODYy"
+            },
+            {
+              "length": 12,
+              "offset": 791,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 806,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+RSk2WWmC0OI1NTIy"
+            },
+            {
+              "length": 1,
+              "offset": 823,
+              "reformatted_key": "MessageEntitySpoiler"
+            },
+            {
+              "length": 14,
+              "offset": 824,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 841,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+lOAVSVhYfsM4ODJi"
+            },
+            {
+              "length": 14,
+              "offset": 862,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 879,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+wWsv3boIYD1mNjQ6"
+            },
+            {
+              "length": 5,
+              "offset": 900,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 6,
+              "offset": 908,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+JYBv1jw6f281ZmZi"
+            },
+            {
+              "length": 18,
+              "offset": 920,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 17,
+              "offset": 941,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+A8LVv2ANkoliMTZi"
+            },
+            {
+              "length": 12,
+              "offset": 964,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 979,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+faAMh7DfYwg2ZTUy"
+            },
+            {
+              "length": 14,
+              "offset": 997,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 1014,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+d-sfNIL_UjkzMGJi"
+            },
+            {
+              "length": 16,
+              "offset": 1034,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 1053,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+Xzufy6umap8wZjJi"
+            },
+            {
+              "length": 9,
+              "offset": 1070,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 1080,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/+f_pfhObH7xQ4OTM6"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 49,
+            "date": 1661702742,
+            "from_id": {
+              "channel_id": 1274719254,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 2137,
+          "message": "‼️🇺🇸‼️SHARE‼️🇺🇸‼️SHARE‼️🇺🇸‼️\n\nBIG TECH WON’T SILENCE US - Join These Popular Conservative Voices on Telegram\n\n🇺🇸 Donald Trump — @Donald_Trump\n🇺🇸 Nesara (official) — @Nesara\n🇺🇸 Melania Trump — @Melania_Trump\n🇺🇸 White Hats (secret) — @White_Hats\n🇺🇸 General Flynn — @General_Flynn\n🇺🇸 Qanon (Q17) — @Qanon_Q17\n🇺🇸 Donald Trump (2024) — @Donald_Trump_2024\n🇺🇸 Mr. Pool — @Mr_Pool\n🇺🇸 Ivanka Trump — @Ivanka_Trump\n🇺🇸 Qanon — @Qanon\n🇺🇸 Eric Trump — @Eric_Trump\n🇺🇸 Trump War Room — @Trump_War_Room\n🇺🇸 TAKE BACK AMERICA — @TAKE_BACK_AMERICA\n🇺🇸 Lin Wood — @Lin_Wood\n🇺🇸 The anti-globalist — @The_anti_globalist\n🇺🇸 Dan Scavino — @Dan_Scavino\n🇺🇸 Nesara Gesara — @Nesara_Gesara\n🇺🇸 Donald Trump (Q17) — @Donald_Trump_Q17\n🇺🇸 American Patriot — @American_Patriot\n🇺🇸 John Durham — @John_Durham\n🇺🇸 Michael Pompeo — @Michael_Pompeo\n🇺🇸 Michael Yeadon — @Michael_Yeadon\n🇺🇸 Q-Tip - @Q_Tip\n🇺🇸 Ivanka Trump (Fan) - @Ivanka_Trump_Fan\n🇺🇸 Ron DeSantis - @Ron_DeSantis\n🇺🇸 Pepe the Frog - @Pepe_the_Frog\n🇺🇸 White Hats (Q17) - @White_Hats_Q17\n\nSee More: http://t.me/ConservativesOnTelegram/183",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1393731585,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 67,
+          "lastseents": "2023-04-11T16:38:50.858266"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

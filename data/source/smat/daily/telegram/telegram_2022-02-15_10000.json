@@ -1,0 +1,4881 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [64],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [49],
+      "relation": ["eq"]
+    },
+    "max_score": [13.243],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5088703597630209177",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "1679945672",
+          "channelabout": "",
+          "channeltitle": "SSGQ Channel",
+          "channelusername": "SSG_Cue",
+          "date": 1644896599,
+          "editdate": 1644896776,
+          "edithide": true,
+          "entities": [],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 15513,
+          "mediaref": "69a86c5b558bdc0a9026549675ea28a7f7af7414",
+          "message": "Eric Trump is pissed",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1184806134,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "SSGQ ⭐⭐⭐",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 37,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1424515640,
+            "comments": true,
+            "max_id": 26988,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1623573853
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1503235013
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1588530178
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 321311
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1021,
+          "lastseents": "2023-03-27T19:34:32.954198",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4923254645570204149",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 04:17:02.272801",
+          "channeltitle": "At Weeks End News",
+          "channelusername": "AtWeeksEndNews",
+          "date": 1644893672,
+          "edithide": false,
+          "entities": [],
+          "forwards": 339,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1508112930
+          },
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1146284548,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 61949,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 68236
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 30497,
+          "userinfo": {
+            "_id": 1508112930,
+            "_media_ref": "0b6a42d169777b7698914fefc51b73fdc0ae17f4",
+            "_v": 1,
+            "access_hash": 3.07426549235548e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "174NON",
+            "id": 1508112930,
+            "is_self": false,
+            "last_name": "Patriot",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 160514,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033300680
+              },
+              "photo_id": 4.99006282795592e+18,
+              "photo_small": {
+                "local_id": 160512,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033300680
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "PATRIOT174N",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6395192259200996408",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 10:50:29.94582",
+          "channelabout": "Institut für Analyse Machtstrukturen & World Brain Agency Gründer \n\nBooking; PanicinDC@gmx.de\nPayPal Stoelzerveikko@gmail.com\nhttps://www.facebook.com/veikko.stolzer.5\nhttps://www.youtube.com/user/DjWonkykong/featured",
+          "channeltitle": "Veikko Stölzer aka Son Go Q",
+          "channelusername": "BitchBotBoiiLive",
+          "date": 1644915621,
+          "edithide": false,
+          "entities": [],
+          "forwards": 38,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1488996730,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 9940,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5399662657244532043",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 09:19:29.335834",
+          "channelabout": "Eine Geschichte, die man in 1000 Jahren noch erzählen wird. Was glaubst du wer in 1000 Jahren die Helden sind? Mitläufer oder Patriot?\nWir wollen Einigkeit und Recht und Freiheit!\nWir wollen Frieden! \nWir wollen leben! \nWir wollen lieben!\nWas willst du?",
+          "channeltitle": "Q For You - News",
+          "channelusername": "Q_For_You",
+          "date": 1644915841,
+          "editdate": 1644915844,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1257206932,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1330515448,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 16215
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 63,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4983987381511167415",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 13:53:10.449277",
+          "channelabout": "We are the NEWs now ... \n\n(Jeder sollte alles überprüfen und nichts glauben zusammen sind wir die News ..)\n\n(Everyone should check everything and believe nothing together we are the news ..)\n\nWwg1wga ✌Trust the plan...\n\nGerman/Englisch",
+          "channeltitle": "QAge2020/21",
+          "channelusername": "Qage2020",
+          "date": 1644923932,
+          "editdate": 1644923935,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1160424990,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Pete",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1148659022,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 73500
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 8,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6215429366554346809",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-16 00:29:02.122131",
+          "channelabout": "for those seaking the truth",
+          "channeltitle": "NELSON PEOPLE AWAKE",
+          "channelusername": "Nelsonpeopleawake",
+          "date": 1644969442,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1447142420,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 5,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5595791965154203738",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-03-05 19:48:18.593371",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1644892468,
+          "editdate": 1644895707,
+          "edithide": true,
+          "entities": [],
+          "forwards": 23,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1634565,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1509823636
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1505726201
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1978776578
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 2388188
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1851,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4989848298178266933",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 03:14:45.038249",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1644892500,
+          "editdate": 1644892507,
+          "edithide": true,
+          "entities": [],
+          "forwards": 96,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Pepe Lives Matter",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 4622584,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1615571403
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1520343938
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 23,
+            "replies_pts": 6021567
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 7952,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6056803571339372621",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 06:04:02.407513",
+          "channelabout": "#WWG1WGA  https://linktr.ee/PatriotMap \n🐇 Follow the white rabbit",
+          "channeltitle": "🐇 Down The Rabbit Hole 🐇",
+          "channelusername": "DownTheRabbitHoleagain",
+          "date": 1644896830,
+          "editdate": 1644896833,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1410209474,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1445445054,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 28533
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 63,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5278666174316514665",
+        "_score": 13.243,
+        "_source": {
+          "archivedon": "2022-02-15 06:38:24.773407",
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1644904053,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 73166,
+            "date": 1644892111,
+            "from_id": {
+              "channel_id": 1391253363,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Karli Bonne",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump is pissed",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 180,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6620456451993300121",
+        "_score": 12.7299,
+        "_source": {
+          "archivedon": "2022-02-15 23:21:02.730689",
+          "channeltitle": "The People’s Convoy",
+          "channelusername": "PeoplesConvoy2022",
+          "date": 1644961767,
+          "editdate": 1644961789,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1480906115
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Was just on Newsmax Eric Boiling",
+          "peerid": {
+            "channel_id": 1541445137,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 58921
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1480906115,
+            "_media_ref": "1f66275e3d8c749af7bdc7be56f6cb25fea851c0",
+            "_v": 1,
+            "access_hash": 1.12945861270083e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bobbie",
+            "id": 1480906115,
+            "is_self": false,
+            "last_name": "Coleman",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 33752,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700579
+              },
+              "photo_id": 5.18372286897283e+18,
+              "photo_small": {
+                "local_id": 33750,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700579
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6620456451993300436",
+        "_score": 12.7299,
+        "_source": {
+          "archivedon": "2022-02-16 02:00:25.654762",
+          "channeltitle": "The People’s Convoy",
+          "channelusername": "PeoplesConvoy2022",
+          "date": 1644968021,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1480906115
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Was on Newsmax Eric Bolling today",
+          "peerid": {
+            "channel_id": 1541445137,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 54167
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1480906115,
+            "_media_ref": "1f66275e3d8c749af7bdc7be56f6cb25fea851c0",
+            "_v": 1,
+            "access_hash": 1.12945861270083e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bobbie",
+            "id": 1480906115,
+            "is_self": false,
+            "last_name": "Coleman",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 33752,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700579
+              },
+              "photo_id": 5.18372286897283e+18,
+              "photo_small": {
+                "local_id": 33750,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038700579
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5243441262031287059",
+        "_score": 12.7299,
+        "_source": {
+          "archivedon": "2022-02-16 02:00:02.774978",
+          "channelabout": "https://linktr.ee/convoytosaveamerica organizing with Canadian Truckers to save both Canada🇨🇦and the USA🇺🇸",
+          "channeltitle": "Convoy to Save America",
+          "channelusername": "convoytosaveamerica",
+          "date": 1644968593,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 554920435
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "That's my new friend Eric! :D",
+          "peerid": {
+            "channel_id": 1220833804,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 13071
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 554920435,
+            "_media_ref": "b437a63738ee437cc40dd0385b4a894d33281828",
+            "_v": 1,
+            "access_hash": -2.04932896380825e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Daniel",
+            "id": 554920435,
+            "is_self": false,
+            "last_name": "Wagner",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 51003,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806121039
+              },
+              "photo_id": 2.38336512066333e+18,
+              "photo_small": {
+                "local_id": 51001,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 806121039
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Unframeofmind",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6139677447806796168",
+        "_score": 11.6808,
+        "_source": {
+          "archivedon": "2022-02-15 18:45:57.271417",
+          "channelabout": "Warrior for the preservation of human DNA",
+          "channeltitle": "Dr. Tenpenny",
+          "channelusername": "DrTenpenny",
+          "date": 1644947806,
+          "editdate": 1644947834,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 160,
+              "offset": 79,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 81,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 12,
+              "offset": 193,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 11,
+              "offset": 206,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 21,
+              "offset": 218,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 47,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "NYC Mayor Eric Adams Fires 1,430 City Employees for Refusing the COVID Vaccine \n\nhttps://www.thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine/\n#NYCmandates #MayorAdams #EmployeeTerminations",
+          "peerid": {
+            "channel_id": 1429505052,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 4023,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5261285481051648785",
+        "_score": 11.6173,
+        "_source": {
+          "archivedon": "1680482371",
+          "channelabout": "Welcome to Utah First Audit Chat. We are American Patriot owned and have joined together to Keep America First. Our mission is to educate Patriots on forensic Audits in America and State Election Integrity. Our home channel is @AmericaFirstAudits",
+          "channeltitle": "Utah First Audit Chat",
+          "channelusername": "UTAuditChat",
+          "date": 1644892763,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 85,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1303443849
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 62225,
+          "message": "https://www.thegatewaypundit.com/2022/02/eric-part-4-response-panicked-media-attacks/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1224988485,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 394732
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-04-03T00:39:31.237474",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -9.59681400484223e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Sophie",
+            "id": 1303443849,
+            "is_self": false,
+            "last_name": "Anderson",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {},
+              "photo_id": 4.92472795724786e+18,
+              "photo_small": {},
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIjQsw++v3ieevSiiigD8="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOnline",
+              "expires": 1680482664
+            },
+            "support": false,
+            "username": "SophAnd2003",
+            "verified": false,
+            "archivedon": 1680482371,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.facebook.com/gatewaypundit",
+              "display_url": "thegatewaypundit.com/2022/02/eric-part-4-response-panicked-media-attacks",
+              "hash": 0,
+              "id": 7.00594959862918e+18,
+              "photo": {
+                "access_hash": 1.43583960540652e+18,
+                "date": 1677122429,
+                "dc_id": 4,
+                "file_reference": "AGQqIEFSJr6dKpAwD1uyjnpp4cjf",
+                "has_stickers": false,
+                "id": 6.03383589917279e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUokvAsV3HK+WBOcY6Yqyl5A6g+YFz2bg0t7EJYCoG5uqjPNZTQOnLxso9xUt2OiMVUSuXtSziJx2J5ogunjCNKcowPPvmlE0VzCI5G2sfQVBcCOEiLDOByMtjr+FLzBLTlaLkbrduGAO1D0J79qKfaQrFCCE2E8kZzRVoxk9dCKWP/AE0yFj8ig4q1IqyAI6gqecUUUgk3oVYrSJZ5TjO08D04qcQxuu0ouMHtzRRQkhTnK+462BEIUnJGRn6GiiimJ7k=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 18299,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 420,
+                    "size": 61566,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 630,
+                    "w": 1200,
+                    "sizes": [8798, 23000, 36034, 49589, 81923]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "ERIC Part 4: A Response to the Panicked Media Attacks",
+              "type": "video",
+              "url": "https://www.thegatewaypundit.com/2022/02/eric-part-4-response-panicked-media-attacks/"
+            }
+          }
+        },
+        "_ignored": ["media.webpage.photo.sizes.bytes.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5966960951520489623",
+        "_score": 10.9234,
+        "_source": {
+          "archivedon": "2022-02-15 17:44:36.679526",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1644937274,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1401521278
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Is there a way to remove ERIC from our state? Obviously when there are 7.1 million on the voting rolls when there are really 3.6 million eligible, the WEC and ERIC systems and groups are not doing their jobs.",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 94401,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 154306
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1401521278,
+            "_v": 1,
+            "access_hash": -5.96891758311276e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Michael",
+            "id": 1401521278,
+            "is_self": false,
+            "last_name": "Grimmer",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "michaelgrimmer",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6094192163595424553",
+        "_score": 10.8685,
+        "_source": {
+          "archivedon": "2022-02-15 06:54:18.490068",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1644903405,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1572354424
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Yep. Eric was on show too recently and DJT is promoting him. Watch the Waters.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1138149
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1572354424,
+            "_media_ref": "2bd25ba6b33ee7ad14aa6226f8ee4a11432282b4",
+            "_v": 1,
+            "access_hash": -6.01327425336475e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marlena",
+            "id": 1572354424,
+            "is_self": false,
+            "last_name": "The Patriot",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 121984,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033000749
+              },
+              "photo_id": 4.90233903576316e+18,
+              "photo_small": {
+                "local_id": 121982,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100033000749
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5201084341802792636",
+        "_score": 10.3728,
+        "_source": {
+          "archivedon": "2022-02-15 20:08:02.383397",
+          "channelabout": "THE DUTCH PATRIOT",
+          "channeltitle": "DUTCH DIGGER NEWS",
+          "channelusername": "maddogholland",
+          "date": 1644945771,
+          "editdate": 1644945916,
+          "edithide": true,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Adam Schiff shouldn’t have security clearance Jake Sullivan shouldn’t have security clearance Eric Swallwell shouldn’t have security clearance",
+          "peerid": {
+            "channel_id": 1210971815,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "wim visscher",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 4300,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6019710094877398140",
+        "_score": 10.2184,
+        "_source": {
+          "archivedon": "1681266034",
+          "channelabout": "A place for Anons & Patriots to come spread ~ Info Love Laughs & Truth With some good Memes We all can find 🐸 - EXPOSE THE NWO BULLSHIT ❤️🙌❤️‼️God Bless 🇺🇸 and our Vets/Troops 🙏\n\nChat here : https://t.me/TheTruthBeachToldChat",
+          "channeltitle": "The Truth Beach Told",
+          "channelusername": "TheTruthBeachTold",
+          "date": 1644947016,
+          "editdate": 1644947090,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 111,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 5244,
+          "message": "https://www.thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine/\n\n\nHE GONE FULL RETARD",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1401572976,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "LouisBeach",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1597046514,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 220111
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 450,
+          "lastseents": "2023-04-12T02:20:34.766766",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "https://www.facebook.com/gatewaypundit",
+              "description": "Scratch a liberal, find a fascist. New York City Mayor Eric Adams fired 1,430 city employees on Monday who refused the COVID vaccine. The list included 36 police officers, 25 firemen and 914 employees from the Department of Education. Hard to believe someone could be worse than De Blasio. But Eric Adams has done it.…",
+              "display_url": "thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine",
+              "hash": 0,
+              "id": 7.00594959784357e+18,
+              "photo": {
+                "access_hash": 8.4909249534522e+18,
+                "date": 1634740478,
+                "dc_id": 4,
+                "file_reference": "AGQ2FFPHFLlcDblYZOOvzFUmEA25",
+                "has_stickers": false,
+                "id": 6.0182095926742e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARYofdSb5DEdoWNgc5zn8KZt/c/O2GIJxnpURKiUO4JLnJ5/pS3fmfaP3eACOT1zQO3Yba7Y4iDGSx64XJqCZWaQYyWPAXHNSMzxYWRvcZFSLBLJB565IyeR1+tT1HurDYtPuSQxjwPTODRWhBO5iLSAA9Fz3oq7EXMiLLPt7A1vWtssUYJO9uu49qKKRTKskUdxfkuuQPl59qs3Mv2S3LqMnoM9KKKEDKcW6UGVyN7DFFFFaIln",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 175,
+                    "size": 19084,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 409,
+                    "w": 749,
+                    "sizes": [5831, 17977, 26313, 37583, 65133]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "NYC Mayor Eric Adams Fires 1,430 City Employees for Refusing the COVID Vaccine",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine/"
+            }
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5551568898815461421",
+        "_score": 10.2184,
+        "_source": {
+          "archivedon": "2022-02-15 20:03:03.422394",
+          "channeltitle": "WWD2021Chicago",
+          "channelusername": "worldwidechicago",
+          "date": 1644948531,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 111,
+              "offset": 16,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1257837205
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Demonic! 🤬🤬🤬 https://www.thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine/",
+          "peerid": {
+            "channel_id": 1292575360,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 46805
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1257837205,
+            "_media_ref": "00f31a23204773a55494917d70e543e79c3f687d",
+            "_v": 1,
+            "access_hash": -8.39153296500551e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Christopher",
+            "id": 1257837205,
+            "is_self": false,
+            "last_name": "Banks",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 6303,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100078100679
+              },
+              "photo_id": 5.176890087106e+18,
+              "photo_small": {
+                "local_id": 6301,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100078100679
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Cbanks1968",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5354447101273227070",
+        "_score": 10.1902,
+        "_source": {
+          "archivedon": "2022-02-15 16:49:50.853491",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1644939469,
+          "editdate": 1644939472,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 79,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 81,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 240,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 261,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 276,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 296,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 315,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "NYC Mayor Eric Adams Fires 1,430 City Employees for Refusing the COVID Vaccine \n\nhttps://www.thegatewaypundit.com/2022/02/nyc-mayor-eric-adams-fires-1430-city-employees-refusing-covid-vaccine/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "max_id": 276422,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1506128982
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 464722
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 46,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "7424508199916672674",
+        "_score": 9.6486,
+        "_source": {
+          "archivedon": "2022-02-15 02:44:01.00542",
+          "channelabout": "Please show your support for the truckers: https://convoytoottawa2022.ca.\nWE ARE SELLING PROTEST RELATED CLOTHING TO HELP RAISE MONEY TO CONTRIBUTE TO THE TRUCKERS.\nTikTok: https://vm.tiktok.com/ZMLLwovdM/",
+          "channeltitle": "Convoy to Ottawa 2022",
+          "channelusername": "convoytoottawa2022",
+          "date": 1644892294,
+          "editdate": 1644892329,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1583164592
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "“All tyrannies rule through fraud and force, but once the fraud is exposed, they must rely exclusively on FORCE.”  \n- Eric Blair (George Orwell)",
+          "peerid": {
+            "channel_id": 1728653023,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 228386
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1583164592,
+            "_v": 1,
+            "access_hash": 4.71335587777564e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Uno",
+            "id": 1583164592,
+            "is_self": false,
+            "last_name": "Veski",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6287966472216010644",
+        "_score": 9.2655,
+        "_source": {
+          "archivedon": "2022-02-16 00:22:02.010394",
+          "channelabout": "Official channel for the real Alex Jones & uncensored Infowars content + promotions!!!! - ⭐⭐⭐⭐⭐⭐⭐SHARE THE LINKS - 📺Tune in 24/7: infowars.com/show - 📰Subscribe: infowars.com/newsletter - 🛒Support: infowarsstore.com - YOU ARE THE RESISTANCE!!",
+          "channeltitle": "INFOWARS.COM 🚫🚫🚫",
+          "channelusername": "infowarslive",
+          "date": 1644964135,
+          "editdate": 1644964622,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 147,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5036,
+            "date": 1644956792,
+            "from_id": {
+              "channel_id": 1459279278,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "French presidential candidate Eric Zemmour appears to have secured the endorsement of a very prominent person – former US president Donald Trump.\n\nhttps://www.youtube.com/watch?v=KGF2rL2Qt6g",
+          "peerid": {
+            "channel_id": 1464031281,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1314141871,
+            "comments": true,
+            "max_id": 99477,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1555375214
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 166942
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 774,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6267556774740497324",
+        "_score": 9.2655,
+        "_source": {
+          "archivedon": "2022-02-15 21:35:16.010527",
+          "channelabout": "\"Dangerous person\". https://www.subscribestar.com/paul-joseph-watson",
+          "channeltitle": "Paul Joseph Watson",
+          "channelusername": "pjwnews",
+          "date": 1644956792,
+          "editdate": 1644956795,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 43,
+              "offset": 147,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 24,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "French presidential candidate Eric Zemmour appears to have secured the endorsement of a very prominent person – former US president Donald Trump.\n\nhttps://www.youtube.com/watch?v=KGF2rL2Qt6g",
+          "peerid": {
+            "channel_id": 1459279278,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1338938566,
+            "comments": true,
+            "max_id": 435314,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1572010155
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1481663883
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 88,
+            "replies_pts": 571876
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3682,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5686521886562180440",
+        "_score": 8.0212,
+        "_source": {
+          "archivedon": "2022-08-02 04:16:54.881716",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1644892367,
+          "editdate": 1644892559,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1501987455
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Adam Schiff/Snith🏆🏆🏆🏆 Schiff award    Yoo hang out with the worong crowd. Eric Swalwell, Adam Schiff, Fang Fang, and Diane Feinstein's chauffer\n\nMy post was for people who can read. Back off Jack-*FF",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 384341,
+            "reply_to_top_id": 384340
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1501987455,
+            "_v": 1,
+            "access_hash": -3.54507956935353e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Dil52",
+            "id": 1501987455,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "FFY75",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6202437180678233068",
+        "_score": 6.9724,
+        "_source": {
+          "archivedon": "2022-02-15 13:49:01.619362",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1644924631,
+          "editdate": 1644928080,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 157,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "🇫🇷 Présidentielle 2022 : \"J'espère que Donald Trump se porte bien\" : Marine Le Pen se moque du coup de fil entre Eric Zemmour et l'ex-président américain\n\n\"C'est bien qu'il ait au téléphone l'ancien président des Etats-Unis, j'espère qu'il se porte bien\". \"Mais il ne représente plus une force politique en activité\"",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 288168,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 793392642
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1055193026
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 652272662
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 423590
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 23516
+          },
+          "silent": true,
+          "v": 1,
+          "views": 922,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4589158519822878323",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "1679123118",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Michael Yeadon (Real)",
+          "channelusername": "Yeadon_Michael",
+          "date": 1644899446,
+          "editdate": 1644935168,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 360,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1651,
+          "mediaref": "8c8a5ea7ae2b229b603bf0c8767f00ef555fe303",
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n\nhttps://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1068496732,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 18298,
+          "lastseents": "2023-03-18T07:23:08.293098",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4585130905651119699",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "1679095303",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ghost Ezra (Real)",
+          "channelusername": "Ezra_Ghost",
+          "date": 1644899423,
+          "editdate": 1644942383,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 360,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1619,
+          "mediaref": "8c8a5ea7ae2b229b603bf0c8767f00ef555fe303",
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n\nhttps://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1067558980,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "👏",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 18635,
+          "lastseents": "2023-03-17T23:21:43.840336",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5146429555816279888",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "1680308199",
+          "channelabout": "Digital Soldiers fighting against the mainstream media so the truth will prevail!",
+          "channeltitle": "Q+Anon Map 🍊🇺🇸",
+          "channelusername": "QAnonMap",
+          "date": 1644934979,
+          "editdate": 1644935079,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 366,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 34,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 12112,
+          "mediaref": "8c8a5ea7ae2b229b603bf0c8767f00ef555fe303",
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n \nJoin @QAnonMap",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1198246506,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 68,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 14,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 12,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 5598,
+          "lastseents": "2023-04-01T00:16:39.942968",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5764665659711555260",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "1680887440",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Nesara - Gesara",
+          "channelusername": "Nesara_Gesara1",
+          "date": 1644899423,
+          "editdate": 1644899427,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 360,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 1724,
+          "mediaref": "8c8a5ea7ae2b229b603bf0c8767f00ef555fe303",
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n\nhttps://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342190816,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1606925879,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27897
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 18515,
+          "lastseents": "2023-04-07T17:10:40.380195",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6057077057676910562",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "2022-02-15 04:14:01.278837",
+          "channelabout": "Fighting for POTUS 🇺🇸",
+          "channeltitle": "TheStormHasArrived17💀",
+          "channelusername": "TheStormHasArrived17",
+          "date": 1644891939,
+          "editdate": 1644891969,
+          "edithide": false,
+          "entities": [],
+          "forwards": 172,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸",
+          "peerid": {
+            "channel_id": 1410273150,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "TheStormHasArrived17 ⭐️ ⭐️ ⭐️",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1286165912,
+            "comments": true,
+            "max_id": 909886,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1481453661
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1980969386
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1521049170
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 69,
+            "replies_pts": 1088118
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 14133,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5908323313511378983",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "2022-02-15 10:12:24.682474",
+          "channelabout": "DIGITAL SOLDIERS‼️WWG1WGA‼️",
+          "channeltitle": "B17News",
+          "channelusername": "lichtanonsmensch",
+          "date": 1644915151,
+          "editdate": 1644916270,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 8162,
+            "date": 1644891939,
+            "from_id": {
+              "channel_id": 1410273150,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "TheStormHasArrived17 ⭐️ ⭐️ ⭐️",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸",
+          "peerid": {
+            "channel_id": 1375638720,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "MCB",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1672747084,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 38317
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 353,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5811551549939624720",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "2022-02-15 16:47:02.136499",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1644942148,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 366,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 12112,
+            "date": 1644934979,
+            "from_id": {
+              "channel_id": 1198246506,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n \nJoin @QAnonMap",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 2,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6094192163595426461",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "2022-02-15 20:30:01.82169",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1644953474,
+          "editdate": 1644953504,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 16,
+              "offset": 356,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 14,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1388045628
+          },
+          "fwdfrom": {
+            "channel_post": 34703,
+            "date": 1644938579,
+            "from_id": {
+              "channel_id": 1168815860,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming!\n \n@RedPillPharmacy 💊",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1824480
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1768,
+          "userinfo": {
+            "_id": 1388045628,
+            "_v": 1,
+            "access_hash": -4.58192684996481e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "🇬🇧 Brit In USA 🇺🇲",
+            "id": 1388045628,
+            "is_self": false,
+            "last_name": "Malik",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4902471006767024270",
+        "_score": 6.2944,
+        "_source": {
+          "archivedon": "1683699428",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Ivanka Trump",
+          "channelusername": "Ivanka_Trump1",
+          "date": 1644899409,
+          "editdate": 1644899413,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 360,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 2190,
+          "mediaref": "8c8a5ea7ae2b229b603bf0c8767f00ef555fe303",
+          "message": "Eric Trump just absolutely lit up HRC and ended his interview by saying, “Karma’s slow, but it will happen.” \n\nTake a step back and look at the big picture of what’s happening right now. Fox News is covering the Russia Hoax & Durham’s latest filing and we are going to witness all these crooks go down. \n\nIt’s happening. Nothing can stop what is coming! 🇺🇸\n\nhttps://t.me/Channel_Trump",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1141445480,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1612305181,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36992
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 17985,
+          "lastseents": "2023-05-10T06:17:08.699864",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "collected_by": "crawler",
+          "url": "t.me/Ivanka_Trump1/2190"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6281073659591304825",
+        "_score": 6.1014,
+        "_source": {
+          "archivedon": "2022-02-15 07:58:12.31335",
+          "channelabout": "Nachrichten und Fakten für das große Erwachen!",
+          "channeltitle": "Q-Qanal Germany 🖤🤍❤️",
+          "channelusername": "Qanalwwg1wga",
+          "date": 1644906649,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 431,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 13025,
+            "date": 1644901708,
+            "from_id": {
+              "channel_id": 1220715723,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Eric Trump hat gerade HRC völlig fertig gemacht und sein Interview mit den Worten beendet: \"Das Karma ist langsam, aber es wird passieren. \n\nTreten Sie einen Schritt zurück und betrachten Sie das große Bild dessen, was gerade passiert. Fox News berichtet über den Russland-Hoax und Durhams neueste Einreichung, und wir werden Zeuge, wie all diese Gauner zu Fall kommen. \n\nEs ist soweit. Nichts kann aufhalten, was kommen wird! 🇺🇸",
+          "peerid": {
+            "channel_id": 1462426423,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 482,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5242934107998008033",
+        "_score": 6.1014,
+        "_source": {
+          "archivedon": "2022-02-15 06:36:04.660756",
+          "channeltitle": "Wahrheitsträumer",
+          "channelusername": "wahrheitstraeumer",
+          "date": 1644901708,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 431,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Trump hat gerade HRC völlig fertig gemacht und sein Interview mit den Worten beendet: \"Das Karma ist langsam, aber es wird passieren. \n\nTreten Sie einen Schritt zurück und betrachten Sie das große Bild dessen, was gerade passiert. Fox News berichtet über den Russland-Hoax und Durhams neueste Einreichung, und wir werden Zeuge, wie all diese Gauner zu Fall kommen. \n\nEs ist soweit. Nichts kann aufhalten, was kommen wird! 🇺🇸",
+          "peerid": {
+            "channel_id": 1220715723,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1012,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5172691618678965703",
+        "_score": 5.922,
+        "_source": {
+          "archivedon": "2022-02-15 09:06:22.007166",
+          "channelabout": "#blinkist\n#selfdevelopment\n#selfhelp\n#summary",
+          "channeltitle": "Blinkist Free Daily",
+          "channelusername": "blinkistfree",
+          "date": 1644908415,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://telegra.ph/Going-Solo-02-14"
+            },
+            {
+              "length": 10,
+              "offset": 31,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 14,
+              "offset": 301,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 9,
+              "offset": 434,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Going Solo\nby Eric Klinenberg\n\nGoing Solo (2012) explains the sociological factors that have led so many adults to live on their own. These blinks detail the history of solo living, describe the benefits of choosing such a lifestyle and explore the different conditions under which solo adults live.\n\nWho is it for?\n🔅 Sociology students\n🔅 Newly single people\n🔅 Bachelors and bachelorettes everywhere\n\n⏱ 10-minute read\n📖 7 blinks\n\n#blinkist free daily",
+          "peerid": {
+            "channel_id": 1204361119,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 237,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5966960951520489674",
+        "_score": 5.5985,
+        "_source": {
+          "archivedon": "2022-02-15 17:44:36.585708",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1644944010,
+          "editdate": 1644944049,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1535960019
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Got this response from FDL DA Toney this AM... Hi Robert,\n\n \n\nThank you for reaching out. We have been looking into the SVD issue in Fond du Lac County. The clerks maintain much of that information and a simple records request to the local clerks should get you the information you’re seeking. Some may already have that information handy. Given I’ve been looking into the issue I will not be sending out the information I have acquired, at this time.\n\n \n\nEric",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 154306
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1535960019,
+            "_v": 1,
+            "access_hash": 5.4791494072315e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Robert",
+            "id": 1535960019,
+            "is_self": false,
+            "last_name": "Glisczinski",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "RobertGlisczinski",
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4979047323012178661",
+        "_score": 4.6412,
+        "_source": {
+          "archivedon": "2022-02-15 08:52:51.84442",
+          "channelabout": "Free thinking...",
+          "channeltitle": "Bonnie Lad",
+          "channelusername": "BonnieLad",
+          "date": 1644914667,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Some more enrichment this time from Ghana...\n\nA joint operation between the Narcotics Control Commission (NACOC) and the National Crime Agency (NCA) in the United Kingdom (UK) has led to the arrest and prosecution of four Ghanaians involved in the trafficking of cocaine from Ghana to the UK.\n\nThe convicts, Eric Kusi Appiah, 51; Albert Kaakyire Gyamfi, 52; Jennifer Agyemang, 38, Julius Tetteh Puplampu, 56, were arrested at separate times and convicted after being found guilty.\n\n“Gyamfi was sentenced to 9 years imprisonment, Agyemang was sentenced to six years and nine months imprisonment, Puplampu was also sentenced to six (6) years and nine (9) months imprisonment,” the statement added.  Francis Opoku Amoah was sentenced to six years imprisonment,",
+          "peerid": {
+            "channel_id": 1159274793,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Bonnie-Lad",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 26,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6202437180678233059",
+        "_score": 4.2979,
+        "_source": {
+          "archivedon": "2022-02-15 11:10:13.564228",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1644920003,
+          "editdate": 1644920139,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "🇫🇷 Présidentielle 2022 : \"On a franchi le seuil des 500 promesses\" se réjouit Guillaume Peltier\n\n\"On a franchi le seuil des 500 promesses.\" Guillaume Peltier, vice-président du parti Reconquête! d'Eric Zemmour a annoncé la nouvelle avec un enthousiasme non dissimulé ce matin sur le plateau des 4 Vérités de France 2. L'ex Républicain reconnait qu'il faut encore transformer l'essai mais se montre confiant. \"Il faut que tout cela se transforme, on va y arriver. Nos maires parrains se sont essentiellement des maires indépendants, ruraux, de petites communes, sans étiquette\", précise-t-il sous-entendant qu'il y a peu de risque que certains se retractent au dernier moment. Le nombre exact de parrainages validés par Eric Zemmour sera publié ce soir dans le nouveau décompte du Conseil constitutionnel.",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 423502
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 759,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5811551549939624696",
+        "_score": 3.9015,
+        "_source": {
+          "archivedon": "2022-02-15 16:47:02.107464",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1644941619,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 37,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/6"
+            },
+            {
+              "length": 6,
+              "offset": 48,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/7"
+            },
+            {
+              "length": 1,
+              "offset": 55,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/6"
+            },
+            {
+              "length": 6,
+              "offset": 91,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/9"
+            },
+            {
+              "length": 6,
+              "offset": 102,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/10"
+            },
+            {
+              "length": 6,
+              "offset": 113,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/11"
+            },
+            {
+              "length": 6,
+              "offset": 122,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/12"
+            },
+            {
+              "length": 6,
+              "offset": 132,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/13"
+            },
+            {
+              "length": 5,
+              "offset": 178,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/14"
+            },
+            {
+              "length": 1,
+              "offset": 184,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/14"
+            },
+            {
+              "length": 6,
+              "offset": 233,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/140"
+            },
+            {
+              "length": 6,
+              "offset": 243,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/141"
+            },
+            {
+              "length": 6,
+              "offset": 253,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/142"
+            },
+            {
+              "length": 6,
+              "offset": 263,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/143"
+            },
+            {
+              "length": 6,
+              "offset": 272,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/144"
+            },
+            {
+              "length": 6,
+              "offset": 282,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/145"
+            },
+            {
+              "length": 6,
+              "offset": 292,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/146"
+            },
+            {
+              "length": 8,
+              "offset": 337,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/125?single"
+            },
+            {
+              "length": 8,
+              "offset": 350,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/129?single"
+            },
+            {
+              "length": 9,
+              "offset": 363,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/fe_nederland/133?single"
+            },
+            {
+              "length": 5,
+              "offset": 399,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/16"
+            },
+            {
+              "length": 5,
+              "offset": 443,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/34"
+            },
+            {
+              "length": 5,
+              "offset": 522,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/147"
+            },
+            {
+              "length": 5,
+              "offset": 578,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/36"
+            },
+            {
+              "length": 5,
+              "offset": 638,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/38"
+            },
+            {
+              "length": 5,
+              "offset": 720,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/40"
+            },
+            {
+              "length": 5,
+              "offset": 767,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/42"
+            },
+            {
+              "length": 5,
+              "offset": 798,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/72"
+            },
+            {
+              "length": 5,
+              "offset": 839,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/78"
+            },
+            {
+              "length": 5,
+              "offset": 873,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/66"
+            },
+            {
+              "length": 5,
+              "offset": 883,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/119"
+            },
+            {
+              "length": 5,
+              "offset": 944,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/82"
+            },
+            {
+              "length": 5,
+              "offset": 988,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/84"
+            },
+            {
+              "length": 5,
+              "offset": 1027,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/85"
+            },
+            {
+              "length": 5,
+              "offset": 1073,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/94"
+            },
+            {
+              "length": 6,
+              "offset": 1119,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/113"
+            },
+            {
+              "length": 6,
+              "offset": 1130,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/114"
+            },
+            {
+              "length": 6,
+              "offset": 1141,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/121"
+            },
+            {
+              "length": 5,
+              "offset": 1191,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/116"
+            },
+            {
+              "length": 5,
+              "offset": 1235,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/118"
+            },
+            {
+              "length": 5,
+              "offset": 1274,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/138"
+            },
+            {
+              "length": 5,
+              "offset": 1300,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/149"
+            },
+            {
+              "length": 5,
+              "offset": 1367,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/150"
+            },
+            {
+              "length": 5,
+              "offset": 1433,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/151"
+            },
+            {
+              "length": 5,
+              "offset": 1518,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/WW2_Truth/47"
+            },
+            {
+              "length": 5,
+              "offset": 1559,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/50"
+            },
+            {
+              "length": 5,
+              "offset": 1651,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/51"
+            },
+            {
+              "length": 5,
+              "offset": 1769,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/139"
+            },
+            {
+              "length": 5,
+              "offset": 1894,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/204"
+            },
+            {
+              "length": 5,
+              "offset": 2010,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/FE_Nederland/205"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 257,
+            "date": 1628939215,
+            "from_id": {
+              "channel_id": 1245695017,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "INDEX:\n\nDOCUMENTARIES\n\nLevel (2021)\n[Part 1]   [Part 2]\n\n\n200 reasons the earth is flat. \n[Part 1]   [Part 2]   [Part 3]\n[Part 4]  [Part 5]\n\nFlat Earth a Powerfull Presentation\n[video]\n\nThe Lost History of Flat Earth. (By Ewaranon)\n[Part 1]  [Part 2]  [Part 3]  [Part 4]\n[Part 5]  [Part 6]  [Part 7]\n\nWhat on Earth Happened\nBy Ewaranon\n[Part 1-4]   [part 5-8]   [part 9-13]\n\nWhere is the curvature\n[Video]\n\nAn epic interview with Eric Dubay  [video]\n\nThe Mystery of Life (who is the real God of this world) \nA MUST SEE. \n[video]\n\nOne Shot at Redemption (a Hibbeler production)\n[Video]\n\nThe greatest laser experiment in history : FECORE \n[video]\n\nThe Shining Truth ( Stanley Kubrick's confession about the moonlanding.)\n[video]\n\nThe Chicago skyline is not a mirage. \n[Video]\n\nBest firmament video.\n[video]\n\nWhy do they hide the flat Earth\n[video]\n\nThe  Antarctica section.\n[video]   [video]\n\nFormer freemason exposes the secrets of freemasonry\n[video]\n\nReal eyes realize real lies (docu)\n[video]\n\nThe great deception 2019 docu\n[video]\n\nUniversal Disclosure\nBy Martin Kenny\n[video]\n\nLocal sun local moon. \nShort video's\n[Clip 1]   [clip 2]   [clip 3]\n\nThe best Flat Earth documentary (6 hrs)\n[video]\n\nAnti Flat Earth Defense Mechanisms\n[video]\n\nThere are no forests on Earth\n[video]\n\nOur Lost History\n[video]\n\nEric Dubay destroys the globe in a live radio interview. \n[video]\n\nEgyptian Monatomic Gold\nSay what? What on Earth is that?\n[Video]\n\nOur complete History is a lie \nLearn the Truth about WW2 \nDifferent channel\n[video]\n\nFlat Earth Discovering the Dome\n[video]\n\n🇺🇸 Civilian rocket hitting the firmament.\n🇳🇱 Civiele raket raakt het firmament\n[video]\n\n🇺🇸 Freemason explains what our Earth looks like. \n🇳🇱 Vrijmetselaar legt uit hoe onze aarde er uit ziet. \n[video]\n\n🇺🇸 Podcast: Eddie Bravo - Beyond the imaginary curve.\n🇳🇱 Podcast: Eddie Bravo - Voorbij de denkbeeldige curve. \n[video]\n\n🇺🇸 Mike Degruy: A lake at the Bottom of the ocean.\n🇳🇱 Mike Degruy: Een meer op de bodem van de oceaan.\n[video]",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 2,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6333509979005262808",
+        "_score": 3.4797,
+        "_source": {
+          "archivedon": "2022-02-15 13:58:42.808972",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1644927420,
+          "editdate": 1644927423,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 118,
+              "offset": 17,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 90,
+              "offset": 783,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 86,
+              "offset": 874,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 46,
+              "offset": 1106,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 60,
+              "offset": 1273,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 1372,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 1490,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "15 Feb 2022          Philippines\n\n4 suspected human traffickers arrested, 55 women alleged to be victims of human trafficking rescued\n\nPasay City - Four individuals, one identified as a Japanese, were arrested by the National Bureau of Investigation (NBI) in Pasay City for human trafficking.\n\nNBI Officer-In-Charge (OIC) Director Eric Distor identified those arrested as Hiroshi Akiba, manager of International King and Queen Manila; and three employees of the said establishment identified as Mary Jane Santos, Jeanette Gonzales, and Erlinda Merillo.\n\nThe club is allegedly peddling young Filipino women to foreigners for sexual services in exchange for a fee starting from P8,000.\nFurther investigation revealed that the women working in the club were recruited through Facebook.\nhttps://www.manilatimes.net/2022/02/15/news/4-suspected-human-traffickers-arrested/1833040\nhttps://www.msn.com/en-ph/news/other/4-suspected-human-traffickers-arrested/ar-AATRAmt\n\n- - - -N-E-E-D- -H-E-L-P-?- - -Philippines: - - - - - - - - - - - - - - - -\nInter-Agency Council Against Trafficking (IACAT) call: (02) 1343\nor https://www.1343actionline.ph/report/view/form \n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nGlobal: Human Trafficking Hotline Numbers:\nhttps://www.abolishion.org/human_trafficking_hotline_numbers\nHuman Trafficking Help and Resources: https://trafficking.help/us/#countries\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n   @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 454867
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1024,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6436038450452899260",
+        "_score": 2.7456,
+        "_source": {
+          "archivedon": "2022-02-16 00:34:11.383953",
+          "channelabout": "Sexist | Homophobic | Racist |",
+          "channeltitle": "Internet Schizo Machine",
+          "channelusername": "InternetHateMachine",
+          "date": 1644964094,
+          "editdate": 1644964097,
+          "edithide": true,
+          "entities": [],
+          "forwards": 15,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Long Hot Summer of 1967 1967年炎热的夏天 Bagram 巴格拉姆 Selma to Montgomery marches 塞尔玛到蒙哥马利游行 Highway of Death 死亡之路 Ax Handle Saturday 星期六斧头 Battle of Evarts 埃瓦茨战役 Battle ofBlair Mountain 布莱尔山战役 McCarthyism 麦卡锡主义 Red Summer 红色夏天 Rock Springs massacre 岩泉大屠杀 Pottawatomie massacre 盆大屠杀 Jeju uprising 济州起义 Colfaxmassacre 科尔法克斯大屠杀 Reading Railroad massacre 阅读铁路大屠杀 Rock Springs massacre 岩泉大屠杀 Bay viewMassacre 湾景大屠杀 Lattimer massacre 拉蒂默大屠杀 Ludlow massacre 拉德洛屠杀 Everett massacre 埃弗里特屠杀Centralia Massacre 中部大屠杀 Ocoee massacre Ocoee大屠杀 Herrin Massacre 赫林大屠杀 Redwood Massacre红木大屠杀 Columbine Mine Massacre 哥伦拜恩矿难 Guantanamo Bay 关塔那摩湾 extraordinary rendition 非凡的演绎 Abu Ghraib torture and prison abuse 阿布格莱布的酷刑和监狱虐待 Henry Kissinger 亨利·基辛格\n\nTIMBER SYCAMORE DANNY CHEN PROJECT ICEWORM CHINESE EXLCUSION ACT BIKINI ATOLL GUANO ACT LOVE CANAL JIM JONES PEOPLE'S TEMPEL PARENT'S CHOICE HEAVY METALS OPERATION BROTHER SAM 2021 TEXAS BLACKOUTNSA MASS SURVEILLANCE KENT STATE KENT STATE UNI CHURCH OF SCIENTOLOGY DAVID MISCAVIGE 佔領華爾街 MAY 4 1970 MASSACRE 肯特州立大学枪击事件 MAY 13 1985 MOVE BOMBING「MOVE」組織轰炸 RED SUMMER 1919 HOUSE UN-AMERICAN ACTIVITIES COMMITTEE 众议院非美活动调查委员会 TRAIL OF TEARS 美国本地人种族灭绝 JIM CROW SEGREGATION 吉姆·克勞法 HUMAN RIGHTS 人權 CITIZENS UNITED 联合公民诉联邦选举委员会案 SAFETY 安全 HIGH SPEED RAIL 人民共和国高速铁路 STRONG MASS LINE 群众路线 REPUBLIC OF HAWAII 夏威夷共和国 THIRTEEN COLONIES 十三殖民地 VIETNAM AFGHANISTAN IRAQ 伊拉克 EDWARD SNOWDEN 爱德华·斯诺登 SCIENTOLOGY 山達基教會 GUANTANAMO BAY DETENTION CAMP 关塔那摩湾拘押中心 NOBEL PEACE PRIZE 諾貝爾和平獎 BARACK OBAMA 贝拉克·奥巴马 COMMUNISM SOLIDARITY LABOUR ACTION ANTI-CAPITALIST PRO-REVOLUTION PROTEST MOVEMENT ANTIFA RIOT POLICE BRUTAILITY POLICE OCCUPATION PAID SUSPENSION LEFTIST COUNTER PROTEST CHARLES MANSON MANSON FAMILY JEHOVAH'S WITNESSES BORDER CONCENTRATION CAMPS MKULTRA ASSASINATE FRED HAMPTON JANE FONDA EUGENE DEBS MALCOLM X EAT THE RICH THE CRUMBLING OF AMERICA REAGANOMICS INFOWARS MANUFACTURING CONSENT FASCIST OLIGARCHY FBI HONEYPOT NSA SPYING ICE DEPORTATIONS WAR ON DRUGS PRISON SLAVERY CIVIL ASSET FORFEITURE ENHANCED INTERROGATION MY LAI PRISON RAPE DEPORTATION MS13 PIZZAGATE LOLIHENTAI PURCHASING KINDER EGG LOTTERY OPERATION SEA SPRAY PATRIOT ACT AMWAY 21 SAVAGE 奇多贝尼托 SCOTT WARREN NET NEUTRALITY LOVEINT EGLIN AIRFORCE BASE COINTELPRO OPERATION MOCKINGBIRD OPERATION EARNEST VOICE OPERATION AURORAGOLD 1999 BELGRADE EMBASSY BOMBING IRAN AIR FLIGHT 655 QASEM SOLEIMANI JEFFREY EPSTEIN MASS PEDOPHILIA ABROAD AND DOMESTIC OPERATION SNOW WHITE HARVEY WEINSTEIN OPERATION CONDOR AARON SWARTZ WACO SIEGE RUBY RIDGE SIEGE 1998 CAVALESE CABLE CAR DISASTER PROJECT ELDEST SON GUNS FOR ANTIGUA GARY WEBB FREE BURMA RANGERS STRONGHOLD RESCUE & RELIEF MCNAMARA'S MORONS PROJECT APPLE PROJECT MIRROR PROJECT WITCH GEORGE PELL ACQUITTAL FORT DETRICK KILLING OF HUEY LONG BLAIR MOUNTAIN ERIC HARROUN MIRACLE VALLEY JINGMING BUILDING INCIDENT YANGJU HIGHWAY INCIDENT 16754432 JAPANESE WARCRIMES OPERATION ASIAN TOUCH OPERATION FREEDOM DEAL CHILEAN COUP D'ETAT TULSA MASSACRE MERE GOOK RULE MORO CRATER CUBANA FLIGHT 455 OPIOID EPIDEMIC SACKLER FAMILY JADE HELM 15 NO GUN RI RYAN WHITAKER PROJECT SUNSHINE WECH BAGHTU DASANI FAKE WATER ICE CONCENTRATION CAMPS ICE HYSTERECTOMIES OPERATION MIDNIGHT CLIMAX OPERATION MONGOOSE JULIAN ASSANGE EMMETT TILL ANDRE VITCHEK NIKOLA MOTORS FORT HOOD MISSING SOLDIERS AGRICULTURAL ABCD AARON SWARTZ KENTUCKY POLICE HITLER RUSHAN ABBAS GITMO US MILITARY BUYS APP DATA ELAINE MASSACRE LITTLE HIROSHIMA LYSOL INJECTION US RACTOPAMINE MEAT PIKETON WASTE BONUS ARMY DANNY CHEN NORTH DAKOTA ACCESS PIPELINE PROTESTS 北达科他州接入管道抗议 FERGUSON PROTESTS 弗格森暴动 ST. LOUIS PROTESTS 2017 年圣路易斯抗议活动 NUCLEAR TESTING BIKINI ATOLL 比基尼环礁的核试验 UNITE THE RIGHT RALLY 团结右集会 CHARLOTTE PROTESTS 夏洛特暴动 ATTACK ON SUI-HO DAM 袭击穗河水坝 MILWAUKEE PROTESTS 密尔沃基骚乱 Shooting of Alton Sterling and Philando Castile 奥尔顿·斯特林和菲兰多·卡斯蒂利亚的射击 Occupation of the Malheur NationalWildlife Refuge Malheur国家野生动物保护区的占领 death of Freddie Gray 弗雷迪·格雷的死 Shooting of Michael Brown迈克尔·布朗的拍摄 death of Eric Garner, Oakland California 奥克兰奥克兰市埃里克·加纳（Eric Garner）逝世 Operation Condor 神鹰行动 Occupy WallStreet 占领华尔街 My Lai Massacre",
+          "peerid": {
+            "channel_id": 1498506975,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "I Need A Cute Oni Wife",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1350217479,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 44364
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 479,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6436038450452899259",
+        "_score": 2.6367,
+        "_source": {
+          "archivedon": "2022-02-16 00:34:11.38391",
+          "channelabout": "Sexist | Homophobic | Racist |",
+          "channeltitle": "Internet Schizo Machine",
+          "channelusername": "InternetHateMachine",
+          "date": 1644964094,
+          "editdate": 1644964097,
+          "edithide": true,
+          "entities": [],
+          "forwards": 14,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "NSA MASS SURVEILLANCE KENT STATE KENT STATE UNI CHURCH OF SCIENTOLOGY DAVID MISCAVIGE 佔領華爾街 MAY 4 1970 MASSACRE 肯特州立大学枪击事件 MAY 13 1985 MOVE BOMBING「MOVE」組織轰炸 RED SUMMER 1919 HOUSE UN-AMERICAN ACTIVITIES COMMITTEE 众议院非美活动调查委员会 TRAIL OF TEARS 美国本地人种族灭绝 JIM CROW SEGREGATION 吉姆·克勞法 HUMAN RIGHTS 人權 CITIZENS UNITED 联合公民诉联邦选举委员会案 SAFETY 安全 HIGH SPEED RAIL 人民共和国高速铁路 STRONG MASS LINE 群众路线 REPUBLIC OF HAWAII 夏威夷共和国 THIRTEEN COLONIES 十三殖民地 VIETNAM AFGHANISTAN IRAQ 伊拉克 EDWARD SNOWDEN 爱德华·斯诺登 SCIENTOLOGY 山達基教會 GUANTANAMO BAY DETENTION CAMP 关塔那摩湾拘押中心 NOBEL PEACE PRIZE 諾貝爾和平獎 BARACK OBAMA 贝拉克·奥巴马 COMMUNISM SOLIDARITY LABOUR ACTION ANTI-CAPITALIST PRO-REVOLUTION PROTEST MOVEMENT ANTIFA RIOT POLICE BRUTAILITY POLICE OCCUPATION PAID SUSPENSION LEFTIST COUNTER PROTEST CHARLES MANSON MANSON FAMILY JEHOVAH'S WITNESSES BORDER CONCENTRATION CAMPS MKULTRA ASSASINATE FRED HAMPTON JANE FONDA EUGENE DEBS MALCOLM X EAT THE RICH THE CRUMBLING OF AMERICA REAGANOMICS INFOWARS MANUFACTURING CONSENT FASCIST OLIGARCHY FBI HONEYPOT NSA SPYING ICE DEPORTATIONS WAR ON DRUGS PRISON SLAVERY CIVIL ASSET FORFEITURE ENHANCED INTERROGATION MY LAI PRISON RAPE DEPORTATION MS13 PIZZAGATE LOLIHENTAI PURCHASING KINDER EGG LOTTERY OPERATION SEA SPRAY PATRIOT ACT AMWAY 21 SAVAGE 奇多贝尼托 SCOTT WARREN NET NEUTRALITY LOVEINT EGLIN AIRFORCE BASE COINTELPRO OPERATION MOCKINGBIRD OPERATION EARNEST VOICE OPERATION AURORAGOLD 1999 BELGRADE EMBASSY BOMBING IRAN AIR FLIGHT 655 QASEM SOLEIMANI JEFFREY EPSTEIN MASS PEDOPHILIA ABROAD AND DOMESTIC OPERATION SNOW WHITE HARVEY WEINSTEIN OPERATION CONDOR AARON SWARTZ WACO SIEGE RUBY RIDGE SIEGE 1998 CAVALESE CABLE CAR DISASTER PROJECT ELDEST SON GUNS FOR ANTIGUA GARY WEBB FREE BURMA RANGERS STRONGHOLD RESCUE & RELIEF MCNAMARA'S MORONS PROJECT APPLE PROJECT MIRROR PROJECT WITCH GEORGE PELL ACQUITTAL FORT DETRICK KILLING OF HUEY LONG BLAIR MOUNTAIN ERIC HARROUN MIRACLE VALLEY JINGMING BUILDING INCIDENT YANGJU HIGHWAY INCIDENT 16754432 JAPANESE WARCRIMES OPERATION ASIAN TOUCH OPERATION FREEDOM DEAL CHILEAN COUP D'ETAT TULSA MASSACRE MERE GOOK RULE MORO CRATER CUBANA FLIGHT 455 OPIOID EPIDEMIC SACKLER FAMILY JADE HELM 15 NO GUN RI RYAN WHITAKER PROJECT SUNSHINE WECH BAGHTU DASANI FAKE WATER ICE CONCENTRATION CAMPS ICE HYSTERECTOMIES OPERATION MIDNIGHT CLIMAX OPERATION MONGOOSE JULIAN ASSANGE EMMETT TILL ANDRE VITCHEK NIKOLA MOTORS FORT HOOD MISSING SOLDIERS AGRICULTURAL ABCD AARON SWARTZ KENTUCKY POLICE HITLER RUSHAN ABBAS GITMO US MILITARY BUYS APP DATA ELAINE MASSACRE LITTLE HIROSHIMA LYSOL INJECTION US RACTOPAMINE MEAT PIKETON WASTE BONUS ARMY DANNY CHEN NORTH DAKOTA ACCESS PIPELINE PROTESTS 北达科他州接入管道抗议 FERGUSON PROTESTS 弗格森暴动 ST. LOUIS PROTESTS 2017 年圣路易斯抗议活动 NUCLEAR TESTING BIKINI ATOLL 比基尼环礁的核试验 UNITE THE RIGHT RALLY 团结右集会 CHARLOTTE PROTESTS 夏洛特暴动 ATTACK ON SUI-HO DAM 袭击穗河水坝 MILWAUKEE PROTESTS 密尔沃基骚乱 Shooting of Alton Sterling and Philando Castile 奥尔顿·斯特林和菲兰多·卡斯蒂利亚的射击 Occupation of the Malheur NationalWildlife Refuge Malheur国家野生动物保护区的占领 death of Freddie Gray 弗雷迪·格雷的死 Shooting of Michael Brown迈克尔·布朗的拍摄 death of Eric Garner, Oakland California 奥克兰奥克兰市埃里克·加纳（Eric Garner）逝世 Operation Condor 神鹰行动 Occupy WallStreet 占领华尔街 My Lai Massacre 我的大屠杀 St. Petersburg, Florida 佛罗里达州圣彼得堡 Kandahar Massacre 坎大哈屠杀 1992Washington Heights riots 1992年华盛顿高地暴动 No Gun Ri Massacre 无枪杀案 L.A. Rodney King riots 洛杉矶罗德尼·金暴动 1979 Greensboro Massacre 1979年格林斯伯勒大屠杀 Vietnam War 越南战争 Kent State shootings肯特州枪击案 Bombing of Tokyo 轰炸东京 San Francisco Police Department Park Station bombing 旧金山警察局公园站爆炸案 Assassination of MartinLuther King, Jr. 小马丁·路德·金遭暗杀。 Long Hot Summer of 1967 1967年炎热的夏天 Bagram 巴格拉姆 Selma to Montgomery marches 塞尔玛到蒙哥马利游行 Highway of Death 死亡之路 Ax Handle Saturday 星期六斧头 Battle of Evarts 埃瓦茨战役 Battle ofBlair Mountain 布莱尔山战役 McCarthyism 麦卡锡主义 Red Summer 红色夏天 Rock Springs massacre 岩泉大屠杀 Pottawatomie massacre 盆大屠杀 Jeju uprising 济州起义 Colfaxmassacre 科尔法克斯大屠杀 Reading Railroad massacre 阅读铁路大屠杀 Rock Springs massacre 岩泉大屠杀 Bay viewMassacre 湾景大屠杀 Lattimer massacre 拉蒂默大屠杀 Ludlow massacre 拉德洛屠杀 Everett massacre 埃弗里特屠杀Centralia Massacre 中部大屠杀 Ocoee massacre Ocoee大屠杀",
+          "peerid": {
+            "channel_id": 1498506975,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "I Need A Cute Oni Wife",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1350217479,
+            "comments": true,
+            "max_id": 33679,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1364290470
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 44364
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 451,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5088703597630209171",
+        "_score": 1.9688,
+        "_source": {
+          "archivedon": "1679945603",
+          "channelabout": "",
+          "channeltitle": "SSGQ Channel",
+          "channelusername": "SSG_Cue",
+          "date": 1644896369,
+          "editdate": 1644903016,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 76,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 76,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://canadafreepress.com/images/uploads/VADUM122220-336.jpg"
+            },
+            {
+              "length": 24,
+              "offset": 82,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://wisconsinvoteralliance.com/"
+            },
+            {
+              "length": 11,
+              "offset": 760,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AuditWINews/353"
+            },
+            {
+              "length": 48,
+              "offset": 1312,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 51,
+              "offset": 1361,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 2,
+              "offset": 1414,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 6,
+              "offset": 1441,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 31,
+              "offset": 1776,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 165,
+              "offset": 1935,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 2109,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 67,
+              "offset": 2238,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 2373,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 2393,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 57,
+              "offset": 2426,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 2498,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 2581,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 2649,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 50,
+              "offset": 2878,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 23,
+              "offset": 3002,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 27,
+              "offset": 3119,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 183,
+              "offset": 3202,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 66,
+              "offset": 3445,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 96,
+              "offset": 3543,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 3717,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 3725,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://docs.google.com/document/d/1XkJLNLHt3qezRL6lnapm4xlyIfPSQH24/mobilebasic"
+            },
+            {
+              "length": 7,
+              "offset": 3740,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 3750,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/DennyGirl5"
+            },
+            {
+              "length": 12,
+              "offset": 3766,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 3780,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 3795,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/LibertyOverwatchChannel/6474"
+            },
+            {
+              "length": 24,
+              "offset": 3806,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 13,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6477,
+            "date": 1644866700,
+            "from_id": {
+              "channel_id": 1443355249,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Patriot",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 15507,
+          "message": "Wisconsin Voter Alliance Files Election Bribery Complaint Against Green Bay \n\nThe Wisconsin Voter Alliance (WVA) filed an “election bribery” complaint with the Wisconsin Elections Commission, citing illegal influence by Zuckerberg’s Center for Tech and Civic Life (CTCL) in five key cities, Green Bay, Milwaukee, Kenosha, Racine, and Madison (“the Wisconsin 5”), which helped Biden allegedly win a narrow margin of approximately 20,000 votes. The respondents are Green Bay Mayor Eric Genrich, former Green Bay Mayor Chief of Staff Celestine Jeffries, and former City Clerk of Green Bay Kris Teske.\n\nWVA “filed a similar complaint two weeks ago in the city of Racine,” and “will be following up with complaints in Kenosha, Madison, and Milwaukee,” according to Lynn Milner. \n\nThe complaint reads:\n\n“The attached agreement documents violate the election bribery prohibition of Wisconsin Statutes § 12.11 because in the documents the cities and public officials receive private money to facilitate in-person or absentee voting within the city…”\n\n“Wisconsin Statutes § 12.11 requires three elements for a municipality or its officials to engage in “election bribery”: (1) the definition of “anything of value” must be met; (2) the thing of value must be received by a municipality or its election officials; and (3) the municipality must receive the thing of value in order to facilitate ‘electors going to the polls’ or to facilitate electors ‘voting’ by absentee ballot.”\n\nThe complaint goes on to meticulously record the shocking lengths to which private, Democrat-biased firms appointed by CTCL interfered in Wisconsin’s 2020 election:\n\n“CTCL’s ‘partners’ introduced to the Wisconsin 5 were private corporations to aid or administer the city’s election administration:\n\n• The National Vote At Home Institute (“VoteAtHome” or “NVAHI”) who was represented as a ‘technical assistance partner’ who could consult about among other things, ‘support outreach around absentee voting,’ voting machines and ‘curing absentee ballots,’ and to even take that duty (curing absentee ballots) off of the city’s hands.\n\n• The Elections Group and Ryan Chew were represented to be able to provide ‘technical assistance partners to support your office’ and ‘will be connecting with you in the coming days regarding drop boxes’ and technical assistance to ‘support your office,’ and worked on ‘voter outreach.’\n\n• US Digital Response was suggested to help with and then take over ‘absentee ballot curing,’ and to ‘help streamline the hiring, onboarding, and management’ of Green Bay’s poll workers.\n\n• The Brennan Center which focuses on ‘election integrity’ including ‘post-election audits and cybersecurity.’”\n\nIn addition, “in Green Bay, the private corporations [appointed by CTCL] and their employees engaged in the following aspects of election administration.” For example:\n\n“• Vote at Home… offered to ‘lend a hand’ to Central Count stations;\n\n• Offered to connect a municipality to ‘partners like Power the Polls’ to recruit poll workers; to partner with CTCL to send out e-mails to recruit poll workers;\n\n• Advised the City as to using DS200 voting machines; \n\n• Provided a “voter navigator” job description; \n\n• Advised a municipality regarding moving the ‘Central Count’ from City Hall to a different location, which was wired to provide election results directly to private corporate employees; \n\n• The Center for Civic Design offered a municipality to design the absentee voting instructions and the absentee envelopes;\n\n• The Elections Group issued a Guide to Ballot Drop Boxes, a report on Planning Drop Boxes, Voter Outreach, and Communication; \n\n• Provided advice about procedures for challenging an elector’s ballot…”\n\nRead 📑 Full Complaint\nHat tip🤠 Lynn Milner via @AuditWINews\n\nLearn more🔦🧵 WI Thread\n\n@LibertyOverwatchChannel\n—",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1184806134,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "SSGQ ⭐⭐⭐",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 10,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 3,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1424515640,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 321311
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 782,
+          "lastseents": "2023-03-27T19:33:23.188532",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "display_url": "canadafreepress.com/images/uploads/VADUM122220-336.jpg",
+              "hash": 0,
+              "id": 9.0808171505762e+18,
+              "photo": {
+                "access_hash": 4.19747499509494e+18,
+                "date": 1608812971,
+                "dc_id": 4,
+                "file_reference": "AGQh7B2ceyyaQ0a1c7EvI9lTJxke",
+                "has_stickers": false,
+                "id": 5.99367749539369e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARYoZNcGOP5T9KlhkiVFaXAJHcZzUMkeGRZFI4zVqIoU+bGB0zR0GiZJF/5YMOe3/wBanbSoJZxux0zVMMMiXAVunXipmyEWR2OT0z6UgY47gCSxZM85PWikYgIFPTOQQaKQihFc+dcsGQbZc47kU1SYpmTqAcc0UVbCJdjhV4SSMYB6GhVPlqd2W7E9qKKgbHnK7FXgg0UUUCM=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 173,
+                    "size": 20582,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 182,
+                    "size": 15194,
+                    "w": 336
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "type": "photo",
+              "url": "https://canadafreepress.com/images/uploads/VADUM122220-336.jpg"
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "5031147715854267792",
+        "_score": 1.9688,
+        "_source": {
+          "archivedon": "2022-02-15 00:40:02.795218",
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "date": 1644884771,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 76,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 76,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://canadafreepress.com/images/uploads/VADUM122220-336.jpg"
+            },
+            {
+              "length": 24,
+              "offset": 82,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://wisconsinvoteralliance.com/"
+            },
+            {
+              "length": 11,
+              "offset": 760,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AuditWINews/353"
+            },
+            {
+              "length": 48,
+              "offset": 1312,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 51,
+              "offset": 1361,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 2,
+              "offset": 1414,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 6,
+              "offset": 1441,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 31,
+              "offset": 1776,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 165,
+              "offset": 1935,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 2109,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 67,
+              "offset": 2238,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 2373,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 2393,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 57,
+              "offset": 2426,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 2498,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 2581,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 2649,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 50,
+              "offset": 2878,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 23,
+              "offset": 3002,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 27,
+              "offset": 3119,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 183,
+              "offset": 3202,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 66,
+              "offset": 3445,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 96,
+              "offset": 3543,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 3717,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 3725,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://docs.google.com/document/d/1XkJLNLHt3qezRL6lnapm4xlyIfPSQH24/mobilebasic"
+            },
+            {
+              "length": 7,
+              "offset": 3740,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 3750,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/DennyGirl5"
+            },
+            {
+              "length": 12,
+              "offset": 3766,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 3780,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 3795,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/LibertyOverwatchChannel/6474"
+            },
+            {
+              "length": 24,
+              "offset": 3806,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 357,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1511684658
+          },
+          "fwdfrom": {
+            "channel_post": 6477,
+            "date": 1644866700,
+            "from_id": {
+              "channel_id": 1443355249,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Patriot",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Wisconsin Voter Alliance Files Election Bribery Complaint Against Green Bay \n\nThe Wisconsin Voter Alliance (WVA) filed an “election bribery” complaint with the Wisconsin Elections Commission, citing illegal influence by Zuckerberg’s Center for Tech and Civic Life (CTCL) in five key cities, Green Bay, Milwaukee, Kenosha, Racine, and Madison (“the Wisconsin 5”), which helped Biden allegedly win a narrow margin of approximately 20,000 votes. The respondents are Green Bay Mayor Eric Genrich, former Green Bay Mayor Chief of Staff Celestine Jeffries, and former City Clerk of Green Bay Kris Teske.\n\nWVA “filed a similar complaint two weeks ago in the city of Racine,” and “will be following up with complaints in Kenosha, Madison, and Milwaukee,” according to Lynn Milner. \n\nThe complaint reads:\n\n“The attached agreement documents violate the election bribery prohibition of Wisconsin Statutes § 12.11 because in the documents the cities and public officials receive private money to facilitate in-person or absentee voting within the city…”\n\n“Wisconsin Statutes § 12.11 requires three elements for a municipality or its officials to engage in “election bribery”: (1) the definition of “anything of value” must be met; (2) the thing of value must be received by a municipality or its election officials; and (3) the municipality must receive the thing of value in order to facilitate ‘electors going to the polls’ or to facilitate electors ‘voting’ by absentee ballot.”\n\nThe complaint goes on to meticulously record the shocking lengths to which private, Democrat-biased firms appointed by CTCL interfered in Wisconsin’s 2020 election:\n\n“CTCL’s ‘partners’ introduced to the Wisconsin 5 were private corporations to aid or administer the city’s election administration:\n\n• The National Vote At Home Institute (“VoteAtHome” or “NVAHI”) who was represented as a ‘technical assistance partner’ who could consult about among other things, ‘support outreach around absentee voting,’ voting machines and ‘curing absentee ballots,’ and to even take that duty (curing absentee ballots) off of the city’s hands.\n\n• The Elections Group and Ryan Chew were represented to be able to provide ‘technical assistance partners to support your office’ and ‘will be connecting with you in the coming days regarding drop boxes’ and technical assistance to ‘support your office,’ and worked on ‘voter outreach.’\n\n• US Digital Response was suggested to help with and then take over ‘absentee ballot curing,’ and to ‘help streamline the hiring, onboarding, and management’ of Green Bay’s poll workers.\n\n• The Brennan Center which focuses on ‘election integrity’ including ‘post-election audits and cybersecurity.’”\n\nIn addition, “in Green Bay, the private corporations [appointed by CTCL] and their employees engaged in the following aspects of election administration.” For example:\n\n“• Vote at Home… offered to ‘lend a hand’ to Central Count stations;\n\n• Offered to connect a municipality to ‘partners like Power the Polls’ to recruit poll workers; to partner with CTCL to send out e-mails to recruit poll workers;\n\n• Advised the City as to using DS200 voting machines; \n\n• Provided a “voter navigator” job description; \n\n• Advised a municipality regarding moving the ‘Central Count’ from City Hall to a different location, which was wired to provide election results directly to private corporate employees; \n\n• The Center for Civic Design offered a municipality to design the absentee voting instructions and the absentee envelopes;\n\n• The Elections Group issued a Guide to Ballot Drop Boxes, a report on Planning Drop Boxes, Voter Outreach, and Communication; \n\n• Provided advice about procedures for challenging an elector’s ballot…”\n\nRead 📑 Full Complaint\nHat tip🤠 Lynn Milner via @AuditWINews\n\nLearn more🔦🧵 WI Thread\n\n@LibertyOverwatchChannel\n—",
+          "peerid": {
+            "channel_id": 1171405361,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 238532
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 48640,
+          "userinfo": {
+            "_id": 1511684658,
+            "_v": 1,
+            "access_hash": -7.43617247204837e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Bobby",
+            "id": 1511684658,
+            "is_self": false,
+            "last_name": "Chapio",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "4989848298178266919",
+        "_score": 1.9688,
+        "_source": {
+          "archivedon": "2022-02-15 00:36:45.200075",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1644885366,
+          "editdate": 1644885386,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 76,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 1,
+              "offset": 76,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://canadafreepress.com/images/uploads/VADUM122220-336.jpg"
+            },
+            {
+              "length": 24,
+              "offset": 82,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://wisconsinvoteralliance.com/"
+            },
+            {
+              "length": 11,
+              "offset": 760,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/AuditWINews/353"
+            },
+            {
+              "length": 48,
+              "offset": 1312,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 51,
+              "offset": 1361,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 2,
+              "offset": 1414,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 6,
+              "offset": 1441,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 31,
+              "offset": 1776,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 165,
+              "offset": 1935,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 2109,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 67,
+              "offset": 2238,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 2373,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 2393,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 57,
+              "offset": 2426,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 2498,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 18,
+              "offset": 2581,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 39,
+              "offset": 2649,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 50,
+              "offset": 2878,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 23,
+              "offset": 3002,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 27,
+              "offset": 3119,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 183,
+              "offset": 3202,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 66,
+              "offset": 3445,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 96,
+              "offset": 3543,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 3717,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 14,
+              "offset": 3725,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://docs.google.com/document/d/1XkJLNLHt3qezRL6lnapm4xlyIfPSQH24/mobilebasic"
+            },
+            {
+              "length": 7,
+              "offset": 3740,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 11,
+              "offset": 3750,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/DennyGirl5"
+            },
+            {
+              "length": 12,
+              "offset": 3766,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 3780,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 9,
+              "offset": 3795,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/LibertyOverwatchChannel/6474"
+            },
+            {
+              "length": 24,
+              "offset": 3806,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6477,
+            "date": 1644866700,
+            "from_id": {
+              "channel_id": 1443355249,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Patriot",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "Wisconsin Voter Alliance Files Election Bribery Complaint Against Green Bay \n\nThe Wisconsin Voter Alliance (WVA) filed an “election bribery” complaint with the Wisconsin Elections Commission, citing illegal influence by Zuckerberg’s Center for Tech and Civic Life (CTCL) in five key cities, Green Bay, Milwaukee, Kenosha, Racine, and Madison (“the Wisconsin 5”), which helped Biden allegedly win a narrow margin of approximately 20,000 votes. The respondents are Green Bay Mayor Eric Genrich, former Green Bay Mayor Chief of Staff Celestine Jeffries, and former City Clerk of Green Bay Kris Teske.\n\nWVA “filed a similar complaint two weeks ago in the city of Racine,” and “will be following up with complaints in Kenosha, Madison, and Milwaukee,” according to Lynn Milner. \n\nThe complaint reads:\n\n“The attached agreement documents violate the election bribery prohibition of Wisconsin Statutes § 12.11 because in the documents the cities and public officials receive private money to facilitate in-person or absentee voting within the city…”\n\n“Wisconsin Statutes § 12.11 requires three elements for a municipality or its officials to engage in “election bribery”: (1) the definition of “anything of value” must be met; (2) the thing of value must be received by a municipality or its election officials; and (3) the municipality must receive the thing of value in order to facilitate ‘electors going to the polls’ or to facilitate electors ‘voting’ by absentee ballot.”\n\nThe complaint goes on to meticulously record the shocking lengths to which private, Democrat-biased firms appointed by CTCL interfered in Wisconsin’s 2020 election:\n\n“CTCL’s ‘partners’ introduced to the Wisconsin 5 were private corporations to aid or administer the city’s election administration:\n\n• The National Vote At Home Institute (“VoteAtHome” or “NVAHI”) who was represented as a ‘technical assistance partner’ who could consult about among other things, ‘support outreach around absentee voting,’ voting machines and ‘curing absentee ballots,’ and to even take that duty (curing absentee ballots) off of the city’s hands.\n\n• The Elections Group and Ryan Chew were represented to be able to provide ‘technical assistance partners to support your office’ and ‘will be connecting with you in the coming days regarding drop boxes’ and technical assistance to ‘support your office,’ and worked on ‘voter outreach.’\n\n• US Digital Response was suggested to help with and then take over ‘absentee ballot curing,’ and to ‘help streamline the hiring, onboarding, and management’ of Green Bay’s poll workers.\n\n• The Brennan Center which focuses on ‘election integrity’ including ‘post-election audits and cybersecurity.’”\n\nIn addition, “in Green Bay, the private corporations [appointed by CTCL] and their employees engaged in the following aspects of election administration.” For example:\n\n“• Vote at Home… offered to ‘lend a hand’ to Central Count stations;\n\n• Offered to connect a municipality to ‘partners like Power the Polls’ to recruit poll workers; to partner with CTCL to send out e-mails to recruit poll workers;\n\n• Advised the City as to using DS200 voting machines; \n\n• Provided a “voter navigator” job description; \n\n• Advised a municipality regarding moving the ‘Central Count’ from City Hall to a different location, which was wired to provide election results directly to private corporate employees; \n\n• The Center for Civic Design offered a municipality to design the absentee voting instructions and the absentee envelopes;\n\n• The Elections Group issued a Guide to Ballot Drop Boxes, a report on Planning Drop Boxes, Voter Outreach, and Communication; \n\n• Provided advice about procedures for challenging an elector’s ballot…”\n\nRead 📑 Full Complaint\nHat tip🤠 Lynn Milner via @AuditWINews\n\nLearn more🔦🧵 WI Thread\n\n@LibertyOverwatchChannel\n—",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "AwakenedOutlaw ⭐️⭐️⭐️ & OutlawJW on Gab",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6015484
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202202",
+        "_id": "6094192163595422924",
+        "_score": 1.9688,
+        "_source": {
+          "archivedon": "2022-02-15 01:33:39.534427",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1644886682,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 3766,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 24,
+              "offset": 3806,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1524445716
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Wisconsin Voter Alliance Files Election Bribery Complaint Against Green Bay \n\nThe Wisconsin Voter Alliance (WVA) filed an “election bribery” complaint with the Wisconsin Elections Commission, citing illegal influence by Zuckerberg’s Center for Tech and Civic Life (CTCL) in five key cities, Green Bay, Milwaukee, Kenosha, Racine, and Madison (“the Wisconsin 5”), which helped Biden allegedly win a narrow margin of approximately 20,000 votes. The respondents are Green Bay Mayor Eric Genrich, former Green Bay Mayor Chief of Staff Celestine Jeffries, and former City Clerk of Green Bay Kris Teske.\n\nWVA “filed a similar complaint two weeks ago in the city of Racine,” and “will be following up with complaints in Kenosha, Madison, and Milwaukee,” according to Lynn Milner. \n\nThe complaint reads:\n\n“The attached agreement documents violate the election bribery prohibition of Wisconsin Statutes § 12.11 because in the documents the cities and public officials receive private money to facilitate in-person or absentee voting within the city…”\n\n“Wisconsin Statutes § 12.11 requires three elements for a municipality or its officials to engage in “election bribery”: (1) the definition of “anything of value” must be met; (2) the thing of value must be received by a municipality or its election officials; and (3) the municipality must receive the thing of value in order to facilitate ‘electors going to the polls’ or to facilitate electors ‘voting’ by absentee ballot.”\n\nThe complaint goes on to meticulously record the shocking lengths to which private, Democrat-biased firms appointed by CTCL interfered in Wisconsin’s 2020 election:\n\n“CTCL’s ‘partners’ introduced to the Wisconsin 5 were private corporations to aid or administer the city’s election administration:\n\n• The National Vote At Home Institute (“VoteAtHome” or “NVAHI”) who was represented as a ‘technical assistance partner’ who could consult about among other things, ‘support outreach around absentee voting,’ voting machines and ‘curing absentee ballots,’ and to even take that duty (curing absentee ballots) off of the city’s hands.\n\n• The Elections Group and Ryan Chew were represented to be able to provide ‘technical assistance partners to support your office’ and ‘will be connecting with you in the coming days regarding drop boxes’ and technical assistance to ‘support your office,’ and worked on ‘voter outreach.’\n\n• US Digital Response was suggested to help with and then take over ‘absentee ballot curing,’ and to ‘help streamline the hiring, onboarding, and management’ of Green Bay’s poll workers.\n\n• The Brennan Center which focuses on ‘election integrity’ including ‘post-election audits and cybersecurity.’”\n\nIn addition, “in Green Bay, the private corporations [appointed by CTCL] and their employees engaged in the following aspects of election administration.” For example:\n\n“• Vote at Home… offered to ‘lend a hand’ to Central Count stations;\n\n• Offered to connect a municipality to ‘partners like Power the Polls’ to recruit poll workers; to partner with CTCL to send out e-mails to recruit poll workers;\n\n• Advised the City as to using DS200 voting machines; \n\n• Provided a “voter navigator” job description; \n\n• Advised a municipality regarding moving the ‘Central Count’ from City Hall to a different location, which was wired to provide election results directly to private corporate employees; \n\n• The Center for Civic Design offered a municipality to design the absentee voting instructions and the absentee envelopes;\n\n• The Elections Group issued a Guide to Ballot Drop Boxes, a report on Planning Drop Boxes, Voter Outreach, and Communication; \n\n• Provided advice about procedures for challenging an elector’s ballot…”\n\nRead 📑 Full Complaint\nHat tip🤠 Lynn Milner via @AuditWINews\n\nLearn more🔦🧵 WI Thread\n\n@LibertyOverwatchChannel\n—",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1248404
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1524445716,
+            "_v": 1,
+            "access_hash": 2.0368961918393e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Kathy",
+            "id": 1524445716,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [6],
+      "relation": ["eq"]
+    },
+    "max_score": [15.9612],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6151072236561260786",
+        "_score": 15.9612,
+        "_ignored": ["media.webpage.description.keyword"],
+        "_source": {
+          "archivedon": "1683977449",
+          "channelabout": "",
+          "channeltitle": "Free Connecticut",
+          "channelusername": "FreeConnecticut",
+          "collected_by": "crawler",
+          "date": 1681569327,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 162,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 831737626
+          },
+          "fwdfrom": {
+            "date": 1681559106,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1556204047
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 24818,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "(Hartford, CT) – Connecticut Secretary of the State Stephanie Thomas issued the following statement on the importance of maintaining membership in the Electronic Registration Information Center (ERIC) following today’s meeting of the ERIC Board of Directors, of which Connecticut is a member state: “For more than a decade, ERIC has proven to be the best, non-partisan system for ensuring that member states maintain accurate and up-to-date voter rolls. It is disheartening that some states have decided to depart from the organization due to their lack of interest in registering eligible voters. In Connecticut, we believe it is important that every eligible voter be made aware of their right to vote. ERIC is the only effective system we have in the country that provides states with a safety net by cross-checking voter rolls. It’s a shame that certain states have decided to make this a partisan conversation, even after a compromise was proposed. Election integrity and voter confidence are not partisan issues.” After…",
+              "display_url": "portal.ct.gov/SOTS/Press-Releases/2023-Press-Releases/Connecticut-Secretary-of-the-State-Stephanie-Thomas-Issues-Statement-on-the-Importance-of-Membership",
+              "hash": -707030287,
+              "id": 1.26234632784029e+18,
+              "photo": {
+                "access_hash": -4.54101920838845e+18,
+                "date": 1629439911,
+                "dc_id": 4,
+                "file_reference": "AGRfdL5na09S2mpaosCV9ycgRI0g",
+                "has_stickers": false,
+                "id": 5.83564364116143e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUogpVRmztGcDJpKkhdV3hyQCO31rpZyojIIODRUxZSXIbjjGetRuQx+UYoQNLoNooopiCiiigAooooAKKKKAM=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 4342,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 420,
+                    "size": 13410,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 630,
+                    "w": 1200,
+                    "sizes": [3954, 7036, 10714, 12855, 20009]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Connecticut's Official State Website",
+              "title": "Connecticut Secretary of the State Stephanie Thomas Issues Statement on the Importance of Membership in Electronic Registration Information Center (ERIC)",
+              "type": "article",
+              "url": "https://portal.ct.gov/SOTS/Press-Releases/2023-Press-Releases/Connecticut-Secretary-of-the-State-Stephanie-Thomas-Issues-Statement-on-the-Importance-of-Membership"
+            }
+          },
+          "message": "https://portal.ct.gov/SOTS/Press-Releases/2023-Press-Releases/Connecticut-Secretary-of-the-State-Stephanie-Thomas-Issues-Statement-on-the-Importance-of-Membership",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1432158108,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36898
+          },
+          "silent": false,
+          "url": "t.me/FreeConnecticut/24818",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.87848976017745e+18,
+            "apply_min_photo": true,
+            "archivedon": 1683977449,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "𝓟𝓮𝓽𝓪𝓵𝓾𝓻𝓲𝓭𝓪𝓮",
+            "id": 831737626,
+            "is_self": false,
+            "last_name": "𝓕𝓮𝓷",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 3.57228590297892e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIjaJVQIBnDcnFFFFIow=="
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Petaluridae_Fen",
+            "verified": false
+          },
+          "v": 1,
+          "views": 198,
+          "lastseents": "2023-05-13T11:30:49.707459"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6182575233266962373",
+        "_score": 9.5704,
+        "_ignored": {},
+        "_source": {
+          "archivedon": "1681606843",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1681595425,
+          "editdate": 1681595431,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1647670934,
+            "from_id": {},
+            "from_name": "s. p.",
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 85957,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Poor Junior. Dude is a good man put into some shit, same as Eric. They are good, Just put into some shit. Ivanka is good too. Jared is controlled by his father, His father is not so good.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 13,
+          "lastseents": "2023-04-16T01:00:43.208613"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5658366997252110054",
+        "_score": 9.1188,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1684185208",
+          "channelabout": "",
+          "channeltitle": "Virginia Audit Chat",
+          "channelusername": "VirginiaAudit",
+          "collected_by": "crawler",
+          "date": 1681563674,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1588909457
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 95974,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "This is what our Virginia government pays over 37k for. ERIC is affiliated with a left wing partisan organization. Is this election interference, public policy violation and an assault on privacy when information on Virginians who aren’t voters is shared with partisan affiliated organizations?👇",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1317441230,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 164702
+          },
+          "silent": false,
+          "url": "t.me/VirginiaAudit/95974",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.75359453018437e+18,
+            "apply_min_photo": true,
+            "archivedon": 1684185208,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Mama",
+            "id": 1588909457,
+            "is_self": false,
+            "last_name": "Bear",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "UnapoligeticallyMamaBear",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-15T21:13:28.935147"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5218245175694977106",
+        "_score": 8.7123,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "1684033501",
+          "channelabout": "",
+          "channeltitle": "Donald Trump Jr Chat",
+          "channelusername": "TrumpJrChat",
+          "collected_by": "crawler",
+          "date": 1681551436,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 6061511518
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 3270738,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "First, let me express my overwhelming gratitude for the love and support of our spectacular First Lady, Melania. Let me also share my deepest appreciation to my daughter Ivanka, my son-in-law Jared, and to Barron, Don, Eric, Tiffany, and Lara. You fill my world with light and with joy.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1214967383,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 3270740,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 5577585
+          },
+          "silent": false,
+          "url": "t.me/TrumpJrChat/3270738",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -7.85248782005329e+18,
+            "apply_min_photo": false,
+            "archivedon": 1684033501,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "fake": false,
+            "id": 6061511518,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-14T03:05:01.332872"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "5487978987420518821",
+        "_score": 5.3224,
+        "_ignored": ["message.keyword"],
+        "_source": {
+          "archivedon": "2023-04-15 05:59:19.231795",
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channeltitle": "BOSS_HAWGA",
+          "channelusername": "HawGa",
+          "collected_by": "io2es",
+          "date": 1681517151,
+          "editdate": 1681517155,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 74,
+              "offset": 1059,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1760,
+            "date": 1681513922,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1652994575
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "id": 5.48797898742052e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "The number of \"former\" FBI operatives in charge of regulating social media speech is astounding. \n\n-John Turner: YouTube Director of Intelligence, Trust & Safety\n\n-James Baker: Twitter Deputy General Counsel\n\n-Douglas Turner: Twitter Senior Manager, Corporate and Executive Security Services\n\n-Dawn Burton: Google Director/Chief of Staff Privacy & Safety;\nFormer Twitter Senior Director Trust & Safety\n\n-Rachel Hespell: Google Executive Speechwriter and Communications Manager\n\n-Eric Miller: AWS Senior Manager/Principal, Security\n\n-Mark Jaroszewski: Twitter Director, Corporate Security/Risk\n\n-Matthew Braverman: AWS Security Response Manager\n\n-Jeffrey Van Nest: Meta In-House Counsel\n\n-Cynthia Deitle: Meta Director, Associate General Counsel\n\n-M.K. Palmore: Google Director Office of the CISO\n\n-Kadia Koroma: Meta Corporate Communications Manager\n\n-Rick Cavalieros: Meta Trust & Safety Manager\n\n-Steve Pandelides: AWS Director of Security\n\n-Karen Walsh: Twitter Director Corporate Resilience\n\n-Brian Brooks: AWS Senior Practice Manager, National Security\n\nhttps://americarenewing.com/issues/top-ten-systemic-issues-within-the-fbi/",
+          "peerid": {
+            "channel_id": 1277769680,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Joe Roganstein",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1744702409,
+            "comments": true,
+            "max_id": 116554,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1479426672
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1675564227
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 485125562
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 6,
+            "replies_pts": 155833
+          },
+          "silent": false,
+          "url": "t.me/HawGa/133541",
+          "userinfo": {
+            "photo": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 321,
+          "lastseents": "2023-05-08T23:29:24.775594"
+        }
+      },
+      {
+        "_index": "smat-telegram-data-202304",
+        "_id": "6151072236561260793",
+        "_score": 4.6413,
+        "_ignored": ["media.webpage.description.keyword", "media.webpage.photo.sizes.bytes.keyword", "message.keyword"],
+        "_source": {
+          "archivedon": "1683977449",
+          "channelabout": "",
+          "channeltitle": "Free Connecticut",
+          "channelusername": "FreeConnecticut",
+          "collected_by": "crawler",
+          "date": 1681598892,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 1116,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1483795997
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 24825,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=T3FC7qIAGZk\nPlease support this podcast by checking out our sponsors:\n- Wealthfront: https://wealthfront.com/lex to get $50 sign-up bonus\n- LMNT: https://drinkLMNT.com/lex to get free sample pack\n- BetterHelp: https://betterhelp.com/lex to get 10% off\n- ExpressVPN: https://expressvpn.com/lexpod to get 3 months free\n- MasterClass: https://masterclass.com/lex to get 15% off\n\nGUEST BIO:\nAndrew Bustamante is a former CIA covert intelligence officer. Check out his work and podcast at https://everydayspy.com\n\nPODCAST INFO:\nPodcast website: https://lexfridman.com/podcast\nApple Podcasts: https://apple.co/2lwqZIr\nSpotify: https://spoti.fi/2nEwCF8\nRSS: https://lexfridman.com/feed/podcast/\nFull episodes playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\nClips playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nSOCIAL:\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Reddit: https://reddit.com/r/lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+              "display_url": "youtube.com/watch?v=j_tNYGWYPeM",
+              "embed_height": 720,
+              "embed_type": "iframe",
+              "embed_url": "https://www.youtube.com/embed/j_tNYGWYPeM",
+              "embed_width": 1280,
+              "hash": 0,
+              "id": 5.12785630200703e+18,
+              "photo": {
+                "access_hash": -6.26485225283667e+18,
+                "date": 1660104864,
+                "dc_id": 4,
+                "file_reference": "AGRfdL45pnQjTIYaiczOTSkwDc1o",
+                "has_stickers": false,
+                "id": 6.02516740533398e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcorzWCRLuV2bGMgr6mo5Sqgfu1GDzletXbuQNApRtytgjntn0+tRJHFPN8sMjA5z82cH/PvVRJla46OO1c7d0TH/ZUmoVNs07J8m3HynHWpSy2gYRqSxOD8mCP51TeVd4CIAc5JxzTuTylqG3XyGdQQ+CQT060VDFIwYxM+2Mk5NFZttGmjSG2lxt2xsMjOB9Dx/PBqwkscEzb2IIOcDNFFWnZESWpHc3klwSGn2p/dUGoxZuNrblweRRRSGacNgpjbeCHY+vSiiipHY8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 20932,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 76814,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 128688,
+                    "w": 1280
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "YouTube",
+              "title": "CIA spy recruitment process | Andrew Bustamante and Lex Fridman",
+              "type": "video",
+              "url": "https://youtu.be/j_tNYGWYPeM"
+            }
+          },
+          "message": "It’s crazy to see, the biggest Propagandists AKA the CIA stories just keep come out ! The controlled leak of the Ukrainian war documents. I mean , we are still looking for the person who Leaked the pre abortion decision! What are they covering for ! What rights are they looking to try to take from this Ukraine leak.  \nThese ex cia informants are on so many different platforms talking about different issues! I guess with Briben and his sons dealing in China , Ireland, and the Democratic Party in there donation scandal broke by James O’Keefe! \nMakes you wonder what is it there hiding or are they hiding all of it because it’s so blatant what they are doing with gun control, silencing of parents, having a no child policy by converting your children into opposite sex or killing your babies, and vaccines making women infertile! Then to see our  whole body of state government complicit in the plan! It’s truly disgusting! I pray more people will begin to question why!  The Eric system has so many flaws that are coming out and our politicians want it front and center to steal another Connecticut election! \n!https://youtu.be/j_tNYGWYPeM",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1432158108,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 36898
+          },
+          "silent": false,
+          "url": "t.me/FreeConnecticut/24825",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 3.43097974113426e+18,
+            "apply_min_photo": true,
+            "archivedon": 1683977449,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Reaper1776",
+            "id": 1483795997,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.05324817490652e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIzmPyY44ooooA"
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Reaper177",
+            "verified": false
+          },
+          "v": 1,
+          "lastseents": "2023-05-13T11:30:49.453349"
+        }
+      }
+    ]
+  }
+}

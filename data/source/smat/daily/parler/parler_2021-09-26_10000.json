@@ -1,0 +1,76 @@
+{
+  "created_key": ["createdAtformatted"],
+  "content_key": ["bodywithurls"],
+  "took": [27],
+  "timed_out": [false],
+  "_shards": {
+    "total": [28],
+    "successful": [28],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [7.0727],
+    "hits": [
+      {
+        "_index": "parler-data-000011",
+        "_id": "35be217a-7c45-4fe8-bf0b-80a863fb67ab",
+        "_score": 7.0727,
+        "_ignored": ["body.keyword", "bodywithurls.keyword"],
+        "_source": {
+          "ad": false,
+          "badges": [],
+          "badges_v2": {
+            "early": 0,
+            "gold": 0,
+            "parler_emp": 0,
+            "parler_official": 0,
+            "private": 0,
+            "rss": 0,
+            "verified": 0
+          },
+          "body": "https://www.thedesertreview.com/opinion/columnists/the-ivermectin-deworming-hoax---part-ii-eric-clapton-s-human-rights-warning/article_284902bc-14be-11ec-8d43-43e98275cff8.html \n\nUttar Pradesh, India virtually #Covid19-free with #Ivermectin and almost zero \"vaccinations\"",
+          "bodywithurls": "https://market-ticker.org/akcs-www?post=243599 \n\nhttps://www.thedesertreview.com/opinion/columnists/the-ivermectin-deworming-hoax---part-ii-eric-clapton-s-human-rights-warning/article_284902bc-14be-11ec-8d43-43e98275cff8.html \n\nUttar Pradesh, India virtually #Covid19-free with #Ivermectin and almost zero \"vaccinations\"",
+          "collected_by": "smat-scrapy-crawlers",
+          "commented": false,
+          "comments": 0,
+          "createdAt": "2021-09-26T17:41:22.158665+00:00",
+          "createdAtformatted": "2021-09-26T17:41:22.158665+00:00",
+          "creator": "024c113a414d4c8ebf36e7559b3aac61",
+          "datatype": "posts",
+          "detectedlanguage": "en-US",
+          "echoed": false,
+          "edited": false,
+          "hasaudio": false,
+          "hasimage": false,
+          "hasvideo": false,
+          "id": "35be217a-7c45-4fe8-bf0b-80a863fb67ab",
+          "imagensfw": false,
+          "lastseents": "2022-03-25T17:41:22.158682+00:00",
+          "name": "Alfredpdoolittle0",
+          "numid": 39343394,
+          "reposts": 0,
+          "sensitive": false,
+          "shareLink": "https://parler.com/feed/35be217a-7c45-4fe8-bf0b-80a863fb67ab",
+          "trolling": false,
+          "upvoted": false,
+          "upvotes": 0,
+          "urls": {
+            "long": "https://market-ticker.org/akcs-www?post=243599 ",
+            "metadata": {
+              "title": "Columnists"
+            }
+          },
+          "userid": "024c113a414d4c8ebf36e7559b3aac61",
+          "useridraw": "024c113a-414d-4c8e-bf36-e7559b3aac61",
+          "username": "Alfredpdoolittle0",
+          "verified": false
+        }
+      }
+    ]
+  }
+}

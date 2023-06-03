@@ -1,0 +1,633 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [10],
+      "relation": ["eq"]
+    },
+    "max_score": [10.8174],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6094192163595861563",
+        "_score": 10.8174,
+        "_source": {
+          "archivedon": "2022-06-25 04:14:52.343542",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1656123337,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 0,
+              "reformatted_key": "MessageEntityMentionName",
+              "user_id": 2110857686
+            },
+            {
+              "length": 10,
+              "offset": 12,
+              "reformatted_key": "MessageEntityCode"
+            },
+            {
+              "length": 7,
+              "offset": 52,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1973959571
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Eric Scott [2110857686] is sending a spam message. \nAction: Warn (1/3) ❕ until 25/06/2022 04:45.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2641744
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "_id": 1973959571,
+            "_media_ref": "37d9998d12606d85eef709a161f08062a2eac3dc",
+            "_v": 1,
+            "access_hash": -9.09066356217759e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 5,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "PRINCESS SECURITY",
+            "id": 1973959571,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 386302,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200296900426
+              },
+              "photo_id": 5.26062662493469e+18,
+              "photo_small": {
+                "local_id": 386300,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200296900426
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "support": false,
+            "username": "PRINCESS_Anon_Bot",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5354447101273281870",
+        "_score": 10.7689,
+        "_source": {
+          "archivedon": "2022-06-25 02:46:20.67716",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1656124012,
+          "editdate": 1656124015,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 87,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 115,
+              "offset": 89,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 252,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 273,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 288,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 308,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 327,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Top Donor for Mitch McConnell Is Working to Stop Eric Greitens in Missouri Senate Race \n\nhttps://www.thegatewaypundit.com/2022/06/top-donor-mitch-mcconnell-working-stop-eric-greitens-missouri-senate-race/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 588471
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 22
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6427630059833700242",
+        "_score": 10.5372,
+        "_source": {
+          "archivedon": "2022-06-25 14:19:45.07518",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1656151111,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 140,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1656087227,
+            "from_id": {},
+            "from_name": "Paul 🇺🇸",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "https://www.msn.com/en-us/news/us/missouri-attorney-general-eric-schmitt-issues-opinion-ends-abortion-in-missouri/ar-AAYPAR4?ocid=uxbndlbing",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jenny B",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 16
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6226418139165367395",
+        "_score": 7.612,
+        "_source": {
+          "archivedon": "2022-06-25 23:29:53.459197",
+          "channeltitle": "Tony Hovater",
+          "channelusername": "Tony_Hovater",
+          "date": 1656195559,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 128,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1049,
+            "date": 1656192494,
+            "from_id": {
+              "channel_id": 1148860524,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "FTN LIVE: Jazz and Warren will be joined by Eric Striker and Alan Balogh at 7:00PM US EASTERN to discuss NJP's Justice for Ethan Liming protest in Akron, Ohio earlier today.\n\nhttps://therightstuff.biz/2022/06/25/ftn-live-jazz-warren-striker-and-alan-balogh-discuss-njps-justice-for-ethan-liming-protest/",
+          "peerid": {
+            "channel_id": 1449700943,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 59
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5973042573671926515",
+        "_score": 7.612,
+        "_source": {
+          "archivedon": "2022-06-25 23:17:07.731238",
+          "channelabout": "The Official Video Archive of Emily Youcis",
+          "channeltitle": "Emily Youcis",
+          "channelusername": "EmilyYoucis",
+          "date": 1656192589,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 128,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1049,
+            "date": 1656192494,
+            "from_id": {
+              "channel_id": 1148860524,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "FTN LIVE: Jazz and Warren will be joined by Eric Striker and Alan Balogh at 7:00PM US EASTERN to discuss NJP's Justice for Ethan Liming protest in Akron, Ohio earlier today.\n\nhttps://therightstuff.biz/2022/06/25/ftn-live-jazz-warren-striker-and-alan-balogh-discuss-njps-justice-for-ethan-liming-protest/",
+          "peerid": {
+            "channel_id": 1390707347,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 101
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5976639389739000746",
+        "_score": 7.612,
+        "_source": {
+          "archivedon": "2022-06-25 23:17:50.908007",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88",
+          "date": 1656192545,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 128,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1049,
+            "date": 1656192494,
+            "from_id": {
+              "channel_id": 1148860524,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "FTN LIVE: Jazz and Warren will be joined by Eric Striker and Alan Balogh at 7:00PM US EASTERN to discuss NJP's Justice for Ethan Liming protest in Akron, Ohio earlier today.\n\nhttps://therightstuff.biz/2022/06/25/ftn-live-jazz-warren-striker-and-alan-balogh-discuss-njps-justice-for-ethan-liming-protest/",
+          "peerid": {
+            "channel_id": 1391544796,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 91
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "6290698938999651935",
+        "_score": 7.612,
+        "_source": {
+          "archivedon": "2022-06-25 23:55:23.991943",
+          "channelabout": "Official Telegram of Eric Striker",
+          "channeltitle": "Eric Striker",
+          "channelusername": "EricStrikerTRS",
+          "date": 1656193953,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 128,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1049,
+            "date": 1656192494,
+            "from_id": {
+              "channel_id": 1148860524,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "FTN LIVE: Jazz and Warren will be joined by Eric Striker and Alan Balogh at 7:00PM US EASTERN to discuss NJP's Justice for Ethan Liming protest in Akron, Ohio earlier today.\n\nhttps://therightstuff.biz/2022/06/25/ftn-live-jazz-warren-striker-and-alan-balogh-discuss-njps-justice-for-ethan-liming-protest/",
+          "peerid": {
+            "channel_id": 1464667483,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 606
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5619225096267807536",
+        "_score": 5.8754,
+        "_source": {
+          "archivedon": "2022-06-25 13:09:12.252054",
+          "channelabout": "Freiheit, Freude, Erwachen                                                         www.awakening-code.com",
+          "channeltitle": "Immer Frei",
+          "channelusername": "marioamenti",
+          "date": 1656162011,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 95,
+              "offset": 81,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 71,
+              "offset": 258,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 89,
+              "offset": 434,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 69,
+              "offset": 568,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "London Breed, Bürgermeister von S.F., wurde positiv auf das Coronavirus getestet\nhttps://www.msn.com/en-us/news/us/s-f-mayor-london-breed-tests-positive-for-covid-19/ar-AAYKo4d\n\nDer Bürgermeister von Dallas, Eric Johnson, wurde positiv auf COVID-19 getestet\nhttps://www.fox4news.com/news/mayor-johnson-tests-positive-for-covid-19\n\nDer nationale Sicherheitsberater des Weißen Hauses, Jake Sullivan, wurde positiv auf COVID-19 getestet\nhttps://www.wlwt.com/article/biden-adviser-jake-sullivan-tests-positive-covid-19/40338357\n\nVillanueva wird positiv auf COVID getestet\nhttps://ktla.com/news/local-news/villanueva-tests-positive-for-covid/",
+          "peerid": {
+            "channel_id": 1308327796,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 600
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5261550798361331332",
+        "_score": 5.3658,
+        "_source": {
+          "archivedon": "2022-06-25 20:26:33.829295",
+          "channelabout": "http://www.order15.com",
+          "channeltitle": "O.R.D.E.R. 15 The Parallel Society",
+          "channelusername": "order_15",
+          "date": 1656186100,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "GEORGE ORWELL (25 June 1903 – 21 January 1950)\nToday's date of the 25th June marks the 119th birthday of novelist Eric Arthur Blair aka George Orwell.\nWith the benefit of hindsight, his prescient warnings of a dystopian future for mankind found in his books such as Animal Farm and 1984 have proven to be highly accurate - and will go on being so for years to come as the globalists turn the screw on our  traditional freedoms even further.\nLooking at pictures of his gravestone I see there's room at the base for further inscription.\nThe time is right for the engraving of four additional words, \"I told you so.\"",
+          "peerid": {
+            "channel_id": 1225050259,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 8
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202206",
+        "_id": "5136054791729863638",
+        "_score": 4.035,
+        "_source": {
+          "archivedon": "2022-06-26 01:01:08.021158",
+          "channelabout": "𝐎 𝐰𝐨𝐧𝐝𝐞𝐫! 𝐇𝐨𝐰 𝐦𝐚𝐧𝐲 𝐠𝐨𝐨𝐝𝐥𝐲 𝐜𝐫𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐚𝐫𝐞 𝐭𝐡𝐞𝐫𝐞 𝐡𝐞𝐫𝐞! 𝐇𝐨𝐰 𝐛𝐞𝐚𝐮𝐭𝐞𝐨𝐮𝐬 𝐦𝐚𝐧𝐤𝐢𝐧𝐝 𝐢𝐬! 𝐎 𝐛𝐫𝐚𝐯𝐞 𝐧𝐞𝐰 𝐰𝐨𝐫𝐥𝐝, 𝐓𝐡𝐚𝐭 𝐡𝐚𝐬 𝐬𝐮𝐜𝐡 𝐩𝐞𝐨𝐩𝐥𝐞 𝐢𝐧'𝐭.𝐖𝐢𝐥𝐥𝐢𝐚𝐦 𝐒𝐡𝐚𝐤𝐞𝐬𝐩𝐞𝐚𝐫e",
+          "channeltitle": " ᗷᖇᗩᐯᗴ ᑎᗴᗯ ᗯOᖇᒪᗪ",
+          "channelusername": "no2vaccine",
+          "date": 1656194661,
+          "editdate": 1656194664,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 14,
+              "offset": 3569,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Jason Matheny served on the 15-member AI Panel, including Safra Katz, CEO of Oracle; Eric Horwitz, Chief Scientist at Microsoft; Andy Jassi, visionary director of Amazon Web Services (CEO of Amazon since July 2021); and Andrew Moore, head of cloud AI at Google.\n\nIn March 2019, WestExec Advisors consultant, member of the Raytheon Board of Directors and US Deputy Secretary of Defense in\nFrom 2014-2017, Robert Wark became vice chairman of the AI ​​Commission, chaired by the former Google CEO and ex-chairman\nboard of directors of Alphabet Inc. Eric Schmidt.\n\nPreviously, Schmidt was appointed to the Innovation Council and gained access to the US Department of Defense.\n\nNow the work of the Council from the Ministry of Defense is supervised by Heidi Scheu.\n\nIn April 2017, Robert Wark (then Deputy Secretary of Defense) initiated the creation of an Algorithmic Warfare Cross Function Team in the Office of the Deputy Secretary of Defense for Intelligence and Security.\n\nEric Schmidt suggested the idea of ​​using Google neural networks when analyzing video data,\ncoming from multifunctional UAVs, to speed up the work of intelligence analysts to identify targets.\n\nThe conclusion of the AI ​​Commission was a call for the mobilization of the economy to confront China.\n\nRAND Corporation, with Jason Matheny as CEO effective July 5, has recently focused on:\n\nI. Comparison of the organizational structures of Silicon Valley and the Pentagon\n\nThe ability to harness AI technologies and capabilities is seen as vital to the long-term success of the US military and to the future of national security. Despite the importance of progress in AI, there are concerns that the US Department of Defense is unable to engage with the private sector and hire the best AI specialists from US technology firms. Unlike previous eras, the Department of Defense is no longer the main driver of investment in research and development in these types of advanced technologies.\nThe Department of Defense sought to cooperate more effectively with Silicon Valley software companies.\n\nDoD leadership also wants to change its culture to be more innovative and agile.\n\nThere has been a marked degree of rapprochement between the Department of Defense and Silicon Valley in terms of adhocracy culture.\n\nThe organizational cultures of the Department of Defense and Silicon Valley had the closest match in the organizational culture of the clans.\n\nRecommendations:\n\nplace individuals more compatible with the adhocracy culture in DoD sub-organizations designed to promote innovation and agility.\n\nII. Exploring the Civil-Military Gap over AI\n\nSoftware engineers and other technology workers have a low level of trust in those in leadership positions.\n\nTechnology workers trust technology executives almost as little as they trust elected officials or heads of federal agencies.\n\nMechanisms should be explored to increase cooperation between the Department of Defense and Silicon Valley companies on threats posed by cyberattacks, a potential application of AI that Valley engineers see as a critical global threat.\n\n***\n\nThe Board of Trustees of RAND includes Carl Bildt, Prime Minister of Sweden (1991-1994) and Foreign Minister (2006-2014).\n\nIn May 2015, Bildt became an adviser to Ukrainian President Petro Poroshenko (a member of Ukraine's International Advisory Council on Reforms), days after he became an adviser to the board of the LetterOne Group.\n\nThe Luxembourg-based company LetterOne, led by Mikhail Fridman, was founded in 2013 and specializes in the energy and technology sectors. @shadow_policy",
+          "peerid": {
+            "channel_id": 1195830943,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1295334778,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 87435
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 23488,
+            "reply_to_top_id": 23470
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 22
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

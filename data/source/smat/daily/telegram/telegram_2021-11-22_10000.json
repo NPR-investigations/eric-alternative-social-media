@@ -1,0 +1,1332 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [38],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [21],
+      "relation": ["eq"]
+    },
+    "max_score": [13.2883],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6125474132692830097",
+        "_score": 13.2883,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637601718,
+          "post": true,
+          "views": 201,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Mann",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1426198085
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 581,
+            "replies": 2,
+            "comments": true,
+            "channel_id": 1740639193,
+            "replies_pts": 715,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1961670627
+              }
+            ]
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1637601721,
+          "edithide": true,
+          "archivedon": "2021-11-22 17:50:10.689932",
+          "channelabout": "BitChute: https://www.bitchute.com/americankrogan/                                                 DLive: https://dlive.tv/AmericanKrogan                                        Odysee: https://odysee.com/@americankrogan:3",
+          "channeltitle": "American Krogan",
+          "channelusername": "OfficialAmericanKrogan",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357749699",
+        "_score": 12.6467,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637602697,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1804525895
+          },
+          "message": "Eric Striker is a Nazbol",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 470466
+          },
+          "edithide": false,
+          "archivedon": "2021-11-22 17:55:37.965901",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5595791965154199420",
+        "_score": 12.1711,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637562221,
+          "post": true,
+          "views": 3013,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Kessler donated to multiple Democrats, including Clinton and Biden. He listed Arabella as his occupation.\nhttps://www.fec.gov/data/receipts/individual-contributions/?contributor_name=eric+kessler&contributor_employer=Arabella",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1302871845
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 1410612,
+            "replies": 1,
+            "comments": true,
+            "channel_id": 1425952062,
+            "replies_pts": 2388187,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1549475096
+              }
+            ]
+          },
+          "entities": [
+            {
+              "length": 110,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 119,
+              "offset": 111,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "channel_post": 501,
+            "date": 1637562200,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1637562224,
+          "edithide": true,
+          "postauthor": "𝐌𝐂𝐎𝐌𝐒®",
+          "archivedon": "2022-03-05 19:48:32.201197",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5747193019786858756",
+        "_score": 12.0688,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637617165,
+          "post": true,
+          "views": 15,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Mann, The Jewish brains behind BLM terrorism.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1338122650
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1338615366,
+            "replies_pts": 36003,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 324,
+            "date": 1637616985,
+            "from_id": {
+              "channel_id": 1395464698,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1637617169,
+          "edithide": true,
+          "archivedon": "2021-11-22 21:57:14.584434",
+          "channelabout": "Western Civilization is the physical manifestation of the White mans mind and soul. The West lives and dies with the White man. Pro-West = Pro-White. Deus Vult ✝️",
+          "channeltitle": "Proud Goys",
+          "channelusername": "Proud_Goys",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5701205048307018943",
+        "_score": 10.2449,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637607587,
+          "post": true,
+          "views": 130,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "ANKÜNDIGUNG VON ERIC CLAPTON:\n\nNach der Ankündigung des Premierministers am Montag, den 19. Juli 2021 fühle ich mich geehrt, eine eigene Ankündigung zu machen: Ich möchte sagen, dass ich auf keiner Bühne auftreten werde, auf der ein diskriminiertes Publikum anwesend ist. \n\nSofern keine Vorkehrungen getroffen werden, behalte ich mir vor, die Show abzusagen.\n\n- Eric Clapton.\n\nEric Clapton hatte offenbar enorme Probleme nach der Injektion, die dazu führten, dass er nicht mehr sein Instrument spielen konnte. Mit weltweiter Wirkung wendet er sich gegen die Agenda.\n..",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1327415241
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1331917603,
+            "replies_pts": 117848,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "channel_post": 11530,
+            "date": 1637596759,
+            "from_id": {
+              "channel_id": 1477504279,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Dr. Guido C. Hofmann (holidoc)",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1637607590,
+          "edithide": true,
+          "postauthor": "uns Uwe",
+          "archivedon": "2021-11-22 19:49:02.272784",
+          "channelabout": "🐇Hobbymässig informierender Kanal für Dies & Das🐇\n☆Mitstreiter zur Zeit☆ ♡Elke, A,Conny,D777,Eddy,Jochen,Truth,Mario, Petrus & einigen Andere ♡\n\nhttps://t.me/joinchat/AAAAAE9jcyPiV8G2rZ-Q1w",
+          "channeltitle": "Gurkenpaules Einflugschneise",
+          "channelusername": "GurkenpaulesEinflugschneise",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "7242217620231962824",
+        "_score": 7.9379,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637599450,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1537599305
+          },
+          "message": "They'll line up for the jab. I had a co-worker complain about pain in her hands that just started a few weeks ago. See the Eric Clapton interview in wrist pain. She got the booster yesterday and is out sick today. Pray for her.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1686210190
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 16573
+          },
+          "edithide": false,
+          "archivedon": "2022-03-05 19:34:05.186016",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "userinfo": {
+            "_id": 1537599305,
+            "_media_ref": "2e532946370e17a7c8ead0ad0fb4357eb2b47f89",
+            "_v": 1,
+            "access_hash": -8.89937327543208e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Chris",
+            "id": 1537599305,
+            "is_self": false,
+            "last_name": "Shaw",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 292114,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100036
+              },
+              "photo_id": 5.17738165040799e+18,
+              "photo_small": {
+                "local_id": 292112,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100008100036
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6174007112813773140",
+        "_score": 6.3771,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637556966,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2125462504
+          },
+          "message": "Hallo Leute, ich hab da mal ne Frage. \nIch hatte jetzt gerade Corona und war 2 Wochen zu Hause in Quarantäne. \nDa ich keinen Job habe, bei dem ich im Homeoffice arbeiten kann, habe ich fast nichts für die Firma gemacht. Ich bin, ebenso wie ihr alle, ungeimpft und bekomme keine Lohnfortzahlung. Gibt es da irgendwelche Möglichkeiten oder hat jemand Erfahrung gesammelt wie man das ganze umgehen kann, sodass ich trotzdem mein Geld bekomme?\nEric",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1437498050
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 26953,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-02-07 21:41:29.632745",
+          "channelabout": "Diese Gruppe ist für alle die der Impfung und den Maßnahmen kritisch gegenüberstehen! Genug ist genug! Wir wollen durch die Gruppe eine riesige Gemeinschaft bilden, die gemeinsam für ihre Rechte eintritt und aufsteht. Lasst uns zusammen Großes bewirken!💪🏻",
+          "channeltitle": "Saarland Regionalgruppe",
+          "channelusername": "saarlandregionalgruppe",
+          "userinfo": {
+            "_id": 2125462504,
+            "_v": 1,
+            "access_hash": 2.46339770186571e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Esche",
+            "id": 2125462504,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword", "channelabout.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5530451017067428931",
+        "_score": 6.2097,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637571377,
+          "post": true,
+          "views": 198,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Verspielt der FC Bayern wegen des Impfwahns die Meisterschaft?\n\nUngeimpfte Bayern unter sich: Mobbingopfer Joshua Kimmich und Eric Maxim Choupo-Moting (Foto:Imago)\n\nMit Haltung in den Untergang: Unter das Motto „Operation gelungen, Patient tot” kann man mittlerweile auf so vielen Ebenen die Maßnahmen und Entscheidungen rund um die „Pandemie” stellen, den gesamten wahnhaften Krisenkult und all die letztlich nihilistischen Rituale für nichts und wieder nichts.…\n\nhttps://ansage.org/verspielt-der-fc-bayern-wegen-des-impfwahns-die-meisterschaft/",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1287658470
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 81,
+              "offset": 465
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "postauthor": "jouwatch",
+          "archivedon": "2021-11-22 09:03:25.670834",
+          "channelabout": "journalistenwatch.com",
+          "channeltitle": "Jouwatch",
+          "channelusername": "jouwatch",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5976639389738998465",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637586660,
+          "post": true,
+          "views": 731,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1391544796
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 20,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31006932842415e+16,
+          "archivedon": "2021-11-22 13:29:08.972965",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5973042573671925494",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637591344,
+          "post": true,
+          "views": 20,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1390707347
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31007307517598e+16,
+          "archivedon": "2021-11-22 14:32:36.702948",
+          "channelabout": "The Official Video Archive of Emily Youcis",
+          "channeltitle": "Emily Youcis",
+          "channelusername": "EmilyYoucis",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5180325824263359815",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637591503,
+          "post": true,
+          "views": 89,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1206138596
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31007320261454e+16,
+          "archivedon": "2021-11-22 15:11:59.249503",
+          "channelabout": "My links - https://linktr.ee/WarmasterHorus\n\n@ChannelCollection",
+          "channeltitle": "Horus",
+          "channelusername": "WarmasterHorus",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5829315607689954854",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637593713,
+          "post": true,
+          "views": 48,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1357243305
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1295453355,
+            "replies_pts": 5943,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "editdate": 1637593717,
+          "edithide": true,
+          "groupedid": 1.31007497047295e+16,
+          "archivedon": "2021-11-22 15:33:06.734423",
+          "channeltitle": "Nationalist Homestead",
+          "channelusername": "nationalist_homestead",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357749539",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637597816,
+          "post": false,
+          "views": 3776,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2113870636
+          },
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 530832,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 78,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.3100782532913e+16,
+          "archivedon": "2021-11-22 16:50:58.91128",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6290698938999648067",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637586711,
+          "post": true,
+          "views": 532,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1464667483
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31006936894963e+16,
+          "archivedon": "2021-11-22 13:38:16.170292",
+          "channelabout": "Official Telegram of Eric Striker",
+          "channeltitle": "Eric Striker",
+          "channelusername": "EricStrikerTRS",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357749242",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637586989,
+          "post": false,
+          "views": 958,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2116171899
+          },
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 530444,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 23,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31006959121195e+16,
+          "archivedon": "2021-11-22 13:39:08.220652",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357749263",
+        "_score": 6.0524,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637588037,
+          "post": false,
+          "views": 958,
+          "pinned": false,
+          "silent": true,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1115589122
+          },
+          "message": "As of 8am this morning, not ONE news story from conservative outlets has even mentioned the racial aspect of this mass casualty attack.  Not one mention of the race of the attacker or the victims, or a possible racial motive, from New York Post, Breitbart, Washington Examiner, Drudge, FOX or Newsmax!\n\nPlease share Eric Striker's report on this anti-White terrorist attack far and wide:\n https://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 530444,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 389
+            }
+          ],
+          "forwards": 23,
+          "fwdfrom": {
+            "channel_post": 6849,
+            "date": 1637586660,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "groupedid": 1.31007043007094e+16,
+          "archivedon": "2021-11-22 13:39:08.251592",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5811551549939568988",
+        "_score": 4.4065,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637600583,
+          "post": true,
+          "views": 2,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "The Weeknd Germatria Code\n\nVerriegelung \nAbriegelung / Lockdown\nA Birth Code Of Heaven \nWarnung \nVier weitere Jahre\nFalsch \nSein Spiel vorbei \nTncvrhfnt\nComputer-Simulation \nNihilistischer Psychopath \nBrenton Harrison Tarrant \nJonathan Smith \nDer Eroberer der Nationen \nAbendstern \nNummer Fünf \nGninraw \nDas Ende der Tage Ein Prophet \nPuget Sound Seattle \nErste Pharos sind aus\nAtlantis\nVierMehrJahre \nEine Botschaft von Gott Christus\nIst Satan \nGewachsen \nMwrdock \nKriegsmaschine \nAntichrist Camps in der\nUsa \nVerrückter Narzisst\nAardwark \nZusammenbruch Hyperinflation \nUnd die Knospen der Granatäpfel\nForth \nAlan Goss Papst nicht\nHören \nEhre des Himmels\nDie Wiederkehr des Christus \nGefechtsvisier Null\nAußerirdische November \nDu bist eine Nuss \nEin anständiger Jongleur \nHand des Schicksals von allen\nHimmel \nWar Rig \nRadioaktiver Leiter\nAnleihe Wächter \nIndustrie Teich \nEric Jon Christ \nTeufel in Christus \nGeisha Guyout \nEnorme Entschlossenheit\nPik Herz Kreuz\nDiamanten \nSmoke Em If You Got Em \nArmand Manuel Ratundu\nJack In The Beanstock \n\nhttps://t.me/cuechat2021",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1353107288
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 24,
+              "offset": 1047
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "channel_post": 8004,
+            "date": 1616204349,
+            "from_id": {
+              "channel_id": 1209084591,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-22 17:04:58.152626",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5739776796677650929",
+        "_score": 3.4929,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637598215,
+          "post": true,
+          "views": 1833,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Why is the first headline on the Drudge Report a story about how Kyle Rittenhouse says he supports BLM, and Newsmax features a headline of Jewish pedophile Alan Dershowitz championing Jewish pedophile-killer Rittenhouse----on the morning after the worst anti-White terrorist attack ever by a BLM fanatic???\n\nBecause the conservative movement, and media like Drudge and Newsmax, is controlled by Jews who are fundamentally anti-White.\n\nFrom the Newsmax article:\n\nIt was \"racism, pure and simple\" for members of the liberal media to mock Kyle Rittenhouse for crying on the stand when testifying about the events that led to the shootings in Kenosha, Wisconsin, Harvard Law professor emeritus Alan Dershowitz said Saturday.\n\nThe famed lawyer also offered on Newsmax's \"Saturday Report\" to put the 18-year-old in touch with legal representation if he wants to bring legal action against CNN for its reporting on the case....\n\nDershowitz, the author of \"The Case for Colorblind Equality in an Age of Identity Politics,\" called for a return to Martin Luther King's philosophy of judging people on the quality of their character, not on the color of their skin.\n\nShare Eric Striker's report on the anti-White Waukesha terrorist attack to get the real story out past these Jewish gatekeepers:\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1336395926
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 459,
+              "offset": 462
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 232,
+              "offset": 922
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 232,
+              "offset": 922
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 1286
+            }
+          ],
+          "forwards": 10,
+          "fwdfrom": {
+            "channel_post": 6855,
+            "date": 1637587994,
+            "from_id": {
+              "channel_id": 1391544796,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2021-11-22 17:03:00.787271",
+          "channelabout": "The views expressed on this channel are awesome, if you don't like them you can fuck off.",
+          "channeltitle": "Proud Boys: Uncensored",
+          "channelusername": "ProudBoysUncensored",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5976639389738998471",
+        "_score": 3.4929,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637587994,
+          "post": true,
+          "views": 592,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Why is the first headline on the Drudge Report a story about how Kyle Rittenhouse says he supports BLM, and Newsmax features a headline of Jewish pedophile Alan Dershowitz championing Jewish pedophile-killer Rittenhouse----on the morning after the worst anti-White terrorist attack ever by a BLM fanatic???\n\nBecause the conservative movement, and media like Drudge and Newsmax, is controlled by Jews who are fundamentally anti-White.\n\nFrom the Newsmax article:\n\nIt was \"racism, pure and simple\" for members of the liberal media to mock Kyle Rittenhouse for crying on the stand when testifying about the events that led to the shootings in Kenosha, Wisconsin, Harvard Law professor emeritus Alan Dershowitz said Saturday.\n\nThe famed lawyer also offered on Newsmax's \"Saturday Report\" to put the 18-year-old in touch with legal representation if he wants to bring legal action against CNN for its reporting on the case....\n\nDershowitz, the author of \"The Case for Colorblind Equality in an Age of Identity Politics,\" called for a return to Martin Luther King's philosophy of judging people on the quality of their character, not on the color of their skin.\n\nShare Eric Striker's report on the anti-White Waukesha terrorist attack to get the real story out past these Jewish gatekeepers:\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1391544796
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 459,
+              "offset": 462
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 232,
+              "offset": 922
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 232,
+              "offset": 922
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 1286
+            }
+          ],
+          "forwards": 9,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "editdate": 1637588425,
+          "edithide": false,
+          "archivedon": "2021-11-22 14:32:57.361201",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5686521886562132600",
+        "_score": 2.1373,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637558442,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1594365504
+          },
+          "message": "Let me explain it again for those that still don't get it: \n\nThe American hero Kyle Rittenhouse was attacked by a mob of Communists, and the three men he shot, Rosenbaum, Huber, and Grosskreutz, were Jewish. The Jewish District Attorney Binger charged Kyle for the crime of self-defense, and put the poor kid through a year of hell. After Kyle was declared innocent by a jury of his peers, the Jewish House Judiciary Chair Jerry Nadler has called on the DOJ (which is controlled by his fellow Jew Merrick Garland) to charge Kyle with federal crimes.\n\nIf that still isn't enough, take a look at the Biden administration you hate so much.\n\nThe Secretary of State, who has embarrassed America on the world stage constantly over the past year, Anthony Blinken, is Jewish.\n\nThe Secretary of the Treasury, who has overseen disastrous hyperinflation and the destruction of the America economy, Janet Yellen, is Jewish.\n\nThe White House Chief of Staff, said by some to be one of the \"powers behind the throne\" of the ailing President Biden, Ron Klain, is Jewish.\n\nThe US Attorney General, who has overseen the legal persecution of Steve Bannon and other Trump allies, Merrick Garland, is Jewish.\n\nThe Secretary of Homeland Security, who not only holds back ICE and Border Patrol during a growing migrant invasion, but has admitted tens of thousands of Haitian invaders into the country, Alejandro Mayorkas, is Jewish.\n\nThe Director of National Intelligence, who controls the NSA, CIA, all all military intelligence agencies, who are at this very moment monitoring your online communications without a warrant, Avril Haines, is Jewish.\n\nThe Administrator of the Small Business Administration, which specifically excludes struggling businesses owned by White men from critical economic assistance during the ongoing economic collapse, Isabel Guzman, is part Jewish.\n\nThe Director of the CDC, which is mandating deadly vaccines for us and our children, Rochelle Walensky, is Jewish.\n\nThe Science Advisor to the President, and the Director of the Office of Science and Technology, Eric Lander, is Jewish.\n\nThe White House Coronavirus Response Coordinator, Jeffrey Zients, is Jewish, as is his Chief Science Officer David A. Kessler.\n\nKamala Harris is married to a Jew.\n\nPatriot!— ask yourself, is it a coincidence that all of these villains are Jewish? After all, they're only 1.7% of the US population. \n\nI'm a veteran, a Christian, and most of all a Patriot. Almost all the men in my family who came before me are veterans, and many of my ancestors fought in World War II, two of them fell in battle fighting the Germans. Most of you also have ancestors who did the same. America saved the Jews of Europe from certain death at the hands of the Germans —or so the story goes— and the Jews repay us by destroying our country? Not only that, they have the audacity to scream \"NAZI!\" at the sons and grandsons of those who saved them. By pointing out any of this, I am committing political suicide and am throwing away any chance of a lucrative position as a mainstream \"conservative\" politician. The truth must be said regardless.\n\nWe cannot avoid the glaring question of Jewish influence in our country any longer, for the sake of our country, and our children!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 336518,
+            "replies": 2,
+            "comments": false,
+            "replies_pts": 1709115,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {},
+          "edithide": false,
+          "archivedon": "2022-08-02 04:14:14.81175",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 1594365504,
+            "_v": 1,
+            "access_hash": -5.16544380847517e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marcus",
+            "id": 1594365504,
+            "is_self": false,
+            "last_name": "Strong",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 32688,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "photo_id": 5.17923181923989e+18,
+              "photo_small": {
+                "local_id": 32686,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5686521886562132599",
+        "_score": 2.1373,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637558344,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1594365504
+          },
+          "message": "Let me explain it again for those that still don't get it: \n\nThe American hero Kyle Rittenhouse was attacked by a mob of Communists, and the three men he shot, Rosenbaum, Huber, and Grosskreutz, were Jewish. The Jewish District Attorney Binger charged Kyle for the crime of self-defense, and put the poor kid through a year of hell. After Kyle was declared innocent by a jury of his peers, the Jewish House Judiciary Chair Jerry Nadler has called on the DOJ (which is controlled by his fellow Jew Merrick Garland) to charge Kyle with federal crimes.\n\nIf that still isn't enough, take a look at the Biden administration you hate so much.\n\nThe Secretary of State, who has embarrassed America on the world stage constantly over the past year, Anthony Blinken, is Jewish.\n\nThe Secretary of the Treasury, who has overseen disastrous hyperinflation and the destruction of the America economy, Janet Yellen, is Jewish.\n\nThe White House Chief of Staff, said by some to be one of the \"powers behind the throne\" of the ailing President Biden, Ron Klain, is Jewish.\n\nThe US Attorney General, who has overseen the legal persecution of Steve Bannon and other Trump allies, Merrick Garland, is Jewish.\n\nThe Secretary of Homeland Security, who not only holds back ICE and Border Patrol during a growing migrant invasion, but has admitted tens of thousands of Haitian invaders into the country, Alejandro Mayorkas, is Jewish.\n\nThe Director of National Intelligence, who controls the NSA, CIA, all all military intelligence agencies, who are at this very moment monitoring your online communications without a warrant, Avril Haines, is Jewish.\n\nThe Administrator of the Small Business Administration, which specifically excludes struggling businesses owned by White men from critical economic assistance during the ongoing economic collapse, Isabel Guzman, is part Jewish.\n\nThe Director of the CDC, which is mandating deadly vaccines for us and our children, Rochelle Walensky, is Jewish.\n\nThe Science Advisor to the President, and the Director of the Office of Science and Technology, Eric Lander, is Jewish.\n\nThe White House Coronavirus Response Coordinator, Jeffrey Zients, is Jewish, as is his Chief Science Officer David A. Kessler.\n\nKamala Harris is married to a Jew.\n\nPatriot!— ask yourself, is it a coincidence that all of these villains are Jewish? After all, they're only 1.7% of the US population. \n\nI'm a veteran, a Christian, and most of all a Patriot. Almost all the men in my family who came before me are veterans, and many of my ancestors fought in World War II, two of them fell in battle fighting the Germans. Most of you also have ancestors who did the same. America saved the Jews of Europe from certain death at the hands of the Germans —or so the story goes— and the Jews repay us by destroying our country? Not only that, they have the audacity to scream \"NAZI!\" at the sons and grandsons of those who saved them. By pointing out any of this, I am committing political suicide and am throwing away any chance of a lucrative position as a mainstream \"conservative\" politician. The truth must be said regardless.\n\nWe cannot avoid the glaring question of Jewish influence in our country any longer, for the sake of our country, and our children!",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1323996551
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 334381
+          },
+          "edithide": false,
+          "archivedon": "2022-08-02 04:14:14.810036",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "userinfo": {
+            "_id": 1594365504,
+            "_v": 1,
+            "access_hash": -5.16544380847517e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Marcus",
+            "id": 1594365504,
+            "is_self": false,
+            "last_name": "Strong",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 32688,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "photo_id": 5.17923181923989e+18,
+              "photo_small": {
+                "local_id": 32686,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500007
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

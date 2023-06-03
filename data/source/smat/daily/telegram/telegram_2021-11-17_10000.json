@@ -1,0 +1,2680 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [44],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [33],
+      "relation": ["eq"]
+    },
+    "max_score": [11.2234],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5712857208681924553",
+        "_score": 11.2234,
+        "_source": {
+          "archivedon": "2022-08-02 11:55:44.294212",
+          "channeltitle": "NTD Chat",
+          "channelusername": "NTDNewsChat",
+          "date": 1637107329,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1581024850
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Eric Holder got a contempt but ignored it and nothing done by congress.",
+          "peerid": {
+            "channel_id": 1330128221,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 261961
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1581024850,
+            "_v": 1,
+            "access_hash": 8.78975451882974e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Alexander",
+            "id": 1581024850,
+            "is_self": false,
+            "last_name": "Canete",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6347407316354102286",
+        "_score": 10.7831,
+        "_source": {
+          "archivedon": "2022-08-03 06:02:13.330241",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1637180693,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 97,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 184,
+              "offset": 105,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 291,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 302,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 302,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "NYC mayor-elect Eric Adams vows to resurrect city's nightlife, hands Stephen Colbert bag of 'pot'\n\nRead: https://www.dailymail.co.uk/news/article-10213283/NYC-mayor-elect-Eric-Adams-vows-resurrect-citys-nightlife-hands-Stephen-Colbert-bag-pot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 116,
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6347407316354102245",
+        "_score": 10.6421,
+        "_source": {
+          "archivedon": "2022-08-03 06:02:13.205391",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1637168081,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 99,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 188,
+              "offset": 107,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 297,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 308,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 308,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "If BLM really cared about black lives they'd support NYC mayor-elect Eric Adams: HEATHER MAC DONALD\n\nRead: https://www.dailymail.co.uk/news/article-10212547/If-BLM-really-cared-black-lives-theyd-support-NYC-mayor-elect-Eric-Adams-HEATHER-MAC-DONALD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 94,
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5378176409036396441",
+        "_score": 10.6347,
+        "_source": {
+          "archivedon": "2021-11-17 17:37:02.415537",
+          "channeltitle": "Communism Kills",
+          "channelusername": "communismkills",
+          "date": 1637170418,
+          "editdate": 1637170422,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Just heard New York City mayor-elect Eric Adams speak. Wow, this man is very low IQ.",
+          "peerid": {
+            "channel_id": 1252204275,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 13960,
+            "replies": 4,
+            "comments": true,
+            "channel_id": 1596640471,
+            "replies_pts": 15446,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1514222146
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 761076211
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 648431585
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 41
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6432984586971600656",
+        "_score": 10.3721,
+        "_source": {
+          "archivedon": "2022-03-05 19:03:10.356923",
+          "channeltitle": "JuliansRum Chat",
+          "channelusername": "juliansrumchat",
+          "date": 1637192388,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 277,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/EricFredericTrump"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2130696470
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "ERIC TRUMP - Son of our true president DONALD TRUMP, is now active on telegram. He said that he will publish all the latest shocking news on his channel.TRUMP family is getting bigger on this social media. Go follow him before he goes private and watch all the breaking news. \nEric Trump",
+          "peerid": {
+            "channel_id": 1497795942,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 86979
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 2130696470,
+            "_v": 1,
+            "access_hash": -7.27924691597194e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Yup",
+            "id": 2130696470,
+            "is_self": false,
+            "last_name": "Donson",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5925982909067442175",
+        "_score": 10.1167,
+        "_source": {
+          "archivedon": "2021-11-17 07:03:12.725871",
+          "channeltitle": "Dave Brych Kanal",
+          "channelusername": "davebrych_public",
+          "date": 1637129825,
+          "editdate": 1637129829,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 129,
+              "offset": 251
+            }
+          ],
+          "forwards": 36,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637114694,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1218998207
+            },
+            "channel_post": 79326,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "„Aufgrund der 2G-Regel im Bundesland Bayern dürfen Joshua Kimmich, Serge Gnabry, Jamal Musiala und Eric Eric Maxim Choupo-Moting vor dem Augsburg-Spiel nicht mit ins Mannschaftshotel des Rekordmeisters. Alle Spieler sind bislang noch nicht geimpft.“\n\nhttps://www.focus.de/sport/fc-bayern-kimmich-gnabry-musiala-und-choupo-moting-duerfen-nicht-mit-ins-bayern-hotel_id_24433929.html",
+          "peerid": {
+            "channel_id": 1379750415,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 662724,
+            "replies": 24,
+            "comments": true,
+            "channel_id": 1392722942,
+            "replies_pts": 768361,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 316692854
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 978719933
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1191209430
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 3028,
+          "channelabout": "✉️ Posteingang: @davebrych_bot\n\n5 IDEEN, damit mehr Menschen ein Licht aufgeht!\n\n⭐️⭐️⭐️⭐️⭐️ Unterstütze 5 IDEEN und Dave💡\n➡️ PayPal: https://hier.5ideen.com/spende-paypal\noder über unsere \n➡️ Unterstützerseite: https://go.5ideen.com/unterstuetzen ✅"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5235557432947717598",
+        "_score": 10.1167,
+        "_source": {
+          "archivedon": "2021-11-17 02:19:28.814249",
+          "channeltitle": "Oliver Janich öffentlich",
+          "channelusername": "oliverjanich",
+          "date": 1637114694,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 129,
+              "offset": 251
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "„Aufgrund der 2G-Regel im Bundesland Bayern dürfen Joshua Kimmich, Serge Gnabry, Jamal Musiala und Eric Eric Maxim Choupo-Moting vor dem Augsburg-Spiel nicht mit ins Mannschaftshotel des Rekordmeisters. Alle Spieler sind bislang noch nicht geimpft.“\n\nhttps://www.focus.de/sport/fc-bayern-kimmich-gnabry-musiala-und-choupo-moting-duerfen-nicht-mit-ins-bayern-hotel_id_24433929.html",
+          "peerid": {
+            "channel_id": 1218998207,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 763,
+          "channelabout": "Dies ist der öffentliche, kostenlose Kanal von Oliver Janich. Unterstützung und exklusive Inhalte über Premium-Abo: https://t.me/JanichSupport_Bot | Nur meine Videos: https://t.me/OliverJanichtopnews | Webseite: https://www.oliverjanich.de"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5686521886562128061",
+        "_score": 10.1101,
+        "_source": {
+          "archivedon": "2022-08-02 04:13:06.457897",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1637121699,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 400673865
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "You live in Virginia and your name is Eric and you have a speech impediment and your balls havent dropped yet",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 331924,
+            "reply_to_top_id": 331908
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 400673865,
+            "_v": 1,
+            "access_hash": 1.02310640299287e+17,
+            "apply_min_photo": false,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": true,
+            "id": 400673865,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "verified": false
+          },
+          "v": 1,
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6539863881764834825",
+        "_score": 9.9877,
+        "_source": {
+          "archivedon": "2022-08-03 15:20:13.987421",
+          "channeltitle": "Chat AU Epoch Times",
+          "date": 1637114389,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 148,
+              "offset": 101,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1553024948
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637114386,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1553024948
+            },
+            "channel_post": 1866,
+            "saved_from_peer": {
+              "channel_id": 1553024948,
+              "reformatted_key": "PeerChannel"
+            },
+            "saved_from_msg_id": 1866
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Opinion by💭 Eric Louw                                                                               https://www.theepochtimes.com/how-msm-shaped-the-worlds-view-on-apartheid-and-mandela_4106553.html?utm_campaign=socialshare_telegram&utm_source=t.me",
+          "peerid": {
+            "channel_id": 1522680717,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 20785,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 250
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6670191361532102474",
+        "_score": 9.9877,
+        "_source": {
+          "archivedon": "2022-08-03 14:52:32.006506",
+          "channeltitle": "Epoch Times Australia",
+          "channelusername": "EpochTimesAU",
+          "date": 1637114386,
+          "editdate": 1637114389,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 148,
+              "offset": 101,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Opinion by💭 Eric Louw                                                                               https://www.theepochtimes.com/how-msm-shaped-the-worlds-view-on-apartheid-and-mandela_4106553.html?utm_campaign=socialshare_telegram&utm_source=t.me",
+          "peerid": {
+            "channel_id": 1553024948,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1522680717,
+            "replies_pts": 20785,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 250,
+          "channelabout": "Australian edition of the Epoch Times. An independent voice in print & online news. Integrity & truthfulness in reporting.\n\nhttps://www.theepochtimes.com/australia"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5454219891638816519",
+        "_score": 9.5296,
+        "_source": {
+          "archivedon": "2021-11-17 11:48:20.567293",
+          "channeltitle": "mRNA Death Toll",
+          "channelusername": "mrn_death",
+          "date": 1637148515,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 180,
+              "offset": 0
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "https://thecovidblog.com/2021/11/16/eric-turner-41-year-old-bodybuilder-hopes-ivermectin-weeds-out-idiots-suffers-coronary-artery-dissection-six-months-after-second-mrna-injection/",
+          "peerid": {
+            "channel_id": 1269909528,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "mikhail orlov",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 438
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5487843884929184516",
+        "_score": 9.1211,
+        "_source": {
+          "archivedon": "2022-12-01 23:37:53.041451",
+          "channeltitle": "Erwachen",
+          "channelusername": "luca_you_tube",
+          "date": 1637117564,
+          "editdate": 1637117567,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 380,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 42,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 129,
+              "offset": 380,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 129,
+              "offset": 380,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637116695,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1325174315
+            },
+            "channel_post": 72115,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Wir schicken Euch viel Kraft, Jungs ...\n\n\nFC BayernKimmich, Gnabry, Musiala und Choupo-Moting dürfen nicht mit ins Bayern-Hotel\n\n\"Aufgrund der 2G-Regel im Bundesland Bayern dürfen Joshua Kimmich, Serge Gnabry, Jamal Musiala und Eric Eric Maxim Choupo-Moting vor dem Augsburg-Spiel nicht mit ins Mannschaftshotel des Rekordmeisters. Alle Spieler sind bislang noch nicht geimpft.\"\n\nhttps://www.focus.de/sport/fc-bayern-kimmich-gnabry-musiala-und-choupo-moting-duerfen-nicht-mit-ins-bayern-hotel_id_24433929.html",
+          "peerid": {
+            "channel_id": 1277738224,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mike",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1489782039,
+            "replies_pts": 221627,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelabout": "Unsere Freiheit ist in Gefahr, wir werden belogen! \nDieser Kanal ist eine Ergänzung zur Playlist \"WACH AUF!\" auf YouTube: https://t1p.de/k9s0 Zum Chat: https://t.me/aufwachphase"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5354447101273185503",
+        "_score": 9.1211,
+        "_source": {
+          "archivedon": "2021-11-17 23:41:01.257477",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1637189711,
+          "editdate": 1637189715,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 168,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 168,
+              "offset": 170
+            },
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 4,
+              "offset": 386
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 407
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 422
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 442
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 19,
+              "offset": 461
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Rep. Lauren Boebert Goes Scorched Earth On Dems: \"The Jihad Squad member from MN\" and Rep. Eric Swalwell For \"Sleeping with (Chinese Spy Fang-Fang) the enemy!\" [VIDEO] \n\nhttps://www.thegatewaypundit.com/2021/11/rep-lauren-boebert-goes-scorched-earth-dems-jihad-squad-member-mn-rep-eric-swalwell-sleeping-chinese-spy-fang-fang-enemy-video/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1225920525,
+            "replies_pts": 366883,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 50,
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5691580344424274355",
+        "_score": 9.1211,
+        "_source": {
+          "archivedon": "2021-11-17 03:44:06.843896",
+          "channeltitle": "Eva Herman Offiziell",
+          "channelusername": "EvaHermanOffiziell",
+          "date": 1637116695,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 509,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 42,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 129,
+              "offset": 380
+            }
+          ],
+          "forwards": 23,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Wir schicken Euch viel Kraft, Jungs ...\n\n\nFC BayernKimmich, Gnabry, Musiala und Choupo-Moting dürfen nicht mit ins Bayern-Hotel\n\n\"Aufgrund der 2G-Regel im Bundesland Bayern dürfen Joshua Kimmich, Serge Gnabry, Jamal Musiala und Eric Eric Maxim Choupo-Moting vor dem Augsburg-Spiel nicht mit ins Mannschaftshotel des Rekordmeisters. Alle Spieler sind bislang noch nicht geimpft.\"\n\nhttps://www.focus.de/sport/fc-bayern-kimmich-gnabry-musiala-und-choupo-moting-duerfen-nicht-mit-ins-bayern-hotel_id_24433929.html",
+          "peerid": {
+            "channel_id": 1325174315,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1623,
+          "channelabout": "Offizieller Kanal von Eva Herman - Nur diese beiden Kanäle sind ein Projekt von uns: \n\nhttps://t.me/EvaHermanOffiziell\n\nhttps://t.me/FriedlicheHandtuchRevolution\n\nsowie bei YouTube und BitChute unter \"Eva Herman\""
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4972466879063944082",
+        "_score": 8.2381,
+        "_source": {
+          "archivedon": "2022-08-05 00:11:34.226884",
+          "channeltitle": "The Epoch Times",
+          "channelusername": "epochtimes",
+          "date": 1637112555,
+          "editdate": 1637112558,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://img.theepochtimes.com/assets/uploads/2021/11/16/20000908000019354637-original-1200x800.jpg"
+            },
+            {
+              "length": 56,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 59,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 140,
+              "offset": 80,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 222,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 22,
+              "offset": 249,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://subscribe.theepochtimes.com/p/?page=checkout-v5-03&plan_id=digitalonly_1usd_4_month_trial&cb_acc=theepochtimes&cf_plan_after_trial_ends=digitalonly_7_99_monthly&utm_medium=organic&utm_term=1for4&utm_source=telegram"
+            },
+            {
+              "length": 22,
+              "offset": 249,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "​How MSM Shaped the World’s View on Apartheid and Mandela\n\nBy: Eric Louw\n\nREAD: https://www.theepochtimes.com/how-msm-shaped-the-worlds-view-on-apartheid-and-mandela_4106553.html?utm_medium=epochtimes&utm_source=telegram\n\nThis is a premium article.\nSubscribe for $1 Today",
+          "peerid": {
+            "channel_id": 1157742664,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 786537,
+            "replies": 7,
+            "comments": true,
+            "channel_id": 1264301656,
+            "replies_pts": 1959369,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1650972440
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1122541483
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1539571052
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 9445,
+          "channelabout": "An independent, award-winning voice in print & online. Integrity & truthfulness in reporting. Email sign up: https://ept.ms/–Newsletters"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5782522656259777878",
+        "_score": 7.9379,
+        "_source": {
+          "archivedon": "2021-11-17 14:31:54.711533",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1637158145,
+          "editdate": 1637158148,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/XkoBqI6",
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1460944292478869507",
+              "length": 30,
+              "offset": 1
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 10,
+              "offset": 36
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 260
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": " The Associated Press (Twitter)\n\nRT @AP_Europe: A French far-right TV pundit who is expected to run for president is on trial in Paris for calling unaccompanied migrant children criminals. If convicted, it would be Eric Zemmour's third on hate speech charges. http://apne.ws/XkoBqI6",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 328074,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 19,
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5782522656259777829",
+        "_score": 7.6617,
+        "_source": {
+          "archivedon": "2021-11-17 12:24:04.853739",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1637150254,
+          "editdate": 1637150257,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/afp/status/1460925685539737604",
+              "length": 25,
+              "offset": 0
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "AFP news agency (Twitter)\n\nVIDEO: Eric Clapton's 1968 Martin D-45 acoustic guitar is the toast of this year's \"Icons & Idols: Rock 'N' Roll\" from Julien's Auctions, in which some 1,000 items once owned by music legends - from Kurt Cobain to Whitney Houston - will go under the hammer",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1202647908,
+            "replies_pts": 327958,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 9,
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6432984586971595880",
+        "_score": 6.7465,
+        "_source": {
+          "archivedon": "2022-03-05 19:03:45.600686",
+          "channeltitle": "JuliansRum Chat",
+          "channelusername": "juliansrumchat",
+          "date": 1637122294,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1593037038
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Imagine this scenario: kamala deepthroats an entire eggplant causing her to die of asphyxiation (by Covid). This would force hillary to have to arm wrestle the winner of Epstein vs McAfee. If Hillary wins, she would get a stone cold stunner from Steve austin, the lady from Brass Against would piss on her face resulting in Eric Cartman becoming the president. Is this true???!",
+          "peerid": {
+            "channel_id": 1497795942,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 81949
+          },
+          "silent": false,
+          "userinfo": {
+            "_id": 1593037038,
+            "_v": 1,
+            "access_hash": -7.62010898708701e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Randall",
+            "id": 1593037038,
+            "is_self": false,
+            "last_name": "McMurphy",
+            "min": false,
+            "mutual_contact": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "RPMcMurphy45",
+            "verified": false
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6278286681082693621",
+        "_score": 6.652,
+        "_source": {
+          "archivedon": "2021-11-17 11:30:24.40144",
+          "channeltitle": "Silberjunge Thorsten Schulte Offiziell",
+          "channelusername": "silberjungeoffiziell",
+          "date": 1637148238,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 76,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 27,
+              "offset": 418
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 131,
+              "offset": 447
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 65,
+              "offset": 586
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 129,
+              "offset": 910
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637148200,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1422165531
+            },
+            "channel_post": 1415,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "❗️❗️ Impfunwillige könnten bald sogar von der Polizei abgeholt werden.❗️❗️\n\nKein Tag vergeht ohne eine noch verrücktere Meldung: „Als letzter Schritt müsse auch eine Zwangsvollstreckung erwägt werden. Das bedeutet, dass jemand durch die Polizei dem Impfarzt vorgeführt wird“, wenn er sich einer Zwangsimpfung verweigert!\n\nStück für Stück werden die Weichen weiter in Richtung Hygienediktatur gestellt. \n\n👉Mein Kanal: @silberjungethorstenschulte\n\nhttps://www.rnd.de/politik/impfpflicht-werden-ungeimpfte-bald-von-der-polizei-zum-impfarzt-gebracht-EWFGYQMUEFBXPAQZM5WQTK6ZUM.html\n\n👉👉👉Für mich sind die vier Spieler von Bayern München ein Vorbild. \n\n❗️❗️„Aufgrund der 2G-Regel im Bundesland Bayern dürfen Joshua Kimmich, Serge Gnabry, Jamal Musiala und Eric Eric Maxim Choupo-Moting vor dem Augsburg-Spiel nicht mit ins Mannschaftshotel des Rekordmeisters. Alle Spieler sind bislang noch nicht geimpft.“❗️❗️\n\nhttps://www.focus.de/sport/fc-bayern-kimmich-gnabry-musiala-und-choupo-moting-duerfen-nicht-mit-ins-bayern-hotel_id_24433929.html",
+          "peerid": {
+            "channel_id": 1461777529,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 646,
+          "channelabout": "Der offizielle Kanal von Thorsten Schulte!\nAlles zum Buch: www.fremdbestimmt.com\nYouTube-Kanal: Silberjunge\nFacebook: Silberjunge\nSilberbulletin von Thorsten Schulte 40x im Jahr: https://silberjunge.de/\nKonjunkturCockpit: http://www.unternehmerbriefing.de"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5095506928906287933",
+        "_score": 5.2774,
+        "_source": {
+          "archivedon": "2021-11-17 16:08:33.389173",
+          "channeltitle": "Quest for Truth",
+          "channelusername": "Denimmerica",
+          "date": 1637164942,
+          "editdate": 1637164945,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 20,
+              "offset": 642
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1618342984,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1327519844
+            },
+            "channel_post": 1152,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "[Wheels up] Scavino Tweets to Palm Beach, FL today\n\nVideo length is 0:04\nFive White Airplane Gifs\n 4+5 = Qp 9\n\nRather dasting coincidences\nMorse Code [.  ...] = ES\nAs the darkness falls so does our enemies.\nGrammar kitty?\nYes, 'DO' instead of 'DOES'\n[ES] misspell\nES = Eric Shmidt - GOOG!!!\n\nWho created Google (GOOG, alphabet)?\nCIA\nFun Fact: Who formed the Asia Foundation (AF sponsored mVote App which help run the Myanmar election)?\nCIA\n\nMyanmar sounds like Mirror-Mar\nMirror = Reflection\nMar = Sea in spanish (Watch the Water)\n\nDouble meanings exist.\nmVOTE rather similar to mRNA.\nResearch PopStack and StackPop\nErasing of meta data? 🤔\n\n@FreeTheWillPatriots",
+          "peerid": {
+            "channel_id": 1186390158,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Scott B",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1448158720,
+            "replies_pts": 35372,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelabout": "https://linktr.ee/PatriotMap \nAwakened Patriot \nNewbies Welcome"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5031147715854228312",
+        "_score": 4.7512,
+        "_source": {
+          "archivedon": "2021-11-17 15:03:24.252623",
+          "channeltitle": "The White Rabbit 🐇",
+          "channelusername": "thewhiterabbitnews",
+          "date": 1637160707,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.dailymail.co.uk/news/article-10190247/BLM-activists-threaten-riots-bloodshed-Eric-Adams-reinstates-NYPDs-anti-crime-units.html",
+              "length": 243,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 16,
+              "offset": 1516
+            }
+          ],
+          "forwards": 6,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1511684658
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637158640,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1168815860
+            },
+            "channel_post": 28475,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "**NYC Mayor-elect Eric Adams brushes off BLM threat to 'riot' and cause 'bloodshed' if he deploys plainclothes anti-crime unit: Doubles down on vow to send NYPD cops to crime-ridden areas and says 'this is my promise and I'm going to do it' \n\n**BLM leaders, including co-founder Hawk Newsome, got into a shouting match with NYC Mayor-elect Eric Adams during a closed-door sit-down on Wednesday\nAdams has pledged to reinstate the NYPD's anti-crime units, about 600 plainclothes officers that fight violent crime \nNewsome threatened 'riots' and 'bloodshed' if the units are brought back\n'We will shut the city down. We will shut down City Hall, and we will give him hell and make it a nightmare,' Chivona Newsome, Hawk's sister, said \nBut Adams hit back, saying BLM also needs to be held accountable and not just make demands\n'You're on the ground: Stop the violence in my community. I'm holding you accountable,' mayor-elect said, adding: 'You need to be corrected' \nNewsome later called Adams 'tone deaf' and said 'no way that he is going to let some Gestapo come in here and harm our people'   \nShootings soared across the city last summer after Mayor Bill de Blasio did away with the plainclothes unit in June 2020 after outpour of anti-police sentiment \nCrime has skyrocketed in NYC, with total crime up 2.6% in September 2021 compared to September 2020\nAs recently as Wednesday morning, a 62-year-old man was brutally attacked by a group of teens near Times Square, slashed in the face and stabbed in the neck\n \n@RedPillPharmacy 💊",
+          "peerid": {
+            "channel_id": 1171405361,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 187740,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 619,
+          "channelabout": "Were here together to reveal truth\n\nAlso check out https://linktr.ee/PatriotMap\n\nIncludes links to verified content providers and seeker patriots. 🇺🇲🇺🇲🐇"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6187891440706772089",
+        "_score": 4.5511,
+        "_source": {
+          "archivedon": "2021-11-17 02:55:05.577493",
+          "channeltitle": "Donald’s Nightshift (Aust NZ)",
+          "channelusername": "TheDonsNightShift",
+          "date": 1637116171,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityHashtag",
+              "length": 21,
+              "offset": 492
+            }
+          ],
+          "forwards": 419,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1638216136
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1615614041,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1259066690
+            },
+            "channel_post": 1624,
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.30969293724454e+16,
+          "media": {
+            "webpage": {}
+          },
+          "message": "The Cures Are About the Sherman Murders!\nThe Shermans owned Apotex, a\nPharmaceutical company!\nThey developed a CHEAP Cure to a \"Future Virus\"\nThe Murders were in 2017, but the virus in 2020!\nThey Knew!\nThey All Knew!\n\nWhat If they Already Have the Cures!\nCures for Cancer!\nCures for AIDS!\nThey have Hidden SO Much From us!!\n\nWhy are they against HydroxychlorQuine?\n\nApotex was manufacturing a Generic equivalent, \nWhich is what happens when the Original Patent Expires!\n** \"Affordable Cure\" \n#CanadasCrimeMinister Knows!\n\nAnd Canada's Court System needs cleaning!\n\nWho covered up the Murders?\njt\nJohn Tory\nK Wynne!\nRCMP Commissioner, Hired by The Turd himself, \nBrenda Lucki, also related to \nBill Morneau....\nPolice Chief, Eric Jolliffe\nLawyer, Jason Fraser\nand More!\n\nJudges, Lawyers and Dirty Cops all Funded with YOUR money and \nCovering Up Evidence!\n\nGetting Away with Murder with YOUR $$ Help!",
+          "peerid": {
+            "channel_id": 1440730747,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 153476,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 16859,
+          "channelabout": "Australia & New Zealand group to share & chat about Q, current events and theories. \nViolence will not be tolerated - this is a PEACEFUL LAW-ABIDING Group- \nSPAM and double-ups removed.  No doomers!\nLets keep the feed clean and enjoyable for all. WWG1WGA"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6094192163594958200",
+        "_score": 4.5511,
+        "_source": {
+          "archivedon": "2021-11-17 21:58:02.249994",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1637182510,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 124,
+              "offset": 894
+            }
+          ],
+          "forwards": 4609,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1534570092
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1616537311,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1327519844
+            },
+            "channel_post": 935,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Ghislaine Maxwell’s secret ‘husband’ is CEO of worldwide SHIPPING [HUMAN TRAFFICKING] company\n\n“Scott Borgerson, the CEO of a tech company called CargoMetrics, has been tied since last year to Jeffrey Epstein’s alleged madam Ghislaine Maxwell, who authorities arrested in early July.”\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial backing from private-equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer, and Maersk Tankers.\n\nThe Pentagon Pedophile Task Force (working under Joint Special Operations Command) discovered actionable evidence  (turned over to the DoD) that showed the coordination of world-wide human trafficking has been expanded to a massive database that includes every conceivable factor of a human life (e.g. bloodline, DNA, genetics) including medical records.\n\nhttps://timothycharlesholmseth.com/ghislaine-maxwells-secret-husband-is-ceo-of-worldwide-shipping-human-trafficking-company/",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 783743,
+            "replies": 1,
+            "comments": false,
+            "replies_pts": 1060344,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 259885,
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6276503578165229658",
+        "_score": 4.5511,
+        "_source": {
+          "archivedon": "2021-11-17 19:27:02.870574",
+          "channeltitle": "🇺🇸 Freedom Force News 🇺🇸",
+          "channelusername": "FreedomForceNews",
+          "date": 1637174384,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 124,
+              "offset": 894
+            }
+          ],
+          "forwards": 4443,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1575986041
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1616537311,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1327519844
+            },
+            "channel_post": 935,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Ghislaine Maxwell’s secret ‘husband’ is CEO of worldwide SHIPPING [HUMAN TRAFFICKING] company\n\n“Scott Borgerson, the CEO of a tech company called CargoMetrics, has been tied since last year to Jeffrey Epstein’s alleged madam Ghislaine Maxwell, who authorities arrested in early July.”\n\nCargoMetrics Technologies, a Boston-based quantitative hedge fund that has secured financial backing from private-equity giant Blackstone, investor Paul Tudor Jones, Google founder Eric Schmidt, Israeli shipping magnate Idan Ofer, and Maersk Tankers.\n\nThe Pentagon Pedophile Task Force (working under Joint Special Operations Command) discovered actionable evidence  (turned over to the DoD) that showed the coordination of world-wide human trafficking has been expanded to a massive database that includes every conceivable factor of a human life (e.g. bloodline, DNA, genetics) including medical records.\n\nhttps://timothycharlesholmseth.com/ghislaine-maxwells-secret-husband-is-ceo-of-worldwide-shipping-human-trafficking-company/",
+          "peerid": {
+            "channel_id": 1461362368,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 163438,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 249632,
+          "channelabout": "https://linktr.ee/PatriotMap\n\nPatriot intelligence group."
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5512790858870559127",
+        "_score": 4.2732,
+        "_source": {
+          "archivedon": "2021-11-17 17:45:09.978827",
+          "channeltitle": "better (k)now",
+          "channelusername": "betterknownow",
+          "date": 1637167321,
+          "editdate": 1637167324,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 101,
+              "offset": 938
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "Hoffentlich hält er dem Druck stand. Kann mir vorstellen, dass das große Symbolwirkung hätte, sollte er jetzt bald umfallen:\n\n«Weiter Ärger für Joshua Kimmich und drei weitere Bayern-Stars. Zwar durfte der Mittelfeldspieler von Bayern München mittlerweile die Quarantäne verlassen, doch sein Impf-Status erlaubt es ihm und seinen Mitspielern Serge Gnabry, Jamal Musiala und Eric Maxim Choupo-Moting laut \"Bild\"-Zeitung nicht, vor dem Spiel beim FC Augsburg gemeinsam mit dem restlichen Team das Mannschafts-Hotel zu beziehen. \n[...] \nJedoch brachte Bayern Ministerpräsident Markus Söder bereits am Montag im Gespräch mit ntv eine Impfpflicht für Sportler ins Spiel. \"Macht es Sinn, mit diesen Zuschauerzahlen zu operieren und gleichzeitig Spieler zu haben, die sich bislang weigern, sich impfen zu lassen?\", fragte der 54-Jährige und fügte hinzu: \"Wir brauchen eine Impfpflicht für Sportler, wenn die Zuschauer das entsprechend haben.\"»\n\nhttps://www.n-tv.de/sport/fussball/Ungeimpfter-Kimmich-darf-nicht-ins-Team-Hotel-article22935723.html",
+          "peerid": {
+            "channel_id": 1283546644,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 817,
+            "replies": 2,
+            "comments": true,
+            "channel_id": 1733756526,
+            "replies_pts": 1158,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 19695163
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1141635831
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 392,
+          "channelabout": "Im Informationszeitalter ist geschichtliche & politische Ignoranz eine Entscheidung.\n\nKontakt: @Bkn_as_bot\n\nWenn du mich und meine Arbeit unterstützen möchtest:\npaypal.me/betterknownow\n\nExpresszeitung: https://shop.expresszeitung.com?atid=409"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5235557432947717689",
+        "_score": 4.2732,
+        "_source": {
+          "archivedon": "2021-11-17 19:41:52.183462",
+          "channeltitle": "Oliver Janich öffentlich",
+          "channelusername": "oliverjanich",
+          "date": 1637176628,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 132,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 75,
+              "offset": 135
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 76,
+              "offset": 213
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 22,
+              "offset": 320,
+              "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-augsburg-bundesliga-2g-regel-corona-joshua-kimmich-vorbereitung-teamhotel-91120728.html"
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 22,
+              "offset": 320
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 13,
+              "offset": 801,
+              "url": "https://www.tz.de/reise/urlaub-in-deutschland-corona-regeln-bundeslaender-3g-2g-zutritt-zr-91112466.html"
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 13,
+              "offset": 801
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "https://www.tz.de/sport/fc-bayern/fc-bayern-joshua-kimmich-fc-augsburg-corona-infektion-hotel-regelung-zugang-training-91122794.html\n\n„Wende bei Kimmich - Bayern-Star profitiert von Regeländerung im Freistaat.“\n\n„FC Bayern: Kimmich darf nun doch ins Augsburger Hotel zur Teambesprechung.\n\nDas bedeutet im Klartext, dass der ungeimpfte Kimmich vor dem Spiel in Augsburg nun doch zur Teambesprechung mit ins Mannschafshotel „Maximilian’s“ darf, weil er seinem Job nachgeht. \n\nDort wird die Mannschaft gegen Mittag erwartet, ehe sie sich um 18.45 Uhr auf den Weg in die WWK-Arena macht. \n\nEinzige Voraussetzung für ungeimpfte Spieler, um Zugang zum Hotel zu erhalten: Sie müssen einen negativen PCR-Test vorzeigen, der nicht älter als 72 Stunden sein darf.\n\nUnd wer profitiert neben Kimmich noch von der 3G-Plus-Regel? \nNach dem positiven Corona-Test von Süle nach der Ankunft bei der deutschen Nationalmannschaft am 8. November in Wolfsburg mussten neben Kimmich auch Serge Gnabry, Jamal Musiala und Eric Maxim Choupo-Moting in Quarantäne.“",
+          "peerid": {
+            "channel_id": 1218998207,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6002,
+          "channelabout": "Dies ist der öffentliche, kostenlose Kanal von Oliver Janich. Unterstützung und exklusive Inhalte über Premium-Abo: https://t.me/JanichSupport_Bot | Nur meine Videos: https://t.me/OliverJanichtopnews | Webseite: https://www.oliverjanich.de"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6362722186184124353",
+        "_score": 4.2732,
+        "_source": {
+          "archivedon": "2021-11-17 08:33:01.756126",
+          "channeltitle": "Remember 2020",
+          "channelusername": "wrmbr",
+          "date": 1637137689,
+          "editdate": 1637137692,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBotCommand",
+              "length": 10,
+              "offset": 680
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 39,
+              "offset": 922
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637098294,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1533643663
+            },
+            "channel_post": 462,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "🚨🚨🚨✅ HOW TO FIGHT AN EMPLOYER’S BREACH OF CONTRACT AKA “BIOWEAPON MANDATE” \n\nDon’t take the Bioweapon. Stay clean and healthy. Find everyone who doesn’t want to live in this level of tyranny and contact an employer, constitutional or human rights attorney.\n\nNow more than ever we must secure the rights of future generations. The past generations were not fully awake like we are now. We must all do our part to protect one another legally and peacefully. \n\nDo not wait for them war to come to you. By then you’ll be outnumbered. Right now there’s more of us then there is of them. \n\nAnd while you are at it, with all these floods everywhere and earthquakes. Head on to our 5G /Emergency preparedness channel to learn how to self sustain outside the “system” \n\nKeep preaching the Gospel and gathering His children until Our Savior returns 💕\n\nBtw, famous lawyer Eric Bauer from Seattle. May be a good place to start. \n\nhttps://t.me/provenremediesandcures/344",
+          "peerid": {
+            "channel_id": 1481436702,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Ann LeFlore",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1253316188,
+            "replies_pts": 44682,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1,
+          "channelabout": "Never Forget 2020 - We can never allow our governments to control us again and forget all the children they killed.  https://linktr.ee/PatriotMap"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6469727997829054761",
+        "_score": 3.6509,
+        "_source": {
+          "archivedon": "2022-06-27 00:26:07.093612",
+          "channeltitle": "Jan 6th Capital Insurrection Chat",
+          "date": 1637180475,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 9,
+              "offset": 0,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 49,
+              "offset": 250,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 109,
+              "offset": 430,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 44,
+              "offset": 588,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 54,
+              "offset": 660,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 934,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 1207,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 1302,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 30,
+              "offset": 1331,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 51,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1681375249
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637175026,
+            "from_id": {},
+            "from_name": "Garro@ Clean Energy Disruption",
+            "saved_from_peer": {
+              "channel_id": 1681375249,
+              "reformatted_key": "PeerChannel"
+            },
+            "saved_from_msg_id": 216
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "#FreeJake   Jake is not Antifa & his Norse 'Valknut' symbol Tattoo is usually linked to the god Odin and may refer to the glory of death in balttle (Tribute to fallen soldiers).  Jake is a DIA Super Soldier... YellowstoneWolfAZ Exposing The Cabal    https://rumble.com/vccfwt-exposing-the-cabal.html\n\nAlice Kennedy is bringing Erik Prince's role in the greatest military intelligence operation of all time out from the shadows.   https://hive.blog/qanon/@mikemullens/to-kill-mockingbird-viral-viking-guy-his-sister-and-eric-prince-emerging \n\nInterview with Q SHAMAN prior to his arrest   https://www.bitchute.com/video/mswwonkxhp6g/\n\nThe New Heaven On Earth   https://rumble.com/vcc263-the-new-heaven-on-earth.html\n\nAustin & Jake are 'White Hat' DIA agents and were both wrongfully imprisoned. I took the time to backtrack all of Austin's posts on FB & Twitter just like Ben Fathere did... Have you taken the time to review this yet? https://youtu.be/kSD7JknVCcs -  Ben Fathere\nCoincidences showing Austin's claims are not as far-fetched as most are led to believe...    Who is Q?: Austin Steinbart, agent for the DIA.\n\nAustin Steinbart gives his first interview with the Boys from Baby Q Plus in Australia\nhttps://youtu.be/Hq9cZ78iocM\n\nAustin Steinbart Interviewed by Will Sommer of The Daily Beast   https://youtu.be/TLDT1uuLghk\nhttps://wakefromyoursleep.com/",
+          "peerid": {
+            "channel_id": 1506350934,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 1781,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 6898,
+          "channelabout": "Polite free thought discussions"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4983146010302935854",
+        "_score": 2.1373,
+        "_source": {
+          "archivedon": "2021-11-17 21:31:15.543778",
+          "channeltitle": "BLACKLIST of CABALS",
+          "channelusername": "the_fall_of_the_Cabal",
+          "date": 1637183996,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 24,
+              "offset": 4071
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637183892,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1471438349
+            },
+            "post_author": "Q-chapter Turkey",
+            "channel_post": 33016,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️\nDas WEF und \ndie Pandemie\n⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️\n\nWie ist das Weltwirtschaftsforum Davos in die Coronavirus-Pandemie eingebunden?\n\nDas Davos World Economic Forum (WEF) ist ein führendes Forum für Regierungen, globale Konzerne und internationale Unternehmer. 1971 vom Ingenieur und Ökonomen Klaus Schwab gegründet, beschreibt das WEF seine Mission als „Gestaltung globaler, regionaler und industrieller Agenden“ und „Verbesserung des Zustands der Welt“. Laut seiner Website steht „moralische und intellektuelle Integrität im Mittelpunkt all dessen, was es tut“.\n\nDas WEF hat sich in mehrfacher Hinsicht in die Coronavirus-Pandemie eingebracht.\n\nErstens war das WEF zusammen mit der Gates Foundation Sponsor der vorausschauenden Coronavirus-Pandemie-Simulationsübung „Event 201“ , die am 18. Oktober 2019 in New York City stattfand – am selben Tag wie die Eröffnung der Wuhan Military World Games. von einigen als „Ground Zero“ der globalen Pandemie angesehen. China selbst hat argumentiert, dass US-Militärsportler das Virus möglicherweise nach Wuhan gebracht haben.\n\nZweitens ist das WEF ein führender Befürworter digitaler biometrischer Identitätssysteme und argumentiert, dass sie Gesellschaften und Industrien effizienter, produktiver und sicherer machen werden. Im Juli 2019 startete das WEF ein Projekt zur „Gestaltung der Zukunft des Reisens mit biometrisch gestütztem digitalem Traveller Identity Management“. Darüber hinaus ist die WEF kooperieren mit der ID2020 Allianz, die von den Gates und Rockefeller Stiftungen finanziert und betreibt ein Programm zu „liefert digitale ID mit Impfstoffen“.\n\nInsbesondere die Impfung von Kindern sieht ID2020 als „Einstiegspunkt für die digitale Identität“.\n\nDrittens ist WEF-Gründer Klaus Schwab Autor des im Juli 2020 erschienenen Buches COVID-19: The Great Reset , in dem argumentiert wird, dass die Coronavirus-Pandemie für einen „wirtschaftlichen, gesellschaftlichen, geopolitischen, ökologischen und technologischen Reset“ genutzt werden kann und sollte. , darunter insbesondere die Förderung der Global Governance, die Beschleunigung der digitalen Transformation und die Bekämpfung des Klimawandels.\n\nSchließlich führt das WEF seit 1993 ein Programm namens „Global Leaders for Tomorrow“ durch, das 2004 in „Young Global Leaders“ umbenannt wurde . Dieses Programm zielt darauf ab, zukünftige globale Führungskräfte in Wirtschaft und Politik zu identifizieren, auszuwählen und zu fördern. Tatsächlich haben es einige „Young Global Leaders“ später geschafft, Präsidenten, Premierminister oder CEOs zu werden (siehe unten).\n\nWährend der Coronavirus-Pandemie haben mehrere WEF Global Leaders und Global Shapers (ein Junior-Programm der Global Leaders) eine herausragende Rolle gespielt und in der Regel Zero-Covid-Strategien, Sperren, Maskenpflichten und „Impfstoffpässe“ gefördert. Dies kann ein (weitgehend gescheiterter) Versuch gewesen sein, die öffentliche Gesundheit und die Wirtschaft zu schützen, oder es könnte ein Versuch gewesen sein, die oben skizzierte globale Transformationsagenda voranzutreiben, oder vielleicht beides.\n\nIn dieser Hinsicht sind einige bemerkenswerte Young Leaders Jeffrey Zients (Coronavirus Response Coordinator des Weißen Hauses)\n\n, Stéphane Bancel (CEO von Moderna), Jeremy Howard (Gründer der einflussreichen Lobbygruppe „Masks for All“), Leana Wen (zero-covid CNN medizinischer Analyst), Eric Feigl-Ding (Zero-Covid-Twitter-Persönlichkeit), Gavin Newsom (Gouverneur von Kalifornien, gewählt im Jahr 2005), Devi Sridhar (britische Zero-Covid-Professorin), Jacinda Ardern (Premierminister von Neuseeland), Greg Hunt(australischer Gesundheitsminister und ehemaliger Strategiedirektor des WEF), der französische\nPräsident Emanuel Macron (ein Jahr vor seiner Wahl 2017 gewählt), der österreichische Bundeskanzler Sebastian Kurz, die deutsche Bundeskanzlerin Angela Merkel (bereits 1993 gewählt), der deutsche Gesundheitsminister Jens Spahn und ehemaliger britischer Premierminister Tony Blair (ein führender Befürworter von „globalen Impfpässen“).\n⭐️ ⭐\nQ-chapter Turkey\n\n@INTERNATIONALCORONANEWS",
+          "peerid": {
+            "channel_id": 1160229093,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "postauthor": "Handy",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 234744,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 257,
+          "channelabout": "It's not over until we say it's over!"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6570927700884587369",
+        "_score": 2.0257,
+        "_source": {
+          "archivedon": "2022-02-14 01:36:18.551959",
+          "channeltitle": "Official Iron City Proud Boys",
+          "channelusername": "officialNashboys",
+          "date": 1637152412,
+          "editdate": 1637152415,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 79,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 124,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 147,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 25,
+              "offset": 497,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 847,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 29,
+              "offset": 942,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://%F0%9F%91%89attorney.general@alaska.gov/"
+            },
+            {
+              "length": 18,
+              "offset": 973,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 993,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 1021,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 17,
+              "offset": 1049,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 1162,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 12,
+              "offset": 1180,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 27,
+              "offset": 1201,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 18,
+              "offset": 1479,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 2472,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 17,
+              "offset": 2648,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 2882,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 3648,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 31,
+              "offset": 3843,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637118430,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409156722
+            },
+            "channel_post": 897,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "11/17/21\n\nMike Lindell invites J6 Families and our Patriot POWs to join him on FrankSpeech.com\n\nPlease respond to this post @thePrisonersRecord or @EOJ2020 and we can organize and get your stories out to the world.\n\nMike Lindell is a hero and a great patriot fighting for election integrity and for our Political Prisoners held hostage in America's heartland.\n\nThe globalists cancelled Mike's business.  Please support Mike and sleep well when you get jammies and pillows for a good night's rest: https://www.mypillow.com/\n\nLastly, today and for the next 8 days, please support his work by contacting your State's Attorney General and demanding that they stand with Mike and his Supreme Court Lawsuit next week!  Mike wants to present bullet proof evidence to the Supreme Court on our behalf and we need our AGs to stand with Mike.  All of them!\n\nLastly, call and email these Republican AGs.  We will also have Democrat AGs in another post.\n\n👉attorney.general@alaska.gov, oag@ArkansasAG.gov, attorneygeneral@doj.nh.gov, attorneygeneral@doj.nh.gov, contactdoj@mt.gov, \n\nAttorney General Treg R. Taylor  \n1031 West 4th Avenue, Suite 200 Anchorage, AK 99501 \ntel: 907-269-5100 fax: 907-276-3697 \nemail: attorney.general@alaska.gov\n\nSteve Marshall 501 Washington Ave, Montgomery, AL 36104, United States\n\nArizona Attorney General Mark Brnovich  2005 N Central Ave   2005 N Central Ave, Phoenix, AZ 85004-2926, United States\n\nLeslie Carol Rutledge \n(501) 682-2007 or (800) 482-8982 \noag@ArkansasAG.gov    \n323 Center Street, Suite 200  Little Rock, AR 72201\n\nAshley Moody Office of the Attorney General State of Florida PL-01 The Capitol Tallahassee, FL 32399-1050\n\nChristopher M. Carr 40 Capitol Square, SW Atlanta, GA 30334\n\nLAWRENCE G. WASDEN Office of the Attorney General 700 W. Jefferson Street, Suite 210 P.O. Box 83720 Boise, Idaho 83720-0010\n\nTodd Rokita \nIndiana Government Center South 302 W. Washington St., \n5th Floor Indianapolis, IN 46204 \nPhone: (317) 232-6201 Fax: (317) 232-7979\n\nDerek Schmidt 615 E 13th St, Kansas City, MO 64106, United States\n\nDaniel Cameron  1024 Capital Center Dr, Unit 200, Frankfort, KY 40601, United States\n\nJeff Landry Louisiana Department of Justice  P.O. Box 94005 Baton Rouge, LA 70804-9005 \nPhone: (800) 351-4889 Fax: (225) 326-6499\n\nLynn Fitch 550 High St, Unit 1200, Jackson, MS 39202, United States\n\nEric Schmitt Missouri Attorney General's Office Supreme Court Building 207 W. High St. P.O. Box 899 Jefferson City, MO 65102 573-751-3321\n\nAustin Knudsen Office of the Attorney General Justice Building, Third Floor 215 North Sanders P.O. Box 201401 Helena, MT 59620-1401 Phone: (406) 444-2026 E-mail: contactdoj@mt.gov\n\nDoug Peterson Nebraska Attorney General's Office 2115 State Capitol PO Box 98920 Lincoln, NE 68509\n\nJohn M. Formella  NH Department of Justice 33 Capitol Street Concord, NH 03301 (603) 271-3658 Fax: (603) 271-2110  attorneygeneral@doj.nh.gov\n\nWayne Stenehjem Office of Attorney General 600 East Boulevard Avenue, Department 125  Bismarck, ND 58505-0040\n\nDave Yost 30 E. Broad St., 14th Floor Columbus, OH 43215\n\nJohn M. O'Connor Oklahoma Attorney General   313 NE 21st Street   Oklahoma City, OK 73105\n\nAlan Wilson P.O. Box 11549 Columbia, S.C. 29211\n\nJason R. Ravnsborg Office of the Attorney General 1302 E Hwy 14 Suite 1 Pierre SD 57501-8501\n\nHerbert H. Slatery III P.O. Box 20207 Nashville, TN 37202\n\nKen Paxton Office of the Attorney General 300 W. 15th Street Austin, TX 78701\n\nSean Reyes Office of the Attorney General  Utah State Capitol Complex  350 North State Street Suite 230   SLC UT 84114-2320\n\nBridget Hill Pioneer Building 2424 Pioneer Avenue Cheyenne, WY  82002  \n307-777-7893    FAX (307) 777-7595\n\nPatrick Morrisey State Capitol Complex, Bldg. 1, Room E-26 Charleston, WV 25305 Phone: 304-558-2021 Fax: 304-558-0140\n\nCONTACT ALL 26. Only 9 days left.\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1529913326,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 39,
+          "channelabout": "Middle Tennessee Proud Boys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6052282035928564609",
+        "_score": 2.0257,
+        "_source": {
+          "archivedon": "1681290685",
+          "channeltitle": "The Prisoner's Record",
+          "channelusername": "ThePrisonersRecord",
+          "date": 1637118430,
+          "editdate": 1647104742,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 79,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 124,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 147,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 25,
+              "offset": 497,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 847,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 29,
+              "offset": 942,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://%F0%9F%91%89attorney.general@alaska.gov/"
+            },
+            {
+              "length": 18,
+              "offset": 973,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 993,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 1021,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 17,
+              "offset": 1049,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 1162,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 12,
+              "offset": 1180,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 27,
+              "offset": 1201,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 18,
+              "offset": 1479,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 2472,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 17,
+              "offset": 2648,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 2882,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 3648,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 31,
+              "offset": 3843,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 94,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "id": 7.30695472676566e+18,
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "11/17/21\n\nMike Lindell invites J6 Families and our Patriot POWs to join him on FrankSpeech.com\n\nPlease respond to this post @thePrisonersRecord or @EOJ2020 and we can organize and get your stories out to the world.\n\nMike Lindell is a hero and a great patriot fighting for election integrity and for our Political Prisoners held hostage in America's heartland.\n\nThe globalists cancelled Mike's business.  Please support Mike and sleep well when you get jammies and pillows for a good night's rest: https://www.mypillow.com/\n\nLastly, today and for the next 8 days, please support his work by contacting your State's Attorney General and demanding that they stand with Mike and his Supreme Court Lawsuit next week!  Mike wants to present bullet proof evidence to the Supreme Court on our behalf and we need our AGs to stand with Mike.  All of them!\n\nLastly, call and email these Republican AGs.  We will also have Democrat AGs in another post.\n\n👉attorney.general@alaska.gov, oag@ArkansasAG.gov, attorneygeneral@doj.nh.gov, attorneygeneral@doj.nh.gov, contactdoj@mt.gov, \n\nAttorney General Treg R. Taylor  \n1031 West 4th Avenue, Suite 200 Anchorage, AK 99501 \ntel: 907-269-5100 fax: 907-276-3697 \nemail: attorney.general@alaska.gov\n\nSteve Marshall 501 Washington Ave, Montgomery, AL 36104, United States\n\nArizona Attorney General Mark Brnovich  2005 N Central Ave   2005 N Central Ave, Phoenix, AZ 85004-2926, United States\n\nLeslie Carol Rutledge \n(501) 682-2007 or (800) 482-8982 \noag@ArkansasAG.gov    \n323 Center Street, Suite 200  Little Rock, AR 72201\n\nAshley Moody Office of the Attorney General State of Florida PL-01 The Capitol Tallahassee, FL 32399-1050\n\nChristopher M. Carr 40 Capitol Square, SW Atlanta, GA 30334\n\nLAWRENCE G. WASDEN Office of the Attorney General 700 W. Jefferson Street, Suite 210 P.O. Box 83720 Boise, Idaho 83720-0010\n\nTodd Rokita \nIndiana Government Center South 302 W. Washington St., \n5th Floor Indianapolis, IN 46204 \nPhone: (317) 232-6201 Fax: (317) 232-7979\n\nDerek Schmidt 615 E 13th St, Kansas City, MO 64106, United States\n\nDaniel Cameron  1024 Capital Center Dr, Unit 200, Frankfort, KY 40601, United States\n\nJeff Landry Louisiana Department of Justice  P.O. Box 94005 Baton Rouge, LA 70804-9005 \nPhone: (800) 351-4889 Fax: (225) 326-6499\n\nLynn Fitch 550 High St, Unit 1200, Jackson, MS 39202, United States\n\nEric Schmitt Missouri Attorney General's Office Supreme Court Building 207 W. High St. P.O. Box 899 Jefferson City, MO 65102 573-751-3321\n\nAustin Knudsen Office of the Attorney General Justice Building, Third Floor 215 North Sanders P.O. Box 201401 Helena, MT 59620-1401 Phone: (406) 444-2026 E-mail: contactdoj@mt.gov\n\nDoug Peterson Nebraska Attorney General's Office 2115 State Capitol PO Box 98920 Lincoln, NE 68509\n\nJohn M. Formella  NH Department of Justice 33 Capitol Street Concord, NH 03301 (603) 271-3658 Fax: (603) 271-2110  attorneygeneral@doj.nh.gov\n\nWayne Stenehjem Office of Attorney General 600 East Boulevard Avenue, Department 125  Bismarck, ND 58505-0040\n\nDave Yost 30 E. Broad St., 14th Floor Columbus, OH 43215\n\nJohn M. O'Connor Oklahoma Attorney General   313 NE 21st Street   Oklahoma City, OK 73105\n\nAlan Wilson P.O. Box 11549 Columbia, S.C. 29211\n\nJason R. Ravnsborg Office of the Attorney General 1302 E Hwy 14 Suite 1 Pierre SD 57501-8501\n\nHerbert H. Slatery III P.O. Box 20207 Nashville, TN 37202\n\nKen Paxton Office of the Attorney General 300 W. 15th Street Austin, TX 78701\n\nSean Reyes Office of the Attorney General  Utah State Capitol Complex  350 North State Street Suite 230   SLC UT 84114-2320\n\nBridget Hill Pioneer Building 2424 Pioneer Avenue Cheyenne, WY  82002  \n307-777-7893    FAX (307) 777-7595\n\nPatrick Morrisey State Capitol Complex, Bldg. 1, Room E-26 Charleston, WV 25305 Phone: 304-558-2021 Fax: 304-558-0140\n\nCONTACT ALL 26. Only 9 days left.\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1409156722,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 777,
+            "replies_pts": 0,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 11497,
+          "channelabout": "The Professor's Record fights for the rights of J6 political prisoners to be free!  Stand with all January 6th, 2021 political prisoners and their families.  Resist tyranny & win back their freedom!",
+          "id": 897,
+          "noforwards": false,
+          "lastseents": "2023-04-12T09:11:25.626819"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6462698025423733104",
+        "_score": 2.0257,
+        "_source": {
+          "archivedon": "1682229880",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1637119457,
+          "editdate": 1637119461,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 79,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 19,
+              "offset": 124,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 8,
+              "offset": 147,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 25,
+              "offset": 497,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 43,
+              "offset": 847,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 29,
+              "offset": 942,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://%F0%9F%91%89attorney.general@alaska.gov/"
+            },
+            {
+              "length": 18,
+              "offset": 973,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 993,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 1021,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 17,
+              "offset": 1049,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 1162,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 12,
+              "offset": 1180,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 27,
+              "offset": 1201,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 18,
+              "offset": 1479,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 2472,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 17,
+              "offset": 2648,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 26,
+              "offset": 2882,
+              "reformatted_key": "MessageEntityEmail"
+            },
+            {
+              "length": 12,
+              "offset": 3648,
+              "reformatted_key": "MessageEntityPhone"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 35,
+              "offset": 3803,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 31,
+              "offset": 3843,
+              "reformatted_key": "MessageEntityCode"
+            }
+          ],
+          "forwards": 14,
+          "fromid": {},
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637118430,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409156722
+            },
+            "channel_post": 897,
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "id": 7.30695472676566e+18,
+              "reformatted_key": "WebPageEmpty"
+            }
+          },
+          "message": "11/17/21\n\nMike Lindell invites J6 Families and our Patriot POWs to join him on FrankSpeech.com\n\nPlease respond to this post @thePrisonersRecord or @EOJ2020 and we can organize and get your stories out to the world.\n\nMike Lindell is a hero and a great patriot fighting for election integrity and for our Political Prisoners held hostage in America's heartland.\n\nThe globalists cancelled Mike's business.  Please support Mike and sleep well when you get jammies and pillows for a good night's rest: https://www.mypillow.com/\n\nLastly, today and for the next 8 days, please support his work by contacting your State's Attorney General and demanding that they stand with Mike and his Supreme Court Lawsuit next week!  Mike wants to present bullet proof evidence to the Supreme Court on our behalf and we need our AGs to stand with Mike.  All of them!\n\nLastly, call and email these Republican AGs.  We will also have Democrat AGs in another post.\n\n👉attorney.general@alaska.gov, oag@ArkansasAG.gov, attorneygeneral@doj.nh.gov, attorneygeneral@doj.nh.gov, contactdoj@mt.gov, \n\nAttorney General Treg R. Taylor  \n1031 West 4th Avenue, Suite 200 Anchorage, AK 99501 \ntel: 907-269-5100 fax: 907-276-3697 \nemail: attorney.general@alaska.gov\n\nSteve Marshall 501 Washington Ave, Montgomery, AL 36104, United States\n\nArizona Attorney General Mark Brnovich  2005 N Central Ave   2005 N Central Ave, Phoenix, AZ 85004-2926, United States\n\nLeslie Carol Rutledge \n(501) 682-2007 or (800) 482-8982 \noag@ArkansasAG.gov    \n323 Center Street, Suite 200  Little Rock, AR 72201\n\nAshley Moody Office of the Attorney General State of Florida PL-01 The Capitol Tallahassee, FL 32399-1050\n\nChristopher M. Carr 40 Capitol Square, SW Atlanta, GA 30334\n\nLAWRENCE G. WASDEN Office of the Attorney General 700 W. Jefferson Street, Suite 210 P.O. Box 83720 Boise, Idaho 83720-0010\n\nTodd Rokita \nIndiana Government Center South 302 W. Washington St., \n5th Floor Indianapolis, IN 46204 \nPhone: (317) 232-6201 Fax: (317) 232-7979\n\nDerek Schmidt 615 E 13th St, Kansas City, MO 64106, United States\n\nDaniel Cameron  1024 Capital Center Dr, Unit 200, Frankfort, KY 40601, United States\n\nJeff Landry Louisiana Department of Justice  P.O. Box 94005 Baton Rouge, LA 70804-9005 \nPhone: (800) 351-4889 Fax: (225) 326-6499\n\nLynn Fitch 550 High St, Unit 1200, Jackson, MS 39202, United States\n\nEric Schmitt Missouri Attorney General's Office Supreme Court Building 207 W. High St. P.O. Box 899 Jefferson City, MO 65102 573-751-3321\n\nAustin Knudsen Office of the Attorney General Justice Building, Third Floor 215 North Sanders P.O. Box 201401 Helena, MT 59620-1401 Phone: (406) 444-2026 E-mail: contactdoj@mt.gov\n\nDoug Peterson Nebraska Attorney General's Office 2115 State Capitol PO Box 98920 Lincoln, NE 68509\n\nJohn M. Formella  NH Department of Justice 33 Capitol Street Concord, NH 03301 (603) 271-3658 Fax: (603) 271-2110  attorneygeneral@doj.nh.gov\n\nWayne Stenehjem Office of Attorney General 600 East Boulevard Avenue, Department 125  Bismarck, ND 58505-0040\n\nDave Yost 30 E. Broad St., 14th Floor Columbus, OH 43215\n\nJohn M. O'Connor Oklahoma Attorney General   313 NE 21st Street   Oklahoma City, OK 73105\n\nAlan Wilson P.O. Box 11549 Columbia, S.C. 29211\n\nJason R. Ravnsborg Office of the Attorney General 1302 E Hwy 14 Suite 1 Pierre SD 57501-8501\n\nHerbert H. Slatery III P.O. Box 20207 Nashville, TN 37202\n\nKen Paxton Office of the Attorney General 300 W. 15th Street Austin, TX 78701\n\nSean Reyes Office of the Attorney General  Utah State Capitol Complex  350 North State Street Suite 230   SLC UT 84114-2320\n\nBridget Hill Pioneer Building 2424 Pioneer Avenue Cheyenne, WY  82002  \n307-777-7893    FAX (307) 777-7595\n\nPatrick Morrisey State Capitol Complex, Bldg. 1, Room E-26 Charleston, WV 25305 Phone: 304-558-2021 Fax: 304-558-0140\n\nCONTACT ALL 26. Only 9 days left.\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "EOJ Always",
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 3895,
+            "replies": 5,
+            "comments": true,
+            "channel_id": 1243107861,
+            "replies_pts": 34072,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1336992114
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1529212818
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1492897659
+              }
+            ]
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 743,
+          "channelabout": "",
+          "id": 368,
+          "noforwards": false,
+          "lastseents": "2023-04-23T06:04:40.854079"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5312807234424564624",
+        "_score": 2.0257,
+        "_source": {
+          "archivedon": "2021-11-17 04:06:02.060646",
+          "channeltitle": "@FreeStatesProjectTN",
+          "channelusername": "TNPatriots",
+          "date": 1637120302,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 15,
+              "offset": 79
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 19,
+              "offset": 124
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 8,
+              "offset": 147
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 25,
+              "offset": 497
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 43,
+              "offset": 847
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 29,
+              "offset": 942,
+              "url": "http://%F0%9F%91%89attorney.general@alaska.gov/"
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 18,
+              "offset": 973
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 26,
+              "offset": 993
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 26,
+              "offset": 1021
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 17,
+              "offset": 1049
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 1162
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 1180
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 27,
+              "offset": 1201
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 18,
+              "offset": 1479
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 2472
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 17,
+              "offset": 2648
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 26,
+              "offset": 2882
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 3648
+            },
+            {
+              "reformatted_key": "MessageEntityItalic",
+              "length": 35,
+              "offset": 3803
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 35,
+              "offset": 3803
+            },
+            {
+              "reformatted_key": "MessageEntityCode",
+              "length": 31,
+              "offset": 3843
+            }
+          ],
+          "forwards": 24,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1427435528
+          },
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637118430,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1409156722
+            },
+            "channel_post": 897,
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {}
+          },
+          "message": "11/17/21\n\nMike Lindell invites J6 Families and our Patriot POWs to join him on FrankSpeech.com\n\nPlease respond to this post @thePrisonersRecord or @EOJ2020 and we can organize and get your stories out to the world.\n\nMike Lindell is a hero and a great patriot fighting for election integrity and for our Political Prisoners held hostage in America's heartland.\n\nThe globalists cancelled Mike's business.  Please support Mike and sleep well when you get jammies and pillows for a good night's rest: https://www.mypillow.com/\n\nLastly, today and for the next 8 days, please support his work by contacting your State's Attorney General and demanding that they stand with Mike and his Supreme Court Lawsuit next week!  Mike wants to present bullet proof evidence to the Supreme Court on our behalf and we need our AGs to stand with Mike.  All of them!\n\nLastly, call and email these Republican AGs.  We will also have Democrat AGs in another post.\n\n👉attorney.general@alaska.gov, oag@ArkansasAG.gov, attorneygeneral@doj.nh.gov, attorneygeneral@doj.nh.gov, contactdoj@mt.gov, \n\nAttorney General Treg R. Taylor  \n1031 West 4th Avenue, Suite 200 Anchorage, AK 99501 \ntel: 907-269-5100 fax: 907-276-3697 \nemail: attorney.general@alaska.gov\n\nSteve Marshall 501 Washington Ave, Montgomery, AL 36104, United States\n\nArizona Attorney General Mark Brnovich  2005 N Central Ave   2005 N Central Ave, Phoenix, AZ 85004-2926, United States\n\nLeslie Carol Rutledge \n(501) 682-2007 or (800) 482-8982 \noag@ArkansasAG.gov    \n323 Center Street, Suite 200  Little Rock, AR 72201\n\nAshley Moody Office of the Attorney General State of Florida PL-01 The Capitol Tallahassee, FL 32399-1050\n\nChristopher M. Carr 40 Capitol Square, SW Atlanta, GA 30334\n\nLAWRENCE G. WASDEN Office of the Attorney General 700 W. Jefferson Street, Suite 210 P.O. Box 83720 Boise, Idaho 83720-0010\n\nTodd Rokita \nIndiana Government Center South 302 W. Washington St., \n5th Floor Indianapolis, IN 46204 \nPhone: (317) 232-6201 Fax: (317) 232-7979\n\nDerek Schmidt 615 E 13th St, Kansas City, MO 64106, United States\n\nDaniel Cameron  1024 Capital Center Dr, Unit 200, Frankfort, KY 40601, United States\n\nJeff Landry Louisiana Department of Justice  P.O. Box 94005 Baton Rouge, LA 70804-9005 \nPhone: (800) 351-4889 Fax: (225) 326-6499\n\nLynn Fitch 550 High St, Unit 1200, Jackson, MS 39202, United States\n\nEric Schmitt Missouri Attorney General's Office Supreme Court Building 207 W. High St. P.O. Box 899 Jefferson City, MO 65102 573-751-3321\n\nAustin Knudsen Office of the Attorney General Justice Building, Third Floor 215 North Sanders P.O. Box 201401 Helena, MT 59620-1401 Phone: (406) 444-2026 E-mail: contactdoj@mt.gov\n\nDoug Peterson Nebraska Attorney General's Office 2115 State Capitol PO Box 98920 Lincoln, NE 68509\n\nJohn M. Formella  NH Department of Justice 33 Capitol Street Concord, NH 03301 (603) 271-3658 Fax: (603) 271-2110  attorneygeneral@doj.nh.gov\n\nWayne Stenehjem Office of Attorney General 600 East Boulevard Avenue, Department 125  Bismarck, ND 58505-0040\n\nDave Yost 30 E. Broad St., 14th Floor Columbus, OH 43215\n\nJohn M. O'Connor Oklahoma Attorney General   313 NE 21st Street   Oklahoma City, OK 73105\n\nAlan Wilson P.O. Box 11549 Columbia, S.C. 29211\n\nJason R. Ravnsborg Office of the Attorney General 1302 E Hwy 14 Suite 1 Pierre SD 57501-8501\n\nHerbert H. Slatery III P.O. Box 20207 Nashville, TN 37202\n\nKen Paxton Office of the Attorney General 300 W. 15th Street Austin, TX 78701\n\nSean Reyes Office of the Attorney General  Utah State Capitol Complex  350 North State Street Suite 230   SLC UT 84114-2320\n\nBridget Hill Pioneer Building 2424 Pioneer Avenue Cheyenne, WY  82002  \n307-777-7893    FAX (307) 777-7595\n\nPatrick Morrisey State Capitol Complex, Bldg. 1, Room E-26 Charleston, WV 25305 Phone: 304-558-2021 Fax: 304-558-0140\n\nCONTACT ALL 26. Only 9 days left.\n\n—\n🆘 https://t.me/ThePrisonersRecord",
+          "peerid": {
+            "channel_id": 1236984328,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 31251,
+            "recent_repliers": []
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "restriction_reason": {},
+            "status": {}
+          },
+          "v": 1,
+          "views": 1612,
+          "channelabout": "EVERYTHING NON-TN SPECIFIC TALK: https://t.me/FreeStatesOpenChat \n\nHomesteading: https://t.me/FreeHomesteadTN \nGuns/Tactical: https://t.me/joinchat/GoFm7uYobsJJw-8i\nBarter/Trade: https://t.me/FeeTNBarterTrade \nLake Life: https://t.me/FreeTNLakeLife"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

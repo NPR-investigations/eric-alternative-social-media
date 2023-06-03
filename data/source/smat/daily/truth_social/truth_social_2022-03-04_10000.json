@@ -1,0 +1,584 @@
+{
+  "created_key": ["created_at"],
+  "content_key": ["content_cleaned"],
+  "took": [50],
+  "timed_out": [false],
+  "_shards": {
+    "total": [16],
+    "successful": [16],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [13],
+      "relation": ["eq"]
+    },
+    "max_score": [10.9078],
+    "hits": [
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107898595794714932",
+        "_score": 10.9078,
+        "_source": {
+          "account": {
+            "acct": "snipershide",
+            "display_name": "Rex Müller",
+            "id": "107835835792417350",
+            "username": "snipershide"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@juanitab\" class=\"u-url mention\">@<span>juanitab<\/span><\/a><\/span> Yes, please verify Eric. He is awesome.<\/p>",
+          "content_cleaned": "RT @juanitab Yes, please verify Eric. He is awesome.",
+          "created_at": "2022-03-04T13:51:53.377+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107898595794714932",
+          "last_seen_ts": "2023-01-10T12:35:00.983617+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107895417364592747",
+            "uri": "https://truthsocial.com/users/juanitab/statuses/107895417364592747",
+            "url": "https://truthsocial.com/@juanitab/107895417364592747"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/users/snipershide/statuses/107898595794714932/activity",
+          "url": "https://truthsocial.com/users/snipershide/statuses/107898595794714932/activity",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107898229810126260",
+        "_score": 10.082,
+        "_source": {
+          "account": {
+            "acct": "ReagansRunners",
+            "display_name": "",
+            "id": "107834164368402199",
+            "username": "ReagansRunners"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>Dominion’s Eric Coomer Arrested. Watch him lie on body cam. <br /> <a href=\"https://youtu.be/ayilPTil4Cc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">youtu.be/ayilPTil4Cc<\/span><span class=\"invisible\"><\/span><\/a><\/p>",
+          "content_cleaned": "Dominion’s Eric Coomer Arrested. Watch him lie on body cam.  https://youtu.be/ayilPTil4Cc",
+          "created_at": "2022-03-04T12:18:48.892+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 30,
+          "id": "107898229810126260",
+          "language": "en",
+          "last_seen_ts": "2022-06-01T22:27:21.898175+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 19,
+          "replies_count": 1,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/ReagansRunners/statuses/107898229810126260",
+          "url": "https://truthsocial.com/@ReagansRunners/107898229810126260",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107899595704584753",
+        "_score": 9.8966,
+        "_source": {
+          "account": {
+            "acct": "ShadQuotes",
+            "display_name": "Shadology101",
+            "id": "107835609133148296",
+            "username": "ShadQuotes"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@chuckcallesto\" class=\"u-url mention\">@<span>chuckcallesto<\/span><\/a><\/span>BREAKING [REPORT]: Dominion Voting Systems Executive Eric Coomer Cuffed and ARRESTED IN COLORADO...<\/p>",
+          "content_cleaned": "RT @chuckcallestoBREAKING [REPORT]: Dominion Voting Systems Executive Eric Coomer Cuffed and ARRESTED IN COLORADO...",
+          "created_at": "2022-03-04T18:06:10.790+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107899595704584753",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107883170111687164",
+            "uri": "https://truthsocial.com/@chuckcallesto/107883170111687164",
+            "url": "https://truthsocial.com/@chuckcallesto/107883170111687164"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [],
+          "uri": "https://truthsocial.com/@ShadQuotes/107899595704584753",
+          "url": "https://truthsocial.com/@ShadQuotes/107899595704584753",
+          "visibility": "public",
+          "pinned": false,
+          "lastseents": "2023-05-13T07:28:52.766674"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107896077914646496",
+        "_score": 9.225,
+        "_source": {
+          "account": {
+            "acct": "chuuckschultheis",
+            "display_name": "Chuck",
+            "id": "107843124203434478",
+            "username": "chuuckschultheis"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@screamingeagle\" class=\"u-url mention\">@<span>screamingeagle<\/span><\/a><\/span> <a href=\"https://www.thegatewaypundit.com/2021/01/new-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">thegatewaypundit.com/2021/01/n<\/span><span class=\"invisible\">ew-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @screamingeagle https://www.thegatewaypundit.com/2021/01/new-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/",
+          "created_at": "2022-03-04T03:11:33.577+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107896077914646496",
+          "last_seen_ts": "2022-05-26T11:37:26.152905+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107895793443250958",
+            "uri": "https://truthsocial.com/users/screamingeagle/statuses/107895793443250958",
+            "url": "https://truthsocial.com/@screamingeagle/107895793443250958"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/chuuckschultheis/statuses/107896077914646496/activity",
+          "url": "https://truthsocial.com/users/chuuckschultheis/statuses/107896077914646496/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107895795070939803",
+        "_score": 9.225,
+        "_source": {
+          "account": {
+            "acct": "RealMrFranchise",
+            "display_name": "Mr. Franchise✅🇺🇸",
+            "id": "107835559605409795",
+            "username": "RealMrFranchise"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@screamingeagle\" class=\"u-url mention\">@<span>screamingeagle<\/span><\/a><\/span> <a href=\"https://www.thegatewaypundit.com/2021/01/new-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">thegatewaypundit.com/2021/01/n<\/span><span class=\"invisible\">ew-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/<\/span><\/a><\/p>",
+          "content_cleaned": "RT @screamingeagle https://www.thegatewaypundit.com/2021/01/new-video-shows-dominions-eric-coomer-admitting-voting-machines-wireless-support-networks/",
+          "created_at": "2022-03-04T01:59:37.725+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107895795070939803",
+          "last_seen_ts": "2022-06-09T20:40:14.931336+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107895793443250958",
+            "uri": "https://truthsocial.com/users/screamingeagle/statuses/107895793443250958",
+            "url": "https://truthsocial.com/@screamingeagle/107895793443250958"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/RealMrFranchise/statuses/107895795070939803/activity",
+          "url": "https://truthsocial.com/users/RealMrFranchise/statuses/107895795070939803/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107899343325630785",
+        "_score": 8.6478,
+        "_source": {
+          "account": {
+            "acct": "girly_girl7707",
+            "display_name": "April",
+            "id": "107834230537732047",
+            "username": "girly_girl7707"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dallasdml\" class=\"u-url mention\">@<span>dallasdml<\/span><\/a><\/span> Eric us fabulous he been governor and fought for this country as an elite seal we need him in senate<\/p>",
+          "content_cleaned": "RT @dallasdml Eric us fabulous he been governor and fought for this country as an elite seal we need him in senate",
+          "created_at": "2022-03-04T17:01:59.795+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107899343325630785",
+          "last_seen_ts": "2022-06-01T17:45:42.978645+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107898029602326176",
+            "uri": "https://truthsocial.com/users/dallasdml/statuses/107898029602326176",
+            "url": "https://truthsocial.com/@dallasdml/107898029602326176"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/girly_girl7707/statuses/107899343325630785/activity",
+          "url": "https://truthsocial.com/users/girly_girl7707/statuses/107899343325630785/activity",
+          "visibility": "public"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107900372897913274",
+        "_score": 8.1462,
+        "_source": {
+          "account": {
+            "acct": "Wistick",
+            "display_name": "Wisticked",
+            "id": "107834165300694087",
+            "username": "Wistick"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@brettoctane17\" class=\"u-url mention\">@<span>brettoctane17<\/span><\/a><\/span> <a href=\"https://t.me/heavymetalpatriot/4537\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://<\/span><span class=\"\">t.me/heavymetalpatriot/4537<\/span><span class=\"invisible\"><\/span><\/a><br />Dominion machine’s Eric COOMER arrested , caught lying to the police ! Listen to how he lies !! You know they cheated the election !!!!<\/p>",
+          "content_cleaned": "RT @brettoctane17 https://t.me/heavymetalpatriot/4537Dominion machine’s Eric COOMER arrested , caught lying to the police ! Listen to how he lies !! You know they cheated the election !!!!",
+          "created_at": "2022-03-04T21:23:49.821+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107900372897913274",
+          "last_seen_ts": "2022-06-12T11:37:13.775569+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107900102567093279",
+            "uri": "https://truthsocial.com/users/brettoctane17/statuses/107900102567093279",
+            "url": "https://truthsocial.com/@brettoctane17/107900102567093279"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Wistick/statuses/107900372897913274/activity",
+          "url": "https://truthsocial.com/users/Wistick/statuses/107900372897913274/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107898991355050655",
+        "_score": 7.7064,
+        "_source": {
+          "account": {
+            "acct": "rickydeboliac",
+            "display_name": "Ricky DeBoliac",
+            "id": "107835946405170142",
+            "username": "rickydeboliac"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>This may be the first <a href=\"https://truthsocial.com/tags/bassfishing\" class=\"mention hashtag\" rel=\"tag\">#<span>bassfishing<\/span><\/a> hashtag ever used in Truth social 🤣 my buddy Eric and I had 25.5 pounds on Okeechobee in the King of the Glades tournament<\/p>",
+          "content_cleaned": "This may be the first #bassfishing hashtag ever used in Truth social 🤣 my buddy Eric and I had 25.5 pounds on Okeechobee in the King of the Glades tournament",
+          "created_at": "2022-03-04T15:32:29.148+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 5,
+          "id": "107898991355050655",
+          "language": "en",
+          "media_attachments": [
+            {
+              "blurhash": "UXI=fIo#M_x].At7xuRj.9M{ozadS%oeRPRk",
+              "id": "107898991278151871",
+              "meta": {
+                "aspect": 0.7496,
+                "height": 1170,
+                "size": "877x1170",
+                "width": 877
+              },
+              "preview_url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/898/991/278/151/871/small/5ceace43e8247162.jpeg",
+              "type": "image",
+              "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/107/898/991/278/151/871/original/5ceace43e8247162.jpeg"
+            }
+          ],
+          "mentions": [],
+          "muted": false,
+          "reblog": {},
+          "reblogged": false,
+          "reblogs_count": 1,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "sponsored": false,
+          "tags": [
+            {
+              "name": "bassfishing"
+            }
+          ],
+          "uri": "https://truthsocial.com/@rickydeboliac/107898991355050655",
+          "url": "https://truthsocial.com/@rickydeboliac/107898991355050655",
+          "visibility": "public",
+          "pinned": false,
+          "lastseents": "2023-04-19T19:06:45.431385"
+        },
+        "_ignored": ["content.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107900227853068155",
+        "_score": 6.8121,
+        "_source": {
+          "account": {
+            "acct": "MaryBChilipka1228",
+            "display_name": "Mary B",
+            "id": "107836006000711999",
+            "username": "MaryBChilipka1228"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dailymail\" class=\"u-url mention\">@<span>dailymail<\/span><\/a><\/span> Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine <a href=\"https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">dailymail.co.uk/news/article-1<\/span><span class=\"invisible\">0577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490<\/span><\/a><\/p>",
+          "content_cleaned": "RT @dailymail Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490",
+          "created_at": "2022-03-04T20:46:56.613+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107900227853068155",
+          "last_seen_ts": "2022-05-29T03:10:47.777638+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107899463971125260",
+            "uri": "https://truthsocial.com/users/dailymail/statuses/107899463971125260",
+            "url": "https://truthsocial.com/@dailymail/107899463971125260"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/MaryBChilipka1228/statuses/107900227853068155/activity",
+          "url": "https://truthsocial.com/users/MaryBChilipka1228/statuses/107900227853068155/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107899560185254393",
+        "_score": 6.8121,
+        "_source": {
+          "account": {
+            "acct": "JoeRock99",
+            "display_name": "",
+            "id": "107835594789965482",
+            "username": "JoeRock99"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dailymail\" class=\"u-url mention\">@<span>dailymail<\/span><\/a><\/span> Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine <a href=\"https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">dailymail.co.uk/news/article-1<\/span><span class=\"invisible\">0577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490<\/span><\/a><\/p>",
+          "content_cleaned": "RT @dailymail Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490",
+          "created_at": "2022-03-04T17:57:08.808+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107899560185254393",
+          "last_seen_ts": "2022-05-25T18:11:14.643700+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107899463971125260",
+            "uri": "https://truthsocial.com/users/dailymail/statuses/107899463971125260",
+            "url": "https://truthsocial.com/@dailymail/107899463971125260"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/JoeRock99/statuses/107899560185254393/activity",
+          "url": "https://truthsocial.com/users/JoeRock99/statuses/107899560185254393/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107900243719762278",
+        "_score": 6.8121,
+        "_source": {
+          "account": {
+            "acct": "geri620",
+            "display_name": "Gigi1950",
+            "id": "107835959904547093",
+            "username": "geri620"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dailymail\" class=\"u-url mention\">@<span>dailymail<\/span><\/a><\/span> Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine <a href=\"https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">dailymail.co.uk/news/article-1<\/span><span class=\"invisible\">0577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490<\/span><\/a><\/p>",
+          "content_cleaned": "RT @dailymail Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490",
+          "created_at": "2022-03-04T20:50:58.719+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107900243719762278",
+          "last_seen_ts": "2022-06-11T18:20:56.318740+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107899463971125260",
+            "uri": "https://truthsocial.com/users/dailymail/statuses/107899463971125260",
+            "url": "https://truthsocial.com/@dailymail/107899463971125260"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/geri620/statuses/107900243719762278/activity",
+          "url": "https://truthsocial.com/users/geri620/statuses/107900243719762278/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107900651387415336",
+        "_score": 6.8121,
+        "_source": {
+          "account": {
+            "acct": "SCNative",
+            "display_name": "CarolinaGirl",
+            "id": "107836021211355044",
+            "username": "SCNative"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@dailymail\" class=\"u-url mention\">@<span>dailymail<\/span><\/a><\/span> Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine <a href=\"https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.<\/span><span class=\"ellipsis\">dailymail.co.uk/news/article-1<\/span><span class=\"invisible\">0577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490<\/span><\/a><\/p>",
+          "content_cleaned": "RT @dailymail Mayor Eric Adams REFUSES to lift mandate for youngest kids because they are ineligible for vaccine https://www.dailymail.co.uk/news/article-10577819/Backlash-children-5-child-care-wear-masks-asinine-policy.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=1490",
+          "created_at": "2022-03-04T22:34:39.237+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107900651387415336",
+          "last_seen_ts": "2022-08-07T19:21:25.431408+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107899463971125260",
+            "uri": "https://truthsocial.com/users/dailymail/statuses/107899463971125260",
+            "url": "https://truthsocial.com/@dailymail/107899463971125260"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/SCNative/statuses/107900651387415336/activity",
+          "url": "https://truthsocial.com/users/SCNative/statuses/107900651387415336/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      },
+      {
+        "_index": "smat-truthsocial-data-202203",
+        "_id": "107895962562642224",
+        "_score": 6.2518,
+        "_source": {
+          "account": {
+            "acct": "Rompstomper",
+            "display_name": "Rompstomper",
+            "id": "107835514014335541",
+            "username": "Rompstomper"
+          },
+          "bookmarked": false,
+          "collected_by": "smat-scrapy-crawlers",
+          "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" class=\"u-url mention\">@<span>DanScavino<\/span><\/a><\/span> That night back in November 2016 when we watched some of the returns coming in on a small TV in the kitchen, before going to the dining room and putting together an acceptance speech with the team. In front of me, Don Jr. and Eric. <a href=\"https://truthsocial.com/tags/BehindScenes\" class=\"mention hashtag\" rel=\"tag\">#<span>BehindScenes<\/span><\/a><\/p>",
+          "content_cleaned": "RT @DanScavino That night back in November 2016 when we watched some of the returns coming in on a small TV in the kitchen, before going to the dining room and putting together an acceptance speech with the team. In front of me, Don Jr. and Eric. #BehindScenes",
+          "created_at": "2022-03-04T02:42:13.446+00:00",
+          "datatype": "post",
+          "emojis": [],
+          "favourited": false,
+          "favourites_count": 0,
+          "id": "107895962562642224",
+          "last_seen_ts": "2022-11-23T19:01:58.934112+00:00",
+          "media_attachments": [],
+          "mentions": [],
+          "muted": false,
+          "reblog": {
+            "id": "107816988487350193",
+            "uri": "https://truthsocial.com/users/DanScavino/statuses/107816988487350193",
+            "url": "https://truthsocial.com/@DanScavino/107816988487350193"
+          },
+          "reblogged": false,
+          "reblogs_count": 0,
+          "replies_count": 0,
+          "sensitive": false,
+          "spoiler_text": "",
+          "tags": [],
+          "uri": "https://truthsocial.com/users/Rompstomper/statuses/107895962562642224/activity",
+          "url": "https://truthsocial.com/users/Rompstomper/statuses/107895962562642224/activity",
+          "visibility": "public"
+        },
+        "_ignored": ["content.keyword", "content_cleaned.keyword"]
+      }
+    ]
+  }
+}

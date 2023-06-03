@@ -1,0 +1,1027 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [34],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [18],
+      "relation": ["eq"]
+    },
+    "max_score": [13.2883],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5846913321357751067",
+        "_score": 13.2883,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637659600,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1804525895
+          },
+          "message": "(((Eric striker)))",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1361340592
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "max_id": 471860,
+            "replies": 1,
+            "comments": false,
+            "replies_pts": 532496,
+            "recent_repliers": []
+          },
+          "entities": [],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 09:49:41.581424",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5036934943767286331",
+        "_score": 8.3172,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637669549,
+          "post": false,
+          "views": 214,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1365263811
+          },
+          "message": "🔴 LIVE EXCEPTIONNEL CET APREM\n💡 PENSEUR HÉTÉRODOXE #40 \n🗣 Eric ANCELET \n🎯 Santé et Maladies : pour une approche systémique, rénovée, élargie et transdisciplinaire \n📆 23-11-2021 ⏰ 15h30\n🔗 Suivre le LIVE : https://www.youtube.com/watch?v=grlywuZKooQ",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1172752805
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 25464,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 253,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 210
+            }
+          ],
+          "forwards": 2,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637669496,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1354151236
+            },
+            "post_author": "Akina Schira",
+            "channel_post": 4583
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 12:26:02.138755",
+          "channelabout": "Organisation du Worldwide rally for Freedom France",
+          "channeltitle": "World Wide Rally for Freedom France",
+          "channelusername": "RallyforFreedom"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5991532476600684210",
+        "_score": 5.5079,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637651489,
+          "post": true,
+          "views": 98,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Brian Kolfag is a veteran of the USAF, and founder of \"We Build the Wall\" with Steve Bannon, Kris Kobach and Eric Prince (Blackrock).\n\nKolfage was indicted, along with Steve Bannon and two other co-defendants, on federal charges of defrauding hundreds of donors. They raised over $9 million in three days. \n\nHe is a triple amputee and was Arizona Rep. Gabby Gifford's guest in 2011 at Obamas inauguration. Gabby is married to current US Senator Mark Kelly from Arizona.\n\nFunding was passed through an LLC operated by Timothy Shea of Castle Rock, Colorado.\n\nhttps://en.wikipedia.org/wiki/Brian_Kolfage",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1395012363
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1157505243,
+            "replies_pts": 407159,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 43,
+              "offset": 557
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1637651492,
+          "edithide": true,
+          "archivedon": "2021-11-23 07:21:25.186464",
+          "channelabout": "Arizona's Official Audit Watch Channel! 🇺🇸\n     \n     SEE SOMETHING, SAY SOMETHING!\nWe need volunteers from all over the world to help us watch audit cameras 24/7! Links below.\n\n⭐️ Channel: @AZAuditNews\n⭐️ Chat: @AZAuditChat\n⭐️ Watch Group: @AZAuditWatc",
+          "channeltitle": "Arizona Audit Watch Channel",
+          "channelusername": "AZAuditNews"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5795944742592186271",
+        "_score": 5.0693,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637641090,
+          "post": true,
+          "views": 991,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "ပြင်သစ်နိုင်ငံ ဝန်ကြီးချုပ် COVID-19 ရောဂါကူးစက်ခံရ၊ ဘယ်လ်ဂျီယံနိုင်ငံ ဝန်ကြီးချုပ်လည်း သီးသန့်ခွဲခြားနေထိုင်လျက်ရှိ \n\nပဲရစ်၊ နိုဝင်ဘာ ၂၃ \n\nပြင်သစ်နိုင်ငံ ဝန်ကြီးချုပ် Jean Castex တွင် ကိုဗစ်-၁၉ (COVID-19) ရောဂါပိုးတွေ့ရှိခဲ့ကြောင်း ပြင်သစ်မီဒီယာက နိုဝင်ဘာ ၂၂ ရက်၌ သတင်းဖော်ပြခဲ့သည်။ \nCastex သည် နိုဝင်ဘာ ၂၂ ရက် မွန်းလွဲပိုင်းက ဘယ်လ်ဂျီယံ ဝန်ကြီးချုပ် Alexander De Croo နှင့် တွေ့ဆုံပြီး ဘရပ်ဆဲလ်မှပြန်လာပြီးနောက် ၎င်း၏ သမီးတစ်ဦးတွင် ကိုဗစ်-၁၉ ရောဂါပိုး စစ်ဆေးတွေ့ရှိခဲ့ခြင်းဖြစ်ကြောင်း Le Figaro က သတင်းဖော်ပြခဲ့သည်။ \nDe Croo သည်လည်း နိုဝင်ဘာ ၂၃ တွင် ရောဂါစစ်ဆေးမှုခံယူမည်ဖြစ်ပြီး ဆေးစစ်ချက်အဖြေမထွက်မှီအချိန်အထိ ကွာရန်တင်း (quarantine) နေထိုင်မည်ဖြစ်ကြောင်း ဒေသတွင်း မီဒီယာက သတင်းဖော်ပြထားသည်။ \nဘယ်လ်ဂျီယံနိုင်ငံ အစိုးရ အဆင့်မြင့်အဖွဲဝင်များအနေဖြင့်လည်း ရောဂါအန္တရာယ်တစ်စုံတစ်ရာမရှိစေရန် ကွာရန်တင်းနေထိုင်သွားကြမည်ဖြစ်ကြောင်း သိရသည်။ \nပြင်သစ်နိုင်ငံ ကိုယ်စားလှယ်အဖွဲတွင် ကာကွယ်ရေးဝန်ကြီး Florence Parly ၊ ပြည်ထဲရေးဝန်ကြီး Gerald Darmanin ၊ တရားရေးဝန်ကြီး Eric Dupond-Moretti နှင့် ဥရောပရေးရာဆိုင်ရာ နိုင်ငံခြားရေးဝန်ကြီး Clement Beaune စသည့် ဝန်ကြီးများလည်း ပါဝင်ကြောင်း သိရသည်။ \nCastex သည် PCR (polymerase chain reaction) စစ်ဆေးမှု ချက်ချင်းခံယူခဲ့ပြီး ရောဂါပိုးတွေ့ရှိခဲ့ခြင်းဖြစ်ကြောင်း ဝန်ကြီးချုပ်ရုံး၏ ပြောကြားချက်အား ကိုးကား၍ ပြင်သစ်သတင်းစာက ဖော်ပြထားသည်။ \nအဆိုပါ ပြင်သစ် အစိုးရ ခေါင်းဆောင်၏ လုပ်ငန်းတာဝန်များကို လာမည့်ရက်များတွင် ၎င်း၏ သီးသန့်ခွဲခြားနေထိုင်စဉ်အတွင်း ဆက်လက်လုပ်ဆောင်နိုင်ရန်အတွက် ပြင်ဆင်သွားမည်ဖြစ်ကြောင်း သိရသည်။",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1349473545
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1637723814,
+          "edithide": true,
+          "postauthor": "Mg Anon",
+          "archivedon": "1678991229",
+          "channelabout": "သတင်းမှန်များထုတ်ပြန်ကြေငြာသွားရန်",
+          "channeltitle": "နိုင်ငံတော်စီမံအုပ်ချူပ်ရေးကောင်စီ သတင်းမှန်ပြန်ကြားရေး",
+          "channelusername": "nasakaa",
+          "id": 1951,
+          "noforwards": false,
+          "lastseents": "2023-03-16T18:27:09.302268"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5581636221098017524",
+        "_score": 4.8806,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637640483,
+          "post": true,
+          "views": 1030,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "ပြင်သစ်နိုင်ငံ ဝန်ကြီးချုပ် COVID-19 ရောဂါကူးစက်ခံရ၊ ဘယ်လ်ဂျီယံနိုင်ငံ ဝန်ကြီးချုပ်လည်း သီးသန့်ခွဲခြားနေထိုင်လျက်ရှိ \n\nပဲရစ်၊ နိုဝင်ဘာ ၂၃ \n\nပြင်သစ်နိုင်ငံ ဝန်ကြီးချုပ် Jean Castex တွင် ကိုဗစ်-၁၉ (COVID-19) ရောဂါပိုးတွေ့ရှိခဲ့ကြောင်း ပြင်သစ်မီဒီယာက နိုဝင်ဘာ ၂၂ ရက်၌ သတင်းဖော်ပြခဲ့သည်။ \nCastex သည် နိုဝင်ဘာ ၂၂ ရက် မွန်းလွဲပိုင်းက ဘယ်လ်ဂျီယံ ဝန်ကြီးချုပ် Alexander De Croo နှင့် တွေ့ဆုံပြီး ဘရပ်ဆဲလ်မှပြန်လာပြီးနောက် ၎င်း၏ သမီးတစ်ဦးတွင် ကိုဗစ်-၁၉ ရောဂါပိုး စစ်ဆေးတွေ့ရှိခဲ့ခြင်းဖြစ်ကြောင်း Le Figaro က သတင်းဖော်ပြခဲ့သည်။ \nDe Croo သည်လည်း နိုဝင်ဘာ ၂၃ တွင် ရောဂါစစ်ဆေးမှုခံယူမည်ဖြစ်ပြီး ဆေးစစ်ချက်အဖြေမထွက်မှီအချိန်အထိ ကွာရန်တင်း (quarantine) နေထိုင်မည်ဖြစ်ကြောင်း ဒေသတွင်း မီဒီယာက သတင်းဖော်ပြထားသည်။ \nဘယ်လ်ဂျီယံနိုင်ငံ အစိုးရ အဆင့်မြင့်အဖွဲ့ဝင်များအနေဖြင့်လည်း ရောဂါအန္တရာယ်တစ်စုံတစ်ရာမရှိစေရန် ကွာရန်တင်းနေထိုင်သွားကြမည်ဖြစ်ကြောင်း သိရသည်။ \nပြင်သစ်နိုင်ငံ ကိုယ်စားလှယ်အဖွဲ့တွင် ကာကွယ်ရေးဝန်ကြီး Florence Parly ၊ ပြည်ထဲရေးဝန်ကြီး Gerald Darmanin ၊ တရားရေးဝန်ကြီး Eric Dupond-Moretti နှင့် ဥရောပရေးရာဆိုင်ရာ နိုင်ငံခြားရေးဝန်ကြီး Clement Beaune စသည့် ဝန်ကြီးများလည်း ပါဝင်ကြောင်း သိရသည်။ \nCastex သည် PCR (polymerase chain reaction) စစ်ဆေးမှု ချက်ချင်းခံယူခဲ့ပြီး ရောဂါပိုးတွေ့ရှိခဲ့ခြင်းဖြစ်ကြောင်း ဝန်ကြီးချုပ်ရုံး၏ ပြောကြားချက်အား ကိုးကား၍ ပြင်သစ်သတင်းစာက ဖော်ပြထားသည်။ \nအဆိုပါ ပြင်သစ် အစိုးရ ခေါင်းဆောင်၏ လုပ်ငန်းတာဝန်များကို လာမည့်ရက်များတွင် ၎င်း၏ သီးသန့်ခွဲခြားနေထိုင်စဉ်အတွင်း ဆက်လက်လုပ်ဆောင်နိုင်ရန်အတွက် ပြင်ဆင်သွားမည်ဖြစ်ကြောင်း သိရသည်။  \n\nRef - (ဆင်ဟွာ) \nhttps://t.me/MyanmarNationalPost\nwww.mnpnewsagency.com",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1299575954
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 32,
+              "offset": 1461,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 1494,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1637656172,
+          "edithide": true,
+          "archivedon": "2022-06-27 15:12:31.401618",
+          "channelabout": "News Agency",
+          "channeltitle": "Myanmar National Post",
+          "channelusername": "MyanmarNationalPost"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5747193019786858766",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637629335,
+          "post": true,
+          "views": 8,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1338122650
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1338615366,
+            "replies_pts": 36023,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "editdate": 1637629339,
+          "edithide": true,
+          "archivedon": "2021-11-23 01:08:02.906017",
+          "channelabout": "Western Civilization is the physical manifestation of the White mans mind and soul. The West lives and dies with the White man. Pro-West = Pro-White. Deus Vult ✝️",
+          "channeltitle": "Proud Goys",
+          "channelusername": "Proud_Goys"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5739776796677650955",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637628064,
+          "post": true,
+          "views": 2845,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1336395926
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 39,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1637628120,
+          "edithide": false,
+          "archivedon": "2021-11-23 01:35:38.40497",
+          "channelabout": "The views expressed on this channel are awesome, if you don't like them you can fuck off.",
+          "channeltitle": "Proud Boys: Uncensored",
+          "channelusername": "ProudBoysUncensored"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5487978987420500913",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637630670,
+          "post": true,
+          "views": 121,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1277769680
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": true,
+            "channel_id": 1588073783,
+            "replies_pts": 14930,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "editdate": 1637630673,
+          "edithide": true,
+          "archivedon": "2021-11-23 02:04:54.205763",
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channeltitle": "BOSS_HAWGA",
+          "channelusername": "HawGa"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "4902675309771363959",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637680717,
+          "post": true,
+          "views": 91,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1141493048
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 16:22:55.598133",
+          "channelabout": "Memes and thoughts from Warpig\n\nThis page is purely information and satire\n\n@ChannelCollection for many more pages of any flavor",
+          "channeltitle": "WARPIG memes",
+          "channelusername": "WARPIGmemes"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5976639389738998497",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637646920,
+          "post": true,
+          "views": 123,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1391544796
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 7,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 06:33:31.678279",
+          "channeltitle": "Warren Balogh NJP 💀⚡⚡",
+          "channelusername": "ahab88"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5968981239711946155",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637662007,
+          "post": true,
+          "views": 8,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1389761744
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 21,
+              "offset": 642
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 126,
+              "offset": 666
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 10:43:59.804965",
+          "channelabout": "#growfood Tiktok videos, YouTube videos, autistic memes, conspiracy theories, music, forwarded messages and posts from other channels and growing food.  Welcome! \nhttps://youtu.be/ZAn3JdtSrnY \nhttps://youtu.be/dGUlluHZ92A\nhttps://youtu.be/yAv5pLO37mE",
+          "channeltitle": "Just white goyim things (sectarian violence meta-narratives) CRITICAL MASS",
+          "channelusername": "justwhitegoyimthings"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6874740939940692591",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637628621,
+          "post": true,
+          "views": 35,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1600650358
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 21,
+              "offset": 642,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 126,
+              "offset": 666,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "edithide": false,
+          "archivedon": "2022-01-09 20:05:34.151869",
+          "channelabout": "Download the APK boomers.",
+          "channeltitle": "𝔓roud 𝔙oys Michigan Chaper v2",
+          "channelusername": "OfficialPBRCv2"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "6590167861585512028",
+        "_score": 4.7085,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637631199,
+          "post": true,
+          "views": 52,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Almost 60,000 people have view Eric Strikers article with the correct narrative of what happened in Wisconsin.  Add that to how many people already know the score just from viewing Telegram channels and pro-White media, you get a decent idea of the reach we have.  Hundreds of thousands of people are waking up as a direct result of what we do here, they will take that information and make sure it spreads to everyone they know.  Share the article on all social media, and DM and text it to everyone you know.  Respond to people sharing a filtered version of events by linking this article in their comments, and we will own the narrative.\n\n@TheWesternChauvinist.\n\nhttps://national-justice.com/waukesha-alleged-attacker-convicted-pedophile-repeat-felon-and-self-described-black-terrorist-who",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1534393025
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 21,
+              "offset": 642,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 126,
+              "offset": 666,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637628064,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1336395926
+            },
+            "channel_post": 14859
+          },
+          "edithide": false,
+          "archivedon": "2022-02-08 01:52:35.725471",
+          "channeltitle": "ATQM FRQNT",
+          "channelusername": "AtomFront"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5581636221098017525",
+        "_score": 4.5511,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637640490,
+          "post": true,
+          "views": 879,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "ျပင္သစ္ႏိုင္ငံ ဝန္ႀကီးခ်ဳပ္ COVID-19 ေရာဂါကူးစက္ခံရ၊ ဘယ္လ္ဂ်ီယံႏိုင္ငံ ဝန္ႀကီးခ်ဳပ္လည္း သီးသန႔္ခြဲျခားေနထိုင္လ်က္ရွိ \n\nပဲရစ္၊ ႏိုဝင္ဘာ ၂၃ \n\nျပင္သစ္ႏိုင္ငံ ဝန္ႀကီးခ်ဳပ္ Jean Castex တြင္ ကိုဗစ္-၁၉ (COVID-19) ေရာဂါပိုးေတြ႕ရွိခဲ့ေၾကာင္း ျပင္သစ္မီဒီယာက ႏိုဝင္ဘာ ၂၂ ရက္၌ သတင္းေဖာ္ျပခဲ့သည္။ \nCastex သည္ ႏိုဝင္ဘာ ၂၂ ရက္ မြန္းလြဲပိုင္းက ဘယ္လ္ဂ်ီယံ ဝန္ႀကီးခ်ဳပ္ Alexander De Croo ႏွင့္ ေတြ႕ဆုံၿပီး ဘရပ္ဆဲလ္မွျပန္လာၿပီးေနာက္ ၎၏ သမီးတစ္ဦးတြင္ ကိုဗစ္-၁၉ ေရာဂါပိုး စစ္ေဆးေတြ႕ရွိခဲ့ျခင္းျဖစ္ေၾကာင္း Le Figaro က သတင္းေဖာ္ျပခဲ့သည္။ \nDe Croo သည္လည္း ႏိုဝင္ဘာ ၂၃ တြင္ ေရာဂါစစ္ေဆးမႈခံယူမည္ျဖစ္ၿပီး ေဆးစစ္ခ်က္အေျဖမထြက္မွီအခ်ိန္အထိ ကြာရန္တင္း (quarantine) ေနထိုင္မည္ျဖစ္ေၾကာင္း ေဒသတြင္း မီဒီယာက သတင္းေဖာ္ျပထားသည္။ \nဘယ္လ္ဂ်ီယံႏိုင္ငံ အစိုးရ အဆင့္ျမင့္အဖြဲ႕ဝင္မ်ားအေနျဖင့္လည္း ေရာဂါအႏၲရာယ္တစ္စုံတစ္ရာမရွိေစရန္ ကြာရန္တင္းေနထိုင္သြားၾကမည္ျဖစ္ေၾကာင္း သိရသည္။ \nျပင္သစ္ႏိုင္ငံ ကိုယ္စားလွယ္အဖြဲ႕တြင္ ကာကြယ္ေရးဝန္ႀကီး Florence Parly ၊ ျပည္ထဲေရးဝန္ႀကီး Gerald Darmanin ၊ တရားေရးဝန္ႀကီး Eric Dupond-Moretti ႏွင့္ ဥေရာပေရးရာဆိုင္ရာ ႏိုင္ငံျခားေရးဝန္ႀကီး Clement Beaune စသည့္ ဝန္ႀကီးမ်ားလည္း ပါဝင္ေၾကာင္း သိရသည္။ \nCastex သည္ PCR (polymerase chain reaction) စစ္ေဆးမႈ ခ်က္ခ်င္းခံယူခဲ့ၿပီး ေရာဂါပိုးေတြ႕ရွိခဲ့ျခင္းျဖစ္ေၾကာင္း ဝန္ႀကီးခ်ဳပ္႐ုံး၏ ေျပာၾကားခ်က္အား ကိုးကား၍ ျပင္သစ္သတင္းစာက ေဖာ္ျပထားသည္။ \nအဆိုပါ ျပင္သစ္ အစိုးရ ေခါင္းေဆာင္၏ လုပ္ငန္းတာဝန္မ်ားကို လာမည့္ရက္မ်ားတြင္ ၎၏ သီးသန႔္ခြဲျခားေနထိုင္စဥ္အတြင္း ဆက္လက္လုပ္ေဆာင္ႏိုင္ရန္အတြက္ ျပင္ဆင္သြားမည္ျဖစ္ေၾကာင္း သိရသည္။  \n\nRef - (ဆင္ဟြာ) \nhttps://t.me/MyanmarNationalPost\nwww.mnpnewsagency.com",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1299575954
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "length": 32,
+              "offset": 1452,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 21,
+              "offset": 1485,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "editdate": 1638535376,
+          "edithide": true,
+          "archivedon": "2022-06-27 15:12:31.399917",
+          "channelabout": "News Agency",
+          "channeltitle": "Myanmar National Post",
+          "channelusername": "MyanmarNationalPost"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5413482113951340136",
+        "_score": 4.2732,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637699742,
+          "post": true,
+          "views": 49,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Eric Striker here\n\nI Doordashed some Chinese food to my apartment and the delivery person, I thought, was a beautiful and trad Xi-supporting Chinese woman until I noticed she has a dick.\n\nI felt so dirty being turned on by a chick with a DICK….then I went to the bathroom and masturbated. Look fellas, if she has a dick, it ain’t gay. The dick makes the sex better.\n\nAnyway what the fuck was the point of this p…oh right. I asked her if she likes Xi and the cities he’s building for European dissidents. She told me she has no idea what I’m talking about. A-am I detached from reality?\n\nNah. This woman definitely works for Media Matters or the SPLC. SHE WANTED TO GET A SCANDAL FROM ME AND REPORT IT BACK TO HER BOSSES\n\nShe failed\n\nFAILED\n\nYOU SUBVERSIVE JEWISH COMMUNISTS WILL NEVER GET ME TO ADMIT I SMOKE DICK",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1260424525
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [],
+          "forwards": 0,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637699719,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1285332338
+            },
+            "channel_post": 599
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 21:23:02.127707",
+          "channelabout": "In case I get banned from Twitter",
+          "channeltitle": "Billy CornPop Williams",
+          "channelusername": "SiegeTheDay123"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5966960951520475736",
+        "_score": 2.359,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637697934,
+          "post": false,
+          "pinned": false,
+          "silent": false,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1802077870
+          },
+          "message": "ACTION ALERT\n1 Senator Needed to Co-Author \nElection De-Certification Bill\n\n \nGreetings Patriots,\n\nIf you are a person sitting on the sidelines as this Forensic Election Audit investigation continues and more Fraud is uncovered statewide, you should be aware there are In-State and Out-of-State political operatives who are tampering with the integrity of our votes/\n\nRepresentative Tim Ramthum has put forth a bill to de-certify the fraudulent 2020 Election - joining several other states in this effort.\n\nWatch his 12-minute Stop the Steal video - wherein he explains his timely bill\nRamthun Report Episode 35: Resolution to Decertify is Ready!\n\n\n\n\nRamthun Report Episode 35: Resolution to Decertify is Ready!\nEmail my office and tell me what county of Wisconsin you live in for directions on next steps for the REAL audit...\n\nWe need to help Ramthun secure 1 Senator to co-sponsor the De-Certify bill in the Wisconsin Senate.\nBelow is the contact information for our 21 State GOP Senators.  \nPlease Call/Email letting them know you expect them to demonstrate a spine and give full  support of this effort by Co-Authoring this bill.  \nCalls/Emails should also be going to Assembly offices as well.\nWhile You are on the Phone you Should Also Call:\n1)  Wisconsin Republican Party Corporate office in Madison - (608) 257-4765 \n- Ask to speak to Executive Director Mark Jefferson\n2)  Waukesha County Republican Party (262) 542-8532 - The Waukesha Co. Party is the Machine that Drives GOP Politics in Wisconsin\n3)  State Party Chairman Paul Farrow (262) 548-7902\n \nMelt down those phonelines, Taxpayers!\n \nWisconsin State Senators\n1\nJoan Ballweg\n1-608-266-0751\nSen.Ballweg@legis.wisconsin.gov\n2\nKathy Bernier\n1-608-266-7511\nSen.Bernier@legis.wisconsin.gov\n3\nJulian Bradley\n1-608-266-5400\nSen.Bradley@legis.wisconsin.gov\n4\nRobert Cowles\n1-800-334-1465\nSen.Cowles@legis.wisconsin.gov\n5\nAlberta Darling\n1-608-266-5830\nSen.Darling@legis.wisconsin.gov\n6\nMary Felzkowski\n1-608-266-2509\nSen.Felzkowski@legis.wisconsin.gov\n7\nDan Feyen\n1-920-952-7001\nSen.Feyen@legis.wisconsin.gov\n8\nAndre Jacque\n1-608-266-3512\nSen.Jacque@legis.wisconsin.gov\n9\nJohn Jagler\n1-608-266-5660\nSen.Jagler@legis.wisconsin.gov\n10\nChris Kapenga\n1-800-863-8883\nSen.Kapenga@legis.wisconsin.gov\n11\nDale Kooyenga\n1-866-817-6061\nSen.Kooyenga@legis.wisconsin.gov\n12\nDevin LeMahieu\n1-608-266-2056\nSen.Lemahieu@legis.wisconsin.gov\n13\nHoward Marklein\n1-608-266-0703\nSen.Marklein@legis.wisconsin.gov\n14\nStephen Nass\n1-608-266-2635\nSen.Nass@legis.wisconsin.gov\n15\nJerry Petrowski\n1-608-266-2502\nSen.Petrowski@legis.wisconsin.gov\n16\nRoger Roth\n1-800-579-8717\nSen.Roth@legis.wisconsin.gov\n17\nRob Stafsholt\n1-608-266-7745\nSen.Stafsholt@legis.wisconsin.gov\n18\nDuey Stroebel\n1-800-662-1227\nSen.Stroebel@legis.wisconsin.gov\n19\nPatrick Testin\n1-608-266-3123\nSen.Testin@legis.wisconsin.gov\n20\nVan Wanggaard\n1-866-615-7510\nSen.Wanggaard@legis.wisconsin.gov\n21\nEric Wimberger\n1-608-266-5670\nSen.Wimberger@legis.wisconsin.gov",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1389291359
+          },
+          "replies": {
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "comments": false,
+            "replies_pts": 133485,
+            "recent_repliers": []
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 31,
+              "offset": 1658
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 31,
+              "offset": 1721
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 31,
+              "offset": 1785
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 30,
+              "offset": 1848
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 31,
+              "offset": 1912
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 34,
+              "offset": 1977
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 29,
+              "offset": 2039
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 30,
+              "offset": 2099
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 30,
+              "offset": 2159
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 31,
+              "offset": 2222
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 32,
+              "offset": 2286
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 32,
+              "offset": 2352
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 32,
+              "offset": 2419
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 28,
+              "offset": 2483
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 33,
+              "offset": 2546
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 28,
+              "offset": 2609
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 33,
+              "offset": 2670
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 32,
+              "offset": 2736
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 30,
+              "offset": 2802
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 33,
+              "offset": 2865
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 33,
+              "offset": 2932
+            }
+          ],
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 20:15:50.553533",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5956877953152321667",
+        "_score": 2.1373,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637638248,
+          "post": true,
+          "views": 368,
+          "pinned": false,
+          "silent": true,
+          "fromid": {},
+          "message": "Kyle Rittenhouse beschuldigte in einem Interview mit Tucker Carlson Kautionsgeber Lin Wood, ihn nicht eher aus dem Gefängnis geholt zu haben.\n\nEr habe 87 Tage dort verbracht, nur weil Lin Wood das gespendete Geld nicht gleich überwiesen habe. Tatsache ist, dass der junge Mann ohne Lin Woods Kaution, bei der er für eine Leihgabe von 150.000 persönlich und selbst haftend den Schuldschein unterschrieben hatte, definitiv länger als 87 Tage im Gefängnis verbracht hätte. Denn sonst war ja noch niemand da, der ihm so uneigennützig geholfen und Geld gegeben hat.\n\nKyle Rittenhouse: Er fühle sich ausgenutzt durch Lin Wood. \n\nDas ist etwas unverständlich, wenn man bedenkt, dass er so viel Geld durch Lin Woods Einsatz bekommen hat, um das Gefängnis zu verlassen.\n\nLin Wood kannte das Interview noch nicht, als er von einem Reporter des Beast angerufen wurde und war sehr erstaunt. Dann erzählte er eine andere Geschichte, nämlich, dass Kyle Rittenhouse sehr dankbar gewesen ist, als er ihn einmal für 2 Minuten im Gefängnis besuchen durfte.\n\nEr glaubt, dass man dem jungen Mann mit Absicht etwas Falsches erzählt hat und dass der Deep State dahinterstehen würde. \n\nIch habe das Interview gesehen, bevor ich Lins Reaktion (mündlich und schriftlich) gelesen und gehört habe und fand Kyle eigenartig. Wie auswendig gelernt kam diese Beschuldigung heraus. Vielleicht weiß er selbst nicht, ob er das glauben soll. \n\nWie Lin sehe ich ihn hier auch manipuliert. Er ist mit 18 Jahren noch sehr jung, da glaubt man noch vieles, was sich dann später doch sehr relativiert. Ich gehe jetzt auch erst einmal - wie Lin - davon aus, dass er unter den Einfluss von Menschen geraten ist, die eventuell tatsächlich dafür bezahlt werden, dass sie ihm solche Sachen erzählen. Die sind trainiert, die können das sehr glaubhaft.\n\nEs könnte auch sein, dass er unter Druck gesetzt wurde, denn er bekommt Morddrohungen. Das ist für jeden Menschen kaum auszuhalten, aber für einen jungen Menschen meist noch weniger.\n\nEs gilt für Kyle die Unschuldsvermutung, denn diese Leute können sehr überzeugend sein. \n\nSchaut euch das Interview mit Tucker an und bildet euch eine eigene Meinung. Persönlich fand ich Lin Wood am Telefon glaubwürdig. Er hatte sich vor längerer Zeit für 7 Millionen ein riesengroßes Anwesen gekauft. Es ist nicht davon auszugehen, dass er - ein Anwalt - arm ist und auch nur einen Penny für eigene Bedürfnisse vom Spendengeld genommen hat, wie inzwischen auch behauptet wird.\n\nSolche Dinge hat man auch Trumps Sohn Eric vorgeworfen, der eine Stiftung für kranke Kinder hatte. Er hat die dann aufgegeben, weil der Druck zu groß wurde. Die Clinton-Stiftung, eine bekannte Geldwaschanlage, von der auch die Familie Clinton gut leben soll, darf allerdings weiterbestehen, obwohl selbst Horowitz hier \"Unregelmäßigkeiten\" gefunden hat.\n\nDas Justizsystem in den USA ist genauso marode wie bei uns. Nur dass sich hier zwei große Parteien gegenübersetehen und bekämpfen. Bei uns ist es eher so, dass man als normaler Mensch kaum noch Recht bekommt, sondern nur noch die Konzerne. \n\nhttps://t.me/linwoodspeakstruth/7450\n\nÜber der Sprachnachricht stehen noch weitere Beiträge von Lin zum Thema. Sein letzter Beitrag heute lautete gerade eben:\n\nWenn der Feind mich angreift, weiß ich immer, wem ich dafür danken kann, dass er mir die Kraft gibt, weiterzukämpfen. Jesus ist mein Fels. \n\nNach diesem Interview darf man davon ausgehen, dass gegen Lin Wood ein Shitstorm losgetreten wird, bei dem er als der Schuldige dargestellt wird. Denn der DS will ihn schon lange in die Knie zwingen. Aus diesem Grund hat er sogar seinen Wohnort von Georgia nach South Carolina gewechselt, weil er glaubte,  dort sicherer zu sein.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1386943728
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 141,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 9,
+              "offset": 1176,
+              "url": "https://t.me/realKarliBonne/55087"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 9,
+              "offset": 2096,
+              "url": "https://t.me/realKarliBonne/55087"
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 36,
+              "offset": 3066
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 16,
+              "offset": 3182,
+              "url": "https://t.me/linwoodspeakstruth/7451"
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 04:24:28.254045",
+          "channelabout": "Schon vor seiner Wahl 2016 haben wir, tagesereignis.de,  seinen Wahlsieg vorhergesagt und auch jetzt hat er haushoch gewonnen.\nEr ist ein Vorbild für alle, die erkennen, in welchen Zeiten wir leben und zeigt, dass es ohne Kampf nicht gehen wird.",
+          "channeltitle": "QAnon - Trump - NWO - tagesereignis.de",
+          "channelusername": "tagesereignisse"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202111",
+        "_id": "5839152843734398846",
+        "_score": 2.1373,
+        "_source": {
+          "reformattedkey": "Message",
+          "v": 1,
+          "date": 1637662413,
+          "post": true,
+          "views": 960,
+          "pinned": false,
+          "silent": false,
+          "fromid": {},
+          "message": "Kyle Rittenhouse beschuldigte in einem Interview mit Tucker Carlson Kautionsgeber Lin Wood, ihn nicht eher aus dem Gefängnis geholt zu haben.\n\nEr habe 87 Tage dort verbracht, nur weil Lin Wood das gespendete Geld nicht gleich überwiesen habe. Tatsache ist, dass der junge Mann ohne Lin Woods Kaution, bei der er für eine Leihgabe von 150.000 persönlich und selbst haftend den Schuldschein unterschrieben hatte, definitiv länger als 87 Tage im Gefängnis verbracht hätte. Denn sonst war ja noch niemand da, der ihm so uneigennützig geholfen und Geld gegeben hat.\n\nKyle Rittenhouse: Er fühle sich ausgenutzt durch Lin Wood. \n\nDas ist etwas unverständlich, wenn man bedenkt, dass er so viel Geld durch Lin Woods Einsatz bekommen hat, um das Gefängnis zu verlassen.\n\nLin Wood kannte das Interview noch nicht, als er von einem Reporter des Beast angerufen wurde und war sehr erstaunt. Dann erzählte er eine andere Geschichte, nämlich, dass Kyle Rittenhouse sehr dankbar gewesen ist, als er ihn einmal für 2 Minuten im Gefängnis besuchen durfte.\n\nEr glaubt, dass man dem jungen Mann mit Absicht etwas Falsches erzählt hat und dass der Deep State dahinterstehen würde. \n\nIch habe das Interview gesehen, bevor ich Lins Reaktion (mündlich und schriftlich) gelesen und gehört habe und fand Kyle eigenartig. Wie auswendig gelernt kam diese Beschuldigung heraus. Vielleicht weiß er selbst nicht, ob er das glauben soll. \n\nWie Lin sehe ich ihn hier auch manipuliert. Er ist mit 18 Jahren noch sehr jung, da glaubt man noch vieles, was sich dann später doch sehr relativiert. Ich gehe jetzt auch erst einmal - wie Lin - davon aus, dass er unter den Einfluss von Menschen geraten ist, die eventuell tatsächlich dafür bezahlt werden, dass sie ihm solche Sachen erzählen. Die sind trainiert, die können das sehr glaubhaft.\n\nEs könnte auch sein, dass er unter Druck gesetzt wurde, denn er bekommt Morddrohungen. Das ist für jeden Menschen kaum auszuhalten, aber für einen jungen Menschen meist noch weniger.\n\nEs gilt für Kyle die Unschuldsvermutung, denn diese Leute können sehr überzeugend sein. \n\nSchaut euch das Interview mit Tucker an und bildet euch eine eigene Meinung. Persönlich fand ich Lin Wood am Telefon glaubwürdig. Er hatte sich vor längerer Zeit für 7 Millionen ein riesengroßes Anwesen gekauft. Es ist nicht davon auszugehen, dass er - ein Anwalt - arm ist und auch nur einen Penny für eigene Bedürfnisse vom Spendengeld genommen hat, wie inzwischen auch behauptet wird.\n\nSolche Dinge hat man auch Trumps Sohn Eric vorgeworfen, der eine Stiftung für kranke Kinder hatte. Er hat die dann aufgegeben, weil der Druck zu groß wurde. Die Clinton-Stiftung, eine bekannte Geldwaschanlage, von der auch die Familie Clinton gut leben soll, darf allerdings weiterbestehen, obwohl selbst Horowitz hier \"Unregelmäßigkeiten\" gefunden hat.\n\nDas Justizsystem in den USA ist genauso marode wie bei uns. Nur dass sich hier zwei große Parteien gegenübersetehen und bekämpfen. Bei uns ist es eher so, dass man als normaler Mensch kaum noch Recht bekommt, sondern nur noch die Konzerne. \n\nhttps://t.me/linwoodspeakstruth/7450\n\nÜber der Sprachnachricht stehen noch weitere Beiträge von Lin zum Thema. Sein letzter Beitrag heute lautete gerade eben:\n\nWenn der Feind mich angreift, weiß ich immer, wem ich dafür danken kann, dass er mir die Kraft gibt, weiterzukämpfen. Jesus ist mein Fels. \n\nNach diesem Interview darf man davon ausgehen, dass gegen Lin Wood ein Shitstorm losgetreten wird, bei dem er als der Schuldige dargestellt wird. Denn der DS will ihn schon lange in die Knie zwingen. Aus diesem Grund hat er sogar seinen Wohnort von Georgia nach South Carolina gewechselt, weil er glaubte,  dort sicherer zu sein.",
+          "peerid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1359533715
+          },
+          "replies": {
+            "recent_repliers": {}
+          },
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 141,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 9,
+              "offset": 1176,
+              "url": "https://t.me/realKarliBonne/55087"
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 9,
+              "offset": 2096,
+              "url": "https://t.me/realKarliBonne/55087"
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 36,
+              "offset": 3066
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "length": 16,
+              "offset": 3182,
+              "url": "https://t.me/linwoodspeakstruth/7451"
+            }
+          ],
+          "forwards": 3,
+          "fwdfrom": {
+            "reformatted_key": "MessageFwdHeader",
+            "date": 1637638248,
+            "from_id": {
+              "reformatted_key": "PeerChannel",
+              "channel_id": 1386943728
+            },
+            "channel_post": 2179
+          },
+          "edithide": false,
+          "archivedon": "2021-11-23 10:40:53.336994",
+          "channelabout": "Indem viele die englische Sprache nicht perfekt beherrschen findet ihr hier viele Videos ins deutsche sprachlich oder mit einem Untertitel übersetzt, ist ja sehr frustrierend wenn man nicht Bescheid weiß um was es bei den Videos geht :)",
+          "channeltitle": "Translated Videos/Wahlbetrug",
+          "channelusername": "TranslatedVideos"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

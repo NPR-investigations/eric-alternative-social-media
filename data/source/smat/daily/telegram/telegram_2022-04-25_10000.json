@@ -1,0 +1,2875 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [53],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [33],
+      "relation": ["eq"]
+    },
+    "max_score": [13.2892],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5202185657316834789",
+        "_score": 13.2892,
+        "_source": {
+          "archivedon": "1679053637",
+          "channelabout": "Join America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. \n\nhttps://foxnews.com \n\n—————————————————— \n\nUnofficial",
+          "channeltitle": "Fox News",
+          "channelusername": "FoxNewsTG",
+          "date": 1650911342,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 67,
+              "offset": 109,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 178,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 189,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 189,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 32229,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Stephanie Pagones",
+              "description": "New York City Mayor Eric Adams is grappling with not only the reality of public safety, but also the \"perception,\" he said, as Big Apple crime is up 43% year-to-date compared to the same time in 2021.",
+              "display_url": "foxnews.com/us/nyc-mayor-eric-adams-public-safety-crime",
+              "hash": 0,
+              "id": 7.36282382053413e+18,
+              "photo": {
+                "access_hash": 9.87358557671936e+17,
+                "date": 1650179498,
+                "dc_id": 4,
+                "file_reference": "AGQUU0IvWC0DmxG3lLixSHsCqIgY",
+                "has_stickers": false,
+                "id": 5.97291980678297e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARco1tg3ZyfzpSwBx/SkZsq2zBYcY96xL++l88qkm3bx8p70AXbiV9zEMQQeBTUcyRByTk8nBqB3kNuJCCSU3Z/Cq1lcncUkbIPTNKO+o57KxeJ92/76NFNLJ3YUVVkZ3Y+4uEjcoxKqOy8Z49qqCWz3E+WD9QT/AFoopM0WxYaaMRY2nbjkc4x+dQ+bahN3lLj12n/GiikMDPCeIw249PmP9TRRRQB/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 21613,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 83473,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 524,
+                    "w": 931,
+                    "sizes": [8872, 26255, 46833, 68097, 91530]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Fox News",
+              "title": "NYC Mayor Eric Adams grappling with 'perception' of public safety versus reality, as crime spike 43%",
+              "type": "photo",
+              "url": "https://www.foxnews.com/us/nyc-mayor-eric-adams-public-safety-crime"
+            }
+          },
+          "message": "NYC Mayor Eric Adams grappling with 'perception' of public safety versus reality, as crime spikes 43%\n\nREAD: https://www.foxnews.com/us/nyc-mayor-eric-adams-public-safety-crime\n\nSubscribe: @FoxNewsTG",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1211228235,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 269,
+          "lastseents": "2023-03-17T11:47:17.358214",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5197635942625610908",
+        "_score": 13.0596,
+        "_source": {
+          "archivedon": "2022-08-02 01:39:32.188141",
+          "channelabout": "Reliable reporting, hard-hitting analysis & breaking news. \nhttps://washingtontimes.com",
+          "channeltitle": "Washington Times",
+          "channelusername": "WashingtonTimesOfficial",
+          "date": 1650898600,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 69,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 135,
+              "offset": 70,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Adams, NYC mayor, urges Democrats to be more consistent on crime\nhttps://www.washingtontimes.com/news/2022/apr/25/eric-adams-nyc-mayor-urges-democrats-be-more-consi/?utm_source=RSS_Feed&utm_medium=RSS",
+          "peerid": {
+            "channel_id": 1210168922,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 259,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6268561698303526379",
+        "_score": 11.5845,
+        "_source": {
+          "archivedon": "2022-04-25 16:12:54.591003",
+          "channelabout": "Uncensored telegram channel for official updates from Laura Loomer",
+          "channeltitle": "LAURA LOOMER",
+          "channelusername": "loomeredofficial",
+          "date": 1650892839,
+          "editdate": 1650893145,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 36,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://www.ibtimes.sg/who-eric-schwerin-hunter-bidens-business-partner-made-19-trips-white-house-met-joe-biden-64209",
+          "peerid": {
+            "channel_id": 1459513255,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1162718979,
+            "comments": true,
+            "max_id": 408418,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 695959771
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1575225255
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 3,
+            "replies_pts": 577636
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 6332,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6347407316354113171",
+        "_score": 11.5777,
+        "_source": {
+          "archivedon": "2022-08-03 06:03:37.754774",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1650858283,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 176,
+              "offset": 108,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 286,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 297,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 297,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Adams slams party for backing BLM as he tells Dems to stop opposition to giving cops more power\n\nRead: https://www.dailymail.co.uk/news/article-10749807/Eric-Adams-slams-party-backing-BLM-tells-Dems-stop-opposition-giving-cops-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2048,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4599600813680123648",
+        "_score": 10.2235,
+        "_source": {
+          "archivedon": "2022-04-25 17:24:46.73453",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1650898140,
+          "editdate": 1650898826,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 151,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Democratic New York City Mayor Eric Adams says it's a \"huge mistake not to require\" masks on planes, trains, and buses. They're still required in NYC.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 40220,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 740530514
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1500559734
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 67772
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 714,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5354447101273260204",
+        "_score": 9.491,
+        "_source": {
+          "archivedon": "2022-04-25 19:32:27.441248",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1650910891,
+          "editdate": 1650910895,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 198,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 191,
+              "offset": 200,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 4,
+              "offset": 439,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 460,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 475,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 495,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 514,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "“Striking Fear in the Hearts of Liberals Everywhere” - Donald Trump Jr. Visits Missouri and Endorses Eric Greitens - Then Shoots Guns with MAGA Navy SEAL Greitens During St. Louis Area Stop (VIDEO) \n\nhttps://www.thegatewaypundit.com/2022/04/striking-fear-hearts-liberals-everywhere-donald-trump-jr-visits-missouri-endorses-eric-greitens-shoots-guns-maga-navy-seal-greitens-st-louis-area-sto/\nSource: Gateway Pundit \n\nHelp us spread truth! #KAG ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 541206
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 25,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5595791965154207581",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "2022-04-26 03:14:24.050114",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1650892633,
+          "editdate": 1650892924,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 14,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2628744
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1701,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6372728575220589882",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "2022-04-25 16:55:32.088187",
+          "channelabout": "Harold’s Library",
+          "channeltitle": "The Library",
+          "channelusername": "The_Library_II",
+          "date": 1650903304,
+          "editdate": 1650904631,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1483766496,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Harold Wren 🍊",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 349,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5224582498721254114",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "2022-04-25 19:30:21.33448",
+          "channelabout": "22 Dedicated patriots✝️ from ACROSS THE POND 💦 providing the latest News 📰 \n\nChannel.     👉@wearethecure1 🇬🇧\nChatroom  👇                                                  https://t.me/c/1459867032/3688 🇺🇸\n\nbit.ly/PatriotMap 🇺🇸 \n\nMultiple patriotic channels",
+          "channeltitle": "🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🇩🇪We Are The Cure 🇺🇸🇳🇱🇧🇬🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "channelusername": "wearethecure1",
+          "date": 1650899433,
+          "editdate": 1650902148,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1216442906,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Wendy🍊",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 446,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword", "channelabout.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "4989848298178278131",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "2022-04-25 19:21:02.900388",
+          "channelabout": "News: By Anons for The People. \nUncensored and Unstoppable.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE.  ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED. PERIOD.",
+          "channeltitle": "We The Media",
+          "channelusername": "WeTheMedia",
+          "date": 1650892633,
+          "editdate": 1650892676,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 113,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1161789591,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1476547740,
+            "comments": true,
+            "max_id": 5322186,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1585293101
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 794721644
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1630313775
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 11,
+            "replies_pts": 7124533
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 17629,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "7381183490412251804",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1683303747",
+          "channelabout": "News 📺, Coups ⚔️ and sometimes Booze 🍷",
+          "channeltitle": "CatTheGreat",
+          "channelusername": "Cat_The_Great",
+          "date": 1650898247,
+          "editdate": 1666638957,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 32,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 2716,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1718565703,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 45,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 19,
+                "reaction": "🔥",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3099,
+          "lastseents": "2023-05-05T16:22:27.341290",
+          "collected_by": "crawler",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "url": "t.me/Cat_The_Great/2716",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5966960951520513347",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "2022-04-26 04:23:21.934769",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1650929390,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1025,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1513135131
+          },
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 193975
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 152817,
+          "userinfo": {
+            "_id": 1513135131,
+            "_media_ref": "5e48eabb79f9c2860a6c433078bf2f210b7de21a",
+            "_v": 1,
+            "access_hash": 1.56002628042733e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Patriots",
+            "id": 1513135131,
+            "is_self": false,
+            "last_name": "Progeny",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 8114,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062800596
+              },
+              "photo_id": 5.12330068493714e+18,
+              "photo_small": {
+                "local_id": 8112,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062800596
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6328990694157398791",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1682000285",
+          "channelabout": "Dark to LIGHT\nThe truth is learned, never told. \nMove out of darkness and towards light.. \nFear NOT, have FAITH...\nGOD WINS",
+          "channeltitle": "imglover13THGENPATRIOT ❤️🇺🇲️",
+          "channelusername": "imglover13THGENPATRIOT",
+          "date": 1650916702,
+          "editdate": 1650916706,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 78599,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1473582977,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "13th-GEN_PATRIOT ❤🇺🇸✔",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1327242076,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 388424
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 155,
+          "lastseents": "2023-04-20T14:18:05.847062",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5223207954567698456",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1680425469",
+          "channelabout": "Just Hanging Out and Exposing the TRUTH!",
+          "channeltitle": "DoctorQ's Boom Box!",
+          "channelusername": "DoctorQsBoomBox",
+          "date": 1650922668,
+          "editdate": 1651530486,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 38936,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1216122870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 588,
+          "lastseents": "2023-04-02T08:51:09.847016",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5111396602799486429",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1680251511",
+          "channelabout": "Information stream via Chris Paul, host of Be Reasonable: with Your Moderator Chris Paul\n\nAll links here:\n\nhttps://linktr.ee/imyourmoderator",
+          "channeltitle": "Be Reasonable Podcast info stream (Chris Paul)",
+          "channelusername": "imyourmoderator",
+          "date": 1650892748,
+          "editdate": 1650896448,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 30173,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1190089761,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Your Moderator, Chris Paul",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 7,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 2,
+                "reaction": "🤮",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 671,
+          "lastseents": "2023-03-31T08:31:51.903697",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5602917839884263303",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1680759507",
+          "channelabout": "Here's a link tree to find me:\nhttps://libertylinks.io/PiAnon\n\nLooking for merch?\nhttps://www.p2pprinting.com/pi-anon",
+          "channeltitle": "Joseph \"Pi Anon\" Thomas",
+          "channelusername": "Pi_An0n",
+          "date": 1650925973,
+          "editdate": 1650925977,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 8071,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1304530967,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Pi Anon ⭐⭐⭐",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1311199130,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 40653
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 11,
+          "lastseents": "2023-04-06T05:38:28.071885",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5798827211108719576",
+        "_score": 8.0949,
+        "_source": {
+          "archivedon": "1684222863",
+          "channelabout": "See through the deception 👁\nI stand with humanity NOT PSYOPS! Deprogram👁 \nBe the change you want to see in the world! 🌟Awakened🌟\n‼️BEWARE OF SCAMMERS ‼️IMPERSONATING ME I DONT DM ANYONE NOR DO I SELL BULLSHIT CRYPTO",
+          "channeltitle": "Awakened_144",
+          "channelusername": "awakened_144000",
+          "date": 1650913127,
+          "editdate": 1650913130,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 622,
+            "date": 1650892614,
+            "from_id": {
+              "channel_id": 1548936179,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Inthe Matrixxx",
+            "reformatted_key": "MessageFwdHeader",
+            "imported": false
+          },
+          "id": 72664,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1350144672,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1169040915,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 686134
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 952,
+          "lastseents": "2023-05-16T07:41:03.425638",
+          "collected_by": "crawler",
+          "mediaref": "6f7ae96b52e620023487ec1fed25b17171645485",
+          "url": "t.me/awakened_144000/72664",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5595791965154207594",
+        "_score": 7.9423,
+        "_source": {
+          "archivedon": "2022-04-26 03:14:24.065137",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1650894945,
+          "editdate": 1650895265,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 235,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 14,
+              "offset": 336,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 9,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "AFPT filed a lawsuit demanding that the Federal Election Commission take action on our complaint against Swiss billionaire Hansjörg Wyss for funneling money into the liberal dark money network, led by Eric Kessler's Arabella Advisors. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/\n@mgshowchannel",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Inthe Matrixxx",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2628744
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2892,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5278666174316526187",
+        "_score": 7.5216,
+        "_source": {
+          "archivedon": "2022-04-25 21:25:42.654787",
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1650900267,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 100,
+              "offset": 314,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "General Flynn ⭐️⭐️⭐️ - AFPT hat eine Klage eingereicht, in der die Eidgenössische Wahlkommission aufgefordert wird, gegen unsere Beschwerde gegen den Schweizer Milliardär Hansjörg Wyss vorzugehen, weil er Geld in das liberale Dunkelgeldnetzwerk geleitet hat, das von Eric Kesslers Arabella-Beratern geleitet wird. https://thehill.com/news/campaign/3461903-watchdog-group-sues-fec-over-citizenship-of-liberal-donor/",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 759,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5726038085355978216",
+        "_score": 6.4255,
+        "_source": {
+          "archivedon": "2022-04-25 15:58:55.207374",
+          "channeltitle": "Freie Saarländer Chat",
+          "date": 1650870902,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 50,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 77,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 270,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 914427761
+          },
+          "fwdfrom": {
+            "channel_post": 827,
+            "date": 1648461010,
+            "from_id": {
+              "channel_id": 1453689871,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "\"Leben im Dritten Reich\" - von Friedrich Kurreck\n\n(Ein Artikel der Netzseite justice4germans.wordpress.com (2002)\n\nDer Aufstieg Hitlers, seine Leistungen, warum die Deutschen ihn liebten und unterstützten, die wahren Gründe für den Krieg und wer dahinter stand, sowie ein Vergleich der weltpolitischen Situation damals und heute mit einer Kritik am heutigen Deutschland (die BRD). \nDer Artikel erschien zwischen erstmals als Artikelserie in der Wochenzeitung 'Der Schlesier' dem 26. Juli und dem 16. August 2002 und wurde von Eric Thomson übersetzt.",
+          "peerid": {
+            "channel_id": 1333197133,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 20369
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 5673,
+          "mediaref": "5a1580cc598aa7608ca4e5daf3c5b3edb356e903",
+          "userinfo": {
+            "_id": 914427761,
+            "_v": 1,
+            "access_hash": 8.28073751621185e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "ich bin ein Kind Gottes",
+            "id": 914427761,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5857826609918127994",
+        "_score": 5.1653,
+        "_source": {
+          "archivedon": "2022-04-26 06:27:01.409991",
+          "channelabout": "Wahrheit setzt sich immer durch !!! / Truth always prevails !!!",
+          "channeltitle": "ALLES KOMMT ANS LICHT / EVERYTHING COMES TO THE LIGHT",
+          "channelusername": "ALLES_KOMMT_ANS_LICHT",
+          "date": 1650899033,
+          "editdate": 1650899578,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 3,
+              "offset": 2,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/Alles_kommt_ans_Licht_Mediathek/275"
+            },
+            {
+              "length": 194,
+              "offset": 5,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 480,
+              "offset": 199,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 130,
+              "offset": 679,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 21,
+              "offset": 739,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/04/hunter-bidens-business-partner-visited-obamas-white-house-19-times-yet-joe-biden-says-nothing-hunters-business/"
+            },
+            {
+              "length": 34,
+              "offset": 775,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": ".\n‼️  Hunter Bidens Geschäftspartner besuchte 19 Mal Obamas Weißes Haus während der Amtszeit von Obama, doch Joe Biden sagt, er habe nichts mit Hunters Geschäft zu tun\n\nDas berichtet die Daily Mail:\nHunter Bidens Top-Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus Besucherprotokollen der Obama-Regierung hervorgeht.\n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nAnbei das Interview von Levine mit FOX and Friends.\n\nQuelle: The Gateway Pundit\n\nWeitere Infos: https://t.me/ALLES_KOMMT_ANS_LICHT",
+          "peerid": {
+            "channel_id": 1363881540,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 5240,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "6374734539696124062",
+        "_score": 4.6068,
+        "_source": {
+          "archivedon": "2022-04-25 16:55:46.344496",
+          "channelabout": "Information, Motivation, Inspiration ❤️",
+          "channeltitle": "Frieden rockt offiziell",
+          "channelusername": "frieden_rockt_offiziell",
+          "date": 1650892561,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 448,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 47,
+              "offset": 842,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 55,
+              "offset": 909,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 28,
+              "offset": 966,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 250,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Chemtrail-Ausbreitung nach 60min.\n\nDie meisten Aerosol-Verbindungen werden in 10-12km Flughöhe ausgebracht.Hier herrschen meist andere Winde als in Bodennähe, was sich visuell oft in einer Gegenbewegung zu den am Boden spürbaren Winden äußert.\n\nPolymer-Fasern ziehen dabei oft lange Schlieren am Himmel, da die Mikroplastik Fäden sehr leicht sind. Am Boden werden sie von den meisten Menschen fälschlicherweise als Spinnenweben gedeutet. \n\nPatent:\nhttps://patents.google.com/patent/US6110590A/en\n\nIn einer Höhe von ca.8km gelangen die chemischen Aerosole in den Ionisierungsbereich der NEXRAD Radare, wodurch je nach geplanter Wetterlage eine technische Aufladung der Teilchen zu Ionen, für gezielte Kondensation der Luftfeuchtigkeit sorgen kann. Es entsteht eine oft wellenförmige Wolkenschicht, die das Sonnenlicht blockiert. 🚫☀️\n\nPatent:\nhttps://patents.google.com/patent/US4999637A/en\n\nDanke an Eric 🙏\n\nHier den offiziellen \nFrieden rockt Kanal abonnieren 👇\n t.me/frieden_rockt_offiziell",
+          "peerid": {
+            "channel_id": 1484233546,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 9529,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5314864278946197302",
+        "_score": 4.3273,
+        "_source": {
+          "archivedon": "2022-04-25 06:12:23.024165",
+          "channelabout": "Freier Journalismus für den Durchblick in einer Zeit, die geprägt ist von politisch motivierter Desinformation.\n\nYoutube 🎥 \nhttps://www.youtube.com/c/LIONMediaNetwork",
+          "channeltitle": "LION Media",
+          "channelusername": "LIONMediaTelegram",
+          "date": 1650860642,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 2230,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 2230,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 67,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 91629,
+            "date": 1650859646,
+            "from_id": {
+              "channel_id": 1325174315,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Es riecht nach einem Skandal: Joe Biden und seine Mitarbeiter trafen sich während seiner Vizepräsidentschaft mit Hunters Top-Geschäftspartner im Weißen Haus, wie Besucherprotokolle enthüllen\n\n    Besucherprotokolle der Obama-Regierung enthüllen, dass Joe Biden sich 2010 mit dem wichtigsten Geschäftspartner seines Sohnes Hunter getroffen hat\n    Eric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, reiste von 2009 bis 2015 alleine 19 Mal ins Weiße Haus. \n    Neun Reisen beinhalteten Treffen mit Biden, seinen Mitarbeitern und den Mitarbeitern von Jill Biden\n    Die Republikaner kritisierten die Treffen als ein weiteres Beispiel dafür, dass Hunter seinen Vater benutzt, um sich Geschäfte zu sichern, und forderten Ermittlungen gegen die Bidens.\n    Dies geschieht zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland vor Gericht steht. \n\nHunter Bidens wichtigster Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus den Besucherprotokollen der Obama-Regierung hervorgeht. \n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöster Firma Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nDer texanische Senator Ted Cruz, ein lautstarker Kritiker der Bidens, sagte der Post, dass die Protokolle der jüngste Beweis dafür seien, dass Hunter seinen Vater benutze, um sich Geschäfte zu sichern, und forderte, dass gegen die Bidens wegen Korruption ermittelt werden solle.\n\nEs wird immer offensichtlicher, dass Hunter Bidens Geschäfte sich darum drehten, seinem Vater Zugang zu den höchsten Hebeln der Macht zu verschaffen\", sagte Cruz. Das riecht nach Bestechung. \n\nDie klare Lösung ist eine Untersuchung durch einen Special Counsel, um die beunruhigenden Korruptionsvorwürfe der Familie Biden fair zu untersuchen.\n\nDie Enthüllung kommt zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland strafrechtlich verfolgt wird. \"\n\nhttps://www.dailymail.co.uk/news/article-10746867/Joe-Biden-staff-met-Hunters-business-partner-White-House.html",
+          "peerid": {
+            "channel_id": 1237463271,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 11094,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5351590840647070566",
+        "_score": 4.3273,
+        "_source": {
+          "archivedon": "2022-04-25 06:17:52.007891",
+          "channelabout": "Politisches und Lustiges",
+          "channeltitle": "Videodump",
+          "channelusername": "videodump1",
+          "date": 1650862928,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 2230,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 2230,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 91629,
+            "date": 1650859646,
+            "from_id": {
+              "channel_id": 1325174315,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Es riecht nach einem Skandal: Joe Biden und seine Mitarbeiter trafen sich während seiner Vizepräsidentschaft mit Hunters Top-Geschäftspartner im Weißen Haus, wie Besucherprotokolle enthüllen\n\n    Besucherprotokolle der Obama-Regierung enthüllen, dass Joe Biden sich 2010 mit dem wichtigsten Geschäftspartner seines Sohnes Hunter getroffen hat\n    Eric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, reiste von 2009 bis 2015 alleine 19 Mal ins Weiße Haus. \n    Neun Reisen beinhalteten Treffen mit Biden, seinen Mitarbeitern und den Mitarbeitern von Jill Biden\n    Die Republikaner kritisierten die Treffen als ein weiteres Beispiel dafür, dass Hunter seinen Vater benutzt, um sich Geschäfte zu sichern, und forderten Ermittlungen gegen die Bidens.\n    Dies geschieht zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland vor Gericht steht. \n\nHunter Bidens wichtigster Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus den Besucherprotokollen der Obama-Regierung hervorgeht. \n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöster Firma Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nDer texanische Senator Ted Cruz, ein lautstarker Kritiker der Bidens, sagte der Post, dass die Protokolle der jüngste Beweis dafür seien, dass Hunter seinen Vater benutze, um sich Geschäfte zu sichern, und forderte, dass gegen die Bidens wegen Korruption ermittelt werden solle.\n\nEs wird immer offensichtlicher, dass Hunter Bidens Geschäfte sich darum drehten, seinem Vater Zugang zu den höchsten Hebeln der Macht zu verschaffen\", sagte Cruz. Das riecht nach Bestechung. \n\nDie klare Lösung ist eine Untersuchung durch einen Special Counsel, um die beunruhigenden Korruptionsvorwürfe der Familie Biden fair zu untersuchen.\n\nDie Enthüllung kommt zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland strafrechtlich verfolgt wird. \"\n\nhttps://www.dailymail.co.uk/news/article-10746867/Joe-Biden-staff-met-Hunters-business-partner-White-House.html",
+          "peerid": {
+            "channel_id": 1246014340,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 677,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5691580344424293869",
+        "_score": 4.3273,
+        "_source": {
+          "archivedon": "2022-04-25 13:52:01.45401",
+          "channelabout": "Offizieller Kanal von Eva Herman - Nur diese beiden Kanäle sind ein Projekt von uns: \n\nhttps://t.me/EvaHermanOffiziell\n\nhttps://t.me/FriedlicheHandtuchRevolution\n\nsowie bei YouTube und BitChute unter \"Eva Herman\"",
+          "channeltitle": "Eva Herman Offiziell",
+          "channelusername": "EvaHermanOffiziell",
+          "date": 1650859646,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 2230,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 2230,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 294,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Es riecht nach einem Skandal: Joe Biden und seine Mitarbeiter trafen sich während seiner Vizepräsidentschaft mit Hunters Top-Geschäftspartner im Weißen Haus, wie Besucherprotokolle enthüllen\n\n    Besucherprotokolle der Obama-Regierung enthüllen, dass Joe Biden sich 2010 mit dem wichtigsten Geschäftspartner seines Sohnes Hunter getroffen hat\n    Eric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, reiste von 2009 bis 2015 alleine 19 Mal ins Weiße Haus. \n    Neun Reisen beinhalteten Treffen mit Biden, seinen Mitarbeitern und den Mitarbeitern von Jill Biden\n    Die Republikaner kritisierten die Treffen als ein weiteres Beispiel dafür, dass Hunter seinen Vater benutzt, um sich Geschäfte zu sichern, und forderten Ermittlungen gegen die Bidens.\n    Dies geschieht zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland vor Gericht steht. \n\nHunter Bidens wichtigster Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus den Besucherprotokollen der Obama-Regierung hervorgeht. \n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöster Firma Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nDer texanische Senator Ted Cruz, ein lautstarker Kritiker der Bidens, sagte der Post, dass die Protokolle der jüngste Beweis dafür seien, dass Hunter seinen Vater benutze, um sich Geschäfte zu sichern, und forderte, dass gegen die Bidens wegen Korruption ermittelt werden solle.\n\nEs wird immer offensichtlicher, dass Hunter Bidens Geschäfte sich darum drehten, seinem Vater Zugang zu den höchsten Hebeln der Macht zu verschaffen\", sagte Cruz. Das riecht nach Bestechung. \n\nDie klare Lösung ist eine Untersuchung durch einen Special Counsel, um die beunruhigenden Korruptionsvorwürfe der Familie Biden fair zu untersuchen.\n\nDie Enthüllung kommt zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland strafrechtlich verfolgt wird. \"\n\nhttps://www.dailymail.co.uk/news/article-10746867/Joe-Biden-staff-met-Hunters-business-partner-White-House.html",
+          "peerid": {
+            "channel_id": 1325174315,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 70587,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5998564867072628337",
+        "_score": 4.3273,
+        "_source": {
+          "archivedon": "2022-04-25 15:10:44.661217",
+          "channelabout": "Kanal für aktuelle und historische Informationen \nvor und hinter dem Vorhang der Macht.\n\nÜberparteilich, unabhängig, \ngegen jede Art von Desinformation und Medienpropaganda.\n\nFür politische Transparenz, Gerechtigkeit \nund wahre Freiheit der Menschen",
+          "channeltitle": "CONTRACOMA",
+          "channelusername": "contracoma",
+          "date": 1650870968,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 2230,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 2230,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 91629,
+            "date": 1650859646,
+            "from_id": {
+              "channel_id": 1325174315,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Es riecht nach einem Skandal: Joe Biden und seine Mitarbeiter trafen sich während seiner Vizepräsidentschaft mit Hunters Top-Geschäftspartner im Weißen Haus, wie Besucherprotokolle enthüllen\n\n    Besucherprotokolle der Obama-Regierung enthüllen, dass Joe Biden sich 2010 mit dem wichtigsten Geschäftspartner seines Sohnes Hunter getroffen hat\n    Eric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, reiste von 2009 bis 2015 alleine 19 Mal ins Weiße Haus. \n    Neun Reisen beinhalteten Treffen mit Biden, seinen Mitarbeitern und den Mitarbeitern von Jill Biden\n    Die Republikaner kritisierten die Treffen als ein weiteres Beispiel dafür, dass Hunter seinen Vater benutzt, um sich Geschäfte zu sichern, und forderten Ermittlungen gegen die Bidens.\n    Dies geschieht zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland vor Gericht steht. \n\nHunter Bidens wichtigster Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus den Besucherprotokollen der Obama-Regierung hervorgeht. \n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöster Firma Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nDer texanische Senator Ted Cruz, ein lautstarker Kritiker der Bidens, sagte der Post, dass die Protokolle der jüngste Beweis dafür seien, dass Hunter seinen Vater benutze, um sich Geschäfte zu sichern, und forderte, dass gegen die Bidens wegen Korruption ermittelt werden solle.\n\nEs wird immer offensichtlicher, dass Hunter Bidens Geschäfte sich darum drehten, seinem Vater Zugang zu den höchsten Hebeln der Macht zu verschaffen\", sagte Cruz. Das riecht nach Bestechung. \n\nDie klare Lösung ist eine Untersuchung durch einen Special Counsel, um die beunruhigenden Korruptionsvorwürfe der Familie Biden fair zu untersuchen.\n\nDie Enthüllung kommt zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland strafrechtlich verfolgt wird. \"\n\nhttps://www.dailymail.co.uk/news/article-10746867/Joe-Biden-staff-met-Hunters-business-partner-White-House.html",
+          "peerid": {
+            "channel_id": 1396649719,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 68,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5839152843734412340",
+        "_score": 4.3273,
+        "_source": {
+          "archivedon": "2022-04-25 14:39:20.967334",
+          "channelabout": "Indem viele die englische Sprache nicht perfekt beherrschen findet ihr hier viele Videos ins deutsche sprachlich oder mit einem Untertitel übersetzt, ist ja sehr frustrierend wenn man nicht Bescheid weiß um was es bei den Videos geht :)",
+          "channeltitle": "Translated Videos/Wahlbetrug",
+          "channelusername": "TranslatedVideos",
+          "date": 1650877006,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 2230,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 111,
+              "offset": 2230,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 91629,
+            "date": 1650859646,
+            "from_id": {
+              "channel_id": 1325174315,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Es riecht nach einem Skandal: Joe Biden und seine Mitarbeiter trafen sich während seiner Vizepräsidentschaft mit Hunters Top-Geschäftspartner im Weißen Haus, wie Besucherprotokolle enthüllen\n\n    Besucherprotokolle der Obama-Regierung enthüllen, dass Joe Biden sich 2010 mit dem wichtigsten Geschäftspartner seines Sohnes Hunter getroffen hat\n    Eric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöstem Unternehmen Rosemont Seneca, reiste von 2009 bis 2015 alleine 19 Mal ins Weiße Haus. \n    Neun Reisen beinhalteten Treffen mit Biden, seinen Mitarbeitern und den Mitarbeitern von Jill Biden\n    Die Republikaner kritisierten die Treffen als ein weiteres Beispiel dafür, dass Hunter seinen Vater benutzt, um sich Geschäfte zu sichern, und forderten Ermittlungen gegen die Bidens.\n    Dies geschieht zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland vor Gericht steht. \n\nHunter Bidens wichtigster Geschäftspartner hatte sich bei einem von 19 Besuchen im Weißen Haus zwischen 2009 und 2015 mit dem damaligen Vizepräsidenten Joe Biden getroffen, wie aus den Besucherprotokollen der Obama-Regierung hervorgeht. \n\nEric Schwerin, ehemaliger Präsident von Hunters inzwischen aufgelöster Firma Rosemont Seneca, traf sich am 17. November 2010 mit Biden, als Hunter gerade dabei war, millionenschwere Geschäfte im Ausland abzuschließen, berichtet die New York Post.\n\nDer texanische Senator Ted Cruz, ein lautstarker Kritiker der Bidens, sagte der Post, dass die Protokolle der jüngste Beweis dafür seien, dass Hunter seinen Vater benutze, um sich Geschäfte zu sichern, und forderte, dass gegen die Bidens wegen Korruption ermittelt werden solle.\n\nEs wird immer offensichtlicher, dass Hunter Bidens Geschäfte sich darum drehten, seinem Vater Zugang zu den höchsten Hebeln der Macht zu verschaffen\", sagte Cruz. Das riecht nach Bestechung. \n\nDie klare Lösung ist eine Untersuchung durch einen Special Counsel, um die beunruhigenden Korruptionsvorwürfe der Familie Biden fair zu untersuchen.\n\nDie Enthüllung kommt zu einem Zeitpunkt, zu dem Hunter wegen angeblichen Steuerbetrugs, Geldwäsche und illegaler Lobbyarbeit im Ausland strafrechtlich verfolgt wird. \"\n\nhttps://www.dailymail.co.uk/news/article-10746867/Joe-Biden-staff-met-Hunters-business-partner-White-House.html",
+          "peerid": {
+            "channel_id": 1359533715,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 5021,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5966960951520513286",
+        "_score": 4.3109,
+        "_source": {
+          "archivedon": "2022-04-26 04:23:21.878342",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1650921064,
+          "editdate": 1650922195,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1509331953
+          },
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I whole-heartedly agree with you on everything except refusing to vote because you do not think it will matter.  I can see how you feel that way, that is your prerogative.\n\nMost people in this group agree our elections have been completely corrupted. We agree that we have to get rid of the machines.  We have been working in Wisconsin to abolish WEC,  to drastically limit absentee voting, get rid of illegal drop boxes, audit/investigate WisVote, dump ERIC, and hold EVERYONE accountable.  We are working on all of the above.  To that end we are making progress to severely handicap the fraudsters and make it harder to cheat and STILL feel we can show up to vote and have it matter.\n\nWe can agree to disagree on participating in the vote.   I believe it still matters and can still make a difference.  From what you have stated, you believe Minnesota still a  lost cause.",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 117985,
+            "reply_to_top_id": 117874
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1509331953,
+            "_v": 1,
+            "access_hash": -6.96797538644243e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Lynn",
+            "id": 1509331953,
+            "is_self": false,
+            "last_name": "Milner",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 288108,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100009100193
+              },
+              "photo_id": 4.90454353939698e+18,
+              "photo_small": {
+                "local_id": 288106,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100009100193
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "DennyGirl5",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5595791965154207615",
+        "_score": 3.4927,
+        "_source": {
+          "archivedon": "2022-04-26 03:14:24.087844",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1650905715,
+          "editdate": 1650910045,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 23,
+              "offset": 216,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 330,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 447,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 592,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 694,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 779,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 1016,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 1100,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 1183,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 1363,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 23,
+              "offset": 1466,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 18,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "11 General Flynn & Clay Clark ReAwaken America Tour Updates:  \n \n1. President Trump's former Chief of Staff Kash Patel and NBA-Star Jonathan Isaac Join the ReAwaken America Tour!!! + Myrtle Beach Is 100% Sold Out!!! https://tapme.ws/tBBWOK   \n \n2. 1,711 Tickets Remain for the July 8th & 9th ReAwaken America Tour Virginia Beach: https://tapme.ws/JHGAZG   \n \n3. See the Man Who Is Leading \"COVID-19 / The Great Reset\"? (Yuval Noah Harari) - WATCH https://tapme.ws/mlpjKP  \n \n4. Klaus Schwab Lead Advisor Yuval Noah Harari Is Frustrated That \"Trump Is Destroying the Global Alliance System\" - https://tapme.ws/zUp1yX  \n \n5. Read Clay's Newest Book \"The Great Reset Versus The Great Awakening\" - https://tapme.ws/97gJ5p  \n \n6. Watch the ReAwaken America Tour Documentary for FREE: https://tapme.ws/COuEDM  \n \n7. ReAwaken America Tour Founder, Clay Clark Is Being Sued by Eric Coomer, the Former Director of Strategy and Security for Dominion Voting for \"Defamation\" - Support Clay Clark's Legal Defense Fund Today At: https://tapme.ws/Tedq83  \n \n8. Find Jobs That Don't Require the COVID-19 Vaccines - https://tapme.ws/Wc7ugj  \n \n9. Find Affordable COVID-19 Treatments and Therapies - https://tapme.ws/kCiYZs  \n \n10. Did God Show Kim Clement the Great ReAwakening? Kim Clement - \"A Movement Is Being Born. Those Who've Rejected HIM Shall Become Davids of This Day\" https://tapme.ws/ACeM5G  \n \n11. Get Your ReAwaken America Tour Gear (Hoodies, Shirts, Books, etc.) At: https://tapme.ws/COuEDM",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "WetYeti ⭐️⭐️⭐️",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 1824395,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 2628742
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 3270,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5659423404588025771",
+        "_score": 3.4927,
+        "_source": {
+          "archivedon": "2022-04-26 05:35:07.153857",
+          "channelabout": "Bitte verbreitet den Link des Kanals um noch mehr Menschen aufzuwecken: \n\nt.me/q_proofs\n\nWas ist Q?\n\nhttps://qlobal-change.blogspot.com/p/fur-neulinge-thema-qanon-trump-zum.html\n\nhttp://qposts.in\n\nhttps://qanon.pub\n\nhttps://qposts.online/",
+          "channeltitle": "Q-Beweise (Q-proofs)",
+          "channelusername": "q_proofs",
+          "date": 1650926430,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1571,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/"
+            },
+            {
+              "length": 7,
+              "offset": 1584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22982,
+            "date": 1650925373,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Von Trump eingesetzter Bundesrichter erlässt einstweilige Verfügung, die Joe Biden daran hindert, Paragraph 42 aufzuheben\n\nEin von Trump ernannter Bundesrichter hat am Montag eine einstweilige Verfügung erlassen, um zu verhindern, dass das Biden-Regime Paragraph 42 aufhebt, eine Anordnung aus der Trump-Ära, die Asylsuchende an der US-Grenze zurückhält.\n\nParagraph 42 wurde von Präsident Trump im Jahr 2020 angewandt, um Migranten, die während der Covid-Pandemie Asyl suchten, auszuweisen.\n\nBiden ordnete am 23. Mai die Aufhebung von Paragraph 42 an, doch ein Bundesrichter hinderte ihn gerade daran, die von Trump erlassene Anordnung aufzuheben.\n\nAnfang dieses Monats reichten Arizona, Louisiana und Missouri die Klage gegen Bidens Entscheidung ein, den Paragraf 42 am 23. Mai aufzuheben.\n\nDer US-Bezirksrichter für den westlichen Bezirk von Louisiana, Robert Summerhays, ein von Trump ernannter Richter, erließ am Montag eine einstweilige Verfügung.\n\n\"In einer Klage, die ursprünglich von Missouri, Louisiana und Arizona eingereicht wurde, hat unser Büro gerade eine einstweilige Verfügung erwirkt, um die Anwendung von Paragraph 42 aufrechtzuerhalten. Das ist ein großer Sieg für die Grenzsicherheit, aber der Kampf geht weiter.\" sagte der Generalstaatsanwalt von Missouri, Eric Schmitt.\n\nDie folgenden Staaten haben sich bisher der Klage angeschlossen:\n\nArizona, Louisiana, Missouri, Alabama, Alaska, Arkansas, Florida, Georgia, Idaho, Kansas, Kentucky, Mississippi, Montana, Nebraska, Ohio, Oklahoma, South Carolina, Tennessee, Utah, West Virginia und Wyoming.\n\n🔵 Englisch  🔵 Deutsch",
+          "peerid": {
+            "channel_id": 1317687194,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 527,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5200406424164775323",
+        "_score": 3.4927,
+        "_source": {
+          "archivedon": "2022-04-26 12:11:26.724326",
+          "channelabout": "Volksentscheid MF ist ein alternatives Newsmedium was über Geopolitik & Finanzsystem, der neuen Weltordnung berichtet.",
+          "channeltitle": "Volksentscheid MF",
+          "channelusername": "VolksentscheidMF",
+          "date": 1650928211,
+          "editdate": 1650928746,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1571,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/"
+            },
+            {
+              "length": 7,
+              "offset": 1584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 22982,
+            "date": 1650925373,
+            "from_id": {
+              "channel_id": 1285160972,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Von Trump eingesetzter Bundesrichter erlässt einstweilige Verfügung, die Joe Biden daran hindert, Paragraph 42 aufzuheben\n\nEin von Trump ernannter Bundesrichter hat am Montag eine einstweilige Verfügung erlassen, um zu verhindern, dass das Biden-Regime Paragraph 42 aufhebt, eine Anordnung aus der Trump-Ära, die Asylsuchende an der US-Grenze zurückhält.\n\nParagraph 42 wurde von Präsident Trump im Jahr 2020 angewandt, um Migranten, die während der Covid-Pandemie Asyl suchten, auszuweisen.\n\nBiden ordnete am 23. Mai die Aufhebung von Paragraph 42 an, doch ein Bundesrichter hinderte ihn gerade daran, die von Trump erlassene Anordnung aufzuheben.\n\nAnfang dieses Monats reichten Arizona, Louisiana und Missouri die Klage gegen Bidens Entscheidung ein, den Paragraf 42 am 23. Mai aufzuheben.\n\nDer US-Bezirksrichter für den westlichen Bezirk von Louisiana, Robert Summerhays, ein von Trump ernannter Richter, erließ am Montag eine einstweilige Verfügung.\n\n\"In einer Klage, die ursprünglich von Missouri, Louisiana und Arizona eingereicht wurde, hat unser Büro gerade eine einstweilige Verfügung erwirkt, um die Anwendung von Paragraph 42 aufrechtzuerhalten. Das ist ein großer Sieg für die Grenzsicherheit, aber der Kampf geht weiter.\" sagte der Generalstaatsanwalt von Missouri, Eric Schmitt.\n\nDie folgenden Staaten haben sich bisher der Klage angeschlossen:\n\nArizona, Louisiana, Missouri, Alabama, Alaska, Arkansas, Florida, Georgia, Idaho, Kansas, Kentucky, Mississippi, Montana, Nebraska, Ohio, Oklahoma, South Carolina, Tennessee, Utah, West Virginia und Wyoming.\n\n🔵 Englisch  🔵 Deutsch",
+          "peerid": {
+            "channel_id": 1210813975,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "FUCHSER",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1499492657,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 60633
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 514,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5216667943441548876",
+        "_score": 3.4927,
+        "_source": {
+          "archivedon": "2022-04-26 12:15:04.319507",
+          "channelabout": "Übersetzungen für Qlobal Change + vieles mehr. WWG1WGA \nhttp://t.me/Qanons_Channel_Memes\nhttp://t.me/QAnons_InstaFEED\n\nKontakt : @QAnon_Kontakt_bot",
+          "channeltitle": "QAnons Channel 🇩🇪",
+          "channelusername": "QAnons_Channel_Germany",
+          "date": 1650925382,
+          "editdate": 1650946471,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1571,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/"
+            },
+            {
+              "length": 7,
+              "offset": 1584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Von Trump eingesetzter Bundesrichter erlässt einstweilige Verfügung, die Joe Biden daran hindert, Paragraph 42 aufzuheben\n\nEin von Trump ernannter Bundesrichter hat am Montag eine einstweilige Verfügung erlassen, um zu verhindern, dass das Biden-Regime Paragraph 42 aufhebt, eine Anordnung aus der Trump-Ära, die Asylsuchende an der US-Grenze zurückhält.\n\nParagraph 42 wurde von Präsident Trump im Jahr 2020 angewandt, um Migranten, die während der Covid-Pandemie Asyl suchten, auszuweisen.\n\nBiden ordnete am 23. Mai die Aufhebung von Paragraph 42 an, doch ein Bundesrichter hinderte ihn gerade daran, die von Trump erlassene Anordnung aufzuheben.\n\nAnfang dieses Monats reichten Arizona, Louisiana und Missouri die Klage gegen Bidens Entscheidung ein, den Paragraf 42 am 23. Mai aufzuheben.\n\nDer US-Bezirksrichter für den westlichen Bezirk von Louisiana, Robert Summerhays, ein von Trump ernannter Richter, erließ am Montag eine einstweilige Verfügung.\n\n\"In einer Klage, die ursprünglich von Missouri, Louisiana und Arizona eingereicht wurde, hat unser Büro gerade eine einstweilige Verfügung erwirkt, um die Anwendung von Paragraph 42 aufrechtzuerhalten. Das ist ein großer Sieg für die Grenzsicherheit, aber der Kampf geht weiter.\" sagte der Generalstaatsanwalt von Missouri, Eric Schmitt.\n\nDie folgenden Staaten haben sich bisher der Klage angeschlossen:\n\nArizona, Louisiana, Missouri, Alabama, Alaska, Arkansas, Florida, Georgia, Idaho, Kansas, Kentucky, Mississippi, Montana, Nebraska, Ohio, Oklahoma, South Carolina, Tennessee, Utah, West Virginia und Wyoming.\n\n🔵 Englisch  🔵 Deutsch",
+          "peerid": {
+            "channel_id": 1214600155,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1440741914,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 218540
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 556,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202204",
+        "_id": "5519724344835594694",
+        "_score": 3.4927,
+        "_source": {
+          "archivedon": "1682525466",
+          "channelabout": "https://qalerts.app\n📨 @QC_Kontakt_Bot\n🇺🇸 @QlobalChangeUSA\n🇮🇹 @QlobalChangeItalia\n🇪🇸 @QlobalChangeEspana\n🇵🇹 @QlobalChangePortugal\n🇫🇷 @QlobalChangeFrance\n🇳🇱 @QlobalChangeNL\n🎦 @X22_Report_Deutsch\n▶️ odysee.com/$/invite/@Qlobal-Change:",
+          "channeltitle": "Qlobal-Change 🇩🇪🇦🇹🇨🇭🇱🇮 🤝 🇳🇱",
+          "channelusername": "QlobalChange",
+          "date": 1650925373,
+          "editdate": 1650925407,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 123,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 8,
+              "offset": 1571,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/"
+            },
+            {
+              "length": 7,
+              "offset": 1584,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www-thegatewaypundit-com.translate.goog/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp"
+            }
+          ],
+          "forwards": 444,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "id": 22982,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Cristina Laila",
+              "display_url": "thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42",
+              "hash": 0,
+              "id": 7.00594959853522e+18,
+              "photo": {
+                "access_hash": -2.67609860298554e+18,
+                "date": 1631066960,
+                "dc_id": 4,
+                "file_reference": "AGRJTM7TeTX6QIxA+ajXZodW+BPZ",
+                "has_stickers": false,
+                "id": 5.89215007774354e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARYolpj9qdUcr7Rx1zWj2JW49mBXHasyTjI96vMzlWAHPXFUH6GlS2ZdTdD4OqfWikg6p9aK0l0MWXLmRo0G3qTiqW4ltxJJoorJmiNVmH2i7ODkR/0rK6/SiikhsdEMOv1ooorbojNn",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 174,
+                    "size": 7922,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 407,
+                    "w": 749,
+                    "sizes": [4497, 8524, 10638, 14265, 25671]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "BREAKING: Trump-Appointed Federal Judge Issues Temporary Restraining Order Barring Joe Biden From Lifting Title 42",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2022/04/breaking-trump-appointed-federal-judge-issues-temporary-restraining-order-barring-joe-biden-lifting-title-42/"
+            }
+          },
+          "message": "Von Trump eingesetzter Bundesrichter erlässt einstweilige Verfügung, die Joe Biden daran hindert, Paragraph 42 aufzuheben\n\nEin von Trump ernannter Bundesrichter hat am Montag eine einstweilige Verfügung erlassen, um zu verhindern, dass das Biden-Regime Paragraph 42 aufhebt, eine Anordnung aus der Trump-Ära, die Asylsuchende an der US-Grenze zurückhält.\n\nParagraph 42 wurde von Präsident Trump im Jahr 2020 angewandt, um Migranten, die während der Covid-Pandemie Asyl suchten, auszuweisen.\n\nBiden ordnete am 23. Mai die Aufhebung von Paragraph 42 an, doch ein Bundesrichter hinderte ihn gerade daran, die von Trump erlassene Anordnung aufzuheben.\n\nAnfang dieses Monats reichten Arizona, Louisiana und Missouri die Klage gegen Bidens Entscheidung ein, den Paragraf 42 am 23. Mai aufzuheben.\n\nDer US-Bezirksrichter für den westlichen Bezirk von Louisiana, Robert Summerhays, ein von Trump ernannter Richter, erließ am Montag eine einstweilige Verfügung.\n\n\"In einer Klage, die ursprünglich von Missouri, Louisiana und Arizona eingereicht wurde, hat unser Büro gerade eine einstweilige Verfügung erwirkt, um die Anwendung von Paragraph 42 aufrechtzuerhalten. Das ist ein großer Sieg für die Grenzsicherheit, aber der Kampf geht weiter.\" sagte der Generalstaatsanwalt von Missouri, Eric Schmitt.\n\nDie folgenden Staaten haben sich bisher der Klage angeschlossen:\n\nArizona, Louisiana, Missouri, Alabama, Alaska, Arkansas, Florida, Georgia, Idaho, Kansas, Kentucky, Mississippi, Montana, Nebraska, Ohio, Oklahoma, South Carolina, Tennessee, Utah, West Virginia und Wyoming.\n\n🔵 Englisch  🔵 Deutsch",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1285160972,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 600,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 20,
+                "reaction": "❤",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 17,
+                "reaction": "😁",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 5,
+                "reaction": "🤔",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "🤯",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 115374,
+          "lastseents": "2023-04-26T16:11:06.649486",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

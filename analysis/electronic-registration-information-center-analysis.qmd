@@ -1,0 +1,1525 @@
+---
+title: NPR analysis of Electronic Registration Information Center from alternative social media sites
+format: 
+  html: 
+    code-fold: true
+    code-summary: "Show the code"
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    embed-resources: true
+execute:
+  echo: true
+  message: false
+  warning: false
+  error: false
+editor: visual
+---
+
+# Methodology
+
+**Goal**: Measure volume of chatter about [ERIC (Electronic Registration Information Center)](https://ericstates.org/) on alternative social media platforms before and after the publication of [this gatewaypundit article](https://www.thegatewaypundit.com/2022/01/cleaning-voter-rolls-soros-founded-funded-eric-now-used-31-states/) on Jan. 20, 2022.
+
+The data for this analysis comes from [SMAT](https://www.smat-app.com/).
+
+They describe themselves as:
+
+> "SMAT pulls data from the corners of the internet most know for generating harmful narratives and real world violence such as Parler, Telegram, 8kun, 4chan, and Gab. We then provide straightforward ways to analyze and visualize that data for researchers, activists, and organizations concerned with monitoring emerging threats."
+
+## **Load Libraries and Utility Functions**
+
+```{r}
+
+library(tidyverse) # data manipulation
+library(jsonlite) # json manipulation
+library(lubridate) # date manipulation
+library(httr) # http requests
+library(glue) # string interpolation
+library(listviewer) # view json
+library(janitor) # clean column names
+library(here) # file paths
+library(reactable) # interactive tables
+library(reactablefmtr) # format reactable
+library(tictoc) # time functions
+library(furrr) # parallel processing
+library(future) # parallel processing
+library(progress) # progress bar
+library(googlesheets4) # google sheets
+library(googledrive) # google drive
+library(tidytext) # text analysis
+library(stopwords) # text analysis
+```
+
+
+```{r}
+
+# Set location of script
+here::i_am("./analysis/electronic-registration-information-center-analysis.qmd")
+
+# read in .Renviron file for api keys and enpoint
+readRenviron("~/.Renviron") 
+
+
+# set google sheet id for export for fact check
+
+#drive_auth()
+#gs4_auth(token = drive_token())
+#google_sheet_id = "xxx"
+
+export_df_to_gsheet = function(df,  name, sheet_id = google_sheet_id, export_flag = FALSE){
+
+    if (export_flag == TRUE){
+
+      googlesheets4::sheet_write(data = df , ss = sheet_id, sheet = name)
+
+
+    }
+      
+}
+
+# Change export flag to true to export to google sheets
+export_flag = FALSE
+
+# set parallel processing plan (this will be for aggregating and unnesting the json)
+plan(multisession)
+
+
+# Custom Display Function
+cat_table = function(df, title = NULL, google_sheet_url = NULL){
+
+     
+    if (is.null(title) == TRUE) {
+        title = deparse(substitute(df))
+    }
+
+    if (is.null(google_sheet_url) == TRUE) {
+
+      source_text = "No google sheet link"
+    } else {
+
+      source_text = htmltools::tags$a(href = as.character(google_sheet_url), target = "_blank", "Click here to view in Google Sheets")
+
+    }
+
+    df  %>%
+    reactable(height = 500,
+        style = list(margin = "margin-bottom: 20px"),
+        striped = TRUE,
+        searchable = TRUE,
+        filterable = TRUE,
+        pagination = FALSE,
+        highlight = TRUE,
+        bordered = TRUE)  %>% add_title(title, 
+                                        font_weight = "normal", 
+                                        font_size = "0.9em",
+                                        align = "center")  %>% 
+                                        add_source(source = source_text,
+                                        font_size = "0.8em")
+  
+}
+
+# Custom Cleaning Function
+clean_data_frame = function(df){
+  
+  df_clean = df %>% 
+    janitor::clean_names() %>% # clean column names
+    mutate(across(where(is.character), tolower), 
+           across(where(is.character), str_squish)) 
+  
+    return(df_clean)
+  
+}
+
+
+
+```
+
+
+### Description of platforms
+
+Here are all the [platforms that SMAT Montors](https://docs.smat-app.com/docs/guides/data-guide)
+
+The platforms we chose to focus on are:
+
+-   Truth Social
+-   Gettr
+-   Gab
+-   Parler
+-   Telegram
+
+These are some of the more popular alternative social media platforms frequented by right-wing users. 
+
+The caveats for the data are described on their website and I have pasted them below:
+
+**Telegram** *Takeaway*: its a sample of Telegram, not the full universe.
+
+> "SMAT targets specific Telegram channels for collection due to the vast volume of Telegram users and content. SMAT utilizes subject matter experts and community volunteers to source hundreds of channels for crawling in addition to automated methods yielding over 65,000 channels being crawled. SMAT crawls users metadata, messages, all media, and channel metadata from the seed crawling set. Some of the categories of these channels are: Russian state and Russian affiliated propaganda, white nationalist groups, and European far-right groups like Querdenker."
+
+**Truth Social** *Takeaway*: It should be close to the full universe of Truth Social.
+
+> "SMAT aims to crawl all posts, comments and user profiles on Truth Social."
+
+**Gettr** *Takeaway*: It should be close to the full universe of Gettr.
+
+> "SMAT aims to perform a full crawl of Gettr. SMAT collects posts, comments and use profiles from Gettr."
+
+**Parler** *Takeaway*: It should be close to the full universe of Parler. 
+
+> "SMAT aims to crawl all posts, comments and user profiles on Parler".
+
+**Gab** *Takeaway*: It should be close to the full universe of Gab. 
+
+> "SMAT aims to perform a full crawl of Gab. SMAT's gab collection includes the data that was leaked due to a SQL vulnerability in 2021. SMAT collects posts and comments from Gab."
+
+### Search Terms and Message Limit
+
+SMAT's API uses Elastic Search. The query that I used for each platfrom was: 
+
+
+```{{r}}
+
+"Electronic Registration Information Center" OR ({post_content}: "ERIC")
+
+```
+
+This search term would return all messages that contain the phrase "Electronic Registration Information Center" anywhere in the API response or "ERIC" in the post content of the platform.
+
+The full phrase was searched across everything because when the full name of the organization is used it is clear that the post or comment is in reference to the group. The acroynm was only searched in the post content because it is a common name that will return a lot of false positives if searched across all fields. In the analysis pipeline, we come up with a system to remove false positives for message that don't mention the full groups name but do have the word "ERIC" in the post content. 
+
+We are only looking at messages from **2021-08-29** to **2023-04-15**. This timeframe was chosen to look at chatter for ERIC a few months before the publication of the Gateway Pundit Article and allow a few weeks after Florida, Missouri, and West Virginia pulled out of ERIC.
+
+Here are the functions that query the API and save the returned json file:
+
+```{r}
+
+
+query_smat_for_eric = function(endpoint, limit, since, until){
+
+    # Set endpoint specific parameters ----
+
+    flag = 0
+
+    if(endpoint == "telegram"){
+        post_content = "message"
+        flag = 1} 
+
+    else if(endpoint == "truth_social" ){
+        post_content = "content_cleaned"
+        flag = 1} 
+
+    else if(endpoint == "gettr" ){
+        post_content = "txt"
+        flag = 1}
+
+    else if(endpoint == "parler" ){
+        post_content = "body"
+        flag = 1}
+
+    else if(endpoint == "gab" ){
+        post_content = "content"
+        flag = 1}
+
+    else {
+        stop("Not valid endpoint, choose correct one or add to function", "not_valid_endpoint")        
+    }
+
+    
+        response = GET(
+        glue("{pro_api_host_url}/content"),
+        query = list(
+            "site"= endpoint,
+            "term"= glue('"Electronic Registration Information Center" OR ({post_content}: "ERIC")'),
+            "limit" = limit,
+            "since"= since,
+            "until"= until,
+            "esquery"= "true"
+        ),
+        add_headers(
+            "Authorization"= glue("Bearer {jwt_token}"))
+        )
+
+        if(status_code(response) == 200){
+            return(response)
+        } else{
+            stop("API request failed with status code ", status_code(response))
+
+        }
+   
+
+}
+
+
+
+save_smat_json = function(json_object, file_path){
+    # This function takes in a json object and saves it to a json file
+
+    data = fromJSON(rawToChar(json_object$content))
+    data_json = toJSON(data, pretty = TRUE)
+    write(data_json, file_path)
+}
+
+
+```
+
+The below code is commented out so that it is not accidentally run. For every day between the start and end date and for each platform, the code will query the API for all messages that contain the search term. The code will then save the response as a json file in the platform's directory. 
+
+The API has a limit of 10,000 messages per query. The code below will query the API for 10,000 messages per day. For each query, I create a log of the number of files returned and if there was an error message. 
+
+**Set up API Authentication**
+```{r}
+# jwt_token = Sys.getenv("SMAT_JWT")
+# pro_api_host_url = Sys.getenv("SMAT_PRO_API_HOST_URL")
+```
+
+```{r}
+#| eval: false
+
+# start_date = "2021-08-29"
+# end_date = "2023-04-15"
+# dates_vector = seq(from=as.Date(start_date), to=as.Date(end_date),by='days' )
+
+# results_df = data.frame()
+# site_vector = c("telegram","truth_social","gettr", "parler", "gab")
+# message_limit = 10000
+
+# pb <- progress_bar$new(total = length(site_vector) * length(dates_vector))
+
+# for (site in site_vector){
+#     for ( i in seq_along(dates_vector)){
+        
+#         tryCatch( {
+#              date = dates_vector[i]
+#              next_day = toString(ymd(date) + lubridate::days(1))
+#              ls_query = query_smat_for_eric(endpoint = site, limit = message_limit, since = date, until = next_day)           
+            
+
+#             save_smat_json(ls_query, here("data","processed" ,"smat" , "daily", site, glue("{site}_{date}_{message_limit}.json")))
+
+            
+#               data = fromJSON(rawToChar(ls_query$content))
+#               number_results = length(data$hits$hits$`_index`)
+#               error = NA_character_
+            
+#         },
+#          error = function(e) {
+#             print(e)
+#             number_results = NA_integer_
+#             error = e 
+#          }
+
+#         )
+#         pb$tick()
+
+#         row <- tibble(social_site = site, date = date, number_results = number_results, error = error)
+
+#         results_df <- bind_rows(results_df, row)
+             
+#     }
+# }
+
+# current_datetime = format(lubridate::now(), "%Y-%m-%d_%H-%M-%S")
+
+
+# # Write the log to a csv
+# write_csv(results_df, here("data","processed" , glue("api-error-log-{current_datetime}.csv")))
+
+
+```
+
+
+To double check that the message limit was not exceded and that no error messages happened, I queried the log file below (NA means that no error message was recorded):
+
+```{r}
+
+
+log_date_time = "2023-05-16_15-37-02"
+df_api_log = read_csv(here("data","processed", glue("api-error-log-{log_date_time}.csv")))  %>% janitor::remove_empty("rows")
+
+
+
+df_max_daily_message = df_api_log  %>% 
+    arrange(desc(number_results)) %>% 
+    head()
+
+cat_table(df_max_daily_message, "Top Days with most messages returned")
+
+```
+
+We can see that the max number of messages returned was **`r df_max_daily_message  %>% slice(1)  %>% pull(number_results)`** messages. This is less than the message limit of 10,000.
+
+Here were all unique errors: **`r unique(df_api_log$error)`**
+
+### Read in Data
+
+Each platform has a directory with all the json files for each day. The below code will read in all the json files for each platform and combine them into one data frame. 
+
+Here are the functions that import the json files and unnest all of the columns:
+
+```{r}
+
+
+
+## Unnest function
+
+unnest_all <- function(df) {
+  
+  nested_cols <- purrr::keep(df, is.list)  # Find all nested columns
+  
+  if (length(nested_cols) > 0) {
+    # Unnest the first nested column
+    unnested_df <- df %>%
+      unnest_wider(col = all_of(names(nested_cols)[1]), names_sep = "__")
+    
+    # Recursively unnest the remaining nested columns
+    unnest_all(unnested_df)
+  } else {
+    return(df)  # Return the unnested data frame
+  }
+  
+}
+
+ # This function takes in a json file path and returns a data frame. Each one is specific to the platform.
+read_smat_json_to_df = function(platform , json_file_path){
+
+
+    
+    json_data = read_json(json_file_path) # read in json
+
+    # Unnest the json data
+    df_smat = tibble(info = json_data$hits$hits) %>% 
+    unnest_wider(info) 
+    
+    if (nrow(df_smat) == 0 ){
+        return(NULL)
+    } else{
+
+        df_smat = df_smat  %>% 
+            unnest_all()
+        # the uinf response was being interpreted as a character type or a numeric type in different json files. This standardizes those columns to character types
+        if(platform == "gettr"){
+
+            df_smat <- df_smat %>%
+                mutate(across(contains("uinf"), as.character))
+            
+        
+
+        }
+
+        return(df_smat)  
+    }
+}
+
+
+
+
+
+read_multiple_smat_json_to_df = function(platform, parent_directory){
+
+    platform_directory = here(parent_directory, platform)
+    
+    platform_files <- list.files(path = platform_directory, pattern = "*.json", full.names = TRUE)
+
+    combined_df <- future_map_dfr(platform_files, ~read_smat_json_to_df(platform = platform, json_file_path = .x))
+
+    return(combined_df)
+
+}
+
+
+```
+
+
+The files are than read in for each platform and the column names are cleaned. 
+
+```{r}
+
+tic("Read in telegram")
+
+df_telegram_og = read_multiple_smat_json_to_df("telegram", here("data","source" ,"smat" , "daily"))  %>% 
+        janitor::clean_names()
+
+toc()
+
+tic("Read in truth_social")
+
+df_truth_social_og = read_multiple_smat_json_to_df("truth_social", here("data","source" ,"smat" , "daily"))   %>% 
+        janitor::clean_names()
+toc()
+
+tic("Read in gettr")
+
+df_gettr_og = read_multiple_smat_json_to_df("gettr", here("data","source" ,"smat" , "daily"))  %>% 
+        janitor::clean_names()
+
+toc()
+
+
+tic("Read in parler")
+
+df_parler_og = read_multiple_smat_json_to_df("parler", here("data","source" ,"smat" , "daily"))   %>% 
+        janitor::clean_names()
+
+toc()
+
+
+tic("Read in gab")
+
+df_gab_og = read_multiple_smat_json_to_df("gab", here("data","source" ,"smat" , "daily"))  %>% 
+        janitor::clean_names()
+
+toc()
+
+
+
+```
+
+In order to classify the messages as being about ERIC or not, I will combine all of the data into one data frame to gain the following insights that will help with identifying true and false positives:
+
+1. Collect a list of names that start with Eric that are not about the organization. 
+2. Collect URL's that if mentioned in the post are about ERIC. 
+
+Before combining the data, I will make a list of data frames with each data set set so I can map functions to it to accomplish the tasks mentioned above. 
+
+```{r}
+
+df_platform_list_og = list(telegram = df_telegram_og,
+               truth_social = df_truth_social_og,
+               gettr = df_gettr_og,
+               parler = df_parler_og,
+               gab = df_gab_og)
+
+```
+
+
+
+To start analying all the platforms, we need to standardize the data because SMAT leaves the data in its original format that it recieves from the website.
+
+Here are all the platform column names for each column:
+
+```{r}
+df_platform_column_names = janitor::compare_df_cols(df_platform_list_og) %>% 
+    mutate(column_name = make_clean_names(column_name))
+
+cat_table(df_platform_column_names, "Platform Column Names")
+
+```
+
+
+
+
+ Below are the following functions:
+
+1. `standardize_columns` - This function takes in the platform name and returns the column names that we want to be called the same across platforms. 
+2. `standardize_data_frame` - This function takes in the platform name and the data frame and returns a data frame with the columns that need to be renamed to be the same across platforms. It has a select argument to only return key columns if needed. 
+
+```{r}
+standardize_columns = function(platform){
+
+    if (platform == "telegram"){
+
+        date_column = "source_date"
+        post_content = "source_message"
+        account_username = "source_channelusername"
+        }
+
+     else if(platform == "truth_social" ){
+        date_column = "source_created_at"
+        post_content = "source_content_cleaned"
+        account_username = "source_account_username"
+        } 
+
+    else if(platform == "gettr" ){
+        post_content = "source_txt"
+        date_column = "source_cdate"
+        account_username = "source_uid"
+        }
+
+    else if(platform == "parler" ){
+        post_content = "source_body"
+        date_column = "source_created_atformatted"
+        account_username = "source_username"
+        
+         }
+
+    else if(platform == "gab" ){
+        post_content = "source_content"
+        date_column = "source_createdat"
+        account_username = "source_account_username"
+        }
+
+    else {
+        print("Not valid platform, choose correct one or add to function")
+    }
+
+    return(list(date_column = date_column, post_content = post_content, account_username = account_username))
+
+
+}
+
+
+standardize_data_frame = function(df, platform, select_flag = FALSE) {
+
+    std_columns = standardize_columns(platform)
+
+    date_column = std_columns$date_column
+    post_content = std_columns$post_content
+    account_username = std_columns$account_username
+
+    df_standardize = df  %>% 
+        mutate(across(where(is.character), ~ str_squish(tolower(.)))) %>% 
+        mutate(message_date = as_datetime(.data[[date_column]])) %>% 
+        mutate(message_date = ymd(format(message_date,"%Y-%m-%d" ))) %>% 
+        mutate(message = .data[[post_content]],
+               account_username = .data[[account_username]]) %>% 
+        mutate(message = str_squish(str_replace_all(message, "\\b((?:https?|ftp)://\\S+|www\\.\\S+)|(\\p{P}+)", "\\1 "))) #remove punctuation except from urls, replacing them with space, and then remove extra spaces
+
+    if (select_flag == TRUE){
+
+        df_standardize = df_standardize %>% 
+            select(index, id, message_date, message, account_username)
+
+    }
+
+    
+    return(df_standardize)
+
+}
+
+```
+
+Based on SMAT Documentation, here is the standardization key:
+
+```{r}
+df_standardization_key = tibble(column_type = c("date", "message", "account_username"),
+                                telegram = c(standardize_columns("telegram")$date_column,
+                                             standardize_columns("telegram")$post_content,
+                                             standardize_columns("telegram")$account_username),
+                                truth_social = c(standardize_columns("truth_social")$date_column,
+                                                standardize_columns("truth_social")$post_content,
+                                                standardize_columns("truth_social")$account_username),
+                                gettr = c(standardize_columns("gettr")$date_column,
+                                                standardize_columns("gettr")$post_content,
+                                                standardize_columns("gettr")$account_username),
+                                parler = c(standardize_columns("parler")$date_column,
+                                                standardize_columns("parler")$post_content,
+                                                standardize_columns("parler")$account_username),
+                                gab = c(standardize_columns("gab")$date_column,
+                                                standardize_columns("gab")$post_content,
+                                                standardize_columns("gab")$account_username))
+
+cat_table(df_standardization_key, "Standardization Key")
+
+```
+
+
+
+### Create list of Eric first and last names
+
+In order to get all Eric names not related to the organization the following steps were taken:
+
+1. Combine and standardize all data frames
+2. In each post content, extract the word eric and the following word
+3. Separate them into first and last name columns
+4. Get rid of any first and last name pair that is not a name by comparing the last name to a database of stop words
+5. In order to deal with last names that are actually verbs or other nouns and not stop words, I downloaded a list of surnames from the census (https://www2.census.gov/topics/genealogy/2000surnames/)
+6. If a last name is in the surname list then the row is classified as a name
+7. Looked through the list by hand and removed names that I know for sure are not last names in this context or could be related to ERIC,for example, `board` and `service` are last names in the census database. 
+8. Create a list of just last names to classify with that don't include Trump since Trump has tweeted about ERIC. Using just last names is important because of of posts follow this pattern: `first name` `insult` `last name`. If we string detect just on first names it will mark these posts as `not_categorized` instead of `no_eric`.
+
+```{r}
+# Load in data needed for this step
+
+## Load in stop words to get rid of first and last name pairs that are not names 
+data(stop_words) 
+stop_words_vector = stop_words %>% 
+    pull(word)
+
+## Read in census data of last names https://www2.census.gov/topics/genealogy/2000surnames/
+df_census_name_og = read_csv(here("data", "source","census", "app_c.csv")) 
+df_census_name = df_census_name_og  %>% 
+    mutate(name = tolower(name))
+
+### Get vector of last names
+last_name_vector = df_census_name %>% 
+    pull(name)
+
+
+
+# Standardize all the data frames into one
+df_all_platforms_standardized = imap(df_platform_list_og, ~ standardize_data_frame(.x, .y, select_flag = TRUE)) %>% 
+    list_rbind()
+
+
+
+# Create a data frame of every eric occurrence and the word that comes after
+df_all_eric_names = df_all_platforms_standardized  %>% 
+    mutate(eric_next_word = str_extract(message, "\\beric\\s+\\w+")) %>% 
+    distinct(eric_next_word,.keep_all = TRUE) %>% 
+    select(eric_next_word, message) %>% 
+    separate(eric_next_word, into = c("first_name", "last_name"), sep = " ", remove = FALSE) %>% 
+    mutate(last_name = str_squish(last_name)) %>% 
+    mutate(no_last_name = last_name %in% stop_words_vector) %>% 
+    filter(no_last_name == FALSE)
+
+# Make a flag if the last name from data is in the census data
+df_all_eric_name_classified = df_all_eric_names  %>%     
+    mutate(is_name = last_name %in% last_name_vector, .after = last_name) 
+
+# Go through by hand and make a vector of last names that were marked as being a last name but that I know are not
+not_last_names_vector = c(
+    "voter",
+    "vote",
+    "board",
+    "service" ,
+    "due",
+    "read",
+    "news",
+    "data",
+    "canal",
+    "soros",
+    "director",
+    "aka",
+    "heres",
+    "handing",
+    "running",
+    "file",
+    "talk",
+    "telling",
+    "sick",
+    "sharts",
+    "ol",
+    "county",
+    "helps",
+    "buy",
+    "horse",
+    "wife",
+    "swamp",
+    "pro",
+    "judge",
+    "america",
+    "smiling",
+    "standing",
+    "war",
+    "hes",
+    "sham",
+    "handle",
+    "company",
+    "won",
+    "win",
+    "luck",
+    "business",
+    "rolls",
+    "governor",
+    "push",
+    "fu",
+    "eric",
+    "american",
+    "al",
+    "art",
+    "await",
+    "balance",
+    "comment",
+    "content",
+    "contractor",
+    "die",
+    "east",
+    "allen",
+    "all",
+    "regular",
+    "rump",
+    "sh",
+    "si",
+    "sim",
+    "simple",
+    "sir",
+    "sit",
+    "smart",
+    "sit",
+    "smoke",
+    "soo",
+    "soy",
+    "stuff"
+)
+  
+# Filter out the false positives
+df_all_eric_name_classified_true = df_all_eric_name_classified %>% 
+    filter(is_name == TRUE & !(last_name %in% not_last_names_vector))  %>% 
+    rename(first_last = eric_next_word)  %>% 
+    select(first_last, first_name, last_name) %>% 
+    mutate(last_name_length = nchar(last_name))
+
+# This is a list of names that I had made by hand when doing fact checking
+df_eric_named_by_hand = tibble(first_last = c("ERIC KARLSTROM",
+                                "eric kardaal",
+                                "eric kaardal",
+                                "eric voegelin",
+                                "eric ciarmella",
+                                "Eric Swalwel",
+                                "eric smallwell",
+                                "eric shagwell",
+                                "ERIC HOLDER",
+                                "Eric Adams",
+                                "eric adam",
+                                "ERIC DOLLARD",
+                                "ERIC GREITINS",
+                                "Eric Greitens" ,
+                                "eric grietens",
+                                "Eric Greiten",
+                                "Eric Schmitt",
+                                "eric schmidt",
+                                "eric schmid",
+                                "ERIC LICHTBLAU",
+                                "ERIC SWALLWELL",
+                                "Eric Smith",
+                                "ERIC JOLLIFE",
+                                "ERIC ADAMS",
+                                "ERIC BURDON",
+                                "ERIC CLOPPER",
+                                "ERIC CLAPTON",
+                                "ERIC GARCETTI",
+                                "eric coomer", 
+                                "eric gill",
+                                "eric zemmour", 
+                                "eric ciaramella",
+                                "eric videaux",
+                                "eric douglas",
+                                "eric campbell",
+                                "eric pianka",
+                                "eric mark-matthew",
+                                "eric dietrich",
+                                "eric newhuis",
+                                "eric zemmour",
+                                "eric zenmour",
+                                "eric genrich",
+                                "eric bolling",
+                                "eric serrano",
+                                "eric striker",
+                                "eric domancio",
+                                "eric nass",
+                                "eric gorcenski",
+                                "eric fartswell",
+                                "eric swawell",
+                                "eric fartwell",
+                                "eric ciamarella",
+                                "eric ciarmella",
+                                "eric muggenberg",
+                                "eric stalwells",
+                                "eric cougrand",
+                                "eric wrinstein",
+                                "eric clampton",
+                                "eric zuesse",
+                                "eric himpton",
+                                "eric squallwell",
+                                "eric bieniemy",
+                                "eric shaun",
+                                "eric stiker",
+                                "eric grightens",
+                                "eric swawells",
+                                "eric kirk",
+                                "eric matanyi",
+                                "eric abetz",
+                                "eric veraeghe",
+                                "eric smollett",
+                                "eric morecambe",
+                                "eric shagwell" ) )  %>% 
+                mutate(first_last = str_squish(tolower(first_last))) %>%
+                separate(first_last, into = c("first_name", "last_name"), sep = " ", remove = FALSE)  %>% 
+                mutate(last_name_length = nchar(last_name))
+
+df_all_eric_name_classified_true = df_all_eric_name_classified_true %>% 
+    bind_rows(df_eric_named_by_hand) %>% 
+    distinct(first_last, .keep_all = TRUE)
+
+last_name_vector = df_all_eric_name_classified_true %>% 
+    filter(!(str_detect(last_name, "trump")))  %>% # we dont want to include trump last name beceause he posts about ERIC
+    filter(last_name_length > 3) %>% 
+    pull(last_name) %>% 
+    unique()
+
+cat_table(df_all_eric_name_classified_true, "Eric names not related to ERIC the organization")
+
+```
+
+### Create list of ERIC related URLS
+
+In order to get all ERIC related URLs the following steps were taken:
+
+1. Extract urls from all character columns each platform's data frame
+2. Rank the urls by frequency
+3. Go through by hand and copy relevant parts of ERIC related urls to a vector
+
+```{r}
+# Function to extract urls from all columns of a data frame into one vector
+
+extract_urls <- function(text) {
+  str_extract_all(text, "(?:https?://|www\\.)\\S+") #matches URLs starting with either "https://", "http://", or "www.", followed by non-whitespace characters.
+}
+
+vector_urls_from_data_frame = function(df){
+
+    urls_vector <-  df %>%
+        select_if(is.character) %>%
+        map(~ unlist(extract_urls(.))) %>%
+        unlist(use.names = FALSE)
+
+    # unique_urls_vector = unique(urls_vector)
+
+    return(urls_vector)
+
+}
+
+# Apply function to the list of original data frames
+all_urls = map(df_platform_list_og, vector_urls_from_data_frame)
+
+df_urls = tibble(platform = names(all_urls), urls = all_urls) %>% 
+    unnest(urls) %>% 
+    group_by(urls) %>% 
+    count() %>% 
+    arrange(desc(n)) %>% 
+    mutate(urls = tolower(urls))  %>% 
+    filter(!(str_detect(urls, "truthsocial|gab|tinyurl|t.me")))
+
+cat_table(head(df_urls,100), "Sample of all urls from all platforms")
+
+
+```
+
+Below is the list of urls that I collected after going through the collected url's by hand. 
+
+```{r}
+
+ls_eric_urls = c(
+"cleaning-voter-rolls-soros-founded-funded-eric-now-used-31-states",
+"eric-member-states",
+"eric-empty-alabama-secretary-of-state-wes-allen",
+"bombshell-emails-show-eric-systems",
+"breaking-news-election-integrity-game-changer-three-more-states-pull-out-of-eric-system",
+"bombshell-foia-requests-unearth-recent-collusion-government-fbi-doj-cisa-eac-liberal-groups-eric",
+"eric-investigation-part",
+"bpros-totalvote-centralized-state-wide-top-down-system-used-in-multiple-states-is-internet-connected-non-certified-connects-with-dominion-and-eric",
+"breaking-news-louisiana-decides-suspend-use-soros-open-societys-voter-registration-system-eric",
+"big-news-3-more-secretaries-of-state-approach-omega4-america-founder-to-replace-eric-system",
+"iowa-makes-7-seven-states-bail-from-sinking-ship-eric",
+"representative-mark-finchem-calling-arizona-end-participation-electronic-registration-information-center-eric",
+"good-news-alabama-secretary-state-officially-announces-states-withdrawal-failed-corrupt-eric",
+"ericstates",
+"secretary-of-state-elect-notifies-voter-maintenance-program-eric-of-alabamas-withdrawal",
+"breaking-lawsuit-filed-fed-court-dishonest-mi-sos-benson-claims-broke-law-outsourced-voter-roll-cleanup-radical-leftist-third-party-group/",
+"new-evidence-shows-crooked-electronic-voter-registration-system-eric-is-politically-compromised",
+"tgps-jim-hoft-on-the-war-room-with-steve-bannon-on-the-breaking-eric-news",
+"epic-project-omega-sends-letter-to-georgias-secretary-of-state-and-announces-the-raffensperger-challenge-in-honor-of-his-defense-of-the-eric-voter-roll-system/",
+"watch-trump-endorsed-az-secretary-state-candidate-mark-finchem-vows-immediately-end-participation-electronic-registration-information-center-eric-debate",
+"eric-states-wont-provide-lists-update-voter-registration-must-demand",
+"1500-volunteers-investigate-wisconsin-election-wec-member-eric-system-deliberately-not-cleaning-voter-rolls-video",
+"breaking-alabama-withdraws-from-eric-two-states-down-30-to-go",
+"bombshell-emails-show-soros-funded-eric",
+"david-becker-of-corrupt-soros-funded-eric",
+"press-release-florida-withdraws-from-electronic-registration-information-center",
+"the-eric-crisis-electronic-rigging-instead-of-cleaning-system-part",
+"ERIC-Map-of-States",
+"eric-responds-to-alabama-secretary-of-states-trip-to-find-headquarters",
+"wes-allen-finds-vacant-virtual-office-eric-address",
+"louisiana-secretary-state-leading-nation-ends-eric-state-creates",
+"eric-the-epicenter-of-voter-fraud",
+"bombshell-emails-show-soros-funded-eric-was-sharing-voter-information",
+"horrifying-deep-dive-part-2-eric-elections",
+"an-open-letter-from-omega4america-to-eric-systems",
+"breaking-report-electronic-registration-information-center-eric",
+"what-is-eric-the-electronic-registration-information-center-a-dream-database-for-voter-fraud",
+"soros-funded-eric-is-a-vote-fraud-scheme-disguised-as-election-integrity",
+"breaking-three-more-states-pull-out-of-eric-voter",
+"whos-cleaning-our-voter-rolls-soros-founded-and-funded-eric",
+"how-the-eric-electronic-registration-information-center-beast-is-fed-and-how-you-can-help-starve-the-beast",
+"florida-missouri-and-west-virginia-withdraw-from-leftist-controlled-voter-roll-maintenance-group-eric/",
+"https://newswithviews.com/founder-david-becker-leaves-eric/",
+"alabama-withdraws-from-democrat-operative-controlled-voter-registration-database",
+"direct-hit-special-counsel-michael-gableman-cites-gateway-pundits-exclusive-eric-investigation-election-fraud",
+"ohio-iowa-withdraw-from-democrat-operative-controlled-voter-roll-maintenance-group-eric",
+"https://www.thegatewaypundit.com/2023/02/869268/",
+"eri-caught-the-hidden-truth-behind-voter-roll-maintenance",
+"desantis-refuses-to-ditch-harmful-soros-funded-eric-voter-roll-manipulation-software-in-florida",
+"ron-desantis-wont-dump-eric-voter-roll-manipulation-software-florida",
+"alabama-secretary-of-state-visits-headquarters-of-corrupt-eric",
+"politics-government/article272817870",
+"ap-writer-urged-to-correct-mistakes-in-glowing-report-defending-eric",
+"jay-ashcroft-withdraws-missouri",
+"florida-leaves-eric",
+"hree-more-states-withdraw-as-trump-declares-war-on-eric-voting-system",
+"huge-news-for-election-integrity-two-more-states-cut-ties",
+"eric-membership-organization",
+"eric-voter-roll-manipulation-system",
+"announce-withdrawal-from-dirty-eric",
+"https://www.sos.mo.gov/default.aspx?pageid=10296",
+"https://justthenews.com/government/state-houses/gop-states-withdraw-voter-roll-org-linked-leftists-over-concerns-partisan",
+"desantis-backs-floridas-entry-into-eric-national-voter",
+"https://andmagazine.substack.com/p/whats-the-connection-between-eric",
+"https://www.thegatewaypundit.com/2022/04/meet-sarah-whitt-official-behind-wisconsin-voter-rolls-included-3-42-million-extra-ineligible-voters/",
+"eric-investigating-pennsylvania-issues-")
+
+cat_table(tibble(url_snippet = ls_eric_urls), "Snippets of URLS related to ERIC")
+
+
+
+```
+
+
+### Methodology for Identifying True and False Positives 
+
+
+
+1. We are assuming that any message that mentions the full name of the organization, `"Electronic Registration Information Center"` or any of the urls related to ERIC from above means the mention is a true positive. If a match is found, the post is marked as being about ERIC. All other mesages are marked as a maybe. 
+
+2. For the maybe messages, I then searched for terms that we know are used while **referencing ERIC** and phrases that are for sure **not in reference** to ERIC. The terms that are in reference to ERIC were made by looking through the posts and collecting common phrases related to ERIC or key ERIC people. The non eric phrases are a combination of the Eric names that I generated earlier on in the memo, plus phrases I added by manually reviewing the data. All of the non eric phrases are added with a hypen and a space in case the names are used in a url. 
+
+
+
+The terms are shown below: 
+
+```{r}
+#| layout-nrow: 1
+
+
+# Non ERIC Phrases ---
+
+
+## By hand
+non_eric_phrases_manual = tolower(c(
+                        
+                        "eric z",
+                        "Eric Trump",
+                       "Eric the bot",
+                       "Mayor Eric",
+                     "ERIC P. DOLLARD",
+                     "greiten",
+                    "Eric Trumps",
+                    "eric trump",
+                    "donaldjtrumpjr",
+                    "daisy soros",
+                   "eric r. pianka",
+                   "missouri resident, you would have my vote, eric",
+                   "@ericgreitens",
+                   "thor even gave eric his costume, mjolnir & his avengers membership",
+                   "john gibbs missouri - eric",
+                   "y a moins de deux mois",
+                   "thank you eric! i support you and your work, and love missouri",
+                   "i miss don jr almost as much as i do the boss. eric, too. i signed up, but won't leave gab",
+                   "mcelroy",
+                   "https://uafreport.com/eric/massive-movement-to-overthrow-george-soros-explodes/",
+                   "cassell eric",
+                   "eric d kirk",
+                   "ny eric",
+                   "eric m davis",
+                   "eric m smith",
+                   "eric m smiths",
+                   "don jr",
+                   "eric amp",
+                   "eric early",
+                   "son eric",
+                   "ericearlyforca.com",
+                   "eric the barbaric",
+                  "all rinos im eric",
+                   "erictrump"))
+
+# Automated list done earlier in memo
+
+
+
+vector_automated_eric_names = df_all_eric_name_classified_true %>% 
+    pull(first_last)
+
+# Combine Hand and Automated Non Eric Phrases
+non_eric_phrases_combined = unique(c(non_eric_phrases_manual, vector_automated_eric_names, last_name_vector))
+
+non_eric_phrases_dash = gsub(" ", "-", non_eric_phrases_combined)
+non_eric_phrases = c(non_eric_phrases_combined, non_eric_phrases_dash)
+non_eric_phrases = non_eric_phrases
+
+cat_table(tibble(not_related_to_eric = non_eric_phrases), "Not related to ERIC")
+
+
+# ERIC Phrases ---
+
+eric_phrases = tolower(c("Electronic Registration Information Center",
+                      "leave-eric",
+                      "soros eric",
+                      "soross eric",
+                      "pulled out of eric",
+                      "eric-system",
+                      "eric system",
+                      "shane hamlin",
+                      "eric state",
+                      "eric voters list",
+                      "eric membership",
+                      "ericpew",
+                      "georgesoros eric",
+                      "eric to manage the states",
+                      "george soros eric",
+                      "george soross eric",
+                      "ERIC Voter Database",
+                      "scam of eric",
+                      "voter information center",
+                      "electronic-registration-information-center",
+                      "electronic registration informatoin center",
+                      "eric a national voter registry database",
+                      "eric-part-",
+                      "remove eric",
+                      "rid of eric",
+                      "voter registration system",
+                      "eric voter registration",
+                      "eric voter registration system",
+                      "Soros Founded and Funded ERIC",
+                      "eric voting system",
+                      "eric-voting-system",
+                      "eric voter roll system",
+                      "eric registration system",
+                      "pull out of ERIC",
+                      "withdrew from ERIC",
+                      "voter database eric",
+                   "ERIC System",
+                    "Electronic Voter Registration System",
+                   "ERIC Investigation, Part",
+                   "David Becker", 
+                   "https://www.thegatewaypundit.com/2022/02/representative-mark-finchem-calling-arizona-end-participation-electronic-registration-information-center-eric-like-louisiana-just/",
+                   "Minnesota uses ERIC",
+                   "https://www.judicialwatch.org/whats-wrong-with-eric/",
+                   "secretary-of-state-eric-address-is-vacant",
+                   "whats-wrong-with-eric",
+                   "the-truth-behind-eric",
+                   "ericmembership",
+                   "eric-needs-fired",
+                   "settling-the-confusion-about-eric",
+                   "eric-founder-stepping-down",
+                   "https://www.thegatewaypundit.com/2022/11/820222/",
+                   "erics-friends-in-the-activist-left",
+                   "bye-bye-becker",
+                   "trump-endorsed-az-secretary-of-state-candidate-mark-finchem-get-us-out-of-e",
+                   "https://en.wikipedia.org/wiki/electronic_registration_information_center",
+                   "https://pjmedia.com/uncategorized/j-christian-adams/2023/03/23/auto-draft-37-n1680986",
+                   "Link to resolution for ERIC",
+                   "https://youtu.be/O8ISoeO1hjw",
+                   "https://www.thegatewaypundit.com/2023/03/breaking-president-trump-calls-for-an-end-to-eric-voter-registration-system/",
+                   "Electric Registration Information Center",
+                   "wa-secretary-of-state-responds-to-donald-trumps-comments-about-eric",
+                   "secretary-of-state-wes-allen-reasons-for-withdrawing-from-eric-conveniently-not-mentioned-in-politico-hit-piece",
+                   "Oregon needs to terminate ERIC",
+                   "ERIC Part 4",
+                   "Colorado actually uses ERIC as an excuse to ignore citizen reports of possible illegal voting",
+                   "dump eric from their elections",
+                   "care about election integrity let me introduce you to eric",
+                   "electronic regis info sys",
+                   "get rid of eric",
+                   "dumped eric",
+                   "get out of eric",
+                   "eric voter roll manipulation software",
+                   "eric which just got exposed as a shadow demcontrolled",
+                   "states quit eric",
+                   "texas would join florida alabama missouri west virginia",
+                   "sorosfunded eric",
+                   "states there is no need for eric",
+                   "states terminating eric",
+                   "withdrawing from the national voter verification coalition",
+                   "roll clean up tool",
+                   "get eric removed",
+                   "removed from eric",
+                   "secs of state who are proeric",
+                   "give your info to eric",
+                   "use of eric",
+                   "eric took hold in states",
+                   "voterrolls",
+                   "ericpersonaldata",
+                   "ericvoterregistration",
+                   "found no eric",
+                   "ridding the state of eric",
+                   "eric as a tool",
+                   "eric is a tool",
+                   "eric is funded by",
+                   "moving on from eric",
+                   "finally eric has been just another head of the medusa",
+                   "contractual agreement with eric",
+                   "eric and electronic poll books",
+                   "signed up eric",
+                   "eric and ebook",
+                   "eric is a safer way to electronically tabulate",
+                   "eric software",
+                   "soro sponsored foundation"))
+
+cat_table(tibble(related_to_eric = eric_phrases), "Related to ERIC")
+```
+
+
+
+
+3. For the messages that are still not labeled I did the following. I came up with a list of key phrases, and if any of those phrases appear within 10 words (behind or in front) of the word `eric`, then the message is marked as being about the organization. This should remove any message that mentions ERIC but is not about the organization. The key phrases are shown below:
+
+```{r}
+
+words_eric_is_nearby = tolower(c(" voter ",
+                           " system ",
+                           " election ",
+                           " soros ", 
+                           "computer voter roll system ",
+                           " voter registration ",
+                           " voting system ",
+                           " election commission ",                      
+                           " rid ",
+                           " leave ",
+                           " membership ",
+                           " electronic voting system ",
+                           "missouri florida and west virginia",
+                           "florida missouri and west virginia",
+                           "west virginia missouri and florida",
+                           "missouri florida and west virginia",
+                           " 33 states ",
+                           " 31 states "
+                           ))
+
+words_eric_is_nearby_collapsed = paste(words_eric_is_nearby, collapse = "|")
+
+
+cat_table(tibble(eric_is_nearby = words_eric_is_nearby), "Words ERIC is nearby")
+
+
+
+```
+
+
+
+The code below is the implementation of the methodology described above. The function returns a list of data frames, one data frame labeled `yes_eric` that has the true positives, one data frame labeled `no_eric` that has the false positives, and one data framed labeled `all` that has everything. 
+
+```{r}
+
+
+classify_eric = function(df, platform){
+
+    tic(glue("Classify {platform}"))    
+
+    
+
+    # 2. Unnest entire data frame, clean colu
+
+df_full_name_and_url_match = df  %>%    
+        standardize_data_frame(platform = platform) %>% 
+        # search for ERIC full name, and if found, add column for if electronic information center is in the text and what columns matched
+        mutate(found_electronic_registration_information_center= rowSums(across(where(is.character), ~grepl("electronic registration information center", ., ignore.case = TRUE))) > 0,
+        matching_columns_electronic_registration_information_center = apply(across(where(is.character)), 1, function(x) toString(names(x)[grepl("electronic registration information center", x, ignore.case = TRUE)])))  %>%
+        # search for a url that matches one of the urls noted as being about ERIC
+        mutate(matched_url = if_any(where(is.character), ~str_detect(., paste(ls_eric_urls, collapse = "|")))) %>%
+        # select only the columns we need, renaming the post content to message
+         select(index, id, message_date, account_username, message, found_electronic_registration_information_center, matching_columns_electronic_registration_information_center, matched_url)
+
+df_phrases_match = df_full_name_and_url_match  %>% 
+    # create a column of 10 words before and after the word eric is found
+    mutate(before_words = str_extract(message, paste0("((?:\\w+\\W+){0,10})eric")),
+         after_words = str_extract(message, paste0("eric((?:\\W+\\w+){0,10})")),
+         before_and_after_words = str_squish(paste0(before_words, " ", after_words)))  %>% 
+    # First categorize positive eric phrases, then negative eric phrases, and then if neither, then maybe
+    mutate(eric_detected = case_when(
+        found_electronic_registration_information_center == TRUE ~ "yes",
+        matched_url == TRUE ~ "yes",
+        str_detect(message, regex(paste(eric_phrases, collapse = "|"), ignore_case = TRUE)) ~ "yes",
+        str_detect(message, regex(paste(non_eric_phrases, collapse = "|"), ignore_case = TRUE)) ~ "no",
+        TRUE ~ "maybe"
+    ))  %>% 
+    mutate(phrases_nearby_eric = case_when(
+        eric_detected == "maybe" ~ str_detect(before_and_after_words, words_eric_is_nearby_collapsed),
+        TRUE ~ NA
+)) %>% 
+    mutate(is_eric = case_when(
+        eric_detected == "yes" | phrases_nearby_eric == TRUE ~ "yes", # eric detected is yes when the full phrases is found or key word is found, phrases is yes when it wasn't classified and a phrase found nearby
+        eric_detected == "no"  ~ "no",
+        phrases_nearby_eric == FALSE ~ "not_categorized",
+        TRUE ~ NA
+    ))  %>% 
+   
+    mutate(social_source = case_when(
+        str_detect(index, "telegram") ~ "telegram",
+        str_detect(index, "truthsocial") ~ "truthsocial",
+        str_detect(index, "gettr") ~ "gettr",
+        str_detect(index, "parler") ~ "parler",
+        str_detect(index, "gab") ~ "gab"))  %>% 
+        mutate(year_week = floor_date(message_date, "1 week"))
+
+    
+
+    df_is_eric_result = df_phrases_match %>%
+      filter(is_eric == "yes")
+  
+   df_not_eric_result = df_phrases_match  %>% 
+      filter(is_eric == "no" | is_eric == "not_categorized" | is.na(is_eric)) 
+  
+  ls_df_result = list(yes_eric = df_is_eric_result, no_eric = df_not_eric_result, all = df_phrases_match)
+  
+
+
+
+    return(ls_df_result )
+
+    print(toc())
+}
+
+
+
+```
+
+
+## Classify ERIC posts and combine into one data frame
+
+The code below is the implementation of the methodology described above. The function returns a list of data frames, one dataf rame labeled `df_yes_eric` that has the true positives, a data frame labeled `df_no_eric` that has the false positives, and one data frame labeled `df_all` that has all the messages.
+
+```{r}
+
+tic("Classify All Eric Messages")
+
+# Classify ERIC and separate into two data frames ----
+df_social_list_classify =  future_map2(df_platform_list_og , names(df_platform_list_og), classify_eric)
+
+toc()
+
+
+
+```
+
+After each platform is classified, we combine all the true positives into one data frame and all the false positives into another data frame. 
+
+```{r}
+
+# All Messages
+
+df_all = bind_rows(df_social_list_classify$telegram$all,
+                   df_social_list_classify$truth_social$all,
+                   df_social_list_classify$gettr$all,
+                   df_social_list_classify$parler$all,
+                   df_social_list_classify$gab$all)
+
+# All Messages Classified as relating to ERIC
+
+df_eric_all_yes = bind_rows(df_social_list_classify$telegram$yes_eric, 
+                            df_social_list_classify$truth_social$yes_eric, 
+                            df_social_list_classify$gettr$yes_eric, 
+                            df_social_list_classify$parler$yes_eric, 
+                            df_social_list_classify$gab$yes_eric)
+
+# All Messages that were not classified as relating to ERIC (due to the name like nature of our search term)
+
+df_eric_all_no = bind_rows(df_social_list_classify$telegram$no_eric, 
+                            df_social_list_classify$truth_social$no_eric, 
+                            df_social_list_classify$gettr$no_eric, 
+                            df_social_list_classify$parler$no_eric, 
+                            df_social_list_classify$gab$no_eric)
+
+
+```
+
+
+## Checks
+
+```{r}
+
+# Check that read in data is the same as the classified data
+nrow(df_telegram_og) + nrow(df_truth_social_og) + nrow(df_gettr_og) + nrow(df_parler_og) + nrow(df_gab_og) == nrow(df_all)
+
+# Check that the classified data broken into buckets is the same as all of the classified data before separating
+nrow(df_eric_all_yes) + nrow(df_eric_all_no) == nrow(df_all)
+
+# Check that the number of results for each api return same
+sum(df_api_log$number_results) == nrow(df_all)
+
+```
+
+
+For a final check on the data, the `id` column is a unique identifier for each message. To make sure there are no duplicate messages, let's search and remove any that appear in our true positive data frame. 
+
+
+```{r}
+df_duplicates = df_eric_all_yes  %>% 
+    group_by(id) %>% 
+    count()  %>% 
+    filter(n>1)
+
+cat_table(df_duplicates, "Duplicated Message ID")
+
+df_duplicate_messages = df_eric_all_yes  %>% 
+    filter(id %in% df_duplicates$id)  %>% 
+    select(id, message, social_source, message_date, year_week) %>% 
+    arrange(id)
+
+cat_table(df_duplicate_messages, "Duplicated Messages")
+
+```
+
+In this case there were **`r nrow(df_duplicates)`** duplicates. This is a result of the posts being updated at a later point so I will distinct on id and there should be no duplicates.
+
+```{r}
+
+number_rows_before = nrow(df_eric_all_yes)
+
+df_eric_all_yes = df_eric_all_yes  %>% 
+    distinct(id, .keep_all = TRUE)
+
+number_rows_after = nrow(df_eric_all_yes)
+
+print(glue("There were {nrow(df_duplicates)} duplicated messages in the {number_rows_before} rows of the data frame. After removing duplicates there are {number_rows_after} rows. This is a difference of {number_rows_before - number_rows_after} rows."))
+
+```
+
+
+
+Here is a table that shows the percent of posts for each platform that were identified as being related to ERIC and the ones that are not related to ERIC. The posts that that are not related to ERIC were either categorized as **no** because they matched one of the  `non eric phrases` or as **not categorized** because they did not match any of the `eric phrases` or `non eric phrases` and don't have any keywords located within 10 words of the word `eric`. 
+
+
+```{r}
+# Check number of true Eric posts vs false positives for each platform
+
+
+
+df_true_vs_false_positive = df_all %>% 
+    group_by(social_source, is_eric) %>% 
+    count() %>% 
+    ungroup() %>% 
+    group_by(social_source) %>%
+    mutate(pct = round(n/sum(n)*100, 2)) %>% 
+    pivot_wider(names_from = is_eric, values_from = c(n, pct))
+
+cat_table(df_true_vs_false_positive, "True vs False Positive")
+
+```
+
+Below is code that takes samples of the categorizations that I used to skim and refine the classification process.
+
+```{r}
+
+# Random Sample of All Data to Scan
+sample_true_positive = df_eric_all_yes %>% 
+    sample_n(5000) 
+
+sample_false_positive = df_eric_all_no %>% 
+    sample_n(5000) 
+
+# Export
+export_df_to_gsheet(sample_true_positive, "sample_true_positive", export_flag = export_flag)
+export_df_to_gsheet(sample_false_positive, "sample_false_positive", export_flag = export_flag)
+
+
+
+```
+
+
+
+Here are the functions that calculate weekly counts of posts that mention ERIC. The first function is used to calculate the weekly counts and the second function is used to graph the weekly counts.
+
+
+```{r}
+
+# Graphing and Analysis Functions
+
+summarize_weekly_counts = function(df, date_column){
+     df_graph = df  %>% 
+            group_by({{date_column}}, social_source) %>% 
+            count() %>% 
+            filter(year_week > as_date("1980-01-20"))
+    return(df_graph)
+
+}
+
+graph_eric_mentions = function(df, date_column){
+
+        df_graph = summarize_weekly_counts(df, {{date_column}})
+
+        plot = df_graph  %>%  
+            ggplot(aes(x = year_week, y = n, fill = social_source)) +
+                geom_bar(stat = "identity") +
+                labs(title = "Weekly mentions of the Electronic Registration Information Center", xlab = "Weeks", ylab = "Number of Mentions") +
+                geom_vline(xintercept = as_date("2022-01-16"), linetype = "dotted", 
+                            color = "black", linewidth=.75) + # gateway pundit article week              
+                geom_vline(xintercept = as_date("2023-03-05"), linetype = "dotted", 
+                            color = "black", linewidth=.75)  # multiple states (florida, west vriginia and missouri pull out)
+        return(plot)       
+}
+
+
+
+```
+
+# Result
+
+In total, **`r nrow(df_all)`** posts were analyzed to reach the final data frame consisting of **`r nrow(df_eric_all_yes)`** posts that mention ERIC. 
+
+Below is a graph of the weekly counts of ERIC mentions, colored by the platform. The two black dotted lines are `2022-01-16`(week of the Gateway Pundit article) and and `2023-03-05`(Florida, Missouri and West Virginia pull out of ERIC and Donald Trump posts on Truth Social urging other Republican states to leave).
+
+
+```{r}
+
+graph_eric_mentions(df_eric_all_yes , year_week)
+
+
+```
+
+## Reportable Sentence and Fact Check 
+
+**Sentence**
+
+NPR analyzed hundreds of thousands of posts on five alternative social media sites frequented by the far right – GETTR, Gab, Parler, Telegram and Trump’s Truth Social – over the past two years, and found that conversation about ERIC really only began after the first Gateway Pundit article published.
+
+**Fact Check**
+
+
+```{r}
+
+#| layout-nrow: 1
+
+df_weekly_count = df_eric_all_yes  %>% 
+            group_by(year_week) %>% 
+            count() %>% 
+            ungroup()
+
+cat_table(df_weekly_count, "Weekly Counts of ERIC Mentions")
+
+df_before_article = df_weekly_count  %>% 
+    filter(year_week < as_date("2022-01-16")) %>% 
+    ungroup()
+
+cat_table(df_before_article, "Weekly Counts of ERIC Mentions Before Gateway Pundit Article (2022-01-16)")
+
+df_before_article_average = df_before_article %>% 
+    summarize(mean = mean(n), median = median(n)) 
+    
+cat_table(df_before_article_average, "Mean and Median Weekly Counts of ERIC Mentions Before Gateway Pundit Article (2022-01-16)")
+
+```
+
+
+
+
+```{r}
+
+df_weekly_count  %>% 
+    filter(year_week == as_date("2022-01-16"))  %>% 
+    cat_table("ERIC Mentions Week of Article Publication(2022-01-16)")
+
+```
+
+
+
+
+# Export Data for Datawrapper Graphic
+
+
+
+```{r}
+
+df_datawrapper_graph = df_eric_all_yes  %>% 
+    select(message_date, year_week, social_source)  %>% 
+    summarize_weekly_counts(year_week)  %>% 
+    pivot_wider(names_from = year_week, values_from = n)  %>% 
+    mutate(social_source = case_when(
+        social_source == "gab" ~ "Gab",
+        social_source == "parler" ~ "Parler",
+        social_source == "telegram" ~ "Telegram", 
+        social_source == "gettr" ~ "Gettr",
+        social_source == "truthsocial" ~ "Truth Social")) 
+
+# write_csv(df_datawrapper_graph, here("data", "processed", "df_eric_datawrapper_20230603_1.csv"))
+```
+
+
+

@@ -1,0 +1,1350 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [52],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [13],
+      "relation": ["eq"]
+    },
+    "max_score": [12.6539],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6613003558453367505",
+        "_score": 12.6539,
+        "_source": {
+          "archivedon": "1682757122",
+          "channelabout": "Hinweise zur Diskussion:\n- Alle höflich vorgebrachten Meinungen willkommen\n- Unkommentierte Links oder Werbung = Löschung\n- Trollen, Spam & Beleidigungen = Ban",
+          "channeltitle": "Paul Brandenburg - Diskussion",
+          "channelusername": "paulbrandenburgdiskussion",
+          "collected_by": "crawler",
+          "date": 1676658938,
+          "editdate": 1676810253,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 28,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 326809409
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 119505,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "https://youtu.be/3bBzB7CvEaM der fall von eric schon bekannt?",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1539709875,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "can_see_list": true,
+            "min": false,
+            "recent_reactions": [
+              {
+                "big": false,
+                "peer_id": {
+                  "reformatted_key": "PeerUser",
+                  "user_id": 6065151253
+                },
+                "reaction": "👍",
+                "reformatted_key": "MessagePeerReaction",
+                "unread": false
+              }
+            ],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 119486,
+            "reply_to_scheduled": false
+          },
+          "silent": false,
+          "url": "t.me/paulbrandenburgdiskussion/119505",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 1.63451613729039e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682757122,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Johannes",
+            "id": 326809409,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "junadad",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-29T08:32:02.642016"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6556101533908357929",
+        "_score": 12.6539,
+        "_source": {
+          "archivedon": "1678357665",
+          "channelabout": "DiosBayanFamilia",
+          "channeltitle": "Proud 🇵🇭 Boys",
+          "channelusername": "PPBoysOct2020",
+          "date": 1676647754,
+          "edithide": false,
+          "entities": [],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 21727,
+            "date": 1676237240,
+            "from_id": {
+              "channel_id": 1195438885,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 21289,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "eric clapton describes agony after receiving the death vax....",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1526461340,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 47,
+          "lastseents": "2023-03-09T10:27:45.318184",
+          "mediaref": "8f0fc8c4469cc658d0fea793bc4b6695e496ae68"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5901900559287423807",
+        "_score": 10.1265,
+        "_source": {
+          "archivedon": "2023-03-01 02:54:34.394358",
+          "channelabout": "A group for those interested in preserving or liberties here in Illinois!  This group is open to all.  However, I will not you without asking if you pull any crap in this group!  No ads, no trolls, no Antifa, no Nazis (but I repeat myself).",
+          "channeltitle": "Free Illinois",
+          "channelusername": "freeillinois",
+          "date": 1676672943,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 127,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://rumble.com/v29sln6-kris-jurski-presents-alternatives-to-eric.html"
+            },
+            {
+              "length": 73,
+              "offset": 127,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1598326623
+          },
+          "fwdfrom": {
+            "date": 1676671386,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1398754744
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Hi Team,\n\n  Here is the Video of Kris Jurski talking about weaknesses & alternatives to ERIC.\n\nHave a great weekend! 🌞 Robyn\n\nhttps://rumble.com/v29sln6-kris-jurski-presents-alternatives-to-eric.html",
+          "peerid": {
+            "channel_id": 1374143306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 157792
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -2.82855750480549e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "George",
+            "id": 1598326623,
+            "is_self": false,
+            "last_name": "Weckbacher",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 39997,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062300086
+              },
+              "photo_id": 4.97478600724117e+18,
+              "photo_small": {
+                "local_id": 39995,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100062300086
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "LouGeo",
+            "verified": false,
+            "_id": 1598326623,
+            "_media_ref": "3855962cf2ca88d68776411ff4ce5db5d7d9a2f4",
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 264,
+          "lastseents": "2023-03-17T04:47:09.130069"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6313898299338296699",
+        "_score": 8.9529,
+        "_source": {
+          "archivedon": "2023-02-27 01:39:13.078992",
+          "channelabout": "Kanal von Antiilluminaten TV. \nHintergründe & Enthüllungen zu Politik, Corona, NWO, Deep State & Bewusstseinswandel\n\nUnterstützung gerne erwünscht:\nhttps://www.paypal.me/alex081",
+          "channeltitle": "Antiilluminaten TV",
+          "channelusername": "antiilluminaten",
+          "date": 1676625761,
+          "editdate": 1676626313,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 70,
+              "offset": 5,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 93,
+              "offset": 364,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 480,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 548,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 617,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 38,
+              "offset": 684,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 27,
+              "offset": 769,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 60,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "❗️👁 Trilateraler Kommissar Eric Schmidt baut die perfekte KI für den Krieg\n\nDer ehemalige Google- und Alphabet-Chef Schmidt arbeitet mit dem Militär zusammen, um das Gesicht der modernen Kriegsführung mit fortschrittlichen KI-Waffen zu verändern, die er mit der Bedeutung der Atombombe im Zweiten Weltkrieg vergleicht.\n\nHier den vollständigen Artikel lesen:\n👉🏻 https://uncutnews.ch/trilateraler-kommissar-eric-schmidt-baut-die-perfekte-ki-fuer-den-krieg/\n\nKrisenvorsorge:\n👉🏻 https://is.gd/ULk2fw\n\nMehr kostenfreie Infos und Enthüllungen:\n👉🏻 https://t.me/antiilluminaten\n\nAbonniere hier meinen Notfallkanal:\n🆘 https://t.me/antiillumimaten2\n\nKommentare bitte hier im Chat:\n👉🏻 https://t.me/joinchat/u18uQ0y517A1N2Zi\n\nBÜCHER + KRISENVORSORGE + NATURPRODUKTE\n👉🏻 https://t.me/derbuechershop",
+          "peerid": {
+            "channel_id": 1470069005,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 16362,
+          "lastseents": "2023-03-17T04:39:52.743270"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5603308265296366630",
+        "_score": 8.8323,
+        "_source": {
+          "archivedon": "1680770821",
+          "channelabout": "Georgia Election Audit general news and political updates!",
+          "channeltitle": "Georgia Election Audit Updates",
+          "channelusername": "GAelectionaudit",
+          "date": 1676674924,
+          "editdate": 1676674927,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 175,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 145,
+              "offset": 177,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 25494,
+            "date": 1676668547,
+            "from_id": {
+              "channel_id": 1408963933,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 3110,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Joe Hoft",
+              "display_url": "thegatewaypundit.com/2023/02/breaking-sht-just-riddled-bugs-fox-news-filing-shows-dominion-knew-voting-systems-major-security-issues",
+              "hash": 0,
+              "id": 7.00594959833103e+18,
+              "photo": {
+                "access_hash": 4.65741985356649e+18,
+                "date": 1678745854,
+                "dc_id": 4,
+                "file_reference": "AGQuhuL9egaNV5qU/jhdb+SZprb7",
+                "has_stickers": false,
+                "id": 5.80219076366314e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUo0ZTEZRulKsvbOKlEiEZDA/Q1Vu4GMm9BnPXFVMEd6RSS7l66maMoY24OciiO6BXMmAMdarhBIgzMB7HtTzEyhA4XbnhqB2XcsQTGVzwNvailhi8snnIopkvQlY7VJ9BTNqzR/Mv3qKKBECW0ZlkznauMDNTtEjJtI6dD3oooAdGSYwScn1ooooA/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 12179,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 420,
+                    "size": 41096,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 630,
+                    "w": 1200,
+                    "sizes": [7337, 17026, 23900, 32946, 53710]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Gateway Pundit",
+              "title": "HUGE: FOX News Filing Shows DOMINION Voting Systems Executives Including Eric Coomer Knew Its Voting Systems Had Major Security Issues, Was Hacked, and Was \"Riddled with Bugs\"",
+              "type": "photo",
+              "url": "https://www.thegatewaypundit.com/2023/02/breaking-sht-just-riddled-bugs-fox-news-filing-shows-dominion-knew-voting-systems-major-security-issues/"
+            }
+          },
+          "message": "HUGE: FOX News Filing Shows DOMINION Voting Systems Executives Including Eric Coomer Knew Its Voting Systems Had Major Security Issues, Was Hacked, and Was \"Riddled with Bugs\"\n https://www.thegatewaypundit.com/2023/02/breaking-sht-just-riddled-bugs-fox-news-filing-shows-dominion-knew-voting-systems-major-security-issues/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1304621870,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1294641745,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 259738
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 274,
+          "lastseents": "2023-04-06T08:47:01.111142"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6363715878407643192",
+        "_score": 8.1946,
+        "_source": {
+          "archivedon": "2023-02-28 20:55:18.260873",
+          "channelabout": "Mini Ava in OC (miniAOC) and her pops. Making America Laugh Again - finding humor amid all the \"serious stuff.” #MALA \n\nhttps://linktr.ee/MiniAOC",
+          "channeltitle": "Mini AOC",
+          "channelusername": "MiniAOC",
+          "date": 1676671139,
+          "editdate": 1676675031,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 339,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "A former NFL player was hit with five charges related to alleged gang-related human trafficking in Georgia. The Georgia Attorney General's office outlined the charges against Eric Johnson, 46, and seven co-defendants in a Thursday news release. Johnson, a former Oakland Raiders and Atlanta Falcons safety and linebacker, was indicted...\n\nhttps://saferead.org/RRM?1",
+          "peerid": {
+            "channel_id": 1481668064,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1208078045,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 139459
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 364,
+          "lastseents": "2023-03-17T04:46:02.952795"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5188655694290686697",
+        "_score": 8.1946,
+        "_source": {
+          "archivedon": "2023-02-28 20:55:33.640228",
+          "channelabout": "The Official @MiniAOC Discussion Group Chat",
+          "channeltitle": "Mini AOC Chat",
+          "date": 1676671142,
+          "editdate": 1676675031,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 26,
+              "offset": 339,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1481668064
+          },
+          "fwdfrom": {
+            "channel_post": 8248,
+            "date": 1676671139,
+            "from_id": {
+              "channel_id": 1481668064,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 8248,
+            "saved_from_peer": {
+              "channel_id": 1481668064,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "A former NFL player was hit with five charges related to alleged gang-related human trafficking in Georgia. The Georgia Attorney General's office outlined the charges against Eric Johnson, 46, and seven co-defendants in a Thursday news release. Johnson, a former Oakland Raiders and Atlanta Falcons safety and linebacker, was indicted...\n\nhttps://saferead.org/RRM?1",
+          "peerid": {
+            "channel_id": 1208078045,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 139459
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 364,
+          "lastseents": "2023-03-17T04:46:01.912375"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5354447101273401769",
+        "_score": 7.7547,
+        "_source": {
+          "archivedon": "2023-03-01 07:58:28.394333",
+          "channelabout": "Patriot News & Current Events #KAG 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeThePatriotic\nVideo: youtube.com/pookzta\nMap: http://linktr.ee/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1676668548,
+          "editdate": 1676668552,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 175,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 145,
+              "offset": 177,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 5,
+              "offset": 370,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 8,
+              "offset": 392,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 407,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 19,
+              "offset": 428,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "HUGE: FOX News Filing Shows DOMINION Voting Systems Executives Including Eric Coomer Knew Its Voting Systems Had Major Security Issues, Was Hacked, and Was \"Riddled with Bugs\"\n https://www.thegatewaypundit.com/2023/02/breaking-sht-just-riddled-bugs-fox-news-filing-shows-dominion-knew-voting-systems-major-security-issues/\nSource: Gateway Pundit \n\nHelp us spread truth! #MAGA ✝️🌎🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nVideos: youtube.com/pookzta",
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1122690
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 26,
+          "lastseents": "2023-03-17T05:01:21.639542"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "5595791965154218353",
+        "_score": 7.3655,
+        "_source": {
+          "archivedon": "2023-03-04 08:53:07.754351",
+          "channelabout": "LIVE show M-F 12p-2p east w LIVE CHAT https://www.inthematrixxx.com/livechat/",
+          "channeltitle": "@mgshowchannel",
+          "channelusername": "mgshowchannel",
+          "date": 1676649295,
+          "editdate": 1676649381,
+          "edithide": true,
+          "entities": [],
+          "forwards": 37,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3606,
+            "date": 1676649280,
+            "from_id": {
+              "channel_id": 1786245921,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "𝐌𝐂𝐎𝐌𝐒®",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.34131943628831e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "𝐃𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐲 𝐢𝐬 𝐢𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭..\n\nFOX News Filing Shows DOMINION Knew Its Voting Systems Had Major Security Issues.\n\nDVS is in serious trouble after the filing by FOX News in its case with Dominion yesterday. FOX News uncovered through discovery, Dominion’s own employees expressed serious concerns about the security of its machines. \n\nWeeks before the 2020 election, Dominion’s Director of Product Strategy & Security, Eric Coomer, acknowledged in private that “our sh!t is just riddled with bugs.”",
+          "peerid": {
+            "channel_id": 1302871845,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "𝐌𝐂𝐎𝐌𝐒®",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425952062,
+            "comments": true,
+            "max_id": 2435494,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1475926968
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1594718146
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1510918957
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 7,
+            "replies_pts": 3675621
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 3235,
+          "lastseents": "2023-03-17T05:12:20.956532"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6406724684477381826",
+        "_score": 7.3655,
+        "_source": {
+          "archivedon": "2023-03-01 09:23:24.025425",
+          "channeltitle": "Magnolia State Patriots",
+          "channelusername": "PatriotPartyMS",
+          "date": 1676672763,
+          "edithide": false,
+          "entities": [],
+          "forwards": 72,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1514503934
+          },
+          "fwdfrom": {
+            "channel_post": 3606,
+            "date": 1676649280,
+            "from_id": {
+              "channel_id": 1786245921,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "𝐌𝐂𝐎𝐌𝐒®",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.341338210942e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "𝐃𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐲 𝐢𝐬 𝐢𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭..\n\nFOX News Filing Shows DOMINION Knew Its Voting Systems Had Major Security Issues.\n\nDVS is in serious trouble after the filing by FOX News in its case with Dominion yesterday. FOX News uncovered through discovery, Dominion’s own employees expressed serious concerns about the security of its machines. \n\nWeeks before the 2020 election, Dominion’s Director of Product Strategy & Security, Eric Coomer, acknowledged in private that “our sh!t is just riddled with bugs.”",
+          "peerid": {
+            "channel_id": 1491681832,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21314
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 6.00572684354205e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Shell",
+            "id": 1514503934,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1514503934,
+            "restriction_reason": []
+          },
+          "v": 1,
+          "views": 5099,
+          "lastseents": "2023-03-17T05:04:18.738768"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6182575233266930591",
+        "_score": 5.0384,
+        "_source": {
+          "archivedon": "1681592955",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1676668747,
+          "editdate": 1676686883,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 78,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 905,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 83,
+              "offset": 932,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 21333,
+            "date": 1676665964,
+            "from_id": {
+              "channel_id": 1212307538,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "Angel Patriot❤️🇺🇸",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 54175,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🚨Georgia: Former NFL Player Among 8 Arrested On Human Trafficking, Gang Charges\n\n🔹Eight alleged gang members, including former NFL player Eric Johnson, are accused of trafficking 4 women and a girl.\n🔹The Gwinnett County AG alleges the LOTTO \"Last One To Take Over\" gang conspired to recruit members and to engage in human trafficking for money to support members. Those members would use the money to purchase weapons and property. \n🔹Investigators say the gang kept the women under their control through violence and held them against their will by forcing them to have sex in exchange for money.\n🔹Charges: trafficking of persons for sexual servitude, violation of the street gang terrorism and prevention act, conspiracy to violate the RICO act, aggravated assault, and kidnapping.\n🔹Johnson played in the NFL from 2000-2005. Most notably he scored a touchdown for the Raiders in Super Bowl XXXVII.\n@ArrestsIndictmentsJustice\nhttps://www.fox5atlanta.com/news/lotto-gang-sex-trafficking-arrests-gwinnett-county",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 4,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 73,
+          "lastseents": "2023-04-15T21:09:15.107111",
+          "mediaref": "766dd8ab5747b4f0aeed278ec27dd5c54e9d8dac"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6333509979005265810",
+        "_score": 4.3586,
+        "_source": {
+          "archivedon": "2023-03-01 08:05:45.915212",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nChatroom: https://t.me/c/1491246429/5\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1676663593,
+          "editdate": 1676663741,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 138,
+              "offset": 70,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 43,
+              "offset": 774,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 108,
+              "offset": 831,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 149,
+              "offset": 953,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 163,
+              "offset": 1105,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 171,
+              "offset": 1270,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 129,
+              "offset": 1659,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 102,
+              "offset": 1791,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 119,
+              "offset": 1896,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 62,
+              "offset": 2017,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 89,
+              "offset": 2493,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 176,
+              "offset": 2585,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 123,
+              "offset": 2764,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 2892,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 16,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(1/4)                                        \n17 Feb 2023       U.S.\n\n▫️Man sought social media fame with 9 adopted kids until one called a podcast and made horrendous accusations of abuse despite CPS visits\nHOUSTON, Texas - An adoptive father who sought social media fame for taking in 9 children until one called into a podcast making horrendous accusations that led to his arrest. 38-year-old Hayim Nissim Cohen was arrested on Friday over the claims made by his 17-year-old adopted son. The unidentified teenager said that Child Protective Services had visited the family numerous times but that Cohen bribed the children or threatened them to stay quiet. The teen said he and his brothers were being sexually abused by their adoptive father and used the term \"rape.\"\n» https://www.youtube.com/watch?v=fgXC1wfn2iM    (VIDEO)\n» https://www.khou.com/video/news/crime/adopted-children-sexual-abuse/285-b476f3ea-1913-491c-8940-efa0afa34ec3    (VIDEO)\n» https://abc7chicago.com/hayim-nissim-cohen-arrested-adoptive-father-charged-sex-abuse-against-children-teen-reports-alleged-rape-on-podcast/12827616/\n» https://bbcgossip.com/news/man-sought-social-media-fame-with-9-adopted-kids-until-one-called-a-podcast-and-made-horrendous-accusations-of-abuse-despite-cps-visits/\n\n▫️‘LOTTO’ gang members indicted in Gwinnett on sex trafficking, gang charges after 5 women rescued - Former NFL player among 8 arrested on human trafficking, gang charges\nATLANTA — Former NFL defensive back Eric Johnson, 46, of Decatur, was one of the men alleged to belong to the LOTTO gang in Gwinnett County, according to a news release from Georgia’s Office of the Attorney General.\n» https://www.wsoctv.com/news/trending/former-nfl-player-eric-johnson-accused-human-trafficking-georgia/W3JSOBHEARDNDNCD5YM6EGFA5Q/\n» https://americanewsnow.us/sports/former-nfl-player-among-8-arrested-on-human-trafficking-gang-charges/\n» https://law.georgia.gov/press-releases/2023-02-16/carr-eight-indicted-gwinnett-county-following-major-human-trafficking\n\n▫️San Antonio trucker charged with kidnapping Little Elm teen\nDENTON COUNTY, Texas — A semi-truck driver based out of southeast Dallas has been arrested and charged with kidnapping after detectives found a missing Little Elm teen in the cab of his vehicle, officials announced. Richard S. Laird, of San Antonio, has been charged with aggravated kidnapping and served with nine additional warrants for sexual assault of a child, the Little Elm Police Department (LEPD) said.\n» https://www.fox4news.com/news/san-antonio-trucker-charged-with-kidnapping-little-elm-teen\n» https://www.wfaa.com/article/news/crime/texas-semi-truck-driver-faces-several-charges-kidnapping-sexual-assault-missing-little-elm-teen/287-52e585b7-6b2f-4386-af43-c34b60115f42\n» https://www.wfaa.com/video/news/local/missing-little-elm-teenager-found-police-say/287-daaf7b37-da64-44eb-a14a-adbb63843b0a\n\n   @ENDHUMANTRAFFICKING",
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "max_id": 491850,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1411102096
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 814661
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 1625,
+          "lastseents": "2023-03-17T05:00:58.677383"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202302",
+        "_id": "6199777715453697184",
+        "_score": 2.8611,
+        "_source": {
+          "archivedon": "2023-02-19 02:26:03.077153",
+          "channelabout": "Right-wing takes you wouldn't get from Google approved right-wing pundits.",
+          "channeltitle": "Jared Howe / StS",
+          "channelusername": "realjaredhowe",
+          "date": 1676605304,
+          "editdate": 1676608334,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 13,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/keith_woods/3750"
+            },
+            {
+              "length": 29,
+              "offset": 1413,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/thuletide/4319"
+            },
+            {
+              "length": 19,
+              "offset": 1783,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.imgur.com/xJ8Kinp.png"
+            },
+            {
+              "length": 168,
+              "offset": 1818,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 20,
+              "offset": 2389,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://i.imgur.com/afkSqIX.jpg"
+            },
+            {
+              "length": 46,
+              "offset": 2511,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://en.wikipedia.org/wiki/Critical_theory"
+            },
+            {
+              "length": 46,
+              "offset": 2557,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://en.wikipedia.org/wiki/Western_Marxism"
+            },
+            {
+              "length": 47,
+              "offset": 2603,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://en.wikipedia.org/wiki/Cultural_studies"
+            },
+            {
+              "length": 46,
+              "offset": 2650,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://en.wikipedia.org/wiki/Freudo-Marxism"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 4561,
+            "date": 1676590247,
+            "from_id": {
+              "channel_id": 1288641123,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Keith Woods' retarded narrative is that the American government cynically invented Cultural Marxism (which is, of course, \"not real Socialism\") after WW2 as a trick to undermine the USSR and cuck the \"real Left\" out of pursuing economics, so that evil Neo-Liberal Capitalists could dominate the world (because they are greedy and want lots of money or something).\n\nEasily debunked:\n\n1. Everything that Cultural Marxists advocate was also advocated by Marx and Engels (abolishing the nation, family, religion, and traditional culture, fighting \"false consciousness,\" etc.) and other influential Commies (see below). \n\n2. The USSR was the first country in history to implement stereotypically Cultural Marxist policies, e.g. legalizing transgenderism, criminalizing racism, implementing radical feminism, creating \"hate speech\" laws, etc.\n\n3. This happened as soon as the Communists conquered Russia, almost 50 years before Cultural Marxism was codified in America via the \"Civil Rights\" Act. In this sense, calling Cultural Marxism a \"Soviet ideology\" is reasonable.\n\n4. The ideological theories behind Cultural Marxism were imported into America from Germany and Russia by Communist immigrants. However, no sane man would call these ideas \"European,\" so why call them \"American\"?\n\nI've explained this stuff about Marxist subversion 1000 times before. For a post with citations, see this response to Eric Striker: https://t.me/thuletide/4319\n\nAnyway, Woods and other self-proclaimed Socialists have been pushing this historically illiterate nonsense for years, lying by omission to absolve and rehabilitate Socialism.\n\nThey don't actually explain how America transitioned from being institutionally White supremacist, sexist, Christian, etc. to being institutionally Cultural Marxist basically overnight, they just say \"This is all a natural consequence of Liberalism; these woke Leftists have been tricked into opposing their own class interests by the evil Monopoly Men and the CIA.\"\n\nWe can easily and objectively pinpoint when America was subverted and who was responsible (same for every other Western country). The \"anti-woke\" crowd became popular by doing exactly this. They looked at the basic historical facts and presented a genealogy of modern Leftism.\n\nTheir observations on Cultural Marxism closely align with those made by \"Far-Right\" anons on /pol/ several years prior (e.g. this image from 2015) and with genealogies presented by Leftists themselves. See these Commiepedia articles, for example:\nhttps://en.wikipedia.org/wiki/Critical_theory\nhttps://en.wikipedia.org/wiki/Western_Marxism\nhttps://en.wikipedia.org/wiki/Cultural_studies\nhttps://en.wikipedia.org/wiki/Freudo-Marxism\n\nPlus, the \"anti-woke\" crowd often point out the role of financial oligarchs in pushing \"wokeness\" — Rockefellers, BlackRock, WEF, etc. Nobody who talks about Cultural Marxism denies the existence of bankers, but CEOs in corporate boardrooms didn't invent modern Leftism; Marxist intellectuals in academia did.",
+          "peerid": {
+            "channel_id": 1443498236,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1368667617,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 570627
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 226,
+          "lastseents": "2023-02-19T03:05:22.641578"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

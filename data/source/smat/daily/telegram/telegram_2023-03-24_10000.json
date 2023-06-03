@@ -1,0 +1,2215 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [50],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [20],
+      "relation": ["eq"]
+    },
+    "max_score": [13.1081],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5296533212497979837",
+        "_score": 13.1081,
+        "_source": {
+          "archivedon": "1680047859",
+          "channelabout": "Unofficial channel for JustTheNews.com - a nonpartisan news media brand based in Washington, D.C. committed to just reporting facts from journalists.",
+          "channeltitle": "Just The News",
+          "channelusername": "JustTheNewsReports",
+          "date": 1679681243,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 48,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 80,
+              "offset": 57,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10685,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Former Los Angeles Mayor Eric Garcetti was sworn in by Vice President Kamala Harris on Friday as the new U.S. ambassador to India.",
+              "display_url": "rumble.com/v2em5t2-eric-garcetti-sworn-in-as-us-ambassador-to-india.html",
+              "hash": 0,
+              "id": 8.81146488831859e+18,
+              "photo": {
+                "access_hash": -3.72074844394477e+18,
+                "date": 1679681224,
+                "dc_id": 4,
+                "file_reference": "AGQjfvNlxZWn5jVA0P5vGYDR3xs8",
+                "has_stickers": false,
+                "id": 5.83337091626708e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcopnAIweM1PyY1OeFGapK2T+NOExBA/h6H3pJDbNFo1lgIGP3nOfftVAhghGOnWpEuH8pQMfKP602bBbrktyaYWNK0Ia2BAwAMf40VUspSse0dMkUU0yWign9ac33aKKSKYnmjYFCjpjNODFgOaKKALFrjY3AJ5xRRRQI/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 19324,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 82756,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 172504,
+                    "w": 1280
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "w",
+                    "h": 1080,
+                    "size": 185180,
+                    "w": 1920
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Rumble",
+              "title": "Eric Garcetti sworn in as US ambassador to India",
+              "type": "photo",
+              "url": "https://rumble.com/v2em5t2-eric-garcetti-sworn-in-as-us-ambassador-to-india.html"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Eric Garcetti sworn in as US ambassador to India\n\nWATCH: https://rumble.com/v2em5t2-eric-garcetti-sworn-in-as-us-ambassador-to-india.html",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1233195237,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1483,
+          "lastseents": "2023-03-28T23:57:40.295884",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6462698025423737576",
+        "_score": 12.5319,
+        "_source": {
+          "archivedon": "1682244158",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1679690115,
+          "editdate": 1679690118,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 47,
+              "offset": 256,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1380,
+            "date": 1679666401,
+            "from_id": {
+              "channel_id": 1587700090,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 4840,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "ERIC Exit!?!\n\nThis was part1 of a 2 part interview with Catching Fire News.\n\nWe go into detail into the issues with ERIC and why we don't need a \"replacement system.\" We go through the systematic issues with these types of 3rd party, centralized systems.\n\nhttps://catchingfire.news/2023/03/23/eric-exit/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34072
+          },
+          "silent": false,
+          "v": 1,
+          "views": 153,
+          "lastseents": "2023-04-23T10:02:38.408766",
+          "mediaref": "7dd00534d5fcf658506834b892b3174c2f806ba0",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5966960951520547877",
+        "_score": 12.177,
+        "_source": {
+          "archivedon": "2023-03-24 17:49:46.747751",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1679668560,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1542871934
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "ERIC also need to be removed from our elections",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 256969
+          },
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-03-24T18:37:37.105010",
+          "userinfo": {
+            "_id": 1542871934,
+            "_v": 1,
+            "access_hash": 6.62883006648757e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Ray",
+            "id": 1542871934,
+            "is_self": false,
+            "last_name": "Krahn",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {},
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6137290442422744379",
+        "_score": 12.177,
+        "_source": {
+          "archivedon": "1681494232",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1679679592,
+          "editdate": 1679679596,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 62,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 128315,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://news.yahoo.com/trump-says-son-eric-gets-150000714.html",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243313
+          },
+          "silent": false,
+          "v": 1,
+          "views": 46,
+          "lastseents": "2023-04-14T17:43:52.670257",
+          "mediaref": "5cfc3d13ba908c9d2e128213ef77e7a2049862d4",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6212354981719207163",
+        "_score": 11.9009,
+        "_source": {
+          "archivedon": "2023-03-24 19:18:00.36173",
+          "channeltitle": "Horrendous Trannies",
+          "channelusername": "HorrendousTrannies",
+          "date": 1679669716,
+          "editdate": 1679677010,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 19,
+              "offset": 76,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "You shouldn't, Eric. Also, congratulations, your extentions look like shit\n\n@HorrendousTrannies",
+          "peerid": {
+            "channel_id": 1446426609,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1163099534,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 287411
+          },
+          "silent": false,
+          "v": 1,
+          "views": 140,
+          "lastseents": "2023-03-24T19:37:41.893023",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6347407316354168476",
+        "_score": 11.8436,
+        "_source": {
+          "archivedon": "2023-03-24 06:38:47.320329",
+          "channelabout": "Feed your daily addiction with the biggest stories from news, politics, showbiz and everything else in between. https://www.dailymail.com.",
+          "channeltitle": "Mail Online",
+          "channelusername": "DailyMaiI",
+          "date": 1679637924,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 82,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 185,
+              "offset": 90,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 277,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 288,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Florida Panthers brothers Eric and Marc Staal decline to wear LGBTQ warmup jerseys\n\nRead: https://www.dailymail.co.uk/sport/othersports/article-11897181/Florida-Panthers-brothers-Eric-Marc-Staal-decline-wear-LGBTQ-warmup-jerseys.html?ns_mchannel=rss&ns_campaign=1490&ito=1490\n\nSubscribe: @DailyMaiI",
+          "peerid": {
+            "channel_id": 1477870931,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 12,
+          "lastseents": "2023-03-24T07:35:29.163064",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6137290442422744382",
+        "_score": 11.3877,
+        "_source": {
+          "archivedon": "1681494230",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1679679637,
+          "editdate": 1679679638,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 109,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 128318,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Bess Levin",
+              "description": "As did their dad, Allen Weisselberg said in Manhattan Supreme Court on Thursday.",
+              "display_url": "vanityfair.com/news/2022/11/allen-weisselberg-donald-trump-jr-eric-trump-trump-organization-fraud",
+              "hash": 279482065,
+              "id": 5.65423616853425e+18,
+              "photo": {
+                "access_hash": -9.94783518832414e+17,
+                "date": 1668797059,
+                "dc_id": 4,
+                "file_reference": "AGQ5kFkszjAuV/MLpoyZ5gD/3Bjf",
+                "has_stickers": false,
+                "id": 6.03643556556765e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoqxoVEauQqMcg+lWINsxaJcFQR8w61UvAxEb/AMLZwPSrNkBxtADNxnNFy+pMGJ3JHGrbe7dTVGIzTy53hfboKvmdFJlyBtJx7jpVKH53xGCwbjpkikN2LT/KP9UrDPPp0opbjcuY+5UH8RRQMpXU+4KmPlHI9qlsky4MbnBHQ9u1FFMnqUpmLOR/CpOB+NOt5XicMhINFFBHU0LmcTOJF4xj9aKKKCw=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 14396,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 50538,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 720,
+                    "w": 1280,
+                    "sizes": [16332, 36202, 42050, 58450, 98104]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Vanity Fair",
+              "title": "Eric and Donald Trump Jr. Signed Checks at the Center of Criminal Tax Fraud Trial: Longtime Trump Org CFO",
+              "type": "photo",
+              "url": "https://www.vanityfair.com/news/2022/11/allen-weisselberg-donald-trump-jr-eric-trump-trump-organization-fraud"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://www.vanityfair.com/news/2022/11/allen-weisselberg-donald-trump-jr-eric-trump-trump-organization-fraud",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243313
+          },
+          "silent": false,
+          "v": 1,
+          "views": 47,
+          "lastseents": "2023-04-14T17:43:50.679624",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6137290442422744381",
+        "_score": 11.3877,
+        "_source": {
+          "archivedon": "1681494231",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1679679635,
+          "editdate": 1679679638,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 109,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 128317,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://www.vanityfair.com/news/2022/11/allen-weisselberg-donald-trump-jr-eric-trump-trump-organization-fraud",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243313
+          },
+          "silent": false,
+          "v": 1,
+          "views": 45,
+          "lastseents": "2023-04-14T17:43:51.883991",
+          "mediaref": "2c777eda6536e1946ee8d9a4098d0446f6bf0626",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6137290442422744377",
+        "_score": 11.1488,
+        "_source": {
+          "archivedon": "1681494233",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1679679540,
+          "editdate": 1679679544,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 127,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 128313,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "https://www.nbcnews.com/politics/2022-election/trump-baffles-gop-endorsing-eric-missouri-senate-primary-race-three-er-rcna41049",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1234339120,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243313
+          },
+          "silent": false,
+          "v": 1,
+          "views": 53,
+          "lastseents": "2023-04-14T17:43:53.409620",
+          "mediaref": "f23c470e495f40dc77d3441a7992913fa3ada521",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5903952213625013618",
+        "_score": 11.0334,
+        "_source": {
+          "archivedon": "1680040293",
+          "channelabout": "Host: “America This Week W/ Eric Bolling” (ABC, NBC, CBS, FOX); “BOLLING With FAVRE”; 2 NYT Bestsellers; 2020 Emmy nominee \n\nericbolling.com",
+          "channeltitle": "Eric Bolling",
+          "channelusername": "Eric_Bolling",
+          "date": 1679659969,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 13,
+              "offset": 115,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 1394,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨TRUST ME!\nYou’re gonna want to watch “Eric Bolling The Balance” tonight. \n\n8pET & midnight\n@ NEWSMAX\n\nSubscribe: @Eric_Bolling",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1374620994,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": true,
+          "v": 1,
+          "views": 243,
+          "lastseents": "2023-03-28T21:51:33.823874",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6462698025423737577",
+        "_score": 8.2407,
+        "_source": {
+          "archivedon": "1682245036",
+          "channelabout": "",
+          "channeltitle": "America's Audit Force",
+          "channelusername": "AmericasAuditForce",
+          "date": 1679690121,
+          "editdate": 1679690124,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 64,
+              "offset": 599,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1381,
+            "date": 1679667261,
+            "from_id": {
+              "channel_id": 1587700090,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 4841,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Where will all the data go?\n\nThis was part2 of a 2 part interview with Catching Fire News.\n\nUnfortunately, we are not out of the woods yet. In this part we go over the reason why the data that ERIC still has is a real danger to all the states as well as some other solutions being touted as a replacement to ERIC.\n\nEnd of of the day...WE NEED TO RETURN THE ACCOUNTABITLY TO THE LOCAL LEVEL! \n\nOur local officials have to use standard practices and work to clean things up in our back yards. Remove the ability for the local officials to pass the buck and hold them 100% accountable for their jobs.\n\nhttps://catchingfire.news/2023/03/23/where-will-all-the-data-go/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1504714141,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Erin Clements",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1243107861,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34072
+          },
+          "silent": false,
+          "v": 1,
+          "views": 150,
+          "lastseents": "2023-04-23T10:27:57.430928",
+          "mediaref": "6e763afcdc4d1071a9258052ff3ffa5a59154298",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5354447101273416228",
+        "_score": 7.5917,
+        "_source": {
+          "archivedon": "1680041858",
+          "channelabout": "Patriot News & Current Events #MAGA 🇺🇸\n\nMain: @PookztA\nNews: @PatriotArmy\nGroup: @WeTheNews\nVideo: youtube.com/pookzta\nMap: http://bit.ly/PatriotMap",
+          "channeltitle": "Patriot Army",
+          "channelusername": "PatriotArmy",
+          "date": 1679666722,
+          "editdate": 1679666726,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 83,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 56,
+              "offset": 210,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 141,
+              "offset": 462,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 155,
+              "offset": 605,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 766,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 766,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 29,
+              "offset": 796,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 796,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5518,
+            "date": 1679666721,
+            "from_id": {
+              "channel_id": 1472621232,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 369188,
+          "media": {
+            "reformatted_key": "MessageMediaDocument",
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "access_hash": -6.14857659643208e+18,
+              "attributes": [
+                {
+                  "duration": 56,
+                  "h": 336,
+                  "reformatted_key": "DocumentAttributeVideo",
+                  "round_message": false,
+                  "supports_streaming": true,
+                  "w": 640
+                },
+                {
+                  "reformatted_key": "DocumentAttributeFilename",
+                  "file_name": "IMG_7578.MP4"
+                }
+              ],
+              "date": 1679666701,
+              "dc_id": 4,
+              "file_reference": "AkpO0UUABaIkZCNne9+MK0nauTFz9/2O53NN3H8=",
+              "id": 5.83223804946704e+18,
+              "mime_type": "video/mp4",
+              "reformatted_key": "Document",
+              "size": 5327892,
+              "thumbs": [
+                {
+                  "bytes": "ARUoobM0vl56UqTLuG75ce2anDLsLKGZR6DFVcmwwW6+VnDb/rxUbR84GQcdKupDiES8nCb9tRm5ibJ2fMR/FzUq6KdiqUPSipY5AxUdAPSilzDsMgnCRqPKUkdzVg3bbQuxMfSiimxom+1Ns4AHy9Kg+1HI/dp+VFFAxrThxgRque4oooqWJH8=",
+                  "reformatted_key": "PhotoStrippedSize",
+                  "type": "i"
+                },
+                {
+                  "reformatted_key": "PhotoSize",
+                  "type": "m",
+                  "h": 168,
+                  "size": 16725,
+                  "w": 320
+                }
+              ],
+              "video_thumbs": []
+            },
+            "nopremium": false
+          },
+          "message": "ERIC TRUMP HAS ADVISED ALL PATRIOTS TO COLLECT THEIR MONEY WITH THE TRB GOLD TOKEN.\n\nJust two days ago Donald Trump released his first GOLD TOKEN. With this Token people can LIQUIDATE FOR CASH up to $5.000.00\n\nListen to the words of Eric Trump and see for yourself. \n\nTrump said he decided to call it the GOLD TOKEN because it is the most EXCLUSIVE CRYPTOCURRENCY TECHNOLOGY TOKEN ever made and it allows you to COLLECT everything that you have been promised. \n\nWith 1 TRB GOLD TOKEN,  you can CASH OUT the FUNDS of up to $5000. Let's say if you have 500 TOKENS you will be able to retire after 60 days.\n\nThese TOKENS may already be gone because a lot of smart Americans are collecting their money, but nevertheless you can check availability on the link below 👇👇\nhttps://bit.ly/-TRB-GoldToken\nhttps://bit.ly/-TRB-GoldToken",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1246679365,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1225920525,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1144485
+          },
+          "silent": false,
+          "v": 1,
+          "views": 36,
+          "lastseents": "2023-03-28T22:17:38.717150",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6290126269535233038",
+        "_score": 7.5917,
+        "_source": {
+          "archivedon": "1681775942",
+          "channelabout": "⚠️ Warning: Many users report that this account impersonates a famous person or organisation.",
+          "channeltitle": "Lin Wood",
+          "channelusername": "LinWoodTruth",
+          "date": 1679666701,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 83,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 56,
+              "offset": 210,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 141,
+              "offset": 462,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 155,
+              "offset": 605,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 29,
+              "offset": 766,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 766,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 29,
+              "offset": 796,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 29,
+              "offset": 796,
+              "reformatted_key": "MessageEntityUnderline"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 9230,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "ERIC TRUMP HAS ADVISED ALL PATRIOTS TO COLLECT THEIR MONEY WITH THE TRB GOLD TOKEN.\n\nJust two days ago Donald Trump released his first GOLD TOKEN. With this Token people can LIQUIDATE FOR CASH up to $5.000.00\n\nListen to the words of Eric Trump and see for yourself. \n\nTrump said he decided to call it the GOLD TOKEN because it is the most EXCLUSIVE CRYPTOCURRENCY TECHNOLOGY TOKEN ever made and it allows you to COLLECT everything that you have been promised. \n\nWith 1 TRB GOLD TOKEN,  you can CASH OUT the FUNDS of up to $5000. Let's say if you have 500 TOKENS you will be able to retire after 60 days.\n\nThese TOKENS may already be gone because a lot of smart Americans are collecting their money, but nevertheless you can check availability on the link below 👇👇\nhttps://bit.ly/-TRB-GoldToken\nhttps://bit.ly/-TRB-GoldToken",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1464534148,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 627,
+          "lastseents": "2023-04-17T23:59:02.052063",
+          "mediaref": "8a0f1a1c92fc9113b306ee1cf37023048a35e7b6",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6333509979005266049",
+        "_score": 7.4005,
+        "_source": {
+          "archivedon": "1680036890",
+          "channelabout": "Today, an estimated 25 million people (about the population of Texas), including children, are trapped in the cycle.\n\nBitchute: https://www.bitchute.com/channel/iUT52OYL3OQx/\n\nInquiries? Contact @EHTAdmin",
+          "channeltitle": "END HUMAN TRAFFICKING",
+          "channelusername": "ENDHUMANTRAFFICKING",
+          "date": 1679697069,
+          "editdate": 1679702630,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 83,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 107,
+              "offset": 676,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 115,
+              "offset": 800,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 127,
+              "offset": 918,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 20,
+              "offset": 1050,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 8,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 10369,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "The US has again slammed human rights in India, citing challenges to freedom of expression, but praising the ‘democratic values' that bind Washington and New Dehli at the same time. Meanwhile, an envo",
+              "display_url": "rumble.com/v2ekoiw-us-appoints-diplomat-involved-in-scandals-envoy-to-india-two-years-after-no.html",
+              "hash": 0,
+              "id": 8.81146488699147e+18,
+              "photo": {
+                "access_hash": -5.26587347260019e+18,
+                "date": 1679662452,
+                "dc_id": 4,
+                "file_reference": "AGQjVBr4NmzJqbyEjeyOmXhnnM+V",
+                "has_stickers": false,
+                "id": 5.83339643696275e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcop2tvHJbs7AlgTjmnraoHKMM8ZBGRTLe5SG1Kcly2eOwq3Kywz/OWO4YUqOP880xdGZ2YNg/1m7v0xRmP/aqKlFAxd2CcAEHjmikNFAhBUm9mxlj8vTnpRRTAeAPSlIUdqKKAInaiiigD",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 16475,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 73513,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 720,
+                    "size": 91221,
+                    "w": 1280
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Rumble",
+              "title": "US appoints diplomat involved in scandals envoy to India two years after nomination",
+              "type": "photo",
+              "url": "https://rumble.com/v2ekoiw-us-appoints-diplomat-involved-in-scandals-envoy-to-india-two-years-after-no.html"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "US appoints diplomat involved in scandals envoy to India two years after nomination       (VIDEO)\n\nThe US has again slammed human rights in India, citing challenges to freedom of expression, but praising the ‘democratic values' that bind Washington and New Dehli at the same time.\n\nMeanwhile, an envoy to India has been appointed -Former Mayor of LA, Eric Garcette previously involved in several scandals and accused of a sexual harassment cover up.\n\nGarcetti was confirmed by the Senate after a two-year process dogged by allegations he ignored accusations of assault and sexual harassment against a former aide.\n\nRT's India correspondent Runhjun Sharma has more details:\n\n» https://rumble.com/v2ekoiw-us-appoints-diplomat-involved-in-scandals-envoy-to-india-two-years-after-no.html       (VIDEO)\n» https://www.ocregister.com/2023/03/23/ex-la-mayor-eric-garcetti-to-be-sworn-in-as-us-ambassador-to-india-on-friday/\n» https://www.latimes.com/california/story/2022-05-10/what-did-garcetti-know-about-aides-sex-abuse-allegations-heres-what-we-know\n\n   @ENDHUMANTRAFFICKING",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1474635205,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "DJBoddhi",
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 10,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              },
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "😈",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1491246429,
+            "comments": true,
+            "max_id": 494021,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1439426577
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 819035
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1860,
+          "lastseents": "2023-03-28T20:54:50.837642",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5782522656259986357",
+        "_score": 7.3971,
+        "_source": {
+          "archivedon": "1679995395",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1679671834,
+          "editdate": 1679671837,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://apnews.com/article/sex-trafficking-texas-attorney-general-ken-paxton-edcce2714829dac9b4679733c7d5a5f6?utm_source=homepage&utm_medium=TopNews&utm_campaign=position_05"
+            },
+            {
+              "length": 30,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1639269920339902465"
+            },
+            {
+              "length": 11,
+              "offset": 36,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/JZBleiberg"
+            },
+            {
+              "length": 3,
+              "offset": 239,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP"
+            },
+            {
+              "length": 10,
+              "offset": 263,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/LOyekanmi"
+            },
+            {
+              "length": 173,
+              "offset": 306,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 414645,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "SAN ANTONIO (AP) — Irma Reyes changed clothes in the back seat of the pickup: skirt, tights, turtleneck, leather jacket. All black. She brushed her hair and pulled on heels as her husband drove their Chevy through predawn darkness toward a courthouse hundreds of miles from home.",
+              "display_url": "apnews.com/article/sex-trafficking-texas-attorney-general-ken-paxton-edcce2714829dac9b4679733c7d5a5f6",
+              "hash": 0,
+              "id": 1.67477693374035e+17,
+              "photo": {
+                "access_hash": -8.82287745533361e+17,
+                "date": 1679640983,
+                "dc_id": 4,
+                "file_reference": "AGQisfu/FgajFk6pxjAnFhAg2nAd",
+                "has_stickers": false,
+                "id": 5.83142337623161e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARsoox224zB8gxrnj60xYiJQnc1cSTbfXPy5DBxz0qOWRJL0SIQVyACBgdKAIZIyjgDk+lL5RKEgcA1LM+SxH3qInH2Y5HP+f/rUhsqkHnJxiippHXeVA49aKYh8U8skrEBWLDB4xgfhUEsgyqoMKnT6+tXmVY4ZdgC4Hb6VmUAOLkmjeQpAPWm0Uhhk0UlFMR8=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 213,
+                    "size": 14990,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 533,
+                    "size": 55230,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 853,
+                    "size": 113345,
+                    "w": 1280,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "w",
+                    "h": 1707,
+                    "w": 2560,
+                    "sizes": [53625, 103846, 118423, 176941, 346277]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "AP NEWS",
+              "title": "A sex trafficking case, a plea deal and a mother's pain",
+              "type": "photo",
+              "url": "https://apnews.com/article/sex-trafficking-texas-attorney-general-ken-paxton-edcce2714829dac9b4679733c7d5a5f6"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "‌The Associated Press (Twitter)\n\nRT @JZBleiberg: Irma Reyes is still grasping for justice for her daughter. She’s filed legal complaints, but none will reopen the criminal case.\n\n“It’s like a nightmare that I can’t wake up from,” she told @AP.\n\nStory w/ video by @LOyekanmi and photos by Eric Gay is here👇https://apnews.com/article/sex-trafficking-texas-attorney-general-ken-paxton-edcce2714829dac9b4679733c7d5a5f6?utm_source=homepage&utm_medium=TopNews&utm_campaign=position_05",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 676829
+          },
+          "silent": false,
+          "v": 1,
+          "views": 7,
+          "lastseents": "2023-03-28T09:23:15.555927",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5090199899812348758",
+        "_score": 6.0761,
+        "_source": {
+          "archivedon": "1680007403",
+          "channelabout": "Monitoring Russian Telegram Channels\nAutomated DeepL Translation from Russian Telegram Channels | https://ruprop.live\nMain Telehunt channel",
+          "channeltitle": "Telehunt Watch",
+          "channelusername": "telehunt_watch",
+          "date": 1679627990,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 6,
+              "offset": 1174,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 11,
+              "offset": 1201,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 6,
+              "offset": 2413,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 11,
+              "offset": 2432,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 31,
+              "offset": 2462,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1751856920
+          },
+          "fwdfrom": {
+            "channel_post": 663703,
+            "date": 1679627986,
+            "from_id": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 663703,
+            "saved_from_peer": {
+              "channel_id": 1751856920,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "id": 738134,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "Джим Эрик Хаттон — американский наемник «Интернационального легиона»\n\nСреди американских наемников «Интернационального легиона» немало ветеранов боевых действий, для которых война является смыслом жизни, будь то Афганистан, Мали или Украина. Один из таких — Джим Эрик Хаттон. \n\n ▪️Американцу 33 года, он выходец из семьи военных: его дед воевал во Вьетнаме, отец участвовал в Иракской компании и до 2021 года был помощником секретаря Департамента по делам ветеранов. \n\n ▪️Джим пошёл по семейным стопам: с 2009 по 2011 годы он служил в морской пехоте, дважды был в командировках в Афганистане. После армии он некоторое время служил во Французском иностранном легионе. \n\n ▪️В апреле 2022 года Хаттон отправился за новыми ощущениями на Украину. Поначалу выдавал себя за медика, однако вскоре его заметили в рядах диверсионной группы Black Team «Интернационального легиона». \n\nВ последние месяцы отряд понёс ощутимые потери: ликвидированы наемники Симон Лингард, Джеймс Хильдебрандт, Даниэл Свифт, а Трой Оффенбекер бежал с Украины. Несмотря на это, Джим Эрик Хаттон остаётся в рядах Black Team на Бахмутском направлении. \n\nИнфографика в высоком разрешении \n\n@rybar совместно с @TrackaMerc",
+              "display_url": "t.me/boris_rozhin/81254",
+              "hash": 0,
+              "id": 3.46374942511959e+18,
+              "photo": {
+                "access_hash": -7.90400907010902e+17,
+                "date": 1679398983,
+                "dc_id": 2,
+                "file_reference": "AGQi4Op23Xc9O9pH0u+WhrXXOShL",
+                "has_stickers": false,
+                "id": 5.24701563735047e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ASgo0ZJGS1Ljlv8A69VrOV5MpOoYjkk80kzTkssYG0rjJIptv5ySBWDAMeSV4NK4x8samZgowPamGEdMkfhUjqCScDNC5A71N2VYrS22xC27OPaip7g/uWooTYDtrFtoA3dcZGaTa6sdwwajeZluSVByMchfamtPN8o2MW6nj3p2Fcmwcng/gaAVDYMm0+hNVp57lGcBQOBtOO/f+tEx/eoy47Z/GlYLltUSbdET82M9eaKpDdHqHnqAVz3OO3P9aKqyFdlsgnnJpswcxrsJJB56UUVC0ZT1Q7G5RuUE9+BRs7hQT/Kiik27gkQ3JPlgEYOfWiiiqQE=",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 320,
+                    "size": 40591,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 800,
+                    "size": 185462,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 1280,
+                    "w": 1280,
+                    "sizes": [27326, 84691, 151330, 227231, 354540]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Telegram",
+              "title": "Colonelcassad",
+              "type": "photo",
+              "url": "https://t.me/boris_rozhin/81254"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "TRANSLATION :\nJim Eric Hutton is an American mercenary for the International Legion\n  \nAmong the American mercenaries of the International Legion there are many combat veterans for whom war is the meaning of life, whether in Afghanistan, Mali or Ukraine. One of them is Jim Eric Hutton.   \n  \n▪️Американцу, 33, comes from a military family: his grandfather fought in Vietnam, his father fought in the Iraqi campaign and was assistant secretary of the Department of Veterans Affairs until 2021.   \n  \n▪️Джим followed in his family's footsteps: he served in the Marines from 2009 to 2011, twice on deployment to Afghanistan. After the Army, he served briefly in the French Foreign Legion.   \n  \n▪️В April 2022 Hutton went to Ukraine for a new experience. At first he posed as a medic, but was soon spotted in the ranks of the International Legion's Black Team sabotage group.   \n  \nIn recent months, the unit had suffered tangible losses: mercenaries Simon Lingard, James Hildebrandt, and Daniel Swift were liquidated, and Troy Offenbecker fled Ukraine. Despite this, Jim Eric Hutton remains with the Black Team in the Bakhmut direction.   \n  \nHigh-resolution infographics\n  \n@rybar in conjunction with @TrackaMerc\n\n=======\nORIGINAL :\nДжим Эрик Хаттон — американский наемник «Интернационального легиона»  \n  \nСреди американских наемников «Интернационального легиона» немало ветеранов боевых действий, для которых война является смыслом жизни, будь то Афганистан, Мали или Украина. Один из таких — Джим Эрик Хаттон.   \n  \n▪️Американцу 33 года, он выходец из семьи военных: его дед воевал во Вьетнаме, отец участвовал в Иракской компании и до 2021 года был помощником секретаря Департамента по делам ветеранов.   \n  \n▪️Джим пошёл по семейным стопам: с 2009 по 2011 годы он служил в морской пехоте, дважды был в командировках в Афганистане. После армии он некоторое время служил во Французском иностранном легионе.   \n  \n▪️В апреле 2022 года Хаттон отправился за новыми ощущениями на Украину. Поначалу выдавал себя за медика, однако вскоре его заметили в рядах диверсионной группы Black Team «Интернационального легиона».   \n  \nВ последние месяцы отряд понёс ощутимые потери: ликвидированы наемники Симон Лингард, Джеймс Хильдебрандт, Даниэл Свифт, а Трой Оффенбекер бежал с Украины. Несмотря на это, Джим Эрик Хаттон остаётся в рядах Black Team на Бахмутском направлении.   \n  \nИнфографика в высоком разрешении   \n  \n@rybar совместно с @TrackaMerc\n\n=======\nSOURCE :\nhttps://t.me/boris_rozhin/81254\nColonelcassad",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1185154519,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1154995
+          },
+          "silent": false,
+          "v": 1,
+          "views": 3,
+          "lastseents": "2023-03-28T12:43:24.015431",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["media.webpage.description.keyword", "media.webpage.photo.sizes.bytes.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6182575233266948799",
+        "_score": 4.9762,
+        "_source": {
+          "archivedon": "1681599070",
+          "channelabout": "Welcome to America First Audits. We are American Patriot owned and have joined together to Keep America First. Our mission is to unite and educate Patriots on forensic Audits in America and State Election Integrity.",
+          "channeltitle": "America First",
+          "channelusername": "AmericaFirstAudits",
+          "date": 1679692864,
+          "editdate": 1680206217,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 62,
+              "offset": 2,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 26,
+              "offset": 826,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 102,
+              "offset": 853,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 23417,
+            "date": 1679687841,
+            "from_id": {
+              "channel_id": 1212307538,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "post_author": "𝓐𝓷𝓰𝓮𝓵 𝓟𝓪𝓽𝓻𝓲𝓸𝓽❤️🇺🇸",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "id": 72383,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "🚨Florida: 18 Arrested In St. Petersburg Human Trafficking Sting\n\n🔹Eighteen people were arrested in a 4-day human trafficking sting in St. Petersburg. The operation was run by the Tampa Bay Human Trafficking Task Force. A total of 23 agencies along with St. Petersburg PD worked to help victims and catch criminals.\n🔹Brandon C.R. Harrison, 31 was arrested after he allegedly responded to a fake online advertisement set up by police.\n🔹Harrison allegedly texted a detective asking to have sex with 14 and 15-year-old girls in exchange for anti-psychotic medication and sleeping pills. He gave the detective the pills when he met with the undercover officer.\n🔹Eric B. Smith, 33, brought 3 McDonald’s meals and $220 to the meeting with undercover detectives in exchange for sex with minors, according to an arrest affidavit.\n@ArrestsIndictmentsJustice\nhttps://www.wfla.com/news/pinellas-county/18-arrested-in-st-petersburg-human-trafficking-sting-police/",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1439492971,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": [
+              {
+                "chosen": false,
+                "count": 1,
+                "reaction": "👍",
+                "reformatted_key": "ReactionCount"
+              }
+            ]
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1241640422,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2137315
+          },
+          "silent": false,
+          "v": 1,
+          "views": 72,
+          "lastseents": "2023-04-15T22:51:10.697655",
+          "mediaref": "48b91666de607661a6d98bcc3f9e893d08b31cd8",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5487978987420518375",
+        "_score": 3.4388,
+        "_source": {
+          "archivedon": "2023-03-25 04:17:49.363448",
+          "channelabout": "FREE FLOW OF INFORMATION,\nWAKE EM UP.\nRecovering News Junkie, \n(BACK ON THE WAGON).\nLife Long Antisemite!\nThe Only Fear I Have In Life Is Atmosphere!\nLIVE FREE OR DIE!!!",
+          "channeltitle": "BOSS_HAWGA",
+          "channelusername": "HawGa",
+          "date": 1679701625,
+          "editdate": 1679713408,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 84,
+              "offset": 0,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 92,
+              "offset": 84,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 172,
+              "offset": 318,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 162,
+              "offset": 765,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 109,
+              "offset": 1314,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 510,
+              "offset": 1706,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 101,
+              "offset": 2227,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 245,
+              "offset": 2783,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 262,
+              "offset": 3031,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 138,
+              "offset": 3633,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 20,
+              "offset": 3772,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 118,
+              "offset": 3792,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 2,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 5171,
+            "date": 1679017173,
+            "from_id": {
+              "channel_id": 1412906359,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Brilliant analysis of the \"Woke\" and fake \"anti-Woke\" phenomenon by Striker today:\n\nThe majority of [the conservative “anti-woke”] movement’s academics and journalists are Jews: Eric Kaufmann, Batya Ungar-Sargon, Bari Weiss, Zach Goldberg, Matthew Yglesias, Abigail Shrier, Dave Rubin, Bret and Eric Weinstein, et al. Many of them identified as left-liberals until very recently, some still do.\n\nThese figures specialize in flooding disinformation and confusion on what exactly wokeness is. This is a deliberate categorical obfuscation that trickles down to the Republican party rank-and-file, and its intention is as a place holder for popular discontent that prevents a proper Hegelian pro-white antithesis to the anti-white thesis from forming.\n\nIn its essence, what people refer to as “woke” is the “Open Society” — radical minoritarian liberalism used as a tool of control by a collectivist and racialist Jewish plutocracy. The Bolsheviks implemented a prototype of this in their campaign against “Great Russian Chauvinism,” but the ideology was perfected by the post-war Judeo-American and Atlanticist establishment through college-educated and affluent Baby Boomers — the first Western generation properly instructed in this worldview — as they came of age in the 1960s.\n\nThe ideology exists in a continuum. The speed of its “progress” ebbs and flows depending on circumstance, but ultimately its corrosion advances. The pauses that follow a transformative moment in American history (Civil Rights viz-a-viz Nixon, rising “LGBT” cultural power and the Defense of Marriage Act/Don’t Ask Don’t Tell, Obama identity politics to Trumpism) are brief interludes, but in the end meaningless and ephemeral. Its driving force is: 1) Western nations, cultures and people are illegitimate due to the collective sin of the Holocaust (as summarized by Theodor Adorno’s quote “No poetry after Auschwitz”) and other supposed historical atrocities related to collectivism and the exclusion of the “Other” and 2) An exception to this rule for those who are minorities of race and paraphilic sexual practices, who must be morally and socio-politically empowered to rule over majorities as a prerequisite to liberal Democracy.\n\nNaturally, no majority, regardless of race, enjoys being treated like second-class citizens in their own country. The solution to this, developed by Jews closely connected with the US power structure in works such as Karl Popper’s The Open Society and Its Enemies and Karl Loewenstein’s Militant Democracy is to utilize soft (in education, think “Critical Race Theory,” and in the work place, “cancel culture”) and hard power (criminally prosecuting “hate”) to stifle and suppress the vitalism of a targeted majority as well as their political will.\n\nIn other words, the crisis of representative democracy in America and the rest of the West — where the will of the people is thwarted by judiciaries or populist frauds who appear out of nowhere waste supporter’s time and money — is a product of malicious intent.\n\nBut traditional forms of repression can’t always intercept a reaction when anti-majoritarian forces become excessive....\n\nThis is where the dialectical distortion of the Jews currently taking the reigns of the permitted opposition to the “woke” comes into play. The atmosphere in today’s America is one of stewing resentment following the institutional deployment of anti-fascist emergency powers that have culminated in the ossification of anti-white policies and day-to-day violence after the election of Donald Trump in 2016, the Charlottesville protest in 2017, and the George Floyd riots of 2020. This necessitates a steam valve, one that contains the potential for blowback on the real architects of these troubles and thus avoids any meaningful change.\n\nhttps://nationaljusticeparty.com/2023/03/16/what-is-wokeism-and-how-the-judeo-right-retards-our-national-conversation/",
+          "peerid": {
+            "channel_id": 1277769680,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Joe Roganstein",
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1744702409,
+            "comments": true,
+            "max_id": 109175,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1633473221
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1675564227
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1918838661
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 145793
+          },
+          "silent": false,
+          "v": 1,
+          "views": 237,
+          "lastseents": "2023-03-25T04:39:25.831415",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "5966960951520547875",
+        "_score": 3.3106,
+        "_source": {
+          "archivedon": "2023-03-24 17:49:46.744421",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1679667947,
+          "editdate": 1679667997,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 15,
+              "offset": 1824,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/PeterBernegger"
+            },
+            {
+              "length": 15,
+              "offset": 1824,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 10,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1252412179
+          },
+          "fwdfrom": {
+            "channel_post": 352,
+            "date": 1679667913,
+            "from_id": {
+              "channel_id": 1886380628,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 2361,
+            "saved_from_peer": {
+              "channel_id": 1252412179,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "Don Millis is the Chairman of the WIS election commission. That commission has lost lawsuit, after lawsuit. It has many lawsuits against it right now and will lose those also. So what does Millis do? He schedules a \"bipartisian\" forum on March 28th to promote how safe and secure our elections are....unbelievable! \n\nHe knows the commission has lost all these lawsuits; Don Millis knows there are tons of lawsuits against the commission right now. Why all these lawsuits? Because the commission, its employees, are violating the law.  \n\nOverwhelmingly the the illegal acts have been committed by Meagan Wolfe, an employee. She is causing all these lawsuits by writing illegal memos to our election clerks. Meagan takes it upon herself to interpret the law, waives her magic wand, and that is what the clerks do - even though it is repeatedly found by countless courts to be illegal. \n\nSo brain trust Don Millis - instead of fixing the real problems - is holding a forum on March 28th in an attempt to tell the public everything is OK - when the WIS election system is a disaster. Thirteen (13) lawsuits have been won recently, many against WEC, thus proving our election system has significant problems. Yet Millis wants to cover it all up. Maybe he should begin with looking into ERIC giving all our very private information such as SS# to CEIR who gives it to other third parties - in clear violation of the membership agreement. \n\nIt is a breach of contract for one, Millis. If you attend the forum, hosted by communist Molly Beck of the Milwaukee Journal Sentinel, the newspaper that is now down to just 43,000 print subscribers (in a state with 4.6 million adults), and losing tons of money. Yep, real \"bipartisan\"  Millis - are you going to tell the public how many lawsuits the commission has lost?  And why lost?\n\n~ Peter Bernegger",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 152612,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 256969
+          },
+          "silent": false,
+          "v": 1,
+          "views": 301,
+          "lastseents": "2023-03-24T18:37:37.104150",
+          "userinfo": {
+            "photo": {},
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202303",
+        "_id": "6699560700089511085",
+        "_score": 2.3173,
+        "_source": {
+          "archivedon": "1680009885",
+          "channelabout": "En attendant que Tass mette en place un canal en Anglais - Français officiel - Idem pour RT Fr en RSS car le site n'est pas configuré pour - Pour la \"pluralité de l'information\" et la liberté d'expression.\nIl y a aussi : https://t.me/rt_france_alt",
+          "channeltitle": "RSS RT France - Tass News Agency English / Non-Official Channel",
+          "channelusername": "Rss_Tass_en_RT_fr_not_offical",
+          "date": 1679665565,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://francais.rt.com/international/105031-coree-nord-affirme-avoir-teste-nouveau-drone-sous-marin-attaque-nucleaire"
+            },
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 86,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 86,
+              "offset": 88,
+              "reformatted_key": "MessageEntityUnderline"
+            },
+            {
+              "length": 86,
+              "offset": 88,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 78,
+              "offset": 2302,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 3974,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://francais.rt.com/international"
+            },
+            {
+              "length": 5,
+              "offset": 4024,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://mf.b37mrtl.ru/french/images/2023.03/article/641d7d3187f3ec248e7876e7.jpg"
+            },
+            {
+              "length": 5,
+              "offset": 4030,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://mf.b37mrtl.ru/french/images/2023.03/thumbnail/641d7d3187f3ec248e7876e7.jpg"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1949336244
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 44205,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "description": "La Corée du Nord a affirmé avoir testé un drone d'attaque nucléaire sous-marin capable de déclencher un «tsunami radioactif». Pyongyang accuse les Etats-Unis et la Corée du Sud d'être à l'origine de la détérioration de la sécurité régionale.",
+              "display_url": "francais.rt.com/international/105031-coree-nord-affirme-avoir-teste-nouveau-drone-sous-marin-attaque-nucleaire",
+              "hash": -2080842106,
+              "id": 6.16373065341972e+18,
+              "photo": {
+                "access_hash": 6.38156287559921e+18,
+                "date": 1679659735,
+                "dc_id": 4,
+                "file_reference": "AGQi6pTLuO6yojFXBoITR6hIjpWe",
+                "has_stickers": false,
+                "id": 5.83156324613657e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcopSXUsibWbiohkUY9Kk8lvLDdj3oAu29wiQKryDNTmZAcbhVRShtRHnPtUcccmcKCwH6UJhY0AwfODniioLUOu/epX0zRSY0UIkaRwq4z71aQFYJCpyq8n3oopiGK6MNwFSW8mGY+1FFIZYWQPnHpRRRTEQ==",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 14583,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "x",
+                    "h": 444,
+                    "w": 790,
+                    "sizes": [5478, 14759, 23005, 38025, 69994]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "RT",
+              "title": "La Corée du Nord affirme avoir testé un nouveau «drone» sous-marin d'attaque nucléaire",
+              "type": "photo",
+              "url": "https://francais.rt.com/international/105031-coree-nord-affirme-avoir-teste-nouveau-drone-sous-marin-attaque-nucleaire"
+            },
+            "document": {
+              "attributes": {},
+              "thumbs": {},
+              "video_thumbs": {}
+            }
+          },
+          "message": "La Corée du Nord affirme avoir testé un nouveau «drone» sous-marin d'attaque nucléaire\n\nLa Corée du Nord affirme avoir testé un nouveau «drone» sous-marin d'attaque nucléaire\n\n 24 mars 2023, 13:08\n\n- Avec AFP\n© KCNA VIA KNS Source: AFP\nPhotographie du dirigeant nord-coréen Kim Jong-un, dont l'AFP ne peut pas vérifier de manière indépendante l'authenticité, la localisation, la date (image d'illustration).\nLa Corée du Nord a affirmé avoir testé un drone d'attaque nucléaire sous-marin capable de déclencher un «tsunami radioactif». Pyongyang accuse les Etats-Unis et la Corée du Sud d'être à l'origine de la détérioration de la sécurité régionale.\n\nSelon l'agence KCNA, Pyongyang a affirmé ce 24 mars avoir procédé au test d'un nouveau système sous-marin de lancement de missiles nucléaires. «Ce drone d'attaque nucléaire sous-marin peut être déployé sur toute côte et port ou remorqué par un navire de surface», le but de cette arme étant de «s'infiltrer furtivement dans les eaux opérationnelles et de produire un tsunami radioactif à grande échelle [...] pour détruire les groupes d'attaquants navals et les principaux ports opérationnels de l'ennemi».\n\nLe dirigeant nord-coréen Kim Jong-un a personnellement supervisé les essais, selon KCNA. L'agence a également affirmé que Pyongyang avait tiré le 22 mars des missiles de croisière stratégiques «équipés d'une ogive d'essai simulant une ogive nucléaire».\n\nNéanmoins, des analystes cités par l'AFP ont mis en doute les affirmations de la Corée du Nord. L'idée que Pyongyang possède «un drone sous-marin à capacité nucléaire devrait être accueillie avec scepticisme», a ainsi estimé le professeur Leif-Eric Easley de l'université Ewha à Séoul. «Les affirmations de Pyongyang concernant un nouveau système d'armement ne sont pas la même chose qu'une démonstration crédible de ses capacités», a-t-il ajouté. Dans un message sur Twitter, l'analyste américain Ankit Panda n'excluait pas que l'allégation de test soit une «tentative de tromperie» ou une «opération psychologique». Malgré tout, l’affirmation de Pyongyang a été jugée «choquante» par le chercheur Cheong Seong-chang, de l'Institut sud-coréen Sejong. Si c'est avéré, on voit mal comment Séoul «pourrait répondre à une nouvelle arme aussi redoutable de la Corée du Nord», a-t-il analysé.\n\nPyongyang veut «mettre en garde l'ennemi contre une véritable crise nucléaire»\n\nPar ailleurs, l’agence KCNA a décrit les exercices conjoints entre les Etats-Unis et la Corée du Sud, baptisés «Freedom Shield», comme un exercice visant à «occuper» la Corée du Nord. L'exercice du drone d'attaque nucléaire sous-marin aurait ainsi été mené «dans le but de mettre en garde l'ennemi contre une véritable crise nucléaire», a rapporté l'agence.\n\nAprès une année record d'essais d'armes et de menaces nucléaires croissantes de Pyongyang en 2022, Séoul et Washington ont renforcé leur coopération en matière de défense et ont mené du 13 au 23 mars 2023 leurs exercices militaires conjoints les plus importants depuis cinq ans. La Corée du Nord considère tous les exercices de ce genre comme les répétitions d'une invasion de son territoire, et a averti à plusieurs reprises qu'elle y répondrait de manière «massive».\n\nKim Jong-un a également souligné que les capacités nucléaires du Nord se «renforçaient à un rythme plus rapide». En 2022, Pyongyang a qualifié d'«irréversible» son statut de puissance nucléaire. Le leader nord-coréen a récemment appelé à une augmentation exponentielle de sa production d'armes, y compris d'armes nucléaires tactiques.\n\nWashington a de son côté réaffirmé à plusieurs reprises son engagement «sans faille» à défendre la Corée du Sud en utilisant «toute la gamme de ses capacités militaires, y compris nucléaires».\n\nLa déclaration de la Corée du Nord intervient environ une semaine après que Pyongyang a procédé au tir d'essai de son missile le plus puissant, le Hwasong-17, son deuxième test de missile balistique intercontinental (ICBM) en 2023.\n\nInternational\n\nvia RT en français\n\nInvalid media:\nimage\nimage",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1559863030,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          },
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 53203
+          },
+          "silent": false,
+          "v": 1,
+          "lastseents": "2023-03-28T13:24:45.597931",
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 4.62503350842032e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 15,
+            "bot_inline_geo": false,
+            "bot_inline_placeholder": "Please input a command to continue...",
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "RSS to Telegram Bot",
+            "id": 1949336244,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 5,
+              "has_video": false,
+              "photo_id": 6.18618019734314e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgIeCmw5zu7UUUV0nG9Tw=="
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": {},
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "RSStT_Bot",
+            "verified": false,
+            "archivedon": 1680009885,
+            "attach_menu_enabled": false,
+            "bot_attach_menu": false,
+            "fake": false,
+            "premium": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

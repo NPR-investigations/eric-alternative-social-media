@@ -1,0 +1,3961 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [48],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [42],
+      "relation": ["eq"]
+    },
+    "max_score": [11.1745],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5202185657316825528",
+        "_score": 11.1745,
+        "_source": {
+          "archivedon": "1679053540",
+          "channelabout": "Join America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. \n\nhttps://foxnews.com \n\n—————————————————— \n\nUnofficial",
+          "channeltitle": "Fox News",
+          "channelusername": "FoxNewsTG",
+          "date": 1641837502,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 101,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 101,
+              "offset": 109,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 11,
+              "offset": 212,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 10,
+              "offset": 223,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 223,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 22968,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Emma Colton",
+              "description": "New York City Mayor Eric Adams defended naming his brother as deputy NYPD commissioner",
+              "display_url": "foxnews.com/us/eric-adams-defends-naming-brother-deputy-nypd-commissioner-white-supremacy",
+              "hash": 1782542925,
+              "id": 7.36282382114277e+18,
+              "photo": {
+                "access_hash": 3.83139439192573e+18,
+                "date": 1641819777,
+                "dc_id": 4,
+                "file_reference": "AGQUUuKHLOgh25+nXruXXRFZPAq0",
+                "has_stickers": false,
+                "id": 5.97293578406132e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARcoygtOCU9cZGelTo6KuNqtnPJFaWIuV/LppSr3mp/zzjH4VG8iFCoRBx1xzRYSfmUytFStjPHSiiw7kQalDUUVNx2HeZTS9FFVcVhC1FFFTco/",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i",
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 180,
+                    "size": 9099,
+                    "w": 320,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 450,
+                    "size": 37218,
+                    "w": 800,
+                    "sizes": {}
+                  },
+                  {
+                    "reformatted_key": "PhotoSizeProgressive",
+                    "type": "y",
+                    "h": 524,
+                    "w": 931,
+                    "sizes": [5823, 10167, 15643, 23323, 29047]
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "Fox News",
+              "title": "Eric Adams says naming brother deputy NYPD commissioner protects him from 'White supremacy'",
+              "type": "photo",
+              "url": "https://www.foxnews.com/us/eric-adams-defends-naming-brother-deputy-nypd-commissioner-white-supremacy"
+            }
+          },
+          "message": "Eric Adams says naming brother deputy NYPD commissioner protects him from &apos;White supremacy&apos;\n\nREAD: https://www.foxnews.com/us/eric-adams-defends-naming-brother-deputy-nypd-commissioner-white-supremacy\n\nSubscribe: @FoxNewsTG",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1211228235,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 229,
+          "lastseents": "2023-03-17T11:45:40.005500",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5088217634965559926",
+        "_score": 10.8081,
+        "_source": {
+          "archivedon": "2022-01-10 23:35:41.420746",
+          "channelabout": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our communities.\n\niww.org",
+          "channeltitle": "IWW",
+          "channelusername": "wobbliechannel",
+          "date": 1641854692,
+          "editdate": 1641854695,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 40,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 22,
+              "offset": 63,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 24352,
+            "date": 1641842442,
+            "from_id": {
+              "channel_id": 1284266233,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Adam's is knocking it out the park\nhttps://redd.it/s0mead\n@r_latestagecapitalism",
+          "peerid": {
+            "channel_id": 1184692987,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1338436586,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 27205
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 49,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5515881470092140320",
+        "_score": 10.8081,
+        "_source": {
+          "archivedon": "2022-01-10 19:30:57.961148",
+          "channelabout": "The best of the worst of capitalism and its bootlickers.\n\n/r/latestagecapitalism now on Telegram. Thank you @r_channels!",
+          "channeltitle": "/r/latestagecapitalism",
+          "channelusername": "r_latestagecapitalism",
+          "date": 1641842442,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 22,
+              "offset": 40,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 22,
+              "offset": 63,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Eric Adam's is knocking it out the park\nhttps://redd.it/s0mead\n@r_latestagecapitalism",
+          "peerid": {
+            "channel_id": 1284266233,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 35,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5664207495644589044",
+        "_score": 9.8064,
+        "_source": {
+          "archivedon": "2022-08-05 10:09:17.123707",
+          "channelabout": "News, analysis, and opinion from Canada, US and the world. Among North America’s Most-Read News Publishers \nThePostMillennial.com",
+          "channeltitle": "The Post Millennial",
+          "channelusername": "ThePostMillennial",
+          "date": 1641830939,
+          "editdate": 1641861127,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://cms.thepostmillennial.com/content/images/2022/01/adams-aoc.jpg"
+            },
+            {
+              "length": 95,
+              "offset": 1,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 37,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 5,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "​New York Mayor Eric Adams blasts AOC for being 'word police' over 'low skilled worker' comments\n\nhttps://postmillennialnews.com/hd2npY",
+          "peerid": {
+            "channel_id": 1318801077,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 4662,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259805076",
+        "_score": 9.8064,
+        "_source": {
+          "archivedon": "2022-01-10 18:07:30.298715",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1641837845,
+          "editdate": 1641837847,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/i/broadcasts/1ynJOZrgZjXGR"
+            },
+            {
+              "length": 17,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1480594206636732421"
+            },
+            {
+              "length": 46,
+              "offset": 98,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": " Reuters (Twitter)\n\nLIVE: New York City Mayor Eric Adams speaksafter deadly Bronx firedeadly fire https://twitter.com/i/broadcasts/1ynJOZrgZjXGR",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 372460
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259804802",
+        "_score": 9.8064,
+        "_source": {
+          "archivedon": "2022-01-10 01:32:09.519091",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1641774796,
+          "editdate": 1641774799,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1480336586969694214"
+            },
+            {
+              "length": 23,
+              "offset": 99,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Reuters (Twitter)\n\nNew York City Mayor Eric Adams called an apartment fire in the Bronx 'horrific' https://reut.rs/3qYLKKx",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 372005
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 42,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5829315607689955571",
+        "_score": 9.5225,
+        "_source": {
+          "archivedon": "2022-01-10 10:33:55.258664",
+          "channeltitle": "Nationalist Homestead",
+          "channelusername": "nationalist_homestead",
+          "date": 1641805955,
+          "editdate": 1641805958,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 68,
+            "date": 1641805847,
+            "from_id": {
+              "channel_id": 1625319395,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Between the Lines of Drift: Memoirs of a Militant the true story of Eric Rudolph\n\nCh 13 part 2 and Chapter 14\n\nEric describes the three “right” wing factions and their deficits and then tells a harrowing story of his heist to gather necessary food, filled with several nerve wracking close calls and divine intervention.",
+          "peerid": {
+            "channel_id": 1357243305,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1295453355,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 41487
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 76,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595194175",
+        "_score": 9.4038,
+        "_source": {
+          "archivedon": "2022-01-10 01:15:56.381118",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641776779,
+          "edithide": false,
+          "entities": [],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1654974753
+          },
+          "fwdfrom": {
+            "channel_post": 11350,
+            "date": 1641776721,
+            "from_id": {
+              "channel_id": 1542824858,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I’ll do a VC at 8:45-9 CST. Eric Rice has a brief one at 8 CST. Wanna touch on yesterdays chat as well as let folks know a certain account is going to start doing voice chats once a week. Bout time. Just spoke with Eric on the phone. We never want to overlap.",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 1469303
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 2687,
+          "userinfo": {
+            "_id": 1654974753,
+            "_v": 1,
+            "access_hash": -7.04327653690311e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Susan Wood",
+            "id": 1654974753,
+            "is_self": false,
+            "last_name": "Brownyard",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 240325,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500874
+              },
+              "photo_id": 5.1549139162734e+18,
+              "photo_small": {
+                "local_id": 240323,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038500874
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "SWood1007",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7242217620232024323",
+        "_score": 9.0976,
+        "_source": {
+          "archivedon": "2022-03-05 19:39:06.714912",
+          "channeltitle": "Chief Nerd Chat",
+          "channelusername": "chiefnerdchat",
+          "date": 1641831937,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 150,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 132,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1601053024
+          },
+          "fwdfrom": {
+            "channel_post": 1584,
+            "date": 1641831934,
+            "from_id": {
+              "channel_id": 1601053024,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 1584,
+            "saved_from_peer": {
+              "channel_id": 1601053024,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Missouri AG Eric Schmitt joined Maria Bartiromo this morning to discuss the SCOTUS vaccine mandate case \n\nHe believes we could have a decision today\n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1686210190,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 84572,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 22,
+            "replies_pts": 313545
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 35602,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6876470377241904688",
+        "_score": 9.0976,
+        "_source": {
+          "archivedon": "2022-03-05 19:32:14.985089",
+          "channelabout": "Pro-Freedom Citizen Journalist \nTelegram: https://t.me/chiefnerd\nRumble: https://rumble.com/c/ChiefNerd\nGETTR: https://www.gettr.com/user/chiefnerd \nTruth Social: https://truthsocial.com/@chiefnerd",
+          "channeltitle": "Chief Nerd",
+          "channelusername": "chiefnerd",
+          "date": 1641831934,
+          "editdate": 1644152980,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 150,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 132,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Missouri AG Eric Schmitt joined Maria Bartiromo this morning to discuss the SCOTUS vaccine mandate case \n\nHe believes we could have a decision today\n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1601053024,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1686210190,
+            "comments": true,
+            "max_id": 84572,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1713850727
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1607417311
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1500302643
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 22,
+            "replies_pts": 313495
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 35602,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7424411756425906318",
+        "_score": 9.0976,
+        "_source": {
+          "archivedon": "2022-02-14 01:41:04.604109",
+          "channeltitle": "Official Memphis \"West Tennessee\" Proud Boys",
+          "channelusername": "OfficialWestTennesseProudBoys",
+          "date": 1641829760,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 109,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 56,
+              "offset": 109,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 28,
+              "offset": 137,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 137,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 17956,
+            "date": 1641829092,
+            "from_id": {
+              "channel_id": 1151831301,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇺🇸 Democrat New York City Mayor Eric Adams Says He’s Ready to Mandate Covid Vaccines for Schoolchildren. \n\n“We’re Going to Do That.”\n\n\nhttps://t.me/JustDudeChannel",
+          "peerid": {
+            "channel_id": 1728630568,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 70,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5536017346222633644",
+        "_score": 8.9904,
+        "_source": {
+          "archivedon": "1680681505",
+          "channelabout": "Real reporting, fast & accurate news source for all things that the mainstream media & big tech don't want you to see.\n\nNOTE:\nWE DO NOT ADVOCATE VIOLENCE. ANY MEMBERS THAT VIOLATE THIS CHANNEL’S POLICY WILL BE PERMANENTLY BANNED PERIOD",
+          "channeltitle": "W͟o͟r͟l͟d͟ W͟i͟r͟e͟ N͟e͟w͟s͟ 🚨 🌎",
+          "channelusername": "worldwire",
+          "date": 1641836896,
+          "editdate": 1641836899,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 18,
+              "offset": 131,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 13,
+              "offset": 149,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 13,
+              "offset": 149,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 370,
+            "date": 1641761682,
+            "from_id": {
+              "channel_id": 1204230883,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 12972,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Democrat New York City Mayor Eric Adams says he’s ready to mandate COVID vaccines for schoolchildren. \n\n“We’re going to do that.”\n\nJoin us here in ➣ @TruthSocialQ",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1288954482,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Justice Team",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1492368939,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 5134523
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 774,
+          "lastseents": "2023-04-05T07:58:25.049315",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "aee8ef80b21471e65ded695609e8dcd6b83c68dd"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5278666174316508919",
+        "_score": 8.6852,
+        "_source": {
+          "archivedon": "2022-01-10 17:42:32.394636",
+          "channelabout": "Aktuelles und Hintergrundinformationen für die neue Zeit",
+          "channeltitle": "Hammer News",
+          "channelusername": "Qhammernews",
+          "date": 1641832617,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 10,
+              "offset": 178,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Missouri AG Eric Schmitt war bei Maria Bartiromo heute Morgen um den SCOTUS-Impfstoff Mandat Fall zu diskutieren.\n\nEr glaubt, dass wir heute eine Entscheidung treffen könnten❗️\n\n@ChiefNerd",
+          "peerid": {
+            "channel_id": 1229035243,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 416,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4933043073606223595",
+        "_score": 7.7411,
+        "_source": {
+          "archivedon": "2022-01-10 15:45:30.051584",
+          "channelabout": "Trump Patriot News, America First, MAGA, Culture War, Liberty Network\n\nJoin @GenWarzChat   \n\n\nhttps://linktr.ee/PatriotMap",
+          "channeltitle": "General Warz Channel",
+          "channelusername": "GenWarz",
+          "date": 1641824651,
+          "editdate": 1641824655,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 131,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 12,
+              "offset": 143,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 10,
+              "offset": 158,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 106,
+              "offset": 175,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "More than 800,000 noncitizens can vote in local elections after NYC Mayor Eric Adams allowed legislation to take effect on Sunday\n\n@GenWarz 🦅\n@GenWarzChat🛡\n@WeTheNews 🇺🇸\n\nhttps://www.axios.com/new-york-city-mayor-noncitizen-voting-bill-427e8768-ce8d-4238-becd-75d05d384cff.html",
+          "peerid": {
+            "channel_id": 1148563594,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1475298028,
+            "comments": true,
+            "max_id": 251068,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1859890064
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1313835270
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1534454576
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 12,
+            "replies_pts": 483956
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1692,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5592478299101081179",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-10 19:32:21.606859",
+          "channelabout": "Welcome to East Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@midwest_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "East Coast News & Discussion",
+          "channelusername": "eastcoast_intel",
+          "date": 1641840885,
+          "editdate": 1641840889,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 280,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 61059,
+            "date": 1641833102,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Attorney General Eric Schmitt: \"We're going to push back against these petty tyrants at every turn.\"\n\nSchmitt on the SCOTUS hearing oral arguments over Biden's vaccine mandate, arguing there's \"no constitutional authority\" for OSHA to force medical procedures on Americans.\n\nJoin @police_frequency",
+          "peerid": {
+            "channel_id": 1302100322,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1252147944,
+            "comments": true,
+            "max_id": 21645,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1926801217
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 37971
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 38,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6412661471741756902",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-10 20:08:27.696524",
+          "channelabout": "Welcome to West Coast Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@rockymountain_intel\n@midwest_intel\n@eastcoast_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "West Coast News & Discussion",
+          "channelusername": "westcoastintel",
+          "date": 1641840885,
+          "editdate": 1641840888,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 280,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 6,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 61059,
+            "date": 1641833102,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Attorney General Eric Schmitt: \"We're going to push back against these petty tyrants at every turn.\"\n\nSchmitt on the SCOTUS hearing oral arguments over Biden's vaccine mandate, arguing there's \"no constitutional authority\" for OSHA to force medical procedures on Americans.\n\nJoin @police_frequency",
+          "peerid": {
+            "channel_id": 1493064098,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1425371904,
+            "comments": true,
+            "max_id": 126963,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1489429168
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1898770460
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 2,
+            "replies_pts": 203848
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 339,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6360458837203366029",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-10 20:04:48.562327",
+          "channelabout": "Welcome to Mid-West Regional - Intel drops for the people\n\nOSINT Partner Channels\n@wokeintelchat \n@ActionableTruth\n\nRegional\n@westcoastintel \n@rockymountain_intel\n@eastcoast_intel\n@southern_intel\n\nSoul  \n@psychicnetwork\nSupport chat avail by request",
+          "channeltitle": "Mid West News & Discussion",
+          "channelusername": "midwest_intel",
+          "date": 1641840885,
+          "editdate": 1641840889,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 280,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 61059,
+            "date": 1641833102,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Attorney General Eric Schmitt: \"We're going to push back against these petty tyrants at every turn.\"\n\nSchmitt on the SCOTUS hearing oral arguments over Biden's vaccine mandate, arguing there's \"no constitutional authority\" for OSHA to force medical procedures on Americans.\n\nJoin @police_frequency",
+          "peerid": {
+            "channel_id": 1480909725,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1160472707,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 50430
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 28,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6117742860847567923",
+        "_score": 7.5938,
+        "_source": {
+          "archivedon": "2022-01-10 19:54:04.375273",
+          "channelabout": "This is a Dedicated-Curated Archive of Savage_Marxist_Election_Fraud_Criminality\n\nPresented to both the audience, and Archived for the Public, Legal and Historic Record.\n\nDrop voter fraud info in the linked groupchat channel https://t.me/usvoterfraudchat",
+          "channeltitle": "US Voter Fraud & Coup-Ops Intel 2020 & 2021",
+          "channelusername": "usvoterfraud",
+          "date": 1641840885,
+          "editdate": 1641840888,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 280,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 61059,
+            "date": 1641833102,
+            "from_id": {
+              "channel_id": 1136479756,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Attorney General Eric Schmitt: \"We're going to push back against these petty tyrants at every turn.\"\n\nSchmitt on the SCOTUS hearing oral arguments over Biden's vaccine mandate, arguing there's \"no constitutional authority\" for OSHA to force medical procedures on Americans.\n\nJoin @police_frequency",
+          "peerid": {
+            "channel_id": 1424398008,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1304909613,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 162047
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 84,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5782522656259805087",
+        "_score": 7.1882,
+        "_source": {
+          "archivedon": "2022-01-10 19:39:51.883349",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1641840423,
+          "editdate": 1641840424,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 1,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://apne.ws/5yaCIG9"
+            },
+            {
+              "length": 30,
+              "offset": 1,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/AP/status/1480601870884388865"
+            },
+            {
+              "length": 22,
+              "offset": 284,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": " The Associated Press (Twitter)\n\nInvestigators are looking into whether a self-closing door malfunctioned, allowing thick smoke to spread through a Bronx high-rise. New York City Mayor Eric Adams revised the death toll from Sunday's blaze down by two to 17, including eight children. http://apne.ws/5yaCIG9",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 372508
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 24,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5901900559287371769",
+        "_score": 6.8296,
+        "_source": {
+          "archivedon": "2022-01-10 11:06:52.446997",
+          "channelabout": "A group for those interested in preserving or liberties here in Illinois!  This group is open to all.  However, I will not you without asking if you pull any crap in this group!  No ads, no trolls, no Antifa, no Nazis (but I repeat myself).",
+          "channeltitle": "Free Illinois",
+          "channelusername": "freeillinois",
+          "date": 1641811231,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I got the vaccine card with QR code for all my family without getting vaccinated. Message me if interested. \nWe must win the Fight 💪\n\nI really appreciate the help I got from Miss Evelyn to reach Doctor Eric Anthon. I'm so happy I got the cards with no need for the death jab.🙏",
+          "peerid": {
+            "channel_id": 1374143306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 67035
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5901900559287371766",
+        "_score": 6.8296,
+        "_source": {
+          "archivedon": "2022-01-10 11:06:52.442851",
+          "channelabout": "A group for those interested in preserving or liberties here in Illinois!  This group is open to all.  However, I will not you without asking if you pull any crap in this group!  No ads, no trolls, no Antifa, no Nazis (but I repeat myself).",
+          "channeltitle": "Free Illinois",
+          "channelusername": "freeillinois",
+          "date": 1641808792,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I got the vaccine card with QR code for all my family without getting vaccinated. Message me if interested. \nWe must win the Fight 💪\n\nI really appreciate the help I got from Miss Evelyn to reach Doctor Eric Anthon. I'm so happy I got the cards with no need for the death jab.🙏",
+          "peerid": {
+            "channel_id": 1374143306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 67035
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6301917470886219537",
+        "_score": 6.8296,
+        "_source": {
+          "archivedon": "2022-01-10 10:01:44.071251",
+          "channelabout": "Rally address is coming soon❣️\nAdmin support wanted❣️\n\nWORLD WIDE RALLY\nFOR FREEDOM 3.0\nJULY 24TH, 2021\n\n🇺🇸 USA\nhttps://t.me/WorldWideUSA\n\n🌎 WWD\nhttps://t.me/WorldWideDemonstration",
+          "channeltitle": "Worldwide Maryland 🇺🇸 7.24 Rally for Freedom 3.0",
+          "channelusername": "WorldWideMaryland",
+          "date": 1641808097,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I got the vaccine card with QR code for all my family without getting vaccinated. Message me if interested. \nWe must win the Fight 💪\n\nI really appreciate the help I got from Miss Evelyn to reach Doctor Eric Anthon. I'm so happy I got the cards with no need for the death jab.🙏",
+          "peerid": {
+            "channel_id": 1467279501,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 34255
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6404261516438147715",
+        "_score": 6.8296,
+        "_source": {
+          "archivedon": "2022-01-10 10:01:44.069721",
+          "channeltitle": "Patriot Party Maryland",
+          "channelusername": "PatriotPartyMaryland",
+          "date": 1641808073,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1926801217
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "I got the vaccine card with QR code for all my family without getting vaccinated. Message me if interested. \nWe must win the Fight 💪\n\nI really appreciate the help I got from Miss Evelyn to reach Doctor Eric Anthon. I'm so happy I got the cards with no need for the death jab.🙏",
+          "peerid": {
+            "channel_id": 1491108331,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 7639
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1926801217,
+            "_v": 1,
+            "access_hash": -8.35802072604055e+18,
+            "apply_min_photo": true,
+            "bot": true,
+            "bot_chat_history": false,
+            "bot_info_version": 1,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Unsupported User",
+            "id": 1926801217,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {},
+            "support": false,
+            "username": "UnsupportedUser64Bot",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5795944742592186696",
+        "_score": 6.3162,
+        "_source": {
+          "archivedon": "1678991270",
+          "channelabout": "သတင်းမှန်များထုတ်ပြန်ကြေငြာသွားရန်",
+          "channeltitle": "နိုင်ငံတော်စီမံအုပ်ချူပ်ရေးကောင်စီ သတင်းမှန်ပြန်ကြားရေး",
+          "channelusername": "nasakaa",
+          "date": 1641788069,
+          "editdate": 1642392924,
+          "edithide": true,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 2376,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "အမေရိကန်နိုင်ငံ နယူးယောက်မြိုမှာ မီးလောင်မှုအကြီးအကျယ်ဖြစ်ပွားပြီး လူ ၁၉ ဦး ထက်မနည်း သေဆုံး\n\nနယူးယောက် ၊ ဇန်နဝါရီ ၁၀ \n\nအမေရိကန်နိုင်ငံ နယူးယောက်မြိုမှာ ဇန်နဝါရီ ၉ ရက်က မီးလောင်မှုတစ်ခု အကြီးအကျယ် ဖြစ်ပွားခဲ့ပြီး ကလေးငယ် ၉ ဦးအပါအဝင် လူပေါင်း ၁၉ ဦးထက်မနည်းသေဆုံးသွားကြောင်း နယူးယောက်မြိုတော်ဝန် Eric Adams က အတည်ပြုပြောကြားခဲ့တယ်လို ဆင်ဟွာသတင်းက ဖော်ပြပါတယ်။\n\nအဆိုပါမီးလောင်မှုဟာ ယူးယောက်မြိုတော် Bronx ရပ်ကွက် ၊ ၁၈၁ လမ်း ၊ အမှတ် ၃၃၃ တည်ရှိရာ အထပ်မြင့် လူနေအိမ်ခန်းတွဲမှာ ဖြစ်ပွားခဲ့တာဖြစ်တယ်လို သိရပါတယ်။\n\nမီးလောင်မှုကြောင့် အသက်အန္တရာယ်စိုးရိမ်ဖွယ်ရှိတဲ့ လူ ၃၂ ဦးကို ဆေးရုံသိုပိုဆောင်ပေးထားပြီး လူ ၉ ဦးမှာ ဆိုးဆိုးရွားရွား ဒဏ်ရာရရှိထားကာ အခြား ၂၂ ဦးရဲ့ ဒဏ်ရာအခြေအနေကတော့ အသက်အန္တရာယ်မစိုးရိမ်ရတော့ဘဲ ကယ်ဆယ်ရေးဝန်ထမ်းတစ်ဦးကိုလည်း ဆေးရုံပိုထားရတယ်လို မြိုတော်ဝန် Adams က ပြောပါတယ်။",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1349473545,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Mg Anon",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1650,
+          "lastseents": "2023-03-16T18:27:50.870634",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5216667943441547088",
+        "_score": 6.3162,
+        "_source": {
+          "archivedon": "2022-01-10 07:03:11.511544",
+          "channelabout": "Übersetzungen für Qlobal Change + vieles mehr. WWG1WGA \nhttp://t.me/Qanons_Channel_Memes\nhttp://t.me/QAnons_InstaFEED\n\nKontakt : @QAnon_Kontakt_bot",
+          "channeltitle": "QAnons Channel 🇩🇪",
+          "channelusername": "QAnons_Channel_Germany",
+          "date": 1641796524,
+          "editdate": 1641796527,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 64,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 40,
+              "offset": 382,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 10,
+              "offset": 439,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 9956,
+            "date": 1641796449,
+            "from_id": {
+              "channel_id": 1099360385,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31343721975119e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "19 Tote bei schwerem Wohnhausbrand in New York – Bürgermeister\n\nBei einem Feuer in einem Wohnhaus in dem New Yorker Stadtviertel Bronx sind nach Angaben des Bürgermeisters Eric Adams 19 Menschen getötet worden. Mindestens 63 Bewohner seien verletzt worden, davon erlitten mindestens 32 schwere Verletzungen, sagte Adams am Sonntag.\n\nUnter den Todesopfern sind demnach auch Kinder.\n\nhttps://snanews.de/20220109/4946865.html\n\nVideo: Twitter/@StollNews\nFotos: Twitter/@FDNY",
+          "peerid": {
+            "channel_id": 1214600155,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 112,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "7553402930133471800",
+        "_score": 6.1353,
+        "_source": {
+          "archivedon": "2022-07-23 21:04:03.464144",
+          "channeltitle": "View of Sue",
+          "channelusername": "viewofsue",
+          "date": 1641788250,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 791,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1446106300
+          },
+          "fwdfrom": {
+            "channel_post": 11901,
+            "date": 1641787979,
+            "from_id": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 7339,
+            "saved_from_peer": {
+              "channel_id": 1446106300,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "groupedid": 6.45279788387414e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "အမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ မီးလောင်မှုအကြီးအကျယ်ဖြစ်ပွားပြီး လူ ၁၉ ဦး ထက်မနည်း သေဆုံး\n\nနယူးယောက် ၊ ဇန်နဝါရီ ၁၀ \n\nအမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ ဇန်နဝါရီ ၉ ရက်က မီးလောင်မှုတစ်ခု အကြီးအကျယ် ဖြစ်ပွားခဲ့ပြီး ကလေးငယ် ၉ ဦးအပါအဝင် လူပေါင်း ၁၉ ဦးထက်မနည်းသေဆုံးသွားကြောင်း နယူးယောက်မြို့တော်ဝန် Eric Adams က အတည်ပြုပြောကြားခဲ့တယ်လို့ ဆင်ဟွာသတင်းက ဖော်ပြပါတယ်။\n\nအဆိုပါမီးလောင်မှုဟာ ယူးယောက်မြို့တော် Bronx ရပ်ကွက် ၊ ၁၈၁ လမ်း ၊ အမှတ် ၃၃၃ တည်ရှိရာ အထပ်မြင့် လူနေအိမ်ခန်းတွဲမှာ ဖြစ်ပွားခဲ့တာဖြစ်တယ်လို့ သိရပါတယ်။\n\nမီးလောင်မှုကြောင့် အသက်အန္တရာယ်စိုးရိမ်ဖွယ်ရှိတဲ့ လူ ၃၂ ဦးကို ဆေးရုံသို့ပို့ဆောင်ပေးထားပြီး လူ ၉ ဦးမှာ ဆိုးဆိုးရွားရွား ဒဏ်ရာရရှိထားကာ အခြား ၂၂ ဦးရဲ့ ဒဏ်ရာအခြေအနေကတော့ အသက်အန္တရာယ်မစိုးရိမ်ရတော့ဘဲ ကယ်ဆယ်ရေးဝန်ထမ်းတစ်ဦးကိုလည်း ဆေးရုံပို့ထားရတယ်လို့ မြို့တော်ဝန် Adams က ပြောပါတယ်။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1758663666,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 53039
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3749,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "c38070db246b39be90814da707778b5fb062451d"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6210979265039572139",
+        "_score": 6.1353,
+        "_source": {
+          "archivedon": "2022-06-29 02:12:03.625303",
+          "channelabout": "သတင်းအမှန်နှင့် သဘောတရားရေးများ တင်ပြပါမယ်",
+          "channeltitle": "View of Sue",
+          "channelusername": "suemedia",
+          "date": 1641788247,
+          "editdate": 1641788250,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 791,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 11901,
+            "date": 1641787979,
+            "from_id": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31343059812483e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "အမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ မီးလောင်မှုအကြီးအကျယ်ဖြစ်ပွားပြီး လူ ၁၉ ဦး ထက်မနည်း သေဆုံး\n\nနယူးယောက် ၊ ဇန်နဝါရီ ၁၀ \n\nအမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ ဇန်နဝါရီ ၉ ရက်က မီးလောင်မှုတစ်ခု အကြီးအကျယ် ဖြစ်ပွားခဲ့ပြီး ကလေးငယ် ၉ ဦးအပါအဝင် လူပေါင်း ၁၉ ဦးထက်မနည်းသေဆုံးသွားကြောင်း နယူးယောက်မြို့တော်ဝန် Eric Adams က အတည်ပြုပြောကြားခဲ့တယ်လို့ ဆင်ဟွာသတင်းက ဖော်ပြပါတယ်။\n\nအဆိုပါမီးလောင်မှုဟာ ယူးယောက်မြို့တော် Bronx ရပ်ကွက် ၊ ၁၈၁ လမ်း ၊ အမှတ် ၃၃၃ တည်ရှိရာ အထပ်မြင့် လူနေအိမ်ခန်းတွဲမှာ ဖြစ်ပွားခဲ့တာဖြစ်တယ်လို့ သိရပါတယ်။\n\nမီးလောင်မှုကြောင့် အသက်အန္တရာယ်စိုးရိမ်ဖွယ်ရှိတဲ့ လူ ၃၂ ဦးကို ဆေးရုံသို့ပို့ဆောင်ပေးထားပြီး လူ ၉ ဦးမှာ ဆိုးဆိုးရွားရွား ဒဏ်ရာရရှိထားကာ အခြား ၂၂ ဦးရဲ့ ဒဏ်ရာအခြေအနေကတော့ အသက်အန္တရာယ်မစိုးရိမ်ရတော့ဘဲ ကယ်ဆယ်ရေးဝန်ထမ်းတစ်ဦးကိုလည်း ဆေးရုံပို့ထားရတယ်လို့ မြို့တော်ဝန် Adams က ပြောပါတယ်။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1446106300,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1758663666,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 47951
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 677,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "c38070db246b39be90814da707778b5fb062451d"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6797042065273269885",
+        "_score": 6.1353,
+        "_source": {
+          "archivedon": "2022-06-30 17:29:15.683413",
+          "channelabout": "This is the News Channel",
+          "channeltitle": "Myanmar Hard Talk",
+          "channelusername": "myanmarhardtalk",
+          "date": 1641787979,
+          "editdate": 1641793267,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 791,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "groupedid": 1.31343038392145e+16,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "အမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ မီးလောင်မှုအကြီးအကျယ်ဖြစ်ပွားပြီး လူ ၁၉ ဦး ထက်မနည်း သေဆုံး\n\nနယူးယောက် ၊ ဇန်နဝါရီ ၁၀ \n\nအမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ ဇန်နဝါရီ ၉ ရက်က မီးလောင်မှုတစ်ခု အကြီးအကျယ် ဖြစ်ပွားခဲ့ပြီး ကလေးငယ် ၉ ဦးအပါအဝင် လူပေါင်း ၁၉ ဦးထက်မနည်းသေဆုံးသွားကြောင်း နယူးယောက်မြို့တော်ဝန် Eric Adams က အတည်ပြုပြောကြားခဲ့တယ်လို့ ဆင်ဟွာသတင်းက ဖော်ပြပါတယ်။\n\nအဆိုပါမီးလောင်မှုဟာ ယူးယောက်မြို့တော် Bronx ရပ်ကွက် ၊ ၁၈၁ လမ်း ၊ အမှတ် ၃၃၃ တည်ရှိရာ အထပ်မြင့် လူနေအိမ်ခန်းတွဲမှာ ဖြစ်ပွားခဲ့တာဖြစ်တယ်လို့ သိရပါတယ်။\n\nမီးလောင်မှုကြောင့် အသက်အန္တရာယ်စိုးရိမ်ဖွယ်ရှိတဲ့ လူ ၃၂ ဦးကို ဆေးရုံသို့ပို့ဆောင်ပေးထားပြီး လူ ၉ ဦးမှာ ဆိုးဆိုးရွားရွား ဒဏ်ရာရရှိထားကာ အခြား ၂၂ ဦးရဲ့ ဒဏ်ရာအခြေအနေကတော့ အသက်အန္တရာယ်မစိုးရိမ်ရတော့ဘဲ ကယ်ဆယ်ရေးဝန်ထမ်းတစ်ဦးကိုလည်း ဆေးရုံပို့ထားရတယ်လို့ မြို့တော်ဝန် Adams က ပြောပါတယ်။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1582559679,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1557961529,
+            "comments": true,
+            "max_id": 28906,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1915308382
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1920243683
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1690083543
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 87255
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3747,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "c38070db246b39be90814da707778b5fb062451d"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6691393815481184113",
+        "_score": 6.1353,
+        "_source": {
+          "archivedon": "2022-07-01 02:19:00.675188",
+          "channeltitle": "M.H.T News",
+          "date": 1641787982,
+          "editdate": 1641793267,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 791,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1582559679
+          },
+          "fwdfrom": {
+            "channel_post": 11901,
+            "date": 1641787979,
+            "from_id": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 11901,
+            "saved_from_peer": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "groupedid": -6.95834923865444e+18,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "အမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ မီးလောင်မှုအကြီးအကျယ်ဖြစ်ပွားပြီး လူ ၁၉ ဦး ထက်မနည်း သေဆုံး\n\nနယူးယောက် ၊ ဇန်နဝါရီ ၁၀ \n\nအမေရိကန်နိုင်ငံ နယူးယောက်မြို့မှာ ဇန်နဝါရီ ၉ ရက်က မီးလောင်မှုတစ်ခု အကြီးအကျယ် ဖြစ်ပွားခဲ့ပြီး ကလေးငယ် ၉ ဦးအပါအဝင် လူပေါင်း ၁၉ ဦးထက်မနည်းသေဆုံးသွားကြောင်း နယူးယောက်မြို့တော်ဝန် Eric Adams က အတည်ပြုပြောကြားခဲ့တယ်လို့ ဆင်ဟွာသတင်းက ဖော်ပြပါတယ်။\n\nအဆိုပါမီးလောင်မှုဟာ ယူးယောက်မြို့တော် Bronx ရပ်ကွက် ၊ ၁၈၁ လမ်း ၊ အမှတ် ၃၃၃ တည်ရှိရာ အထပ်မြင့် လူနေအိမ်ခန်းတွဲမှာ ဖြစ်ပွားခဲ့တာဖြစ်တယ်လို့ သိရပါတယ်။\n\nမီးလောင်မှုကြောင့် အသက်အန္တရာယ်စိုးရိမ်ဖွယ်ရှိတဲ့ လူ ၃၂ ဦးကို ဆေးရုံသို့ပို့ဆောင်ပေးထားပြီး လူ ၉ ဦးမှာ ဆိုးဆိုးရွားရွား ဒဏ်ရာရရှိထားကာ အခြား ၂၂ ဦးရဲ့ ဒဏ်ရာအခြေအနေကတော့ အသက်အန္တရာယ်မစိုးရိမ်ရတော့ဘဲ ကယ်ဆယ်ရေးဝန်ထမ်းတစ်ဦးကိုလည်း ဆေးရုံပို့ထားရတယ်လို့ မြို့တော်ဝန် Adams က ပြောပါတယ်။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1557961529,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 28906,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 87272
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3747,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "c38070db246b39be90814da707778b5fb062451d"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6272406054810697105",
+        "_score": 5.52,
+        "_source": {
+          "archivedon": "2022-01-10 03:21:39.373371",
+          "channeltitle": "Politically Incorrect News",
+          "channelusername": "bannedforlife",
+          "date": 1641783026,
+          "edithide": false,
+          "entities": [],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6290,
+            "date": 1641771162,
+            "from_id": {
+              "channel_id": 1478198916,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING! More than 800,000 noncitizens in NYC can now vote in local elections after Mayor Eric Adams allowed legislation to become law today. Adams initially expressed concern over the legislation, which the City Council approved a month ago, but the Democratic governor ultimately supported the measure and allowed his 30-day time limit to veto the bill to expire. If the implementation is not curtailed by a judge, New York City will become the first major city in the country to extend voting rights to noncitizens.",
+          "peerid": {
+            "channel_id": 1460408339,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 9,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595197431",
+        "_score": 5.52,
+        "_source": {
+          "archivedon": "2022-01-10 14:48:53.206705",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641823511,
+          "editdate": 1641824329,
+          "edithide": true,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1510384110
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Mary fanning first presented a blog talking about the foreign interference, etc. In an early interview after the election, she discussed how Flynn had first tried to hire Eric holders law firm b4 retaining sidney Powell. This was the firm holder joined after leaving his post under Obama. You will have to dig thru cyber space to find the web interview... I did not keep a copy, but that is when I knew in my gut Flynn was not on Trump and patriots side",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 1018497
+          },
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1510384110,
+            "_v": 1,
+            "access_hash": -6.25480365952112e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "R",
+            "id": 1510384110,
+            "is_self": false,
+            "last_name": "Alyce",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 106317,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100039000691
+              },
+              "photo_id": 5.05106206661762e+18,
+              "photo_small": {
+                "local_id": 106315,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100039000691
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "RemyVSOP",
+            "verified": false,
+            "_media_ref": "ab9610bb3c71b7cd11897719c74cec1666a1c00a"
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6797042065273269889",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-06-30 17:29:14.713512",
+          "channelabout": "This is the News Channel",
+          "channeltitle": "Myanmar Hard Talk",
+          "channelusername": "myanmarhardtalk",
+          "date": 1641787993,
+          "editdate": 1641827944,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 794,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(Zawgyi)\nအေမရိကန္နိုင္ငံ နယူးေယာက္ၿမိဳ႕မွာ မီးေလာင္မႈအႀကီးအက်ယ္ျဖစ္ပြားၿပီး လူ ၁၉ ဦး ထက္မနည္း ေသဆုံး\n\nနယူးေယာက္ ၊ ဇန္နဝါရီ ၁၀ \n\nအေမရိကန္နိုင္ငံ နယူးေယာက္ၿမိဳ႕မွာ ဇန္နဝါရီ ၉ ရက္က မီးေလာင္မႈတစ္ခု အႀကီးအက်ယ္ ျဖစ္ပြားခဲ့ၿပီး ကေလးငယ္ ၉ ဦးအပါအဝင္ လူေပါင္း ၁၉ ဦးထက္မနည္းေသဆုံးသြားေၾကာင္း နယူးေယာက္ၿမိဳ႕ေတာ္ဝန္ Eric Adams က အတည္ျပဳေျပာၾကားခဲ့တယ္လို႔ ဆင္ဟြာသတင္းက ေဖာ္ျပပါတယ္။\n\nအဆိုပါမီးေလာင္မႈဟာ ယူးေယာက္ၿမိဳ႕ေတာ္ Bronx ရပ္ကြက္ ၊ ၁၈၁ လမ္း ၊ အမွတ္ ၃၃၃ တည္ရွိရာ အထပ္ျမင့္ လူေနအိမ္ခန္းတြဲမွာ ျဖစ္ပြားခဲ့တာျဖစ္တယ္လို႔ သိရပါတယ္။\n\nမီးေလာင္မႈေၾကာင့္ အသက္အႏၱရာယ္စိုးရိမ္ဖြယ္ရွိတဲ့ လူ ၃၂ ဦးကို ေဆး႐ုံသို႔ပို႔ေဆာင္ေပးထားၿပီး လူ ၉ ဦးမွာ ဆိုးဆိုး႐ြား႐ြား ဒဏ္ရာရရွိထားကာ အျခား ၂၂ ဦးရဲ႕ ဒဏ္ရာအေျခအေနကေတာ့ အသက္အႏၱရာယ္မစိုးရိမ္ရေတာ့ဘဲ ကယ္ဆယ္ေရးဝန္ထမ္းတစ္ဦးကိုလည္း ေဆး႐ုံပို႔ထားရတယ္လို႔ ၿမိဳ႕ေတာ္ဝန္ Adams က ေျပာပါတယ္။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1582559679,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1557961529,
+            "comments": true,
+            "max_id": 28539,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1981122917
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 87255
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3004,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6691393815481184117",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-07-01 02:18:58.160421",
+          "channeltitle": "M.H.T News",
+          "date": 1641787996,
+          "editdate": 1641827944,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 794,
+              "reformatted_key": "MessageEntityHashtag"
+            }
+          ],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1582559679
+          },
+          "fwdfrom": {
+            "channel_post": 11905,
+            "date": 1641787993,
+            "from_id": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 11905,
+            "saved_from_peer": {
+              "channel_id": 1582559679,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "(Zawgyi)\nအေမရိကန္နိုင္ငံ နယူးေယာက္ၿမိဳ႕မွာ မီးေလာင္မႈအႀကီးအက်ယ္ျဖစ္ပြားၿပီး လူ ၁၉ ဦး ထက္မနည္း ေသဆုံး\n\nနယူးေယာက္ ၊ ဇန္နဝါရီ ၁၀ \n\nအေမရိကန္နိုင္ငံ နယူးေယာက္ၿမိဳ႕မွာ ဇန္နဝါရီ ၉ ရက္က မီးေလာင္မႈတစ္ခု အႀကီးအက်ယ္ ျဖစ္ပြားခဲ့ၿပီး ကေလးငယ္ ၉ ဦးအပါအဝင္ လူေပါင္း ၁၉ ဦးထက္မနည္းေသဆုံးသြားေၾကာင္း နယူးေယာက္ၿမိဳ႕ေတာ္ဝန္ Eric Adams က အတည္ျပဳေျပာၾကားခဲ့တယ္လို႔ ဆင္ဟြာသတင္းက ေဖာ္ျပပါတယ္။\n\nအဆိုပါမီးေလာင္မႈဟာ ယူးေယာက္ၿမိဳ႕ေတာ္ Bronx ရပ္ကြက္ ၊ ၁၈၁ လမ္း ၊ အမွတ္ ၃၃၃ တည္ရွိရာ အထပ္ျမင့္ လူေနအိမ္ခန္းတြဲမွာ ျဖစ္ပြားခဲ့တာျဖစ္တယ္လို႔ သိရပါတယ္။\n\nမီးေလာင္မႈေၾကာင့္ အသက္အႏၱရာယ္စိုးရိမ္ဖြယ္ရွိတဲ့ လူ ၃၂ ဦးကို ေဆး႐ုံသို႔ပို႔ေဆာင္ေပးထားၿပီး လူ ၉ ဦးမွာ ဆိုးဆိုး႐ြား႐ြား ဒဏ္ရာရရွိထားကာ အျခား ၂၂ ဦးရဲ႕ ဒဏ္ရာအေျခအေနကေတာ့ အသက္အႏၱရာယ္မစိုးရိမ္ရေတာ့ဘဲ ကယ္ဆယ္ေရးဝန္ထမ္းတစ္ဦးကိုလည္း ေဆး႐ုံပို႔ထားရတယ္လို႔ ၿမိဳ႕ေတာ္ဝန္ Adams က ေျပာပါတယ္။\n#mhtnews",
+          "peerid": {
+            "channel_id": 1557961529,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 28539,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 87272
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 3005,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6812484216459106654",
+        "_score": 5.3886,
+        "_source": {
+          "archivedon": "2022-02-14 01:40:05.774141",
+          "channelabout": "This is an aggregate news and opinion feed 4 Patriots by Patriots that seeks to be a premier source for current news information and relevant updates that relate to our organization. #poyb",
+          "channeltitle": "POYNews",
+          "channelusername": "POYNews",
+          "date": 1641782915,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 21,
+              "offset": 533,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 7,
+              "offset": 555,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 3,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1818,
+            "date": 1641758285,
+            "from_id": {
+              "channel_id": 1339034480,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "BREAKING! More than 800,000 noncitizens in NYC can now vote in local elections after Mayor Eric Adams allowed legislation to become law today. Adams initially expressed concern over the legislation, which the City Council approved a month ago, but the Democratic governor ultimately supported the measure and allowed his 30-day time limit to veto the bill to expire. If the implementation is not curtailed by a judge, New York City will become the first major city in the country to extend voting rights to noncitizens.\n\nLearn more: https://clc.to/SU3uqg\n@c444tv",
+          "peerid": {
+            "channel_id": 1586155085,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Elwood",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 148,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6137290442422654530",
+        "_score": 4.3998,
+        "_source": {
+          "archivedon": "1681406361",
+          "channelabout": "If you are open minded this Channel is for you💓. If I am wrong on information I do circle back😎 and correct it🙏.\n\n🇯🇵🇺🇲🇵🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦🇪🇦🇧🇻🇦🇱🇨🇰🇫🇮🇬🇪🇬🇧🇯🇲🇲🇰🇩🇪",
+          "channeltitle": "🍊We🎭Are🎭Anonymous🍊",
+          "channelusername": "Hyer971",
+          "date": 1641843217,
+          "editdate": 1641843221,
+          "edithide": true,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "date": 1641843138,
+            "from_id": {
+              "reformatted_key": "PeerUser",
+              "user_id": 1484680497
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 38466,
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "SO ROBLES IS Q= 150\n15= \n5 5 5 \n\n150= \n13 MAGDALENE BLOODLINE 13😇\nTHE HOLY BIBLE CODE\nMAGDALENE BLOODLINE 🙏\nRAY PROPHECY \nENGLISH AVIARY\nI RECIEVED A MESSAGE \nTHREE SIX NINE💥\nLIGHT CAME FIRST\nUNDERSTANDING \nERIC JON RED PILL\nHEAVENLY FATHER\nPHIL GODLEWSKI 😏\nTRUMP TRAIN 🚆 \nFEDERAL AGENT NAMES\nGRAND PROPHECY \nTRUTH SEEKER🙌\nI AM A PROPHECY \nMYK HYN BE QMAP🥰\nBRACE YOURSELF \nEND OF PROPHECY 😎\nSMILE ITS KARMA\nDAY OF JUDGEMENT \nHARRIET TUBMAN\nDUDE CALL TRUMP 📞 \nUS PRESIDENT 🇺🇸 \nANOTHER FALSE FLAG \nINAUGURATION 🇺🇲\nRUDY GIULIANI \nELECTROMAGNETIC \nBRINGER OF LIGHT ⚡\nTHE CHOSEN ONES\nHARRY SPENCER\nASCEND MASTERS\nFIGHT FIGHT FIGHT💥💥💥\nTOP NOTCH ANGEL 😇 \nGODS AMERICAN DREAM🇺🇲\nJESUS STRAND 🙌\nJESUS AND MARY 🥰\nJANUARY 2ND 🤔😂",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1428949284,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Tammy Potts",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 337,
+          "lastseents": "2023-04-13T17:19:21.351910",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          },
+          "mediaref": "0464d726e72b70e11b55089cfb581aa78b51989e"
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6202437180678232087",
+        "_score": 3.995,
+        "_source": {
+          "archivedon": "2022-01-10 17:12:39.560254",
+          "channelabout": "Canal partageant l'information et l'actualité internationale.\n\nDescription détaillé / Recrutement : https://t.me/NashiraNews/6887\n\nTwitter : https://twitter.com/NashiraNews\n\nNashira Sports : https://t.me/NashiraSports\n\nContact : contact@nashira-news.fr",
+          "channeltitle": "Nashira News",
+          "channelusername": "NashiraNews",
+          "date": 1641832428,
+          "editdate": 1641832602,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 90,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            }
+          ],
+          "forwards": 7,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇫🇷 🔴 Présidentielle 2022 - Sondage rolling IFOP-Fidicual / LCI : Hypothèse avec Taubira.\n\n🟡 Emmanuel Macron, 26%\n\n🟣 Marine Le Pen, 17%\n\n🔵 Valérie Pécresse, 16%\n\n🟤 Eric Zemmour, 12,5%\n\n🔴 Jean-Luc Mélenchon, 8,5%\n\n🟢 Yannick Jadot, 5,5%\n\n🌹 Anne Hidalgo, 3,5%\n\n🔘 Christiane Taubira, 3,5%\n\n▪️ Fabien Roussel, 2%\n\n▫️ Nicolas Dupont-Aignan, 2%\n\n🔹 Philippe Poutou, 1%\n\n- Jean Lassalle, 1%\n\n- Nathalie Arthaud, 0,5%\n\n- Arnaud Montebourg, 0,5%\n\n- Hélène Thouy, 0,5%\n\n📊 Un sondage \"rolling\" est une enquête en continu réalisée sur le principe d’un cumul glissant de vagues d’enquêtes quotidiennes : la vague d’enquête du jour est cumulée avec les vagues des deux jours précédents dans le cadre d’un échantillon agrégeant au total près de 1 500 personnes. L’enquête a été menée auprès d’un échantillon de 1.502 personnes, représentatif de la population résidant en France métropolitaine âgée de 18 ans et plus, selon la méthode des quotas. Les interviews ont été réalisées par questionnaire auto-administré en ligne du 6 au 10 janvier 2022.",
+          "peerid": {
+            "channel_id": 1444117441,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1421695055,
+            "comments": true,
+            "max_id": 280158,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 92903735
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 895967666
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1460366056
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 17,
+            "replies_pts": 408892
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 22550
+          },
+          "silent": true,
+          "v": 1,
+          "views": 687,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5767153021301557686",
+        "_score": 3.5846,
+        "_source": {
+          "archivedon": "1680907475",
+          "channelabout": "",
+          "channeltitle": "The Authority",
+          "channelusername": "AlexanderQPatriot",
+          "date": 1641844749,
+          "editdate": 1641844753,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 70,
+              "offset": 0,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 70,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://w-j.co/s/9f465"
+            },
+            {
+              "length": 13,
+              "offset": 338,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://nypost.com/2022/01/08/mayor-eric-adams-supports-bill-allowing-non-citizens-to-vote-in-nyc/?utm_source=NYPTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow"
+            },
+            {
+              "length": 18,
+              "offset": 505,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.nytimes.com/2021/12/09/nyregion/noncitizens-voting-rights-nyc.html"
+            },
+            {
+              "length": 13,
+              "offset": 559,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://www.westernjournal.com/gop-finally-moves-brutally-punish-cities-states-allow-noncitizens-vote/?ff_source=telegram&ff_medium=westernjournalism&ff_campaign=telegramfeed&ff_content=2022-01-09"
+            },
+            {
+              "length": 7,
+              "offset": 728,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/nmalliotakis/status/1479982625746042880?s=12"
+            },
+            {
+              "length": 23,
+              "offset": 838,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 25,
+              "offset": 1080,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 4,
+              "offset": 1107,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 15,
+              "offset": 1115,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://w-j.co/s/9f465"
+            },
+            {
+              "length": 7,
+              "offset": 1131,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 19,
+              "offset": 1143,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://t.me/LibertyOverwatchChannel/6192"
+            },
+            {
+              "length": 24,
+              "offset": 1164,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6287,
+            "date": 1641843367,
+            "from_id": {
+              "channel_id": 1443355249,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Patriot",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {},
+            "imported": false
+          },
+          "id": 2486,
+          "media": {
+            "reformatted_key": "MessageMediaWebPage",
+            "webpage": {
+              "attributes": [],
+              "author": "Jack Davis",
+              "description": "American citizenship no longer is a requirement to vote in NYC's local elections, and Americans who value the franchise are not happy.",
+              "display_url": "westernjournal.com/slap-face-eric-adams-approves-massive-rule-change-nyc-elections-swelling-dem-rolls",
+              "hash": 0,
+              "id": 8.35790703840558e+18,
+              "photo": {
+                "access_hash": 8.08362074009889e+18,
+                "date": 1641756429,
+                "dc_id": 4,
+                "file_reference": "AGQwm5EW1N48UpBQGpTXVZhbjoEP",
+                "has_stickers": false,
+                "id": 5.97116971498404e+18,
+                "reformatted_key": "Photo",
+                "sizes": [
+                  {
+                    "bytes": "ARUozIyQ3BxU9uf3+49RUUURLnnIHGR0NTbljPy/ezwKVtBlm5jUxJMOoOD7ior2GNIQyck+9Tv81lKX4C4GPfNUpZmkiEYAwPzpWY20VgOaKtQWbOu9/lj7k0VaJJPuWpx2JxVRf9Yp9xRRSA0biVms3z/E4z/n8Kz+lFFMC/HKzWig/wB7H9aKKKQH",
+                    "reformatted_key": "PhotoStrippedSize",
+                    "type": "i"
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "m",
+                    "h": 168,
+                    "size": 11742,
+                    "w": 320
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "x",
+                    "h": 420,
+                    "size": 48285,
+                    "w": 800
+                  },
+                  {
+                    "reformatted_key": "PhotoSize",
+                    "type": "y",
+                    "h": 630,
+                    "size": 66562,
+                    "w": 1200
+                  }
+                ],
+                "video_sizes": []
+              },
+              "reformatted_key": "WebPage",
+              "site_name": "The Western Journal",
+              "title": "'Slap in the Face': Eric Adams Approves Massive Rule Change to NYC Elections, Swelling Dem Rolls",
+              "type": "photo",
+              "url": "http://w-j.co/s/9f465"
+            }
+          },
+          "message": "NYC Mayor Signs Noncitizen Voting Bill Into Law, Swelling Dem Rolls | Western Journal\n\nAmerican citizenship is no longer required to vote in New York City’s local elections.\n\nMayor Eric Adams said Saturday he supports a plan to allow non-citizens to vote in Big Apple municipal contests, saying it was the “best choice,” according to the New York Post.\n\nThe bill was passed by the City Council last month and took effect Sunday because neither Adams nor former Mayor Bill DeBlasio vetoed it, according to The New York Times.\n\nAbout 800,000 people who are not U.S. citizens can now vote for New York City mayor, council races, and local ballot propositions.\n\nBrooklyn Congresswoman Nicole Malliotakis responded to Mayor Adams on Twitter:\n\n“Why don’t you tell people what the bill actually does: allows 800,000+ non citizens to vote in NYC after 30 days residency, a right reserved for citizens by the New York State Constitution… \n\nWe’ll see you in court.”\n\n👉 If you’re in the Western NY region and interested in fighting the unconstitutional mandates and liberal tyranny, visit:\n@westernnewyorkfightsback\n\nRead 🗞 Western Journal\nRelated🔦🧵 Biden’s Border Plan\n\n@LibertyOverwatchChannel\n—",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1342769950,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "The Authority ⭐️⭐️⭐️",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 1015,
+          "lastseents": "2023-04-07T22:44:35.742875",
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "4940387467682386727",
+        "_score": 3.5846,
+        "_source": {
+          "archivedon": "2022-01-10 06:45:28.167858",
+          "channelabout": "The most interesting news and happenings in the world!\nExcellent videos and rare footages!\nGroup for discussion @W_IN_FIRE_GROUP\nContact us @WORLD_IN_FIRE_BOT",
+          "channeltitle": "WORLD_IN_FIRE",
+          "channelusername": "W_IN_FIRE",
+          "date": 1641795431,
+          "editdate": 1641795434,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 117,
+              "offset": 1104,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "🇺🇸⚡️🗳 NEW YORK CITIZENS WILL GET THE RIGHT TO VOTE\nThe unprecedented decision so far only affects municipal elections\n\nNew York City Council decided that non-citizens who live in the city and pay taxes can vote in municipal elections last year. New Mayor Eric Adams is ready to sign the corresponding rescript. The innovation will affect 800 thousand residents of the Big Apple.\n\nMore than a dozen communities across the United States already allow non-citizens to vote in local elections, including in 11 Maryland cities and two in Vermont.\n\nNon-citizens will still not be able to vote for the president or members of Congress in federal races or in state elections that elect governors, judges, and legislators.\n\nThe electoral council should now begin developing an implementation plan by July, including voter registration rules and regulations that will allow for the creation of separate ballots for municipal races to prevent non-citizens from voting at the federal and state levels.\n\nCity law may still be challenged in court, but New York courts tend to support a radical left-liberal agenda.\nhttps://apnews.com/article/voting-rights-new-york-new-york-city-voting-united-states-64edb2ed4de261156f5e717b61101247",
+          "peerid": {
+            "channel_id": 1150273594,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1331762778,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 8614
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 3,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "6094192163595196176",
+        "_score": 3.0404,
+        "_source": {
+          "archivedon": "2022-01-10 05:44:43.570058",
+          "channelabout": "Official Telegram group for The Patriot Voice, a megaphone for Patriots and Truth-Seekers alike worldwide!",
+          "channeltitle": "The Patriot Voice 🇺🇸 (QAnon John)",
+          "channelusername": "QStorm1111",
+          "date": 1641789671,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 3959,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 23,
+              "offset": 3982,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 2033126381
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Arrests and executions of famous people 2021 updated:\nANDREW McCABE ARRESTED & SERVING LIFE\nBARACK OBAMA ARRESTED & EXECUTED\nMICHELLE OBAMA (BIG MIKE) ARRESTED & EXECUTED\nBILL GATES DECEASED\nMELINDA GATES DECEASED\nMIKE PENCE ARRESTED & EXECUTED\nANTHONY FAUCI ARRESTED & RELEASED FOR A TIME TO HELP TRUMP\nHUMA ABEDINE ARRESTED & EXECUTED\nJOHN BRENNAN ARRESTED & SERVING LIFE\nGEORGE H.W. BUSH ARRESTED & EXECUTED\nGEORGE W. BUSH ARRESTED & EXECUTED\nLAURA BUSH ARRESTED & EXECUTED\nJEB BUSH ARRESTED & EXECUTED\nDICK CHENEY ARRESTED & EXECUTED\nJAMES BAKER ARRESTED & EXECUTED\nJAMES CLAPPER ARRESTED & SERVING LIFE\nHILLARY CLINTON ARRESTED & EXECUTED\nBILL CLINTON ARRESTED & EXECUTED\nJAMES COMEY ARRESTED & SERVING LIFE\nDIANE FEINSTEIN EXILED TO CHINA\nERIC HOLDER ARRESTED & SERVING LIFE\nJOHN KERRY ARRESTED & SERVING LIFE\nLORETTA LYNCH ARRESTED & SERVING LIFE\nLISA PAGE ARRESTED & SERVING LIFE\nTONY PODESTA ARRESTED & EXECUTED\nJOHN PODESTA ARRESTED & AT GITMO\nSAMANTHA POWERS ARRESTED & SERVING LIFE\nHARRY REID ARRESTED & SERVING LIFE\nSUSAN RICE ARRESTED & SERVING LIFE\nDONALD RUMSFELD ARRESTED & EXECUTED\nADAM SCHIFF ARRESTED & EXECUTED\nERIC SCMIDT ARRESTED & AT GITMO\nDEBBIE WASSERMAN-SHULTZ ARRESTED & AT GITMO\nGEORGE SOROS ARRESTED & EXECUTED\nMAXINE WATTERS ARRESTED & AT GITMO\nSALLY YATES ARRESTED & AT GITMO\nNANCY PELOSI ARRESTED & AT GITMO\nCHUCK SCHUMER ARRESTED & AT GITMO\nRUTH BADER GINSBURG ARRESTED & EXECUTED\nPETER STRZOK ARRESTED & AT GITMO\nELIJA CUMMINGS ARRESTED & EXECUTED\nJACINDA ADERN ARRESTED & UNDER HOUSE ARREST\nTOM HANKS ARRESTED & EXECUTED\nRITA WILSON HANKS ARRESTED & EXECUTED\nMADONNA ARRESTED & EXECUTED\nLADY GAGA ARRESTED & EXECUTED\nOPRAH WINFREY ARRESTED & ON HOUSE ARREST\nELLEN DEGENEROUS ARRESTED & ON HOUSE ARREST\nSTEPHEN SPIELBERG ARRESTED & EXECUTED\nHARVEY WEINSTEIN ARRESTED & IN PRISON\nJEFFREY EPSTEIN ARRESTED & SERVING LIFE IN PRISON\nPOPE FRANCIS ARRESTED & EXECUTED\nALL CARDINALS AT VATICAN ARRESTED & EXECUTED\nQUEEN ELIZABETH ARRESTED & EXECUTED\nPHILLIP WINDSOR ARRESTED & EXECUTED\nCHARLES WINDSOR ARRESTED & EXECUTED\nJUSTIN TRUDEAU ARRESTED & ON HOUSE ARREST\nSCOTT MORRISON ARRESTED & ON HOUSE ARREST\nHARRY WINDSOR ARRESTED & EXECUTED\nMEGHAN MARKLE ARRESTED & EXECUTED\nMERYL STREEP ARRESTED & ON HOUSE ARREST\nROBERT DE NIRO ARRESTED & EXECUTED\nRICHARD GERE ARRESTED & ON HOUSE ARREST\nJOE BIDEN ARRESTED & EXECUTED\nHUNTER BIDEN ARRESTED & EXECUTED\nJOHN MCCAIN ARRESTED & EXECUTED\nROY HORN OF SIGFREID & ROY ARRESTED & EXECUTED\nTROY SNEED (SINGER) ARRESTED & EXECUTED\nFRED THE GODSON (RAPPER) EXECUTED\nJOEL ROGOSIN (WRITER) EXECUTED\nMATTHEW SELIGMAN (MUSICIAN) EXECUTED\nCHARLES GREGORY EXECUTED\nHILARY HEATH EXECUTED\nHAL WILNER (PRODUCER) EXECUTED\nJOHN PRINE (SINGER) ARRESTED & EXECUTED\nLEE FIERRO ARRESTED & EXECUTED\nADAM SCHLESINGER EXECUTED\nJOE DIFFIE EXECUTED\nMitt Romney ARRESTED & AT GITMO\nBritney Spears ARRESTED SERVING LIFE\nChristina Aguilera ARRESTED SERVING LIFE\nMiley Cyrus ARRESTED SERVING LIFE\nBette Midler ARRESTED SERVING LIFE\nRobert Downey Jr. ARRESTED & EXECUTED\nDwayne Johnson (the rock) EXECUTED\nGeorge Clooney EXECUTED\nAdam Sandler EXECUTED\nNicolas Cage EXECUTED\nKevin Spacey EXECUTED\nCharlie Sheen EXECUTED\nAshton Kutcher ARRESTED SERVING LIFE\nKyriakos Mitsotakis PM GREECE ARRESTED WAITING TRIBUNAL\nPanagiotis Pikrammenos DEPUTY PM ARRESTED WAITING TRIBUNAL\nCeline Dion ARRESTED & EXECUTED\nDon Lemon ARRESTED WAITING TRIBUNAL\nChris Quomo ARRESTED WAITING TRIBUNAL\nKamala Harris ARRESTED WAITING TRIBUNAL\nElizabeth Warren ARRESTED WAITING TRIBUNAL\nNydia Velázquez ARRESTED WAITING TRIBUNAL\nIlhan Omar ARRESTED WAITING TRIBUNAL\nAlexandria Ocasio-Cortez ARRESTED WAITING TRIBUNAL\nRashida Tlaib ARRESTED WAITING TRIBUNAL\nQuentin Tarantino ARRESTED & EXECUTED\nMichael Moore ARRESTED & EXECUTED\nJerry Nadler ARRESTED & AT GITMO\nBERNIE SANDERS ARRESTED & AT GITMO\nBORIS JOHNSON ARRESTED & EXECUTED\nJIMMY KIMMEL ARRESTED WAITING TRIBUNAL\nALEC BALDWIN ARRESTED & EXECUTED\n\nWHERE THEY GO ONE\nTHEY GO ALL\nTO GITMO\n\n@GitmoTV\n\nsupported by\n@tribunalsandexecutions",
+          "peerid": {
+            "channel_id": 1418914684,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 1021937,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 9,
+            "replies_pts": 1472279
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 2033126381,
+            "_v": 1,
+            "access_hash": 6.76327420753484e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "MinnesotaT",
+            "id": 2033126381,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "Tminnesota",
+            "verified": false
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5065588822377512382",
+        "_score": 2.7556,
+        "_source": {
+          "archivedon": "2022-01-10 22:05:06.199131",
+          "channelabout": "Channel dedicated to the NBU, 卐 , third positions, holohoax",
+          "channeltitle": "International Blackshirts",
+          "channelusername": "internationalblackshirts",
+          "date": 1641846924,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 71,
+              "offset": 35,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerTheGreatestStoryNeverToldOriginalEnglishFullVersionHD6h32min"
+            },
+            {
+              "length": 28,
+              "offset": 109,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheLastDaysOfTheBigLie_201904"
+            },
+            {
+              "length": 54,
+              "offset": 139,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/EUROPA-TheLastBattleTheFullDocumentary2017"
+            },
+            {
+              "length": 49,
+              "offset": 195,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/in-the-name-of-zion-by-jeff-k.-full-documentary"
+            },
+            {
+              "length": 58,
+              "offset": 246,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/HellstormTheGenocideOfGermanyByTheCommonEnemyHD_201906"
+            },
+            {
+              "length": 75,
+              "offset": 306,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/HLLENSTURMOFFIZIELLDieVernichtungDeutschlandsHellstormInDeutsch_201906"
+            },
+            {
+              "length": 41,
+              "offset": 383,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/NewWorldOrderCommunismByTheBackdoor"
+            },
+            {
+              "length": 21,
+              "offset": 426,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheUltimateRedPillByAlexanderPaterson"
+            },
+            {
+              "length": 38,
+              "offset": 449,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerALastAppealToReasonPart1"
+            },
+            {
+              "length": 46,
+              "offset": 489,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/OneThirdOfTheHolocaustHDVideoHQSound_201904"
+            },
+            {
+              "length": 78,
+              "offset": 537,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheBolshevikRevolutionWhiteGenocideHolodomorHolocaustOfWhiteEuropeans_201905"
+            },
+            {
+              "length": 59,
+              "offset": 617,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/harvestofdespairholodomorthe1933ukrainianfamine"
+            },
+            {
+              "length": 38,
+              "offset": 678,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/PeacePropagandaThePromisedLand"
+            },
+            {
+              "length": 55,
+              "offset": 718,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheIsraelPalestineActivistsWhoBecameHumanShields"
+            },
+            {
+              "length": 43,
+              "offset": 775,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/internationaljewrydeclareswarongermany"
+            },
+            {
+              "length": 31,
+              "offset": 820,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/whitegenocide2018documentary"
+            },
+            {
+              "length": 22,
+              "offset": 853,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/codoherichuntdenial/CODOH+-+%C3%89ric+Hunt+-+Denial+-+Partie+1.mp4"
+            },
+            {
+              "length": 55,
+              "offset": 877,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/shockingvideosofisraelsoldiersabusingpalestinians"
+            },
+            {
+              "length": 66,
+              "offset": 934,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheTreblinkaArchaeologyHoax2014ByEricHuntWithGermanSub"
+            },
+            {
+              "length": 38,
+              "offset": 1001,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/cremationsnonsenseaktionreinhardt_201908"
+            },
+            {
+              "length": 81,
+              "offset": 1041,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thejewishglobalpowermechanismexplained2017jeffkutzlerprotocolsbooks"
+            },
+            {
+              "length": 62,
+              "offset": 1124,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/eliewieselsnightauschwitzholohoaxlooneytuneserichunt"
+            },
+            {
+              "length": 59,
+              "offset": 1187,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/jewishritualmurderthefulloriginalbanneddocumentary"
+            },
+            {
+              "length": 35,
+              "offset": 1248,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/eliewieselandtheholocaustfraud"
+            },
+            {
+              "length": 27,
+              "offset": 1285,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thejewishgaschamberhoax_201908"
+            },
+            {
+              "length": 48,
+              "offset": 1314,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thejewishplantomurderallaryansholodomor"
+            },
+            {
+              "length": 46,
+              "offset": 1364,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/DasManifestZurBrechungDerZinsknechtschaft_201906"
+            },
+            {
+              "length": 35,
+              "offset": 1412,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/BordelleImKonzentrationslager"
+            },
+            {
+              "length": 63,
+              "offset": 1449,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thebattleoftwoworldsspeechofadolfhitlerborsigwerke"
+            },
+            {
+              "length": 12,
+              "offset": 1514,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheRedPill"
+            },
+            {
+              "length": 29,
+              "offset": 1528,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/trumpthesnakepoem"
+            },
+            {
+              "length": 26,
+              "offset": 1558,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/whythejewshategermany"
+            },
+            {
+              "length": 62,
+              "offset": 1586,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thenationalsocialistrevolutionnsdap-byesoterictruths"
+            },
+            {
+              "length": 43,
+              "offset": 1650,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/hitlertheunknownsoldieradocumentary"
+            },
+            {
+              "length": 53,
+              "offset": 1695,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/DERJUDEODERWOLLTEDIESENKRIEGRobertLeyAdolfHitler"
+            },
+            {
+              "length": 33,
+              "offset": 1750,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlersStruggleForPeace_201903"
+            },
+            {
+              "length": 28,
+              "offset": 1785,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerThinkDifferent"
+            },
+            {
+              "length": 35,
+              "offset": 1815,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/MulticulturalWehrmachtWaffenSS_201904"
+            },
+            {
+              "length": 28,
+              "offset": 1852,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/SACRIFICENationalSocialism_201903"
+            },
+            {
+              "length": 25,
+              "offset": 1882,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerThisIsWar_201903"
+            },
+            {
+              "length": 26,
+              "offset": 1909,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/WhatHitlerSaidAboutWar_201905"
+            },
+            {
+              "length": 20,
+              "offset": 1937,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/NichtWeisserKamerad"
+            },
+            {
+              "length": 50,
+              "offset": 1959,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerExplainsWhyTheyAttackedStalingrad"
+            },
+            {
+              "length": 31,
+              "offset": 2011,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/truthwilltriumphadolfhitler_201907"
+            },
+            {
+              "length": 28,
+              "offset": 2044,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/alertajudiadawewillfight"
+            },
+            {
+              "length": 12,
+              "offset": 2074,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/ISISEXPOSED_201906"
+            },
+            {
+              "length": 33,
+              "offset": 2088,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerTheEuropeanCrusade_201906"
+            },
+            {
+              "length": 94,
+              "offset": 2123,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/einfarbigererzahltdiewahrheitzuhitlersswastikaundihrerherkunftdeutscheuntertitel_202001"
+            },
+            {
+              "length": 48,
+              "offset": 2219,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/WorldAwakeningjewLiesByPastorRayHagins"
+            },
+            {
+              "length": 9,
+              "offset": 2269,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/ApartheidBySusanRec"
+            },
+            {
+              "length": 31,
+              "offset": 2279,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerTheCostOfWar"
+            },
+            {
+              "length": 60,
+              "offset": 2312,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerNoRetreatNoSurrenderThatIsGermanLaw_201905"
+            },
+            {
+              "length": 33,
+              "offset": 2374,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerAWomansStruggle_201903"
+            },
+            {
+              "length": 22,
+              "offset": 2409,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlersWarning_201903"
+            },
+            {
+              "length": 40,
+              "offset": 2433,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/SatanyahusUnit8200FullDocumentary"
+            },
+            {
+              "length": 66,
+              "offset": 2475,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/OtherLosses-DieVerschwiegeneGeschichteDeutschlandsNach1945_201906"
+            },
+            {
+              "length": 22,
+              "offset": 2543,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/DasErwachenDesLwen_201906"
+            },
+            {
+              "length": 40,
+              "offset": 2567,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/IsItPaganByDr.JosephGoebbels"
+            },
+            {
+              "length": 12,
+              "offset": 2609,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/ThanksJews_201906"
+            },
+            {
+              "length": 20,
+              "offset": 2623,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheyCannotStopUs_201905"
+            },
+            {
+              "length": 34,
+              "offset": 2645,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/kaimurroswewillmakethempay"
+            },
+            {
+              "length": 35,
+              "offset": 2681,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/DerEwigeJudeEnglishSubtitles_201904"
+            },
+            {
+              "length": 33,
+              "offset": 2718,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerAManAgainstTime_201903"
+            },
+            {
+              "length": 32,
+              "offset": 2753,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/HitlerStoodUpForYourRights"
+            },
+            {
+              "length": 63,
+              "offset": 2787,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AngelaMerkelFordertDEUTSCHENVLKERMORD100Beweisvideo"
+            },
+            {
+              "length": 50,
+              "offset": 2852,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitlergermanvolkrememberwhatyouare_201907"
+            },
+            {
+              "length": 73,
+              "offset": 2904,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/takingthatgiantredpillandrealizingthatadolfhitler...wasright."
+            },
+            {
+              "length": 20,
+              "offset": 2979,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/OperationBarbarossa_201906"
+            },
+            {
+              "length": 39,
+              "offset": 3001,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AdolfHitlerYouSaidIWasADreamer_201903"
+            },
+            {
+              "length": 35,
+              "offset": 3042,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/YouGiveUsMoreSchecklesGoyim"
+            },
+            {
+              "length": 49,
+              "offset": 3079,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/theearlyyearshitlerandthensdapbynsfilm"
+            },
+            {
+              "length": 45,
+              "offset": 3130,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/WorldAwakeningNationalistsWereTheRacists"
+            },
+            {
+              "length": 38,
+              "offset": 3177,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheJewishProblemDr.JosephGoebbels_201903"
+            },
+            {
+              "length": 35,
+              "offset": 3217,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/gaulandzurnotsterbenfurisrael"
+            },
+            {
+              "length": 39,
+              "offset": 3254,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/OneDayInGaza2019LeakedDocumentary"
+            },
+            {
+              "length": 25,
+              "offset": 3295,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/AntiSemitismWillSpread"
+            },
+            {
+              "length": 38,
+              "offset": 3322,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/TheRiseOfAdolfHitlerAndTheNSDAP"
+            },
+            {
+              "length": 41,
+              "offset": 3361,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/GermanicNationalSocialismAdolfHitler_201906"
+            },
+            {
+              "length": 32,
+              "offset": 3404,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitleronculturalmarxism"
+            },
+            {
+              "length": 47,
+              "offset": 3438,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitlerhitlertalksaboutczechoslovakia/Adolf+Hitler+Hitler+Talks+About+Czechoslovakia+1-2.mp4"
+            },
+            {
+              "length": 59,
+              "offset": 3487,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitlerhitlertalksabouthisunconquerablewaffenss"
+            },
+            {
+              "length": 30,
+              "offset": 3548,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitlersschwesterpaula"
+            },
+            {
+              "length": 28,
+              "offset": 3580,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/SieKmpftenFrDeutschland"
+            },
+            {
+              "length": 19,
+              "offset": 3610,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/HowToBeAZIONIST_201903"
+            },
+            {
+              "length": 22,
+              "offset": 3631,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/doyousupportisrael"
+            },
+            {
+              "length": 72,
+              "offset": 3655,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/IsraelsNewRacismThePersecutionOfAfricanMigrantsInTheHolyLand"
+            },
+            {
+              "length": 62,
+              "offset": 3729,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/thirdreich-nobodyhasdonemoreforpeacethanadolfhitler"
+            },
+            {
+              "length": 12,
+              "offset": 3793,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/hateisgood"
+            },
+            {
+              "length": 44,
+              "offset": 3807,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/ontheaccusationthathitlercreatedisrael"
+            },
+            {
+              "length": 68,
+              "offset": 3853,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/WASHITLERAROTHSCHILDAGENTADOLFHITLERTHELASTGREATWHITEMAN"
+            },
+            {
+              "length": 34,
+              "offset": 3923,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/accusinghitlerofbeingazionist_202002"
+            },
+            {
+              "length": 36,
+              "offset": 3959,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/nationalsocialistgermanytribute_202002"
+            },
+            {
+              "length": 37,
+              "offset": 3997,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/verloreninklessinlostinklessin"
+            },
+            {
+              "length": 31,
+              "offset": 4036,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/adolfhitler-penserdifferent"
+            },
+            {
+              "length": 18,
+              "offset": 4069,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://archive.org/details/nomoreapologies_201909"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 640,
+            "date": 1601791461,
+            "from_id": {
+              "channel_id": 1293690214,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "💊 Red & White Pill documentaries \nThe Greatest Story Never Told (Original English Full Version HD 6h32min)\n\nThe Last Days Of The Big Lie\n\nEUROPA – The Last Battle ~ The Full Documentary (2017)\n\nIn The Name Of Zion by Jeff K. (Full Documentary)\n\nHellstorm - The Genocide Of Germany By The Common Enemy HD\n\nHÖLLENSTURM (OFFIZIELL) Die Vernichtung Deutschlands [Hellstorm In Deutsch]\n\nNew World Order Communism By The Backdoor\n\nThe Ultimate Red Pill\n\nAdolf Hitler - A Last Appeal To Reason\n\nOne Third Of The Holocaust [HD Video HQ Sound]\n\nThe Bolshevik Revolution White Genocide Holodomor Holocaust Of White Europeans\n\nHarvest of Despair (Holodomor) The 1932-33 Ukrainian Famine\n\nPeace, Propaganda, & The Promised Land\n\nThe Israel Palestine Activists Who Became Human Shields\n\nINTERNATIONAL JEWRY DECLARES WAR ON GERMANY\n\nWhite Genocide 2018 Documentary\n\nCODOH Éric Hunt Denial\n\nSHOCKING Videos Of Israel Soldiers Abusing Palestinians\n\nThe Treblinka Archaeology Hoax 2014 By Eric Hunt (With German Sub)\n\nCremations Nonsense, Aktion Reinhardt\n\nThe Jewish Global Power Mechanism Explained 2017 (Jeff Kutzler) + Protocols books\n\nElie Wiesel's Night Auschwitz Holohoax Looney Tunes Eric Hunt\n\nJewish Ritual Murder (The Full Original Banned Documentary)\n\nElie Wiesel And The Holocaust Fraud\n\nThe Jewish Gas Chamber Hoax\n\nThe Jewish Plan To Murder ALL Aryans (Holodomor)\n\nDas Manifest Zur Brechung Der Zinsknechtschaft\n\nEthnic Germans A Forgotten Genocide\n\nThe Battle of Two Worlds Speech of Adolf Hitler ( Borsigwerke )\n\nThe Red Pill\n\nTrump: The ((( snake poem )))\n\nWhy The Jews Hate Germany\n\nThe National Socialist Revolution (NSDAP) - by Esoteric Truths\n\nHitler: The Unknown Soldier (A Documentary)\n\nDER JUDE WOLLTE DIESEN KRIEG Robert Ley, Adolf Hitler\n\nAdolf Hitler's Struggle For Peace\n\nAdolf Hitler Think Different\n\nMulticultural Wehrmacht & Waffen SS\n\nSACRIFICE National Socialism\n\nAdolf Hitler This Is War!\n\nWhat Hitler Said About War\n\nNicht Weißer Kamerad\n\nAdolf Hitler Explains Why They Attacked Stalingrad\n\nTruth Will Triumph Adolf Hitler\n\nAlerta Judiada We Will Fight\n\nISIS EXPOSED\n\nAdolf Hitler The European Crusade\n\nEin Farbiger Erzählt Die WAHRHEIT Zu Hitlers SWASTIKA Und Ihrer Herkunft (deutsche Untertitel)\n\nWorld Awakening 'jew$' Lies By Pastor Ray Hagins\n\nApartheid\n\nAdolf Hitler - The Cost Of War\n\nAdolf Hitler - No Retreat, No Surrender; That Is German Law!\n\nAdolf Hitler - A Woman's Struggle\n\nAdolf Hitler's Warning\n\nSatanyahu's Unit 8200 (Full Documentary)\n\nOther Losses – Die Verschwiegene Geschichte Deutschlands Nach 1945\n\nDas Erwachen Des Löwen\n\n卐 Is It Pagan 卐 By Dr. Joseph Goebbels 卐\n\nThanks Jews!\n\nThey Cannot Stop Us!\n\nKai Murros - We Will Make Them Pay\n\nDer Ewige Jude ( English Subtitles)\n\nAdolf Hitler - A Man Against Time\n\nHitler Stood Up For Your Rights!\n\nAngela Merkel Fordert DEUTSCHEN VÖLKERMORD! [ 100% Beweisvideo]\n\nAdolf Hitler - German Volk, Remember What You Are!\n\nTaking That Giant Red Pill, And Realizing That Adolf Hitler... Was RIGHT.\n\nOperation Barbarossa\n\nAdolf Hitler - You Said I Was A Dreamer\n\nYou Give Us More Scheckles Goyim!!!\n\nThe Early Years (Hitler and the NSDAP), by NSfilm\n\nWorld Awakening Nationalists Were The Racists\n\nThe Jewish Problem Dr. Joseph Goebbels\n\nGauland: Zur Not sterben für Israel\n\nOne Day In Gaza 2019 Leaked Documentary\n\nAnti Semitism Will Spread\n\nThe Rise Of Adolf Hitler And The NSDAP\n\nGermanic National Socialism Adolf Hitler\n\nAdolf Hitler On Cultural Marxism\n\nAdolf Hitler Hitler Talks About Czechoslovakia \n\nAdolf Hitler Hitler Talks About His Unconquerable Waffen SS\n\nAdolf Hitler's Schwester Paula\n\nSie Kämpften Für Deutschland\n\nHow To Be A ZIONIST\n\nDo You Support Israel?\n\nIsrael's New Racism The Persecution Of African Migrants In The Holy Land\n\nThird Reich - Nobody has done more for peace than Adolf Hitler\n\nHate is good\n\nOn The Accusation That Hitler Created Israel\n\nWAS HITLER A ROTHSCHILD AGENT? ADOLF HITLER THE LAST GREAT WHITE MAN\n\nAccusing Hitler Of Being A Zionist\n\nNational Socialist Germany (tribute)\n\nVerloren In Klessin (Lost In Klessin)\n\nAdolf Hitler - Penser different\n\nNo More Apologies!",
+          "peerid": {
+            "channel_id": 1179424306,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Fashbird2814 卐",
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "views": 43,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5811551549939604447",
+        "_score": 2.0309,
+        "_source": {
+          "archivedon": "2022-01-10 20:19:47.3662",
+          "channelabout": "❤WWG1WGA❤",
+          "channeltitle": "Q-- Where we go one we go all!🇵🇹🇩🇪🇨🇭🇺🇸",
+          "channelusername": "Wahrheit2020",
+          "date": 1641841466,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 104,
+              "offset": 2376,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 3600,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 3682,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 3777,
+              "reformatted_key": "MessageEntityUrl"
+            },
+            {
+              "length": 28,
+              "offset": 3845,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 3485,
+            "date": 1641839378,
+            "from_id": {
+              "channel_id": 1189599710,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Großbritannien: Janet Ellis schreibt: „Ich arbeite für den NHS in Großbritannien und bin im März 2020 von diesem Wahnsinn aufgewacht A@E war leer. Also habe ich angefangen zu recherchieren, habe viele Leute getroffen, die genauso recherchiert haben wie ich und zu dem gleichen Ergebnis gekommen. Ich kann deutlich den Grund erkennen, warum die Gesundheitseinrichtungen nicht wollten, dass die Familien der Patienten ihre Verwandten sehen, nur um den Tod von Verwandten zu nutzen, um die Öffentlichkeit zu erschrecken und Familien von ihren Angehörigen fernzuhalten genug zum Töten sein, so grausam, besonders wenn das Covid 19 nie isoliert oder gereinigt wurde. Nichts von dem, was unsere Regierungen sagten, machte Sinn, 6 Fuß voneinander entfernt usw., verrückt. Nachdem die Einführung der Covid-Impfung im letzten Jahr begann, was normalerweise 10 bis 15 Jahre dauert, um ihre Sicherheit zu gewährleisten, traten ernsthafte Gesundheitsprobleme und einige unerklärliche Todesfälle auf. Jetzt sehe ich täglich viele gesundheitlich bedingte Covid-Impfprobleme, wie Blutgerinnsel, Herzinfarkte und schwere Herzprobleme, Blutprobleme wie niedrige Thrombozyten, Krebs die Liste geht weiter, viele werden bald sterben, leider haben einige dies getan. Viele haben ihren Gesundheitszustand nicht auf der Website zur Meldung der Gelben Karte gemeldet, und ich rate ihnen auch. Ich habe das Gefühl, dass dies bald ein Ende haben wird, aber nur traurig, wenn Menschen ihre Lieben, insbesondere ihre Kinder, verloren haben, wenn sie nur wie ich recherchiert hätten. Dies hat Züge der Nazi-Ära und der KPC, um die Völker der Welt zu kontrollieren, und ich habe, wie viele, ihren bösartigen Plan, die Welt zu regieren, durchschaut. Ich habe gehört, dass die 13 Familien, die die Welt regieren, weg sind, ich hoffe, es stimmt. Ich mag viele, die niemals aufgeben und kämpfen werden, bis uns unser Gott die Freiheit zurückgegeben hat. Am Ende geht es nur darum, die Kinder zu retten.“\nDean Koontz, populärer US-Autor, ist Autor des 1981 erschienenen Buches „Eyes of Darkness“. Darin spricht er von einer biologischen Waffe namens „Wuhan-400“. Kunz sagte voraus, dass die Waffe im Jahr 2020 weit verbreitet sein und die menschliche Lunge beeinträchtigen würde.\nDer australische Abgeordnete Craig Kelly 'Dies ist eine Pandemie der Geimpften.'\nLibanon: Hunderte protestieren gegen Ungeimpfte: https://english.aawsat.com/home/article/3402746/lebanon-hundreds-protest-measures-targeting-unvaccinated\nDer Jesuit Fauci hat das Virus zum Zweck der Entvölkerung der Erde mit einem von ihm entwickelten Impfstoff geschaffen. Phizer, Moderna waren gezwungen, nachzukommen. Ihr konzentriert euch auf die Entstehung des Virus. Das ist gut. Konzentrieren Sie sich jetzt auf den Inhalt des 'Impfstoffs'. Sie wollen die Bevölkerung entvölkern, indem sie unserem Militär, der Polizei und dem rechten Senat dieses mRna-Spike-Protein nehmen. Auf diese Weise wird es viel einfacher, die Eine Weltordnung zu erreichen. Vatikanische Jesuiten, Mainstream-Medien, soziale Medien, CIA, FBI, kompromittierte Richter, Demokraten, Freimaurer, Illuminaten, Regierung und Staatsoberhäupter waren alle eine Bande. Das eine steht nicht ohne das andere. Sie haben sich gegenseitig den Rücken frei, wie es jede Gang tut. Wer ist der Bandenführer?: Generaljesuit des Vatikans. Haben Sie sich jemals gefragt, wie die Regierung damit durchkommen kann? Wer führt die Regierung? Jesuiten tun. Fragen Sie sich noch einmal dies… Wie kommt die Regierung mit den Dingen durch, die in der Welt vor sich gehen? Alan Lamont – The Jesuit Priesthood Of Lucifer: https://youtu.be/v0cDGPn0MXY Alan Lamont – Die Jesuiten sind die Soldaten Satans: https://youtu.be/4D6RKYss0YA Eric Jon Phelps – Diese Männer namens Jesuiten regieren die Welt: https://youtu.be/pX-bIpsRXcc Georgetown Jesuiten regieren die Welt: https://youtu.be/6SiunL4KmYM",
+          "peerid": {
+            "channel_id": 1353107288,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": true,
+          "v": 1,
+          "views": 7,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "restriction_reason": {},
+            "status": {}
+          }
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202201",
+        "_id": "5846913321357821842",
+        "_score": 1.9293,
+        "_source": {
+          "archivedon": "2022-01-10 07:50:03.181542",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1641799720,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1179531088
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "media": {
+            "webpage": {
+              "attributes": {},
+              "photo": {
+                "sizes": {},
+                "video_sizes": {}
+              }
+            }
+          },
+          "message": "Louis Fine, active 1914-32. Married heiresses and killed them; at least six victims\n\nGeorge Sack, 1923-25, 32-54. Murdered for life-assurance; five known victims.\n\nAlfred Leonard Cline, 1931-32, 43-45. Claimed at least nine victims: 1 Christian clergyman, 8 women.\n\nLouis Neu, 1933-35. Just two known victims, both male; he is likely to have killed more.\n\nRalph Jerome Selz, 1930s. Was a con-man suspected of five murders.\n\nMurder Inc., The Purple Gang, etc. The hitmen of the Jewish underworld are not normally included in lists of serial killers. They should be. Most are psychopaths who enjoy killing and torture. Benjamin ‘Bugsy’ Siegel’s famous quote “We only kill each other” was very far from the truth.\n\nEdward Simon Wein, 1955-56, 1975. Began as a serial rapist marking Passover and New Moons; released from prison, he started killing.\n\nHarvey Murray Glatman, 1957-58. Three known victims; he twice marked the Fast of Av.\n\nRobert Zarinsky, 1958-74. Tried a ‘Nazi’ act, even desecrated a Jewish cemetery; Jewish sources say momma was a gentile; seven known victims: 1 cop, 6 teenage girls; the dates reveal his true loyalty.\n\nJames Koedatich, 1960-82. Killed at least four young girls and then a fellow prisoner.\n\nRalph Nuss, 1966. Three known victims.\n\nGloria Tannenbaum, 1969. Shot a professor of Russian history and poisoned two other people.\n\nMilton Niport, ?-1970. “Jewish taxi-driver”, confessed to six murders.\n\nBertram Greenberg, ?-1971. Killed at least three, including a 13-year-old girl.\n\nJoseph Kallinger, 1974-75. At least three victims; Schreiber’s ‘The Shoemaker’ pretends he was raised by German Catholics, but he followed the Jewish calendar and even dug a mikvah in his cellar.\n\nDavid Berkowitz, ‘the Son of Sam’, 1976-77. Genetically 100% Jewish, not just raised by Jews.\n\nWilliam Rothstein, 1977-2003. Linked to at least four suspicious deaths.\n\nJoseph Fischer, 1978-83. Shared Berkowitz’ fondness for 11ths and 29ths of the Jewish months; also marked a sabbath coinciding with 22nd Iyyar, same as the first Sabbath observed during the Exodus.\n\nBrian Kevin Rosenfeld, 1982-90. Murderous nurse; he pled guilty on three specimen charges of murder, but is suspected of at least twenty-three.\n\nRobert Durst,1982-2001. Heir to a billion dollar property empire, but also a serial-killer with three known victims.\n\nSteven Oken, 1986-87. Tortured, raped and murdered at least three women.\n\nNathan Trupp, 1988. Killed a total of five people in two separate incidents.\n\nCharles Mark Cohen, 1988-89. His nomadic lifestyle means his total of five victims could easily be an underestimate.\n\nJeffrey Feltner, 1988-89. Dying of AIDs, despatched eight or more Florida nursing-home patients.\n\nJoel Rifkin,1989-93. New York State’s most prolific serial-killer with more than twenty prostitute victims.\n\nPhilip Carl Jablonski, 1991. At least five female victims.\n\nEdward Isadore Savitz, 1991-92. Homosexual who deliberately spread AIDs virus among gentile boys.\n\nRobert Shulman, 1991-96. Confessed to five prostitute murders; his brother helped dispose of at least one body.\n\nEyal Shachar, 2002-2004. A doctor engaged in life-insurance swindles; at least two female victims.\n\nEUROPE.\n\nSalomon Rosenbloom (aka Sidney Reilly),1895-1925. Killed at least four victims, including a Christian priest.\n\nNorman Parker, England, 1963, 1970. Quite open about his Jewishness.\n\nJames Eric Gottfried, ?-1987. Killed fourteen female victims all across Europe before hanging himself in an Athens jail; thus no trial and pitiful media coverage. His brother is a serial fraudster and his nephew committed a murder in Florida.\n\nAndrei Chikatilo, 1978-90. Confessed to killing fifty-five children and teenagers; his non-Russian surname is unmistakably Jewish; see Enc. Jud. sv Gikatila.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 620788
+          },
+          "replyto": {},
+          "silent": false,
+          "v": 1,
+          "userinfo": {
+            "_id": 1179531088,
+            "_v": 1,
+            "access_hash": 8.41313829123224e+17,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Really Mad",
+            "id": 1179531088,
+            "is_self": false,
+            "last_name": "Lumberjack",
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 2,
+              "has_video": false,
+              "photo_big": {
+                "local_id": 76780,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "photo_id": 5.44983310698818e+18,
+              "photo_small": {
+                "local_id": 76778,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 200117300402
+              },
+              "reformatted_key": "UserProfilePhoto"
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "restriction_reason": [],
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "ReallyMadLumberjack",
+            "verified": false,
+            "_media_ref": "7c49873f1b3bddb133e8e5f42c46ad0e62b4eb06"
+          }
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

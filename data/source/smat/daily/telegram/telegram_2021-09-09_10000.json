@@ -1,0 +1,1228 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [28],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [14],
+      "relation": ["eq"]
+    },
+    "max_score": [12.1181],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5932974690623959820",
+        "_score": 12.1181,
+        "_source": {
+          "archivedon": "1682676656",
+          "channelabout": "The Official E Discussion Group. \nSilent No More.",
+          "channeltitle": "E Team",
+          "channelusername": "TheETeam",
+          "date": 1631225624,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1516880708
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 406284,
+          "message": "Eric is distracting to me.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1381378316,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 406281,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 406105
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": -3.39209427920252e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682676656,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "Irish Leo 🍀 🦁",
+            "id": 1516880708,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "username": "IrishLeo",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T10:10:56.214364"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5686521886562070790",
+        "_score": 10.854,
+        "_source": {
+          "archivedon": "2022-08-02 04:06:23.075672",
+          "channelabout": "The Official @MichaelJLindell Discussion Group Chat",
+          "channeltitle": "Mike Lindell Chat",
+          "channelusername": "MikeLindellChat",
+          "date": 1631204614,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 63,
+              "offset": 29,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {
+            "reformatted_key": "PeerChannel",
+            "channel_id": 1358262728
+          },
+          "fwdfrom": {
+            "channel_post": 469,
+            "date": 1631204610,
+            "from_id": {
+              "channel_id": 1358262728,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_msg_id": 469,
+            "saved_from_peer": {
+              "channel_id": 1358262728,
+              "reformatted_key": "PeerChannel"
+            }
+          },
+          "message": "The Eric Metaxas Radio Show, https://twitter.com/ericmetaxas/status/1435974139836252164?s=20",
+          "peerid": {
+            "channel_id": 1323996551,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": true,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "max_id": 288269,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 52,
+            "replies_pts": 1709115
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 65300,
+          "mediaref": "71b23fdc7d61d7ebe3952b12aa8d83c54ca8e297"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5833693996135743957",
+        "_score": 10.854,
+        "_source": {
+          "archivedon": "2022-08-05 11:17:29.106949",
+          "channelabout": "Inventor and CEO of MyPillow, Author of \"What Are the Odds? From Crack Addict to CEO,” Executive Producer, Creator of MyStore and Lindell Recovery Network",
+          "channeltitle": "Mike Lindell",
+          "channelusername": "MichaelJLindell",
+          "date": 1631204610,
+          "editdate": 1631204592,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 63,
+              "offset": 29,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 19,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "The Eric Metaxas Radio Show, https://twitter.com/ericmetaxas/status/1435974139836252164?s=20",
+          "peerid": {
+            "channel_id": 1358262728,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1323996551,
+            "comments": true,
+            "max_id": 288269,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 877030442
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1877537843
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1602183990
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 52,
+            "replies_pts": 1722118
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 65307,
+          "mediaref": "71b23fdc7d61d7ebe3952b12aa8d83c54ca8e297"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5932974690623959817",
+        "_score": 10.1139,
+        "_source": {
+          "archivedon": "1682676656",
+          "channelabout": "The Official E Discussion Group. \nSilent No More.",
+          "channeltitle": "E Team",
+          "channelusername": "TheETeam",
+          "date": 1631225586,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1516298062
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "id": 406281,
+          "message": "Absolutely not. I switch to Newsmax when Cavuto comes on. Eric Bolling has  a decent show then.",
+          "noforwards": false,
+          "peerid": {
+            "channel_id": 1381378316,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 406278,
+            "reply_to_scheduled": false,
+            "reply_to_top_id": 406105
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 8.10168638635808e+18,
+            "apply_min_photo": true,
+            "archivedon": 1682676656,
+            "attach_menu_enabled": false,
+            "bot": false,
+            "bot_attach_menu": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "fake": false,
+            "first_name": "SwizzleMyChips",
+            "id": 1516298062,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.08951800549013e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "stripped_thumb": "AQgI0ftB8z7p2/Tmiiisk2XZHw==",
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "premium": false,
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusOffline",
+              "was_online": 1682621361
+            },
+            "support": false,
+            "username": "SwizzleMyChips",
+            "verified": false,
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "lastseents": "2023-04-28T10:10:56.222920"
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6167345725911864317",
+        "_score": 8.2598,
+        "_source": {
+          "archivedon": "2021-09-09 15:16:52.812229",
+          "channelabout": "We Cover The Truth / #Trump #MAGA 🇺🇸\n\n💠 @ZekeYeager moderates this channel.\n\n🔻To support our team you can buy us coffee using Bitcoin!:\n 16HDgC2HaEaNAE4CvQehzBsGjSrqd4D8YD",
+          "channeltitle": "The Trumpist",
+          "channelusername": "TheTrumpist",
+          "date": 1631200496,
+          "editdate": 1631200504,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 186
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 134,
+            "date": 1631200185,
+            "from_id": {
+              "channel_id": 1390888751,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Biden is DONE! \n\nERIC TRUMP announced that he will reveal classified information on his channel that will remove Biden from office.\nPlease FOLLOW AND SHARE his TELEGRAM CHANNEL !👇👇👇\n\nhttps://t.me/TrumpEric",
+          "peerid": {
+            "channel_id": 1435947075,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 777,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 0
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 685
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357612298",
+        "_score": 7.85,
+        "_source": {
+          "archivedon": "2021-09-09 15:21:08.087721",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1631200450,
+          "edithide": false,
+          "entities": [],
+          "forwards": 1,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 745702043
+          },
+          "fwdfrom": {
+            "channel_post": 596,
+            "date": 1631200188,
+            "from_id": {
+              "channel_id": 1517712650,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Radical transgendered extremist, male to female, 'Emily' Eric Gorcenski, confronts Shopify developers about allowing Breitbart News to use their web platform as an online merchant. No one on the Shopify team seemed interested in entertaining the eunuch's loaded question.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 377560
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 17
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5966960951520452137",
+        "_score": 7.6256,
+        "_source": {
+          "archivedon": "2021-09-09 18:18:11.998958",
+          "channelabout": "Welcome to the Official Wisconsin Audit Watch Chat, sister chat to @AZAuditChat. Buckle up, because Arizona Audit Watch has your back and WWG1WGA!",
+          "channeltitle": "Wisconsin Audit Watch Chat",
+          "channelusername": "Wiauditchat",
+          "date": 1631211288,
+          "edithide": false,
+          "entities": [],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1540929185
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Thanks so much.  Praying they got a lot done behind the scenes that exposes both the demorats and rinos involvement in the fraud here in Wisconsin.   Especially mayor eric genrich in Green Bay.   Do you know the time or where to watch it?",
+          "peerid": {
+            "channel_id": 1389291359,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 56258,
+            "reply_to_top_id": 49373
+          },
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5846913321357612218",
+        "_score": 7.484,
+        "_source": {
+          "archivedon": "2021-09-09 10:53:54.336696",
+          "channelabout": "GoyimTV.TV",
+          "channeltitle": "GDL Chat",
+          "channelusername": "GDLCHAT",
+          "date": 1631183000,
+          "edithide": false,
+          "entities": [],
+          "forwards": 70,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1657330045
+          },
+          "fwdfrom": {
+            "channel_post": 3011,
+            "date": 1630897851,
+            "from_id": {
+              "channel_id": 1409521802,
+              "reformatted_key": "PeerChannel"
+            },
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "Update: Eric Louis “Nina” Cohen, the transsexual antifa member who was charged with attempted murder, had her charge and bail downgraded. She’s now charged with assault with a deadly weapon & her bail is $60,000, not $1 m. Antifa are using @ CashSupport to fundraise for her.",
+          "peerid": {
+            "channel_id": 1361340592,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 377480
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 19764
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6041468725616449276",
+        "_score": 7.3483,
+        "_source": {
+          "archivedon": "2022-08-04 18:04:04.24656",
+          "channelabout": "\"Trump Card\" is an exposé of the socialism, corruption, and gangsterization that now define the Democratic Party. \nAvailable on DVD and VOD now.\ndineshdsouza.com/trumpcard",
+          "channeltitle": "Dinesh D’Souza",
+          "channelusername": "Dinesh_DSouza",
+          "date": 1631200587,
+          "editdate": 1631200591,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 121,
+              "reformatted_key": "MessageEntityHashtag"
+            },
+            {
+              "length": 107,
+              "offset": 189,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 4,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Congressman Eric Swalwell insists that in Texas \"a tyrannical regime is using its power to control women.\" Yet isn't the #TexasAbortionLaw the very expression of local democracy in action?\nhttps://rumble.com/vm9psh-why-the-texas-abortion-law-is-the-opposite-of-tyrannical.html?mref=23gga&mc=8uxj1",
+          "peerid": {
+            "channel_id": 1406639052,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 15005
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5252780737136182236",
+        "_score": 6.5371,
+        "_source": {
+          "archivedon": "2022-08-02 02:08:07.719472",
+          "channeltitle": "MAGA Chat 🇺🇸",
+          "channelusername": "MAGARevolutionChat",
+          "date": 1631146299,
+          "edithide": false,
+          "entities": [
+            {
+              "length": 12,
+              "offset": 330,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1934173839
+          },
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Happiness is achieved when your aim and desires in life are determined. Still doubting the efficiency of my word? Give it a try and have the satisfaction you can obtain for yourself. I gave it a try and I can boldly stand and tell everyone you are the best. Thank you very much Mr Eric Ferguson for your support and transparency. @ericfergfxt",
+          "peerid": {
+            "channel_id": 1223008320,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {
+            "reformatted_key": "MessageReplyHeader",
+            "reply_to_msg_id": 279468
+          },
+          "silent": false,
+          "userinfo": {
+            "_v": 1,
+            "access_hash": 1.41332900163121e+18,
+            "apply_min_photo": true,
+            "bot": false,
+            "bot_chat_history": false,
+            "bot_inline_geo": false,
+            "bot_nochats": false,
+            "contact": false,
+            "deleted": false,
+            "first_name": "Gibson",
+            "id": 1934173839,
+            "is_self": false,
+            "min": false,
+            "mutual_contact": false,
+            "photo": {
+              "dc_id": 1,
+              "has_video": false,
+              "photo_id": 5.01285985293813e+18,
+              "reformatted_key": "UserProfilePhoto",
+              "photo_big": {
+                "local_id": 253394,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038800333
+              },
+              "photo_small": {
+                "local_id": 253392,
+                "reformatted_key": "FileLocationToBeDeprecated",
+                "volume_id": 100038800333
+              }
+            },
+            "reformatted_key": "User",
+            "restricted": false,
+            "scam": false,
+            "status": {
+              "reformatted_key": "UserStatusRecently"
+            },
+            "support": false,
+            "verified": false,
+            "_id": 1934173839,
+            "_media_ref": "ee7b0bf338a8ce94e9f5fca9d5570c21fa9292d3",
+            "restriction_reason": []
+          },
+          "v": 1
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6418839919635995468",
+        "_score": 5.9905,
+        "_source": {
+          "archivedon": "2022-03-07 11:38:46.499064",
+          "channelabout": "Truth-seeking junkie, unapologetic pure-bred American PATRIOT!",
+          "channeltitle": "RealStewPeters",
+          "channelusername": "stewpeters",
+          "date": 1631223069,
+          "editdate": 1642505738,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 73,
+              "offset": 368,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 284,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 1186,
+            "date": 1631220070,
+            "from_id": {
+              "channel_id": 1431797507,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "Dr Jane Ruby",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "PLEASE HELP! \n\nPLEASE SHARE THE MESSAGE OF “JUST WAIT” SONG EVERYWHERE!’\n\nPlease help us get this song out, wherever you can send it hopefully into the schools, the parks, your elected officials, everywhere you can send it— it is about to hit the radio today including Eric Clapton‘s music stream for freedom messages.\n\nHelp us save the babies and the children too! \n\nhttps://rumble.com/vly6pi-just-wait-shawn-gallaway-and-dr.-jane-ruby.html",
+          "peerid": {
+            "channel_id": 1494502630,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 62970
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6015140095055640403",
+        "_score": 4.2999,
+        "_source": {
+          "archivedon": "2021-09-09 03:06:01.409636",
+          "channelabout": "For all Wisconsinites dedicated to a free Wisconsin.\n\nWelcome to the Free Wisconsin group on Telegram. This group exists as a free speech option with the shutdowns being arranged on the many social networking sites.\n\nSpamming will get you removed.",
+          "channeltitle": "Free Wisconsin",
+          "channelusername": "freewisconsin",
+          "date": 1631156724,
+          "edithide": false,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvRdHlFdKej-trDuAsfUlriotj8lDhaksSCcKNAlF8N8qwUHaw2oRAmkvcQfVlSBaHDNYqZpEYBrLYkcCZG4BPYsaeAKT--O1iGrZZWqynhhoDHiIy8UdCs6pdtzGD2LZK9EuaJZDUveE7QxhQlr2D4fmJaj6BrddIM1kZM_GjfRvMyhR6nVj3O-_XZZdiV_i_m&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 9,
+              "offset": 33
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 9,
+              "offset": 33
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 9,
+              "offset": 33
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 216,
+              "offset": 63
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvRVWRhhmY5DDIQB4JZIJAQ9LndcAUU5soY_Anoqp6-llvHvEtx1wdmmjcCuEiQ4dolQ3B3jZmTf3MZZWmn_Pa_fu3vfdzh5yBvyTPimhHI-CoknS2rv0GEx1sewcDX8QLhuzm4arS8B3FGWKi3bp22dMVvj0PBNIkC2MEcdIZfNY6PZKHAmDAmJEXYKp0ffxJa_7UhK0qH7I0=&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 52,
+              "offset": 280
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 52,
+              "offset": 280
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 52,
+              "offset": 280
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 51,
+              "offset": 333
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 51,
+              "offset": 333
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvRVWRhhmY5DDIQB4JZIJAQ9LndcAUU5soY_Anoqp6-llvHvEtx1wdmmjcCuEiQ4dolQ3B3jZmTf3MZZWmn_Pa_fu3vfdzh5yBvyTPimhHI-CoknS2rv0GEx1sewcDX8QLhuzm4arS8B3FGWKi3bp22dMVvj0PBNIkC2MEcdIZfNY6PZKHAmDAmJEXYKp0ffxJa_7UhK0qH7I0=&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 50,
+              "offset": 333
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 23,
+              "offset": 402
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 9,
+              "offset": 426
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 15,
+              "offset": 436
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 23,
+              "offset": 452
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 43,
+              "offset": 485
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 41,
+              "offset": 529
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 46,
+              "offset": 571
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 29,
+              "offset": 618
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 44,
+              "offset": 648
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 693
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 45,
+              "offset": 736
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 31,
+              "offset": 782
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 42,
+              "offset": 814
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvRdHlFdKej-trDuAsfUlriotj8lDhaksSCcKNAlF8N8qwUHaw2oRAmkvcQfVlSBaHDNYqZpEYBrLYkcCZG4BPYsaeAKT--O1iGrZZWqynhhoDHiIy8UdCs6pdtzGD2LZK9EuaJZDUveE7QxhQlr2D4fmJaj6BrddIM1kZM_GjfRvMyhR6nVj3O-_XZZdiV_i_m&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 25,
+              "offset": 859
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 25,
+              "offset": 859
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 25,
+              "offset": 859
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvRVWRhhmY5DDIQB4JZIJAQ9LndcAUU5soY_Anoqp6-llvHvEtx1wdmmjcCuEiQ4dolQ3B3jZmTf3MZZWmn_Pa_fu3vfdzh5yBvyTPimhHI-CoknS2rv0GEx1sewcDX8QLhuzm4arS8B3FGWKi3bp22dMVvj0PBNIkC2MEcdIZfNY6PZKHAmDAmJEXYKp0ffxJa_7UhK0qH7I0=&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 22,
+              "offset": 941
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 22,
+              "offset": 941
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 22,
+              "offset": 941
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 977
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 12,
+              "offset": 977
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 29,
+              "offset": 1008
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 24,
+              "offset": 1158
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 23,
+              "offset": 1158
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 23,
+              "offset": 1158
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 18,
+              "offset": 1187
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 35,
+              "offset": 1264
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 35,
+              "offset": 1397
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi8-UowRoFNFvROKzF9dOK5zGZt8OIzH6SMgbVSjKM3rQhE1vLUnyQVQ890uIO1Rjbz4C3CwRx2hFBVhqHomf4vrwvQ-4lged_LAE_DN7wS4Oi&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 58,
+              "offset": 1433
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 58,
+              "offset": 1433
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 58,
+              "offset": 1433
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 20,
+              "offset": 1493
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 17,
+              "offset": 1514
+            },
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 74,
+              "offset": 1532
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 28,
+              "offset": 1532
+            },
+            {
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://r20.rs6.net/tn.jsp?f=001vkJ3ORz2ULpW6qX0mW7p9qrogG02dSfL4lruaFcdMT3AivtunjHi81WYfpKAapWz48HpcYaALpY_jVhJRMm2QD6Y4l1NG_LCoqampYwlurWIxB9iBnce-S8hPtRw97BFt4sFUQ2i1jcSBytfauvgkHY-8Rrze7jb&c=nv8_5c1D7tUht-7s4mEair3dsXMG60-fUAVlz8VK6HGe-BKfEDL1mg==&ch=5cWHzzbfPnAQAmBy-lbn9_dOuVEZC7wH5dBh3BA9EeelZha-Fm0lSg==",
+              "length": 27,
+              "offset": 1532
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 1647
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 12,
+              "offset": 1647
+            },
+            {
+              "reformatted_key": "MessageEntityPhone",
+              "length": 12,
+              "offset": 1745
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 12,
+              "offset": 1745
+            },
+            {
+              "reformatted_key": "MessageEntityEmail",
+              "length": 24,
+              "offset": 1758
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 24,
+              "offset": 1758
+            },
+            {
+              "reformatted_key": "MessageEntityMention",
+              "length": 12,
+              "offset": 1792
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 15,
+              "offset": 1873
+            },
+            {
+              "reformatted_key": "MessageEntityUnderline",
+              "length": 15,
+              "offset": 1873
+            }
+          ],
+          "forwards": 141,
+          "fromid": {
+            "reformatted_key": "PeerUser",
+            "user_id": 1673959910
+          },
+          "fwdfrom": {
+            "date": 1631022990,
+            "from_id": {},
+            "from_name": "Sonya",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "WIS Elec Com Meeting Thurs:\n9 Am\nZoom Here\npass code: 910063\n\nIMPORTANT NOTE: Many of you have expressed interest regarding some of the agenda subjects below, especially the approval of the ES&S Electronic Voting System, ERIC & Special Voting Deputies possible statutory changes.\nBY CLICKING HERE YOU WILL BE ABLE TO READ ALL OF THE\nOPEN MEETING INFORMATION PROVIDED BY THE WEC STAFF.\n\nYOU ARE INVITED\nThursday. Sept. 9, 2021\n9 AM to??\nREGULAR MEETING\nWIS ELECTION COMMISSION\nAGENDA:\n\n • PUBLIC COMMENTS: tell WEC what you think\n • APPROVAL ES&S Electronic Voting System\n • Updated Telecommunication Testing Protocols\n • Redistricting Preparations\n • Special Voting Deputies Statutory Changes\n • 4 Year Voter Maintenance Process Report\n • ERIC Processes - Electronic Regis Info Sys\n • WEC Website Redesign Project\n • Delegation of Authority Review to Admin\n\n\nZOOM HERE TO JOIN MEETING\nwebinar ID: 883 3621 2379\npasscode (if needed)910063)\n\n\nOPEN MEETING MATERIALS\nBy Telephone 312-626-6799\nID 883 3621 2379\n\nPublic Comment Participation:\nWEC will be taking brief public comments from Wisconsin residents at start of the meeting. Sign up to speak by emailing electioncomments@wi.gov with \"Speaker Request\" in the subject line. The deadline for requests to speak is NO LATER THAN 3 p.m. WED, SEPT. 8. The Commission staff will contact those who sign up to speak with details prior to the meeting.  \n\n*********************************\n\nClick Here Meeting Materials & Info & zoom to meeting info\n\nSEE ON Wisconsin Eye\nSchedule Is Below\nhttps://wiseye.org/schedule/\n********************************************\nAny Questions, please call me anytime at\n414-276-6331\n\nBob\n\nBob Spindell \nChair\nRepublican Party of Wisconsin \n4th Congressional District \n414-276-6331\ncd4.chairman@wisgop.info\nTwitter: @BobSpindell\n\nPaid for by 4th Cong Dist of WI Rep Club, James McFarland, Treas.  www.wis4gop.com & not authorized by any candidate for candidate committee.  Funds contributed may be used in connection with Federal Elections, James McFarland, Treasurer",
+          "peerid": {
+            "channel_id": 1400508940,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": false,
+          "reformattedkey": "Message",
+          "replies": {
+            "comments": false,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 21329
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 55671
+        },
+        "_ignored": ["entities.url.keyword", "message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "5815160872951100861",
+        "_score": 3.1547,
+        "_source": {
+          "archivedon": "2021-09-09 19:33:14.222999",
+          "channelabout": "An die deutsche Volksseele erinnern und zurück verhelfen 🇾🇪 💚",
+          "channeltitle": "Fabijenna - eine deutsche Liebe 🇾🇪 💚🦅",
+          "channelusername": "valkuerer",
+          "date": 1631212900,
+          "editdate": 1631212875,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityBold",
+              "length": 168,
+              "offset": 0
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 181,
+              "offset": 1482
+            },
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 22,
+              "offset": 1664
+            }
+          ],
+          "forwards": 12,
+          "fromid": {},
+          "fwdfrom": {
+            "from_id": {},
+            "saved_from_peer": {}
+          },
+          "message": "Ehemaliger Trump-Berater und GETTR-CEO Jason Miller nach Treffen mit dem brasilianischen Präsidenten am Wochenende vom Obersten Gerichtshof in Brasilien festgenommen\n\n\nDer ehemalige Top-Berater von Präsident Donald J. Trump und GETTR-CEO Jason Miller wurde in Brasilien am Flughafen festgenommen, als er versuchte, sein Flugzeug zu besteigen, wie mehrere Quellen berichten.\n\nMiller hielt sich in Brasilien anlässlich einer Konferenz und von Treffen auf, bei denen er mit Don Trump Jr. und vielen anderen über das Labor Day Wochenende sprach.\n\nNach Angaben von Matthew Tyrmand hat die progressive Mafia in Brasilien Miller festgenommen. Er wird derzeit von den Anti-Bolsonaristas des Obersten Gerichtshofs verhört, an einem Tag, an dem Jair Bolsonaro, der Präsident Brasiliens, massiv unterstützt wird.\n\nWie viele wissen, ist Präsident Donald J. Trump, der 45. Präsident, sehr gut mit dem brasilianischen Präsidenten und Konservativen Jair Bolsonaro befreundet, so dass dies eindeutig politisch motiviert zu sein scheint.\n\nDer Brasilianer Eric Drevon kommentierte dies mit den Worten \"La mafia internationale progressiste à l'oeuvre...\", was übersetzt so viel bedeutet wie \"Die progressive internationale Mafia bei der Arbeit...\"\n\nZu diesem Zeitpunkt heißt es abwarten und beobachten. Ich habe mich mit Millers obersten Beratern in Verbindung gesetzt und die Antwort war: \"Wir warten immer noch auf offizielle Informationen und Anweisungen. Ich werde Sie auf dem Laufenden halten.\"\n\nhttps://thedcpatriot.com/just-in-former-trump-adviser-gettr-ceo-jason-miller-detained-in-brazil-by-progressive-supreme-court-after-meeting-with-brazilian-president-over-the-weekend/\nhttps://t.me/valkuerer",
+          "peerid": {
+            "channel_id": 1353947649,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Fabijenna Eine deutsche Liebe",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1184723685,
+            "comments": true,
+            "max_id": 118734,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1436065472
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 1,
+            "replies_pts": 157688
+          },
+          "replyto": {},
+          "silent": false,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 2505
+        },
+        "_ignored": ["message.keyword"]
+      },
+      {
+        "_index": "smat-telegram-data-202109",
+        "_id": "6427630059833611294",
+        "_score": 2.096,
+        "_source": {
+          "archivedon": "2021-09-09 03:01:20.515004",
+          "channelabout": "Open forum for Truthers, Patriots, Freedom Fighters,  Digital Soldiers, Critical Thinkers and Awakened Souls.\n\nWelcome! This Channel belongs to all.\n\nGod Bless!\n💫🔥❤🙏❤🔥💫",
+          "channeltitle": "God Wins!",
+          "channelusername": "LoveAllBeingsWeAreAllOne",
+          "date": 1631153779,
+          "editdate": 1631153780,
+          "edithide": true,
+          "entities": [
+            {
+              "reformatted_key": "MessageEntityUrl",
+              "length": 91,
+              "offset": 3216
+            }
+          ],
+          "forwards": 1,
+          "fromid": {},
+          "fwdfrom": {
+            "channel_post": 6107,
+            "date": 1631117821,
+            "from_id": {
+              "channel_id": 1429771341,
+              "reformatted_key": "PeerChannel"
+            },
+            "post_author": "EndGame1977",
+            "reformatted_key": "MessageFwdHeader",
+            "saved_from_peer": {}
+          },
+          "message": "This is from a friend, thank you. \n\nOn Feb. 17, 2011, President Obama toasted his Alinsky deception of the American public and the world with 13 members of the IBM Eclipse Foundation NSA Spy State in Silicon Valley.\n\nOn Mar. 02, 2015, President Obama and senior adviser, Valerie Jarrett, met with his chief beneficiaries of the Eclipse Foundation code (stolen from Columbus innovator, Leader Technologies): IBM, Xerox, Dell, Micron Technology, Qualcomm and EMC. Given the timing of this meeting―a week after the radical \"Net Neutrality\" changes to Internet regulation by the FCC—the real agenda of this group was most likely to discuss progress on their common agenda— \"The Internet of Things\" ia the takeover of global digital infrastructure. The new Federal Communications Commission ( FCC) facilitated the new order by making changes to Internet regulation.\n\nBrief summary of the MANY smoking guns in this collusion:\n\nOct. 11, 1996 False Statements Accountability Act—parties can lie to Congress and courts)\n\nNov. 29, 2001I BM forms The Eclipse Foundation \n\nJun. 05, 2002 Chandler takes custody of Leader's invention source code \n\nAug. 29, 2002 Leader's invention appears in Eclipse version 2.0.1\n\nAug. 30, 2002 Chandler's notes confirm IBM conspiracy to misappropriate Leader's invention\n\nFeb. 2-5, 2004 IBM Eclipse Con 2004, Facebook goes live\n\nApr. 12, 2004 Anne-Marie Slaughter proposed A New World Order\n\nDec. 08, 2004 IBM\" unable to locate\" originator of Eclipse code—Leader Technologies\n\nSep. 02, 2008 A New World Order to \"Fundamentally transform America\" Sep. 09, 2008Eclipse boasts 191 members) \n\nDec. 12, 2008 (FISA court gives Eric Holder dictatorial powers\n\nJun. 06, 2009 Facebook starts feeding user data to the NSA illegally\n\nJul. 09, 2009 Sidney Blumenthal writes Facebook into Hillary CFR speech\n\nAug. 03, 2009 Fenwick & West LLP disclosed Leader as prior art on Andreessen social patents, but not on Zuckerberg patents they filed\n\nApr. 2010, Zuckerberg refused to provide discovery in Leader v. Facebook\n\nJun. 24, 2010 Leonard P. Stark shoehorned into Leader v. Facebook 30 days before trial; and Larry Summers' chief of staff, Marne L. Levine went to work for Facebook on the same day\n\nAug. 10, 2010 Leonard P. Stark confirmed as judge, just two weeks after the Leader v. Facebook trial\n\nFeb. 17, 2011 Obama dines and toasts with Eclipse members in Silicon Valley\n\nJun. 26, 2012 State Department promoted Facebook use during public litigation that proved Facebook infringes Leader Technologies' patent on 11 of 11 claims and no prior art\n\nJul. 18, 2012 Zuckerberg hard drives re-discovered!\n\nJun. 06, 2013 Edward Snowden exposed illegal NSA activity\n\nFeb. 08, 2015 HSBC whistleblower Hervé Falciani exposed Facebook underwriter Deep State\n\nMar. 02, 2015 Obama met with Technology CEO Council at White House - All \"IBM / NSA The Internet of Things\" Deep State members\n\nOct. 10, 2015 Obama made mystery trip to Qualcomm\n\nOct. 12, 2015 Dell bought EMC - Both Deep State members\n\nDec. 01, 2015 Zuckerberg announces $45 billion of fraudulent conveyances\n\nThe summary above is not exhaustive, but merely representative of the massive fraud and racketeering that has occurred and continues to occur.\n\nhttps://fbcoverup.com/docs/cyberhijack/cyber-hijack-findings.html#clinton-foundation-formed",
+          "peerid": {
+            "channel_id": 1496549244,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "postauthor": "Jenny B",
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1368195920,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 291385
+          },
+          "replyto": {},
+          "silent": true,
+          "userinfo": {
+            "photo": {
+              "photo_big": {},
+              "photo_small": {}
+            },
+            "status": {},
+            "restriction_reason": {}
+          },
+          "v": 1,
+          "views": 90
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}

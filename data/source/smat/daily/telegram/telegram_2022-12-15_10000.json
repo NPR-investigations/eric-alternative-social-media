@@ -1,0 +1,77 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [32],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [1],
+      "relation": ["eq"]
+    },
+    "max_score": [11.7111],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "4599600813680129332",
+        "_score": 11.7111,
+        "_source": {
+          "archivedon": "2022-12-20 11:57:23.097161",
+          "channelabout": "Website • YidInfo.net\nNetwork • @YidNetwork\nAdmin • @YidNetworkFeedback\n\nAdvertise Wth Us For The Best Results!\nContact @YidNetworkFeedback For Rates\n\nGroup • @YidInfoGroup\n\nJoin us on WhatsApp\nhttps://wa.me/19294274795?text=Signup",
+          "channeltitle": "Yid Info",
+          "channelusername": "YidInfo",
+          "date": 1671077995,
+          "editdate": 1671078003,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 8,
+              "offset": 94,
+              "reformatted_key": "MessageEntityMention"
+            }
+          ],
+          "forwards": 4,
+          "groupedid": 1.33686239601736e+16,
+          "message": "New York Mayor Eric Adams enters the Satmar \"Kuf Alef Kislev\" event in Crown Heights tonight.\n@YidInfo",
+          "peerid": {
+            "channel_id": 1070928018,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1219417644,
+            "comments": true,
+            "max_id": 60540,
+            "recent_repliers": [
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1442889284
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1455389209
+              },
+              {
+                "reformatted_key": "PeerUser",
+                "user_id": 1578878541
+              }
+            ],
+            "reformatted_key": "MessageReplies",
+            "replies": 4,
+            "replies_pts": 112509
+          },
+          "silent": false,
+          "v": 1,
+          "views": 1229
+        }
+      }
+    ]
+  }
+}

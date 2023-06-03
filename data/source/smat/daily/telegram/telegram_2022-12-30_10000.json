@@ -1,0 +1,192 @@
+{
+  "created_key": ["date"],
+  "content_key": ["message"],
+  "took": [33],
+  "timed_out": [false],
+  "_shards": {
+    "total": [93],
+    "successful": [93],
+    "skipped": [0],
+    "failed": [0]
+  },
+  "hits": {
+    "total": {
+      "value": [2],
+      "relation": ["eq"]
+    },
+    "max_score": [9.2128],
+    "hits": [
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5782522656259946351",
+        "_score": 9.2128,
+        "_source": {
+          "archivedon": "2022-12-31 00:45:45.887542",
+          "channelabout": "🔔 Telegram's #1 World Breaking News Channel, delivering you breaking news, insightful analysis, and must-see videos.",
+          "channeltitle": "🚨 Breaking911",
+          "channelusername": "Breaking_911",
+          "date": 1672436759,
+          "editdate": 1672436759,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 17,
+              "offset": 0,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://twitter.com/Reuters/status/1608928536630272006"
+            },
+            {
+              "length": 23,
+              "offset": 231,
+              "reformatted_key": "MessageEntityUrl"
+            }
+          ],
+          "forwards": 0,
+          "fwdfrom": {
+            "from_id": {}
+          },
+          "message": "Reuters (Twitter)\n\nChinese tech giant Huawei sees 'business as usual' as U.S. sanctions impact wanes. Despite sales increasing a mere 0.02%, rotating chairman Eric Xu struck an upbeat tone in the company's annual New Year's letter https://reut.rs/3IlZUPU",
+          "peerid": {
+            "channel_id": 1346348472,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "channel_id": 1202647908,
+            "comments": true,
+            "recent_repliers": [],
+            "reformatted_key": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 606689
+          },
+          "silent": false,
+          "v": 1,
+          "views": 2,
+          "reactions": {
+            "recent_reactions": {},
+            "results": {}
+          }
+        },
+        "_ignored": {}
+      },
+      {
+        "_index": "smat-telegram-data-202212",
+        "_id": "5962568484171893920",
+        "_score": 8.0859,
+        "_source": {
+          "archivedon": "1681168176",
+          "channelabout": "Raven Moonstone News",
+          "channeltitle": "Raven Moonstone News",
+          "channelusername": "ravenmoonstoneart",
+          "date": 1672369034,
+          "editdate": 1672374379,
+          "edithide": true,
+          "entities": [
+            {
+              "length": 7,
+              "offset": 261,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 4,
+              "offset": 261,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 15,
+              "offset": 268,
+              "reformatted_key": "MessageEntityMention"
+            },
+            {
+              "length": 15,
+              "offset": 268,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 286,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "http://twitter.com/SGTnewsNetwork"
+            },
+            {
+              "length": 7,
+              "offset": 286,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 7,
+              "offset": 286,
+              "reformatted_key": "MessageEntityItalic"
+            },
+            {
+              "length": 2,
+              "offset": 295,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://instagram.com/sgtnewsnetwork"
+            },
+            {
+              "length": 2,
+              "offset": 295,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 299,
+              "reformatted_key": "MessageEntityTextUrl",
+              "url": "https://truthsocial.com/@SGTnewsNetwork"
+            },
+            {
+              "length": 12,
+              "offset": 299,
+              "reformatted_key": "MessageEntityBold"
+            },
+            {
+              "length": 12,
+              "offset": 299,
+              "reformatted_key": "MessageEntityItalic"
+            }
+          ],
+          "forwards": 4,
+          "fwdfrom": {
+            "channel_post": 39220,
+            "date": 1672262820,
+            "from_id": {
+              "channel_id": 1422038988,
+              "reformatted_key": "PeerChannel"
+            },
+            "imported": false,
+            "reformatted_key": "MessageFwdHeader"
+          },
+          "message": "⚠️FACT CHECK TRUE:\n\"Eric Van Nostrand, BlackRock's former director is senior advisor on economic issues for Ukraine to the current WH.\"\n\nTHIS MEANS YOU CAN NOW ASK: Is the Biden White House prolonging the war in Ukraine for the sake of ENRICHING Blackrock?\n🇺🇸Join👉 @SGTnewsNetwork\n📎Twitter▪️IG▪️Truth Social",
+          "peerid": {
+            "channel_id": 1388268658,
+            "reformatted_key": "PeerChannel"
+          },
+          "pinned": false,
+          "post": true,
+          "reformattedkey": "Message",
+          "replies": {
+            "recent_repliers": {}
+          },
+          "silent": false,
+          "v": 1,
+          "views": 581,
+          "id": 85152,
+          "mediaref": "6c9a6940d2264b1cf4bcddd586db76f2a141fa67",
+          "noforwards": false,
+          "reactions": {
+            "can_see_list": false,
+            "min": false,
+            "recent_reactions": [],
+            "reformatted_key": "MessageReactions",
+            "results": []
+          },
+          "lastseents": "2023-04-10T23:09:36.110992"
+        },
+        "_ignored": ["message.keyword"]
+      }
+    ]
+  }
+}
