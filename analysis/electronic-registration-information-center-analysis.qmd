@@ -62,9 +62,9 @@ readRenviron("~/.Renviron")
 
 # set google sheet id for export for fact check
 
-#drive_auth()
-#gs4_auth(token = drive_token())
-#google_sheet_id = "xxx"
+# drive_auth()
+# gs4_auth(token = drive_token())
+# google_sheet_id = "xxx"
 
 export_df_to_gsheet = function(df,  name, sheet_id = google_sheet_id, export_flag = FALSE){
 
@@ -137,7 +137,7 @@ clean_data_frame = function(df){
 
 ### Description of platforms
 
-Here are all the [platforms that SMAT Montors](https://docs.smat-app.com/docs/guides/data-guide)
+Here are all the [platforms that SMAT monitors](https://docs.smat-app.com/docs/guides/data-guide)
 
 The platforms we chose to focus on are:
 
@@ -890,6 +890,7 @@ Below is the list of urls that I collected after going through the collected url
 
 ls_eric_urls = c(
 "cleaning-voter-rolls-soros-founded-funded-eric-now-used-31-states",
+"whos-cleaning-the-voter-rolls-soros-founded-and-funded-eric",
 "eric-member-states",
 "eric-empty-alabama-secretary-of-state-wes-allen",
 "bombshell-emails-show-eric-systems",
@@ -954,7 +955,8 @@ ls_eric_urls = c(
 "desantis-backs-floridas-entry-into-eric-national-voter",
 "https://andmagazine.substack.com/p/whats-the-connection-between-eric",
 "https://www.thegatewaypundit.com/2022/04/meet-sarah-whitt-official-behind-wisconsin-voter-rolls-included-3-42-million-extra-ineligible-voters/",
-"eric-investigating-pennsylvania-issues-")
+"eric-investigating-pennsylvania-issues-",
+"pennsylvania-gop-personal-voter-data-fraud-security-eric")
 
 cat_table(tibble(url_snippet = ls_eric_urls), "Snippets of URLS related to ERIC")
 
@@ -1018,7 +1020,8 @@ non_eric_phrases_manual = tolower(c(
                    "ericearlyforca.com",
                    "eric the barbaric",
                   "all rinos im eric",
-                   "erictrump"))
+                   "erictrump",
+                   "eric is my 4th cousin"))
 
 # Automated list done earlier in memo
 
@@ -1040,30 +1043,24 @@ cat_table(tibble(not_related_to_eric = non_eric_phrases), "Not related to ERIC")
 # ERIC Phrases ---
 
 eric_phrases = tolower(c("Electronic Registration Information Center",
-                      "leave-eric",
-                      "soros eric",
-                      "soross eric",
+                      "leave-eric",                   
                       "pulled out of eric",
                       "eric-system",
                       "eric system",
                       "shane hamlin",
-                      "eric state",
-                      "eric voters list",
+                      "eric state ",
+                      "eric voters list ",
                       "eric membership",
                       "ericpew",
                       "georgesoros eric",
-                      "eric to manage the states",
-                      "george soros eric",
-                      "george soross eric",
+                      "eric to manage the states",                     
                       "ERIC Voter Database",
-                      "scam of eric",
+                      " scam of eric ",
                       "voter information center",
                       "electronic-registration-information-center",
                       "electronic registration informatoin center",
                       "eric a national voter registry database",
-                      "eric-part-",
-                      "remove eric",
-                      "rid of eric",
+                      "eric-part-",                     
                       "voter registration system",
                       "eric voter registration",
                       "eric voter registration system",
@@ -1107,9 +1104,7 @@ eric_phrases = tolower(c("Electronic Registration Information Center",
                    "dump eric from their elections",
                    "care about election integrity let me introduce you to eric",
                    "electronic regis info sys",
-                   "get rid of eric",
-                   "dumped eric",
-                   "get out of eric",
+                    "dumped eric",                   
                    "eric voter roll manipulation software",
                    "eric which just got exposed as a shadow demcontrolled",
                    "states quit eric",
@@ -1118,12 +1113,11 @@ eric_phrases = tolower(c("Electronic Registration Information Center",
                    "states there is no need for eric",
                    "states terminating eric",
                    "withdrawing from the national voter verification coalition",
-                   "roll clean up tool",
-                   "get eric removed",
+                   "roll clean up tool",                   
                    "removed from eric",
                    "secs of state who are proeric",
                    "give your info to eric",
-                   "use of eric",
+                   " use of eric",
                    "eric took hold in states",
                    "voterrolls",
                    "ericpersonaldata",
@@ -1157,6 +1151,7 @@ words_eric_is_nearby = tolower(c(" voter ",
                            " system ",
                            " election ",
                            " soros ", 
+                           " soross ",
                            "computer voter roll system ",
                            " voter registration ",
                            " voting system ",
@@ -1170,7 +1165,10 @@ words_eric_is_nearby = tolower(c(" voter ",
                            "west virginia missouri and florida",
                            "missouri florida and west virginia",
                            " 33 states ",
-                           " 31 states "
+                           " 31 states ",
+                           "get rid",
+                           "remove",
+                           "get out"
                            ))
 
 words_eric_is_nearby_collapsed = paste(words_eric_is_nearby, collapse = "|")
@@ -1518,7 +1516,7 @@ df_datawrapper_graph = df_eric_all_yes  %>%
         social_source == "gettr" ~ "Gettr",
         social_source == "truthsocial" ~ "Truth Social")) 
 
-# write_csv(df_datawrapper_graph, here("data", "processed", "df_eric_datawrapper_20230603_1.csv"))
+# write_csv(df_datawrapper_graph, here("data", "processed", "df_eric_datawrapper_20230604.csv"))
 ```
 
 
